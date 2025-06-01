@@ -1,0 +1,1001 @@
+﻿ID,Name,Year,Duration,Directors,Actors,Genres,Rating
+1,Dune: Part One,2021,155.0,Denis Villeneuve,"Timothée Chalamet, Rebecca Ferguson, Zendaya","Action, Adventure, Drama",8.0
+2,Spider-Man: No Way Home,2021,148.0,Jon Watts,"Tom Holland, Zendaya, Benedict Cumberbatch","Action, Adventure, Fantasy",8.2
+3,Don't Look Up,2021,138.0,Adam McKay,"Leonardo DiCaprio, Jennifer Lawrence, Meryl Streep","Comedy, Drama, Sci-Fi",7.2
+4,No Time to Die,2021,163.0,Cary Joji Fukunaga,"Daniel Craig, Ana de Armas, Rami Malek","Action, Adventure, Thriller",7.3
+5,Shang-Chi and the Legend of the Ten Rings,2021,132.0,Destin Daniel Cretton,"Simu Liu, Awkwafina, Tony Leung Chiu-wai","Action, Adventure, Fantasy",7.3
+6,Free Guy,2021,115.0,Shawn Levy,"Ryan Reynolds, Jodie Comer, Taika Waititi","Action, Adventure, Comedy",7.1
+7,Zack Snyder's Justice League,2021,242.0,Zack Snyder,"Henry Cavill, Ben Affleck, Gal Gadot","Action, Adventure, Fantasy",7.9
+8,Black Widow,2021,134.0,Cate Shortland,"Scarlett Johansson, Florence Pugh, David Harbour","Action, Adventure, Sci-Fi",6.6
+9,The Suicide Squad,2021,132.0,James Gunn,"Margot Robbie, Idris Elba, John Cena","Action, Adventure, Comedy",7.2
+10,Eternals,2021,156.0,Chloé Zhao,"Gemma Chan, Richard Madden, Angelina Jolie","Action, Adventure, Fantasy",6.2
+11,Nobody,2021,92.0,Ilya Naishuller,"Bob Odenkirk, Aleksey Serebryakov, Connie Nielsen","Action, Crime, Drama",7.4
+12,Red Notice,2021,118.0,Rawson Marshall Thurber,"Dwayne Johnson, Ryan Reynolds, Gal Gadot","Action, Comedy, Thriller",6.3
+13,The Matrix Resurrections,2021,148.0,Lana Wachowski,"Keanu Reeves, Carrie-Anne Moss, Yahya Abdul-Mateen II","Action, Sci-Fi",5.6
+14,Venom: Let There Be Carnage,2021,97.0,Andy Serkis,"Tom Hardy, Woody Harrelson, Michelle Williams","Action, Sci-Fi, Thriller",5.9
+15,Encanto,2021,102.0,"Jared Bush, Byron Howard, Charise Castro Smith","Stephanie Beatriz, María Cecilia Botero, John Leguizamo","Animation, Comedy, Family",7.2
+16,Cruella,2021,134.0,Craig Gillespie,"Emma Stone, Emma Thompson, Joel Fry","Adventure, Comedy, Crime",7.3
+17,Godzilla vs. Kong,2021,113.0,Adam Wingard,"Alexander Skarsgård, Millie Bobby Brown, Rebecca Hall","Action, Sci-Fi, Thriller",6.3
+18,The Tomorrow War,2021,138.0,Chris McKay,"Chris Pratt, Yvonne Strahovski, J.K. Simmons","Action, Adventure, Drama",6.6
+19,Ghostbusters: Afterlife,2021,124.0,Jason Reitman,"Carrie Coon, Paul Rudd, Finn Wolfhard","Adventure, Comedy, Fantasy",7.0
+20,The Black Phone,2021,103.0,Scott Derrickson,"Mason Thames, Madeleine McGraw, Ethan Hawke","Horror, Mystery, Thriller",6.9
+21,Jai Bhim,2021,164.0,T.J. Gnanavel,"Suriya, Lijo Mol Jose, Manikandan K.","Crime, Drama",8.6
+22,Wrath of Man,2021,119.0,Guy Ritchie,"Jason Statham, Holt McCallany, Josh Hartnett","Action, Crime, Thriller",7.1
+23,Jungle Cruise,2021,127.0,Jaume Collet-Serra,"Dwayne Johnson, Emily Blunt, Edgar Ramírez","Action, Adventure, Comedy",6.6
+24,Luca,2021,95.0,Enrico Casarosa,"Jacob Tremblay, Jack Dylan Grazer, Emma Berman","Animation, Adventure, Comedy",7.4
+25,The Power of the Dog,2021,126.0,Jane Campion,"Benedict Cumberbatch, Kirsten Dunst, Jesse Plemons","Drama, Western",6.8
+26,Mortal Kombat,2021,110.0,Simon McQuoid,"Lewis Tan, Jessica McNamee, Josh Lawson","Action, Adventure, Fantasy",6.1
+27,The Last Duel,2021,152.0,Ridley Scott,"Matt Damon, Adam Driver, Jodie Comer","Drama, History, Thriller",7.3
+28,Army of the Dead,2021,148.0,Zack Snyder,"Dave Bautista, Ella Purnell, Ana de la Reguera","Action, Adventure, Crime",5.8
+29,Last Night in Soho,2021,116.0,Edgar Wright,"Thomasin McKenzie, Anya Taylor-Joy, Matt Smith","Drama, Horror, Mystery",7.0
+30,The King's Man,2021,131.0,Matthew Vaughn,"Ralph Fiennes, Gemma Arterton, Rhys Ifans","Action, Adventure, Thriller",6.3
+31,Raya and the Last Dragon,2021,107.0,"Don Hall, Carlos López Estrada, Paul Briggs","Kelly Marie Tran, Awkwafina, Gemma Chan","Animation, Action, Adventure",7.3
+32,Radhe,2021,109.0,Prabhu Deva,"Salman Khan, Disha Patani, Randeep Hooda","Action, Thriller",1.8
+33,CODA,2021,111.0,Sian Heder,"Emilia Jones, Marlee Matlin, Troy Kotsur","Comedy, Drama, Music",8.0
+34,Old,2021,108.0,M. Night Shyamalan,"Gael García Bernal, Vicky Krieps, Rufus Sewell","Drama, Horror, Mystery",5.8
+35,Nightmare Alley,2021,150.0,Guillermo del Toro,"Bradley Cooper, Cate Blanchett, Toni Collette","Crime, Drama, Thriller",7.0
+36,F9: The Fast Saga,2021,143.0,Justin Lin,"Vin Diesel, Michelle Rodriguez, Jordana Brewster","Action, Crime, Thriller",5.2
+37,House of Gucci,2021,158.0,Ridley Scott,"Lady Gaga, Adam Driver, Al Pacino","Biography, Crime, Drama",6.6
+38,The Guilty,2021,90.0,Antoine Fuqua,"Jake Gyllenhaal, Riley Keough, Peter Sarsgaard","Crime, Drama, Thriller",6.3
+39,The French Dispatch,2021,107.0,Wes Anderson,"Benicio Del Toro, Adrien Brody, Tilda Swinton","Comedy, Drama, Romance",7.1
+40,The Conjuring: The Devil Made Me Do It,2021,112.0,Michael Chaves,"Patrick Wilson, Vera Farmiga, Ruairi O'Connor","Horror, Mystery, Thriller",6.3
+41,Licorice Pizza,2021,133.0,Paul Thomas Anderson,"Alana Haim, Cooper Hoffman, Sean Penn","Comedy, Drama, Romance",7.1
+42,King Richard,2021,144.0,Reinaldo Marcus Green,"Will Smith, Aunjanue Ellis-Taylor, Jon Bernthal","Biography, Drama, Sport",7.5
+43,The Mitchells vs. the Machines,2021,114.0,"Michael Rianda, Jeff Rowe","Abbi Jacobson, Danny McBride, Maya Rudolph","Animation, Adventure, Comedy",7.6
+44,The Little Things,2021,128.0,John Lee Hancock,"Denzel Washington, Rami Malek, Jared Leto","Crime, Drama, Mystery",6.3
+45,Shershaah,2021,135.0,Vishnuvardhan,"Sidharth Malhotra, Kiara Advani, Shiv Panditt","Action, Biography, Drama",8.3
+46,The Green Knight,2021,130.0,David Lowery,"Dev Patel, Alicia Vikander, Joel Edgerton","Adventure, Drama, Fantasy",6.6
+47,"tick, tick... BOOM!",2021,115.0,Lin-Manuel Miranda,"Andrew Garfield, Alexandra Shipp, Robin de Jesus","Biography, Comedy, Drama",7.5
+48,The Unforgivable,2021,112.0,Nora Fingscheidt,"Sandra Bullock, Viola Davis, Vincent D'Onofrio","Crime, Drama, Mystery",7.1
+49,Malignant,2021,111.0,James Wan,"Annabelle Wallis, Maddie Hasson, George Young","Crime, Horror, Mystery",6.2
+50,Hitman's Wife's Bodyguard,2021,100.0,Patrick Hughes,"Ryan Reynolds, Samuel L. Jackson, Salma Hayek","Action, Comedy, Crime",6.1
+51,The Worst Person in the World,2021,128.0,Joachim Trier,"Renate Reinsve, Anders Danielsen Lie, Herbert Nordrum","Comedy, Drama, Romance",7.7
+52,Finch,2021,115.0,Miguel Sapochnik,"Tom Hanks, Caleb Landry Jones, Marie Wagenman","Adventure, Drama, Sci-Fi",6.9
+53,Halloween Kills,2021,105.0,David Gordon Green,"Jamie Lee Curtis, Judy Greer, Andi Matichak","Action, Drama, Horror",5.5
+54,Fear Street: Part One - 1994,2021,107.0,Leigh Janiak,"Kiana Madeira, Olivia Scott Welch, Benjamin Flores Jr.","Drama, Horror, Mystery",6.2
+55,West Side Story,2021,156.0,Steven Spielberg,"Ansel Elgort, Rachel Zegler, Ariana DeBose","Crime, Drama, Musical",7.1
+56,Pig,2021,92.0,Michael Sarnoski,"Nicolas Cage, Alex Wolff, Adam Arkin","Drama, Mystery",6.9
+57,Belfast,2021,98.0,Kenneth Branagh,"Jude Hill, Lewis McAskie, Caitríona Balfe","Biography, Drama",7.2
+58,Pushpa: The Rise - Part 1,2021,179.0,Sukumar,"Fahadh Faasil, Samantha Ruth Prabhu, Rashmika Mandanna","Action, Crime, Drama",7.6
+59,Sing 2,2021,110.0,"Garth Jennings, Christophe Lourdelet","Matthew McConaughey, Reese Witherspoon, Scarlett Johansson","Animation, Adventure, Comedy",7.3
+60,Judas and the Black Messiah,2021,126.0,Shaka King,"LaKeith Stanfield, Daniel Kaluuya, Jesse Plemons","Biography, Drama, History",7.4
+61,Army of Thieves,2021,127.0,Matthias Schweighöfer,"Matthias Schweighöfer, Nathalie Emmanuel, Ruby O. Fee","Action, Comedy, Crime",6.4
+62,Farha,2021,92.0,Darin J. Sallam,"Karam Taher, Ashraf Barhom, Ali Suliman",Drama,8.0
+63,The Woman in the Window,2021,100.0,Joe Wright,"Amy Adams, Gary Oldman, Anthony Mackie","Crime, Drama, Mystery",5.7
+64,Master,2021,179.0,Lokesh Kanagaraj,"Joseph Vijay, Vijay Sethupathi, Malavika Mohanan","Action, Crime, Drama",7.4
+65,The Dig,2021,112.0,Simon Stone,"Carey Mulligan, Ralph Fiennes, Lily James","Biography, Drama, History",7.1
+66,Fear Street: Part Two - 1978,2021,109.0,Leigh Janiak,"Sadie Sink, Emily Rudd, Ryan Simpkins","Drama, Horror, Mystery",6.7
+67,Space Jam: A New Legacy,2021,115.0,Malcolm D. Lee,"LeBron James, Don Cheadle, Cedric Joe","Animation, Adventure, Comedy",4.5
+68,Sooryavanshi,2021,145.0,Rohit Shetty,"Akshay Kumar, Katrina Kaif, Ajay Devgn","Action, Crime, Drama",5.9
+69,Candyman,2021,91.0,Nia DaCosta,"Yahya Abdul-Mateen II, Teyonah Parris, Nathan Stewart-Jarrett","Horror, Thriller",5.9
+70,Spencer,2021,117.0,Pablo Larraín,"Kristen Stewart, Timothy Spall, Sally Hawkins","Biography, Drama",6.5
+71,The Lost Daughter,2021,121.0,Maggie Gyllenhaal,"Olivia Colman, Jessie Buckley, Dakota Johnson",Drama,6.7
+72,Coming 2 America,2021,110.0,Craig Brewer,"Eddie Murphy, Arsenio Hall, Shari Headley","Comedy, Music",5.3
+73,Don't Breathe 2,2021,98.0,Rodo Sayagues,"Stephen Lang, Madelyn Grace, Brendan Sexton III","Action, Crime, Horror",6.0
+74,Those Who Wish Me Dead,2021,100.0,Taylor Sheridan,"Angelina Jolie, Nicholas Hoult, Finn Little","Action, Drama, Thriller",6.0
+75,The Harder They Fall,2021,139.0,Jeymes Samuel,"Jonathan Majors, Zazie Beetz, RJ Cyler","Action, Drama, Western",6.6
+76,Kate,2021,106.0,Cedric Nicolas-Troyan,"Mary Elizabeth Winstead, Woody Harrelson, Miku Martineau","Action, Adventure, Crime",6.3
+77,Spiral,2021,93.0,Darren Lynn Bousman,"Chris Rock, Samuel L. Jackson, Max Minghella","Horror, Mystery, Thriller",5.2
+78,Drive My Car,2021,179.0,Ryûsuke Hamaguchi,"Hidetoshi Nishijima, Tôko Miura, Reika Kirishima",Drama,7.5
+79,Fear Street: Part Three - 1666,2021,114.0,Leigh Janiak,"Kiana Madeira, Ashley Zukerman, Gillian Jacobs","Horror, Mystery",6.6
+80,Reminiscence,2021,116.0,Lisa Joy,"Hugh Jackman, Rebecca Ferguson, Thandiwe Newton","Mystery, Romance, Sci-Fi",5.9
+81,Resident Evil: Welcome to Raccoon City,2021,107.0,Johannes Roberts,"Kaya Scodelario, Robbie Amell, Hannah John-Kamen","Action, Horror, Sci-Fi",5.2
+82,The Mauritanian,2021,129.0,Kevin Macdonald,"Tahar Rahim, Nouhe Hamady Bari, Saadna Hamoud","Biography, Drama, Thriller",7.5
+83,Without Remorse,2021,109.0,Stefano Sollima,"Michael B. Jordan, Jodie Turner-Smith, Jamie Bell","Action, Drama, Thriller",5.8
+84,The White Tiger,2021,125.0,Ramin Bahrani,"Adarsh Gourav, Rajkummar Rao, Priyanka Chopra Jonas","Crime, Drama",7.1
+85,The Many Saints of Newark,2021,120.0,Alan Taylor,"Alessandro Nivola, Leslie Odom Jr., Jon Bernthal","Crime, Drama",6.3
+86,Love Hard,2021,104.0,Hernán Jiménez,"Nina Dobrev, Jimmy O. Yang, Darren Barnet","Comedy, Romance",6.3
+87,Infinite,2021,106.0,Antoine Fuqua,"Mark Wahlberg, Chiwetel Ejiofor, Sophie Cookson","Action, Sci-Fi, Thriller",5.5
+88,Escape Room: Tournament of Champions,2021,88.0,Adam Robitel,"Taylor Russell, Logan Miller, Deborah Ann Woll","Action, Adventure, Horror",5.7
+89,Titane,2021,108.0,Julia Ducournau,"Vincent Lindon, Agathe Rousselle, Garance Marillier","Drama, Horror, Sci-Fi",6.5
+90,Stillwater,2021,139.0,Tom McCarthy,"Matt Damon, Camille Cottin, Abigail Breslin","Crime, Drama, Mystery",6.6
+91,Chaos Walking,2021,109.0,Doug Liman,"Tom Holland, Daisy Ridley, Demián Bichir","Action, Adventure, Fantasy",5.7
+92,Blood Red Sky,2021,121.0,Peter Thorwarth,"Peri Baumeister, Carl Anton Koch, Alexander Scheer","Action, Drama, Horror",6.1
+93,Stowaway,2021,116.0,Joe Penna,"Anna Kendrick, Daniel Dae Kim, Shamier Anderson","Adventure, Sci-Fi, Thriller",5.7
+94,In the Heights,2021,143.0,Jon M. Chu,"Anthony Ramos, Corey Hawkins, Leslie Grace","Drama, Musical, Romance",7.2
+95,Gunpowder Milkshake,2021,114.0,Navot Papushado,"Karen Gillan, Lena Headey, Carla Gugino","Action, Crime, Thriller",6.1
+96,The Witcher: Nightmare of the Wolf,2021,83.0,Kwang Il Han,"Theo James, Mary McDonnell, Lara Pulver","Animation, Action, Adventure",7.2
+97,The Ice Road,2021,109.0,Jonathan Hensleigh,"Liam Neeson, Marcus Thomas, Laurence Fishburne","Action, Adventure, Thriller",5.6
+98,Toofaan,2021,163.0,Rakeysh Omprakash Mehra,"Farhan Akhtar, Mrunal Thakur, Paresh Rawal","Drama, Sport",6.1
+99,The Hand of God,2021,130.0,Paolo Sorrentino,"Filippo Scotti, Toni Servillo, Teresa Saponangelo",Drama,7.3
+100,Jujutsu Kaisen 0,2021,112.0,Sunghoo Park,"Megumi Ogata, Kana Hanazawa, Yûichi Nakamura","Animation, Action, Fantasy",7.8
+101,Boiling Point,2021,92.0,Philip Barantini,"Stephen Graham, Vinette Robinson, Alice Feetham","Drama, Thriller",7.5
+102,Sardar Udham,2021,164.0,Shoojit Sircar,"Vicky Kaushal, Shaun Scott, Stephen Hogan","Crime, Drama, History",8.3
+103,Cinderella,2021,112.0,Kay Cannon,"Camila Cabello, Billy Porter, Nicholas Galitzine","Comedy, Family, Fantasy",4.4
+104,Palmer,2021,110.0,Fisher Stevens,"Justin Timberlake, Juno Temple, Alisha Wainwright",Drama,7.3
+105,Antlers,2021,99.0,Scott Cooper,"Keri Russell, Jesse Plemons, Jeremy T. Thomas","Drama, Horror, Mystery",5.9
+106,Thunder Force,2021,106.0,Ben Falcone,"Melissa McCarthy, Octavia Spencer, Jason Bateman","Action, Adventure, Comedy",4.6
+107,Outside the Wire,2021,114.0,Mikael Håfström,"Anthony Mackie, Damson Idris, Enzo Cilenti","Action, Adventure, Fantasy",5.4
+108,Snake Eyes,2021,121.0,Robert Schwentke,"Henry Golding, Andrew Koji, Haruka Abe","Action, Adventure, Crime",5.4
+109,Oxygen,2021,100.0,Alexandre Aja,"Mélanie Laurent, Mathieu Amalric, Malik Zidi","Drama, Fantasy, Sci-Fi",6.5
+110,The Forever Purge,2021,103.0,Everardo Gout,"Ana de la Reguera, Tenoch Huerta, Josh Lucas","Action, Crime, Horror",5.4
+111,The Marksman,2021,108.0,Robert Lorenz,"Katheryn Winnick, Liam Neeson, Teresa Ruiz","Action, Drama, Thriller",5.7
+112,Being the Ricardos,2021,131.0,Aaron Sorkin,"Nicole Kidman, Javier Bardem, J.K. Simmons","Biography, Drama",6.5
+113,The Card Counter,2021,111.0,Paul Schrader,"Oscar Isaac, Tiffany Haddish, Tye Sheridan","Crime, Drama, Thriller",6.2
+114,Fatherhood,2021,109.0,Paul Weitz,"Kevin Hart, Alfre Woodard, Lil Rel Howery","Comedy, Drama",6.6
+115,Mimi,2021,132.0,"Rajesh Bhatia, Laxman Utekar","Kriti Sanon, Evelyn Edwards, Pankaj Tripathi","Comedy, Drama",7.8
+116,No Sudden Move,2021,115.0,Steven Soderbergh,"Don Cheadle, Benicio Del Toro, David Harbour","Crime, Drama, Mystery",6.4
+117,Ron's Gone Wrong,2021,107.0,"Sarah Smith, Jean-Philippe Vine, Octavio E. Rodriguez","Jack Dylan Grazer, Zach Galifianakis, Ed Helms","Animation, Adventure, Comedy",7.1
+118,Drishyam 2,2021,152.0,Jeethu Joseph,"Mohanlal, Meena, Ansiba","Crime, Drama, Mystery",8.4
+119,Dhamaka,2021,103.0,"Ram Madhvani, Heavenveer Singh Hayer","Kartik Aaryan, Mrunal Thakur, Amruta Subhash","Action, Crime, Drama",6.7
+120,Antim: The Final Truth,2021,138.0,Mahesh Manjrekar,"Salman Khan, Aayush Sharma, Mahima Makwana","Action, Crime, Drama",6.1
+121,Malcolm & Marie,2021,106.0,Sam Levinson,"John David Washington, Zendaya","Drama, Romance",6.6
+122,Lamb,2021,106.0,Valdimar Jóhannsson,"Noomi Rapace, Hilmir Snær Guðnason, Björn Hlynur Haraldsson","Drama, Fantasy, Horror",6.3
+123,Copshop,2021,107.0,Joe Carnahan,"Gerard Butler, Frank Grillo, Alexis Louder","Action, Thriller",6.2
+124,The Tragedy of Macbeth,2021,105.0,Joel Coen,"Denzel Washington, Frances McDormand, Alex Hassell","Drama, Mystery, Thriller",7.1
+125,'83,2021,162.0,Kabir Khan,"Ranveer Singh, Deepika Padukone, Tahir Raj Bhasin","Biography, Drama, History",7.5
+126,Willy's Wonderland,2021,88.0,Kevin Lewis,"Nicolas Cage, Emily Tosta, Beth Grant","Action, Comedy, Horror",5.5
+127,Tom & Jerry,2021,101.0,Tim Story,"Chloë Grace Moretz, Michael Peña, Colin Jost","Animation, Adventure, Comedy",5.3
+128,The Voyeurs,2021,116.0,Michael Mohan,"Sydney Sweeney, Justice Smith, Ben Hardy","Drama, Mystery, Romance",6.1
+129,C'mon C'mon,2021,109.0,Mike Mills,"Joaquin Phoenix, Gaby Hoffmann, Woody Norman",Drama,7.3
+130,Old Henry,2021,99.0,Potsy Ponciroli,"Tim Blake Nelson, Scott Haze, Gavin Lewis","Action, Drama, Western",7.3
+131,The Cost of Deception,2021,125.0,Keith English,"Vivianne Bánovits, András Mózes, Barna Bokor","Action, Crime, Drama",1.5
+132,Operation Mincemeat,2021,128.0,John Madden,"Colin Firth, Matthew Macfadyen, Kelly Macdonald","Drama, War",6.6
+133,The Protégé,2021,109.0,Martin Campbell,"Michael Keaton, Maggie Q, Samuel L. Jackson","Action, Crime, Thriller",6.1
+134,The Eyes of Tammy Faye,2021,126.0,Michael Showalter,"Jessica Chastain, Andrew Garfield, Cherry Jones","Biography, Drama, Romance",6.6
+135,Cherry,2021,142.0,"Anthony Russo, Joe Russo","Tom Holland, Ciara Bravo, Jack Reynor","Biography, Crime, Drama",6.6
+136,Red Rocket,2021,130.0,Sean Baker,"Simon Rex, Bree Elrod, Suzanna Son","Comedy, Drama, Romance",7.1
+137,Wrong Turn,2021,109.0,Mike P. Nelson,"Charlotte Vega, Adain Bradley, Bill Sage","Horror, Thriller",5.6
+138,The Fallout,2021,96.0,Megan Park,"Jenna Ortega, Maddie Ziegler, Niles Fitch",Drama,7.0
+139,Parallel Mothers,2021,123.0,Pedro Almodóvar,"Penélope Cruz, Milena Smit, Israel Elejalde",Drama,7.1
+140,Things Heard & Seen,2021,121.0,"Shari Springer Berman, Robert Pulcini","Amanda Seyfried, James Norton, Natalia Dyer","Drama, Horror, Mystery",5.3
+141,Munich: The Edge of War,2021,130.0,Christian Schwochow,"George MacKay, Jannis Niewöhner, Jeremy Irons","Biography, Drama, History",6.8
+142,Jolt,2021,91.0,Tanya Wexler,"Kate Beckinsale, Jai Courtney, Stanley Tucci","Action, Comedy, Crime",5.6
+143,Sweet Girl,2021,110.0,Brian Andrew Mendoza,"Jason Momoa, Isabela Merced, Manuel Garcia-Rulfo","Action, Drama, Thriller",5.5
+144,To All the Boys: Always and Forever,2021,116.0,Michael Fimognari,"Lana Condor, Noah Centineo, Janel Parrish","Comedy, Drama, Romance",6.3
+145,Wish Dragon,2021,98.0,Chris Appelhans,"Jimmy Wong, John Cho, Constance Wu","Animation, Adventure, Comedy",7.2
+146,The Tender Bar,2021,106.0,George Clooney,"Ben Affleck, Tye Sheridan, Daniel Ranieri","Biography, Drama",6.7
+147,Cry Macho,2021,104.0,Clint Eastwood,"Clint Eastwood, Dwight Yoakam, Daniel V. Graulau",Drama,5.7
+148,Seaspiracy,2021,89.0,Ali Tabrizi,"Ali Tabrizi, Richard O'Barry, Lucy Tabrizi","Documentary, Adventure",8.1
+149,The Vault,2021,118.0,Jaume Balagueró,"Freddie Highmore, Astrid Bergès-Frisbey, Sam Riley","Action, Thriller",6.4
+150,Minnal Murali,2021,158.0,Basil Joseph,"Tovino Thomas, Guru Somasundaram, Aju Varghese","Action, Comedy, Drama",7.8
+151,Haseen Dillruba,2021,135.0,Vinil Mathew,"Taapsee Pannu, Vikrant Massey, Harshvardhan Rane","Crime, Drama, Mystery",6.9
+152,Yes Day,2021,86.0,Miguel Arteta,"Jennifer Garner, Edgar Ramírez, Jenna Ortega","Comedy, Family",5.7
+153,Demon Slayer: Kimetsu no Yaiba - Tsuzumi Mansion Arc,2021,87.0,Haruo Sotozaki,,"Animation. Action, Fantasy",8.5
+154,Vacation Friends,2021,103.0,Clay Tarver,"Lil Rel Howery, Yvonne Orji, John Cena","Adventure, Comedy",6.3
+155,14 Peaks: Nothing Is Impossible,2021,101.0,Torquil Jones,"Nirmal Purja, Suchi Purja, Klára Kolouchová","Documentary, Adventure, Sport",7.7
+156,The Hating Game,2021,102.0,Peter Hutchings,"Lucy Hale, Austin Stowell, Damon Daunno","Comedy, Romance",6.2
+157,Marcel the Shell with Shoes On,2021,90.0,Dean Fleischer Camp,"Jenny Slate, Dean Fleischer Camp, Isabella Rossellini","Animation, Comedy, Drama",7.6
+158,A Hero,2021,127.0,Asghar Farhadi,"Amir Jadidi, Mohsen Tanabandeh, Sahar Goldoost",Drama,7.5
+159,Thalaivi,2021,153.0,A.L. Vijay,"Kangana Ranaut, Arvind Swamy, Nassar","Biography, Drama",5.9
+160,The Map of Tiny Perfect Things,2021,98.0,Ian Samuels,"Kathryn Newton, Kyle Allen, Jermaine Harris","Comedy, Fantasy, Romance",6.8
+161,He's All That,2021,88.0,Mark Waters,"Addison Rae, Tanner Buchanan, Madison Pettis","Comedy, Romance",4.4
+162,Space Sweepers,2021,136.0,Sung-hee Jo,"Song Joong-ki, Kim Tae-ri, Jin Seon-kyu","Action, Adventure, Drama",6.5
+163,Moxie,2021,111.0,Amy Poehler,"Hadley Robinson, Lauren Tsai, Alycia Pascual-Pena","Comedy, Drama",6.7
+164,The Unholy,2021,99.0,Evan Spiliotopoulos,"Jeffrey Dean Morgan, Cricket Brown, William Sadler","Drama, Horror, Mystery",5.1
+165,Beckett,2021,110.0,Ferdinando Cito Filomarino,"John David Washington, Boyd Holbrook, Vicky Krieps","Action, Crime, Drama",5.7
+166,A Boy Called Christmas,2021,106.0,Gil Kenan,"Maggie Smith, Isabella O'Sullivan, Joel Fry","Adventure, Drama, Family",6.7
+167,Till Death,2021,91.0,S.K. Dale,"Megan Fox, Eoin Macken, Callan Mulvey","Horror, Thriller",5.9
+168,The Trip,2021,113.0,Tommy Wirkola,"Noomi Rapace, Aksel Hennie, Atle Antonsen","Action, Comedy, Horror",6.9
+169,Voyagers,2021,108.0,Neil Burger,"Colin Farrell, Tye Sheridan, Lily-Rose Depp","Adventure, Mystery, Sci-Fi",5.5
+170,Atrangi Re,2021,138.0,Aanand L. Rai,"Dhanush, Rakesh Poonia, Sara Ali Khan","Comedy, Drama, Fantasy",6.5
+171,Chehre,2021,139.0,Rumi Jaffery,"Amitabh Bachchan, Emraan Hashmi, Krystle D'Souza","Drama, Mystery, Thriller",6.2
+172,Bad Trip,2021,86.0,Kitao Sakurai,"Eric André, Michaela Conlin, Lil Rel Howery",Comedy,6.5
+173,Benedetta,2021,131.0,Paul Verhoeven,"Virginie Efira, Charlotte Rampling, Daphné Patakia","Biography, Drama, Romance",6.7
+174,The Innocents,2021,117.0,Eskil Vogt,"Rakel Lenora Petersen Fløttum, Alva Brynsmo Ramstad, Sam Ashraf","Drama, Fantasy, Horror",7.0
+175,Awake,2021,96.0,Mark Raso,"Gina Rodriguez, Ariana Greenblatt, Lucius Hoyos","Action, Adventure, Drama",4.9
+176,Bhoot Police,2021,129.0,Pavan Kirpalani,"Saif Ali Khan, Arjun Kapoor, Jacqueline Fernandez","Comedy, Horror",6.7
+177,Queenpins,2021,110.0,"Aron Gaudet, Gita Pullapilly","Kristen Bell, Kirby Howell-Baptiste, Paul Walter Hauser","Comedy, Crime",6.4
+178,Werewolves Within,2021,107.0,Josh Ruben,"Sam Richardson, Milana Vayntrub, George Basil","Comedy, Horror, Mystery",6.0
+179,Sarpatta Parambarai,2021,173.0,Pa. Ranjith,"Arya, Pasupathy, John Kokken","Action, Drama, Sport",8.5
+180,Schumacher,2021,112.0,"Hanns-Bruno Kammertöns, Vanessa Nöcker, Michael Wech","Ross Brawn, Flavio Briatore, Luca Cordero di Montezemolo","Documentary, Biography, Sport",7.4
+181,American Underdog,2021,112.0,"Andrew Erwin, Jon Erwin","Zachary Levi, Anna Paquin, Hayden Zaller","Biography, Drama, Romance",7.1
+182,Maanaadu,2021,147.0,Venkat Prabhu,"Silambarasan TR, S.J. Suryah, Kalyani Priyadarshan","Action, Adventure, Sci-Fi",8.2
+183,Shiddat,2021,146.0,Kunal Deshmukh,"Sunny Kaushal, Radhika Madan, Mohit Raina",Romance,7.6
+184,Bhuj: The Pride of India,2021,113.0,Abhishek Dudhaiya,"Ajay Devgn, Sanjay Dutt, Sonakshi Sinha","Action, Drama, History",4.2
+185,After Yang,2021,96.0,Kogonada,"Colin Farrell, Jodie Turner-Smith, Malea Emma Tjandrawidjaja","Drama, Sci-Fi",6.6
+186,Pleasure,2021,109.0,Ninja Thyberg,"Sofia Kappel, Zelda Morrison, Evelyn Claire",Drama,6.3
+187,The Boss Baby: Family Business,2021,107.0,Tom McGrath,"Alec Baldwin, James Marsden, Amy Sedaris","Animation, Adventure, Comedy",5.9
+188,The Kissing Booth 3,2021,112.0,Vince Marcello,"Joey King, Joel Courtney, Jacob Elordi","Comedy, Romance",4.8
+189,Redemption Day,2021,99.0,Hicham Hajji,"Gary Dourdan, Serinda Swan, Andy Garcia","Action, Drama, Thriller",4.5
+190,Karnan,2021,158.0,Mari Selvaraj,"Dhanush, Lal, Rajisha Vijayan","Action, Drama",8.0
+191,The Last Letter from Your Lover,2021,110.0,Augustine Frizzell,"Shailene Woodley, Joe Alwyn, Wendy Nottingham","Drama, Romance",6.7
+192,Bellbottom,2021,123.0,Ranjit Tewari,"Akshay Kumar, Vaani Kapoor, Lara Dutta","Action, Thriller",6.1
+193,8-Bit Christmas,2021,97.0,Michael Dowse,"Winslow Fegley, Neil Patrick Harris, Steve Zahn","Comedy, Family",6.7
+194,Annette,2021,141.0,Leos Carax,"Adam Driver, Marion Cotillard, Simon Helberg","Drama, Musical, Romance",6.3
+195,A Classic Horror Story,2021,95.0,"Roberto De Feo, Paolo Strippoli","Matilda Lutz, Francesco Russo, Peppino Mazzotta","Drama, Horror, Mystery",5.7
+196,The Sadness,2021,99.0,Rob Jabbaz,"Berant Zhu, Regina Lei, Ying-Ru Chen","Horror, Thriller",6.5
+197,Intrusion,2021,92.0,Adam Salky,"Freida Pinto, Logan Marshall-Green, Robert John Burke","Action, Drama, Mystery",5.3
+198,Night Teeth,2021,107.0,Adam Randall,"Jorge Lendeborg Jr., Debby Ryan, Lucy Fry","Action, Crime, Drama",5.7
+199,Silent Night,2021,92.0,Camille Griffin,"Keira Knightley, Matthew Goode, Roman Griffin Davis","Comedy, Drama, Horror",5.8
+200,After We Fell,2021,98.0,Castille Landon,"Josephine Langford, Hero Fiennes Tiffin, Louise Lombard","Drama, Romance",4.8
+201,No One Gets Out Alive,2021,87.0,Santiago Menghini,"Phil Robertson, Joana Borja, Victoria Alcock","Drama, Horror, Mystery",5.4
+202,Vivo,2021,95.0,"Kirk DeMicco, Brandon Jeffords","Lin-Manuel Miranda, Ynairaly Simo, Zoe Saldaña","Animation, Adventure, Comedy",6.7
+203,SAS: Rise of the Black Swan,2021,124.0,Magnus Martens,"Sam Heughan, Ruby Rose, Andy Serkis",Action,5.3
+204,The Electrical Life of Louis Wain,2021,111.0,Will Sharpe,"Benedict Cumberbatch, Claire Foy, Andrea Riseborough","Biography, Drama, History",6.8
+205,The Rescue,2021,107.0,"Jimmy Chin, Elizabeth Chai Vasarhelyi","Bancha Duriyapunt, Apakorn Youkongkaew, Anan Surawan","Documentary, Action, Mystery",8.3
+206,Below Zero,2021,106.0,Lluís Quílez,"Javier Gutiérrez, Karra Elejalde, Luis Callejo","Action, Adventure, Crime",6.2
+207,Mother/Android,2021,110.0,Mattson Tomlin,"Chloë Grace Moretz, Algee Smith, Raúl Castillo","Drama, Sci-Fi, Thriller",5.0
+208,Home Sweet Home Alone,2021,93.0,Dan Mazer,"Ellie Kemper, Rob Delaney, Archie Yates","Comedy, Crime, Family",3.6
+209,Censor,2021,84.0,Prano Bailey-Bond,"Niamh Algar, Michael Smiley, Nicholas Burns","Horror, Mystery, Thriller",6.0
+210,"Batman: The Long Halloween, Part One",2021,85.0,Chris Palmer,"Jensen Ackles, Josh Duhamel, Naya Rivera","Animation, Action, Crime",7.2
+211,Barb and Star Go to Vista Del Mar,2021,107.0,Josh Greenbaum,"Kristen Wiig, Annie Mumolo, Jamie Dornan","Comedy, Fantasy",6.3
+212,Bliss,2021,103.0,Mike Cahill,"Owen Wilson, Salma Hayek, Nesta Cooper","Drama, Romance, Sci-Fi",5.4
+213,There's Someone Inside Your House,2021,96.0,Patrick Brice,"Sydney Park, Théodore Pellerin, Asjha Cooper","Horror, Mystery, Thriller",4.9
+214,Hypnotic,2021,88.0,"Matt Angel, Suzanne Coote","Kate Siegel, Jason O'Mara, Dulé Hill","Horror, Mystery, Thriller",5.3
+215,Single All the Way,2021,99.0,Michael Mayer,"Michael Urie, Philemon Chambers, Luke Macfarlane","Comedy, Drama, Romance",6.2
+216,15/07: Break of Dawn,2021,95.0,Volkan Kocatürk,"Erkan Petekkaya, Baran Bölükbasi, Tugay Mercan","Action, Drama, War",1.2
+217,Flee,2021,89.0,Jonas Poher Rasmussen,"Daniel Karimyar, Fardin Mijdzadeh, Milad Eskandari","Documentary, Animation, Biography",7.9
+218,The Cursed,2021,111.0,Sean Ellis,"Boyd Holbrook, Kelly Reilly, Alistair Petrie","Fantasy, Horror, Mystery",6.2
+219,Dear Evan Hansen,2021,137.0,Stephen Chbosky,"Ben Platt, Julianne Moore, Kaitlyn Dever","Drama, Musical",6.1
+220,Doctor,2021,148.0,Nelson Dilipkumar,"Sivakarthikeyan, Vinay Rai, Priyanka Arulmohan","Action, Comedy, Crime",7.4
+221,Akhanda,2021,167.0,Boyapati Srinu,"Nandamuri Balakrishna, Pragya Jaiswal, Jagapathi Babu","Action, Drama",6.8
+222,Aftermath,2021,114.0,Peter Winther,"Ashley Greene, Shawn Ashmore, Jason Liles","Drama, Horror, Mystery",5.3
+223,Petite Maman,2021,73.0,Céline Sciamma,"Joséphine Sanz, Gabrielle Sanz, Nina Meurisse","Drama, Fantasy",7.4
+224,Belle,2021,121.0,Mamoru Hosoda,"Kaho Nakamura, Ryo Narita, Shôta Sometani","Animation, Adventure, Drama",7.0
+225,Respect,2021,145.0,Liesl Tommy,"Jennifer Hudson, Forest Whitaker, Marlon Wayans","Biography, Drama, Music",6.6
+226,Meenakshi Sundareshwar,2021,140.0,Vivek Soni,"Sanya Malhotra, Abhimanyu Dasani, Shivkumar Subramaniam","Comedy, Romance",6.7
+227,Mass,2021,111.0,Fran Kranz,"Jason Isaacs, Martha Plimpton, Ann Dowd",Drama,7.6
+228,The Deep House,2021,85.0,"Alexandre Bustillo, Julien Maury","Camille Rowe, James Jagger, Eric Savin","Drama, Horror, Mystery",5.3
+229,Swan Song,2021,116.0,Benjamin Cleary,"Mahershala Ali, Naomie Harris, Awkwafina","Drama, Romance, Sci-Fi",6.8
+230,Paranormal Activity: Next of Kin,2021,98.0,William Eubank,"Emily Bader, Roland Buck III, Dan Lippert","Horror, Mystery, Thriller",5.3
+231,"Batman: The Long Halloween, Part Two",2021,87.0,Chris Palmer,"Jensen Ackles, Josh Duhamel, Naya Rivera","Animation, Action, Crime",7.2
+232,Clifford the Big Red Dog,2021,96.0,Walt Becker,"Darby Camp, Jack Whitehall, Izaac Wang","Adventure, Comedy, Family",5.9
+233,Mad God,2021,83.0,Phil Tippett,"Alex Cox, Niketa Roman, Satish Ratakonda","Animation, Fantasy, Horror",6.8
+234,The Shadow in My Eye,2021,107.0,Ole Bornedal,"Bertram Bisgaard, Ester Birch, Ella Josephine Lund Nilsson","Drama, History, War",7.3
+235,Black Box,2021,129.0,Yann Gozlan,"Pierre Niney, Lou de Laâge, André Dussollier","Drama, Mystery, Thriller",7.2
+236,My Son,2021,95.0,Christian Carion,"James McAvoy, Claire Foy, Tom Cullen","Crime, Drama, Mystery",6.0
+237,Compartment Number 6,2021,107.0,Juho Kuosmanen,"Seidi Haarla, Yura Borisov, Dinara Drukarova","Drama, Romance",7.2
+238,Injustice,2021,78.0,Matt Peters,"Justin Hartley, Anson Mount, Laura Bailey","Animation, Action, Adventure",6.4
+239,Passing,2021,98.0,Rebecca Hall,"Tessa Thompson, Ruth Negga, André Holland","Drama, Mystery, Thriller",6.6
+240,#Home,2021,158.0,Rojin Thomas,"Indrans, Sreenath Bhasi, Manju Pillai","Drama, Family",8.7
+241,Land,2021,89.0,Robin Wright,"Robin Wright, Demián Bichir, Sarah Dawn Pledge","Adventure, Drama",6.7
+242,The Big Bull,2021,153.0,Kookie Gulati,"Abhishek Bachchan, Nikita Dutta, Ileana D'Cruz","Biography, Crime, Drama",5.6
+243,Girl in the Basement,2021,88.0,Elisabeth Röhm,"Judd Nelson, Stefanie Scott, Joely Fisher","Crime, Thriller",6.3
+244,The Addams Family 2,2021,93.0,"Conrad Vernon, Greg Tiernan, Laura Brousseau","Oscar Isaac, Charlize Theron, Chloë Grace Moretz","Animation, Adventure, Comedy",5.4
+245,Official Competition,2021,115.0,"Mariano Cohn, Gastón Duprat","Penélope Cruz, Antonio Banderas, Oscar Martínez","Comedy, Drama",7.0
+246,A Castle for Christmas,2021,98.0,Mary Lambert,"Brooke Shields, Cary Elwes, Lee Ross","Adventure, Comedy, Drama",5.6
+247,Satyameva Jayate 2,2021,138.0,Milap Zaveri,"John Abraham, Divya Khossla, Harsh Chhaya","Action, Crime, Drama",3.4
+248,Evangelion: 3.0+1.01 Thrice Upon a Time,2021,155.0,"Mahiro Maeda, Katsuichi Nakayama, Kazuya Tsurumaki","Megumi Ogata, Megumi Hayashibara, Yûko Miyamura","Animation, Action, Drama",8.0
+249,Shyam Singha Roy,2021,155.0,Rahul Sankrityan,"Nani, Sai Pallavi, Krithi Shetty","Drama, Romance",7.6
+250,The Starling,2021,102.0,Theodore Melfi,"Melissa McCarthy, Chris O'Dowd, Kevin Kline","Comedy, Drama",6.4
+251,The Alpinist,2021,92.0,"Peter Mortimer, Nick Rosen","Marc-André Leclerc, Peter Mortimer, Alex Honnold","Documentary, Biography",7.9
+252,Peter Rabbit 2: The Runaway,2021,93.0,Will Gluck,"Rose Byrne, Domhnall Gleeson, David Oyelowo","Animation, Adventure, Comedy",6.2
+253,Kurup,2021,140.0,Srinath Rajendran,"Dulquer Salmaan, Indrajith Sukumaran, Sobhita Dhulipala","Biography, Crime, Drama",7.0
+254,Chandigarh Kare Aashiqui,2021,117.0,Abhishek Kapoor,"Ayushmann Khurrana, Vaani Kapoor, Yograj Singh","Crime, Drama",6.7
+255,The Medium,2021,130.0,Banjong Pisanthanakun,"Narilya Gulmongkolpech, Sawanee Utoomma, Sirani Yankittikan","Drama, Horror, Mystery",6.5
+256,Val,2021,109.0,"Ting Poo, Leo Scott","Val Kilmer, Jack Kilmer, Mercedes Kilmer","Documentary, Biography",7.6
+257,Cyrano,2021,123.0,Joe Wright,"Peter Dinklage, Haley Bennett, Kelvin Harrison Jr.","Drama, Musical, Romance",6.4
+258,The Good Boss,2021,116.0,Fernando León de Aranoa,"Javier Bardem, Manolo Solo, Almudena Amor","Comedy, Drama",7.1
+259,Cosmic Sin,2021,88.0,Edward Drake,"Frank Grillo, Bruce Willis, Brandon Thomas Lee","Action, Sci-Fi",2.5
+260,The United States vs. Billie Holiday,2021,126.0,Lee Daniels,"Andra Day, Trevante Rhodes, Garrett Hedlund","Biography, Drama, Music",6.3
+261,V/H/S/94,2021,103.0,"Simon Barrett, Steven Kostanski, Chloe Okuno","Anna Hopkins, Christian Potenza, Brian Paul","Horror, Mystery, Thriller",5.5
+262,Red Dot,2021,86.0,Alain Darborg,"Nanna Blondell, Anastasios Soulis, Thomas Hanzon","Drama, Horror, Thriller",5.5
+263,The Girl on the Train,2021,120.0,Ribhu Dasgupta,"Parineeti Chopra, Aditi Rao Hydari, Kirti Kulhari","Crime, Drama, Mystery",4.0
+264,Prisoners of the Ghostland,2021,103.0,Sion Sono,"Nicolas Cage, Sofia Boutella, Nick Cassavetes","Fantasy, Horror, Thriller",4.2
+265,The Lady of Heaven,2021,141.0,Eli King,"Denise Black, Gabriel Cartade, Ray Fearon","Action, Drama, History",5.7
+266,Crisis,2021,118.0,Nicholas Jarecki,"Gary Oldman, Armie Hammer, Evangeline Lilly","Drama, Thriller",6.2
+267,The Misfits,2021,94.0,Renny Harlin,"Pierce Brosnan, Tim Roth, Nick Cannon","Adventure, Comedy, Thriller",4.5
+268,Ferry,2021,106.0,Cecilia Verheyden,"Frank Lammers, Elise Schaap, Huub Stapel","Action, Crime, Drama",7.0
+269,"Summer of Soul (...Or, When the Revolution Could Not Be Televised)",2021,118.0,Questlove,"Dorinda Drake, Barbara Bland-Acosta, Darryl Lewis","Documentary, History, Music",8.0
+270,Good on Paper,2021,92.0,Kimmy Gatewood,"Iliza Shlesinger, Britney Young, Christopher Nicholas Smith","Comedy, Romance",5.6
+271,Malik,2021,162.0,Mahesh Narayanan,"Fahadh Faasil, Nimisha Sajayan, Vinay Forrt","Action, Biography, Crime",8.0
+272,Paper Lives,2021,96.0,Can Ulkay,"Çagatay Ulusoy, Emir Ali Dogrul, Ersin Arici",Drama,6.6
+273,Major Grom: Plague Doctor,2021,136.0,Oleg Trofim,"Tikhon Zhiznevskiy, Lyubov Aksyonova, Sergei Goroshko","Action, Comedy, Crime",6.3
+274,Last Man Down,2021,87.0,Fansu Njie,"Daniel Stisen, Olga Kent, Daniel Nehme","Action, Sci-Fi",3.5
+275,I'm Your Man,2021,108.0,Maria Schrader,"Maren Eggert, Dan Stevens, Sandra Hüller","Comedy, Drama, Romance",7.1
+276,Deadly Illusions,2021,114.0,Anna Elizabeth James,"Kristin Davis, Dermot Mulroney, Greer Grammer","Crime, Drama, Mystery",3.8
+277,Firebird,2021,107.0,Peeter Rebane,"Tom Prior, Oleg Zagorodnii, Diana Pozharskaya","Biography, Drama, Romance",7.1
+278,Locked Down,2021,118.0,Doug Liman,"Chiwetel Ejiofor, Anne Hathaway, Sonic","Comedy, Crime, Romance",5.3
+279,The Colony,2021,104.0,Tim Fehlbaum,"Nora Arnezeder, Iain Glen, Sarah-Sofie Boussnina","Action, Adventure, Sci-Fi",5.4
+280,Last Looks,2021,110.0,Tim Kirkby,"Charlie Hunnam, Mel Gibson, Lucy Fry","Action, Comedy, Crime",5.8
+281,Happening,2021,100.0,Audrey Diwan,"Anamaria Vartolomei, Kacey Mottet Klein, Luàna Bajrami",Drama,7.4
+282,Toma,2021,140.0,"Dragan Bjelogrlic, Zoran Lisinac","Milan Maric, Tamara Dragicevic, Petar Bencina","Biography, Drama, Music",8.6
+283,Wolf,2021,99.0,Nathalie Biancheri,"George MacKay, Stuart Graham, Helen Behan","Drama, Mystery, Thriller",5.1
+284,Fauci,2021,104.0,"John Hoffman, Janet Tobias","Bono, George W. Bush, Francis Collins","Documentary, Biography, History",6.5
+285,Jagame Thandhiram,2021,158.0,Karthik Subbaraj,"Dhanush, James Cosmo, Aishwarya Lekshmi","Action, Crime, Drama",5.8
+286,Rashmi Rocket,2021,129.0,Akarsh Khurana,"Taapsee Pannu, Priyanshu Painyuli, Abhishek Banerjee","Drama, Sport",7.2
+287,Vakeel Saab,2021,153.0,Venu Sriram,"Pawan Kalyan, Nivetha Thomas, Anjali","Action, Drama, Thriller",6.9
+288,Clean,2021,94.0,Paul Solet,"Adrien Brody, Glenn Fleshler, Richie Merritt","Action, Crime, Drama",5.6
+289,In the Earth,2021,107.0,Ben Wheatley,"Joel Fry, Reece Shearsmith, Hayley Squires","Drama, Horror, Mystery",5.1
+290,Memoria,2021,136.0,Apichatpong Weerasethakul,"Tilda Swinton, Agnes Brekke, Daniel Giménez Cacho","Drama, Mystery, Sci-Fi",6.4
+291,Finding 'Ohana,2021,123.0,Jude Weng,"Kea Peahu, Alex Aiono, Lindsay Watson","Action, Adventure, Comedy",6.1
+292,Midnight in the Switchgrass,2021,99.0,Randall Emmett,"Emile Hirsch, Megan Fox, Bruce Willis","Crime, Mystery, Thriller",4.6
+293,First Signal,2021,102.0,Mark Lund,"Paul Noonan, Conor Timmis, Wendy Hartman","Drama, Sci-Fi",3.3
+294,Nitram,2021,112.0,Justin Kurzel,"Caleb Landry Jones, Judy Davis, Sean Keenan","Crime, Drama, Thriller",7.1
+295,Sherni,2021,131.0,Amit Masurkar,"Vidya Balan, Vijay Raaz, Brijendra Kala","Action, Adventure, Drama",6.8
+296,Joji,2021,113.0,Dileesh Pothan,"Basil Joseph, Fahadh Faasil, Dileesh Pothan","Crime, Drama",7.8
+297,Rurouni Kenshin: Final Chapter Part II - The Beginning,2021,137.0,Keishi Otomo,"Takeru Satoh, Kasumi Arimura, Yôsuke Eguchi","Action, Adventure, Drama",7.4
+298,Stuck Apart,2021,96.0,"Durul Taylan, Yagmur Taylan","Engin Günaydin, Haluk Bilginer, Binnur Kaya","Comedy, Drama",6.0
+299,Back to the Outback,2021,95.0,"Harry Cripps, Clare Knight","Eric Bana, Tim Minchin, Miranda Tapsell","Animation, Adventure, Comedy",6.5
+300,The Humans,2021,108.0,Stephen Karam,"Richard Jenkins, Jayne Houdyshell, Amy Schumer",Drama,6.1
+301,Rurouni Kenshin: Final Chapter Part I - The Final,2021,138.0,Keishi Otomo,"Takeru Satoh, Mackenyu, Emi Takei","Action, Adventure, Drama",7.2
+302,Blue Bayou,2021,117.0,Justin Chon,"Justin Chon, Alicia Vikander, Mark O'Brien","Crime, Drama",7.1
+303,Encounter,2021,108.0,Michael Pearce,"Riz Ahmed, Octavia Spencer, Lucian-River Chauhan","Drama, Sci-Fi, Thriller",5.9
+304,Roohi,2021,134.0,"Hardik Mehta, Jaspal Singh","Rajkummar Rao, Janhvi Kapoor, Varun Sharma","Comedy, Horror",4.3
+305,Not to Forget,2021,84.0,Valerio Zanoli,"Karen Grassle, Louis Gossett Jr., Tatum O'Neal",Drama,5.1
+306,Afterlife of the Party,2021,109.0,Stephen Herek,"Victoria Justice, Midori Francis, Robyn Scott","Comedy, Drama, Fantasy",5.8
+307,Sanak,2021,116.0,Kanishk Varma,"Vidyut Jammwal, Neha Dhupia, Ivy Haralson","Action, Thriller",6.6
+308,Annaatthe,2021,163.0,Siva,"Rajinikanth, Aditya Nath Uppal, Keerthy Suresh","Action, Comedy, Drama",4.0
+309,Chernobyl: Abyss,2021,136.0,Danila Kozlovsky,"Danila Kozlovsky, Oksana Akinshina, Filipp Avdeev","Drama, History",5.2
+310,Emergency Declaration,2021,141.0,Han Jae-rim,"Song Kang-ho, Lee Byung-hun, Jeon Do-yeon","Action, Drama, Thriller",6.8
+311,Nightbooks,2021,103.0,David Yarovesky,"Winslow Fegley, Lidya Jewett, Krysten Ritter","Family, Fantasy, Horror",5.8
+312,Bergman Island,2021,112.0,Mia Hansen-Løve,"Vicky Krieps, Tim Roth, Mia Wasikowska","Comedy, Drama, Romance",6.6
+313,Roadrunner: A Film About Anthony Bourdain,2021,119.0,Morgan Neville,"Asia Argento, Anthony Bourdain, Ariane Bourdain",Documentary,7.7
+314,American Sicario,2021,101.0,RJ Collins,"Philippe A. Haddad, Maurice Compte, Maya Stojan","Action, Crime, Drama",4.2
+315,"Paris, 13th District",2021,105.0,Jacques Audiard,"Lucie Zhang, Makita Samba, Noémie Merlant","Comedy, Drama, Romance",7.0
+316,Pagglait,2021,114.0,"Umesh Bist, Mukesh Kumar, Chaudhari Mitesh","Sanya Malhotra, Sayani Gupta, Sheeba Chaddha","Comedy, Drama",6.9
+317,Lansky,2021,119.0,Eytan Rockaway,"Harvey Keitel, Sam Worthington, John Magaro","Biography, Crime, Drama",6.2
+318,The Forgiven,2021,117.0,John Michael McDonagh,"Aissam Taamart, Omar Ghazaoui, David McSavage",Drama,6.1
+319,Wheel of Fortune and Fantasy,2021,121.0,Ryûsuke Hamaguchi,"Kotone Furukawa, Ayumu Nakajima, Hyunri","Drama, Romance",7.5
+320,Dangerous,2021,99.0,David Hackl,"Scott Eastwood, Kevin Durand, Famke Janssen","Action, Thriller",5.2
+321,The Great Indian Kitchen,2021,100.0,Jeo Baby,"Nimisha Sajayan, Suraj Venjaramoodu, Ajitha V.M.","Comedy, Drama, Family",8.1
+322,The Silence of Swastika,2021,56.0,Anuj Bhardwaj,Suzanne Bernert,"Documentary, History",8.9
+323,Fear of Rain,2021,109.0,Castille Landon,"Katherine Heigl, Harry Connick Jr., Madison Iseman","Drama, Horror, Mystery",5.9
+324,Pogaru,2021,160.0,Nanda Kishore,"Dhruva Sarja, Rashmika Mandanna, Sampath Raj",Action,3.6
+325,Vortex,2021,142.0,Gaspar Noé,"Dario Argento, Françoise Lebrun, Alex Lutz",Drama,7.4
+326,The Virtuoso,2021,110.0,Nick Stagliano,"Anson Mount, Abbie Cornish, Anthony Hopkins","Action, Thriller",5.0
+327,The Last Mercenary,2021,110.0,David Charhon,"Jean-Claude Van Damme, Alban Ivanov, Samir Decazza","Action, Adventure, Comedy",5.3
+328,Vengeance Is Mine,2021,79.0,Hadi Hajaig,"Con O'Neill, Sarah-Jane Potts, Anton Valensi","Action, Thriller",5.0
+329,Mumbai Saga,2021,135.0,Sanjay Gupta,"John Abraham, Emraan Hashmi, Mahesh Manjrekar","Action, Crime, History",5.8
+330,Infinitum: Subject Unknown,2021,86.0,Matthew Butler-Hart,"Tori Butler-Hart, Ian McKellen, Conleth Hill","Mystery, Sci-Fi",4.0
+331,State of Siege: Temple Attack,2021,110.0,Ken Ghosh,"Akshaye Khanna, Gautam Rode, Vivek Dahiya","Action, Thriller",7.6
+332,No Man of God,2021,100.0,Amber Sealey,"Elijah Wood, Luke Kirby, Aleksa Palladino","Biography, Crime, Drama",6.4
+333,Justice Society: World War II,2021,84.0,Jeff Wamester,"Stana Katic, Matt Bomer, Omid Abtahi","Animation, Action, Adventure",6.4
+334,7 Prisoners,2021,93.0,Alexandre Moratto,"Christian Malheiros, Rodrigo Santoro, Lucas Oranmian","Crime, Drama",7.1
+335,Payback,2021,91.0,Joseph Mensch,"Matt Levett, Toby Leonard Moore, Anna Baryshnikov","Drama, Thriller",5.1
+336,On the Count of Three,2021,86.0,Jerrod Carmichael,"Jerrod Carmichael, Christopher Abbott, Tiffany Haddish","Comedy, Crime, Drama",7.0
+337,Kaagaz,2021,109.0,Satish Kaushik,"Pankaj Tripathi, Monal Gajjar, Mita Vashisht","Biography, Comedy, Drama",7.3
+338,Bull,2021,88.0,Paul Andrew Williams,"David Nellist, Kevin Harvey, Mark Springer","Crime, Thriller",6.5
+339,Together Together,2021,90.0,Nikole Beckwith,"Patti Harrison, Ed Helms, Rosalind Chao","Comedy, Drama",6.4
+340,Prey,2021,87.0,Thomas Sieben,"David Kross, Hanno Koffler, Maria Ehrich","Adventure, Drama, Thriller",4.3
+341,Nayattu,2021,124.0,Martin Prakkat,"Kunchacko Boban, Joju George, Nimisha Sajayan","Crime, Thriller",8.0
+342,The Summit of the Gods,2021,95.0,Patrick Imbert,"Lazare Herson-Macarel, Éric Herson-Macarel, Damien Boisseau","Animation, Adventure, Drama",7.5
+343,12 Mighty Orphans,2021,118.0,Ty Roberts,"Luke Wilson, Vinessa Shaw, Wayne Knight","History, Sport",6.9
+344,Marakkar: Lion of the Arabian Sea,2021,181.0,Priyadarshan,"Mohanlal, Arjun Sarja, Suniel Shetty","Action, Drama, History",5.8
+345,Music,2021,107.0,Sia,"Kate Hudson, Leslie Odom Jr., Maddie Ziegler","Drama, Musical, Thriller",3.2
+346,Great White,2021,91.0,Martin Wilson,"Katrina Bowden, Aaron Jakubenko, Kimie Tsukakoshi","Horror, Thriller",4.2
+347,Billie Eilish: The World's a Little Blurry,2021,140.0,R.J. Cutler,"Billie Eilish, Finneas O'Connell, Maggie Baird","Documentary, Biography, Drama",7.7
+348,Black Friday,2021,84.0,Casey Tebo,"Devon Sawa, Ivana Baquero, Ryan Lee","Comedy, Horror",4.7
+349,Rumble,2021,95.0,Hamish Grieve,"Geraldine Viswanathan, Will Arnett, Stephen A. Smith","Animation, Comedy, Family",5.9
+350,Midnight,2021,103.0,Oh-Seung Kwon,"Jin Ki-joo, Wi Ha-joon, Park Hoon","Crime, Thriller",6.5
+351,Operation Varsity Blues,2021,100.0,Chris Smith,"Matthew Modine, Roger Rignack, Jillian Peterson","Documentary, Crime, Drama",6.9
+352,Sandeep Aur Pinky Faraar,2021,125.0,Dibakar Banerjee,"Jaideep Ahlawat, Arjun Kapoor, Parineeti Chopra","Comedy, Crime, Drama",6.3
+353,American Night,2021,123.0,Alessio Della Valle,"Jonathan Rhys Meyers, Emile Hirsch, Paz Vega","Action, Crime, Drama",4.4
+354,PAW Patrol: The Movie,2021,86.0,Cal Brunker,"Tyler Perry, Ron Pardo, Will Brisbin","Animation, Action, Adventure",6.1
+355,Sentinelle,2021,80.0,Julien Leclercq,"Olga Kurylenko, Marilyn Lima, Michel Nabokoff","Action, Drama, Thriller",4.8
+356,Mandela,2021,140.0,Madonne Ashwin,"Yogi Babu, Sheela Rajkumar, Sangili Murugan","Comedy, Drama",8.3
+357,Methagu,2021,100.0,Kittu,"Lizzie Antony, Eshwar Basha, Chandrasekar","Biography, History",8.5
+358,Mortal Kombat Legends: Battle of the Realms,2021,80.0,Ethan Spaulding,"Jennifer Carpenter, Joel McHale, Ike Amadi","Animation, Action, Adventure",6.5
+359,Garuda Gamana Vrishabha Vahana,2021,151.0,Raj B. Shetty,"Raj B. Shetty, Rishab Shetty, Gopalkrishna Deshpande","Crime, Drama, Thriller",8.2
+360,Spoiled Brats,2021,95.0,Nicolas Cuche,"Gérard Jugnot, Camille Lou, Artus",Comedy,6.1
+361,The Phantom of the Open,2021,106.0,Craig Roberts,"Mark Rylance, Ian Porter, Tommy Fallon","Biography, Comedy, Drama",7.0
+362,Coming Home in the Dark,2021,93.0,James Ashcroft,"Daniel Gillies, Erik Thomson, Miriama McDowell","Crime, Horror, Thriller",5.7
+363,The Burning Sea,2021,104.0,John Andreas Andersen,"Kristine Kujath Thorp, Henrik Bjelland, Rolf Kristian Larsen","Action, Drama, Thriller",6.3
+364,Jathi Ratnalu,2021,145.0,Anudeep K.V.,"Naveen Polishetty, Rahul Ramakrishna, Priyadarshi Pulikonda",Comedy,7.4
+365,Wired Shut,2021,95.0,Alexander Sharp,"Blake Stadel, Natalie Sharp, Behtash Fazlali","Horror, Mystery, Thriller",4.4
+366,Eiffel,2021,108.0,Martin Bourboulon,"Romain Duris, Emma Mackey, Pierre Deladonchamps","Biography, Drama, History",6.2
+367,The Princess Switch 3,2021,106.0,Mike Rohl,"Vanessa Hudgens, Remy Hii, Sam Palladio","Comedy, Drama, Family",5.6
+368,Blue Miracle,2021,95.0,Julio Quintana,"Dennis Quaid, Jimmy Gonzales, Miguel Angel Garcia","Adventure, Biography, Drama",6.6
+369,The Desperate Hour,2021,84.0,Phillip Noyce,"Naomi Watts, Colton Gobbo, Andrew Chown",Thriller,4.9
+370,Britney vs Spears,2021,93.0,Erin Lee Carr,"Britney Spears, Erin Lee Carr, Jenny Eliscu","Documentary, Biography, Crime",6.4
+371,Stuck Together,2021,125.0,Dany Boon,"Dany Boon, François Damiens, Laurence Arné",Comedy,6.3
+372,The Priest,2021,140.0,Jofin T. Chacko,"Mammootty, Nikhila Vimal, Manju Warrier","Horror, Mystery, Thriller",6.0
+373,Great Freedom,2021,116.0,Sebastian Meise,"Franz Rogowski, Georg Friedrich, Anton von Lucke",Drama,7.5
+374,The Manor,2021,81.0,Axelle Carolyn,"Barbara Hershey, Bruce Davison, Nicholas Alexander","Horror, Mystery",5.3
+375,Amira,2021,98.0,Mohamed Diab,"Saba Mubarak, Ali Suliman, Tara Abboud",Drama,4.1
+376,Bob Biswas,2021,131.0,Diya Annapurna Ghosh,"Abhishek Bachchan, Chitrangda Singh, Paran Banerjee","Action, Crime, Drama",6.7
+377,Honsla Rakh,2021,145.0,Amarjit Singh Saron,"Diljit Dosanjh, Sonam Bajwa, Shehnaaz Gill","Comedy, Drama, Romance",7.3
+378,See for Me,2021,92.0,Randall Okita,"Kim Coates, Jessica Parker Kennedy, Laura Vandervoort","Crime, Drama, Horror",5.8
+379,Everybody's Talking About Jamie,2021,115.0,"Jonathan Butterell, Dan Gillespie Sells, Tom MacRae","Max Harwood, Lauren Patel, Sarah Lancashire","Biography, Comedy, Drama",6.6
+380,Hum Do Hamare Do,2021,128.0,Abhishek Jain,"Rajkummar Rao, Kriti Sanon, Paresh Rawal",Comedy,6.0
+381,The Girl Who Got Away,2021,116.0,Michael Morrissey,"Lexi Johnson, Chukwudi Iwuji, Kaye Tuckerman","Horror, Thriller",5.3
+382,Escape from Mogadishu,2021,121.0,Ryoo Seung-wan,"Kim Yoon-seok, Zo In-sung, Huh Joon-ho","Action, Drama, Thriller",7.0
+383,Sundown,2021,82.0,Michel Franco,"Tim Roth, Charlotte Gainsbourg, Samuel Bottomley","Drama, Mystery",6.6
+384,False Positive,2021,92.0,John Lee,"Ilana Glazer, Justin Theroux, Gretchen Mol","Horror, Mystery, Thriller",4.6
+385,Father Christmas Is Back,2021,105.0,"Mick Davis, Philippe Martinez","Elizabeth Hurley, John Cleese, Kelsey Grammer",Comedy,4.6
+386,We're All Going to the World's Fair,2021,86.0,Jane Schoenbrun,"Anna Cobb, Michael J Rogers, Turner Greaves","Drama, Horror",5.4
+387,Freaks Out,2021,141.0,Gabriele Mainetti,"Claudio Santamaria, Aurora Giovinazzo, Pietro Castellitto","Adventure, Drama, Fantasy",6.9
+388,Batman: Soul of the Dragon,2021,83.0,Sam Liu,"David Giuntoli, Mark Dacascos, Kelly Hu","Animation, Action, Adventure",6.1
+389,America: The Motion Picture,2021,98.0,Matt Thompson,"Channing Tatum, Jason Mantzoukas, Olivia Munn","Animation, Action, Adventure",5.6
+390,Breaking News in Yuba County,2021,96.0,Tate Taylor,"Allison Janney, Mila Kunis, Regina Hall","Comedy, Crime, Drama",5.8
+391,Every Breath You Take,2021,105.0,Vaughn Stein,"Casey Affleck, Michelle Monaghan, Sam Claflin","Drama, Mystery, Thriller",5.4
+392,I Am All Girls,2021,107.0,Donovan Marsh,"Erica Wessels, Hlubi Mboya, Leshego Molokwane","Crime, Drama, Mystery",6.0
+393,Girl Next,2021,102.0,Larry Wade Carrell,"Marcus Jean Pirae, Lacey Cofran, Paula Marcenaro Solinger","Horror, Thriller",3.6
+394,Hideout,2021,114.0,Kris Roselli,"Katie Lyons, Chris Wolfe, Bryan Enright","Horror, Mystery, Thriller",4.2
+395,Krack,2021,154.0,Gopichand Malineni,"Ravi Teja, Shruti Haasan, Sudhakar Komakula","Action, Drama",6.9
+396,Hit the Road,2021,93.0,Panah Panahi,"Pantea Panahiha, Mohammad Hassan Madjooni, Rayan Sarlak","Comedy, Drama, Music",7.2
+397,The Novice,2021,97.0,Lauren Hadaway,"Isabelle Fuhrman, Amy Forsyth, Dilone","Drama, Sport",6.5
+398,Long Story Short,2021,90.0,Josh Lawson,"Rafe Spall, Zahra Newman, Ronny Chieng","Comedy, Fantasy, Romance",6.6
+399,One Shot,2021,96.0,James Nunn,"Scott Adkins, Ashley Greene, Ryan Phillippe","Action, Adventure, Crime",5.7
+400,Hellbender,2021,86.0,"John Adams, Zelda Adams, Toby Poser","Zelda Adams, Toby Poser, Lulu Adams",Horror,5.8
+401,The Dunes,2021,98.0,Martin Copping,"Tim Phillipps, Alexandra Davies, Martin Copping",Thriller,6.6
+402,Gaia,2021,96.0,Jaco Bouwer,"Monique Rockman, Carel Nel, Alex van Dyk","Drama, Fantasy, Horror",5.6
+403,Dashcam,2021,80.0,Rob Savage,"Annie Hardy, Amar Chadha-Patel, Angela Enahoro",Horror,4.5
+404,A House on the Bayou,2021,88.0,Alex McAulay,"Angela Sarafyan, Paul Schneider, Lia McHugh","Horror, Mystery, Thriller",5.6
+405,Resort to Love,2021,101.0,Steven K. Tsuchida,"Christina Milian, Tymberlee Hill, Kayne Lee Harrison","Comedy, Romance",5.7
+406,The Secret of Sinchanee,2021,115.0,Steven Grayhm,"Steven Grayhm, Nate Boyer, Laila Lockhart Kraner","Horror, Mystery, Thriller",5.6
+407,Best Sellers,2021,102.0,Lina Roessler,"Michael Caine, Aubrey Plaza, Scott Speedman","Comedy, Drama",6.2
+408,Silk Road,2021,112.0,Tiller Russell,"Nick Robinson, Jennifer Yun, Jimmi Simpson","Crime, Drama, Thriller",6.0
+409,Lost Illusions,2021,149.0,Xavier Giannoli,"Benjamin Voisin, Cécile de France, Vincent Lacoste","Drama, Romance",7.4
+410,My True Fairytale,2021,86.0,D. Mitry,"Emma Kennedy, B.J. Mitchell, Morgan Lindholm","Drama, Mystery",5.4
+411,The Accursed,2021,84.0,"Kathryn Michelle, Elizabeta Vidovic","Yancy Butler, Izabela Vidovic, George H. Xanthis","Drama, Horror, Mystery",4.3
+412,All My Friends Hate Me,2021,93.0,Andrew Gaynord,"Christopher Fairbank, Georgina Campbell, Dustin Demri-Burns","Comedy, Horror",6.3
+413,Yara,2021,96.0,Marco Tullio Giordana,"Isabella Ragonese, Alessio Boni, Thomas Trabacchi","Crime, Drama, Thriller",6.3
+414,7 Women and a Murder,2021,82.0,Alessandro Genovesi,"Margherita Buy, Diana Del Bufalo, Sabrina Impacciatore","Comedy, Crime, Mystery",5.4
+415,"Bob Ross: Happy Accidents, Betrayal & Greed",2021,92.0,Joshua Rofé,"Bob Ross, Steve Ross, Vicky Ross",Documentary,6.9
+416,The Advent Calendar,2021,104.0,Patrick Ridremont,"Eugénie Derouand, Honorine Magnier, Clément Olivieri","Horror, Thriller",6.3
+417,Chhorii,2021,129.0,Vishal Furia,"Nushrratt Bharuccha, Mita Vashisht, Rajesh Jais","Drama, Horror, Thriller",6.7
+418,The Beta Test,2021,93.0,"Jim Cummings, PJ McCabe","Jim Cummings, Virginia Newcomb, PJ McCabe","Comedy, Drama, Mystery",6.1
+419,The Survivor,2021,129.0,Barry Levinson,"Ben Foster, Billy Magnussen, Vicky Krieps","Biography, Drama, History",6.7
+420,Son,2021,98.0,Ivan Kavanagh,"Andi Matichak, Emile Hirsch, Luke David Blumm","Horror, Thriller",5.6
+421,Ennio,2021,150.0,Giuseppe Tornatore,"Ennio Morricone, Gino Paoli, Quincy Jones","Documentary, Biography, History",8.2
+422,Flora & Ulysses,2021,95.0,Lena Khan,"Matilda Lawler, Alyson Hannigan, Ben Schwartz","Adventure, Comedy, Family",6.2
+423,Apex,2021,93.0,Edward Drake,"Neal McDonough, Bruce Willis, Corey Large","Drama, Sci-Fi",3.0
+424,Crazy About Her,2021,102.0,Dani de la Orden,"Álvaro Cervantes, Susana Abaitua, Luis Zahera","Comedy, Romance",6.6
+425,Hungama 2,2021,156.0,Priyadarshan,"Paresh Rawal, Meezaan Jafri, Shilpa Shetty Kundra","Comedy, Drama, Romance",3.2
+426,Kuruthi,2021,122.0,Manu Warrier,"Prithviraj Sukumaran, Roshan Mathew, Mammukoya",Thriller,7.5
+427,Ajeeb Daastaans,2021,142.0,"Neeraj Ghaywan, Kayoze Irani, Rahul Kamboj","Fatima Sana Shaikh, Jaideep Ahlawat, Armaan Ralhan","Drama, Romance",6.7
+428,Trollhunters: Rise of the Titans,2021,104.0,"Johane Matte, Francisco Ruiz-Velasco, Andrew L. Schmidt","Steve Alterman, Kay Bess, Brian Blessed","Animation, Action, Adventure",6.6
+429,Settlers,2021,103.0,Wyatt Rockefeller,"Sofia Boutella, Ismael Cruz Cordova, Brooklynn Prince","Drama, Sci-Fi, Thriller",4.8
+430,Full Time,2021,88.0,Eric Gravel,"Laure Calamy, Anne Suarez, Geneviève Mnich",Drama,7.4
+431,Delicious,2021,112.0,Éric Besnard,"Grégory Gadebois, Isabelle Carré, Benjamin Lavernhe","Comedy, Drama, History",7.0
+432,Suedi,2021,89.0,Manuel Concha,"Kardo Razzazi, Agnes Lindström Bolmgren, Suzanne Reuter","Comedy, Drama",5.9
+433,Red Stone,2021,97.0,Derek Presley,"Neal McDonough, Dash Melrose, Michael Cudlitz","Crime, Drama, Mystery",5.0
+434,You Are Not My Mother,2021,93.0,Kate Dolan,"Hazel Doupe, Carolyn Bracken, Ingrid Craigie","Drama, Horror",5.8
+435,My Hero Academia: World Heroes' Mission,2021,101.0,Kenji Nagasaki,"Daiki Yamashita, Nobuhiko Okamoto, Yûki Kaji","Animation, Action, Adventure",7.0
+436,Tina,2021,118.0,"Daniel Lindsay, T.J. Martin","Tina Turner, Carl Arrington, Ike Turner","Documentary, Biography, Music",7.9
+437,Raging Fire,2021,126.0,"Benny Chan, Shane Comley-White","Donnie Yen, Nazeeh Tarsha, Simon Yam","Action, Adventure, Crime",6.5
+438,Demonic,2021,104.0,Neill Blomkamp,"Carly Pope, Chris William Martin, Michael J Rogers","Drama, Horror, Sci-Fi",4.3
+439,Sunny,2021,93.0,Ranjith Sankar,"Jayasurya, Shritha Sivadas, Innocent Vareed Thekkethala","Drama, Thriller",6.6
+440,Separation,2021,107.0,William Brent Bell,"Rupert Friend, Violet McGraw, Madeline Brewer","Drama, Horror, Mystery",4.7
+441,OSS 117: From Africa with Love,2021,117.0,Nicolas Bedos,"Jean Dujardin, Pierre Niney, Fatou N'Diaye","Action, Comedy",5.8
+442,Warning,2021,86.0,Agata Alexander,"Thomas Jane, Tomasz Kot, Toni Garrn","Drama, Sci-Fi, Thriller",4.6
+443,Sir Alex Ferguson: Never Give In,2021,108.0,Jason Ferguson,"David Beckham, Éric Cantona, Cristiano Ronaldo","Documentary, Biography, Sport",8.1
+444,The Sparks Brothers,2021,140.0,Edgar Wright,"Edgar Wright, Sparks, Ron Mael","Documentary, Biography, Comedy",7.7
+445,Here Today,2021,117.0,Billy Crystal,"Billy Crystal, Chad Jennings, Dierdre Friel","Comedy, Drama, Music",6.7
+446,Out of Death,2021,96.0,Mike Burns,"Jaime King, Bruce Willis, Lala Kent","Action, Crime, Thriller",3.4
+447,Mona Lisa and the Blood Moon,2021,106.0,Ana Lily Amirpour,"Kate Hudson, Jeon Jong-seo, Craig Robinson","Fantasy, Thriller",6.2
+448,Furioza,2021,139.0,Cyprian T. Olencki,"Mateusz Banasiuk, Weronika Ksiazkiewicz, Mateusz Damiecki","Action, Crime, Drama",6.3
+449,The Devil Below,2021,88.0,Bradley Parker,"Alicia Sanz, Adan Canto, Will Patton","Horror, Mystery, Thriller",4.3
+450,The Shipment,2021,93.0,Shawn Welling,"Tom Vera, Robert LaSardo, Tom Sizemore","Action, Crime, Drama",3.5
+451,Shiny_Flakes: The Teenage Drug Lord,2021,96.0,"Eva Müller, Michael Schmitt",Maximilian Schmidt,"Documentary, Biography, Crime",7.3
+452,Kadaisi Vivasayi,2021,122.0,M. Manikandan,"Nallandi, Vijay Sethupathi, Yogi Babu",Drama,8.7
+453,The Power,2021,92.0,Corinna Faith,"Mark Smith, Marley Chesham, Rose Williams","Horror, Mystery, Thriller",5.5
+454,My Best Friend Anne Frank,2021,103.0,Ben Sombogaart,"Josephine Arendsen, Joep Paddenburg, Aiko Beemsterboer",Drama,6.3
+455,Fortress,2021,99.0,James Cullen Bressack,"Jesse Metcalfe, Bruce Willis, Chad Michael Murray","Action, Thriller",3.3
+456,13 Minutes,2021,108.0,Lindsay Gossling,"Trace Adkins, Yancey Arias, Thora Birch","Action, Drama, Thriller",4.7
+457,The Grandmother,2021,100.0,Paco Plaza,"Almudena Amor, Vera Valdez, Karina Kolokolchykova",Horror,5.9
+458,The Seventh Day,2021,87.0,Justin P. Lange,"Guy Pearce, Vadhir Derbez, Stephen Lang","Horror, Mystery",4.5
+459,Pelé,2021,108.0,"Ben Nicholas, David Tryhorn","Pelé, Muhammad Ali, Amarildo","Documentary, Biography, Sport",7.0
+460,Silence: Can You Hear It,2021,136.0,"Aban Bharucha Deohans, Tania Deohans","Sahil Vaid, Saurrabh Kushwaha, Pankaj Anand","Crime, Thriller",6.6
+461,Zone 414,2021,98.0,Andrew Baird,"Guy Pearce, Matilda Lutz, Jonathan Aris","Adventure, Crime, Drama",5.1
+462,Zero Fucks Given,2021,115.0,"Julie Lecoustre, Emmanuel Marre","Adèle Exarchopoulos, Alexandre Perrier, Mara Taquin","Comedy, Drama",6.4
+463,The Exorcism of God,2021,98.0,Alejandro Hidalgo,"Hector Kotsifakis, Will Beinbrink, Oscar Flores","Drama, Horror, Thriller",5.3
+464,Nail Polish,2021,128.0,Bugs Bhargava Krishna,"Arjun Rampal, Manav Kaul, Anand Tiwari",Drama,7.2
+465,Have You Ever Seen Fireflies?,2021,113.0,Andaç Haznedaroglu,"Ecem Erkek, Devrim Yakut, Engin Alkan","Comedy, Drama",6.2
+466,The Velvet Underground,2021,121.0,Todd Haynes,"The Velvet Underground, John Cale, Lou Reed","Documentary, Music",7.3
+467,The Bezonians,2021,98.0,Savvas D. Michael,"Vinnie Jones, Marina Sirtis, Christopher Sciueref","Comedy, Crime, Drama",4.4
+468,A Week Away,2021,94.0,Roman White,"Kevin Quinn, Bailee Madison, Jahbril Cook","Drama, Family, Musical",5.8
+469,John and the Hole,2021,103.0,Pascual Sisto,"Charlie Shotwell, Michael C. Hall, Jennifer Ehle","Drama, Horror, Thriller",5.2
+470,Recalled,2021,99.0,Seo You-min,"Seo Ye-ji, Kim Kang-woo, Park Bom","Drama, Mystery, Thriller",6.7
+471,Survive the Game,2021,97.0,James Cullen Bressack,"Chad Michael Murray, Bruce Willis, Swen Temmel","Action, Thriller",3.0
+472,Biggie: I Got a Story to Tell,2021,97.0,Emmett Malloy,"The Notorious B.I.G., Damion Butler, Sean 'Diddy' Combs","Documentary, Biography, Music",6.8
+473,Small Engine Repair,2021,102.0,John Pollono,"Jon Bernthal, Shea Whigham, Jordana Spiro","Crime, Drama, Thriller",6.5
+474,Vanquish,2021,94.0,George Gallo,"Morgan Freeman, Ruby Rose, Patrick Muldoon","Action, Adventure, Crime",3.0
+475,Mothering Sunday,2021,104.0,Eva Husson,"Odessa Young, Josh O'Connor, Colin Firth","Drama, Romance",6.1
+476,Operation Java,2021,146.0,"Tharun Moorthy, Sudhi Maddison","Balu Varghese, Lukman Avaran, Irshad","Crime, Drama, Thriller",8.0
+477,Churuli,2021,120.0,Lijo Jose Pellissery,"Chemban Vinod Jose, Vinay Forrt, Joju George","Fantasy, Mystery, Sci-Fi",7.0
+478,Nobody Sleeps in the Woods Tonight 2,2021,96.0,Bartosz M. Kowalski,"Mateusz Wieclawek, Julia Wieniawa-Narkiewicz, Zofia Wichlacz","Comedy, Horror, Thriller",3.8
+479,14 Phere,2021,111.0,Devanshu Singh,"Vikrant Massey, Kriti Kharbanda, Vineet Kumar","Comedy, Romance",6.3
+480,Baggio: The Divine Ponytail,2021,91.0,Letizia Lamartire,"Andrea Arcangeli, Valentina Bellè, Thomas Trabacchi","Biography, Drama, Sport",6.1
+481,Xtreme,2021,111.0,Daniel Benmayor,"Teo García, Óscar Jaenada, Óscar Casas","Action, Crime, Drama",5.8
+482,The Laws of the Border,2021,127.0,Daniel Monzón,"Marcos Ruiz, Begoña Vargas, Chechu Salgado",Thriller,6.9
+483,Two,2021,70.0,Mar Targarona,"Marina Gatell, Pablo Derqui, Kandido Uranga","Drama, Mystery, Thriller",4.3
+484,The Stairs,2021,92.0,Peter 'Drago' Tiemann,"Kathleen Quinlan, John Schneider, Russell Hodgkinson","Horror, Mystery",4.3
+485,The Minimalists: Less Is Now,2021,53.0,Matt D'Avella,"Joshua Fields Millburn, Ryan Nicodemus, Dave Ramsey",Documentary,5.9
+486,France,2021,133.0,Bruno Dumont,"Léa Seydoux, Blanche Gardin, Benjamin Biolay","Comedy, Drama",5.9
+487,Chakra,2021,131.0,Anandan .M.S.,"Vishal, Regena Cassandrra, Shraddha Srinath",Action,6.3
+488,The Stay,2021,87.0,Scott Hamm Duenas,"Scott Hamm Duenas, Michele Martin, Rob Mayes","Drama, Horror, Mystery",3.6
+489,Enemy,2021,159.0,Anand Shankar,"Vishal, Arya, Mirnalini Ravi","Action, Drama, Thriller",6.1
+490,The Djinn,2021,82.0,"David Charbonier, Justin Douglas Powell","Ezra Dewey, Rob Brownstein, Tevy Poe","Horror, Thriller",4.8
+491,Plan B,2021,107.0,Natalie Morales,"Kuhoo Verma, Victoria Moroles, Michael Provost",Comedy,6.7
+492,Chess Story,2021,110.0,Philipp Stölzl,"Oliver Masucci, Dieter Bernhardt, Elias Gabele","Drama, Thriller, War",6.8
+493,Horror in the High Desert,2021,82.0,Dutch Marich,"Suziey Block, Eric Mencis, David Morales","Horror, Thriller",5.4
+494,Spirit Untamed,2021,88.0,"Elaine Bogan, Ennio Torresan","Isabela Merced, Marsai Martin, Mckenna Grace","Animation, Adventure, Comedy",5.5
+495,Together,2021,92.0,"Stephen Daldry, Justin Martin","James McAvoy, Sharon Horgan, Samuel Logan","Comedy, Drama, Romance",6.2
+496,Skater Girl,2021,107.0,Manjari Makijany,"Waheeda Rehman, Anurag Arora, Sahidur Rahaman","Drama, Family, Sport",6.7
+497,Grudge,2021,105.0,Turkan Derya,"Yilmaz Erdogan, Ahmet Mümtaz Taylan, Cem Yigit Üzümoglu","Crime, Drama, Mystery",5.5
+498,Secret Magic Control Agency,2021,103.0,Alex Tsitsilin,"Nicholas Corda, Sylvana Joyce, Alyson Leigh Rosenfeld","Animation, Adventure, Comedy",6.2
+499,Superhost,2021,84.0,Brandon Christensen,"Sara Canning, Osric Chau, Gracie Gillam","Comedy, Horror, Thriller",5.5
+500,Sulthan,2021,145.0,Bakkiyaraj Kannan,"Karthi, Rashmika Mandanna, Napolean","Action, Drama",6.2
+501,Born a Champion,2021,112.0,Alex Ranarivelo,"Courtney Hope Turner, Maurice Compte, Sean Patrick Flanery","Action, Drama, Sport",6.8
+502,The Wasteland,2021,92.0,David Casademunt,"Inma Cuesta, Roberto Álamo, Alejandra Howard","Drama, Horror, Mystery",4.6
+503,Why Did You Kill Me?,2021,83.0,Fredrick Munk,"Belinda Lane, Justin Theobald, Jaimie","Documentary, Crime",5.6
+504,One and the Same,2021,110.0,Felipe Cisneros,"Acoryé White, Makena Taylor, Glenn Plummer","Drama, Sci-Fi",4.0
+505,Sardar Ka Grandson,2021,139.0,Kaashvi Nair,"John Abraham, Rakul Preet Singh, Aditi Rao Hydari","Comedy, Drama, Romance",4.3
+506,The Alpines,2021,93.0,Dante Aubain,"Aaron Latta-Morissette, Stephen Kazakoff, Mally Corrigan","Drama, Horror, Mystery",4.4
+507,The 8th Night,2021,115.0,Kim Tae-hyung,"Lee Sung-min, Park Hae-joon, Kim Yoo-jung","Horror, Thriller",5.3
+508,Tadap,2021,126.0,"Milan Luthria, Parthkumar Ashokbhai Patel","Ahan Shetty, Tara Sutaria, Saurabh Shukla","Action, Drama, Romance",5.1
+509,Masking Threshold,2021,90.0,Johannes Grenzfurthner,"Ethan Haslam, Johannes Grenzfurthner, Jason Scott Sadofsky","Drama, Fantasy, Horror",5.7
+510,Yuvarathnaa,2021,161.0,Santhosh Ananddram,"Puneeth Rajkumar, Sayyeshaa Saigal, Sonu Gowda","Action, Drama",6.3
+511,What Josiah Saw,2021,120.0,Vincent Grashaw,"Robert Patrick, Nick Stahl, Scott Haze","Horror, Thriller",6.2
+512,Man of God,2021,111.0,Yelena Popovic,"Aris Servetalis, Alexander Petrov, Mickey Rourke","Biography, Drama",7.0
+513,Amazon Queen,2021,86.0,Marlin Darrah,"Carly Diamond Stone, Carson Grant, Nick Dreselly Thomas","Action, Drama",4.9
+514,Holes in the Sky: The Sean Miller Story,2021,96.0,Ash Hamilton,"Sean Ed, Ash Hamilton, Chanell Hamilton",Horror,4.6
+515,Playground,2021,72.0,Laura Wandel,"Maya Vanderbeque, Günter Duret, Elsa Laforge",Drama,7.3
+516,Implanted,2021,93.0,Fabien Dufils,"Michelle Girolami, Nader Boussandel, Scott Broughton","Sci-Fi, Thriller",4.5
+517,Cold Case,2021,139.0,Tanu Balak,"Prithviraj Sukumaran, Aditi Balan, Lakshmi Priyaa Chandramouli","Horror, Mystery, Thriller",6.1
+518,My Little Pony: A New Generation,2021,90.0,"Robert Cullen, José Luis Ucha, Mark Fattibene","Vanessa Hudgens, Kimiko Glenn, James Marsden","Animation, Adventure, Comedy",6.8
+519,Naandhi,2021,146.0,Vijay Kanakamedala,"Allari Naresh, Varalaxmi Sarathkumar, Harish Uthaman","Crime, Drama, Thriller",7.8
+520,Velle,2021,125.0,Deven Munjal,"Karan Deol, Anya Singh, Abhay Deol","Comedy, Crime, Drama",5.7
+521,The Whole Truth,2021,125.0,Wisit Sasanatieng,"Sompob Benjathikul, Tarika Tidatid, Sutatta Udomsilp","Drama, Horror, Mystery",5.2
+522,How It Ends,2021,82.0,"Zoe Lister-Jones, Daryl Wein","Zoe Lister-Jones, Cailee Spaeny, Whitney Cummings","Comedy, Drama",5.4
+523,Scott and Sid,2021,100.0,"Scott Elliott, Sid Sadowskyj","Richard Mason, Tom Blyth, Charlotte Milchard","Comedy, Drama",5.9
+524,Operation Hyacinth,2021,112.0,Piotr Domalewski,"Tomasz Zietek, Hubert Milkowski, Marek Kalita","Crime, Drama",6.8
+525,Bad President,2021,90.0,Param Gill,"Eddie Griffin, Robert Amico, Zang Angelfire","Comedy, Fantasy",3.5
+526,The God Committee,2021,98.0,Austin Stark,"Kelsey Grammer, Julia Stiles, Colman Domingo",Drama,5.8
+527,Seance,2021,92.0,Simon Barrett,"Suki Waterhouse, Madisen Beaty, Inanna Sarkis","Horror, Mystery, Thriller",5.2
+528,Last Film Show,2021,110.0,Pan Nalin,"Bhavin Rabari, Richa Meena, Bhavesh Shrimali",Drama,7.4
+529,The Mad Women's Ball,2021,122.0,Mélanie Laurent,"Lou de Laâge, Mélanie Laurent, Emmanuelle Bercot","Drama, Thriller",6.7
+530,Love Story,2021,155.0,Sekhar Kammula,"Naga Chaitanya Akkineni, Sai Pallavi, Rajeev Kanakala",Romance,6.8
+531,A Writer's Odyssey,2021,130.0,"Zhuang Jieqiong, Yang Lu","Jiayin Lei, Mi Yang, Zijian Dong","Action, Adventure, Fantasy",6.2
+532,Happily,2021,96.0,BenDavid Grabinski,"Kerry Bishé, Joel McHale, Al Madrigal","Comedy, Crime, Romance",5.3
+533,JFK Revisited: Through the Looking Glass,2021,118.0,Oliver Stone,"Donald Sutherland, Whoopi Goldberg, Oliver Stone","Documentary, History",7.5
+534,More the Merrier,2021,111.0,Paco Caballero,"Ernesto Alterio, María Morales, Luis Callejo",Comedy,5.5
+535,Diary of a Wimpy Kid,2021,59.0,"Gino Nichele, Swinton O. Scott III","Cyrus Arnold, Braxton Baker, Erica Cerra","Animation, Comedy, Drama",5.1
+536,The Souvenir: Part II,2021,107.0,Joanna Hogg,"Tilda Swinton, Honor Swinton Byrne, James Spencer Ashworth","Drama, Romance",7.1
+537,Friendzone,2021,88.0,Charles Van Tieghem,"Mickaël Lumière, Manon Azem, Fadily Camara","Comedy, Romance",5.9
+538,The Man with the Answers,2021,80.0,Stelios Kammitsis,"Vasilis Magouliotis, Anton Weil, Stella Fyrogeni","Drama, Romance",6.8
+539,Memories of a Murderer: The Nilsen Tapes,2021,84.0,Michael Harte,"Douglas Bence, Bob Brenton, Mike Cattran","Documentary, Biography, Crime",6.3
+540,Ted K,2021,120.0,Tony Stone,"Sharlto Copley, Drew Powell, Christian Calloway","Biography, Crime, Drama",6.0
+541,The Battle at Lake Changjin,2021,176.0,"Kaige Chen, Dante Lam, Hark Tsui","Jing Wu, Jackson Yee, Yihong Duan","Action, Drama, History",5.5
+542,The Last Bus,2021,86.0,Gillies MacKinnon,"Timothy Spall, Phyllis Logan, Natalie Mitson",Drama,6.6
+543,Cash,2021,118.0,Rishab Seth,"Amol Parashar, Smriti Kalra, Gulshan Grover","Comedy, Drama",6.5
+544,Demon Slayer: Kimetsu no Yaiba - Asakusa Arc,2021,103.0,Haruo Sotozaki,,"Animation, Action, Fantasy",8.5
+545,Some Like It Rare,2021,87.0,Fabrice Eboué,"Marina Foïs, Fabrice Eboué, Jean-François Cayrey","Comedy, Horror",6.6
+546,Serial (Bad) Weddings 3,2021,98.0,Philippe de Chauveron,"Christian Clavier, Chantal Lauby, Ary Abittan",Comedy,6.1
+547,Uppena,2021,147.0,Buchi Babu Sana,"Panja Vaisshnav Tej, Krithi Shetty, Vijay Sethupathi","Drama, Romance",6.5
+548,Oru Canadian Diary,2021,128.0,Seema Sreekumar,"Paul Paulose, Pooja Sebastian, Simran",Thriller,2.2
+549,Bunty Aur Babli 2,2021,138.0,Varun V. Sharma,"Saif Ali Khan, Rani Mukerji, Siddhant Chaturvedi","Comedy, Crime, Romance",4.1
+550,The Wolf and the Lion,2021,99.0,Gilles de Maistre,"Molly Kunz, Graham Greene, Charlie Carrick","Adventure, Drama, Family",6.2
+551,Jakob's Wife,2021,98.0,Travis Stevens,"Barbara Crampton, Larry Fessenden, Bonnie Aarons",Horror,5.5
+552,Two Witches,2021,98.0,Pierre Tsigaridis,"Rebekah Kennedy, Kristina Klebe, Tim Fox",Horror,4.8
+553,Agent Revelation,2021,86.0,Derek Ting,"Derek Ting, Michael Dorn, Kayla Ewell","Action, Sci-Fi, Thriller",3.5
+554,Seobok,2021,114.0,Lee Yong-ju,"Park Bo-gum, Gong Yoo, Jang Young-nam","Action, Drama, Sci-Fi",6.1
+555,Hoodman,2021,98.0,Mark W. Curran,"Madison Spear, Brock Morse, Skye Roberts","Crime, Horror, Thriller",3.5
+556,Hello Charlie,2021,102.0,Pankaj Saraswat,"Aadar Jain, Jackie Shroff, Shloka Pandit",Comedy,5.3
+557,Queen Bees,2021,100.0,Michael Lembeck,"Ellen Burstyn, Jane Curtin, Loretta Devine","Comedy, Drama, Romance",6.4
+558,We Made a Beautiful Bouquet,2021,124.0,Nobuhiro Doi,"Masaki Suda, Kasumi Arimura, Kaya Kiyohara","Drama, Romance",7.5
+559,Prayers for the Stolen,2021,111.0,Tatiana Huezo,"Mayra Batalla, Memo Villegas, Eileen Yañez",Drama,7.3
+560,The Father Who Moves Mountains,2021,108.0,Daniel Sandu,"Adrian Titieni, Elena Purea, Judith State","Drama, Thriller",5.6
+561,Hive,2021,84.0,Blerta Basholli,"Yllka Gashi, Çun Lajçi, Aurita Agushi",Drama,7.1
+562,Saina,2021,135.0,Amole Gupte,"Mukesh Agrohari, Olga Anand, Rohan Apte","Biography, Drama, Sport",4.5
+563,The Resort,2021,76.0,Taylor Chien,"Bianca Haase, Brock O'Hurn, Michael Vlamis",Horror,3.1
+564,I Am Zlatan,2021,100.0,Jens Sjögren,"Granit Rushiti, Dominic Andersson Bajraktati, Cedomir Glisovic","Biography, Drama, Sport",6.2
+565,Ride the Eagle,2021,88.0,Trent O'Donnell,"Jake Johnson, Susan Sarandon, D'Arcy Carden","Comedy, Drama",6.3
+566,Mixtape,2021,93.0,Valerie Weiss,"Gemma Brooke Allen, Julie Bowen, Audrey Hsieh","Comedy, Drama, Family",6.6
+567,Ascension,2021,97.0,Jessica Kingdon,,Documentary,7.0
+568,Come from Away,2021,106.0,Christopher Ashley,"Petrina Bromley, Jenn Colella, De'Lon Grant","Comedy, Drama, Musical",8.5
+569,Ratnan Prapancha,2021,147.0,Rohith Padaki,"Dhananjaya, Umashree, Shruti","Comedy, Drama, Family",8.3
+570,Diabolik,2021,134.0,"Antonio Manetti, Marco Manetti","Luca Marinelli, Miriam Leone, Valerio Mastandrea","Action, Crime, Mystery",5.9
+571,Maara,2021,149.0,Dhilip Kumar,"Madhavan, Shraddha Srinath, Sshivada","Adventure, Mystery, Romance",7.5
+572,Narappa,2021,153.0,Srikanth Addala,"Venkatesh Daggubati, Priyamani, Rajeev Kanakala","Action, Drama",7.6
+573,Kaanekkaane,2021,120.0,Manu Ashokan,"Suraj Venjaramoodu, Tovino Thomas, Aishwarya Lekshmi","Drama, Thriller",7.5
+574,Brother in Love 2,2021,115.0,Onur Bilgetay,"Cem Gelinoglu, Melis Babadag, Hakan Yilmaz",Comedy,6.5
+575,Kaamelott: First Installment,2021,120.0,Alexandre Astier,"Alexandre Astier, Lionnel Astier, Antoine de Caunes","Adventure, Comedy, Fantasy",6.1
+576,Madame Claude,2021,112.0,Sylvie Verheyde,"Karole Rocher, Garance Marillier, Roschdy Zem","Biography, Crime, Drama",5.5
+577,New Gods: Nezha Reborn,2021,118.0,Ji Zhao,"Nicole Fong, Victoria Grace, Jason Ko","Animation, Action, Fantasy",6.8
+578,Next Door,2021,92.0,Daniel Brühl,"Daniel Brühl, Peter Kurth, Rike Eckermann","Comedy, Drama",6.8
+579,Kill Plan,2021,71.0,Gregory Hatanaka,"Jason Toler, Chris Spinelli, Benny Tjandra",Thriller,2.9
+580,South Wind 2: Speed Up,2021,127.0,Milos Avramovic,"Milos Bikovic, Miodrag Radonjic, Predrag 'Miki' Manojlovic","Crime, Drama, Thriller",6.3
+581,9/11: Inside the President's War Room,2021,90.0,Adam Wishart,"Richard Keil, George W. Bush, Andrew Card","Documentary, History",7.5
+582,The Feast,2021,93.0,Lee Haven Jones,"Annes Elwy, Nia Roberts, Julian Lewis Jones","Drama, Horror, Mystery",5.6
+583,Photocopier,2021,130.0,Wregas Bhanuteja,"Shenina Cinnamon, Dea Panendra, Giulio Parengkuan","Crime, Drama, Mystery",6.8
+584,Ninjababy,2021,103.0,Yngvild Sve Flikke,"Kristine Kujath Thorp, Arthur Berning, Nader Khademi","Comedy, Drama",7.2
+585,The War Below,2021,96.0,J.P. Watts,"Sam Hazeldine, Tom Goodman-Hill, Kris Hitchen","Drama, History, War",6.5
+586,G - Zombie,2021,116.0,"Aryan Gowra, Deepu","Lokesh Achari, Rajasekhar Aningi, Gowtham Avula","Action, Horror, Sci-Fi",4.5
+587,Superwho?,2021,82.0,Philippe Lacheau,"Philippe Lacheau, Julien Arruti, Tarek Boudali","Action, Comedy",6.2
+588,We Need to Do Something,2021,97.0,Sean King O'Grady,"Sierra McCormick, Vinessa Shaw, Pat Healy","Horror, Mystery",4.5
+589,Time Is Up,2021,108.0,Elisa Amoruso,"Bella Thorne, Benjamin Mascolo, Sebastiano Pigazzi","Drama, Romance",4.2
+590,Republic,2021,152.0,Deva Katta,"Aamani, Jagapathi Babu, Boxer Dina","Action, Drama, Thriller",7.8
+591,Sensation,2021,99.0,Martin Grof,"Eugene Simon, Emily Wyatt, Jennifer Martin","Mystery, Sci-Fi, Thriller",3.2
+592,Four Hours at the Capitol,2021,92.0,Jamie Roberts,"Eddie Block, Buddy Carter, Jim McGovern","Documentary, Crime",7.5
+593,People Just Do Nothing: Big in Japan,2021,97.0,Jack Clough,"Allan Mustafa, Hugo Chegwin, Asim Chaudhry","Comedy, Music",6.8
+594,Kala,2021,130.0,Rohith V.S.,"Tovino Thomas, Lal, Divya Pillai","Action, Thriller",6.7
+595,Benediction,2021,137.0,Terence Davies,"Jack Lowden, Thom Ashley, Orlando Jopling","Biography, Drama, History",6.6
+596,Roberrt,2021,166.0,Tarun Sudhir,"Darshan Thoogudeep, Vinod Prabhakar, Asha Bhat","Action, Comedy, Musical",5.9
+597,Safer at Home,2021,82.0,Will Wernick,"Jocelyn Hudon, Alisa Allapach, Dan J. Johnson","Crime, Drama, Horror",3.8
+598,Lair,2021,96.0,Adam Ethan Crow,"Simon Balfour, Oded Fehr, Andrea Bennett","Horror, Thriller",4.1
+599,Body Brokers,2021,111.0,John Swab,"Suzanne Wind, Frank Grillo, Alice Englert","Drama, Thriller",6.2
+600,Muddy,2021,137.0,Pragabhal,"Yuvan Krishna, Ridhaan Krishnas, Suresh Anusha","Action, Thriller",6.1
+601,Tomorrow's Today,2021,83.0,Timothy Hines,"Robert Bella, Dawson Bowie, Colin Buckingham","Comedy, Drama, Romance",5.5
+602,Terror Eyes,2021,78.0,Delaney Bishop,"Ayla Kell, Riker Lynch, Lisseth Chavez","Horror, Thriller",5.8
+603,"Crack: Cocaine, Corruption & Conspiracy",2021,89.0,Stanley Nelson,"Elizabeth Hinton, Nelson George, Alan Charles","Documentary, Crime, History",6.7
+604,Man in Love,2021,115.0,Chen-Hao Yin,"Roy Chiu, Wei-Ning Hsu, Zheng Austin","Drama, Romance",7.1
+605,Girls to Buy,2021,146.0,Maria Sadowska,"Paulina Galazka, Katarzyna Figura, Katarzyna Sawczuk","Action, Crime, Drama",5.3
+606,Limbo,2021,118.0,Soi Cheang,"Ka-Tung Lam, Yase Liu, Mason Lee","Crime, Drama, Thriller",7.1
+607,Squared Love,2021,102.0,Filip Zylber,"Adrianna Chlebicka, Mateusz Banasiuk, Agnieszka Zulewska","Comedy, Romance",5.1
+608,400 Bullets,2021,89.0,Tom Paton,"Jean-Paul Ly, Andrew Lee Potts, James Warren",Action,3.8
+609,Most Eligible Bachelor,2021,170.0,Bommarillu Baskar,"Akhil Akkineni, Pooja Hegde, Neha Shetty","Drama, Romance",6.2
+610,Homunculus,2021,115.0,Takashi Shimizu,"Gô Ayano, Edward Bosco, Amber Lee Connors","Drama, Fantasy, Mystery",5.5
+611,The Girl Who Killed Her Parents,2021,85.0,Mauricio Eça,"Leonardo Bittencourt, Carla Diaz, Allan Souza Lima","Crime, Drama, Thriller",5.9
+612,Green Snake,2021,131.0,Amp Wong,"Xiaoxi Tang, Fuzheng Zhang, Islam Abdelbadia","Animation, Action, Adventure",6.8
+613,Dear Future Children,2021,89.0,Franz Böhm,,Documentary,7.4
+614,Networker Baire,2021,90.0,Mizanur Rahman Aryan,"Sariful Razz, Yash Rohan, Khairul Basar","Adventure, Drama, Romance",7.9
+615,The Box,2021,94.0,Yang Jeong-Woong,"Park Chan-yeol, Jo Dal-hwan, Lee Hwa-jung","Drama, Music, Musical",6.5
+616,The Catholic School,2021,106.0,Stefano Mordini,"Benedetta Porcaroli, Giulio Pranno, Emanuele Maria Di Stefano",Drama,5.6
+617,WeWork: or The Making and Breaking of a $47 Billion Unicorn,2021,104.0,Jed Rothstein,"Ashton Kutcher, Gwyneth Paltrow, Scott Galloway",Documentary,6.6
+618,Last Summer,2021,101.0,Ozan Açiktan,"Fatih Berk Sahin, Ece Çesmioglu, Halit Özgür Sari","Drama, Romance",6.3
+619,Swan Song,2021,105.0,Todd Stephens,"Udo Kier, Jennifer Coolidge, Linda Evans","Biography, Comedy, Drama",7.0
+620,Dial 100,2021,104.0,Renzil D'Silva,"Manoj Bajpayee, Neena Gupta, Sakshi Tanwar","Action, Thriller",5.9
+621,Overrun,2021,105.0,Josh Tessier,"Omid Zader, Johnny Messner, Bruce Dern","Action, Comedy, Crime",4.2
+622,Flag Day,2021,109.0,Sean Penn,"Mitchell McCormick, Tom Anniko, Dylan Penn","Crime, Drama",5.5
+623,Maixabel,2021,115.0,Icíar Bollaín,"Blanca Portillo, Luis Tosar, María Cerezuela","Biography, Drama",7.1
+624,Irul,2021,91.0,Naseef Yusuf Izuddin,"Fahadh Faasil, Soubin Shahir, Darshana Rajendran","Horror, Mystery, Thriller",5.8
+625,Die in a Gunfight,2021,92.0,Collin Schiffli,"Diego Boneta, Alexandra Daddario, Justin Chatwin","Action, Comedy, Crime",4.5
+626,Lift,2021,134.0,Vineeth Varaprasad,"Kavin, Amritha Aiyer, Kiran Konda","Drama, Horror, Mystery",6.5
+627,Rise of the Footsoldier: Origins,2021,107.0,Nick Nevern,"Terry Stone, Roland Manookian, Josh Myers","Action, Crime, Drama",5.8
+628,The Marco Effect,2021,125.0,Martin Zandvliet,"Ulrich Thomsen, Zaki Youssef, Sofie Torp","Crime, Thriller",5.4
+629,Montana Story,2021,114.0,"Scott McGehee, David Siegel","Haley Lu Richardson, Owen Teague, Gilbert Owuor",Drama,6.5
+630,Pray Away,2021,101.0,Kristine Stolakis,"Yvette Cantu Schneider, Michael Bussee, John Paulk",Documentary,6.5
+631,Clairevoyant,2021,90.0,"Arthur De Larroche, Micaela Wittman","Micaela Wittman, Anousha, Amy Benedict","Comedy, Drama",5.7
+632,Sweet & Sour,2021,101.0,"Kae-Byeok Lee, Kate Jopson","Jang Ki-yong, Chae Soo-bin, Krystal Jung","Comedy, Romance",6.6
+633,Kid 90,2021,71.0,Soleil Moon Frye,"Soleil Moon Frye, Buzz Aldrin, David Arquette","Documentary, Biography, History",6.9
+634,Brother's Keeper,2021,85.0,Ferit Karahan,"Samet Yildiz, Ekin Koç, Mahir Ipek",Drama,7.3
+635,Katips,2021,142.0,Vince Tañada,"Afi Africa, OJ Arci, Joshua Bulot","Crime, Drama, History",5.7
+636,Extinct,2021,84.0,"David Silverman, Raymond S. Persi","Adam Devine, Rachel Bloom, Ken Jeong","Animation, Adventure, Comedy",5.5
+637,Wyrmwood: Apocalypse,2021,88.0,Kiah Roache-Turner,"Luke McKenzie, Shantae Barnes-Cowan, Jake Ryan","Action, Comedy, Horror",5.5
+638,A California Christmas: City Lights,2021,106.0,Shaun Paul Piccinino,"Lauren Swickard, Josh Swickard, Ali Afshar","Comedy, Drama, Romance",5.6
+639,Doors,2021,84.0,"Saman Kesh, Jeff Desom, Dugan O'Neal","Kathy Khanh, Jamie Collins, Aric Floyd",Sci-Fi,3.6
+640,Murina,2021,96.0,Antoneta Alamat Kusijanovic,"Gracija Filipovic, Leon Lucev, Danica Curcic",Drama,6.8
+641,Slumber Party Massacre,2021,86.0,Danishka Esterhazy,"Hannah Gonera, Frances Sholto-Douglas, Mila Rayne",Horror,5.1
+642,Tuck Jagadish,2021,145.0,Shiva Nirvana,"Nani, Ritu Varma, Aishwarya Rajesh","Action, Drama",5.6
+643,The Soul,2021,130.0,Wei-Hao Cheng,"Chang Chen, Ning Chang, Anke Sun","Drama, Horror, Mystery",6.6
+644,Teddy,2021,136.0,Shakti Soundar Rajan,"Arya, Sayyeshaa Saigal, Sakshi Agarwal","Action, Adventure, Fantasy",6.3
+645,She Will,2021,95.0,Charlotte Colbert,"Jonathan Aris, Joanna Bacon, Heidi Brown","Drama, Horror, Mystery",5.4
+646,Smyrna,2021,141.0,Grigoris Karantinakis,"Mimi Denissi, Leonidas Kakouris, Burak Hakki","Drama, History, War",6.8
+647,Last Train to Christmas,2021,110.0,Julian Kemp,"Michael Sheen, Cary Elwes, Nathalie Emmanuel","Comedy, Drama, Fantasy",6.0
+648,American Traitor: The Trial of Axis Sally,2021,109.0,Michael Polish,"Meadow Williams, Al Pacino, Carsten Norgaard","Drama, History, War",5.7
+649,Helmet,2021,104.0,Satram Ramani,"Aparshakti Khurana, Abhishek Banerjee, Ashish Verma","Comedy, Drama",6.5
+650,Kaadan,2021,153.0,Prabu Solomon,"Srinath Alnath, Raghu Babu, Rana Daggubati","Action, Drama, Fantasy",7.5
+651,Broadcast Signal Intrusion,2021,104.0,Jacob Gentry,"Harry Shum Jr., Kelley Mack, Chris Sullivan","Crime, Drama, Horror",5.4
+652,A Stand Worthy of Men,2021,113.0,Ahmed al-Gendy,"Maged El-Kidwani, Sayed Ragab, Bayoumi Fouad","Comedy, Drama",7.1
+653,Risen,2021,109.0,Eddie Arya,"Zahlee Moore, Izzy Bridger, Lily Brown Griffiths","Drama, Sci-Fi, Thriller",3.6
+654,Heart of Champions,2021,119.0,Michael Mailer,"Michael Shannon, Alexander Ludwig, Charles Melton","Drama, Sport",6.0
+655,Jan.E.Man,2021,147.0,Chidambaram,"Lal, Arjun Ashokan, Balu Varghese",Comedy,7.8
+656,Venicephrenia,2021,100.0,Álex de la Iglesia,"Ingrid García Jonsson, Silvia Alonso, Goize Blanco",Horror,5.2
+657,Misha and the Wolves,2021,90.0,Sam Hobkinson,"Misha Defonseca, Karen Schulman, Jane Daniel","Documentary, Drama",6.6
+658,Karen,2021,89.0,Coke Daniels,"Taryn Manning, Cory Hardrict, Jasmine Burke","Crime, Drama, Thriller",3.2
+659,Margrete: Queen of the North,2021,120.0,Charlotte Sieling,"Trine Dyrholm, Søren Malling, Morten Hee Andersen","Biography, Drama, History",6.6
+660,Gintama: The Final,2021,104.0,"Akie Ishii, Chizuru Miyawaki","Greg Ayres, James Belcher, Clint Bickham","Animation, Action, Comedy",8.6
+661,Sreekaram,2021,122.0,Kishor B.,"Sharwanand, Priyanka Arulmohan, Rao Ramesh",Drama,7.3
+662,Bordertown: The Mural Murders,2021,107.0,Juuso Syrjä,"Ville Virtanen, Anu Sinisalo, Sampo Sarkola","Crime, Drama, Mystery",6.3
+663,Batman: The Long Halloween,2021,168.0,Chris Palmer,"Jensen Ackles, Laila Berzins, Frances Callier","Animation, Action, Crime",7.5
+664,Petrov's Flu,2021,145.0,Kirill Serebrennikov,"Semyon Serzin, Chulpan Khamatova, Vladislav Semiletkov","Drama, Sci-Fi",6.6
+665,"Hi, Mom",2021,128.0,Ling Jia,"Ling Jia, Xiaofei Zhang, Teng Shen","Comedy, Drama, Fantasy",6.9
+666,Love Me Instead,2021,124.0,Mehmet Ada Öztekin,"Sarp Akkaya, Songül Öden, Ercan Kesal",Drama,7.0
+667,Netrikann,2021,146.0,Milind Rau,"Nayanthara, Ajmal Ameer, Manikandan K.","Crime, Drama, Mystery",5.8
+668,The Yinyang Master,2021,113.0,Weiran Li,"Kun Chen, Xun Zhou, William Chan","Action, Adventure, Drama",6.4
+669,Trigger Point,2021,85.0,Brad Turner,"Barry Pepper, Colm Feore, Eve Harlow","Action, Mystery, Thriller",5.1
+670,This Little Love of Mine,2021,91.0,Christine Luby,"Saskia Hampele, Liam McIntyre, Lynn Gilmartin",Romance,5.4
+671,Ali & Ava,2021,95.0,Clio Barnard,"Adeel Akhtar, Claire Rushbrook, Macy Shackleton","Drama, Romance",6.7
+672,Gaali Sampath,2021,130.0,"Aneesh Krishna, Anil Ravipudi","Rajendra Prasad, Sree Vishnu, Lovely Singh","Comedy, Drama",6.5
+673,The Boy Who Killed My Parents,2021,87.0,Mauricio Eça,"Carla Diaz, Leonardo Bittencourt, Allan Souza Lima","Crime, Drama, Thriller",6.0
+674,Three Floors,2021,119.0,Nanni Moretti,"Riccardo Scamarcio, Elena Lietti, Alba Rohrwacher",Drama,6.4
+675,Bhoomi,2021,128.0,Lakshman,"Ravi Mohan, Nidhhi Agerwal, Cricknowle",Drama,4.7
+676,Iké Boys,2021,88.0,Eric McEver,"Quinn Lord, Ronak Gandhi, Christina Higa","Action, Adventure, Fantasy",5.3
+677,"Farewell, Mr. Haffmann",2021,115.0,Fred Cavayé,"Daniel Auteuil, Gilles Lellouche, Sara Giraudeau",Drama,7.0
+678,The Perfect Family,2021,110.0,Arantxa Echevarría,"Belén Rueda, Jose Coronado, Gonzalo de Castro",Comedy,5.4
+679,The Good House,2021,104.0,"Maya Forbes, Wallace Wolodarsky","Sigourney Weaver, Kevin Kline, Morena Baccarin","Comedy, Drama",6.4
+680,Zeros and Ones,2021,87.0,Abel Ferrara,"Ethan Hawke, Cristina Chiriac, Phil Neilson","Action, Adventure, Mystery",3.3
+681,Saloum,2021,84.0,Jean Luc Herbulot,"Yann Gael, Evelyne Ily Juhen, Roger Sallah","Action, Horror, Thriller",6.2
+682,Tribhanga,2021,95.0,Renuka Shahane,"Kajol, Tanvi Azmi, Mithila Palkar","Drama, Family",6.2
+683,Cliff Walkers,2021,120.0,"Zhuang Jieqiong, Yimou Zhang","Hewei Yu, Yi Zhang, Hailu Qin","Crime, Drama, Thriller",6.5
+684,Cinema Bandi,2021,98.0,Praveen Kandregula,"Vikas Vasistha, Sandeep Varanasi, Rag Mayur","Comedy, Drama",7.8
+685,One Small Story,2021,134.0,Karthik Rapolu,"Santosh Sobhan, Kavya Thapar, Shraddha Das","Comedy, Drama",7.2
+686,Rudra Thandavam,2021,168.0,Mohan G.,"Richard Rishi, Gautham Vasudev Menon, Radha Ravi","Action, Drama",5.5
+687,Aloners,2021,91.0,Hong Seong-eun,"Gong Seung-yeon, Jung Da-eun, Seo Hyun-woo",Drama,6.9
+688,Zebra Girl,2021,79.0,Stephanie Zari,"Tom Cullen, Sarah Roy, Jade Anouka","Mystery, Thriller",4.9
+689,Twist,2021,90.0,Martin Owen,"Dominic Di Tommaso, Lena Headey, Samuel Leakey","Action, Drama, Thriller",4.2
+690,"Onoda: 10,000 Nights in the Jungle",2021,173.0,Arthur Harari,"Yûya Endô, Kanji Tsuda, Yûya Matsuura","Adventure, Drama, History",7.2
+691,The Auschwitz Report,2021,94.0,Peter Bebjak,"Noel Czuczor, Peter Ondrejicka, Florian Panzner","Drama, History, War",6.6
+692,Attica,2021,116.0,"Traci Curry, Stanley Nelson","Arthur Harrison, Carlos Roche, Tyrone Larkins","Documentary, History",7.5
+693,The Loud House Movie,2021,83.0,Dave Needham,"Asher Bishop, David Tennant, Michelle Gomez","Animation, Adventure, Comedy",6.1
+694,A Mouthful of Air,2021,105.0,Amy Koppelman,"Amanda Seyfried, Olivia Katz, Christian Kutz",Drama,6.1
+695,The Story of My Wife,2021,169.0,Ildikó Enyedi,"Léa Seydoux, Gijs Naber, Louis Garrel","Drama, Romance",6.2
+696,Language Lessons,2021,91.0,Natalie Morales,"Natalie Morales, Desean Terry, Mark Duplass","Comedy, Drama",7.1
+697,Zombie Reddy,2021,130.0,Prasanth Varma,"Teja Sajja, Anandhi, Daksha Nagarkar","Action, Comedy, Horror",6.6
+698,Naked Singularity,2021,93.0,Chase Palmer,"John Boyega, Olivia Cooke, Bill Skarsgård","Comedy, Crime, Drama",4.9
+699,Azor,2021,100.0,Andreas Fontana,"Fabrizio Rongione, Stéphanie Cléau, Carmen Iriondo","Drama, Thriller",6.5
+700,Moby Doc,2021,92.0,Rob Gordon Bralver,"Moby, Laura Dawn, Daniel Ahearn","Documentary, Biography, Music",6.6
+701,Yesterday's Past,2021,83.0,Nila Madhab Panda,"Pitobash, Sonalli Sharmisstha",Drama,7.7
+702,The Spine of Night,2021,93.0,"Philip Gelatt, Morgan Galen King","Richard E. Grant, Lucy Lawless, Patton Oswalt","Animation, Action, Adventure",6.4
+703,Birds of Paradise,2021,113.0,Sarah Adina Smith,"Diana Silvers, Kristine Froseth, Jacqueline Bisset",Drama,5.9
+704,"Love, Life & Pakodi",2021,114.0,Jayanth Gali,"Ajith, Vijayatha Alur, Alvin",Romance,5.4
+705,A Journal for Jordan,2021,131.0,Denzel Washington,"Michael B. Jordan, Chanté Adams, Jalon Christian","Drama, Romance, War",6.0
+706,Everything Went Fine,2021,113.0,François Ozon,"Sophie Marceau, André Dussollier, Géraldine Pailhas",Drama,6.8
+707,Castle Falls,2021,90.0,Dolph Lundgren,"Scott Adkins, Dolph Lundgren, Vas Sanchez","Action, Drama, Thriller",5.3
+708,The Velvet Queen,2021,92.0,"Marie Amiguet, Vincent Munier","Vincent Munier, Sylvain Tesson",Documentary,7.8
+709,Rushed,2021,101.0,Vibeke Muasya,"Siobhan Fallon Hogan, Robert Patrick, Ellie Frankel","Crime, Drama, Mystery",5.7
+710,One,2021,151.0,Santhosh Viswanath,"Mammootty, Joju George, Murali Gopy","Drama, Thriller",6.2
+711,Donny's Bar Mitzvah,2021,79.0,Jonathan Kaufman,"Steele Stebbins, Jeremy Tardy, Adrian Ciscato","Comedy, Drama",5.7
+712,Colors of Love,2021,85.0,Bradley Walsh,"Jessica Lowndes, Chad Michael Murray, Dennis Andres","Drama, Romance",5.6
+713,Sin,2021,91.0,Don Tjernagel,"Don Tjernagel, Deandre Sipthekid Smith, Cassi McMullen",Horror,2.6
+714,Sinkhole,2021,117.0,Kim Ji-hoon,"Cha Seung-won, Kim Sung Kyun, Lee Kwang-soo","Comedy, Drama",6.2
+715,North Hollywood,2021,93.0,Mikey Alfred,"Ryder McLaughlin, Miranda Cosgrove, Vince Vaughn","Comedy, Drama, Sport",5.9
+716,Dybbuk: The Curse Is Real,2021,112.0,Jay.k,"Emraan Hashmi, Nikita Dutta, Manav Kaul","Drama, Horror",5.1
+717,Barbarians,2021,89.0,Charles Dorfman,"Tom Cullen, Inès Spiridonov, Iwan Rheon","Crime, Horror, Thriller",4.7
+718,B.A. Pass 3,2021,136.0,Narendra Singh,"Sunny Sachdeva, Armaan Sandhu, Ankita Sahu","Drama, Romance",4.8
+719,Rogue Hostage,2021,93.0,Jon Keeyes,"Tyrese Gibson, Christopher Backus, John Malkovich","Action, Thriller",3.5
+720,Edge of the World,2021,104.0,Michael Haussman,"Jonathan Rhys Meyers, Josie Ho, Dominic Monaghan","Adventure, Drama",5.4
+721,Dayi: Bir Adamin Hikayesi,2021,125.0,Ugur Bayraktar,"Ufuk Bayraktar, Gizem Karaca, Ahmet Varli","Action, Adventure, Drama",6.2
+722,A Father's Fight,2021,92.0,Tyler Sansom,"Travis Hancock, Sarah Cleveland, John French","Action, Drama, Family",4.7
+723,The Lost Leonardo,2021,96.0,Andreas Koefoed,"Mohammad Bin Salman, Doug Patteson, Jerry Saltz","Documentary, Mystery",7.5
+724,Last Survivors,2021,98.0,Drew Mylrea,"Drew Van Acker, Alicia Silverstone, Stephen Moyer","Crime, Thriller",4.9
+725,Nizhal,2021,118.0,Appu N. Bhattathiri,"Nayanthara, Divya Prabha, Kunchacko Boban","Drama, Mystery, Thriller",6.3
+726,Toxikoma,2021,124.0,Gábor Herendi,"Áron Molnár, Barna Bányai Kelemen, Fanni Csuja","Biography, Drama",7.0
+727,Aakashavaani,2021,124.0,Ashwin Gangaraju,"Samuthirakani, Vinay Varma, Getup Srinu",Drama,6.9
+728,Charming the Hearts of Men,2021,107.0,S.E. DeRose,"Anna Friel, Kelsey Grammer, Starletta DuPois","Drama, History, Romance",6.2
+729,Life of Crime 1984-2020,2021,121.0,Jon Alpert,"Deliris, Freddy, Robert","Documentary, Biography, Crime",8.4
+730,Bingo Hell,2021,85.0,Gigi Saul Guerrero,"Adriana Barraza, L. Scott Caldwell, Joshua Caleb Johnson","Comedy, Horror",4.3
+731,Jhimma,2021,130.0,Hemant Dhome,"Suhas Joshi, Nirmiti Sawant, Suchitra Bandekar","Comedy, Drama",7.4
+732,Ghost Mansion,2021,106.0,Jo Ba-Reun,"Kim Bo-ra, Lee Chang-hoon, Lee Dong-kyu","Horror, Mystery, Thriller",6.0
+733,Trust,2021,94.0,Brian DeCubellis,"Victoria Justice, Matthew Daddario, Katherine McNamara","Drama, Romance, Thriller",5.3
+734,Night Night,2021,92.0,Niki Koss,"Brenna D'Amico, Deric Augustine, Nick Marini","Horror, Thriller",4.0
+735,Captain Volkonogov Escaped,2021,126.0,"Alexey Chupov, Natasha Merkulova","Yura Borisov, Timofey Tribuntsev, Aleksandr Yatsenko","Drama, Thriller",7.3
+736,Wild Men,2021,104.0,Thomas Daneskov,"Rasmus Bjerg, Zaki Youssef, Bjørn Sundquist","Adventure, Comedy, Crime",6.4
+737,Mascarpone,2021,101.0,"Alessandro Guida, Matteo Pilati","Giancarlo Commare, Eduardo Valdarnini, Gianmarco Saurino","Comedy, Drama, Romance",6.8
+738,The Demented,2021,96.0,Nigel Hartwell,"Felissa Rose, Bret Hart, Ari Lehman","Horror, Mystery, Thriller",3.1
+739,The Getaway King,2021,100.0,Mateusz Rakowicz,"Dawid Ogrodnik, Robert Wieckiewicz, Rafal Zawierucha","Action, Biography, Comedy",6.5
+740,Offseason,2021,83.0,Mickey Keating,"Jocelin Donahue, Joe Swanberg, Richard Brake","Drama, Fantasy, Horror",4.9
+741,Thittam Irandu,2021,120.0,Vignesh Karthick,"Aishwarya Rajesh, Subash Selvam, Gokul Anand","Crime, Drama, Mystery",7.1
+742,Mosagallu,2021,85.0,Jeffrey Gee Chin,"Vishnu Manchu, Kajal Aggarwal, Suniel Shetty","Crime, Drama, Thriller",4.5
+743,Fauji Calling,2021,134.0,Aaryaan Saxena,"Bidita Bag, Anil Chouhan, Mugdha Godse",Drama,5.4
+744,Vicky and Her Mystery,2021,84.0,Denis Imbert,"Vincent Elbaz, Shanna Keil, Marie Gillain","Adventure, Drama, Family",6.3
+745,Endangered Species,2021,101.0,M.J. Bassett,"Rebecca Romijn, Philip Winchester, Isabel Bassett","Action, Thriller",4.6
+746,Sounds Like Love,2021,110.0,Juana Macías,"María Valverde, Álex González, Elisabet Casanovas","Comedy, Music, Romance",5.4
+747,Madhuram,2021,122.0,Ahammed Khabeer,"Joju George, Arjun Ashokan, Shruti Ramachandran","Drama, Romance",7.6
+748,Cube,2021,108.0,Yasuhiko Shimizu,"Tokio Emoto, Masaki Okada, Takumi Saitô","Horror, Mystery, Sci-Fi",4.5
+749,Detective Chinatown 3,2021,136.0,Sicheng Chen,"Baoqiang Wang, Haoran Liu, Satoshi Tsumabuki","Action, Adventure, Comedy",5.6
+750,Three Wishes for Cinderella,2021,87.0,Cecilie A. Mosli,"Astrid S, Bjørn Sundquist, Anne Marit Jacobsen","Family, Fantasy, Romance",5.8
+751,Inu-Oh,2021,98.0,"Fûga Yamashiro, Masaaki Yuasa","Avu-chan, Mirai Moriyama, Tasuku Emoto","Animation, Drama, Fantasy",7.1
+752,Ram Asur,2021,132.0,Triparna Venkatesh,"Sherry Agarwal, Dishanth, Abhichandra Jella",Action,3.9
+753,Override,2021,95.0,Richard Colton,"Luke Goss, Dean Cain, Jessica Impiazzi","Crime, Sci-Fi, Thriller",3.9
+754,Red,2021,146.0,Thirumala Kishore,"Ram Pothineni, Nivetha Pethuraj, Malvika Sharma","Crime, Drama, Mystery",6.5
+755,Ride or Die,2021,142.0,Ryûichi Hiroki,"Kiko Mizuhara, Honami Satô, Shinya Niiro","Crime, Drama, Romance",5.6
+756,Strawberry Mansion,2021,91.0,"Kentucker Audley, Albert Birney","Penny Fuller, Kentucker Audley, Grace Glowicki","Adventure, Fantasy, Romance",6.4
+757,Slapface,2021,85.0,Jeremiah Kipp,"August Maturo, Mike Manning, Libe Barer","Horror, Thriller",5.1
+758,30 Rojullo Preminchadam Ela?,2021,143.0,Munna,"Pradeep Machiraju, Amritha Aiyer, Hyper Adhi","Fantasy, Romance",5.6
+759,Hollywood.Con,2021,101.0,Mika Boorem,"Mika Boorem, Benjamin Boorem, Herbert Russell","Action, Adventure, Comedy",3.5
+760,Dark Web: Cicada 3301,2021,104.0,Alan Ritchson,"Jack Kesy, Conor Leslie, Ron Funches","Action, Comedy, Thriller",5.0
+761,Boomika,2021,123.0,R. Rathindran Prasad,"Avantika, Prasanna Balachandran, Madhuri Jain",Horror,5.0
+762,2025 - The World enslaved by a Virus,2021,92.0,"Joshua Wesely, Simon Wesely","Joshua Wesely, Antonia Joy Speer, Matthew Dougan","Adventure, Sci-Fi",1.0
+763,Zoey's Extraordinary Christmas,2021,99.0,Richard Shepard,"Jane Levy, Skylar Astin, Alex Newell","Comedy, Drama, Fantasy",7.1
+764,American Siege,2021,91.0,Edward Drake,"Bruce Willis, Rob Gough, Anna Hindman","Action, Thriller",3.4
+765,Dynasty Warriors,2021,119.0,Roy Hin Yeung Chow,"Louis Koo, Kai Wang, Ray Lui","Action, Adventure, Fantasy",4.8
+766,Jayanti,2021,144.0,Shailesh Baliram Narwade,"Ruturaj Wankhede, Titeeksha Tawde, Milind Shinde",Drama,8.2
+767,Sabhaapathy,2021,123.0,R. Srinivasa Rao,"Santhanam, Preethi Verma, M.S. Bhaskar","Comedy, Drama",5.7
+768,JJ+E,2021,90.0,Alexis Almström,"Mustapha Aarab, Elsa Öhrn, Jonay Pineda Skallak","Drama, Romance",5.4
+769,The Fable: The Killer Who Doesn't Kill,2021,133.0,Kan Eguchi,"Jun'ichi Okada, Fumino Kimura, Yurina Hirate","Action, Comedy, Mystery",6.8
+770,Another World,2021,96.0,Stéphane Brizé,"Vincent Lindon, Sandrine Kiberlain, Anthony Bajon",Drama,7.0
+771,Between Two Worlds,2021,106.0,Emmanuel Carrère,"Juliette Binoche, Louise Pociecka, Steve Papagiannis",Drama,6.9
+772,Murder by the Coast,2021,88.0,"Tània Balló, Marc M. Sarrado",,"Documentary, Crime, History",6.5
+773,The Ambush,2021,102.0,Pierre Morel,"Omar Bin Haider, Marwan Abdullah, Mohammed Ahmed","Action, Drama, War",6.1
+774,Boogie,2021,90.0,Eddie Huang,"Taylor Takahashi, Pamelyn Chee, Jorge Lendeborg Jr.","Drama, Sport",5.2
+775,Hard Hit,2021,94.0,Kim Chang-ju,"Jo Woo-jin, Ji Chang-wook, Lee Jae-in","Action, Crime, Drama",6.3
+776,The Emigrants,2021,148.0,Erik Poppe,"Lisa Carlehed, Gustaf Skarsgård, Tove Lo","Drama, History",6.6
+777,Rang De,2021,130.0,Venky Atluri,"Nithiin, Keerthy Suresh, V.K. Naresh","Comedy, Drama, Romance",6.3
+778,Catch the Fair One,2021,85.0,Josef Kubota Wladyka,"Kali Reis, Shelly Vincent, Kendall Morris","Crime, Thriller",6.3
+779,Nail Bomber: Manhunt,2021,72.0,Daniel Vernon,"David Copeland, Arthur, Talent Chioma Mundy-Castle","Documentary, Crime, History",6.3
+780,Anonymously Yours,2021,100.0,Maria Torres,"Annie Cabello, Harold Azuara, Estefi Merelles","Drama, Romance",5.8
+781,Kotigobba 3,2021,140.0,Shiva Karthik,"Sudeep, Aftab Shivdasani, Madonna Sebastian","Action, Drama, Romance",5.5
+782,Cow,2021,94.0,Andrea Arnold,Lin Gallagher,Documentary,7.1
+783,Seetharaam Benoy Case Number Eighteen,2021,125.0,Deviprasad Shetty,"Vijay Raghavendra, Sathwik Hebbar, Bindu Raxidi",Crime,6.6
+784,The Scary of Sixty-First,2021,81.0,Dasha Nekrasova,"Madeline Quinn, Betsey Brown, Stephen Gurewitz","Comedy, Drama, Horror",4.5
+785,A Palace for Putin. The Story of the Biggest Bribe,2021,113.0,Alexei Navalny,"Alexei Navalny, Georgy Alburov, Vyacheslav Gimadi",Documentary,8.6
+786,Annabelle Sethupathi,2021,135.0,Deepak Sundarrajan,"Vijay Sethupathi, Taapsee Pannu, Jagapathi Babu","Comedy, Fantasy, Horror",3.7
+787,Don't Kill Me,2021,90.0,Andrea De Sica,"Alice Pagani, Rocco Fasano, Silvia Calderoni","Fantasy, Horror, Romance",4.3
+788,The Lockdown Hauntings,2021,101.0,Howard J. Ford,"Tony Todd, Angela Dixon, Heather Peace","Horror, Thriller",4.0
+789,Fever Dream,2021,93.0,Claudia Llosa,"María Valverde, Jolene Andersen, Dolores Fonzi","Drama, Horror, Mystery",5.4
+790,Rhino,2021,101.0,Oleh Sentsov,"Serhii Filimonov, Evhen Chernykov, Yevhen Grygoriev","Action, Crime, Drama",6.6
+791,In for a Murder,2021,105.0,Piotr Mularuk,"Anna Smolowik, Pawel Domagala, Szymon Bobrowski","Comedy, Thriller",5.5
+792,Sara's,2021,119.0,Jude Anthany Joseph,"Meera Nair, Siddique, Anna Ben","Comedy, Drama, Romance",6.5
+793,The Retaliators,2021,95.0,"Samuel Gonzalez Jr., Bridget Smith","Michael Lombardi, Marc Menchaca, Joseph Gatt","Horror, Thriller",5.3
+794,Fabian: Going to the Dogs,2021,176.0,Dominik Graf,"Tom Schilling, Albrecht Schuch, Saskia Rosendahl","Drama, Romance",7.1
+795,Check,2021,140.0,Chandra Sekhar Yeleti,"Nithiin, Rakul Preet Singh, Priya Prakash Varrier","Action, Crime, Drama",6.4
+796,Gamanam,2021,114.0,Sujana Rao,"Agastya, Palak Aggarwal, Alakananda",Drama,5.8
+797,Riverdance: The Animated Adventure,2021,90.0,"Eamonn Butler, Dave Rosenbaum","Pierce Brosnan, Sam Hardy, Hannah Herman","Animation, Adventure, Comedy",5.6
+798,Ida Red,2021,111.0,John Swab,"Josh Hartnett, Frank Grillo, Melissa Leo","Drama, Thriller, Western",5.6
+799,The House Next Door: Meet the Blacks 2,2021,97.0,Deon Taylor,"Mike Epps, Katt Williams, Lil Duval","Action, Comedy, Horror",4.1
+800,A Chiara,2021,121.0,Jonas Carpignano,"Pio Amato, Swamy Rotolo, Carmelo Caccamo",Drama,6.8
+801,Black as Night,2021,87.0,Maritte Lee Go,"Asjha Cooper, Fabrizio Guido, Mason Beauchamp","Drama, Horror, Thriller",4.5
+802,Wild Dog,2021,145.0,Ahishor Solomon,"Nagarjuna Akkineni, Dia Mirza, Saiyami Kher","Action, Thriller",6.1
+803,Marvelous and the Black Hole,2021,81.0,Kate Tsang,"Miya Cech, Rhea Perlman, Leonardo Nam","Comedy, Drama",6.2
+804,Lady of the Manor,2021,96.0,"Christian Long, Justin Long","Melanie Lynskey, Judy Greer, Justin Long","Comedy, Mystery",5.4
+805,Climax,2021,80.0,Bhavani Shankar Kaipa,"Chandranath, Muralidhar Goud, Aarti Gupta","Crime, Mystery, Thriller",7.2
+806,The Seed,2021,91.0,Sam Walker,"Lucy Martin, Chelsea Edge, Sophie Vavasseur","Comedy, Horror, Sci-Fi",4.8
+807,South of Heaven,2021,120.0,Aharon Keshales,"Jason Sudeikis, Evangeline Lilly, Mike Colter","Crime, Drama, Thriller",5.8
+808,Ainbo,2021,84.0,"Richard Claus, Jose Zelada","Lola Raie, Naomi Serrano, Dino Andrade","Animation, Adventure, Comedy",4.9
+809,Security,2021,118.0,Peter Chelsom,"Marco D'Amore, Maya Sansa, Silvio Muccino",Thriller,5.0
+810,Thinkalazhcha Nishchayam,2021,109.0,Senna Hegde,"Sunil C.K., Sajin Cherukayil, Jimmy Danny","Comedy, Drama, Romance",7.7
+811,P!nk: All I Know So Far,2021,99.0,Michael Gracey,"P!nk, Remi Bakkar, Khasan Brailsford","Documentary, Biography, Music",7.8
+812,Hell Hath No Fury,2021,94.0,Jesse V. Johnson,"Nina Bergman, Daniel Bernhardt, Timothy V. Murphy","Action, War",4.8
+813,Perfect Strangers,2021,94.0,Octavian Strunila,"Anca Dumitra, Andreea Gramosteanu, Leonid Doni","Comedy, Drama",7.8
+814,Mr Lonely,2021,108.0,Mukki Harish Kumar,"Lohitha, Kiya Reddy, Nuraj Mani Sai",Romance,8.4
+815,Eeswaran,2021,130.0,Suseenthiran,"Silambarasan TR, Bharathiraja, Nidhhi Agerwal","Action, Drama",4.3
+816,Golondaaj,2021,150.0,Dhrubo Banerjee,"Dev, Alexx O'Nell, Srikanta Acharya",Sport,7.3
+817,2gether: The Movie,2021,107.0,"Noppharnach Chaiwimol, Kanittha Kwanyu, Weerachit Thongjila","Vachirawit Chivaaree, Metawin Opas-Iamkajorn, Drake Sattabut Laedeke","Comedy, Musical, Romance",6.6
+818,The Falls,2021,129.0,Mong-Hong Chung,"Alyssa Chia, Gingle Wang, Chen Yiwen",Drama,7.0
+819,Deadlock,2021,97.0,Jared Cohn,"Bruce Willis, Patrick Muldoon, Matthew Marsden","Action, Thriller",3.6
+820,Waiting for Bojangles,2021,124.0,Régis Roinsard,"Romain Duris, Grégory Gadebois, Virginie Efira","Comedy, Drama, Romance",6.4
+821,The Changed,2021,78.0,Michael Mongillo,"Clare Foley, Tony Todd, Jason Alan Smith","Horror, Sci-Fi, Thriller",3.4
+822,Sword Art Online: Progressive - Aria of a Starless Night,2021,97.0,Ayako Kouno,"Yoshitsugu Matsuoka, Haruka Tomatsu, Inori Minase","Animation, Action, Adventure",7.2
+823,Needle in a Timestack,2021,111.0,John Ridley,"Leslie Odom Jr., Freida Pinto, Cynthia Erivo","Drama, Fantasy, Romance",5.3
+824,Eakam,2021,125.0,Varun Vamsi,"Anish Avunuri, Tanikella Bharani, Sree Charan","Adventure, Drama, Fantasy",7.1
+825,Count Me In,2021,81.0,Mark Lo,"Ginger Baker, Cindy Blackman, Art Blakey","Documentary, History, Music",6.8
+826,Ripper Untold,2021,85.0,Steve Lawson,"Jacob Anderton, Chris Bell, Dawn Butler","Crime, Mystery",4.1
+827,Captain Nova,2021,86.0,Maurice Trouwborst,"Anniek Pheifer, Bram Blankestijn, Dunya Khayame","Adventure, Family, Sci-Fi",5.5
+828,Martyrs Lane,2021,96.0,Ruth Platt,"Kiera Thompson, Denise Gough, Sienna Sayer","Drama, Horror",5.5
+829,Ajagajantharam,2021,122.0,Tinu Pappachan,"Arjun Ashokan, Antony Varghese, Lukman Avaran","Action, Comedy",6.7
+830,Dikkiloona,2021,144.0,Karthik Yogi,"Santhanam, Anagha L.K., Shirin Kanchwala","Comedy, Romance, Sci-Fi",6.2
+831,Checkered Ninja 2,2021,86.0,"Thorbjørn Christoffersen, Anders Matthesen","Louis Næss-Schmidt, Emma Sehested Høeg, Anders Matthesen","Animation, Action, Adventure",6.8
+832,A Cop Movie,2021,107.0,Alonso Ruizpalacios,"Mónica Del Carmen, Raúl Briones, María Teresa Hernández Cañas","Documentary, Action, Crime",7.0
+833,Hold Me Tight,2021,97.0,Mathieu Amalric,"Vicky Krieps, Arieh Worthalter, Anne-Sophie Bowen-Chatet",Drama,6.7
+834,Cryptozoo,2021,95.0,Dash Shaw,"Lake Bell, Michael Cera, Alex Karpovsky","Animation, Action, Crime",6.4
+835,Kodiyil Oruvan,2021,151.0,Ananda Krishnan,"Vijay Antony, Aathmika, Divya Prabha","Action, Drama",6.7
+836,Senior Moment,2021,92.0,Giorgio Serafini,"William Shatner, Jean Smart, Don McManus","Comedy, Drama, Romance",5.6
+837,A Glitch in the Matrix,2021,108.0,Rodney Ascher,"Nick Bostrom, Joshua Cooke, Erik Davis",Documentary,5.2
+838,Aileen Wuornos: American Boogeywoman,2021,85.0,Daniel Farrands,"Peyton List, Tobin Bell, Lydia Hearst","Biography, Crime, Drama",3.8
+839,Red Snow,2021,80.0,Sean Nichols Lynch,"Dennice Cisneros, Nico Bellamy, Laura Kennon","Comedy, Horror, Thriller",5.0
+840,A Taste of Hunger,2021,104.0,Christoffer Boe,"Katrine Greis-Rosenthal, Nikolaj Coster-Waldau, Flora Augusta","Drama, Romance",6.3
+841,The Last Son,2021,96.0,Tim Sutton,"Sam Worthington, Colson Baker, Thomas Jane","Drama, Thriller, Western",4.8
+842,Yakuza Princess,2021,111.0,Vicente Amorim,"MASUMI, Jonathan Rhys Meyers, Tsuyoshi Ihara","Action, Crime, Thriller",4.8
+843,Attack on Finland,2021,119.0,Aku Louhimies,"Jasper Pääkkönen, Nanna Blondell, Sverrir Gudnason","Action, Thriller",5.3
+844,Dancing Queens,2021,110.0,Helena Bergström,"Rakel Wärmländer, Emil Almén, Mattias Nordkvist","Comedy, Drama",5.8
+845,Vinodhaya Sitham,2021,97.0,Samuthirakani,"Munishkanth, Thambi Ramaiah, Sheriina Sam","Comedy, Drama",8.0
+846,What Do We See When We Look at the Sky?,2021,150.0,Aleksandre Koberidze,"Ani Karseladze, Giorgi Bochorishvili, Oliko Barbakadze","Comedy, Drama, Romance",6.8
+847,Demigod,2021,95.0,Miles Doleac,"Sherri Eakin, Sarah S. Fisher, Lindsay Anne Williams","Drama, Horror, Mystery",3.6
+848,Anne+,2021,94.0,Valerie Bisscheroux,"Hanna van Vliet, Jouman Fattal, Thorn de Vries",Drama,6.2
+849,You Me Lenin,2021,86.0,Tufan Tastan,"Baris Falay, Saygin Soysal, Hasibe Eren",Drama,6.5
+850,Zeher Tulugu,2021,107.0,"Orkhan Mardan, Taleh Yüzbeyov","Taleh Yüzbeyov, Leman Merrih, Nezaket Heyderova","Comedy, Drama",7.9
+851,The Power,2021,153.0,Mahesh Manjrekar,"Vidyut Jammwal, Shruti Haasan, Salil Ankola","Action, Thriller",5.4
+852,Leave No Traces,2021,160.0,Jan P. Matuszynski,"Tomasz Zietek, Sandra Korzeniak, Jacek Braciak","Crime, Drama, History",7.1
+853,Din: The Day,2021,208.0,"Morteza Atashzamzam, Murtaza Otash Jamjam, Ilker Can Karagulle","Sawfan Ahmed, Adem Arslan, Afiea Nusrat Barsha",Action,3.0
+854,Secrets of Sinauli,2021,56.0,Raghav Jairath,"Manoj Bajpayee, R.S. Bhist, K.N. Dixit","Documentary, History",8.9
+855,Mobile Suit Gundam: Hathaway,2021,95.0,"Hidekazu Hara, Kô Matsuo, Shûkô Murase","Kenshô Ono, Reina Ueda, Jun'ichi Suwabe","Animation, Action, Drama",6.6
+856,Bhavai,2021,114.0,Hardik Gajjar,"Pratik Gandhi, Aindrita Ray, Bhagyashreee Mote","Drama, Romance",5.7
+857,Anaïs in Love,2021,98.0,Charline Bourgeois-Tacquet,"Anaïs Demoustier, Valeria Bruni Tedeschi, Denis Podalydès","Comedy, Drama, Romance",6.4
+858,Bachelor,2021,174.0,Sathish Selvakumar,"Emon Albira, Divya Bharathi, G.V. Prakash Kumar",Drama,6.0
+859,Eating Our Way to Extinction,2021,82.0,"Ludo Brockway, Otto Brockway","Kate Winslet, Anthony Robbins, Richard Branson",Documentary,7.6
+860,1997,2021,,Mohan,"Benerji, Naveen Chandra, Shrikanth Iyyanngar",Adventure,8.7
+861,The Free Fall,2021,82.0,Adam Stilwell,"Andrea Londo, Shawn Ashmore, Jane Badler","Drama, Horror, Mystery",4.6
+862,Narasimhapuram,2021,115.0,Sriraj Balla,"Nandakishore, Siri Hanumanth, Ravi Varma Balla","Action, Crime, Drama",7.3
+863,Just Say Yes,2021,97.0,"Appie Boudellah, Aram van de Rest","Yolanthe Cabau, Noortje Herlaar, Jim Bakkum","Comedy, Romance",4.6
+864,Tesciowie,2021,82.0,Jakub Michalczuk,"Marcin Dorocinski, Maja Ostaszewska, Izabela Kuna","Comedy, Drama",7.1
+865,1000 Miles from Christmas,2021,102.0,Álvaro Fernández Armero,"Tamar Novas, Andrea Ros, Peter Vives","Comedy, Romance",5.9
+866,Dynamite,2021,90.0,Masoud Atyabi,"Pejman Jamshidi, Ahmad Mehranfar, Nazanin Bayati",Comedy,4.8
+867,Between Two Dawns,2021,87.0,Selman Nacar,"Mücahit Koçak, Nezaket Erden, Ünal Silver",Drama,7.0
+868,Mexican Moon,2021,101.0,Chris Zuhdi,"Justin G. Brutico, Hugo Christian, Pablo Esparza","Crime, Drama, Western",5.2
+869,Mission 2020,2021,140.0,Karanam P. Babji,"Naga Babu, Naveen Chandra, Madhu Nambiar",Action,7.7
+870,Fish and Puddle,2021,76.0,Ali Barati,"Saeed Aghakhani, Mehdi Faghih, Amir Reza Faramarzi","Drama, Family",3.8
+871,The Ravine,2021,121.0,Keoni Waxman,"Eric Dane, Teri Polo, Leslie Uggams","Mystery, Thriller",4.5
+872,The Knower,2021,110.0,Ahmad Ala El-Dib,"Ahmed Ezz, Ahmed Fahmy, Mostafa Khater","Action, Crime, Thriller",6.2
+873,Mayday,2021,100.0,Karen Cinorre,"Grace Van Patten, Mia Goth, Soko","Drama, Fantasy, Mystery",4.4
+874,The Accusation,2021,138.0,Yvan Attal,"Ben Attal, Suzanne Jouannet, Charlotte Gainsbourg","Crime, Drama",7.0
+875,Dawn Breaks Behind the Eyes,2021,76.0,Kevin Kopacka,"Anna Platen, Jeff Wilbusch, Luisa Taraz","Action, Horror, Mystery",5.0
+876,Long Weekend,2021,91.0,Steve Basilone,"Steve Basilone, Jennifer Irwin, Jess Jacobs","Comedy, Romance",6.2
+877,Thamasoma Jyothirgamaya,2021,93.0,VijayKumar Badugu,"AnandRajBethi, SravaniShetty","Drama, Romance",8.0
+878,The Survivalist,2021,91.0,Jon Keeyes,"Jonathan Rhys Meyers, John Malkovich, Ruby Modine","Action, Sci-Fi, Thriller",3.5
+879,Motherly,2021,80.0,Craig Wallace,"Lora Burke, Tessa Kozma, Kristen MacCulloch","Horror, Mystery, Thriller",5.2
+880,America Latina,2021,90.0,"Damiano D'Innocenzo, Fabio D'Innocenzo","Elio Germano, Astrid Casali, Sara Ciocca","Drama, Mystery, Thriller",5.9
+881,Drushyam 2,2021,155.0,Jeethu Joseph,"Venkatesh Daggubati, Meena, Nadia Moidu","Crime, Drama, Mystery",8.1
+882,Vellam,2021,154.0,Prajesh Sen,"Johny Antony, Sreeja Das, Samyuktha Menon","Biography, Drama",7.6
+883,Click,2021,127.0,Srinivas Kaushik,"Bhanu Sri, Bhanuchander, Padmaja Lanka","Action, Thriller",3.9
+884,Cabras da Peste,2021,97.0,Vitor Brandt,"Matheus Nachtergaele, Edmilson Filho, Letícia Lima","Action, Comedy, Crime",6.0
+885,Juniper,2021,94.0,Matthew J. Saville,"Charlotte Rampling, Marton Csokas, George Ferrier",Drama,6.5
+886,The Legend of Molly Johnson,2021,109.0,Leah Purcell,"Leah Purcell, Malachi Dower-Roberts, Amahlia Olsson","Drama, History, Thriller",6.4
+887,Paagal,2021,130.0,Naresh Kuppili,"Vishwak Sen, Murli Sharma, Nivetha Pethuraj",Comedy,5.6
+888,The River Runner,2021,86.0,Rush Sturges,,Documentary,6.9
+889,Plan A,2021,109.0,"Doron Paz, Yoav Paz","August Diehl, Sylvia Hoeks, Michael Aloni","Drama, History, Thriller",6.0
+890,Tokyo Revengers,2021,120.0,Tsutomu Hanabusa,"Takumi Kitamura, Yuki Yamada, Yôsuke Sugino","Action, Crime, Drama",6.5
+891,The Generation of Evil,2021,114.0,Emilis Velyvis,"Ingeborga Dapkunaite, Vytautas Kaniusonis, Ainis Storpirstis","Crime, Drama",7.5
+892,The Most Beautiful Boy in the World,2021,93.0,"Kristina Lindström, Kristian Petri","Kristina Lindström, Luchino Visconti, Mario Tursi","Documentary, Biography, History",6.8
+893,Greek Fire - Demon Spirit,2021,76.0,Dan T. Hall,"William Barr, Erik Biggers, Dennis Crosswhite",Horror,5.0
+894,Nenjam Marappathillai,2021,150.0,K. Selvaraghavan,"S.J. Suryah, Nandita Shwetha, Regena Cassandrra","Horror, Thriller",6.0
+895,Miss Willoughby and the Haunted Bookshop,2021,90.0,Brad Watson,"Nathalie Cox, Kelsey Grammer, Louise Bangay","Adventure, Crime, Mystery",5.6
+896,Downfalls High,2021,46.0,"Colson Baker, Mod Sun","Sydney Sweeney, Chase Hudson, Colson Baker","Drama, Musical, Romance",6.8
+897,Poster,2021,143.0,MahipalReddy,"Vijay Dharan Datla, Raashi Singh, Akshata Sonawane","Drama, Family",6.7
+898,Raja Raja Chora,2021,145.0,Hasith Goli,"Sree Vishnu, Megha Akash, Sunaina Yella",Comedy,7.5
+899,Kapata Nataka Sutradhari,2021,116.0,Kranthi Saina,"Vijay Shankar, Sampath, Chandu",Thriller,4.1
+900,The Birthday Cake,2021,93.0,Jimmy Giannopoulos,"Shiloh Fernandez, Val Kilmer, Ewan McGregor","Crime, Thriller",4.4
+901,Mission Possible,2021,105.0,Kim Hyeong-joo,"Kim Young-kwang, Lee Sun-bin, Oh Dae-hwan","Action, Comedy, Crime",6.5
+902,Meow,2021,145.0,Lal Jose,"Soubin Shahir, Mamta Mohandas, Salim Kumar","Comedy, Drama",6.5
+903,The Hole,2021,93.0,Michelangelo Frammartino,"Nicola Lanza, Antonio Lanza, Leonardo Larocca",Drama,6.6
+904,National Champions,2021,116.0,Ric Roman Waugh,"Stephan James, J.K. Simmons, Alexander Ludwig","Drama, Sport",5.7
+905,Kanakam Kaamini Kalaham,2021,121.0,Ratheesh Balakrishnan Poduval,"Nivin Pauly, Maala Parvathi, Vinay Forrt",Comedy,5.8
+906,The Guide to the Perfect Family,2021,102.0,Ricardo Trogi,"Monika Pilon, Katia Lévesque, Hugues Saint Louis","Comedy, Drama",6.4
+907,Prime Time,2021,93.0,Jakub Piatek,"Bartosz Bielenia, Magdalena Poplawska, Andrzej Klak","Drama, Thriller",5.2
+908,Death Valley,2021,91.0,Matthew Ninaber,"Jeremy Ninaber, Ethan Mitchell, Kristen Kaster","Action, Horror, Sci-Fi",4.1
+909,Theeram,2021,144.0,Anil Inamadugu,"Sravan Ygt, Anil Inamadugu, Kristen Ravali","Action, Drama, Romance",7.7
+910,Torn,2021,92.0,Max Lowe,"Conrad Anker, Jennifer Lowe-Anker, Alex Lowe",Documentary,7.5
+911,Clue: A Love Thriller,2021,123.0,Venkateswarlu Karadi,"Bhoomireddy Venkat Reddy, Aishwarya, Zeenat Kapadia","Crime, Thriller",7.0
+912,The Execution,2021,138.0,Lado Kvataniya,"Niko Tavadze, Evgeniy Tkachuk, Daniil Spivakovskiy","Crime, Mystery, Thriller",6.7
+913,Help,2021,96.0,Blake Ridder,"Emily Redpath, Sarah Alexandra Marks, Louis James","Drama, Mystery, Thriller",3.8
+914,Private Desert,2021,121.0,Aly Muritiba,"Antonio Saboia, Pedro Fasanaro, Thomás Aquino",Drama,7.0
+915,Witch Hunt,2021,98.0,Elle Callahan,"Gideon Adlon, Abigail Cowen, Elizabeth Mitchell","Drama, Fantasy, Horror",4.9
+916,The Judgement,2021,130.0,Sander Burger,"Fedja van Huêt, Yorick van Wageningen, Lies Visschedijk","Biography, Crime, Drama",7.3
+917,Christmas Is Canceled,2021,95.0,Prarthana Mohan,"Hayley Orrantia, Dermot Mulroney, Janel Parrish","Comedy, Romance",4.8
+918,A Christmas Tale,2021,104.0,Hannes Holm,"Simon Larson, Jonas Karlsson, Jennie Silfverhjelm","Comedy, Drama, Family",6.3
+919,Ted Bundy: American Boogeyman,2021,96.0,Daniel Farrands,"Chad Michael Murray, Holland Roden, Jake Hays","Biography, Crime, Drama",3.9
+920,Luzzu,2021,94.0,Alex Camilleri,"Jesmark Scicluna, Marlene Schranz, David Scicluna",Drama,6.9
+921,The Retreat,2021,82.0,Pat Mills,"Tommie-Amber Pirie, Sarah Allen, Rossif Sutherland","Horror, Thriller",4.9
+922,The Pilot: A Battle for Survival,2021,105.0,Renat Davletyarov,"Pyotr Fyodorov, Anna Peskova, Valeriy Grishko","Biography, Drama, History",6.2
+923,The Blind Man Who Did Not Want to See Titanic,2021,82.0,Teemu Nikki,"Petri Poikolainen, Marjaana Maijala, Samuli Jaskio","Comedy, Drama, Romance",7.4
+924,Mousa,2021,105.0,Peter Mimi,"Kareem Mahmoud Abdel Aziz, Eyad Nassar, Salah Abdalla","Action, Drama, Fantasy",6.0
+925,Dhamki,2021,,Aenuganti,"Rajith CR, Trishala Shah, Sravan","Action, Drama",7.9
+926,Magnetic Fields,2021,78.0,Yorgos Goussis,"Elena Topalidou, Antonis Tsiotsiopoulos, Nikos Spanides","Comedy, Drama",6.7
+927,Shatagni - The Movie,2021,,Lv Siva,"Abhiram Dasari, Abhiram Reddy Dasari, Swathi Mandal","Action, Crime, Thriller",7.6
+928,Bheemante Vazhi,2021,115.0,Ashraf Hamza,"Kunchacko Boban, Jinu Joseph, Divya M. Nair",Comedy,6.3
+929,The Girl Who Believes in Miracles,2021,100.0,Richard Correll,"Mira Sorvino, Austyn Johnson, Kevin Sorbo","Drama, Family",6.0
+930,God's Not Dead: We the People,2021,92.0,Vance Null,"David A.R. White, William Forsythe, Isaiah Washington",Drama,4.3
+931,A Father's Diary,2021,113.0,Golam Mustofa,"Afroz Khan, Nidhi Dhara, Sonali Jain",Drama,6.5
+932,Tonic Film,2021,134.0,Avijit Sen,"Dev, Paran Banerjee, Shakuntala Barua","Comedy, Drama, Music",7.6
+933,Detective Conan: The Scarlet Bullet,2021,110.0,Tomoka Nagaoka,"Minami Takayama, Wakana Yamazaki, Rikiya Koyama","Animation, Action, Crime",6.2
+934,Decrypted,2021,112.0,Tom Sands,"Sophia Myles, David Hoflin, Amanda Abbington","Comedy, Drama",4.1
+935,"If I Can't Have Love, I Want Power",2021,53.0,Colin Tilley,"Halsey, Sasha Lane, Brian Caspe","Drama, Fantasy, Horror",6.4
+936,Keshu Ee Veedinte Nadhan,2021,141.0,Nadirsha,"Dileep, Urvashi, Naslen",Drama,4.4
+937,Mr. X,2021,,Jubair,"Lohit, Pavani, PreethiSundar",Crime,7.1
+938,B for Busy,2021,112.0,Shao Yihui,"Zheng Xu, Yili Ma, Yue Wu","Comedy, Drama, Romance",7.4
+939,Ooriki Uttharana,2021,122.0,"Satish Paramvedha, Sateesh Paramveda","Chakrapani Ananda, Ankith Koyya, Vanaparthi Naren",Drama,3.2
+940,Marilyn's Eyes,2021,114.0,Simone Godano,"Stefano Accorsi, Miriam Leone, Thomas Trabacchi","Comedy, Drama",6.6
+941,The Grandson,2021,115.0,Kristóf Deák,"Gergely Blahó, Tamás Jordán, Gábor Jászberényi","Action, Drama, Thriller",6.9
+942,Mako,2021,96.0,Mohamed Hesham El-Rashidy,"Nicolas Mouawad, Basma, Munther Reyahneh","Adventure, Thriller",3.5
+943,To Olivia,2021,99.0,John Hay,"Hugh Bonneville, Bobby O'Neill, Eve Prenelle","Biography, Drama",6.4
+944,Jai Bhajrangi,2021,156.0,Harsha,"Shivarajkumar, Bhavana, Shruti","Action, Fantasy",6.5
+945,Woodlands Dark and Days Bewitched: A History of Folk Horror,2021,194.0,Kier-La Janisse,"Linda Hayden, Ian Ogilvy, Kevin Kölsch","Documentary, Horror",7.6
+946,Trees of Peace,2021,97.0,Alanna Brown,"Eliane Umuhire, Charmaine Bingwa, Ella Cannon",Drama,6.5
+947,Lulli,2021,90.0,César Rodrigues,"Larissa Manoela, Vinícius Redd, Amanda de Godoi","Comedy, Romance",4.9
+948,The Colour Room,2021,112.0,Claire McCarthy,"Phoebe Dynevor, Matthew Goode, Kerry Fox",Drama,6.8
+949,The Real Charlie Chaplin,2021,114.0,"Peter Middleton, James Spinney","Pearl Mackie, Jeff Rawle, Paul Ryan","Documentary, Biography",7.3
+950,Deep,2021,101.0,"Sita Likitvanichkul, Jetarin Ratanaserikiat, Apirak Samudkidpisan","Panisara Rikulsurakan, Kay Lertsittichai, Supanaree Sutavijitvong","Drama, Mystery, Sci-Fi",4.9
+951,The Road Dance,2021,116.0,Richie Adams,"Hermione Corfield, Will Fletcher, Mark Gatiss",Drama,7.1
+952,Wildhood,2021,108.0,Bretten Hannam,"Phillip Forest Lewitski, Joshua Odjick, Avery Winters-Anthony","Drama, Romance",7.0
+953,Madam Chief Minister,2021,130.0,Subhash Kapoor,"Richa Chadha, Manav Kaul, Saurabh Shukla",Drama,4.9
+954,"Wrong Place, Wrong Time",2021,85.0,Tristan Price,"Audrey Rode, Alex Ryan Brown, Chase Garland","Action, Horror, Thriller",3.0
+955,Where Is Anne Frank,2021,99.0,Ari Folman,"Emily Carey, Michael Maloney, Ruby Stokes","Animation, Drama, Family",6.4
+956,Seal Team,2021,101.0,"Greig Cameron, Kane Croudace","J.K. Simmons, Dolph Lundgren, Sharlto Copley","Animation, Action, Comedy",5.6
+957,The Last Thing Mary Saw,2021,89.0,Edoardo Vitaletti,"Stefanie Scott, Daniel Pearce, Philip Hoffman","Drama, Horror, Thriller",5.1
+958,Do You Do You Saint-Tropez,2021,89.0,Nicolas Benamou,"Christian Clavier, Benoît Poelvoorde, Thierry Lhermitte","Comedy, Crime, Mystery",5.0
+959,Jathiya Rahadari,2021,103.0,Narasimha Nandi,"Parameshwar Hivrale, Madhu Chitte, Mamatha",Drama,6.5
+960,Pinocchio: A True Story,2021,94.0,Vasiliy Rovenskiy,"Jon Heder, Tom Kenny, Pauly Shore","Animation, Family, Fantasy",3.2
+961,In the Same Breath,2021,95.0,Nanfu Wang,"Runzhen Chen, Liu Peien, Mingxing Tao",Documentary,7.5
+962,Deception,2021,105.0,Arnaud Desplechin,"Léa Seydoux, Denis Podalydès, Anouk Grinberg",Drama,5.5
+963,Madeleine Collins,2021,102.0,Antoine Barraud,"Virginie Efira, Quim Gutiérrez, Bruno Salomone","Drama, Thriller",6.2
+964,Jagged,2021,99.0,Alison Klayman,"Alanis Morissette, Nicola Gledhill, Hanif Abdurraqib","Documentary, Biography, Music",7.3
+965,Tughlaq Durbar,2021,145.0,Delhi Prasad Deenadayal,"Vijay Sethupathi, Raashi Khanna, Manjima Mohan","Comedy, Drama, Thriller",5.3
+966,Madres,2021,83.0,Ryan Zaragoza,"Ariana Guerra, Tenoch Huerta, Elpidia Carrillo",Horror,4.9
+967,Rebels @ School,2021,108.0,"Ilse Warringa, Jan Albert de Weerd","Jennifer Hoffman, Ilse Warringa, Bianca Krijgsman",Comedy,6.1
+968,Unclenching the Fists,2021,97.0,Kira Kovalenko,"Milana Aguzarova, Alik Karaev, Soslan Khugaev",Drama,6.6
+969,Play Back,2021,138.0,Hari Prasad Jakka,"Dinesh Tej, Ananya Nagalla, Arjun Kalyan","Crime, Fantasy, Romance",7.6
+970,Sivakumarin Sabadham,2021,137.0,Hiphop Tamizha Adhi,"Hiphop Tamizha Adhi, Madhuri Jain, Prankster Rahul","Comedy, Drama",6.0
+971,Asakusa Kid,2021,122.0,Gekidan Hitori,"Gina Su, Keiko Agena, Feodor Chin","Biography, Drama",7.1
+972,200: Halla Ho,2021,115.0,"Sarthak Dasgupta, Sunny Mandavarra, Alok Batra","Ray Aksh, Saloni Batra, Apurva Choudhari","Crime, History, Thriller",7.5
+973,Night Raiders,2021,101.0,Danis Goulet,"Elle-Máijá Tailfeathers, Brooklyn Letexier-Hart, Alex Tarrant","Action, Sci-Fi, Thriller",5.3
+974,New York Ninja,2021,93.0,"John Liu, Kurtis Spieler","Don Wilson, Michael Berryman, Linnea Quigley","Action, Crime, Thriller",5.4
+975,Be Somebody,2021,123.0,Xunzimo Liu,"Zheng Yin, Jiajia Deng, Entai Yu","Comedy, Drama, Mystery",6.9
+976,Beautiful Minds,2021,92.0,"Bernard Campan, Alexandre Jollien","Bernard Campan, Alexandre Jollien, Tiphaine Daviot","Comedy, Drama",7.0
+977,Ultrasound,2021,103.0,Rob Schroeder,"Vincent Kartheiser, Chelsea Lopez, Breeda Wool","Drama, Mystery, Sci-Fi",5.8
+978,True Things,2021,102.0,Harry Wootliff,"Ruth Wilson, Tom Burke, Hayley Squires",Drama,5.9
+979,Supereroi,2021,122.0,Paolo Genovese,"Alessandro Borghi, Jasmine Trinca, Vinicio Marchioni","Comedy, Drama, Romance",6.7
+980,Rose Blood: A Friday the 13th Fan Film,2021,92.0,Peter Anthony,"Lar Park-Lincoln, Terry Kiser, Kevin Spirtas",Horror,5.6
+981,The Inner Cage,2021,117.0,Leonardo Di Costanzo,"Toni Servillo, Silvio Orlando, Fabrizio Ferracane",Drama,7.0
+982,Till We Meet Again,2021,128.0,Giddens Ko,"Kai Ko, Vivian Sung, Gingle Wang","Comedy, Drama, Fantasy",6.7
+983,The Trip,2021,94.0,Vamsi Krishna Akella,"Goutham Raj, Soumya Shetty, Aamani",Drama,7.6
+984,Oh Manapenne,2021,140.0,Kaarthikk Sundar,"Harish Kalyan, Abishek Kumar, Ashwin Kumar Lakshmikanthan","Comedy, Drama, Romance",7.1
+985,I Work at the Cemetery,2021,100.0,Alexey Taranenko,"Vitaliy Saliy, Wiktoria Gorodecka, Anna Ivanova","Comedy, Crime, Drama",7.4
+986,Chathur Mukham,2021,138.0,"Ranjeet Kamala Sankar, Salil V.","Manju Warrier, Sunny Wayne, Navas Vallikkunnu","Horror, Thriller",5.7
+987,Guduputani,2021,111.0,K.M. Kumar,"Sapthagiri, Neha Solanki, Raghu Kunche",Comedy,6.4
+988,Anugraheethan Antony,2021,120.0,Prince Joy,"Sunny Wayne, Gouri G. Kishan, Siddique","Drama, Romance",6.2
+989,Maro Prasthanam,2021,124.0,"Jhonny, Jhony","Tanish Alladi, Bhanu Sri Mehra, Shubhangi Pant","Action, Crime, Drama",5.8
+990,Happier Than Ever: A Love Letter to Los Angeles,2021,65.0,"Robert Rodriguez, Kerry Asmussen, Patrick Osborne","Billie Eilish, Finneas O'Connell, The Los Angeles Philharmonic",Music,7.3
+991,Ellam Sheriyakum,2021,138.0,Jibu Jacob,"Asif Ali, Johny Antony, Rajisha Vijayan",Drama,6.1
+992,Stop-Zemlia,2021,122.0,Kateryna Gornostai,"Maria Fedorchenko, Arsenii Markov, Yana Isaienko",Drama,7.2
+993,Collar Bomb,2021,86.0,Dnyanesh Zoting,"Jimmy Shergill, Sparsh Shrivastava, Rajshri Deshpande","Action, Thriller",5.1
+994,The Girl and the Spider,2021,98.0,"Ramon Zürcher, Silvan Zürcher","Henriette Confurius, Liliane Amuat, Ursina Lardi","Comedy, Drama",6.0
+995,Ardha Shathabdham,2021,130.0,Rawindra Pulle,"Karthik Rathnam, Naveen Chandra, Krishna Priya","Action, Drama, Romance",7.6
+996,Chal Mera Putt 3,2021,130.0,Janjot Singh,"Amrinder Gill, Simi Chahal, Nasir Chinyoti",Comedy,7.1
+997,Qismat 2,2021,155.0,Jagdeep Sidhu,"Ammy Virk, Sargun Mehta, Tania","Drama, Romance",6.8
+998,American Girl,2021,101.0,Feng-I Fiona Roan,"Karena Ka-Yan Lam, Kaiser Chuang, Caitlin Fang","Drama, Family",7.1
+999,A (Ad Infinitum),2021,153.0,Ugandhar Muni,"Nithin Prasanna, Preethi Asrani, Snehal Kamath","Family, Thriller",6.8
+1000,Knocking,2021,78.0,Frida Kempff,"Cecilia Milocco, Albin Grenholm, Ville Virtanen","Horror, Mystery, Thriller",5.7

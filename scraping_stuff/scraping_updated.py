@@ -18,7 +18,7 @@ options = webdriver.ChromeOptions()
 # options.add_experimental_option("detach", True)
 
 service = Service(r"C:\Users\USER\Downloads\chromedriver-win64\chromedriver-win64\chromedriver.exe")
-urls = ["https://www.imdb.com/search/title/?title_type=feature&release_date=2022-01-01,2022-12-31&count=250&sort=num_votes,desc"]
+urls = ["https://www.imdb.com/search/title/?title_type=feature&release_date=2023-01-01,2023-12-31&count=250&sort=num_votes,desc"]
 
 # Duration parser
 def duration_to_minutes(duration_str):

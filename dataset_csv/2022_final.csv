@@ -1,0 +1,1001 @@
+﻿ID,Name,Year,Duration,Directors,Actors,Genres,Rating
+1,The Batman,2022,176.0,Matt Reeves,"Robert Pattinson, Zoë Kravitz, Jeffrey Wright","Action, Crime, Drama",7.8
+2,Top Gun: Maverick,2022,130.0,Joseph Kosinski,"Tom Cruise, Jennifer Connelly, Miles Teller","Action, Drama",8.2
+3,Everything Everywhere All at Once,2022,139.0,"Daniel Kwan, Daniel Scheinert","Michelle Yeoh, Stephanie Hsu, Jamie Lee Curtis","Action, Adventure, Comedy",7.8
+4,The Kashmir Files,2022,170.0,Vivek Agnihotri,"Mithun Chakraborty, Anupam Kher, Darshan Kumaar",Drama,8.5
+5,Avatar: The Way of Water,2022,192.0,James Cameron,"Sam Worthington, Zoe Saldaña, Sigourney Weaver","Action, Adventure, Fantasy",7.5
+6,Doctor Strange in the Multiverse of Madness,2022,126.0,Sam Raimi,"Benedict Cumberbatch, Elizabeth Olsen, Chiwetel Ejiofor","Action, Adventure, Fantasy",6.9
+7,Bullet Train,2022,127.0,David Leitch,"Brad Pitt, Joey King, Aaron Taylor-Johnson","Action, Comedy, Thriller",7.3
+8,Glass Onion,2022,139.0,Rian Johnson,"Daniel Craig, Edward Norton, Kate Hudson","Comedy, Crime, Drama",7.1
+9,The Menu,2022,107.0,Mark Mylod,"Ralph Fiennes, Anya Taylor-Joy, Nicholas Hoult","Comedy, Horror, Thriller",7.2
+10,Thor: Love and Thunder,2022,118.0,Taika Waititi,"Chris Hemsworth, Natalie Portman, Christian Bale","Action, Adventure, Comedy",6.2
+11,Black Panther: Wakanda Forever,2022,161.0,Ryan Coogler,"Letitia Wright, Lupita Nyong'o, Danai Gurira","Action, Adventure, Drama",6.6
+12,Nope,2022,130.0,Jordan Peele,"Daniel Kaluuya, Keke Palmer, Brandon Perea","Horror, Mystery, Sci-Fi",6.8
+13,Black Adam,2022,125.0,Jaume Collet-Serra,"Dwayne Johnson, Aldis Hodge, Pierce Brosnan","Action, Adventure, Fantasy",6.2
+14,Uncharted,2022,116.0,Ruben Fleischer,"Tom Holland, Mark Wahlberg, Antonio Banderas","Action, Adventure",6.3
+15,The Northman,2022,137.0,Robert Eggers,"Alexander Skarsgård, Nicole Kidman, Claes Bang","Action, Adventure, Drama",7.0
+16,The Banshees of Inisherin,2022,114.0,Martin McDonagh,"Colin Farrell, Brendan Gleeson, Kerry Condon","Comedy, Drama",7.7
+17,All Quiet on the Western Front,2022,148.0,Edward Berger,"Felix Kammerer, Albrecht Schuch, Aaron Hilmer","Drama, History, War",7.8
+18,The Gray Man,2022,122.0,"Joe Russo, Anthony Russo","Ryan Gosling, Chris Evans, Ana de Armas","Action, Mystery, Thriller",6.5
+19,Elvis,2022,159.0,Baz Luhrmann,"Tom Hanks, Austin Butler, Olivia DeJonge","Biography, Drama, Music",7.3
+20,Prey,2022,100.0,Dan Trachtenberg,"Amber Midthunder, Dakota Beavers, Dane DiLiegro","Action, Adventure, Horror",7.1
+21,The Whale,2022,117.0,Darren Aronofsky,"Brendan Fraser, Sadie Sink, Ty Simpkins",Drama,7.6
+22,The Adam Project,2022,106.0,Shawn Levy,"Ryan Reynolds, Walker Scobell, Mark Ruffalo","Action, Adventure, Comedy",6.7
+23,Jurassic World: Dominion,2022,147.0,Colin Trevorrow,"Chris Pratt, Bryce Dallas Howard, Laura Dern","Action, Adventure, Sci-Fi",5.6
+24,Barbarian,2022,102.0,Zach Cregger,"Georgina Campbell, Bill Skarsgård, Justin Long","Horror, Mystery, Thriller",7.0
+25,Smile,2022,115.0,Parker Finn,"Sosie Bacon, Jessie T. Usher, Kyle Gallner","Horror, Mystery, Thriller",6.5
+26,X,2022,105.0,Ti West,"Mia Goth, Jenna Ortega, Brittany Snow","Horror, Mystery, Thriller",6.5
+27,Puss in Boots: The Last Wish,2022,102.0,"Joel Crawford, Januel Mercado","Antonio Banderas, Salma Hayek, Harvey Guillén","Animation, Action, Adventure",7.8
+28,Triangle of Sadness,2022,147.0,Ruben Östlund,"Thobias Thorwid, Harris Dickinson, Charlbi Dean","Comedy, Drama",7.3
+29,Death on the Nile,2022,127.0,Kenneth Branagh,"Tom Bateman, Annette Bening, Kenneth Branagh","Crime, Drama, Mystery",6.3
+30,Babylon,2022,189.0,Damien Chazelle,"Brad Pitt, Margot Robbie, Jean Smart","Comedy, Drama",7.1
+31,A Man Called Otto,2022,126.0,Marc Forster,"Tom Hanks, Mariana Treviño, Rachel Keller","Comedy, Drama",7.5
+32,Talk to Me,2022,95.0,"Danny Philippou, Michael Philippou","Ari McCarthy, Hamish Phillips, Kit Erhart-Bruce","Horror, Thriller",7.1
+33,Fantastic Beasts: The Secrets of Dumbledore,2022,142.0,David Yates,"Eddie Redmayne, Jude Law, Ezra Miller","Adventure, Fantasy",6.2
+34,Laal Singh Chaddha,2022,159.0,Advait Chandan,"Aamir Khan, Ahmad Ibn Umar, Kareena Kapoor","Comedy, Drama, Romance",5.6
+35,RRR,2022,187.0,S.S. Rajamouli,"N.T. Rama Rao Jr., Ram Charan, Ajay Devgn","Action, Adventure, Drama",7.8
+36,Scream,2022,114.0,"Matt Bettinelli-Olpin, Tyler Gillett","Neve Campbell, Courteney Cox, David Arquette","Horror, Mystery, Thriller",6.3
+37,The Unbearable Weight of Massive Talent,2022,107.0,Tom Gormican,"Nicolas Cage, Pedro Pascal, Tiffany Haddish","Action, Comedy, Crime",7.0
+38,The Lost City,2022,112.0,"Aaron Nee, Adam Nee","Sandra Bullock, Channing Tatum, Daniel Radcliffe","Action, Adventure, Comedy",6.1
+39,Don't Worry Darling,2022,123.0,Olivia Wilde,"Florence Pugh, Harry Styles, Chris Pine","Drama, Mystery, Thriller",6.3
+40,Turning Red,2022,100.0,Domee Shi,"Rosalie Chiang, Sandra Oh, Ava Morse","Animation, Adventure, Comedy",6.9
+41,M3GAN,2022,102.0,Gerard Johnstone,"Allison Williams, Violet McGraw, Ronny Chieng","Horror, Sci-Fi, Thriller",6.3
+42,Morbius,2022,104.0,Daniel Espinosa,"Jared Leto, Matt Smith, Adria Arjona","Action, Adventure, Horror",5.1
+43,K.G.F: Chapter 2,2022,166.0,Prashanth Neel,"Yash, Sanjay Dutt, Raveena Tandon","Action, Crime, Drama",8.2
+44,Hustle,2022,117.0,Jeremiah Zagar,"Adam Sandler, Queen Latifah, Juancho Hernangomez","Comedy, Drama, Sport",7.3
+45,Where the Crawdads Sing,2022,125.0,Olivia Newman,"Daisy Edgar-Jones, Taylor John Smith, Harris Dickinson","Drama, Mystery, Romance",7.2
+46,Pearl,2022,103.0,Ti West,"Mia Goth, David Corenswet, Tandi Wright","Drama, Horror, Thriller",7.0
+47,The Pale Blue Eye,2022,128.0,Scott Cooper,"Christian Bale, Harry Melling, Simon McBurney","Crime, Horror, Mystery",6.6
+48,Lightyear,2022,105.0,Angus MacLane,"Chris Evans, Keke Palmer, Peter Sohn","Animation, Action, Adventure",6.1
+49,The Fabelmans,2022,151.0,Steven Spielberg,"Michelle Williams, Gabriel LaBelle, Paul Dano",Drama,7.5
+50,Fall,2022,107.0,Scott Mann,"Grace Caroline Currey, Virginia Gardner, Mason Gooding","Action, Thriller",6.4
+51,Guillermo del Toro's Pinocchio,2022,117.0,"Guillermo del Toro, Mark Gustafson","Ewan McGregor, David Bradley, Gregory Mann","Animation, Adventure, Drama",7.6
+52,Aftersun,2022,102.0,Charlotte Wells,"Paul Mescal, Frankie Corio, Celia Rowlson-Hall",Drama,7.6
+53,Violent Night,2022,112.0,Tommy Wirkola,"David Harbour, John Leguizamo, Beverly D'Angelo","Action, Comedy, Thriller",6.7
+54,Brahmastra Part One: Shiva,2022,167.0,Ayan Mukerji,"Amitabh Bachchan, Ranbir Kapoor, Alia Bhatt","Action, Adventure, Fantasy",5.6
+55,Enola Holmes 2,2022,129.0,Harry Bradbeer,"Millie Bobby Brown, Henry Cavill, David Thewlis","Action, Adventure, Crime",6.8
+56,Ambulance,2022,136.0,Michael Bay,"Jake Gyllenhaal, Yahya Abdul-Mateen II, Eiza González","Action, Crime, Drama",6.1
+57,Kantara,2022,148.0,Rishab Shetty,"Rishab Shetty, Kishore Kumar G., Achyuth Kumar","Action, Adventure, Drama",8.2
+58,Sonic the Hedgehog 2,2022,122.0,Jeff Fowler,"James Marsden, Jim Carrey, Ben Schwartz","Action, Adventure, Comedy",6.5
+59,Moonfall,2022,130.0,Roland Emmerich,"Halle Berry, Patrick Wilson, John Bradley","Action, Adventure, Sci-Fi",5.2
+60,Tár,2022,158.0,Todd Field,"Cate Blanchett, Noémie Merlant, Nina Hoss","Drama, Music",7.4
+61,Amsterdam,2022,134.0,David O. Russell,"Christian Bale, Margot Robbie, John David Washington","Comedy, Drama, History",6.1
+62,Minions: The Rise of Gru,2022,87.0,"Kyle Balda, Brad Ableson, Jonathan del Val","Steve Carell, Pierre Coffin, Alan Arkin","Animation, Adventure, Comedy",6.5
+63,Sisu,2022,91.0,Jalmari Helander,"Jorma Tommila, Aksel Hennie, Jack Doolan","Action, War",6.9
+64,Day Shift,2022,113.0,J.J. Perry,"Jamie Foxx, Dave Franco, Natasha Liu Bordizzo","Action, Comedy, Fantasy",6.1
+65,Fresh,2022,114.0,Mimi Cave,"Daisy Edgar-Jones, Sebastian Stan, Jojo T. Gibbs","Horror, Thriller",6.7
+66,The Good Nurse,2022,121.0,Tobias Lindholm,"Eddie Redmayne, Denise Pillott, Dartel McRae","Biography, Crime, Drama",6.8
+67,Bodies Bodies Bodies,2022,94.0,Halina Reijn,"Amandla Stenberg, Maria Bakalova, Myha'la","Comedy, Horror, Mystery",6.2
+68,The Outfit,2022,105.0,Graham Moore,"Mark Rylance, Zoey Deutch, John Gumley-Mason","Crime, Drama, Mystery",7.2
+69,Vikram,2022,175.0,Lokesh Kanagaraj,"Kamal Haasan, Vijay Sethupathi, Fahadh Faasil","Action, Crime, Thriller",8.3
+70,The Woman King,2022,135.0,Gina Prince-Bythewood,"Viola Davis, Thuso Mbedu, Lashana Lynch","Action, Drama, History",6.9
+71,DC League of Super-Pets,2022,105.0,"Jared Stern, Sam J. Levine","Dwayne Johnson, Kevin Hart, Kate McKinnon","Animation, Action, Adventure",7.0
+72,Halloween Ends,2022,111.0,David Gordon Green,"Jamie Lee Curtis, Andi Matichak, James Jude Courtney","Drama, Horror, Mystery",5.0
+73,Ticket to Paradise,2022,104.0,Ol Parker,"George Clooney, Sean Lynch, Julia Roberts","Comedy, Drama, Romance",6.1
+74,Sita Ramam,2022,163.0,Hanu Raghavapudi,"Dulquer Salmaan, Mrunal Thakur, Rashmika Mandanna","Action, Drama, Mystery",8.5
+75,Blonde,2022,167.0,Andrew Dominik,"Ana de Armas, Lily Fisher, Julianne Nicholson","Drama, History",5.5
+76,The Tinder Swindler,2022,114.0,Felicity Morris,"Simon Leviev, Cecilie Fjellhøy, Ayleen Charlotte","Documentary, Crime",7.1
+77,Thirteen Lives,2022,147.0,Ron Howard,"Viggo Mortensen, Colin Farrell, Joel Edgerton","Biography, Drama, Thriller",7.8
+78,Men,2022,100.0,Alex Garland,"Jessie Buckley, Rory Kinnear, Paapa Essiedu","Drama, Fantasy, Horror",6.0
+79,Terrifier 2,2022,138.0,Damien Leone,"Lauren LaVera, David Howard Thornton, Elliott Fullam",Horror,6.1
+80,See How They Run,2022,98.0,Tom George,"Kieran Hodgson, Pearl Chanda, Gregory Cox","Comedy, Crime, Mystery",6.5
+81,Spiderhead,2022,106.0,Joseph Kosinski,"Chris Hemsworth, Miles Teller, Jurnee Smollett","Action, Crime, Drama",5.5
+82,Three Thousand Years of Longing,2022,108.0,George Miller,"Tilda Swinton, Idris Elba, Erdil Yasaroglu","Drama, Fantasy, Romance",6.7
+83,The Bad Guys,2022,100.0,Pierre Perifel,"Sam Rockwell, Marc Maron, Awkwafina","Animation, Adventure, Comedy",6.8
+84,Bones and All,2022,131.0,Luca Guadagnino,"Timothée Chalamet, Taylor Russell, Mark Rylance","Drama, Horror, Romance",6.8
+85,Texas Chainsaw Massacre,2022,81.0,David Blue Garcia,"Sarah Yarkin, Elsie Fisher, Mark Burnham","Crime, Horror, Thriller",4.7
+86,Deep Water,2022,115.0,Adrian Lyne,"Ben Affleck, Ana de Armas, Tracy Letts","Crime, Drama, Mystery",5.5
+87,Karthikeya 2,2022,150.0,Chandoo Mondeti,"Nikhil Siddharth, Anupama Parameswaran, Srinivasa Reddy","Action, Adventure, Fantasy",7.9
+88,Gangubai Kathiawadi,2022,152.0,Sanjay Leela Bhansali,"Alia Bhatt, Shantanu Maheshwari, Vijay Raaz","Biography, Crime, Drama",7.8
+89,Emily the Criminal,2022,97.0,John Patton Ford,"Aubrey Plaza, Theo Rossi, Bernardo Badillo","Crime, Drama, Mystery",6.7
+90,The Man from Toronto,2022,110.0,Patrick Hughes,"Kevin Hart, Woody Harrelson, Jasmine Mathews","Action, Adventure, Comedy",5.8
+91,Purple Hearts,2022,122.0,Elizabeth Allen Rosenbaum,"Sofia Carson, Nicholas Galitzine, Chosen Jacobs","Drama, Music, Romance",6.7
+92,The Sea Beast,2022,115.0,Chris Williams,"Karl Urban, Zaris-Angel Hator, Jared Harris","Animation, Action, Adventure",7.0
+93,Decision to Leave,2022,139.0,Park Chan-wook,"Tang Wei, Park Hae-il, Lee Jung-hyun","Crime, Drama, Mystery",7.3
+94,Dasvi,2022,125.0,Tushar Jalota,"Abhishek Bachchan, Nimrat Kaur, Yami Gautam","Comedy, Drama",7.4
+95,Rocketry: The Nambi Effect,2022,157.0,Madhavan,"Madhavan, Simran, Rajit Kapoor","Biography, Drama",8.6
+96,Samaritan,2022,102.0,Julius Avery,"Sylvester Stallone, Javon 'Wanna' Walton, Pilou Asbæk","Action, Drama, Fantasy",5.7
+97,Luckiest Girl Alive,2022,113.0,Mike Barker,"Mila Kunis, Chiara Aurelia, Finn Wittrock","Drama, Mystery, Thriller",6.4
+98,Speak No Evil,2022,97.0,Christian Tafdrup,"Morten Burian, Sidsel Siem Koch, Fedja van Huêt","Drama, Horror, Mystery",6.6
+99,Shamshera,2022,178.0,Karan Malhotra,"Ranbir Kapoor, Sanjay Dutt, Vaani Kapoor","Action, Adventure, Drama",4.7
+100,Watcher,2022,96.0,Chloe Okuno,"Maika Monroe, Karl Glusman, Burn Gorman","Drama, Horror, Thriller",6.3
+101,Hocus Pocus 2,2022,103.0,Anne Fletcher,"Bette Midler, Sarah Jessica Parker, Kathy Najimy","Comedy, Family, Fantasy",6.0
+102,Spirited,2022,127.0,Sean Anders,"Will Ferrell, Ryan Reynolds, Octavia Spencer","Comedy, Family, Fantasy",6.6
+103,Do Revenge,2022,118.0,Jennifer Kaytin Robinson,"Camila Mendes, Maya Hawke, Austin Abrams","Comedy, Romance",6.3
+104,Suzume,2022,122.0,Makoto Shinkai,"Nanoka Hara, Hokuto Matsumura, Eri Fukatsu","Animation, Adventure, Drama",7.6
+105,Samrat Prithviraj,2022,135.0,"Chandra Prakash Dwivedi, Grswkk","Akshay Kumar, Sakshi Tanwar, Sanjay Dutt","Action, Drama, History",5.6
+106,Jackass Forever,2022,96.0,Jeff Tremaine,"Johnny Knoxville, Steve-O, Chris Pontius","Documentary, Action, Comedy",6.8
+107,Hellraiser,2022,121.0,David Bruckner,"Odessa A'zion, Jamie Clayton, Adam Faison","Horror, Mystery, Thriller",5.9
+108,Troll,2022,101.0,Roar Uthaug,"Ine Marie Wilmann, Kim Falck, Mads Sjøgård Pettersen","Action, Adventure, Drama",5.8
+109,Orphan: First Kill,2022,99.0,William Brent Bell,"Isabelle Fuhrman, Julia Stiles, Rossif Sutherland","Crime, Drama, Horror",5.9
+110,Dog,2022,101.0,"Reid Carolin, Channing Tatum","Channing Tatum, Ryder McLaughlin, Aavi Haas","Comedy, Drama",6.5
+111,Chip 'n Dale: Rescue Rangers,2022,97.0,Akiva Schaffer,"Andy Samberg, John Mulaney, KiKi Layne","Animation, Action, Adventure",6.9
+112,Drishyam 2,2022,140.0,Abhishek Pathak,"Ajay Devgn, Akshaye Khanna, Tabu","Crime, Drama, Mystery",8.2
+113,Strange World,2022,102.0,"Don Hall, Qui Nguyen","Jake Gyllenhaal, Jaboukie Young-White, Gabrielle Union","Animation, Action, Adventure",5.7
+114,Liger,2022,140.0,Puri Jagannadh,"Vijay Deverakonda, Ananya Panday, Ramya Krishnan","Action, Drama, Romance",2.6
+115,The Wonder,2022,108.0,Sebastián Lelio,"Florence Pugh, Tom Burke, Kíla Lord Cassidy","Drama, Mystery, Thriller",6.6
+116,She Said,2022,129.0,Maria Schrader,"Zoe Kazan, Carey Mulligan, Patricia Clarkson","Crime, Drama, History",7.3
+117,What Is a Woman?,2022,95.0,Justin Folk,"Matt Walsh, Gert Comfrey, Marci Bowers",Documentary,8.1
+118,The Prototype,2022,97.0,Marcelo Grion,"Mark Vasconcellos, Frank Spinelli, Victoria De Mare","Action, Sci-Fi, Thriller",2.3
+119,White Noise,2022,136.0,Noah Baumbach,"Adam Driver, Greta Gerwig, Don Cheadle","Comedy, Drama, Horror",5.7
+120,Senior Year,2022,111.0,Alex Hardcastle,"Rebel Wilson, Angourie Rice, Mary Holland","Comedy, Drama",5.5
+121,Beast,2022,93.0,Baltasar Kormákur,"Liyabuya Gongo, Martin Munro, Daniel Hadebe","Action, Adventure, Drama",5.6
+122,Marry Me,2022,112.0,Kat Coiro,"Jennifer Lopez, Owen Wilson, Maluma","Comedy, Music, Romance",6.1
+123,Women Talking,2022,104.0,Sarah Polley,"Rooney Mara, Claire Foy, Jessie Buckley",Drama,6.9
+124,Weird: The Al Yankovic Story,2022,108.0,Eric Appel,"Diedrich Bader, Daniel Radcliffe, Lin-Manuel Miranda","Action, Biography, Comedy",6.8
+125,Gehraiyaan,2022,148.0,Shakun Batra,"Deepika Padukone, Ananya Panday, Naseeruddin Shah","Drama, Romance",5.8
+126,Crimes of the Future,2022,107.0,David Cronenberg,"Viggo Mortensen, Léa Seydoux, Kristen Stewart","Drama, Horror, Sci-Fi",5.8
+127,Pinocchio,2022,105.0,Robert Zemeckis,"Joseph Gordon-Levitt, Tom Hanks, Benjamin Evan Ainsworth","Adventure, Comedy, Drama",5.1
+128,Jayeshbhai Jordaar,2022,121.0,Divyang Thakkar,"Pratik Nanda, Ranveer Singh, Shalini Pandey","Comedy, Drama",6.0
+129,Hotel Transylvania 4: Transformania,2022,87.0,"Derek Drymon, Jennifer Kluska","Andy Samberg, Selena Gomez, Kathryn Hahn","Animation, Adventure, Comedy",6.0
+130,Close,2022,104.0,Lukas Dhont,"Eden Dambrine, Gustav De Waele, Émilie Dequenne",Drama,7.8
+131,Me Time,2022,101.0,John Hamburg,"Kevin Hart, Mark Wahlberg, Regina Hall",Comedy,5.1
+132,777 Charlie,2022,164.0,Kiranraj K,"Rakshit Shetty, Charlie, Sangeetha Sringeri","Adventure, Comedy, Drama",8.7
+133,Mr. Harrigan's Phone,2022,104.0,John Lee Hancock,"Donald Sutherland, Jaeden Martell, Joe Tippett","Drama, Horror, Mystery",6.0
+134,"Good Luck to You, Leo Grande",2022,97.0,Sophie Hyde,"Emma Thompson, Daryl McCormack, Isabella Laughland","Comedy, Drama",7.2
+135,Kimi,2022,89.0,Steven Soderbergh,"Zoë Kravitz, Byron Bowers, Rita Wilson","Crime, Drama, Mystery",6.3
+136,The 355,2022,122.0,Simon Kinberg,"Jessica Chastain, Penélope Cruz, Bingbing Fan","Action, Thriller",5.6
+137,Shotgun Wedding,2022,101.0,Jason Moore,"Jennifer Lopez, Josh Duhamel, Lenny Kravitz","Action, Comedy, Romance",5.5
+138,Vengeance,2022,107.0,B.J. Novak,"B.J. Novak, Boyd Holbrook, Lio Tipton","Comedy, Music, Mystery",6.8
+139,The School for Good and Evil,2022,147.0,Paul Feig,"Sophia Anne Caruso, Sofia Wylie, Laurence Fishburne","Action, Comedy, Drama",5.9
+140,Jug Jugg Jeeyo,2022,148.0,Raj Mehta,"Varun Dhawan, Anil Kapoor, Kiara Advani","Comedy, Drama, Family",6.1
+141,Memory,2022,114.0,Martin Campbell,"Liam Neeson, Guy Pearce, Taj Atwal","Action, Crime, Thriller",5.7
+142,The Swimmers,2022,134.0,Sally El Hosaini,"Matthias Schweighöfer, Ali Suliman, Dritan Kastrati","Biography, Drama, Sport",7.4
+143,Beast,2022,155.0,Nelson Dilipkumar,"Joseph Vijay, Pooja Hegde, K. Selvaraghavan","Action, Comedy, Crime",5.2
+144,The Invitation,2022,105.0,Jessica M. Thompson,"Nathalie Emmanuel, Thomas Doherty, Sean Pertwee","Horror, Thriller",5.3
+145,Bros,2022,115.0,Nicholas Stoller,"Billy Eichner, Luke Macfarlane, Guy Branum","Comedy, Romance",6.4
+146,Persuasion,2022,108.0,Carrie Cracknell,"Richard E. Grant, Henry Golding, Ben Bailey Smith","Drama, Romance",5.8
+147,Ponniyin Selvan: Part I,2022,167.0,"Mani Ratnam, Sruti Harihara Subramanian","Vikram, Aishwarya Rai Bachchan, Trisha Krishnan","Action, Drama",7.5
+148,Living,2022,102.0,Oliver Hermanus,"Bill Nighy, Aimee Lou Wood, Alex Sharp",Drama,7.2
+149,Bachchhan Paandey,2022,147.0,Farhad Samji,"Akshay Kumar, Kriti Sanon, Jacqueline Fernandez","Action, Comedy, Crime",5.0
+150,I Came By,2022,110.0,Babak Anvari,"Antonio Aakeel, Alicia Ambrose-Bayly, Percelle Ascott",Thriller,6.2
+151,No Exit,2022,95.0,Damien Power,"Havana Rose Liu, Danny Ramirez, David Rysdahl","Drama, Horror, Mystery",6.1
+152,Lou,2022,107.0,Anna Foerster,"Allison Janney, Jurnee Smollett, Logan Marshall-Green","Action, Adventure, Crime",6.1
+153,Bhool Bhulaiyaa 2,2022,143.0,Anees Bazmee,"Tabu, Kartik Aaryan, Kiara Advani","Comedy, Horror",5.7
+154,Freddy,2022,124.0,Shashanka Ghosh,"Kartik Aaryan, Alaya F, Karan Pandit","Drama, Mystery, Romance",7.3
+155,Downton Abbey: A New Era,2022,124.0,Simon Curtis,"Hugh Bonneville, Jim Carter, Michelle Dockery","Drama, Romance",7.4
+156,Mrs. Harris Goes to Paris,2022,115.0,Anthony Fabian,"Lesley Manville, Isabelle Huppert, Lambert Wilson","Comedy, Drama",7.1
+157,Metal Lords,2022,97.0,Peter Sollett,"Jaeden Martell, Adrian Greensmith, Isis Hainsworth","Comedy, Music",6.7
+158,Slumberland,2022,117.0,Francis Lawrence,"Jason Momoa, Marlow Barkley, Chris O'Dowd","Adventure, Comedy, Drama",6.7
+159,"Argentina, 1985",2022,140.0,Santiago Mitre,"Ricardo Darín, Gina Mastronicola, Francisco Bertín","Biography, Crime, Drama",7.6
+160,Father Stu,2022,124.0,Rosalind Ross,"Mark Wahlberg, Mel Gibson, Jacki Weaver","Biography, Drama",6.5
+161,Last Seen Alive,2022,95.0,Brian Goodman,"Gerard Butler, Jaimie Alexander, Russell Hornsby","Action, Crime, Drama",5.7
+162,Major,2022,150.0,Sashi Kiran Tikka,"Sobhita Dhulipala, Adivi Sesh, Prakash Raj","Action, Biography, Drama",8.1
+163,The Weekend Away,2022,89.0,Kim Farrant,"Leighton Meester, Christina Wolfe, Ziad Bakri","Crime, Drama, Mystery",5.7
+164,The Greatest Beer Run Ever,2022,126.0,Peter Farrelly,"Zac Efron, Russell Crowe, Jake Picking","Adventure, Drama, War",6.8
+165,An Action Hero,2022,130.0,Anirudh Iyer,"Ayushmann Khurrana, Jaideep Ahlawat, Gautam Joglekar","Action, Comedy, Crime",7.0
+166,Luck,2022,105.0,"Peggy Holmes, Javier Abad","Eva Noblezada, Simon Pegg, Jane Fonda","Animation, Adventure, Comedy",6.4
+167,The Contractor,2022,103.0,Tarik Saleh,"Chris Pine, Gillian Jacobs, Sander Thomas","Action, Drama, Thriller",5.8
+168,Radhe Shyam,2022,138.0,K.K. Radhakrishna Kumar,"Prabhas, Pooja Hegde, Bhagyashree Patwardhan",Romance,5.2
+169,Falling for Christmas,2022,93.0,Janeen Damian,"Lindsay Lohan, Chord Overstreet, George Young","Comedy, Romance",5.3
+170,Navalny,2022,99.0,Daniel Roher,"Alexei Navalny, Yulia Navalnaya, Christo Grozev","Documentary, Biography",7.7
+171,Matilda: The Musical,2022,117.0,Matthew Warchus,"Alisha Weir, Emma Thompson, Lashana Lynch","Comedy, Drama, Family",7.0
+172,Runway 34,2022,145.0,Ajay Devgn,"Ajay Devgn, Amitabh Bachchan, Rakul Preet Singh","Drama, Thriller",7.0
+173,Jerry and Marge Go Large,2022,96.0,David Frankel,"Bryan Cranston, Annette Bening, Rainn Wilson","Biography, Comedy, Drama",6.9
+174,Devotion,2022,139.0,J.D. Dillard,"Jonathan Majors, Glen Powell, Christina Jackson","Action, Biography, Drama",6.6
+175,All the Old Knives,2022,101.0,Janus Metz,"Goksin Erdemli, Kasia Madera, Chris Pine","Mystery, Thriller",6.1
+176,Against the Ice,2022,102.0,Peter Flinth,"Nikolaj Coster-Waldau, Joe Cole, Heida Reed","Adventure, Drama, History",6.5
+177,Holy Spider,2022,118.0,Ali Abbasi,"Zar Amir Ebrahimi, Diana Al Hussen, Soraya Helli","Crime, Drama, Thriller",7.3
+178,The Bubble,2022,126.0,Judd Apatow,"Harry Trevaldwyn, Samson Kayo, Peter Serafinowicz",Comedy,4.7
+179,Emancipation,2022,132.0,Antoine Fuqua,"Will Smith, Ben Foster, Charmaine Bingwa","Action, Thriller",6.3
+180,The Legend,2022,161.0,"Jerry, Joseph D. Sami","Archana, Mayilsamy, Nassar","Action, Drama, Romance",4.7
+181,Cha Cha Real Smooth,2022,107.0,Cooper Raiff,"Cooper Raiff, Dakota Johnson, Evan Assante","Comedy, Drama",7.3
+182,Vikrant Rona,2022,148.0,Anup Bhandari,"Sudeep, Nirup Bhandari, Neetha Ashok","Action, Drama, Mystery",6.9
+183,The Stranger,2022,117.0,Thomas M. Wright,"Joel Edgerton, Sean Harris, Jada Alberts","Crime, Drama, Thriller",6.6
+184,Interceptor,2022,99.0,Matthew Reilly,"Elsa Pataky, Luke Bracey, Aaron Glenane","Action, Adventure, Drama",4.7
+185,Disenchanted,2022,119.0,Adam Shankman,"Amy Adams, Patrick Dempsey, Maya Rudolph","Animation, Adventure, Comedy",5.6
+186,Heropanti 2,2022,145.0,Ahmed Khan,"Nawazuddin Siddiqui, Kriti Sanon, Tiger Shroff","Action, Comedy, Crime",2.3
+187,Bhediya,2022,156.0,Amar Kaushik,"Varun Dhawan, Kriti Sanon, Abhishek Banerjee","Comedy, Horror, Thriller",6.7
+188,Black Crab,2022,114.0,Adam Berg,"Noomi Rapace, Jakob Oftebro, Dar Salim","Action, Adventure, Drama",5.7
+189,Choose or Die,2022,84.0,Toby Meakins,"Iola Evans, Asa Butterfield, Robert Englund","Drama, Horror, Thriller",4.8
+190,Windfall,2022,92.0,Charlie McDowell,"Jason Segel, Lily Collins, Jesse Plemons","Crime, Drama, Thriller",5.7
+191,Raksha Bandhan,2022,108.0,Aanand L. Rai,"Bhumi Pednekar, Sadia Khateeb, Akshay Kumar","Comedy, Drama, Family",5.4
+192,Blacklight,2022,104.0,Mark Williams,"Liam Neeson, Aidan Quinn, Taylor John Smith","Action, Drama, Thriller",4.8
+193,God's Crooked Lines,2022,154.0,Oriol Paulo,"Bárbara Lennie, Eduard Fernández, Loreto Mauleón","Drama, Mystery, Thriller",7.1
+194,A Thursday,2022,128.0,Behzad Khambata,"Yami Gautam, Atul Kulkarni, Neha Dhupia","Drama, Thriller",7.6
+195,365 Days: This Day,2022,111.0,"Barbara Bialowas, Tomasz Mandes","Anna-Maria Sieklucka, Michele Morrone, Simone Susinna","Drama, Romance",2.7
+196,Chup,2022,135.0,R Balki,"Dulquer Salmaan, Shreya Dhanwanthary, Sunny Deol","Drama, Horror, Mystery",7.5
+197,The Quiet Girl,2022,95.0,Colm Bairéad,"Carrie Crowley, Andrew Bennett, Catherine Clinch",Drama,7.7
+198,Empire of Light,2022,115.0,Sam Mendes,"Olivia Colman, Micheal Ward, Colin Firth","Drama, Romance",6.7
+199,Jhund,2022,176.0,Nagraj Manjule,"Amitabh Bachchan, Bharat Kumar Bhograt, Ankush Gedam","Biography, Drama, Sport",7.4
+200,I Want You Back,2022,116.0,Jason Orley,"Charlie Day, Jenny Slate, Scott Eastwood","Comedy, Romance",6.5
+201,"Confess, Fletch",2022,98.0,Greg Mottola,"Jon Hamm, Caitlin Zerra Rose, Roy Wood Jr.","Comedy, Crime, Mystery",6.4
+202,Whitney Houston: I Wanna Dance with Somebody,2022,144.0,Kasi Lemmons,"Naomi Ackie, Stanley Tucci, Ashton Sanders","Biography, Drama, Music",6.6
+203,Look Both Ways,2022,110.0,Wanuri Kahiu,"Lili Reinhart, Danny Ramirez, Aisha Dee","Comedy, Drama, Fantasy",6.3
+204,Vesper,2022,114.0,"Kristina Buozyte, Bruno Samper","Raffiella Chapman, Eddie Marsan, Rosy McEwen","Adventure, Drama, Sci-Fi",6.0
+205,Lady Chatterley's Lover,2022,126.0,Laure de Clermont-Tonnerre,"Emma Corrin, Jack O'Connell, Matthew Duckett","Drama, Romance",6.6
+206,Incantation,2022,110.0,Kevin Ko,"Hsuan-yen Tsai, Sin-Ting Huang, Ying-Hsuan Kao","Horror, Mystery",6.2
+207,Vikram Vedha,2022,160.0,"Gayatri, Pushkar","Saif Ali Khan, Hrithik Roshan, Radhika Apte","Action, Crime, Drama",7.1
+208,Causeway,2022,94.0,Lila Neugebauer,"Jennifer Lawrence, Brian Tyree Henry, Linda Emond",Drama,6.6
+209,One Piece Film: Red,2022,115.0,Gorô Taniguchi,"Mayumi Tanaka, Kazuya Nakai, Akemi Okamura","Animation, Action, Adventure",6.7
+210,Firestarter,2022,94.0,Keith Thomas,"Zac Efron, Ryan Kiera Armstrong, Sydney Lemmon","Drama, Horror, Sci-Fi",4.6
+211,My Policeman,2022,113.0,Michael Grandage,"Harry Styles, Emma Corrin, Gina McKee","Drama, Romance",6.6
+212,The House,2022,97.0,"Paloma Baeza, Emma De Swaef, Niki Lindroth von Bahr","Mia Goth, Matthew Goode, Claudie Blakley","Animation, Comedy, Drama",6.8
+213,Athena,2022,99.0,Romain Gavras,"Dali Benssalah, Sami Slimane, Anthony Bajon","Action, Drama, Thriller",6.8
+214,Cirkus,2022,139.0,Rohit Shetty,"Ranveer Singh, Varun Sharma, Pooja Hegde","Comedy, Drama",4.3
+215,Girl in the Picture,2022,101.0,Skye Borgman,"Karen Parsley, Charles Engles, Merle Bean","Documentary, Crime, Mystery",7.3
+216,Home Team,2022,95.0,"Charles Kinnane, Daniel Kinnane","Kevin James, Taylor Lautner, Rob Schneider","Comedy, Sport",6.0
+217,The Beasts,2022,137.0,Rodrigo Sorogoyen,"Marina Foïs, Denis Ménochet, Luis Zahera","Drama, Thriller",7.5
+218,The Bob's Burgers Movie,2022,102.0,"Loren Bouchard, Bernard Derriman","H. Jon Benjamin, Kristen Schaal, Dan Mintz","Animation, Adventure, Comedy",7.0
+219,Sick,2022,83.0,John Hyams,"Gideon Adlon, Bethlehem Million, Dylan Sprayberry","Horror, Mystery, Thriller",6.0
+220,Cuttputlli,2022,120.0,Ranjit Tewari,"Akshay Kumar, Rakul Preet Singh, Sargun Mehta","Crime, Drama, Mystery",5.7
+221,Anek,2022,147.0,Anubhav Sinha,"Ayushmann Khurrana, Andrea Kevichüsa, Manoj Pahwa","Action, Drama, Sport",6.4
+222,The Blackening,2022,97.0,Tim Story,"Grace Byers, Jermaine Fowler, Melvin Gregg","Comedy, Horror, Mystery",6.0
+223,"Monica, O My Darling",2022,129.0,Vasan Bala,"Rajkummar Rao, Huma Qureshi, Sikandar Kher","Comedy, Crime, Drama",7.4
+224,Darlings,2022,133.0,Jasmeet K Reen,"Alia Bhatt, Shefali Shah, Vijay Varma","Comedy, Drama, Thriller",6.6
+225,Through My Window,2022,116.0,Marçal Forés,"Clara Galle, Julio Peña, Guillermo Lasheras","Comedy, Drama, Romance",5.5
+226,Badhaai Do,2022,147.0,Harshavardhan Kulkarni,"Rajkummar Rao, Bhumi Pednekar, Chum Darang","Comedy, Crime, Drama",7.0
+227,Dobaaraa,2022,132.0,Anurag Kashyap,"Taapsee Pannu, Pavail Gulati, Nassar","Drama, Fantasy, Mystery",4.9
+228,Valimai,2022,178.0,H. Vinoth,"Ajith Kumar, Huma Qureshi, Kartikeya Gummakonda","Action, Crime, Drama",6.0
+229,The Noel Diary,2022,99.0,Charles Shyer,"Justin Hartley, Barrett Doss, Bonnie Bedelia","Comedy, Drama, Romance",6.2
+230,Deadstream,2022,87.0,"Joseph Winter, Vanessa Winter","Joseph Winter, Melanie Stone, Jason K. Wixom","Comedy, Horror",6.4
+231,Clerks III,2022,100.0,Kevin Smith,"Brian O'Halloran, Jeff Anderson, Vincent Pereira","Comedy, Drama",6.2
+232,Sick of Myself,2022,97.0,Kristoffer Borgli,"Kristine Kujath Thorp, Eirik Sæther, Fanny Vaager","Comedy, Drama, Horror",7.1
+233,A Christmas Story Christmas,2022,98.0,Clay Kaytis,"Peter Billingsley, Erinn Hayes, River Drosche","Comedy, Family",6.7
+234,Not Okay,2022,100.0,Quinn Shephard,"Zoey Deutch, Mia Isaac, Dylan O'Brien","Comedy, Drama, Thriller",6.1
+235,Prey for the Devil,2022,93.0,Daniel Stamm,"Jacqueline Byers, Debora Zhecheva, Christian Navarro","Horror, Mystery, Thriller",5.3
+236,Narvik: Hitler's First Defeat,2022,108.0,Erik Skjoldbjærg,"Kristine Hartgen, Carl Martin Eggesbø, Christoph Gelfert Mathiesen","Drama, History, War",6.6
+237,Jana Gana Mana,2022,162.0,Dijo Jose Antony,"Prithviraj Sukumaran, Suraj Venjaramoodu, Mamta Mohandas","Drama, Thriller",8.3
+238,Broker,2022,129.0,Hirokazu Koreeda,"Song Kang-ho, Gang Dong-won, Bae Doona","Comedy, Crime, Drama",7.1
+239,Doctor G,2022,124.0,Anubhuti Kashyap,"Ayushmann Khurrana, Rakul Preet Singh, Shefali Shah","Comedy, Drama",6.6
+240,The Son,2022,123.0,Florian Zeller,"Vanessa Kirby, Hugh Jackman, Laura Dern",Drama,6.5
+241,To Leslie,2022,119.0,Michael Morris,"Andrea Riseborough, Drew Youngblood, Tom Virtue",Drama,7.1
+242,Skinamarink,2022,100.0,Kyle Edward Ball,"Lucas Paul, Dali Rose Tetreault, Ross Paul","Horror, Mystery",4.7
+243,Stutz,2022,96.0,Jonah Hill,"Sharon Feldstein, Jonah Hill, Phil Stutz",Documentary,7.7
+244,Mahaan,2022,163.0,Karthik Subbaraj,"Vikram, Simran, Dhruv Vikram","Action, Drama, Thriller",7.7
+245,The Ice Age Adventures of Buck Wild,2022,82.0,"Marshall Fels Elliott, John C. Donkin","Utkarsh Ambudkar, Sean Kenin, Jake Green","Animation, Adventure, Comedy",4.3
+246,Ram Setu,2022,140.0,Abhishek Sharma,"Akshay Kumar, Jacqueline Fernandez, Nushrratt Bharuccha","Action, Adventure, Thriller",5.3
+247,A Perfect Pairing,2022,101.0,Stuart McDonald,"Victoria Justice, Adam Demos, Luca Asta Sardelis","Comedy, Romance",6.1
+248,Entergalactic,2022,93.0,Fletcher Moules,"Kid Cudi, Jessica Williams, Laura Harrier","Animation, Comedy, Music",7.3
+249,Hridayam,2022,172.0,Vineeth Sreenivasan,"Pranav Mohanlal, Kalyani Priyadarshan, Darshana Rajendran","Drama, Musical, Romance",8.1
+250,The Eight Mountains,2022,147.0,"Felix van Groeningen, Charlotte Vandermeersch","Lupo Barbiero, Cristiano Sassella, Elena Lietti",Drama,7.7
+251,Goodnight Mommy,2022,92.0,Matt Sobel,"Naomi Watts, Cameron Crovetti, Nicholas Crovetti","Crime, Drama, Horror",5.7
+252,Redeeming Love,2022,134.0,D.J. Caruso,"Abigail Cowen, Tom Lewis, Eric Dane","Drama, Romance, Western",6.7
+253,Influencer,2022,92.0,Kurtis David Harder,"Emily Tennant, Rory J Saper, Cassandra Naud","Horror, Mystery, Thriller",6.2
+254,BTS Permission to Dance on Stage - Seoul: Live Viewing,2022,195.0,Ha Jung Jae,BTS,"Documentary, Music",7.9
+255,Dragon Ball Super: Super Hero,2022,100.0,Tetsuro Kodama,"Masako Nozawa, Aya Hisakawa, Ryô Horikawa","Animation, Action, Adventure",7.1
+256,Armageddon Time,2022,114.0,James Gray,"Anne Hathaway, Jeremy Strong, Banks Repeta",Drama,6.5
+257,The Valet,2022,124.0,Richard Wong,"Eugenio Derbez, Samara Weaving, Max Greenfield","Comedy, Drama, Romance",6.7
+258,Hit: The First Case,2022,132.0,Sailesh Kolanu,"Rajkummar Rao, Sanya Malhotra, Akhil Iyer","Crime, Drama, Mystery",6.8
+259,Significant Other,2022,84.0,"Dan Berk, Robert Olsen","Maika Monroe, Jake Lacy, Matthew Yang King","Drama, Horror, Mystery",5.7
+260,Attack,2022,121.0,Lakshya Raj Anand,"John Abraham, Jacqueline Fernandez, Rakul Preet Singh","Action, Sci-Fi, Thriller",6.8
+261,On the Line,2022,104.0,Romuald Boulanger,"Mel Gibson, William Moseley, Alia Seror-O'Neill",Thriller,5.4
+262,"Lyle, Lyle, Crocodile",2022,106.0,"Josh Gordon, Will Speck","Javier Bardem, Winslow Fegley, Shawn Mendes","Adventure, Comedy, Family",6.1
+263,Hatching,2022,91.0,Hanna Bergholm,"Siiri Solalinna, Sophia Heikkilä, Jani Volanen","Drama, Fantasy, Horror",6.2
+264,Love Today,2022,154.0,Pradeep Ranganathan,"Pradeep Ranganathan, Ivana, Yogi Babu","Comedy, Drama, Romance",8.0
+265,Till,2022,130.0,Chinonye Chukwu,"Danielle Deadwyler, Jalyn Hall, Frankie Faison","Biography, Crime, Drama",7.2
+266,Leila's Brothers,2022,165.0,Saeed Roustayi,"Saeed Poursamimi, Taraneh Alidoosti, Navid Mohammadzadeh",Drama,7.9
+267,Thiruchitrambalam,2022,131.0,Mithran Jawahar,"Dhanush, Nithya Menen, Bharathiraja","Comedy, Drama, Musical",7.9
+268,The Princess,2022,94.0,Le-Van Kiet,"Joey King, Olga Kurylenko, Antoni Davidov","Action, Drama, Fantasy",5.7
+269,Studio 666,2022,106.0,BJ McDonnell,"Dave Grohl, Nate Mendel, Pat Smear","Comedy, Horror, Music",5.6
+270,EO,2022,88.0,Jerzy Skolimowski,"Hola, Tako, Marietta",Drama,6.7
+271,Jeepers Creepers: Reborn,2022,88.0,Timo Vuorensola,"Jarreau Benjamin, Sydney Craven, Imran Adams","Horror, Mystery, Thriller",2.6
+272,Ek Villain Returns,2022,129.0,Mohit Suri,"John Abraham, Disha Patani, Arjun Kapoor","Action, Romance, Thriller",4.4
+273,Bardo: False Chronicle of a Handful of Truths,2022,159.0,Alejandro G. Iñárritu,"Daniel Giménez Cacho, Griselda Siciliani, Ximena Lamadrid","Comedy, Drama",6.7
+274,Moonage Daydream,2022,135.0,Brett Morgen,"David Bowie, Trevor Bolder, Ken Fordham","Documentary, Biography, History",7.6
+275,Fire of Love,2022,98.0,Sara Dosa,"Miranda July, Katia Krafft, Maurice Krafft","Documentary, Biography",7.6
+276,Maid in Malacañang,2022,114.0,Darryl Yap,"Cesar Montano, Ruffa Gutierrez, Cristine Reyes","Biography, Drama",3.8
+277,The Good Neighbor,2022,106.0,Stephan Rick,"Inga Alsina, Jonathan Rhys Meyers, Henrijs Arajs","Crime, Mystery, Thriller",6.0
+278,Bandit,2022,126.0,Allan Ungar,"Josh Duhamel, Elisha Cuthbert, Nestor Carbonell","Crime, Drama, Thriller",6.4
+279,Lamborghini: The Man Behind the Legend,2022,97.0,Bobby Moresco,"Frank Grillo, Mira Sorvino, Gabriel Byrne","Biography, Drama, Sport",5.5
+280,Our Father,2022,97.0,Lucie Jourdan,"Jacoba Ballard, Julie Harmon, Matt White","Documentary, Crime",6.6
+281,Khuda Haafiz: Chapter 2 - Agni Pariksha,2022,144.0,Faruk Kabir,"Vidyut Jammwal, Shivaleeka Oberoi, Dibyendu Bhattacharya","Action, Crime, Drama",7.4
+282,Jersey,2022,170.0,Gowtam Tinnanuri,"Shahid Kapoor, Mrunal Thakur, Pankaj Kapur","Drama, Sport",7.3
+283,Rogue Agent,2022,115.0,"Declan Lawn, Adam Patterson","James Norton, Matthew Douglas, Rob Malone","Action, Adventure, Drama",6.5
+284,Piggy,2022,99.0,Carlota Pereda,"Laura Galán, Richard Holmes, Carmen Machi","Drama, Horror, Thriller",6.2
+285,Fire Island,2022,105.0,Andrew Ahn,"Joel Kim Booster, Bowen Yang, Margaret Cho","Comedy, Romance",6.7
+286,Loving Adults,2022,104.0,Barbara Topsøe-Rothenborg,"Dar Salim, Sonja Richter, Sus Wilkins","Crime, Drama, Thriller",6.5
+287,Poker Face,2022,94.0,Russell Crowe,"Russell Crowe, Liam Hemsworth, RZA","Action, Crime, Thriller",5.2
+288,Love in the Villa,2022,114.0,Mark Steven Johnson,"Kat Graham, Tom Hopper, Raymond Ablack","Comedy, Romance",5.5
+289,Brazen,2022,94.0,Monika Mitchell,"Alyssa Milano, Sam Page, Malachi Weir","Crime, Drama, Mystery",4.2
+290,The Teacher,2022,121.0,Vivek,"Amala Paul, Hakkim Shah, Chemban Vinod Jose","Drama, Thriller",6.3
+291,Downfall: The Case Against Boeing,2022,89.0,Rory Kennedy,"Donald Trump, Lester Holt, Maria Bartiromo",Documentary,7.4
+292,Father of the Bride,2022,117.0,Gary Alazraki,"Andy Garcia, Gloria Estefan, Adria Arjona","Comedy, Drama, Romance",5.9
+293,Dual,2022,94.0,Riley Stearns,"Karen Gillan, Aaron Paul, Beulah Koale","Comedy, Drama, Sci-Fi",5.8
+294,Beavis and Butt-Head Do the Universe,2022,87.0,"Albert Calleros, Geoffrey Johnson, John Rice","Mike Judge, Gary Cole, Nat Faxon","Animation, Comedy, Sci-Fi",7.0
+295,Wendell & Wild,2022,105.0,Henry Selick,"Lyric Ross, Keegan-Michael Key, Jordan Peele","Animation, Adventure, Comedy",6.4
+296,Meet Cute,2022,89.0,Alex Lehmann,"Kaley Cuoco, Pete Davidson, Kevin Corrigan","Comedy, Drama, Fantasy",5.7
+297,About Fate,2022,103.0,Marius Vaysberg,"Emma Roberts, Thomas Mann, Madelaine Petsch","Comedy, Romance",6.4
+298,Daman,2022,121.0,"Lenka Debiprasad, Vishal Mourya","Karan Kandhapan, Babushan Mohanty, Dipanwit Dashmohapatra","Adventure, Drama",8.6
+299,Bheeshma Parvam,2022,144.0,Amal Neerad,"Mammootty, Soubin Shahir, Sreenath Bhasi","Action, Crime, Drama",7.6
+300,Medieval,2022,125.0,Petr Jákl,"Ben Foster, Sophie Lowe, Michael Caine","Action, Drama, History",5.9
+301,Etharkkum Thunindhavan,2022,151.0,Pandiraj,"Suriya, Priyanka Arulmohan, Sathyaraj","Action, Crime, Drama",6.4
+302,The Roundup,2022,106.0,Lee Sang-yong,"Ma Dong-seok, Son Suk-ku, Choi Gwi-hwa","Action, Crime, Thriller",7.0
+303,Marlowe,2022,109.0,Neil Jordan,"Liam Neeson, Diane Kruger, Jessica Lange","Crime, Drama, Mystery",5.4
+304,Burning Days,2022,129.0,Emin Alper,"Selahattin Pasali, Ekin Koç, Erol Babaoglu","Drama, Thriller",7.5
+305,After Ever Happy,2022,95.0,Castille Landon,"Josephine Langford, Hero Fiennes Tiffin, Louise Lombard","Drama, Romance",4.7
+306,Gold,2022,97.0,Anthony Hayes,"Zac Efron, Akuol Ngot, Thiik Biar","Action, Adventure, Thriller",5.4
+307,"Alice, Darling",2022,89.0,Mary Nighy,"Anna Kendrick, Kaniehtiio Horn, Charlie Carrick","Drama, Mystery, Romance",5.6
+308,Resurrection,2022,103.0,Andrew Semans,"Rebecca Hall, Tim Roth, Grace Kaufman","Crime, Drama, Horror",5.9
+309,The Curse of Bridge Hollow,2022,89.0,Jeff Wadlow,"Marlon Wayans, Priah Ferguson, Kelly Rowland","Adventure, Comedy, Family",5.6
+310,They/Them,2022,104.0,John Logan,"Kevin Bacon, Theo Germaine, Anna Chlumsky","Drama, Horror, Mystery",4.0
+311,Hundreds of Beavers,2022,108.0,Mike Cheslik,"Ryland Brickson Cole Tews, Olivia Graves, Doug Mancheski","Action, Adventure, Comedy",7.6
+312,Apollo 10½: A Space Age Childhood,2022,97.0,Richard Linklater,"Milo Coy, Jack Black, Lee Eddy","Animation, Adventure, Drama",7.2
+313,You Won't Be Alone,2022,108.0,Goran Stolevski,"Noomi Rapace, Anamaria Marinca, Alice Englert","Drama, Fantasy, Horror",6.4
+314,Thank God,2022,121.0,Indra Kumar,"Sidharth Malhotra, Ajay Devgn, Rakul Preet Singh",Comedy,5.6
+315,20th Century Girl,2022,119.0,Bang Woo-ri,"Kim Yoo-jung, Byeon Woo-seok, Park Jung-woo","Drama, Romance",7.4
+316,Dhokha,2022,122.0,Kookie Gulati,"Madhavan, Khushali Kumar, Aparshakti Khurana","Crime, Drama, Thriller",6.2
+317,Master Gardener,2022,111.0,Paul Schrader,"Joel Edgerton, Sigourney Weaver, Quintessa Swindell","Drama, Mystery, Thriller",6.2
+318,The Munsters,2022,109.0,Rob Zombie,"Sheri Moon Zombie, Jeff Daniel Phillips, Daniel Roebuck","Comedy, Family, Fantasy",4.5
+319,Something from Tiffany's,2022,87.0,Daryl Wein,"Zoey Deutch, Kendrick Sampson, Ray Nicholson","Comedy, Family, Romance",6.2
+320,Yashoda,2022,135.0,"Harish Narayan, K. Hari Shankar","Samantha Ruth Prabhu, Unni Mukundan, Varalaxmi Sarathkumar","Action, Crime, Sci-Fi",6.5
+321,Soft & Quiet,2022,92.0,Beth de Araújo,"Stefanie Estes, Olivia Luccardi, Dana Millican","Drama, Horror, Thriller",6.2
+322,Dhaakad,2022,135.0,Razneesh Ghai,"Kangana Ranaut, Arjun Rampal, Sharib Hashmi","Action, Thriller",3.8
+323,Infinite Storm,2022,97.0,"Malgorzata Szumowska, Michal Englert","Naomi Watts, Billy Howle, Denis O'Hare","Drama, Thriller",5.3
+324,Rescued by Ruby,2022,90.0,Katt Shea,"Grant Gustin, Scott Wolf, Kaylah Zander","Biography, Drama, Family",7.2
+325,The Royal Treatment,2022,96.0,Rick Jacobson,"Laura Marano, Mena Massoud, Julie Edwards","Comedy, Family, Romance",5.3
+326,The Redeem Team,2022,97.0,Jon Weinbach,"LeBron James, Dwyane Wade, Carmelo Anthony","Documentary, History, Sport",7.4
+327,The Artifice Girl,2022,93.0,Franklin Ritch,"Tatum Matthews, Lance Henriksen, Sinda Nichols","Mystery, Sci-Fi, Thriller",6.6
+328,Jaadugar,2022,167.0,Sameer Saxena,"Jitendra Kumar, Arushi Sharma, Jaaved Jaaferi","Comedy, Drama, Fantasy",6.8
+329,The People We Hate at the Wedding,2022,99.0,Claire Scanlon,"Allison Janney, Ben Platt, Cynthia Addai-Robinson",Comedy,5.8
+330,Wedding Season,2022,98.0,Tom Dey,"Pallavi Sharda, Suraj Sharma, Arianna Afsar","Comedy, Romance",6.3
+331,I Used to Be Famous,2022,104.0,Eddie Sternberg,"Ed Skrein, Eleanor Matsuura, Leo Long","Comedy, Drama, Music",6.6
+332,The Next 365 Days,2022,112.0,"Barbara Bialowas, Tomasz Mandes","Anna-Maria Sieklucka, Michele Morrone, Simone Susinna","Drama, Romance",2.9
+333,Don,2022,165.0,Cibi Chakravarthi,"Sivakarthikeyan, Priyanka Arulmohan, S.J. Suryah","Comedy, Romance",6.8
+334,The Chalk Line,2022,106.0,Ignacio Tatay,"Elena Anaya, Pablo Molinero, Eva Tennear","Horror, Mystery, Thriller",6.1
+335,The Night of the 12th,2022,115.0,Dominik Moll,"Bastien Bouillon, Bouli Lanners, Théo Cholbi","Crime, Drama, Mystery",7.0
+336,What's Love Got to Do with It?,2022,108.0,Shekhar Kapur,"Mim Shaikh, Iman Boujelouah, Lily James","Comedy, Drama, Romance",6.3
+337,How to Blow Up a Pipeline,2022,104.0,Daniel Goldhaber,"Ariela Barer, Kristine Froseth, Lukas Gage","Action, Crime, Drama",6.9
+338,Shut In,2022,89.0,D.J. Caruso,"Rainey Qualley, Jake Horowitz, Vincent Gallo","Drama, Thriller",5.7
+339,Sarkaru Vaari Paata,2022,162.0,Parasuram,"Mahesh Babu, Keerthy Suresh, Samuthirakani","Action, Drama",5.6
+340,Kaun Pravin Tambe?,2022,134.0,Jayprad Desai,"Shreyas Talpade, Ashish Vidyarthi, Parambrata Chattopadhyay","Biography, Drama, Sport",8.3
+341,Love Hostel,2022,100.0,Shanker Raman,"Bobby Deol, Vikrant Massey, Sanya Malhotra","Crime, Romance, Thriller",5.7
+342,Sharmaji Namkeen,2022,119.0,Hitesh Bhatia,"Rishi Kapoor, Paresh Rawal, Juhi Chawla","Comedy, Drama, Family",7.5
+343,Mili,2022,127.0,Mathukutty Xavier,"Janhvi Kapoor, Manoj Pahwa, Sunny Kaushal","Drama, Thriller",6.7
+344,The First Slam Dunk,2022,124.0,Takehiko Inoue,"Shugo Nakamura, Jun Kasama, Shinichiro Kamio","Animation, Comedy, Drama",8.0
+345,Am I OK?,2022,86.0,"Stephanie Allynne, Tig Notaro","Dakota Johnson, Sonoya Mizuno, Jermaine Fowler","Comedy, Drama, Romance",6.1
+346,The Legend of Maula Jatt,2022,153.0,Bilal Lashari,"Mahira Khan, Fawad Khan, Ali Raza","Action, Drama, Fantasy",8.5
+347,Umma,2022,83.0,Iris K. Shim,"Sandra Oh, Fivel Stewart, Dermot Mulroney","Drama, Horror, Mystery",4.7
+348,The In Between,2022,115.0,Arie Posin,"Joey King, Kyle Allen, Kim Dickens","Drama, Fantasy, Romance",5.9
+349,Sanctuary,2022,96.0,Zachary Wigon,"Christopher Abbott, Margaret Qualley, Francisco Castaneda","Drama, Thriller",6.2
+350,Phone Bhoot,2022,136.0,Gurmmeet Singh,"Katrina Kaif, Ishaan Khatter, Siddhant Chaturvedi","Comedy, Horror",5.2
+351,Crush,2022,93.0,Sammi Cohen,"Rowan Blanchard, Auli'i Cravalho, Isabella Ferreira","Comedy, Romance",6.3
+352,Your Christmas or Mine?,2022,95.0,Jim O'Hanlon,"Asa Butterfield, Cora Kirk, Daniel Mays","Comedy, Romance",6.4
+353,Honor Society,2022,98.0,Oran Zegman,"Angourie Rice, Gaten Matarazzo, Christopher Mintz-Plasse","Comedy, Romance",6.5
+354,Big Bug,2022,111.0,Jean-Pierre Jeunet,"Isabelle Nanty, Elsa Zylberstein, Claude Perron","Comedy, Sci-Fi",5.5
+355,Last the Night,2022,88.0,Nick Leisure,"Brian Austin Green, Makena Taylor, Acoryé White","Horror, Thriller",4.7
+356,Rosaline,2022,95.0,Karen Maine,"Kaitlyn Dever, Isabela Merced, Sean Teale","Comedy, Romance",6.5
+357,Corsage,2022,114.0,Marie Kreutzer,"Vicky Krieps, Florian Teichtmeister, Katharina Lorenz","Biography, Drama, History",6.5
+358,Govinda Naam Mera,2022,131.0,Shashank Khaitan,"Vicky Kaushal, Kiara Advani, Bhumi Pednekar","Comedy, Crime, Drama",6.5
+359,Toscana,2022,90.0,Mehdi Avaz,"Anders Matthesen, Cristiana Dell'Anna, Andrea Bosca","Drama, Romance",5.7
+360,2000 Mules,2022,89.0,"Debbie D'Souza, Dinesh D'Souza, Bruce Schooley","Dinesh D'Souza, Catherine Engelbrecht, Gregg Phillips",Documentary,5.0
+361,Carter,2022,132.0,Jung Byung-gil,"Joo Won, Kim Bo-min, Lee Sung-jae","Action, Thriller",5.1
+362,Bheemla Nayak,2022,130.0,Saagar K Chandra,"Pawan Kalyan, Rana Daggubati, Nithya Menen","Action, Drama, Thriller",6.2
+363,Zwigato,2022,105.0,Nandita Das,"Kapil Sharma, Shahana Goswami, Sayani Gupta",Drama,6.6
+364,Emergency,2022,105.0,Carey Williams,"RJ Cyler, Donald Elise Watkins, Sebastian Chacon","Comedy, Drama, Thriller",6.2
+365,Goodbye,2022,130.0,Vikas Bahl,"Amitabh Bachchan, Neena Gupta, Rashmika Mandanna","Comedy, Drama, Family",6.7
+366,The Coffee Table,2022,89.0,Caye Casas,"David Pareja, Estefanía de los Santos, Josep Maria Riera","Comedy, Drama, Horror",6.7
+367,Aaraattu,2022,167.0,B. Unnikrishnan,"Mohanlal, Nedumudi Venu, Vijayaraghavan","Action, Comedy",3.7
+368,Along for the Ride,2022,106.0,Sofia Alvarez,"Emma Pasarow, Belmont Cameli, Laura Kariuki","Drama, Romance",6.2
+369,V/H/S/99,2022,109.0,"Flying Lotus, Maggie Levin, Tyler MacIntyre","Jesse LaTourette, Keanush Tafreshi, Dashiell Derrickson",Horror,5.2
+370,Breaking,2022,103.0,Abi Damaris Corbin,"John Boyega, Nicole Beharie, Selenis Leyva","Crime, Drama, Thriller",6.3
+371,Müjde,2022,48.0,Alphan Eseli,"Lale Mansur, Salim Kechiouche, Onur Bilge",Drama,1.2
+372,Cobra,2022,183.0,R. Ajay Gnanamuthu,"Vikram, Irfan Pathan, Srinidhi Shetty","Action, Crime, Thriller",6.0
+373,Return to Seoul,2022,119.0,Davy Chou,"Park Ji-min, Oh Gwang-Rok, Guka Han",Drama,6.9
+374,Brian and Charles,2022,90.0,Jim Archer,"David Earl, Chris Hayward, Louise Brealey","Comedy, Drama, Sci-Fi",6.7
+375,The Lost King,2022,108.0,Stephen Frears,"Sally Hawkins, Shonagh Price, Helen Katamba","Biography, Drama",6.7
+376,India Lockdown,2022,117.0,Madhur Bhandarkar,"Prateik Patil Babbar, Sai Tamhankar, Shweta Basu Prasad",Drama,7.1
+377,End of the Road,2022,89.0,Millicent Shelton,"Queen Latifah, Ludacris, Mychala Lee","Action, Crime, Drama",4.8
+378,Emily,2022,130.0,Frances O'Connor,"Emma Mackey, Oliver Jackson-Cohen, Fionn Whitehead","Biography, Drama, History",6.8
+379,Babli Bouncer,2022,118.0,Madhur Bhandarkar,"Tamannaah Bhatia, Sahil Vaid, Karan Singh Chhabra","Comedy, Drama",6.5
+380,The Takedown,2022,119.0,Louis Leterrier,"Omar Sy, Laurent Lafitte, Izïa Higelin","Action, Comedy, Crime",5.8
+381,Raymond & Ray,2022,105.0,Rodrigo García,"Ewan McGregor, Jalyn Baiden, Ethan Hawke","Comedy, Drama",6.2
+382,Ante Sundharaniki,2022,173.0,Vivek Athreya,"Nani, Nazriya Nazim, V.K. Naresh","Comedy, Romance",7.6
+383,Catherine Called Birdy,2022,108.0,Lena Dunham,"Bella Ramsey, Billie Piper, Andrew Scott",Adventure,6.6
+384,The Volcano: Rescue from Whakaari,2022,98.0,Rory Kennedy,"Mark Inman, Hazel Osborne, Pouroto Ngaropo",Documentary,7.4
+385,Hellhole,2022,91.0,Bartosz M. Kowalski,"Piotr Zurawski, Olaf Lubaszenko, Sebastian Stankiewicz","Horror, Mystery",5.8
+386,Bubble,2022,100.0,Tetsurô Araki,"Jun Shison, Riria., Mamoru Miyano","Animation, Action, Adventure",6.4
+387,Sissy,2022,102.0,"Hannah Barlow, Kane Senes","Aisha Dee, Hannah Barlow, Emily De Margheriti","Comedy, Drama, Horror",6.1
+388,Alcarràs,2022,120.0,Carla Simón,"Josep Abad, Jordi Pujol Dolcet, Anna Otin",Drama,7.0
+389,All the Beauty and the Bloodshed,2022,113.0,Laura Poitras,"Nan Goldin, David Velasco, Megan Kapler","Documentary, History",7.5
+390,Rise,2022,113.0,Akin Omotoso,"Dayo Okeniyi, Yetide Badaki, Uche Agada","Biography, Drama, Sport",7.0
+391,The Cellar,2022,94.0,Brendan Muldowney,"Elisha Cuthbert, Eoin Macken, Abby Fitz","Horror, Mystery",5.3
+392,Godland,2022,143.0,Hlynur Pálmason,"Elliott Crosset Hove, Ingvar Sigurdsson, Vic Carmen Sonne",Drama,7.1
+393,Nanny,2022,99.0,Nikyatu Jusu,"Anna Diop, Michelle Monaghan, Sinqua Walls","Drama, Horror",5.3
+394,Spoiler Alert,2022,112.0,Michael Showalter,"Jim Parsons, Ben Aldridge, Josh Pais","Comedy, Drama, Romance",7.3
+395,Mindcage,2022,96.0,Mauro Borrelli,"Elisha Bascomb, Alba Borrelli, Nikola Chupin","Crime, Drama, Horror",4.6
+396,Scrooge: A Christmas Carol,2022,96.0,Stephen Donnelly,"Luke Evans, Olivia Colman, Jessie Buckley","Animation, Adventure, Comedy",6.2
+397,Cairo Conspiracy,2022,126.0,Tarik Saleh,"Tawfeek Barhom, Fares Fares, Mohammad Bakri","Drama, Thriller",6.9
+398,James,2022,149.0,Chethan Kumar,"Puneeth Rajkumar, Priya Anand, Meka Srikanth","Action, Comedy, Drama",7.3
+399,Project Wolf Hunting,2022,122.0,Hongsun Kim,"Seo In-guk, Jang Dong-yoon, Jung So-min","Action, Crime, Horror",6.1
+400,Feed,2022,104.0,Johannes Persson,"Molly Nutley, Sofia Kappel, Vincent Grahl",Horror,4.8
+401,Grimcutty,2022,101.0,John Ross,"Shannyn Sossamon, Sara Wolfkind, Usman Ally","Drama, Horror, Mystery",4.3
+402,Secret Headquarters,2022,104.0,"Henry Joost, Ariel Schulman","Owen Wilson, Michael Peña, Walker Scobell","Action, Adventure, Comedy",5.2
+403,MK Ultra,2022,98.0,Joseph Sorrentino,"Anson Mount, Jason Patric, Jaime Ray Newman",Thriller,5.0
+404,Jahaan Chaar Yaar,2022,126.0,Kamal Pandey,"Swara Bhasker, Meher Vij, Shikha Talsania","Comedy, Drama",3.2
+405,HIT: The 2nd Case,2022,150.0,Sailesh Kolanu,"Adivi Sesh, Meenaakshi Chaudhary, Rao Ramesh","Crime, Drama, Mystery",7.2
+406,Nocebo,2022,96.0,Lorcan Finnegan,"Eva Green, Mark Strong, Chai Fonacier","Horror, Thriller",5.8
+407,Shabaash Mithu,2022,156.0,Srijit Mukherji,"Taapsee Pannu, Vijay Raaz, Brijendra Kala","Biography, Drama, Sport",5.6
+408,Vendhu Thanindhathu Kaadu,2022,177.0,Gautham Vasudev Menon,"Silambarasan TR, Siddhi Idnani, Radhika Sarathkumar","Action, Crime, Drama",7.3
+409,The Offering,2022,93.0,Oliver Park,"Nick Blood, Emily Wiseman, Paul Kaye",Horror,5.3
+410,Sardar,2022,166.0,P.S. Mithran,"Karthi, Raashi Khanna, Rajeev Anand","Action, Drama, Thriller",7.5
+411,Viking Wolf,2022,97.0,Stig Svendsen,"Elli Rhiannon Müller Osborne, Liv Mjönes, Sjur Vatne Brean","Horror, Thriller",5.2
+412,Christmas with You,2022,89.0,Gabriela Tagliavini,"Aimee Garcia, Freddie Prinze Jr., Gabriel Sloyer","Comedy, Family, Romance",5.6
+413,Bimbisara,2022,146.0,Mallidi Vasishta,"Nandamuri Kalyan Ram, Samyuktha Menon, Catherine Tresa","Action, Drama, Fantasy",6.8
+414,One Fine Morning,2022,112.0,Mia Hansen-Løve,"Léa Seydoux, Pascal Greggory, Melvil Poupaud","Drama, Romance",6.9
+415,In from the Side,2022,134.0,Matt Carter,"Alexander Lincoln, Alexander King, William Hearle","Drama, Romance, Sport",6.7
+416,The Witch: Part 2 - The Other One,2022,137.0,Park Hoon-jung,"Shin Si-ah, Jo Min-soo, Kim Da-mi","Action, Mystery, Thriller",6.3
+417,Thar,2022,108.0,Raj Singh Chaudhary,"Anil Kapoor, Harshvardhan Kapoor, Fatima Sana Shaikh","Action, Crime, Drama",6.1
+418,Qala,2022,119.0,Anvita Dutt,"Triptii Dimri, Babil Khan, Swastika Mukherjee","Drama, Music",7.2
+419,Janhit Mein Jaari,2022,146.0,"Jai Basantu Singh, Sunny Mandavarra","Nushrratt Bharuccha, Anud Singh Dhaka, Paritosh Tripathi","Comedy, Drama, Romance",6.8
+420,Pawankhind,2022,153.0,Digpal Lanjekar,"Mrinal Kulkarni, Chinmay Mandlekar, Sameer Dharmadhikari","Drama, History",8.4
+421,Glorious,2022,79.0,Rebekah McKendry,"Ryan Kwanten, J.K. Simmons, Sylvia Grace Crim","Horror, Mystery, Thriller",5.6
+422,Recep Ivedik 7,2022,133.0,Togan Gökbakar,"Sahan Gökbakar, Öznur Serçeler, Irfan Kangi",Comedy,5.0
+423,Prizefighter: The Life of Jem Belcher,2022,107.0,Daniel Graham,"Matt Hookings, Ray Winstone, Russell Crowe","Biography, Drama, History",5.5
+424,Godfather,2022,157.0,Mohan Raja,"Chiranjeevi, Salman Khan, Nayanthara","Action, Crime, Drama",5.1
+425,Teambuilding,2022,91.0,"Alex Cotet, Matei Dima, Cosmin Nedelcu","Serban Pavlu, Matei Dima, Anca Dinicu",Comedy,6.5
+426,Warriors of Future,2022,112.0,Yuen Fai Ng,"Louis Koo, Ching-Wan Lau, Carina Lau","Action, Adventure, Sci-Fi",5.6
+427,Fistful of Vengeance,2022,96.0,Roel Reiné,"Iko Uwais, Lewis Tan, Lawrence Kao","Action, Crime, Drama",4.4
+428,Gargi,2022,140.0,Gautham Ramachandran,"Sai Pallavi, Kaali Venkat, R.S. Shivaji","Drama, Thriller",8.1
+429,Uunchai,2022,173.0,Sooraj R. Barjatya,"Amitabh Bachchan, Anupam Kher, Boman Irani",Drama,7.0
+430,Terror on the Prairie,2022,107.0,Michael Polish,"Gina Carano, Nick Searcy, Donald Cerrone","Drama, Thriller, Western",5.2
+431,Chevalier,2022,108.0,Stephen Williams,"Kelvin Harrison Jr., Samara Weaving, Lucy Boynton","Biography, Drama, History",6.5
+432,Moloch,2022,99.0,Nico van den Brink,"Sallie Harmsen, Alexandre Willaume, Anneke Blok","Horror, Mystery",6.0
+433,Paradise Highway,2022,115.0,Anna Gutto,"Juliette Binoche, Frank Grillo, Hala Finley","Crime, Drama, Thriller",5.7
+434,Joyland,2022,126.0,Saim Sadiq,"Ali Junejo, Rasti Farooq, Alina Khan","Comedy, Crime, Drama",7.6
+435,Rise of the Teenage Mutant Ninja Turtles: The Movie,2022,82.0,"Andy Suriano, Ant Ward","Ben Schwartz, Omar Benson Miller, Brandon Mychal Smith","Animation, Action, Adventure",6.2
+436,Sniper. The White Raven,2022,111.0,Marian Bushan,"Pavlo Aldoshyn, Maryna Koshkina, Andrey Mostrenko","Drama, War",6.4
+437,S5,2022,110.0,Bharrath Komalapati,"Taraka Ratna Nandamuri, Prince Cecil, Sunil","Horror, Thriller",6.7
+438,Old People,2022,101.0,Andy Fetscher,"Jolene Andersen, Adolfo Assor, Betsy Baker",Horror,5.1
+439,Out of Darkness,2022,88.0,Andrew Cumming,"Iola Evans, Arno Lüning, Rosebud Melarkey","Horror, Thriller",5.5
+440,Bro Daddy,2022,159.0,Prithviraj Sukumaran,"Mohanlal, Prithviraj Sukumaran, Lalu Alex","Comedy, Drama, Romance",7.0
+441,Inside the Mind of a Cat,2022,67.0,Andy Mitchell,"Neil Wilson, Bruce Kornriech, Kristyn Vitale",Documentary,6.9
+442,Love and Leashes,2022,117.0,Park Hyeon-jin,"Seohyun, Lee Jun-young, Kim Bo-ra","Comedy, Romance",6.3
+443,Gone in the Night,2022,90.0,Eli Horowitz,"Winona Ryder, Dermot Mulroney, John Gallagher Jr.","Mystery, Thriller",4.9
+444,The Requin,2022,89.0,Le-Van Kiet,"Alicia Silverstone, James Tupper, Deirdre O'Connell","Horror, Thriller",2.6
+445,Jalsa,2022,126.0,Suresh Triveni,"Vidya Balan, Shefali Shah, Rohini Hattangadi","Drama, Thriller",6.6
+446,Dead for a Dollar,2022,107.0,Walter Hill,"Christoph Waltz, Willem Dafoe, Rachel Brosnahan","Action, Drama, Western",5.4
+447,My Best Friend's Exorcism,2022,97.0,Damon Thomas,"Elsie Fisher, Amiah Miller, Rachel Ogechi Kanu","Comedy, Horror, Thriller",5.3
+448,Faithfully Yours,2022,95.0,André van Duren,"Bracha van Doesburgh, Nasrdin Dchar, Gijs Naber",Thriller,5.8
+449,Unwelcome,2022,104.0,Jon Wright,"Hannah John-Kamen, Douglas Booth, Colm Meaney","Comedy, Horror",5.4
+450,Paws of Fury: The Legend of Hank,2022,98.0,"Chris Bailey, Mark Koetsier, Rob Minkoff","Michael Cera, Samuel L. Jackson, Ricky Gervais","Animation, Action, Adventure",5.8
+451,The Eternal Daughter,2022,96.0,Joanna Hogg,"Tilda Swinton, Louis, August Joshi","Drama, Mystery",5.9
+452,Cheaper by the Dozen,2022,107.0,Gail Lerner,"Gabrielle Union, Zach Braff, Erika Christensen","Comedy, Family",4.6
+453,Rorschach,2022,150.0,Nissam Basheer,"Mammootty, Grace Antony, Jagadish","Action, Mystery, Thriller",6.9
+454,November,2022,106.0,Cédric Jimenez,"Jean Dujardin, Anaïs Demoustier, Sandrine Kiberlain","Crime, Drama, Thriller",6.7
+455,Tall Girl 2,2022,97.0,Emily Ting,"Ava Michelle, Griffin Gluck, Sabrina Carpenter","Comedy, Drama, Family",4.7
+456,Love & Gelato,2022,110.0,Brandon Camp,"Susanna Skaggs, Tobia De Angelis, Owen McDonnell","Comedy, Drama, Romance",5.2
+457,Vadh,2022,110.0,"Jaspal Singh Sandhu, Rajeev Barnwal","Sanjay Mishra, Neena Gupta, Manav Vij","Crime, Drama, Thriller",7.2
+458,Hawa,2022,131.0,Mejbaur Rahman Sumon,"Sumon Anowar, Chanchal Chowdhury, Nasir Uddin Khan","Drama, Mystery",7.6
+459,Huesera: The Bone Woman,2022,97.0,Michelle Garza Cervera,"Natalia Solián, Alfonso Dosal, Mayra Batalla","Drama, Horror",6.0
+460,The Ledge,2022,86.0,Howard J. Ford,"Brittany Ashworth, Ben Lamb, Louis Boyer","Action, Adventure, Thriller",5.2
+461,Alienoid,2022,142.0,Dong-hoon Choi,"Ryu Jun-yeol, Kim Woo-bin, Kim Tae-ri","Action, Adventure, Fantasy",6.3
+462,Shattered,2022,92.0,Luis Prieto,"Cameron Monaghan, Sasha Luss, Ridley Asha Bateman","Crime, Drama, Horror",5.0
+463,Call Jane,2022,121.0,Phyllis Nagy,"Elizabeth Banks, Sigourney Weaver, Chris Messina","Drama, History",6.5
+464,Marry My Dead Body,2022,130.0,Wei-Hao Cheng,"Greg Han Hsu, Po-Hung Lin, Gingle Wang","Action, Comedy, Crime",7.0
+465,Ash and Bone,2022,97.0,Harley Wallen,"Jamie Bernadette, Angelina Danielle Cama, Harley Wallen","Horror, Mystery, Thriller",4.0
+466,Bergen,2022,145.0,"Caner Alper, Mehmet Binay","Farah Zeynep Abdullah, Erdal Besikçioglu, Tilbe Saran","Biography, Drama, Music",6.9
+467,Eflatun,2022,103.0,Cuneyt Karakus,"Irem Helvacioglu, Kerem Bürsin, Melisa Akman","Drama, Romance",6.8
+468,Mukundan Unni Associates,2022,128.0,Abhinav Sunder Nayak,"Vineeth Sreenivasan, Suraj Venjaramoodu, Aarsha Chandini Baiju","Comedy, Crime, Drama",7.9
+469,The King's Daughter,2022,98.0,Sean McNamara,"Pierce Brosnan, Kaya Scodelario, William Hurt","Action, Adventure, Family",5.2
+470,This Place Rules,2022,82.0,Andrew Callaghan,"Andrew Callaghan, Joker Gang, Gum Gang","Documentary, Crime, History",7.2
+471,The Immaculate Room,2022,92.0,Mukunda Michael Dewil,"Emile Hirsch, Kate Bosworth, Ashley Greene","Drama, Thriller",5.1
+472,Showing Up,2022,107.0,Kelly Reichardt,"Michelle Williams, Hong Chau, André 3000","Comedy, Drama",6.3
+473,Love Tactics,2022,97.0,Emre Kabakusak,"Demet Özdemir, Sükrü Özyildiz, Atakan Çelik","Comedy, Romance",5.4
+474,Moonshot,2022,104.0,Christopher Winterbauer,"Cole Sprouse, Zach Braff, Peter Woodward","Comedy, Romance, Sci-Fi",5.6
+475,Watch the Skies,2022,115.0,Victor Danell,"Inez Dahl Torhaug, Jesper Barkselius, Sara Shirpey","Action, Adventure, Mystery",6.4
+476,Those Who Walk Away,2022,94.0,Robert Rippberger,"Booboo Stewart, Nils Allen Stewart, Nancy Harding","Drama, Horror, Thriller",4.3
+477,Siya,2022,117.0,Manish Mundra,"Stephen Alexander, Sonia Battra, Rudra Pratap Singh Chaudhary","Crime, Drama",7.5
+478,Jogi,2022,116.0,"Ali Abbas Zafar, Jatinkumar Jagdishbhai Patel","Diljit Dosanjh, Kumud Mishra, Mohd. Zeeshan Ayyub","Drama, Thriller",7.1
+479,Butcher's Crossing,2022,105.0,Gabe Polsky,"Nicolas Cage, Fred Hechinger, Jeremy Bobb","Adventure, Drama, Western",5.6
+480,Kaapa,2022,136.0,Shaji Kailas,"Prithviraj Sukumaran, Asif Ali, Anna Ben","Action, Crime, Thriller",5.9
+481,Selena Gomez: My Mind & Me,2022,95.0,Alek Keshishian,"Raquelle Stevens, Liana Blackburn, Brent L. Boxberger","Documentary, Biography",7.3
+482,Hunt,2022,131.0,Lee Jung-jae,"Lee Jung-jae, Go Youn-jung, Ju Ji-hoon","Action, Drama, Mystery",6.7
+483,Spin Me Round,2022,104.0,Jeff Baena,"Alison Brie, Jake Picking, Stella Chesnut","Comedy, Romance",5.2
+484,Thallumaala,2022,148.0,Khalid Rahman,"Tovino Thomas, Kalyani Priyadarshan, Shine Tom Chacko","Action, Comedy, Drama",6.9
+485,BTS: Permission to Dance on Stage - LA,2022,130.0,"Park Jun-soo, Sam Wrench","BTS, RM, Jin","Documentary, Music",8.5
+486,My Name Is Vendetta,2022,90.0,Cosimo Gomez,"Alessandro Gassmann, Ginevra Francesconi, Alessio Praticò","Action, Crime, Drama",5.6
+487,Christmas Bloody Christmas,2022,86.0,Joe Begos,"Riley Dandy, Sam Delich, Jonah Ray","Comedy, Horror",5.1
+488,The Blue Caftan,2022,122.0,Maryam Touzani,"Lubna Azabal, Saleh Bakri, Ayoub Missioui","Drama, Romance",7.5
+489,Trust No One: The Hunt for the Crypto King,2022,90.0,Luke Sewell,"Alexandra Posadzki, Daniel B. Roberts","Documentary, Crime",6.3
+490,The Lair,2022,97.0,Neil Marshall,"Charlotte Kirk, Jonathan Howard, Jamie Bamber","Action, Horror, Sci-Fi",4.6
+491,Breath,2022,106.0,John Real,"James Cosmo, Rachel Daigh, Neb Chupin","Drama, Thriller",4.9
+492,Lost Bullet 2: Back for More,2022,98.0,Guillaume Pierret,"Alban Lenoir, Stéfi Celma, Sébastien Lalanne","Action, Crime, Thriller",6.3
+493,The Conversion,2022,134.0,Vinod Tewari,"Vindhya Tiwari, Prateek Shukla, Ravi Bhatia",Drama,8.1
+494,Salute,2022,145.0,Rosshan Andrrews,"Dulquer Salmaan, Manoj K. Jayan, Diana Penty","Action, Crime, Drama",7.0
+495,The Figo Affair: The Transfer that Changed Football,2022,105.0,"Ben Nicholas, David Tryhorn","Roberto Carlos, José Ramón de la Morena, José Félix Díaz","Documentary, Biography, Sport",7.1
+496,Gorgeous,2022,151.0,Berkun Oya,"Ayça Bingöl, Fatih Artman, Funda Eryigit",Drama,7.1
+497,Lost,2022,124.0,Aniruddha Roy Chowdhury,"Yami Gautam, Pankaj Kapur, Rahul Khanna","Drama, Thriller",5.7
+498,The Kids Are Alright 2,2022,84.0,Inés de León,"Paz Vega, Paz Padilla, Inés de León",Comedy,4.8
+499,Corner Office,2022,101.0,Joachim Back,"Jon Hamm, Danny Pudi, Sarah Gadon","Comedy, Mystery",6.1
+500,Mr. Malcolm's List,2022,117.0,Emma Holly Jones,"Freida Pinto, Sope Dirisu, Oliver Jackson-Cohen","Comedy, Drama, Romance",6.0
+501,The Amazing Maurice,2022,93.0,"Toby Genkel, Florian Westermann","Hugh Laurie, Emilia Clarke, David Thewlis","Animation, Adventure, Comedy",6.2
+502,R.I.P.D. 2: Rise of the Damned,2022,102.0,Paul Leyden,"Jeffrey Donovan, Rachel Adedeji, Penelope Mitchell","Action, Adventure, Comedy",4.6
+503,Accident Man: Hitman's Holiday,2022,96.0,"George Kirby, Harry Kirby","Scott Adkins, Ray Stevenson, Perry Benson","Action, Comedy, Crime",5.9
+504,The Estate,2022,96.0,Dean Craig,"Toni Collette, Anna Faris, David Duchovny",Comedy,5.3
+505,Master,2022,98.0,Mariama Diallo,"Regina Hall, Zoe Renee, Julia Nightingale","Drama, Horror, Mystery",5.3
+506,R.M.N.,2022,125.0,Cristian Mungiu,"Marin Grigore, Judith State, Macrina Barladeanu",Drama,7.2
+507,"Nna, Thaan Case Kodu",2022,138.0,Ratheesh Balakrishnan Poduval,"Kunchacko Boban, Gayathrie, Rajesh Madhavan","Comedy, Crime, Drama",8.0
+508,Jaya Jaya Jaya Jaya Hey,2022,145.0,Vipin Das,"Darshana Rajendran, Basil Joseph, Aju Varghese","Comedy, Drama, Family",7.7
+509,Something in the Dirt,2022,116.0,"Justin Benson, Aaron Moorhead","Aaron Moorhead, Justin Benson, Sarah Adina Smith","Comedy, Horror, Mystery",5.8
+510,The Reef: Stalked,2022,93.0,Andrew Traucki,"Teressa Liane, Ann Truong, Saskia Archer","Adventure, Horror, Thriller",4.2
+511,Somewhere in Queens,2022,106.0,Ray Romano,"Ray Romano, Laurie Metcalf, Jacob Ward","Comedy, Drama, Sport",6.8
+512,Blue Jean,2022,97.0,Georgia Oakley,"Rosy McEwen, Kerrie Hayes, Lucy Halliday","Drama, History",7.0
+513,Good Luck Jerry,2022,148.0,Siddharth Sen,"Janhvi Kapoor, Jaswant Dalal, Deepak Dobriyal","Comedy, Crime, Drama",5.5
+514,Jungle Cry,2022,117.0,Sagar Ballary,"Abhay Deol, Emily Shah, Steve Aldis","Drama, Sport",7.2
+515,Return to Space,2022,128.0,"Jimmy Chin, Elizabeth Chai Vasarhelyi","Elon Musk, Bob Behnken, Doug Hurley",Documentary,7.3
+516,Malikappuram,2022,121.0,Vishnu Sasi Shankar,"Unni Mukundan, Saiju Kurup, Deva Nandha","Action, Adventure, Drama",7.4
+517,Blurr,2022,127.0,Ajay Bahl,"Taapsee Pannu, Gulshan Devaiah, Abhilash Thapliyal","Drama, Horror, Thriller",5.8
+518,Halftime,2022,95.0,"Amanda Micheli, Sam Wrench","Jennifer Lopez, Ben Affleck, Adam Blackstone","Documentary, Biography, Music",6.6
+519,Saint Omer,2022,122.0,Alice Diop,"Kayije Kagame, Guslagie Malanda, Valérie Dréville",Drama,6.8
+520,The Mystery of Marilyn Monroe: The Unheard Tapes,2022,101.0,Emma Cooper,"Lauren Bacall, Gladys Baker, Ray Bull","Documentary, Biography, Crime",6.2
+521,Smoking Causes Coughing,2022,77.0,Quentin Dupieux,"Gilles Lellouche, Vincent Lacoste, Anaïs Demoustier","Comedy, Horror, Sci-Fi",6.4
+522,Margaux,2022,104.0,Steven C. Miller,"Madison Pettis, Vanessa Morgan, Jedidiah Goodacre","Horror, Sci-Fi, Thriller",4.5
+523,Wifelike,2022,105.0,James Bird,"Jonathan Rhys Meyers, Elena Kampouris, Doron Bell","Crime, Mystery, Sci-Fi",4.9
+524,Brut Force,2022,93.0,Eve Symington,"Tyler Posey, Patricia Velasquez, Lelia Symington",Thriller,4.3
+525,Restless,2022,95.0,Régis Blondeau,"Franck Gastambide, Simon Abkarian, Michaël Abiteboul","Action, Crime, Thriller",5.8
+526,Monolith,2022,94.0,Matt Vesely,"Lily Sullivan, Damon Herriman, Ling Cooper Tang","Drama, Mystery, Sci-Fi",5.8
+527,The Five Devils,2022,103.0,Léa Mysius,"Adèle Exarchopoulos, Swala Emati, Sally Dramé","Drama, Fantasy, Romance",6.7
+528,The Inspection,2022,95.0,Elegance Bratton,"Jeremy Pope, Gabrielle Union, Bokeem Woodbine",Drama,6.7
+529,Naane Varuvean,2022,122.0,K. Selvaraghavan,"Dhanush, Prabhu, Indhuja Ravichandran",Thriller,6.2
+530,Green Lantern: Beware My Power,2022,88.0,Jeff Wamester,"Aldis Hodge, Jimmi Simpson, Ike Amadi","Animation, Action, Adventure",6.1
+531,Perfect Strangers,2022,99.0,Wissam Smayra,"Nadine Labaki, Mona Zaki, Eyad Nassar","Comedy, Drama, Romance",5.8
+532,Blood,2022,108.0,Brad Anderson,"Michelle Monaghan, Skeet Ulrich, Finlay Wojtak-Hissong","Drama, Horror, Thriller",5.5
+533,The Enforcer,2022,90.0,Richard Hughes,"Antonio Banderas, Mojean Aria, Kate Bosworth","Action, Crime, Drama",5.3
+534,Çakallarla Dans 6,2022,116.0,Murat Seker,"Sevket Çoruh, Ilker Ayrik, Timur Acar","Action, Comedy",5.2
+535,Aparajito,2022,138.0,Anik Datta,"Jeetu Kamal, Saayoni Ghosh, Debashis Roy","Biography, Drama, Family",8.8
+536,Wrong Place,2022,96.0,Mike Burns,"Ashley Greene, Bruce Willis, Michael Sirow","Action, Crime, Thriller",3.5
+537,When You Finish Saving the World,2022,88.0,Jesse Eisenberg,"Julianne Moore, Finn Wolfhard, Billy Bryk","Comedy, Drama",5.6
+538,Dhamaka,2022,144.0,Trinadha Rao Nakkina,"Ravi Teja, Sreeleela, Jayaram","Action, Comedy, Thriller",6.2
+539,The Takeover,2022,87.0,Annemarie van de Mond,"Holly Mae Brood, Géza Weisz, Frank Lammers","Action, Crime, Thriller",5.3
+540,Corrective Measures,2022,106.0,Sean Patrick O'Reilly,"Michael Rooker, Tom Cavanagh, Brennan Mejia","Action, Sci-Fi",4.3
+541,Monstrous,2022,88.0,Chris Sivertson,"Christina Ricci, Santino Barnard, Don Baldaramos","Horror, Mystery, Thriller",4.7
+542,White Hot: The Rise & Fall of Abercrombie & Fitch,2022,88.0,Alison Klayman,"Benjamin O'Keefe, Bobby Blanski, Ryan Daharsh",Documentary,5.8
+543,Ved,2022,148.0,Riteish Deshmukh,"Riteish Deshmukh, Genelia Deshmukh, Jiya Shankar","Drama, Romance",7.2
+544,Nanpakal Nerathu Mayakkam,2022,105.0,Lijo Jose Pellissery,"Mammootty, Ramya Pandian, Ashokan","Comedy, Drama",7.4
+545,White Elephant,2022,92.0,Jesse V. Johnson,"Michael Rooker, Bruce Willis, Olga Kurylenko","Action, Thriller",4.5
+546,American Carnage,2022,101.0,Diego Hallivis,"Jorge Lendeborg Jr., Jenna Ortega, Allen Maldonado","Action, Comedy, Horror",4.9
+547,Beyond the Neon,2022,87.0,Larry A. McLean,"Joey Salads, Frank Pesce, Cynthia Lucero","Crime, Mystery, Thriller",6.4
+548,House of Darkness,2022,88.0,Neil LaBute,"Kate Bosworth, Justin Long, Gia Crovatin","Comedy, Horror, Mystery",4.7
+549,Shark Bait,2022,87.0,James Nunn,"Holly Earl, Jack Trueman, Catherine Hannay","Horror, Thriller",4.5
+550,The Killer,2022,95.0,Jae-Hoon Choi,"Jang Hyuk, Seo-young Lee, Bang Eun-Jung","Action, Crime, Thriller",6.7
+551,A Day to Die,2022,105.0,Wes Miller,"Kevin Dillon, Bruce Willis, Frank Grillo","Action, Crime, Drama",3.5
+552,Incredible But True,2022,74.0,Quentin Dupieux,"Alain Chabat, Léa Drucker, Benoît Magimel","Comedy, Drama, Fantasy",6.4
+553,Borrego,2022,102.0,Jesse Harris,"Lucy Hale, Leynar Gomez, Jorge A. Jimenez",Thriller,5.2
+554,Tyler Perry's A Madea Homecoming,2022,105.0,Tyler Perry,"Tyler Perry, Cassi Davis, David Mann","Comedy, Drama, Romance",5.7
+555,Acharya,2022,152.0,Koratala Siva,"Chiranjeevi, Ram Charan, Pooja Hegde","Action, Drama",3.8
+556,Marmaduke,2022,88.0,"Mark A.Z. Dippé, Youngki Lee, Phil Nibbelink","Pete Davidson, J.K. Simmons, David Koechner","Animation, Adventure, Comedy",3.4
+557,Looop Lapeta,2022,131.0,Aakash Bhatia,"Taapsee Pannu, Tahir Raj Bhasin, Dibyendu Bhattacharya","Action, Comedy, Crime",5.2
+558,All That Breathes,2022,97.0,Shaunak Sen,"Salik Rehman, Mohammad Saud, Nadeem Shehzad",Documentary,7.0
+559,Maarrich,2022,126.0,Dhruv Lather,"Tusshar Kapoor, Chelsha Gosai, Aakash Dahiya","Crime, Mystery, Thriller",6.3
+560,Final Cut,2022,112.0,Michel Hazanavicius,"Romain Duris, Bérénice Bejo, Grégory Gadebois","Comedy, Horror",6.4
+561,Kira & El Gin,2022,175.0,Marwan Hamed,"Karim Abdel Aziz, Ahmed Ezz, Hind Sabri","Action, Drama, History",7.9
+562,The Greatest Lie Ever Sold: George Floyd and the Rise of BLM,2022,79.0,Candace Owens,"Candace Owens, Bob Kroll, Liz Collin",Documentary,7.0
+563,Escape the Field,2022,89.0,Emerson Moore,"Jordan Claire Robbins, Theo Rossi, Shane West","Horror, Thriller",4.4
+564,Hey Sinamika,2022,150.0,Brinda Master,"Dulquer Salmaan, Aditi Rao Hydari, Kajal Aggarwal","Drama, Romance",6.3
+565,Blackout,2022,81.0,Sam Macaroni,"Josh Duhamel, Abbie Cornish, Omar Chaparro","Action, Crime, Thriller",3.9
+566,The Pirates: The Last Royal Treasure,2022,126.0,Jeong-hoon Kim,"Kang Ha-neul, Han Hyo-joo, Lee Kwang-soo","Action, Adventure, Comedy",6.1
+567,Good Night Oppy,2022,105.0,Ryan White,"Angela Bassett, Jon Stewart, Stephen Colbert",Documentary,7.7
+568,The Wrath of God,2022,97.0,Sebastián Schindel,"Diego Peretti, Juan Minujín, Macarena Achaga","Drama, Thriller",5.8
+569,Drifting Home,2022,119.0,Hiroyasu Ishida,"Mutsumi Tamura, Asami Seto, Ayumu Murase","Animation, Adventure, Drama",6.3
+570,The Outwaters,2022,110.0,Robbie Banfitch,"Robbie Banfitch, Angela Basolis, Scott Schamell","Horror, Sci-Fi, Thriller",3.9
+571,Tony Hawk: Until the Wheels Fall Off,2022,135.0,Sam Jones,"Tony Hawk, Stacy Peralta, Rob 'Sluggo' Boyce","Documentary, Biography, Sport",8.0
+572,Yaksha: Ruthless Operations,2022,125.0,Hyeon Na,"Sul Kyung-gu, Park Hae-soo, Hiroyuki Ikeuchi","Action, Crime, Thriller",6.3
+573,Three of Us,2022,99.0,Avinash Arun,"Shefali Shah, Jaideep Ahlawat, Swanand Kirkire","Drama, Romance",7.5
+574,Mad Heidi,2022,92.0,"Johannes Hartmann, Sandro Klopfstein","Alice Lucy, Max Rüdlinger, Casper Van Dien","Action, Adventure, Comedy",5.5
+575,Wildflower,2022,105.0,Matt Smukler,"Alexandra Daddario, Ryan Kiera Armstrong, Jean Smart","Comedy, Drama",6.8
+576,Play Dead,2022,106.0,Patrick Lussier,"Bailee Madison, Jerry O'Connell, Anthony Turpel","Horror, Thriller",5.2
+577,Declaration,2022,107.0,Mahesh Narayanan,"Kunchacko Boban, Divya Prabha, Faisal Malik",Drama,6.4
+578,Office Invasion,2022,112.0,"Gareth Crocker, Fred Wolmarans","Rea Rangaka, Kiroshan Naidoo, Sechaba Ramphele","Action, Comedy, Horror",4.5
+579,Sanctioning Evil,2022,110.0,Ante Novakovic,"Zach McGowan, Taryn Manning, Tobias Truvillion",Action,5.9
+580,Of an Age,2022,100.0,Goran Stolevski,"Elias Anton, Hattie Hook, Peter Rayias","Drama, Romance",7.1
+581,Venus,2022,100.0,Jaume Balagueró,"Ester Expósito, Inés Fernández, Ángela Cremonte",Horror,5.5
+582,12th Man,2022,163.0,Jeethu Joseph,"Mohanlal, Sshivada, Chandhunadh","Crime, Drama, Mystery",6.8
+583,Dark Glasses,2022,86.0,Dario Argento,"Ilenia Pastorelli, Asia Argento, Andrea Gherpelli","Horror, Mystery, Thriller",5.1
+584,Rubikon,2022,110.0,Magdalena Lauritsch,"Julia Franz Richter, George Blagden, Mark Ivanir","Drama, Sci-Fi, Thriller",5.0
+585,New Year's Eve,2022,142.0,Ozan Açiktan,"Gülse Birsel, Büsra Pekin, Alina Boz",Comedy,5.8
+586,FIR,2022,156.0,Manu Anand,"Vishnu Vishal, Manjima Mohan, Gautham Vasudev Menon",,6.9
+587,Bed Rest,2022,90.0,Lori Evans Taylor,"Melissa Barrera, Guy Burnet, Edie Inksetter","Drama, Horror, Mystery",5.1
+588,Pinball: The Man Who Saved the Game,2022,95.0,"Austin Bragg, Meredith Bragg","Mike Faist, Crystal Reed, Dennis Boutsikaris","Biography, Comedy, Drama",7.0
+589,Paradise City,2022,92.0,Chuck Russell,"Bruce Willis, Blake Jenner, Praya Lundberg","Action, Thriller",3.7
+590,"Hello, Goodbye and Everything in Between",2022,82.0,Michael Lewen,"Jordan Fisher, Talia Ryder, Ayo Edebiri","Comedy, Drama, Romance",5.2
+591,Bhoothakaalam,2022,105.0,Rahul Sadasivan,"Shane Nigam, Revathi, Saiju Kurup","Drama, Horror, Mystery",7.4
+592,Silverton Siege,2022,100.0,Mandla Dube,"Thabo Rametsi, Arnold Vosloo, Noxolo Dlamini","Action, Crime, Drama",6.3
+593,"Luxembourg, Luxembourg",2022,110.0,Antonio Lukich,"Amil Nasirov, Ramil Nasirov, Nataliya Gnitiy",Comedy,7.9
+594,I Believe in Santa,2022,89.0,Alex Ranarivelo,"Christina Moore, John Ducey, Violet McGraw","Comedy, Romance",4.6
+595,"The Tunnel to Summer, the Exit of Goodbyes",2022,85.0,Tomohisa Taguchi,"Oji Suzuka, Marie Iitoyo, Tasuku Hatanaka","Animation, Drama, Fantasy",7.1
+596,A Jazzman's Blues,2022,127.0,Tyler Perry,"Joshua Boone, Amirah Vann, Solea Pfeiffer","Drama, Mystery, Romance",6.8
+597,Satan's Slaves 2: Communion,2022,119.0,Joko Anwar,"Tara Basro, Endy Arfian, Nasar Annuz","Drama, Horror, Mystery",6.7
+598,Still Time,2022,109.0,Alessandro Aronadio,"Edoardo Leo, Barbara Ronchi, Mario Sgueglia","Comedy, Drama, Fantasy",6.6
+599,My Son Hunter,2022,95.0,Robert Davi,"Laurence Fox, John James, Emma Gojkovic","Biography, Comedy, Drama",4.4
+600,Dark Cloud,2022,81.0,Jay Ness,"Alexys Gabrielle, Anna Stranz, Pierse Stevens","Horror, Sci-Fi, Thriller",3.7
+601,Titanic 666,2022,91.0,Nick Lyon,"Keesha Sharp, Jamie Bamber, Lydia Hearst","Horror, Thriller",3.3
+602,Project 'Gemini',2022,98.0,Serik Beyseu,"Egor Koreshkov, Alyona Konstantinova, Samoukov Kostya","Adventure, Sci-Fi, Thriller",3.5
+603,The Twin,2022,109.0,Taneli Mustonen,"Teresa Palmer, Steven Cree, Barbara Marten","Drama, Horror, Mystery",5.1
+604,The Devil Conspiracy,2022,111.0,Nathan Frankowski,"Alice Orr-Ewing, Joe Doyle, Eveline Hall","Horror, Sci-Fi, Thriller",4.6
+605,Double XL,2022,128.0,Satram Ramani,"Sonakshi Sinha, Huma Qureshi, Zaheer Iqbal","Comedy, Drama",4.6
+606,God's Country,2022,102.0,Julian Higgins,"Thandiwe Newton, Joris Jarsky, Jefferson White",Thriller,5.6
+607,Prison 77,2022,125.0,Alberto Rodríguez,"Miguel Herrán, Javier Gutiérrez, Jesús Carroza","Drama, Thriller",6.9
+608,The Ghost,2022,138.0,Praveen Sattaru,"Nagarjuna Akkineni, Sonal Chauhan, Gul Panag","Action, Crime, Thriller",5.1
+609,Good Boy,2022,76.0,Viljar Bøe,"Gard Løkke, Katrine Lovise Øpstad Fredriksen, Nicolai Narvesen Lied","Horror, Thriller",5.7
+610,No Bears,2022,106.0,Jafar Panahi,"Jafar Panahi, Naser Hashemi, Vahid Mobasseri","Drama, Romance",7.2
+611,The Innocent,2022,99.0,Louis Garrel,"Louis Garrel, Roschdy Zem, Noémie Merlant","Comedy, Crime, Romance",6.6
+612,Black Site,2022,93.0,Sophia Banks,"Jason Clarke, Michelle Monaghan, Jai Courtney","Action, Thriller",4.4
+613,The Price We Pay,2022,86.0,Ryûhei Kitamura,"Emile Hirsch, Stephen Dorff, Gigi Zumbado","Action, Horror, Thriller",4.9
+614,A Trip to Infinity,2022,79.0,"Jonathan Halperin, Drew Takahashi","Alan Lightman, Delilah Gates, Stephon Alexander",Documentary,7.0
+615,Meppadiyan,2022,124.0,Vishnu Mohan,"Unni Mukundan, Kottayam Ramesh, Saiju Kurup","Drama, Thriller",7.1
+616,In Good Hands,2022,104.0,Ketche,"Asli Enver, Kaan Urgancioglu, Mert Ege Ak","Comedy, Drama, Romance",5.7
+617,Honk for Jesus. Save Your Soul.,2022,106.0,Adamma Ebo,"Regina Hall, Sterling K. Brown, Nicole Beharie",Comedy,5.3
+618,Re/Member,2022,102.0,Eiichirô Hasumi,"Kanna Hashimoto, Gordon Maeda, Maika Yamamoto","Drama, Horror, Mystery",5.2
+619,Son of India,2022,102.0,Diamond Ratna Babu,"Mohan Babu, Mohammad Ali, Tanikella Bharani","Action, Drama, History",3.1
+620,Shin Ultraman,2022,112.0,"Shinji Higuchi, Ikki Todoroki","Takumi Saitô, Masami Nagasawa, Hidetoshi Nishijima","Action, Adventure, Drama",6.4
+621,Stars at Noon,2022,135.0,Claire Denis,"Margaret Qualley, Joe Alwyn, Benny Safdie","Drama, Romance, Thriller",5.5
+622,War Sailor,2022,150.0,Gunnar Vikene,"Kristoffer Joner, Pål Sverre Hagen, Ine Marie Wilmann","Drama, War",7.3
+623,My Father's Violin,2022,112.0,Andaç Haznedaroglu,"Engin Altan Düzyatan, Belçim Bilgin, Gülizar Nisa Uray",Drama,6.5
+624,The Infernal Machine,2022,111.0,Andrew Hunt,"Guy Pearce, Jeremy Davies, Eduardo Frazão","Mystery, Thriller",5.4
+625,Candy Land,2022,93.0,John Swab,"Olivia Luccardi, Sam Quartin, Eden Brolin","Horror, Thriller",5.3
+626,Ranveer vs. Wild with Bear Grylls,2022,70.0,James Turner,"Ranveer Singh, Bear Grylls, Karan Kapadia",Documentary,6.6
+627,Mortal Kombat Legends: Snow Blind,2022,82.0,Rick Morales,"Manny Jacinto, David Wenham, Artt Butler","Animation, Action, Adventure",6.7
+628,The Goat and Her Three Kids,2022,83.0,Victor Canache,"Maia Morgenstern, Marius Bodochi, Razvan Ilina","Drama, Horror, Thriller",7.2
+629,Hot Seat,2022,99.0,James Cullen Bressack,"Mel Gibson, Shannen Doherty, Kevin Dillon","Action, Thriller",4.3
+630,Panama,2022,95.0,Mark Neveldine,"Cole Hauser, Mel Gibson, Mauricio Hénao","Action, Thriller",3.5
+631,No Limit,2022,118.0,David M. Rosenthal,"Camille Rowe, Sofiane Zermani, César Domboy","Drama, Romance, Sport",5.8
+632,Abandoned,2022,102.0,Spencer Squire,"Kate Arrington, Emma Roberts, John Gallagher Jr.","Drama, Horror, Mystery",3.8
+633,All Hail,2022,118.0,Marcos Carnevale,"Guillermo Francella, Peto Menahem, Romina Fernandes","Comedy, Drama",5.6
+634,Upon Entry,2022,77.0,"Alejandro Rojas, Juan Sebastián Vasquez","Laura Bernis, Bruna Cusí, Alberto Ammann",Drama,7.0
+635,That's Amor,2022,96.0,Shaun Paul Piccinino,"Riley Dandy, Isaac Gonzalez Rossi, Nancy Lenehan","Comedy, Romance",5.3
+636,Kaathu Vaakula Rendu Kaadhal,2022,157.0,Vignesh Shivan,"Vijay Sethupathi, Nayanthara, Samantha Ruth Prabhu","Comedy, Drama, Romance",5.5
+637,The Big 4,2022,141.0,Timo Tjahjanto,"Abimana Aryasatya, Putri Marino, Lutesha","Action, Comedy, Crime",6.1
+638,Book of Love,2022,106.0,Analeine Cal y Mayor,"Sam Claflin, Remmie Milner, Antonia Clarke","Comedy, Romance",5.5
+639,Kooman,2022,153.0,Jeethu Joseph,"Asif Ali, Prasant Murali, Jaffer Idukki","Drama, Mystery, Thriller",7.3
+640,Modi Ji Ki Beti,2022,104.0,Eddy Singh,"Rajveer Ahuja, Tarun Khanna, Vikram Kochhar","Comedy, Drama",6.5
+641,Moving On,2022,85.0,Paul Weitz,"Jane Fonda, Lily Tomlin, Malcolm McDowell",Comedy,6.0
+642,Funny Pages,2022,86.0,Owen Kline,"Daniel Zolghadri, Matthew Maher, Miles Emanuel",Comedy,6.2
+643,Zombies 3,2022,88.0,Paul Hoen,"Milo Manheim, Meg Donnelly, Trevor Tordjman","Drama, Family, Horror",5.4
+644,Enys Men,2022,96.0,Mark Jenkin,"Mary Woodvine, Edward Rowe, Flo Crowe","Fantasy, Horror, Mystery",5.6
+645,Mudhal Nee Mudivum Nee,2022,148.0,Darbuka Siva,"Kishen Das, Meetha Raghunath, Harish Kumar","Drama, Fantasy, Romance",7.9
+646,Alkhallat+,2022,118.0,"Fahad Alammari, Ayman Samman","Fouz Abdullah, Zyad Alamri, Fahad Albutairi","Comedy, Drama, Mystery",6.8
+647,Lullaby,2022,104.0,Alauda Ruiz de Azúa,"Laia Costa, Susi Sánchez, Ramón Barea",Drama,7.1
+648,DJ Tillu,2022,121.0,Vimal Krishna,"Sidhu Jonnalagadda, Brahmaji, Neha Shetty","Action, Comedy, Romance",7.2
+649,Linoleum,2022,101.0,Colin West,"Jim Gaffigan, Rhea Seehorn, Katelyn Nacon","Drama, Sci-Fi",6.5
+650,Four to Dinner,2022,105.0,Alessio Maria Federici,"Ilenia Pastorelli, Matilde Gioli, Giuseppe Maggio","Comedy, Romance",6.3
+651,The Moderator,2022,82.0,Zhor Fassi-Fihri,"Irma Lake, Anastasia Bobkina, Elena Goloussenko","Action, Drama, Thriller",3.3
+652,Mother's Love,2022,110.0,Paco Caballero,"Carmen Machi, Quim Gutiérrez, Justina Bustos",Comedy,5.8
+653,Running with the Devil: The Wild World of John McAfee,2022,105.0,Charlie Russell,"John McAfee, Dean Barrow, Rocco Castoro","Documentary, Crime",5.9
+654,CBI 5: The Brain,2022,162.0,K. Madhu,"Mammootty, Jagathy Sreekumar, Mukesh","Crime, Mystery, Thriller",5.6
+655,Don't Make Me Go,2022,109.0,Hannah Marks,"John Cho, Mia Isaac, Kaya Scodelario",Drama,6.7
+656,Who Invited Them,2022,81.0,Duncan Birmingham,"Ryan Hansen, Melissa Tang, Timothy Granaderos","Comedy, Horror",5.5
+657,God's Creatures,2022,100.0,"Saela Davis, Anna Rose Holmer","Seán T. Ó Meallaigh, Brendan McCormack, Emily Watson",Drama,6.0
+658,The Storied Life of A.J. Fikry,2022,105.0,Hans Canosa,"Christina Hendricks, Scott Foley, Lucy Hale","Comedy, Drama",6.7
+659,Khiladi,2022,154.0,Ramesh Varma,"Ravi Teja, Arjun Sarja, Unni Mukundan","Action, Crime, Thriller",5.2
+660,Cadaver,2022,123.0,Anoop Panicker,"Amala Paul, Riythvika Panneerselvam, Munishkanth","Crime, Drama, Mystery",6.5
+661,Aseq,2022,106.0,Sarim Momin,"Vardhaan Puri, Sonnalli Seygall, Siddhant Kapoor","Drama, Horror",5.3
+662,Mascarade,2022,134.0,Nicolas Bedos,"Pierre Niney, Isabelle Adjani, François Cluzet","Comedy, Crime, Drama",6.4
+663,Saani Kaayidham,2022,136.0,Arun Matheswaran,"Keerthy Suresh, K. Selvaraghavan, Akhilesh","Action, Crime, Drama",7.4
+664,River Road,2022,88.0,Rob Willey,"Cody Kearsley, Lexi Redman, Coyote Roberts","Drama, Thriller",6.4
+665,World War III,2022,117.0,Houman Seyyedi,"Mohsen Tanabandeh, Mahsa Hejazi, Neda Jebreili","Adventure, Crime, Drama",7.1
+666,Both Sides of the Blade,2022,116.0,Claire Denis,"Juliette Binoche, Vincent Lindon, Grégoire Colin","Drama, Romance, Thriller",6.1
+667,Zillion,2022,138.0,Robin Pront,"Jonas Vermeulen, Charlotte Timmers, Matteo Simoni","Biography, Crime, Drama",7.2
+668,Ardh,2022,84.0,Palaash Muchhal,"Rajpal Naurang Yadav, Rubina Dilaik, Hiten Tejwani","Drama, Romance",7.4
+669,A Wounded Fawn,2022,91.0,Travis Stevens,"Sarah Lind, Josh Ruben, Malin Barr",Horror,5.5
+670,My Father's Dragon,2022,99.0,Nora Twomey,"Jacob Tremblay, Gaten Matarazzo, Golshifteh Farahani","Animation, Adventure, Comedy",6.5
+671,Pamfir,2022,107.0,Dmytro Sukholytkyy-Sobchuk,"Oleksandr Yatsentyuk, Stanislav Potiak, Solomiia Kyrylova","Action, Drama, Thriller",7.4
+672,The Year I Started Masturbating,2022,98.0,Erika Wasserman,"Katia Winter, Jesper Zuschlag, Henrik Dorsin","Comedy, Drama",5.3
+673,Pacifiction,2022,165.0,Albert Serra,"Benoît Magimel, Pahoa Mahagafanau, Marc Susini","Drama, Thriller",6.4
+674,Nostalgia,2022,117.0,Mario Martone,"Pierfrancesco Favino, Francesco Di Leva, Tommaso Ragno",Drama,6.7
+675,Baby Ruby,2022,93.0,Bess Wohl,"Noémie Merlant, Kit Harington, Camila Canó-Flaviá","Drama, Horror, Thriller",4.7
+676,The Last Heist,2022,86.0,Coz Greenop,"Terry Stone, Emily Wyatt, Perry Benson",Crime,3.8
+677,This Is Christmas,2022,111.0,Chris Foggin,"Alfred Enoch, Kaya Scodelario, Timothy Spall","Comedy, Drama, Romance",7.0
+678,Catwoman: Hunted,2022,78.0,Shinsuke Terasawa,"Elizabeth Gillies, Stephanie Beatriz, Jonathan Banks","Animation, Action, Crime",5.6
+679,Lucky Lakshman,2022,131.0,AR Abhi,"Syed Sohel Ryan, Mokksha, Devi Prasad","Comedy, Drama, Family",6.2
+680,Sr.,2022,89.0,Chris Smith,"Robert Downey Sr., Zaina Ali, Paul Thomas Anderson","Documentary, Biography",7.2
+681,Sex Appeal,2022,90.0,Talia Osteen,"Mika Abdalla, Jake Short, Fortune Feimster","Comedy, Drama, Romance",5.4
+682,Sermon to the Fish,2022,89.0,Hilal Baydarov,"Rana Asgarova, Orkhan Iskandarli, Huseyn Nasirov","Drama, War",7.7
+683,Kaduva,2022,155.0,Shaji Kailas,"Prithviraj Sukumaran, Vivek Oberoi, Samyuktha Menon","Action, Drama, Thriller",6.1
+684,Capturing the Killer Nurse,2022,94.0,Tim Travers Hawkins,"Charles Cullen, Amy Loughren, Donna Hargreaves","Documentary, Crime",6.4
+685,I Like Movies,2022,99.0,Chandler Levack,"Isaiah Lehtinen, Percy Hynes White, Anand Rajaram","Comedy, Drama",6.8
+686,Yaanai,2022,154.0,Hari,"Arun Vijay, Priya Bhavani Shankar, Samuthirakani","Action, Drama, Romance",6.1
+687,You Can Live Forever,2022,96.0,"Mark Slutsky, Sarah Watts","Anwen O'Driscoll, June Laporte, Liane Balaban","Drama, Romance",6.8
+688,A Man of Action,2022,111.0,Javier Ruiz Caldera,"Juan José Ballesta, Luis Callejo, Liah O'Prey","Biography, Crime, Drama",6.4
+689,Vickida No Varghodo,2022,156.0,"Rahul Bhole, Vinit Kanojia","Malhar Thakar, Manasi Rachh, Monal Gajjar","Comedy, Drama",8.0
+690,I Can't Breathe (God Forgive Them),2022,65.0,Bobby Lacer,"Shane Yuhas, Kevin Sorbo, Joseph Moreland",Drama,5.1
+691,Backpackers,2022,96.0,Bruno Ascenzo,"Stephanie Cayo, Maxi Iglesias, Wendy Ramos","Comedy, Romance",5.8
+692,Revoir Paris,2022,105.0,Alice Winocour,"Virginie Efira, Benoît Magimel, Grégoire Colin",Drama,6.9
+693,Rise,2022,117.0,Cédric Klapisch,"Marion Barbeau, Hofesh Shechter, Denis Podalydès","Comedy, Drama",7.1
+694,Swallowed,2022,96.0,Carter Smith,"Cooper Koch, Jena Malone, Mark Patton","Horror, Thriller",5.3
+695,Forensic,2022,134.0,Vishal Furia,"Radhika Apte, Vikrant Massey, Ananth Mahadevan","Crime, Thriller",6.3
+696,Malayankunju,2022,114.0,Sajimon Prabhakar,"Fahadh Faasil, Johny Antony, Arjun Ashokan","Drama, Thriller",6.9
+697,Old Man,2022,97.0,Lucky McKee,"Stephen Lang, Marc Senter, Patch Darragh",Thriller,4.9
+698,Fireheart,2022,92.0,"Theodore Ty, Laurent Zeitoun","Alice Pol, Vincent Cassel, Valérie Lemercier","Animation, Adventure, Comedy",6.2
+699,Alice,2022,100.0,Krystin Ver Linden,"Keke Palmer, Common, Jonny Lee Miller","Crime, Drama, Thriller",5.6
+700,Falcon Lake,2022,100.0,Charlotte Le Bon,"Joseph Engel, Sara Montpetit, Monia Chokri","Drama, Fantasy, Romance",7.0
+701,I Love My Dad,2022,96.0,James Morosini,"Patton Oswalt, James Morosini, Claudia Sulewski","Comedy, Drama, Romance",6.3
+702,Snow and the Bear,2022,93.0,Selcen Ergun,"Merve Dizdar, Saygin Soysal, Asiye Dinçsoy",Drama,6.5
+703,Agent Game,2022,90.0,Grant S. Johnson,"Dermot Mulroney, Adan Canto, Katie Cassidy","Action, Thriller",4.1
+704,Maigret,2022,89.0,Patrice Leconte,"Gérard Depardieu, Jade Labeste, Mélanie Bernier","Crime, Drama, Mystery",5.9
+705,Sattar,2022,106.0,Abdullah Al-Arak,"Shahd Algefari, Ibraheem Alkhairallah, Badr Almalki","Action, Comedy",6.9
+706,Hindutva,2022,144.0,Karan Razdan,"Agast Annand, Shiven Basnet, Surmeet Basra",Drama,4.8
+707,Savage Salvation,2022,101.0,Randall Emmett,"Jack Huston, Robert De Niro, John Malkovich","Action, Thriller",4.8
+708,Prem Geet 3,2022,121.0,"Chhetan Gurung, Santosh Sen","Pradeep Khadka, Kristina Gurung, Shiva Shrestha","Action, Romance",7.3
+709,Rheingold,2022,138.0,Fatih Akin,"Emilio Sakraya, Mona Pirzad, Kardo Razzazi","Biography, Crime, Drama",6.7
+710,Gold Run,2022,117.0,Hallvard Bræin,"Jon Øigarden, Ida Elise Broch, Sven Nordin","Drama, Thriller, War",6.6
+711,Virata Parvam,2022,151.0,Venu Udugula,"Rana Daggubati, Sai Pallavi, Priyamani","Action, Drama, Romance",6.6
+712,Taanakkaran,2022,141.0,Tamizh,"Vikram Prabhu, Anbuarasan, M.S. Bhaskar","Drama, Sport",8.1
+713,Plan A Plan B,2022,105.0,"Shashanka Ghosh, Nasir","Riteish Deshmukh, Tamannaah Bhatia, Poonam Dhillon","Comedy, Romance",4.6
+714,Battleground Melbourne,2022,101.0,Topher Field,"Avi Yemini, Monica Smit, Rukshan Fernando",Documentary,5.8
+715,The Baker,2022,104.0,Jonathan Sobol,"Ron Perlman, Harvey Keitel, Elias Koteas","Action, Crime, Drama",5.9
+716,Matriarch,2022,85.0,Ben Steiner,"Jemima Rooper, Kate Dickie, Sarah Paul",Horror,4.6
+717,1992,2022,97.0,Ariel Vromen,"Tyrese Gibson, Ray Liotta, Scott Eastwood","Action, Drama, Thriller",5.7
+718,Wildcat,2022,106.0,"Trevor Frost, Melissa Lesh","Dante Cueva Altamirano, Cristian De La Cruz, Erick Scott Vargas Laura",Documentary,7.7
+719,Anbarivu,2022,165.0,"Aswin Raam, Aswin Raam","Hiphop Tamizha Adhi, Kashmira Pardeshi, Shivani Rajashekar",Drama,7.1
+720,Kerosene,2022,120.0,Dhruva Vaayu,"Dhruva Vaayu, Brahmaji, Preetei Sundar","Action, Crime, Drama",7.4
+721,Flux Gourmet,2022,111.0,Peter Strickland,"Asa Butterfield, Gwendoline Christie, Ariane Labed","Comedy, Drama, Horror",5.8
+722,L'immensità,2022,99.0,Emanuele Crialese,"Penélope Cruz, Luana Giuliani, Vincenzo Amato",Drama,6.4
+723,Avarice,2022,88.0,John V. Soto,"Gillian Alexy, Luke Ford, Alexandra Nell","Action, Thriller",4.9
+724,Special Delivery,2022,109.0,Dae-min Park,"Park So-dam, Park Dae-Won, Heo Dong-won","Action, Crime, Thriller",6.4
+725,Kotthu,2022,155.0,Sibi Malayil,"Asif Ali, Dhanya Ananya, Vijilesh Karayad","Drama, Thriller",6.4
+726,Lola,2022,79.0,Andrew Legge,"Emma Appleton, Stefanie Martini, Theodora Brabazon Legge","Sci-Fi, War",6.4
+727,Dampyr,2022,109.0,Riccardo Chemello,"Wade Briggs, Stuart Martin, Frida Gustavsson","Fantasy, Horror",5.3
+728,The Passengers of the Night,2022,111.0,Mikhaël Hers,"Charlotte Gainsbourg, Quito Rayon Richter, Noée Abita",Drama,6.9
+729,Oke Oka Jeevitham,2022,160.0,Shree Karthick,"Sathish, Ramesh Thilak, Hitesh S. Bharadwaaj","Drama, Sci-Fi, Thriller",7.8
+730,Ghislaine Maxwell: Filthy Rich,2022,101.0,"Maiken Baird, Lisa Bryant","Ghislaine Maxwell, Jeffrey Epstein, Annie Farmer","Documentary, Crime",6.1
+731,Godspeed,2022,119.0,Mehmet Ada Öztekin,"Engin Akyürek, Tolga Saritas, Belfu Benian","Action, Drama, War",6.5
+732,Tori and Lokita,2022,88.0,"Jean-Pierre Dardenne, Luc Dardenne","Pablo Schils, Joely Mbundu, Alban Ukaj",Drama,7.1
+733,Prince,2022,143.0,Anudeep K.V.,"Premgi Amaren, Anandraj, Finally Bharath","Action, Drama, Romance",4.5
+734,Arctic Void,2022,85.0,Darren Mann,"Michael Weaver, Tim Griffin, Justin Huen","Drama, Horror, Mystery",4.6
+735,Stealing Raden Saleh,2022,154.0,Angga Dwimas Sasongko,"Iqbaal Dhiafakhri Ramadhan, Angga Yunanda, Rachel Amanda","Action, Crime, Drama",7.3
+736,Nix,2022,103.0,Anthony C. Ferrante,"James Zimbardi, Dee Wallace, Michael Paré","Drama, Fantasy, Horror",3.8
+737,"Where the Devil Can't Go, He Sends a Woman",2022,106.0,Heathcliff Janusz Iwanowski,"Sebastian Stankiewicz, Malgorzata Kozuchowska, Agnieszka Wiedlocha","Comedy, Drama",4.7
+738,John Luther,2022,135.0,Abhijith Joseph,"Jayasurya, Deepak Parambol, Siddique","Crime, Mystery, Thriller",6.8
+739,Nothing Compares,2022,97.0,Kathryn Ferguson,"Sinéad O'Connor, Gay Byrne, John O'Connor","Documentary, Biography, Music",7.6
+740,Unhuman,2022,91.0,Marcus Dunstan,"Brianne Tju, Benjamin Wadsworth, Uriah Shelton","Comedy, Horror, Thriller",4.4
+741,Prayashaha,2022,127.0,Ranjith Rao,"Rahul Amin, Krishnaa Bhat, Shanil Guru",,6.8
+742,Kompromat,2022,127.0,Jérôme Salle,"Gilles Lellouche, Joanna Kulig, Louis-Do de Lencquesaing","Drama, Thriller",6.4
+743,Code Name Emperor,2022,106.0,Jorge Coira,"Luis Tosar, Alexandra Masangkay, Georgina Amorós","Drama, Thriller",5.8
+744,The Festival of Troubadours,2022,102.0,Özcan Alper,"Kivanç Tatlitug, Settar Tanriögen, Erkan Can",Drama,5.8
+745,Driving Madeleine,2022,91.0,Christian Carion,"Line Renaud, Dany Boon, Alice Isaaz","Comedy, Drama",7.2
+746,The Minute You Wake up Dead,2022,90.0,Michael Mailer,"Cole Hauser, Jaimie Alexander, Darren Mann","Crime, Drama, Mystery",4.5
+747,Behind Someone,2022,103.0,Ajay Nali,"Raaj Suriyan, Niviksha Naidu, Suman","Crime, Thriller",7.3
+748,Murder at Yellowstone City,2022,127.0,Richard Gray,"Isaiah Mustafa, Zach McGowan, Thomas Jane","Crime, Drama, Mystery",5.3
+749,Girl Picture,2022,100.0,Alli Haapasalo,"Aamu Milonoff, Eleonoora Kauhanen, Linnea Leino","Drama, Romance",6.9
+750,Yemaipothaney,2022,123.0,Suresh Kumar,"Amar Lathu, Chandni Pournami, J. Naresh Reddy",Drama,7.7
+751,Prisoner's Daughter,2022,100.0,Catherine Hardwicke,"Brian Cox, Steven Littles, Kate Beckinsale",Drama,6.4
+752,Banaras,2022,150.0,Jayathirtha,"Barkath Ali, Devaraj, Zaid Khan",Romance,6.3
+753,Joyride,2022,94.0,Emer Reynolds,"Olivia Colman, Charlie Reid, Lochlann O'Mearáin","Comedy, Drama",6.2
+754,Amerikatsi,2022,121.0,Michael A. Goorjian,"Michael A. Goorjian, Hovik Keuchkerian, Nelli Uvarova",Drama,7.3
+755,Puzhu,2022,122.0,Ratheena,"Mammootty, Parvathy Thiruvothu, Vasudev Sajeesh Marar","Drama, Thriller",6.2
+756,Monster,2022,135.0,Vysakh,"Mohanlal, Honey Rose, Sudev Nair","Action, Adventure, Crime",4.4
+757,Wunderschön,2022,132.0,Karoline Herfurth,"Emilia Schüle, Martina Gedeck, Nora Tschirner","Comedy, Drama, Romance",7.0
+758,Lucy and Desi,2022,103.0,Amy Poehler,"Lucie Arnaz, Bette Midler, Carol Burnett","Documentary, Biography, Comedy",7.7
+759,My Fake Boyfriend,2022,100.0,Rose Troche,"Keiynan Lonsdale, Dylan Sprouse, Samer Salem","Comedy, Romance",5.3
+760,11M: Terror in Madrid,2022,92.0,Jose Gomez,Peter Flihan,Documentary,7.0
+761,Lover,2022,135.0,"Tru Makers, Dilsher Singh, Khushpal Singh","Guri, Ronak Joshi, Yashpal Sharma","Drama, Romance",7.0
+762,Jetty,2022,134.0,Subrahmanyam Pitchuka,"Nandita Shwetha, Kishore Kumar G., Mime Gopi","Action, Drama, Family",6.5
+763,The Visitor,2022,89.0,Justin P. Lange,"Finn Jones, Jessica McNamee, Thomas Francis Murphy","Drama, Horror, Mystery",4.3
+764,Gladbeck: The Hostage Crisis,2022,91.0,Volker Heise,"Marion Löblich, Dieter Degowski, Hans-Jürgen Rösner","Documentary, Crime",7.5
+765,Achena Uttam,2022,140.0,Atanu Bose,"Biswanath Basu, Tirtha Raj Bose, Priyanshu Chatterjee","Biography, Drama",8.2
+766,Palm Trees and Power Lines,2022,110.0,Jamie Dack,"Lily McInerny, Gretchen Mol, Emily Jackson",Drama,6.5
+767,Palthu Janwar,2022,117.0,Sangeeth P. Rajan,"Basil Joseph, Indrans, Johny Antony","Comedy, Drama",6.7
+768,Cheppalani Undhi,2022,142.0,Arun Barathi L,"Mohammad Ali, Raghu Babu, Tanikella Bharani","Action, Comedy, Drama",5.4
+769,Pada,2022,130.0,"Kamal K.M., Vishnu R. Dev","Kunchacko Boban, Vinayakan, Joju George","Crime, Drama, Thriller",7.8
+770,Better Nate Than Ever,2022,94.0,Tim Federle,"Rueby Wood, Joshua Bassett, Aria Brooks","Comedy, Drama, Family",6.4
+771,Ginna,2022,136.0,Eeshaan Suryaah,"Vishnu Manchu, Payal Rajput, Sunny Leone","Comedy, Drama, Thriller",4.6
+772,Code Name: Tiranga,2022,137.0,Ribhu Dasgupta,"Parineeti Chopra, Harrdy Sandhu, Sharad Kelkar","Action, Thriller",3.3
+773,Gasoline Alley,2022,97.0,Edward Drake,"Bruce Willis, Luke Wilson, Devon Sawa","Action, Thriller",3.9
+774,Buba,2022,94.0,Arne Feldhusen,"Bjarne Mädel, Georg Friedrich, Anita Vulesica","Comedy, Crime, Drama",5.9
+775,Suraapanam,2022,145.0,Sampath Kumar,"Sampath Kumar, Pragya Nayan, Fish Venkat",Drama,7.0
+776,18 Pages,2022,135.0,Palnati Surya Pratap,"Anupama Parameswaran, Nikhil Siddharth, Ch Chandrakanth",Romance,7.1
+777,Other People's Children,2022,103.0,Rebecca Zlotowski,"Virginie Efira, Roschdy Zem, Chiara Mastroianni","Comedy, Drama, Romance",6.8
+778,Padavettu,2022,145.0,Liju Krishna,"Nivin Pauly, Aditi Balan, Shammi Thilakan","Action, Drama, Thriller",6.8
+779,Dakota,2022,96.0,Kirk Harris,"Abbie Cornish, Tim Rozon, William Baldwin",Family,5.3
+780,High Heat,2022,84.0,Zach Golden,"Olga Kurylenko, Don Johnson, Dallas Page","Action, Comedy, Crime",4.9
+781,Red,2022,91.0,Don Tjernagel,"Robyn Cusmano, Kyla Faith, Destiny Gordon",Horror,3.1
+782,Dangerous Game: The Legacy Murders,2022,96.0,Sean McNamara,"Jonathan Rhys Meyers, Will Sasso, Jon Voight","Horror, Mystery, Thriller",4.5
+783,The Pez Outlaw,2022,85.0,"Amy Bandlien Storkel, Bryan Storkel","Steve Glew, Kathy Glew, Josh Glew","Documentary, Comedy, Family",6.9
+784,How I Fell in Love with a Gangster,2022,185.0,Maciej Kawulski,"Tomasz Wlosok, Aleks Kurdzielewicz, Antoni Królikowski","Crime, Drama",6.0
+785,Aristotle and Dante Discover the Secrets of the Universe,2022,98.0,Aitch Alberto,"Max Pelayo, Reese Gonzales, Veronica Falcón",Drama,7.2
+786,Cryo,2022,118.0,Barrett Burgin,"Jyllian Petrie, Emily Marie Palmer, Mason Mac","Mystery, Sci-Fi, Thriller",4.1
+787,Lie with Me,2022,98.0,Olivier Peyon,"Guillaume de Tonquédec, Victor Belmondo, Guilaine Londez","Drama, Romance",7.5
+788,Notre-Dame on Fire,2022,110.0,Jean-Jacques Annaud,"Samuel Labarthe, Jean-Paul Bordes, Mickaël Chirinian","Drama, Thriller",6.4
+789,National Theatre Live: Prima Facie,2022,120.0,Justin Martin,Jodie Comer,Drama,9.1
+790,Laththi,2022,143.0,A. Vinoth Kumar,"Vishal, Sunaina Yella, Prabhu","Action, Crime, Drama",6.5
+791,Nenevaru,2022,122.0,Nirnay Palanatee,"Sakshi Chaudhary, Sudharshan, Prabhakar","Action, Romance, Thriller",4.0
+792,Sarsenapati Hambirrao,2022,158.0,Pravin Tarde,"Sunil Abhyankar, Raqesh Bapat, Devendra Gaikwad","Action, Drama, History",8.9
+793,Lost in the Stars,2022,121.0,"Rui Cui, Xiang Liu","Yilong Zhu, Ni Ni, Janice Man","Crime, Drama, Mystery",6.5
+794,Royalteen,2022,107.0,"Per-Olav Sørensen, Emilie Beck","Ines Høysæter Asserson, Mathias Storhøi, Elli Rhiannon Müller Osborne","Drama, Romance",5.3
+795,Sherdil,2022,120.0,"Srijit Mukherji, Inderjeet Singh","Pankaj Tripathi, Sayani Gupta, Madhvendra Jha","Comedy, Drama",6.6
+796,Family Camp,2022,111.0,Brian Cates,"Tommy Woodard, Eddie James, Leigh-Allyn Baker","Comedy, Family",4.9
+797,Gandhada Gudi,2022,99.0,Amoghavarsha,"Puneeth Rajkumar, Amoghavarsha, Ashwini Puneeth Rajkumar","Documentary, Adventure, Family",8.9
+798,Focus,2022,119.0,G Surya Teja,"Muskan Arora, Raghu Babu, Surya Bhagawan","Action, Crime, Mystery",7.6
+799,Easter Sunday,2022,96.0,Jay Chandrasekhar,"Jo Koy, Lydia Gaston, Brandon Wardell",Comedy,5.3
+800,Vendetta,2022,96.0,Jared Cohn,"Clive Standen, Theo Rossi, Bruce Willis","Action, Thriller",3.8
+801,Bluff,2022,115.0,Sheikh Shahnawaz,"Gurj Gill, Jason Adam, Nisaro Karim","Crime, Drama, Thriller",6.0
+802,Mukhachitram,2022,126.0,Gangadhar,"Vikas Vasistha, Priya Vadlamani, Ayesha Khan","Romance, Thriller",6.4
+803,In the Heart of the Machine,2022,115.0,Martin Makariev,"Alexander Sano, Julian Vergov, Igor Angelov","Drama, Thriller",7.3
+804,Punorjonmo 3,2022,86.0,Vicky Zahed,"Afran Nisho, Mehazabien Chowdhury, Quazi Nawshaba Ahmed","Horror, Thriller",7.8
+805,The Apology,2022,92.0,Alison Locke,"Anna Gunn, Linus Roache, Janeane Garofalo","Crime, Drama",5.2
+806,Enna Solla Pogirai,2022,146.0,Hari Haran,"Jay Adithya, Teju Ashwini, Delhi Ganesh","Drama, Romance",4.6
+807,The Inhabitant,2022,97.0,Jerren Lauder,"Odessa A'zion, Leslie Bibb, Dermot Mulroney","Horror, Thriller",4.4
+808,Sher Shivraj,2022,143.0,Digpal Lanjekar,"Chinmay Mandlekar, Mrinal Kulkarni, Mukesh Rishi","Action, Drama, History",8.2
+809,Maja Ma,2022,134.0,Anand Tiwari,"Madhuri Dixit, Ritwik Bhowmik, Barkha Singh","Comedy, Drama",6.2
+810,Tara vs Bilal,2022,126.0,Samar Iqbal,"Sonia Rathee, Harshvardhan Rane, Shammi Aulakh","Comedy, Drama, Romance",5.9
+811,Johnny,2022,119.0,Daniel Jaroszek,"Dawid Ogrodnik, Piotr Trojan, Beata Zygarlicka","Biography, Drama",7.1
+812,Mirciulica,2022,90.0,Cristian Ilisuan,"Mircea Popa, Adrian Cucu, Catalin Herlo",Comedy,6.0
+813,War Pony,2022,115.0,"Gina Gammell, Riley Keough","Stanley Good Voice Elk, Jojo Bapteise Whiting, Steven Hawk",Drama,6.8
+814,Kaguya-sama: Love Is War - The First Kiss That Never Ends,2022,96.0,"Masakazu Ohara, Shinichi Omata","AmaLee, Yutaka Aoyama, Bryn Apprill","Animation, Comedy, Drama",8.5
+815,Ela Veezha Poonchira,2022,104.0,Shahi Kabir,"Soubin Shahir, Sudhi Koppa, Jude Anthany Joseph","Crime, Mystery, Thriller",7.3
+816,Veerame Vaagai Soodum,2022,166.0,Thu Pa Saravanan,"Vishal, Dimple Hayathi, Yogi Babu","Action, Thriller",6.3
+817,Mere Desh Ki Dharti,2022,111.0,Faraz Haider,"Divyendu Sharma, Anupriya Goenka, Anant Vidhaat","Comedy, Drama",6.8
+818,Night at the Museum: Kahmunrah Rises Again,2022,77.0,"Matt Danner, Justin Lovell","Joshua Bassett, Jamie Demetriou, Alice Isaaz","Animation, Adventure, Comedy",5.0
+819,Redrum,2022,132.0,Vicky Zahed,"Afran Nisho, Mehazabien Chowdhury, Manoj Pramanik","Mystery, Thriller",8.1
+820,Crawlspace,2022,90.0,L. Gustavo Cooper,"Henry Thomas, Bradley Stryker, C. Ernst Harth",Thriller,4.7
+821,4 Years,2022,122.0,Ranjith Sankar,"Eldhoraju, Sarjano Khalid, Priya Prakash Varrier",Romance,5.3
+822,Robbing Mussolini,2022,90.0,Renato De Maria,"Pietro Castellitto, Matilda De Angelis, Tommaso Ragno","Action, Comedy, Crime",5.4
+823,Gatta Kusthi,2022,144.0,Chella Ayyavu,"Vishnu Vishal, Aishwarya Lekshmi, Ajay","Comedy, Drama, Romance",6.5
+824,Off Track,2022,108.0,Mårten Klingberg,"Katia Winter, Fredrik Hallgren, Ulf Stenberg","Comedy, Drama, Romance",6.2
+825,Beautiful Beings,2022,123.0,Guðmundur Arnar Guðmundsson,"Birgir Dagur Bjarkason, Áskell Einar Pálmason, Viktor Benóný Benediktsson",Drama,7.3
+826,KKN di Desa Penari,2022,130.0,Awi Suryadi,"Tissa Biani Azzahra, Adinda Thomas, Achmad Megantara","Horror, Mystery, Thriller",5.9
+827,Biosphere,2022,106.0,Mel Eslyn,"Sterling K. Brown, Mark Duplass","Comedy, Drama, Fantasy",5.5
+828,The Renata Road,2022,121.0,Ed Greenberg,"CJ de Mooi, Rebekah Bowman, John Sharp","Mystery, Thriller",4.8
+829,9 Bullets,2022,97.0,Gigi Gaston,"Lena Headey, Sam Worthington, Dean Scott Vazquez","Action, Crime, Thriller",4.2
+830,Toolsidas Junior,2022,132.0,Mridul Toolsidas,"Sanjay Dutt, Rajeev Kapoor, Varun Buddhadev","Drama, Family, Sport",7.4
+831,Bunker,2022,108.0,Adrian Langley,"Eddie Ramos, Patrick Moltane, Julian Feder","Horror, Mystery, Thriller",4.0
+832,Lullaby,2022,89.0,John R. Leonetti,"Oona Chaplin, Ramón Rodríguez, Liane Balaban",Horror,4.9
+833,To Kill a Tiger,2022,128.0,Nisha Pahuja,,Documentary,7.6
+834,99 Moons,2022,110.0,Jan Gassmann,"Valentina Di Pace, Dominik Fellmann, Danny Exnar",Drama,4.8
+835,Return to Dust,2022,131.0,Ruijun Li,"Renlin Wu, Hai-Qing, Guangrui Yang",Drama,7.6
+836,Zero Contact,2022,97.0,Rick Dugdale,"Chris Brochu, Aleks Paunovic, Veronica Ferres",Thriller,4.2
+837,Mira,2022,116.0,Dmitriy Kiselev,"Anatoliy Beliy, Veronika Ustimova, Yevgeniy Yegorov","Adventure, Drama, Sci-Fi",5.8
+838,Daliland,2022,97.0,Mary Harron,"Ben Kingsley, Barbara Sukowa, Christopher Briney","Biography, Drama",5.9
+839,Death Count,2022,81.0,Michael Su,"Costas Mandylor, Michael Madsen, Robert LaSardo",Horror,4.5
+840,Chickenhare and the Hamster of Darkness,2022,91.0,"Benjamin Mousquet, Ben Stassen","Joe Ochman, Michael Ornstein, Dino Andrade","Animation, Adventure, Comedy",6.3
+841,Eraser: Reborn,2022,102.0,John Pogue,"Dominic Sherwood, Jacky Lai, McKinley Belcher III","Action, Crime, Thriller",4.6
+842,Saudi Vellakka,2022,137.0,Tharun Moorthy,"Binu Pappu, Sujith Shanker, Remya Suresh",Drama,8.0
+843,Maaran,2022,130.0,Karthick Naren,"Dhanush, Malavika Mohanan, Samuthirakani","Action, Thriller",4.4
+844,Peter von Kant,2022,85.0,François Ozon,"Denis Ménochet, Isabelle Adjani, Khalil Ben Gharbia",Drama,6.3
+845,Good Mourning,2022,93.0,"Colson Baker, Mod Sun","Colson Baker, Mod Sun, Becky G",Comedy,3.1
+846,Unicorn Wars,2022,92.0,Alberto Vázquez,"Jon Goiri, Jaione Insausti, Ramón Barea","Animation, Action, Comedy",6.9
+847,The Bunker Game,2022,95.0,Roberto Zazzara,"Gaia Weiss, Lorenzo Richelmy, Mark Ryder","Horror, Mystery, Thriller",3.3
+848,Rooney,2022,103.0,Matt Smith,"Wayne Rooney, Coleen Rooney, David Beckham","Documentary, Sport",6.8
+849,Run & Gun,2022,96.0,Christopher Borrelli,"Ben Milliken, Brad William Henke, Janel Parrish","Action, Thriller",5.1
+850,The Invisible Thread,2022,109.0,Marco Simon Puccioni,"Filippo Timi, Francesco Scianna, Francesco Gheghi","Comedy, Drama, Family",6.8
+851,The Surprise Visit,2022,86.0,Nick Lyon,"Regan Ferrier, Tricia Hawn, Serah Henesey",Thriller,4.2
+852,Immediate Family,2022,102.0,Denny Tedesco,"Phil Collins, Lyle Lovett, Keith Richards","Documentary, Music",8.7
+853,Cobalt Blue,2022,112.0,Sachin Kundalkar,"Neelay Mehendale, Prateik Patil Babbar, Lovish Bhatia","Drama, Romance",6.6
+854,Boon,2022,95.0,Derek Presley,"Neal McDonough, Christiane Seidel, Christina Ochoa","Action, Crime, Drama",4.9
+855,Doom of Love,2022,100.0,Hilal Saral,"Boran Kuzum, Pinar Deniz, Yigit Kirazci","Drama, Romance",4.9
+856,Plan 75,2022,113.0,Chie Hayakawa,"Chieko Baishô, Hayato Isomura, Stefanie Arianne","Drama, Sci-Fi",6.6
+857,Love Mocktail 2,2022,140.0,Darling Krishna,"Darling Krishna, Milana Nagaraj, Rachel David","Drama, Romance",7.4
+858,The Quintessential Quintuplets Movie,2022,136.0,Masato Jinbô,"Yoshitsugu Matsuoka, Kana Hanazawa, Ayana Taketatsu","Animation, Comedy, Drama",7.3
+859,Beyond the Universe,2022,126.0,Diego Freitas,"Henrique Zaga, Ashleigh Morghan, Diego Freitas","Comedy, Drama, Romance",6.7
+860,Blasted,2022,114.0,Martin Sofiedal,"Axel Bøyum, Fredrik Skogsrud, Ingrid Bolsø Berdal","Action, Comedy, Sci-Fi",4.8
+861,The Silent Twins,2022,113.0,Agnieszka Smoczynska,"Letitia Wright, Tamara Lawrance, Leah Mondesir-Simmonds","Biography, Crime, Drama",5.7
+862,A Fairy Tale After All,2022,72.0,Erik Peter Carlson,"Lucie Jones, Brian Hull, Anna Brisbin","Adventure, Family, Fantasy",3.2
+863,Three Months,2022,104.0,Jared Frieder,"Troye Sivan, Viveik Kalra, Brianne Tju","Comedy, Drama",6.8
+864,The Last Client,2022,95.0,Anders Rønnow Klarlund,"Signe Egholm Olsen, Anton Hjejle, Dan Zahle","Crime, Drama, Mystery",6.4
+865,While We Watched,2022,94.0,Vinay Shukla,"Ravish Kumar, Sushil Bahuguna, Deepak Chaubey","Documentary, Biography, News",8.5
+866,Mahaveeryar,2022,140.0,Abrid Shine,"Nivin Pauly, Shanvi Srivastava, Lalu Alex","Action, Comedy, Drama",6.1
+867,Filip,2022,125.0,Michal Kwiecinski,"Eryk Kulm, Victor Meutelet, Caroline Hartig","Drama, History, War",6.9
+868,The Kings of the World,2022,103.0,Laura Mora Ortega,"Carlos Andrés Castañeda, Davison Florez, Brahian Acevedo","Adventure, Drama",7.0
+869,The Abandon,2022,97.0,Jason Satterlund,"Jonathan Rosenthal, Tamara Perry, Regis Terencio","Horror, Sci-Fi, Thriller",4.3
+870,Malibu Crush,2022,77.0,James Pratt,"James Pratt, Billy White, Bella Valentini",Comedy,7.1
+871,Daari,2022,111.0,Usuhashbabu,"Parameshwar Hivrale, Sunita Sadguru, Kalyan Vitappu","Crime, Thriller",7.6
+872,After the Pandemic,2022,84.0,Richard Lowry,"Eve James, Kannon Smith, Juniper Preacher",Sci-Fi,3.5
+873,Rebel,2022,135.0,"Adil El Arbi, Bilall Fallah","Aboubakr Bensaihi, Lubna Azabal, Tara Abboud","Action, Drama, Thriller",7.3
+874,Suicide for Beginners,2022,94.0,Craig Thieman,"Nate Panning, Julia Lehman, Sara Tomko","Comedy, Horror",4.9
+875,Student Body,2022,89.0,Lee Ann Kurr,"Christian Camargo, Montse Hernandez, Cheyenne Haynes","Horror, Thriller",4.3
+876,Rimini,2022,114.0,Ulrich Seidl,"Michael Thomas, Tessa Göttlicher, Hans-Michael Rehberg","Comedy, Drama, Music",6.9
+877,Sharp Stick,2022,92.0,Lena Dunham,"Kristine Froseth, Jon Bernthal, Luka Sabbat",Comedy,4.9
+878,Krishna Vrinda Vihari,2022,139.0,Aneesh Krishna,"Naga Shaurya, Shirley Setia, Amitash Pradhan","Comedy, Drama, Romance",5.8
+879,Heatwave,2022,100.0,Ernie Barbarash,"Kat Graham, Merritt Patterson, Sebastian Roché",Thriller,5.0
+880,Paappan,2022,169.0,Joshiy,"Suresh Gopi, Gokul Suresh, Neeta Pillai","Crime, Drama, Mystery",6.7
+881,Ashiap Man,2022,102.0,"Atta Halilintar, Herdanius Larobu","Atta Halilintar, Aurel Hermansyah, Nasya Marcella","Action, Adventure, Comedy",3.4
+882,Sniper: Rogue Mission,2022,96.0,Oliver Thompson,"Chad Michael Collins, Ryan Robbins, Sayaka Akimoto","Action, Thriller",4.7
+883,On the Fringe,2022,105.0,Juan Diego Botto,"Penélope Cruz, Luis Tosar, Christian Checa",Drama,6.6
+884,F3: Fun and Frustration,2022,148.0,Anil Ravipudi,"Venkatesh Daggubati, Varun Tej, Tamannaah Bhatia","Comedy, Family, Romance",4.7
+885,Missing Home,2022,114.0,Bene Dion Rajagukguk,"Arswendy Bening Swara, Tika Panggabean, Boris Bokir","Comedy, Drama",8.0
+886,God Forbid,2022,109.0,Billy Corben,"Tom Arnold, Michael Cohen, Ted Cruz",Documentary,6.8
+887,Eismayer,2022,87.0,David Wagner,"Gerhard Liebmann, Luka Dimic, Julia Koschitz","Biography, Drama, History",7.0
+888,Pasivadi Pranam,2022,130.0,N.S. Murthy,"Allu Vamsi, Iti Acharya, Kumar Sai","Crime, Drama, Horror",6.8
+889,Diary,2022,133.0,Innasi Pandiyan,"Arulnithi, Nakkalites Dhanam, Kishore Kumar G.","Crime, Drama, Thriller",7.2
+890,Dangerous Liaisons,2022,109.0,Rachel Suissa,"Paola Locatelli, Simon Rérolle, Ella Pellegrini","Drama, Romance",4.2
+891,That Time I Got Reincarnated as a Slime the Movie: Scarlet Bond,2022,114.0,Yasuhito Kikuchi,"Miho Okasaki, Yuma Uchida, Riko Fukumoto","Animation, Action, Adventure",6.9
+892,Jo and Jo,2022,134.0,Arun D. Jose,"Nikhila Vimal, Mathew Thomas, Naslen","Comedy, Drama",7.1
+893,Moment of Contact,2022,108.0,James Fox,"James Fox, Marco Aurelio Leal, Cinthya Covo Leão",Documentary,7.1
+894,Salaam Venky,2022,137.0,Revathi,"Aamir Khan, Vishal Jethwa, Kajol",Drama,6.6
+895,Skandal! Bringing Down Wirecard,2022,92.0,James Erskine,"Florian Toncar, Lena Kampf, Martin Osterloh","Documentary, Crime",7.2
+896,Subtraction,2022,107.0,Mani Haghighi,"Navid Mohammadzadeh, Taraneh Alidoosti, Maryam Afshar","Drama, Mystery",6.5
+897,A Love Song,2022,81.0,Max Walker-Silverman,"Dale Dickey, Wes Studi, Michelle Wilson",Romance,6.7
+898,Fullmetal Alchemist: The Revenge of Scar,2022,125.0,Fumihiko Sori,"Ryôsuke Yamada, Tsubasa Honda, Mackenyu","Action, Adventure, Fantasy",5.4
+899,Naradan,2022,150.0,Aashiq Abu,"Tovino Thomas, Indrans, Kiran Peethambaran","Drama, Thriller",6.0
+900,Code Name Banshee,2022,88.0,Jon Keeyes,"Jaime King, Antonio Banderas, Tommy Flanagan","Action, Thriller",3.8
+901,The Mean One,2022,93.0,Steven LaMorte,"David Howard Thornton, Krystle Martin, Chase Mullins","Comedy, Horror",4.0
+902,Dr. 56,2022,105.0,Rajesh Anandaleela,"Priyamani, Praveen Reddy T., Ramesh Bhat","Crime, Mystery, Sci-Fi",6.9
+903,Vichitram,2022,138.0,Achu Vijayan,"Kani Kusruti, Shine Tom Chacko, Lal","Drama, Horror, Thriller",6.0
+904,Romance in Style,2022,84.0,Michael Robison,"Jaicy Elliot, Benjamin Hollingsworth, Connie Manfredi","Comedy, Romance",6.5
+905,Deus,2022,90.0,Steve Stone,"Claudia Black, Phil Davis, David O'Hara","Adventure, Mystery, Sci-Fi",4.4
+906,Dive,2022,95.0,Lucía Puenzo,"Karla Souza, Hernán Mendoza, Dèja Ebergenyi","Drama, Sport",6.9
+907,Blokád,2022,105.0,Ádám Tõsér,"Zoltán Seress, Attila Ifj. Vidnyánszky, Tibor Gáspár",Drama,5.9
+908,1921: Puzha Muthal Puzha Vare,2022,190.0,Ramasimhan,"Thalaivasal Vijay, Joy Mathew, Vijay Menon",History,7.1
+909,Goliath,2022,121.0,Frédéric Tellier,"Gilles Lellouche, Pierre Niney, Emmanuelle Bercot","Drama, Thriller",6.8
+910,Mars One,2022,115.0,Gabriel Martins,"Cícero Lucas, Carlos Francisco, Camilla Damião",Drama,7.4
+911,The Fire Within: A Requiem for Katia and Maurice Krafft,2022,84.0,Werner Herzog,"Harry Glicken, Werner Herzog, Katia Krafft","Documentary, History",7.6
+912,O2,2022,140.0,G.S. Viknesh,"Nayanthara, Barath Neelakantan, Rishikanth",Thriller,5.7
+913,Virus-32,2022,90.0,Gustavo Hernández,"Pilar García Ayala, Daniel Hendler, Paula Silva",Horror,5.5
+914,Hell Dogs,2022,138.0,Masato Harada,"Jun'ichi Okada, Kentarô Sakaguchi, Mayu Matsuoka","Action, Crime, Drama",6.7
+915,Minions & More 1,2022,48.0,Pierre Coffin,"Pierre Coffin, Miranda Cosgrove, Danny DeVito","Animation, Adventure, Comedy",6.5
+916,American Dreamer,2022,98.0,Paul Dektor,"Peter Dinklage, Shirley MacLaine, Kimberly Quinn",Comedy,6.0
+917,The Sound of 007,2022,88.0,Mat Whitecross,"Daniel Craig, Michael Caine, Rami Malek","Documentary, Music",7.4
+918,Mack & Rita,2022,94.0,Katie Aselton,"Diane Keaton, Elizabeth Lail, Molly Duplass","Comedy, Fantasy",4.8
+919,Uncle Tom II: An American Odyssey,2022,114.0,Justin Malone,"Chad Jackson, Voddie Baucham Jr., Ben Carson","Documentary, History",6.7
+920,Vaashi,2022,155.0,Vishnu Raghav,"Tovino Thomas, Keerthy Suresh, Anu Mohan","Drama, Thriller",6.4
+921,Broad Peak,2022,101.0,Leszek Dawid,"Ireneusz Czop, Maja Ostaszewska, Piotr Glowacki","Adventure, Biography, Drama",6.0
+922,The Garage,2022,113.0,Erkan Kolçak Köstendil,"Nejat Isler, Riza Kocaoglu, Merve Dizdar",Comedy,5.6
+923,Fisherman's Friends: One and All,2022,111.0,"Meg Leonard, Nick Moorcroft","James Purefoy, Sam Swainsbury, Dave Johns","Comedy, Drama, Music",6.4
+924,Confidential Assignment 2: International,2022,129.0,Seok-hoon Lee,"Hyun Bin, Im Yoon-ah, Yoo Hae-jin","Action, Comedy, Thriller",6.6
+925,Seethayanam,2022,135.0,Aaripaka Prabhakar,"Akshith Shashikumar, Anahita Bhooshan, Krishna Bhagavan","Drama, Thriller",6.9
+926,Summit Fever,2022,115.0,Julian Gilbey,"Ryan Phillippe, Hannah New, Gianmarco Saurino",Drama,5.3
+927,Bujji Ila Raa,2022,120.0,Anji,"Akella, Surya Ale, Ananth",Thriller,6.5
+928,Tethered,2022,88.0,Daniel Robinette,"Alexandra Paul, Kareem Ferguson, Jared Laufree","Drama, Horror, Mystery",4.7
+929,Maneater,2022,87.0,Justin Lee,"Trace Adkins, Nicky Whelan, Shane West","Action, Horror, Thriller",3.1
+930,Kumari,2022,137.0,Nirmal Sahadev,"Aishwarya Lekshmi, Shine Tom Chacko, Swasika Vijay","Horror, Thriller",6.4
+931,Carma,2022,169.0,Kashan Admani,"Adnan Siddiqui, Navin Waqar, Zhalay Sarhadi","Crime, Romance, Thriller",7.2
+932,Renegades,2022,91.0,Daniel Zirilli,"Nick Moran, Lee Majors, Ian Ogilvy","Action, Crime, Drama",3.6
+933,Fourth of July,2022,90.0,Louis C.K.,"Louis C.K., Rodney 'Godfather Don' Chapman, Jason Clotter","Comedy, Drama",6.7
+934,Christmas with the Campbells,2022,88.0,Clare Niederpruem,"Brittany Snow, Justin Long, Alex Moffat","Comedy, Romance",5.4
+935,Detective Knight: Rogue,2022,105.0,Edward Drake,"Bruce Willis, Lochlyn Munro, Miranda Edwards","Action, Adventure, Crime",3.8
+936,Connie Lynn,2022,100.0,"Joshua Morrison, Lee Westwick","Kate Hargrave, Lee Westwick, Nick Field","Mystery, Thriller",2.5
+937,Tad the Lost Explorer and the Emerald Tablet,2022,90.0,Enrique Gato,"Óscar Barberán, Luis Posada, Michelle Jenner","Animation, Adventure, Comedy",6.0
+938,Poran,2022,139.0,"Hasib Muhammad, Raihan Rafi","Bidya Sinha Saha, Sariful Razz, Yash Rohan","Crime, Drama, History",7.3
+939,Seoul Vibe,2022,138.0,Hyun-Sung Moon,"Yoo Ah-in, Go Kyung-pyo, Lee Kyoo-hyung","Action, Comedy, Crime",5.5
+940,Super Sharanya,2022,161.0,Girish A.D.,"Mamitha Baiju, Anaswara Rajan, Naslen","Comedy, Romance",6.4
+941,Gigi & Nate,2022,114.0,Nick Hamm,"Charlie Rowe, Marcia Gay Harden, Jim Belushi","Drama, Family",6.7
+942,Hansan: Rising Dragon,2022,130.0,Kim Han-min,"Park Hae-il, Byun Yo-han, Allen Chan","Action, Drama, History",6.6
+943,The Abandoned,2022,128.0,Ying-Ting Tseng,"Ning Chang, Ethan Juan, Yu An-Shun","Crime, Drama, Mystery",6.3
+944,Cyber Hell: Exposing an Internet Horror,2022,105.0,Choi Jin-sung,"Chang Eun-jo, Nicole Gose, Moon Hyung-wook","Documentary, Crime",6.5
+945,Utama,2022,87.0,Alejandro Loayza Grisi,"José Calcina, Luisa Quispe, Candelaria Quispe",Drama,7.1
+946,The Long Night,2022,91.0,Rich Ragsdale,"Scout Taylor-Compton, Nolan Gerard Funk, Deborah Kara Unger",Horror,3.8
+947,Shiv Shastri Balboa,2022,130.0,Ajayan Venugopalan,"Anupam Kher, Neena Gupta, Jugal Hansraj","Comedy, Drama",6.6
+948,No Dogs or Italians Allowed,2022,70.0,Alain Ughetto,"Ariane Ascaride, Alain Ughetto, Stefano Paganini","Animation, Drama, Family",7.3
+949,Dry,2022,97.0,Paolo Virzì,"Silvio Orlando, Valerio Mastandrea, Elena Lietti","Comedy, Drama",6.3
+950,American Murderer,2022,102.0,Matthew Gentile,"Tom Pelphrey, Ryan Phillippe, Idina Menzel","Biography, Crime, Drama",5.4
+951,Slayers,2022,88.0,K. Asher Levin,"Thomas Jane, Kara Hayward, Jack Donnelly","Comedy, Fantasy, Horror",3.3
+952,Har Har Mahadev,2022,161.0,Abhijeet Shirish Deshpande,"Sharad Kelkar, Subodh Bhave, Yogesh Jadhav","Action, Drama, History",7.3
+953,Raavan,2022,138.0,M.N. Rajh,"Jeet, Lahoma Bhattacharya, Tanushree Chakraborty","Action, Thriller",6.5
+954,Night Drive,2022,118.0,Vysakh,"Anna Ben, Roshan Mathew, Indrajith Sukumaran","Drama, Thriller",6.7
+955,Overdose,2022,119.0,Olivier Marchal,"Sofia Essaïdi, Assaad Bouab, Alberto Ammann","Action, Crime, Thriller",5.8
+956,Viruman,2022,149.0,M. Muthaiah,"Arundhati, Manoj K. Bharathi, Manoj Bharathiraja","Action, Drama",4.9
+957,Bangarraju,2022,150.0,Kalyan Krishna,"Nagarjuna Akkineni, Ramya Krishnan, Naga Chaitanya Akkineni",Drama,5.5
+958,Sam & Kate,2022,110.0,Darren Le Gallo,"Jake Hoffman, Schuyler Fisk, Dustin Hoffman","Comedy, Drama, Romance",6.2
+959,Obi-Wan Kenobi: A Jedi's Return,2022,59.0,David Gelb,"Ewan McGregor, Deborah Chow, Joby Harold",Documentary,7.3
+960,Everybody Loves Jeanne,2022,97.0,Céline Devaux,"Blanche Gardin, Laurent Lafitte, Maxence Tual","Comedy, Drama, Romance",6.4
+961,Dollu,2022,106.0,Sagar Puranik,"Dr. Prabhudeva D.S, Gangadhar, Gowtham",Drama,7.2
+962,Tees Maar Khan,2022,130.0,Kalyanji Gogana,"Haji Mohammed, Aadi, Arjun Ambati","Action, Drama, Romance",5.4
+963,Sadha Nannu Nadipe,2022,144.0,Lanka Pratheek Prem Karan,"Mahesh Achanta, Mohammad Ali, Surya Kumar Bhagawan Das","Comedy, Drama, Romance",6.5
+964,Spirit Halloween,2022,87.0,David Poag,"Donovan Colan, Jaiden J. Smith, Dylan Martin Frankel","Adventure, Family, Fantasy",4.6
+965,Medusa Deluxe,2022,101.0,Thomas Hardiman,"Luca Pasqualino, Lilit Lesser, Clare Perkins","Drama, Mystery",6.1
+966,Tantura,2022,94.0,Alon Schwarz,"Avigdor Feldman, Yoav Gelber, Teddy Katz","Documentary, History",8.5
+967,Lighting up the Stars,2022,112.0,Jiangjiang Liu,"Yilong Zhu, Enyou Yang, Ge Wang","Comedy, Drama",7.5
+968,The Anthrax Attacks,2022,94.0,Dan Krauss,"Clark Gregg, Regan Burns, Brigitte Kali Canales","Documentary, Crime",6.3
+969,Kingdom 2: Far and Away,2022,134.0,Shinsuke Satô,"Kento Yamazaki, Ryô Yoshizawa, Kanna Hashimoto","Action, Adventure, History",6.7
+970,Dragon Knight,2022,98.0,Lawrie Brewster,"Megan Tremethick, Lawrie Brewster, Erich Redman",Fantasy,3.3
+971,Chernobyl: The Lost Tapes,2022,96.0,James Jones,"Lyudmila Ignatenko, Oleksiy Breus, Leonenko Vitaliy","Documentary, History",7.9
+972,The Marriage App,2022,101.0,Sebastián De Caro,"Luisana Lopilato, Cristina Castaño, Juan Minujín","Comedy, Romance",5.5
+973,Incarnation,2022,88.0,Isaac Walsh,"Taye Diggs, Jessica Uberuaga, Michael Madsen","Horror, Thriller",3.0
+974,Om - The Battle Within,2022,135.0,Kapil Verma,"Petrosyan Armen, Vicky Arora, Rohit Chaudhary","Action, Thriller",2.9
+975,RECCE 360,2022,108.0,N.S.R. Prasad,"Abhiram, Badhram, Amikhsha Pawar","Crime, Thriller",6.8
+976,Irréductible,2022,83.0,Jérôme Commandeur,"Jérôme Commandeur, Laetitia Dosch, Pascale Arbillot",Comedy,6.2
+977,Everybody Hates Johan,2022,93.0,Hallvar Witzø,"Pål Sverre Hagen, Ingrid Bolsø Berdal, Ine F. Jansen",Comedy,6.8
+978,Priyan Ottathilanu,2022,140.0,Antony Sony,"Sharafudheen, Nyla Usha, Aparna Das","Comedy, Family",6.9
+979,Heartsong,2022,95.0,Soner Caner,"Erkan Kolçak Köstendil, Hazar Ergüçlü, Bülent Emin Yarar","Comedy, Drama, Music",5.8
+980,Dharmaveer,2022,176.0,Pravin Tarde,"Prasad Oak, Kshitish Date, Makarand Date","Biography, Crime, Drama",7.9
+981,Burial,2022,95.0,Ben Parker,"Harriet Walter, Kimberley Howson, David Alexander","Horror, Thriller, War",5.0
+982,Madhi,2022,139.0,Naga Dhanush,"Richa Joshi, Yogi Khatri, Sreeram Nimmala",Musical,8.8
+983,Iravatham,2022,122.0,Suhaas Meera,"Amardeep Chowdary, Arun Jaanu, Tanvi Negi","Drama, Mystery, Thriller",6.3
+984,Leave,2022,106.0,Alex Herron,"Alicia von Rittberg, Stig R. Amdam, Herman Tømmeraas","Drama, Horror, Mystery",4.9
+985,A House Made of Splinters,2022,87.0,Simon Lereng Wilmont,"Marharyta Burlutska, Anjelika Stolyarova, Olga Tronova",Documentary,7.2
+986,Gaalodu,2022,125.0,RajaSekar Reddy Pulicharla,"Boosupalli Ankireddy, Raj Bala, Balaji","Action, Drama, Romance",5.8
+987,Lalitham Sundharam,2022,120.0,Madhu Warrier,"Rahul CB, Prasad Kannan, Saiju Kurup","Comedy, Drama, Family",6.1
+988,Private Lesson,2022,89.0,Kivanç Baruönü,"Bensu Soral, Halit Özgür Sari, Helin Kandemir","Comedy, Romance",4.7
+989,"Weddings, Christenings and Funerals",2022,121.0,Alexandru Lustig,"Serban Pavlu, Andreea Mateiu, Gheorghe Ifrim",Comedy,6.8
+990,Slash/Back,2022,86.0,Nyla Innuksuk,"Tasiana Shirley, Alexis Vincent-Wolfe, Nalajoss Ellsworth","Adventure, Horror, Sci-Fi",5.7
+991,Hero,2022,132.0,Sriram Adittya,"Ashok Galla, Nidhhi Agerwal, Jagapathi Babu",Action,5.7
+992,My Daughter's Killer,2022,83.0,Antoine Tassin,"Stephen Samson, Russell MacLeod, Emil Petrov","Documentary, Crime",6.9
+993,Riceboy Sleeps,2022,117.0,Anthony Shim,"Choi Seung-yoon, Ethan Hwang, Dohyun Noel Hwang","Drama, Family, History",7.6
+994,Room 203,2022,104.0,Ben Jagger,"Francesca Xuereb, Viktoria Vinyarska, Eric Wiegand","Drama, Horror, Thriller",4.3
+995,The Harbinger,2022,87.0,Andy Mitton,"Gabby Beans, Emily Davis, Raymond Anthony Thomas","Drama, Horror, Mystery",5.4
+996,Hunting Souls,2022,97.0,Diego Silva Acevedo,"Aiden Turner, Sunny Mabrey, Liz McGeever","Drama, Horror, Mystery",3.9
+997,Died Suddenly,2022,69.0,"Matthew Miller Skow, Nicholas Stumphauzer","Mice Army, Kevin Bass, Luther Cyrus Bass",Documentary,6.7
+998,Black,2022,138.0,G.B. Krishna,"Aadi, Aamani, Chakrapani Ananda","Action, Thriller",5.5
+999,Play,2022,,,,"Crime, Thriller",6.7
+1000,The Independent,2022,108.0,Amy Rice,"Brian Cox, John Cena, Ann Dowd","Crime, Mystery, Thriller",5.8

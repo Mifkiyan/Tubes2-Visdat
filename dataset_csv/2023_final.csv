@@ -1,0 +1,1001 @@
+﻿ID,Name,Year,Duration,Directors,Actors,Genres,Rating
+1,Oppenheimer,2023,180.0,Christopher Nolan,"Cillian Murphy, Emily Blunt, Matt Damon","Biography, Drama, History",8.3
+2,Barbie,2023,114.0,Greta Gerwig,"Margot Robbie, Ryan Gosling, Issa Rae","Adventure, Comedy, Fantasy",6.8
+3,Spider-Man: Across the Spider-Verse,2023,140.0,"Joaquim Dos Santos, Kemp Powers, Justin K. Thompson","Shameik Moore, Hailee Steinfeld, Brian Tyree Henry","Animation, Action, Adventure",8.5
+4,Guardians of the Galaxy Vol. 3,2023,150.0,James Gunn,"Chris Pratt, Chukwudi Iwuji, Bradley Cooper","Action, Adventure, Comedy",7.9
+5,John Wick: Chapter 4,2023,169.0,Chad Stahelski,"Keanu Reeves, Laurence Fishburne, George Georgiou","Action, Crime, Thriller",7.6
+6,Poor Things,2023,141.0,Yorgos Lanthimos,"Emma Stone, Mark Ruffalo, Willem Dafoe","Comedy, Drama, Romance",7.8
+7,Mission: Impossible - Dead Reckoning Part One,2023,163.0,Christopher McQuarrie,"Tom Cruise, Hayley Atwell, Ving Rhames","Action, Adventure, Thriller",7.6
+8,Killers of the Flower Moon,2023,206.0,Martin Scorsese,"Leonardo DiCaprio, Robert De Niro, Lily Gladstone","Crime, Drama, History",7.6
+9,The Super Mario Bros. Movie,2023,92.0,"Aaron Horvath, Michael Jelenic, Pierre Leduc","Chris Pratt, Anya Taylor-Joy, Charlie Day","Animation, Adventure, Comedy",7.0
+10,Dungeons & Dragons: Honor Among Thieves,2023,134.0,"John Francis Daley, Jonathan Goldstein","Chris Pine, Michelle Rodriguez, Regé-Jean Page","Action, Adventure, Comedy",7.2
+11,Ant-Man and the Wasp: Quantumania,2023,124.0,Peyton Reed,"Paul Rudd, Evangeline Lilly, Michael Douglas","Action, Adventure, Comedy",6.0
+12,Saltburn,2023,131.0,Emerald Fennell,"Barry Keoghan, Jacob Elordi, Rosamund Pike","Drama, Thriller",7.0
+13,The Flash,2023,144.0,Andy Muschietti,"Ezra Miller, Michael Keaton, Sasha Calle","Action, Adventure, Fantasy",6.6
+14,Leave the World Behind,2023,138.0,Sam Esmail,"Julia Roberts, Mahershala Ali, Ethan Hawke","Drama, Mystery, Thriller",6.4
+15,Indiana Jones and the Dial of Destiny,2023,154.0,James Mangold,"Harrison Ford, Phoebe Waller-Bridge, Antonio Banderas","Action, Adventure, Sci-Fi",6.5
+16,The Killer,2023,118.0,David Fincher,"Michael Fassbender, Tilda Swinton, Charles Parnell","Action, Adventure, Crime",6.7
+17,The Holdovers,2023,133.0,Alexander Payne,"Paul Giamatti, Da'Vine Joy Randolph, Dominic Sessa","Comedy, Drama",7.9
+18,No Hard Feelings,2023,103.0,Gene Stupnitsky,"Jennifer Lawrence, Andrew Barth Feldman, Laura Benanti","Comedy, Romance",6.3
+19,The Covenant,2023,123.0,Guy Ritchie,"Jake Gyllenhaal, Dar Salim, Sean Sagar","Action, Drama, Thriller",7.5
+20,The Creator,2023,133.0,Gareth Edwards,"John David Washington, Madeleine Yuna Voyles, Gemma Chan","Action, Adventure, Drama",6.7
+21,Air,2023,111.0,Ben Affleck,"Matt Damon, Jason Bateman, Ben Affleck","Drama, Sport",7.4
+22,Wonka,2023,116.0,Paul King,"Timothée Chalamet, Gustave Die, Murray McArthur","Adventure, Comedy, Family",7.0
+23,Anatomy of a Fall,2023,151.0,Justine Triet,"Sandra Hüller, Swann Arlaud, Milo Machado-Graner","Crime, Drama, Thriller",7.6
+24,Napoleon,2023,158.0,Ridley Scott,"Joaquin Phoenix, Vanessa Kirby, Tahar Rahim","Action, Adventure, Biography",6.3
+25,The Little Mermaid,2023,135.0,Rob Marshall,"Halle Bailey, Jonah Hauer-King, Melissa McCarthy","Adventure, Family, Fantasy",7.2
+26,Godzilla Minus One,2023,124.0,Takashi Yamazaki,"Minami Hamabe, Ryûnosuke Kamiki, Sakura Andô","Action, Adventure, Drama",7.7
+27,Extraction II,2023,122.0,Sam Hargrave,"Chris Hemsworth, Golshifteh Farahani, Adam Bessa","Action, Crime, Thriller",7.0
+28,Society of the Snow,2023,144.0,J.A. Bayona,"Enzo Vogrincic, Agustín Pardella, Matías Recalt","Adventure, Biography, Drama",7.8
+29,The Hunger Games: The Ballad of Songbirds & Snakes,2023,157.0,Francis Lawrence,"Rachel Zegler, Tom Blyth, Viola Davis","Action, Adventure, Drama",6.7
+30,Pathaan,2023,146.0,Siddharth Anand,"Shah Rukh Khan, Deepika Padukone, John Abraham","Action, Adventure, Thriller",5.8
+31,Evil Dead Rise,2023,96.0,Lee Cronin,"Mirabai Pease, Richard Crouchley, Anna-Maree Thomas",Horror,6.5
+32,Past Lives,2023,105.0,Celine Song,"Greta Lee, Teo Yoo, John Magaro","Drama, Romance",7.8
+33,Elemental,2023,101.0,Peter Sohn,"Leah Lewis, Mamoudou Athie, Ronnie Del Carmen","Animation, Adventure, Comedy",7.0
+34,The Marvels,2023,105.0,Nia DaCosta,"Brie Larson, Teyonah Parris, Iman Vellani","Action, Adventure, Sci-Fi",5.5
+35,12th Fail,2023,147.0,Vidhu Vinod Chopra,"Vikrant Massey, Medha Shankr, Anant Joshi","Biography, Drama",8.7
+36,Anyone But You,2023,103.0,Will Gluck,"Sydney Sweeney, Glen Powell, Alexandra Shipp","Comedy, Romance",6.1
+37,The Equalizer 3,2023,109.0,Antoine Fuqua,"Denzel Washington, Dakota Fanning, Eugenio Mastrandrea","Action, Crime, Thriller",6.8
+38,Scream VI,2023,122.0,"Matt Bettinelli-Olpin, Tyler Gillett","Courteney Cox, Melissa Barrera, Jenna Ortega","Horror, Mystery, Thriller",6.4
+39,Shazam! Fury of the Gods,2023,130.0,David F. Sandberg,"Zachary Levi, Asher Angel, Jack Dylan Grazer","Action, Adventure, Comedy",5.9
+40,Fast X,2023,141.0,Louis Leterrier,"Vin Diesel, Michelle Rodriguez, Jason Statham","Action, Adventure, Crime",5.7
+41,Rebel Moon - Part One: A Child of Fire,2023,133.0,Zack Snyder,"Sofia Boutella, Djimon Hounsou, Ed Skrein","Action, Adventure, Drama",5.6
+42,Adipurush,2023,179.0,Om Raut,"Prabhas, Kriti Sanon, Saif Ali Khan","Action, Drama",2.7
+43,The Zone of Interest,2023,105.0,Jonathan Glazer,"Christian Friedel, Sandra Hüller, Johann Karthaus","Drama, History, War",7.3
+44,Knock at the Cabin,2023,100.0,M. Night Shyamalan,"Dave Bautista, Jonathan Groff, Ben Aldridge","Horror, Mystery, Thriller",6.1
+45,Asteroid City,2023,105.0,Wes Anderson,"Jason Schwartzman, Scarlett Johansson, Tom Hanks","Comedy, Drama, Romance",6.4
+46,A Haunting in Venice,2023,103.0,Kenneth Branagh,"Kenneth Branagh, Michelle Yeoh, Jamie Dornan","Crime, Drama, Horror",6.5
+47,Sound of Freedom,2023,131.0,Alejandro Monteverde,"Jim Caviezel, Mira Sorvino, Bill Camp","Biography, Crime, Drama",7.6
+48,Late Night with the Devil,2023,93.0,"Cameron Cairnes, Colin Cairnes","David Dastmalchian, Laura Gordon, Ian Bliss",Horror,7.0
+49,Transformers: Rise of the Beasts,2023,127.0,Steven Caple Jr.,"Anthony Ramos, Dominique Fishback, Luna Lauren Velez","Action, Adventure, Sci-Fi",6.0
+50,Gran Turismo,2023,134.0,Neill Blomkamp,"David Harbour, Orlando Bloom, Archie Madekwe","Action, Adventure, Drama",7.1
+51,Cocaine Bear,2023,95.0,Elizabeth Banks,"Keri Russell, Alden Ehrenreich, O'Shea Jackson Jr.","Comedy, Crime, Thriller",5.9
+52,Hit Man,2023,115.0,Richard Linklater,"Glen Powell, Adria Arjona, Austin Amelio","Comedy, Crime, Romance",6.8
+53,Five Nights at Freddy's,2023,109.0,Emma Tammi,"Josh Hutcherson, Piper Rubio, Elizabeth Lail","Horror, Mystery, Thriller",5.4
+54,Renfield,2023,93.0,Chris McKay,"Nicholas Hoult, Nicolas Cage, Awkwafina","Action, Comedy, Fantasy",6.4
+55,American Fiction,2023,117.0,Cord Jefferson,"Jeffrey Wright, Skyler Wright, John Ales","Comedy, Drama",7.5
+56,Blue Beetle,2023,127.0,Angel Manuel Soto,"Xolo Maridueña, Bruna Marquezine, Becky G","Action, Adventure, Sci-Fi",5.9
+57,Aquaman and the Lost Kingdom,2023,124.0,James Wan,"Jason Momoa, Patrick Wilson, Yahya Abdul-Mateen II","Action, Adventure, Fantasy",5.6
+58,Animal,2023,204.0,Sandeep Reddy Vanga,"Ranbir Kapoor, Anil Kapoor, Bobby Deol","Action, Crime, Drama",6.1
+59,The Iron Claw,2023,132.0,Sean Durkin,"Zac Efron, Jeremy Allen White, Harris Dickinson","Biography, Drama, Sport",7.6
+60,Jawan,2023,169.0,Atlee,"Shah Rukh Khan, Nayanthara, Vijay Sethupathi","Action, Crime, Drama",6.9
+61,Reptile,2023,134.0,Grant Singer,"Benicio Del Toro, Justin Timberlake, Eric Bogosian","Crime, Drama, Mystery",6.8
+62,Operation Fortune: Ruse de Guerre,2023,114.0,Guy Ritchie,"Jason Statham, Aubrey Plaza, Cary Elwes","Action, Comedy, Thriller",6.3
+63,Creed III,2023,116.0,Michael B. Jordan,"Michael B. Jordan, Tessa Thompson, Jonathan Majors","Action, Drama, Sport",6.7
+64,65,2023,93.0,"Scott Beck, Bryan Woods","Adam Driver, Ariana Greenblatt, Chloe Coleman","Action, Adventure, Sci-Fi",5.4
+65,Tetris,2023,118.0,Jon S. Baird,"Taron Egerton, Mara Huf, Miles Barrow","Biography, Drama, History",7.4
+66,The Pope's Exorcist,2023,103.0,Julius Avery,"Russell Crowe, Daniel Zovatto, Alexandra Essoe","Horror, Thriller",6.1
+67,The Boy and the Heron,2023,124.0,Hayao Miyazaki,"Soma Santoki, Masaki Suda, Kô Shibasaki","Animation, Adventure, Drama",7.4
+68,Meg 2: The Trench,2023,116.0,Ben Wheatley,"Jason Statham, Jing Wu, Shuya Sophia Cai","Action, Adventure, Horror",5.0
+69,Plane,2023,107.0,Jean-François Richet,"Gerard Butler, Mike Colter, Tony Goldwyn","Action, Adventure, Thriller",6.5
+70,Saw X,2023,118.0,Kevin Greutert,"Tobin Bell, Shawnee Smith, Synnøve Macody Lund","Horror, Mystery, Thriller",6.6
+71,Dream Scenario,2023,102.0,Kristoffer Borgli,"Lily Bird, Nicolas Cage, Julianne Nicholson","Comedy, Drama, Fantasy",6.8
+72,Perfect Days,2023,124.0,Wim Wenders,"Kôji Yakusho, Tokio Emoto, Arisa Nakano",Drama,7.9
+73,Dunki,2023,160.0,Rajkumar Hirani,"Taapsee Pannu, Ryan Cretney, Priya Sindher","Action, Adventure, Comedy",6.5
+74,Murder Mystery 2,2023,90.0,Jeremy Garelick,"Adam Sandler, Jennifer Aniston, Mark Strong","Action, Adventure, Comedy",5.7
+75,Salaar,2023,175.0,Prashanth Neel,"Prabhas, Karthikeya Dev, Prithviraj Sukumaran","Action, Crime, Drama",6.6
+76,The Kerala Story,2023,138.0,"Sudipto Sen, Vipul Amrutlal Shah","Adah Sharma, Yogita Bihani, Sonia Balani",Drama,6.9
+77,No One Will Save You,2023,93.0,Brian Duffield,"Kaitlyn Dever, Elizabeth Kaluev, Zack Duhame","Horror, Mystery, Sci-Fi",6.3
+78,Teenage Mutant Ninja Turtles: Mutant Mayhem,2023,99.0,"Jeff Rowe, Kyler Spears","Micah Abbey, Shamon Brown Jr., Nicolas Cantu","Animation, Action, Adventure",7.2
+79,Ghosted,2023,116.0,Dexter Fletcher,"Chris Evans, Ana de Armas, Adrien Brody","Action, Adventure, Comedy",5.8
+80,Beau Is Afraid,2023,179.0,Ari Aster,"Joaquin Phoenix, Patti LuPone, Amy Ryan","Comedy, Drama",6.6
+81,All of Us Strangers,2023,105.0,Andrew Haigh,"Andrew Scott, Paul Mescal, Carter John Grout","Drama, Romance",7.6
+82,Thanksgiving,2023,106.0,Eli Roth,"Patrick Dempsey, Ty Olsson, Gina Gershon","Comedy, Horror, Mystery",6.2
+83,The Nun II,2023,110.0,Michael Chaves,"Taissa Farmiga, Jonas Bloquet, Storm Reid","Horror, Mystery, Thriller",5.6
+84,Luther: The Fallen Sun,2023,129.0,Jamie Payne,"Idris Elba, Cynthia Erivo, Andy Serkis","Action, Crime, Drama",6.4
+85,May December,2023,117.0,Todd Haynes,"Natalie Portman, Chris Tenzis, Charles Melton",Drama,6.8
+86,Kaiva,2023,138.0,Jayathirtha,"Dharmendra Aras, Agratha Ashok, Anand Babu","Action, Drama, Romance",8.3
+87,The Bikeriders,2023,116.0,Jeff Nichols,"Austin Butler, Jodie Comer, Tom Hardy","Crime, Drama",6.6
+88,Infinity Pool,2023,117.0,Brandon Cronenberg,"Alexander Skarsgård, Mia Goth, Cleopatra Coleman","Crime, Horror, Mystery",6.0
+89,Missing,2023,111.0,"Nicholas D. Johnson, Will Merrick","Tim Griffin, Ava Zaria Lee, Nia Long","Drama, Mystery, Thriller",7.1
+90,Leo,2023,164.0,Lokesh Kanagaraj,"Joseph Vijay, Sanjay Dutt, Trisha Krishnan","Action, Crime, Drama",7.2
+91,Maestro,2023,129.0,Bradley Cooper,"Carey Mulligan, Bradley Cooper, Matt Bomer","Biography, Drama, History",6.5
+92,Heart of Stone,2023,122.0,Tom Harper,"Gal Gadot, Jamie Dornan, Alia Bhatt","Action, Crime, Thriller",5.7
+93,You People,2023,117.0,Kenya Barris,"Jonah Hill, Lauren London, Eddie Murphy","Comedy, Romance",5.5
+94,The Last Voyage of the Demeter,2023,118.0,André Øvredal,"Corey Hawkins, Aisling Franciosi, Liam Cunningham","Fantasy, Horror, Thriller",6.1
+95,Woman of the Hour,2023,95.0,Anna Kendrick,"Anna Kendrick, Daniel Zovatto, Tony Hale","Crime, Drama, Mystery",6.6
+96,Totally Killer,2023,106.0,Nahnatchka Khan,"Kiernan Shipka, Olivia Holt, Charlie Gillespie","Comedy, Horror, Sci-Fi",6.5
+97,Ferrari,2023,130.0,Michael Mann,"Adam Driver, Shailene Woodley, Giuseppe Festinese","Biography, Drama, History",6.4
+98,Insidious: The Red Door,2023,107.0,Patrick Wilson,"Ty Simpkins, Patrick Wilson, Rose Byrne","Horror, Mystery, Thriller",5.5
+99,"Red, White & Royal Blue",2023,118.0,Matthew López,"Taylor Zakhar Perez, Nicholas Galitzine, Uma Thurman","Comedy, Romance",6.9
+100,BlackBerry,2023,120.0,Matt Johnson,"Jay Baruchel, Glenn Howerton, Matt Johnson","Biography, Comedy, Drama",7.3
+101,Nimona,2023,101.0,"Nick Bruno, Troy Quane","Chloë Grace Moretz, Riz Ahmed, Eugene Lee Yang","Animation, Action, Adventure",7.5
+102,Dumb Money,2023,105.0,Craig Gillespie,"Paul Dano, Pete Davidson, Vincent D'Onofrio","Biography, Comedy, Drama",6.8
+103,Chor Nikal Ke Bhaga,2023,110.0,Ajay Singh,"Yami Gautam, Sunny Kaushal, Sharad Kelkar","Crime, Drama, Thriller",7.2
+104,Tiger 3,2023,155.0,Maneesh Sharma,"Salman Khan, Katrina Kaif, Emraan Hashmi","Action, Adventure, Thriller",5.7
+105,The Family Plan,2023,118.0,Simon Cellan Jones,"Mark Wahlberg, Michelle Monaghan, Ciarán Hinds","Action, Comedy",6.3
+106,The Archies,2023,141.0,Zoya Akhtar,"Agastya Nanda, Khushi Kapoor, Suhana Khan","Comedy, Drama, Musical",4.2
+107,Strange Darling,2023,97.0,JT Mollner,"Willa Fitzgerald, Kyle Gallner, Madisen Beaty","Horror, Thriller",7.0
+108,Bottoms,2023,91.0,Emma Seligman,"Rachel Sennott, Ayo Edebiri, Ruby Cruz",Comedy,6.7
+109,Pain Hustlers,2023,123.0,David Yates,"Emily Blunt, Chris Evans, Catherine O'Hara","Crime, Drama",6.6
+110,To Catch a Killer,2023,119.0,Damián Szifron,"Shailene Woodley, Ben Mendelsohn, Jovan Adepo","Action, Crime, Drama",6.6
+111,Lost Ladies,2023,122.0,Kiran Rao,"Nitanshi Goel, Pratibha Ranta, Sparsh Shrivastava","Comedy, Drama",8.3
+112,When Evil Lurks,2023,99.0,Demián Rugna,"Ezequiel Rodríguez, Demián Salomón, Silvina Sabater",Horror,6.9
+113,Lust Stories 2,2023,132.0,"R Balki, Sujoy Ghosh, Amit Ravindernath Sharma","Tamannaah Bhatia, Vijay Varma, Neena Gupta","Drama, Romance",5.8
+114,The Mother,2023,115.0,Niki Caro,"Jennifer Lopez, Lucy Paez, Omari Hardwick","Action, Thriller",5.6
+115,The Expendables 4,2023,103.0,Scott Waugh,"Jason Statham, 50 Cent, Megan Fox","Action, Adventure, Thriller",4.8
+116,The Boogeyman,2023,98.0,Rob Savage,"Sophie Thatcher, Chris Messina, Vivien Lyra Blair","Horror, Mystery, Thriller",5.9
+117,Priscilla,2023,113.0,Sofia Coppola,"Cailee Spaeny, Jacob Elordi, Ari Cohen","Biography, Drama, Music",6.5
+118,Haunted Mansion,2023,123.0,Justin Simien,"LaKeith Stanfield, Rosario Dawson, Owen Wilson","Comedy, Drama, Family",6.0
+119,Wish,2023,95.0,"Chris Buck, Fawn Veerasunthorn","Ariana DeBose, Chris Pine, Alan Tudyk","Animation, Adventure, Comedy",5.6
+120,The Exorcist: Believer,2023,111.0,David Gordon Green,"Lafortune Joseph, Leslie Odom Jr., Gastner Legerme",Horror,4.8
+121,Nowhere,2023,109.0,Albert Pintó,"Anna Castillo, Tamar Novas, Tony Corvillo","Drama, Thriller",6.3
+122,Old Dads,2023,104.0,Bill Burr,"Bill Burr, Bobby Cannavale, Bokeem Woodbine",Comedy,6.2
+123,They Cloned Tyrone,2023,122.0,Juel Taylor,"John Boyega, Jamie Foxx, Teyonah Parris","Comedy, Mystery, Sci-Fi",6.6
+124,Mission Majnu,2023,129.0,Shantanu Bagchi,"Sidharth Malhotra, Rashmika Mandanna, Parmeet Sethi","Action, Drama, History",7.0
+125,OMG 2,2023,156.0,Amit Rai,"Pankaj Tripathi, Akshay Kumar, Yami Gautam","Comedy, Drama",7.5
+126,Fair Play,2023,113.0,Chloe Domont,"Phoebe Dynevor, Alden Ehrenreich, Eddie Marsan","Drama, Thriller",6.4
+127,Rocky Aur Rani Kii Prem Kahaani,2023,168.0,Karan Johar,"Ranveer Singh, Alia Bhatt, Dharmendra","Comedy, Drama, Family",6.5
+128,Nyad,2023,121.0,"Jimmy Chin, Elizabeth Chai Vasarhelyi","Annette Bening, Jodie Foster, Anne Marie Kempf","Biography, Drama, Sport",7.1
+129,Your Place or Mine,2023,109.0,Aline Brosh McKenna,"Reese Witherspoon, Ashton Kutcher, Zoë Chao","Comedy, Romance",5.7
+130,Leo,2023,102.0,"Robert Marianetti, Robert Smigel, David Wachtenheim","Adam Sandler, Bill Burr, Cecily Strong","Animation, Adventure, Comedy",7.0
+131,Hypnotic,2023,93.0,Robert Rodriguez,"Ben Affleck, Alice Braga, JD Pardo","Action, Drama, Mystery",5.5
+132,Kisi Ka Bhai Kisi Ki Jaan,2023,145.0,Farhad Samji,"Salman Khan, Pooja Hegde, Venkatesh Daggubati","Action, Comedy, Drama",3.9
+133,Cobweb,2023,88.0,Samuel Bodin,"Lizzy Caplan, Antony Starr, Cleopatra Coleman","Horror, Mystery, Thriller",5.9
+134,Kandahar,2023,119.0,Ric Roman Waugh,"Tom Rhys Harries, Farhad Bagheri, Gerard Butler","Action, Drama, Thriller",6.1
+135,Kill,2023,105.0,Nikhil Nagesh Bhat,"Lakshya, Raghav Juyal, Tanya Maniktala","Action, Crime, Drama",7.5
+136,Jailer,2023,168.0,Nelson Dilipkumar,"Rajinikanth, Mohanlal, Shivarajkumar","Action, Comedy, Crime",7.1
+137,Migration,2023,83.0,"Benjamin Renner, Guylo Homsy","Kumail Nanjiani, Tresi Gazal, Elizabeth Banks","Animation, Adventure, Comedy",6.6
+138,The Last Kingdom: Seven Kings Must Die,2023,117.0,Edward Bazalgette,"Mark Rowley, Pekka Strang, Zoltán Andrási","Action, Drama, History",6.9
+139,Varisu,2023,169.0,Vamshi Paidipally,"Joseph Vijay, Rashmika Mandanna, Shaam","Action, Comedy, Drama",5.9
+140,The Burial,2023,126.0,Maggie Betts,"Jamie Foxx, Tommy Lee Jones, Jurnee Smollett",Drama,7.1
+141,The Out-Laws,2023,95.0,Tyler Spindel,"Adam Devine, Pierce Brosnan, Ellen Barkin","Action, Comedy, Crime",5.4
+142,Love at First Sight,2023,91.0,Vanessa Caswill,"Haley Lu Richardson, Ben Hardy, Rob Delaney","Drama, Romance",6.8
+143,Wicked Little Letters,2023,100.0,Thea Sharrock,"Jessie Buckley, Olivia Colman, Timothy Spall","Comedy, Crime, Drama",7.0
+144,Boston Strangler,2023,112.0,Matt Ruskin,"Keira Knightley, Carrie Coon, Chris Cooper","Crime, Drama, History",6.5
+145,Culpa Mía,2023,117.0,Domingo González,"Nicole Wallace, Gabriel Guevara, Marta Hazas","Drama, Romance",6.1
+146,Boy Kills World,2023,111.0,Moritz Mohr,"Bill Skarsgård, Jessica Rothe, Michelle Dockery","Action, Comedy, Crime",6.4
+147,Sharper,2023,116.0,Benjamin Caron,"Julianne Moore, Sebastian Stan, Justice Smith","Crime, Drama, Thriller",6.7
+148,Monster,2023,127.0,Hirokazu Koreeda,"Sakura Andô, Eita Nagayama, Soya Kurokawa","Drama, Thriller",7.8
+149,Strays,2023,93.0,Josh Greenbaum,"Will Ferrell, Jamie Foxx, Isla Fisher","Adventure, Comedy",6.3
+150,We Have a Ghost,2023,126.0,Christopher Landon,"Jahi Di'Allo Winston, David Harbour, Anthony Mackie","Adventure, Comedy, Family",6.1
+151,One Life,2023,109.0,James Hawes,"Anthony Hopkins, Lena Olin, Johnny Flynn","Biography, Drama, History",7.5
+152,Nefarious,2023,97.0,"Chuck Konzelman, Cary Solomon","Sean Patrick Flanery, Jordan Belfi, Tom Ohmer","Drama, Horror, Thriller",6.4
+153,Winnie-the-Pooh: Blood and Honey,2023,84.0,Rhys Frake-Waterfield,"Nikolai Leon, Maria Taylor, Natasha Rose Mills",Horror,2.9
+154,"Are You There God? It's Me, Margaret.",2023,106.0,Kelly Fremon Craig,"Abby Ryder Fortson, Rachel McAdams, Kathy Bates","Comedy, Drama, Family",7.3
+155,The Promised Land,2023,127.0,Nikolaj Arcel,"Mads Mikkelsen, Amanda Collin, Simon Bennebjerg","Action, Biography, Drama",7.7
+156,Fallen Leaves,2023,81.0,Aki Kaurismäki,"Alma Pöysti, Jussi Vatanen, Janne Hyytiäinen","Comedy, Drama, Romance",7.3
+157,Champions,2023,124.0,Bobby Farrelly,"Woody Harrelson, Kaitlin Olson, Matt Cook","Comedy, Drama, Sport",6.8
+158,Shehzada,2023,142.0,Rohit Dhawan,"Kartik Aaryan, Kriti Sanon, Paresh Rawal","Action, Comedy, Drama",4.5
+159,Kho Gaye Hum Kahan,2023,135.0,Arjun Varain Singh,"Ananya Panday, Siddhant Chaturvedi, Adarsh Gourav","Comedy, Drama, Romance",7.3
+160,Satyaprem Ki Katha,2023,146.0,Sameer Vidwans,"Kartik Aaryan, Kiara Advani, Supriya Pathak","Comedy, Drama, Musical",6.7
+161,Family Switch,2023,106.0,McG,"Jennifer Garner, Ed Helms, Emma Myers","Comedy, Family",5.7
+162,Sirf Ek Bandaa Kaafi Hai,2023,132.0,Apoorv Singh Karki,"Manoj Bajpayee, Adrija Sinha, Surya Mohan Kulshreshtha","Crime, Drama, Thriller",8.0
+163,Thunivu,2023,146.0,H. Vinoth,"Ajith Kumar, Manju Warrier, Samuthirakani","Action, Crime, Thriller",6.1
+164,Surongo,2023,150.0,Raihan Rafi,"Rayhan Sardar, Adib Ahasan Chowdhury, Md. Alamin Hossen","Crime, Drama, Mystery",6.8
+165,Peter Pan & Wendy,2023,106.0,David Lowery,"Alexander Molony, Ever Anderson, Jude Law","Adventure, Family, Fantasy",4.4
+166,Next Goal Wins,2023,104.0,Taika Waititi,"Michael Fassbender, Oscar Kightley, Kaimana","Comedy, Drama, Sport",6.5
+167,Tu Jhoothi Main Makkaar,2023,150.0,Luv Ranjan,"Ranbir Kapoor, Shraddha Kapoor, Anubhav Singh Bassi","Comedy, Romance",6.0
+168,The Boys in the Boat,2023,123.0,George Clooney,"Joel Edgerton, Callum Turner, Peter Guinness","Biography, Drama, Sport",7.0
+169,Lee,2023,117.0,Ellen Kuras,"Kate Winslet, Andy Samberg, Alexander Skarsgård","Biography, Drama, History",6.9
+170,Joy Ride,2023,95.0,Adele Lim,"Ashley Park, Sherry Cola, Stephanie Hsu",Comedy,6.4
+171,Bird Box: Barcelona,2023,112.0,"David Pastor, Àlex Pastor","Mario Casas, Georgina Campbell, Diego Calva","Horror, Mystery, Sci-Fi",5.3
+172,Chicken Run: Dawn of the Nugget,2023,98.0,"Sam Fell, Jeff Newitt","Thandiwe Newton, Zachary Levi, Bella Ramsey","Animation, Adventure, Comedy",6.3
+173,A Good Person,2023,128.0,Zach Braff,"Florence Pugh, Morgan Freeman, Celeste O'Connor",Drama,7.1
+174,Knox Goes Away,2023,114.0,Michael Keaton,"Michael Keaton, Ray McKinnon, Cassie Moronez","Crime, Thriller",7.0
+175,In the Land of Saints and Sinners,2023,106.0,Robert Lorenz,"Kerry Condon, Desmond Eastwood, Conor MacNeill","Action, Crime, Thriller",6.4
+176,The Teachers' Lounge,2023,98.0,Ilker Çatak,"Leonie Benesch, Anne-Kathrin Gummich, Rafael Stachowiak",Drama,7.4
+177,Fast Charlie,2023,90.0,Phillip Noyce,"Pierce Brosnan, Morena Baccarin, James Caan","Action, Crime, Drama",6.0
+178,Reality,2023,83.0,Tina Satter,"Sydney Sweeney, Josh Hamilton, Marchánt Davis",Drama,6.7
+179,You Are So Not Invited to My Bat Mitzvah,2023,103.0,Sammi Cohen,"Idina Menzel, Jackie Sandler, Adam Sandler",Comedy,5.9
+180,20 Days in Mariupol,2023,95.0,Mstyslav Chernov,"Liudmyla Amelkina, Mstyslav Chernov, Roman Golovanov","Documentary, War",8.5
+181,Retribution,2023,91.0,Nimród Antal,"Liam Neeson, Noma Dumezweni, Lilly Aspell","Action, Thriller",5.3
+182,Gaslight,2023,111.0,Pavan Kirpalani,"Sara Ali Khan, Vikrant Massey, Chitrangda Singh","Crime, Horror, Mystery",5.8
+183,Silent Night,2023,104.0,John Woo,"Joel Kinnaman, Kid Cudi, Harold Torres","Action, Thriller",5.3
+184,The Vaccine War,2023,161.0,Vivek Agnihotri,"Anupam Kher, Mohan Kapur, Nana Patekar","Drama, Thriller",7.1
+185,Freelance,2023,108.0,Pierre Morel,"John Cena, Alison Brie, Juan Pablo Raba","Action, Comedy",5.5
+186,Checkmate,2023,112.0,"Akriti Bajpai, Harsh Beniwal","Harsh Beniwal, Mohit Chhikara, Aditya Paul","Action, Comedy",7.6
+187,The Three Musketeers - Part I: D'Artagnan,2023,121.0,Martin Bourboulon,"François Civil, Vincent Cassel, Romain Duris","Action, Adventure, History",6.7
+188,Fukrey 3,2023,147.0,Mrighdeep Lamba,"Pulkit Samrat, Varun Sharma, Manjot Singh","Comedy, Crime, Drama",5.5
+189,A Million Miles Away,2023,121.0,Alejandra Márquez Abella,"Michael Peña, Rosa Salazar, Julio Cesar Cedillo","Biography, Drama",7.3
+190,MobKing,2023,,Jokes Yanes,"Ciro Dapagio, Elisabetta Fantone, Celine Alva","Drama, Thriller",5.4
+191,Taylor Swift: The Eras Tour,2023,169.0,Sam Wrench,"Taylor Swift, Mike Meadows, Max Bernstein","Documentary, Music, Musical",8.0
+192,Paradise,2023,117.0,Boris Kunz,"Kostja Ullmann, Corinna Kirchhoff, Marlene Tanczik","Action, Sci-Fi, Thriller",6.3
+193,Quiz Lady,2023,99.0,Jessica Yu,"Awkwafina, Sandra Oh, Will Ferrell",Comedy,6.7
+194,Gadar 2,2023,170.0,Anil Sharma,"Sunny Deol, Ameesha Patel, Utkarsh Sharma","Action, Adventure, Drama",5.1
+195,Bholaa,2023,144.0,Ajay Devgn,"Ajay Devgn, Tabu, Abhishek Bachchan","Action, Crime, Drama",5.8
+196,Tejas,2023,112.0,Sarvesh Mewara,"Kangana Ranaut, Vishak Nair, Anshul Chauhan","Action, Drama, Thriller",4.3
+197,Priyotoma,2023,155.0,Himel Ashraf,"Shakib Khan, Idhika Paul, Shahiduzzaman Selim","Action, Drama, Romance",5.9
+198,Bloody Daddy,2023,121.0,Ali Abbas Zafar,"Shahid Kapoor, Zeishan Quadri, Solanki Diwakar","Action, Crime, Drama",6.5
+199,Sing Sing,2023,107.0,Greg Kwedar,"Colman Domingo, Clarence Maclin, Sean San Jose",Drama,7.7
+200,Candy Cane Lane,2023,117.0,Reginald Hudlin,"Eddie Murphy, Tracee Ellis Ross, Jillian Bell","Comedy, Family, Fantasy",5.6
+201,Robot Dreams,2023,103.0,Pablo Berger,Ivan Labanda,"Animation, Comedy, Drama",7.6
+202,Inside,2023,105.0,Vasilis Katsoupis,"Willem Dafoe, Gene Bervoets, Eliza Stuyck","Drama, Thriller",5.5
+203,Happiness for Beginners,2023,103.0,Vicky Wight,"Ellie Kemper, Luke Grimes, Nico Santos","Comedy, Drama, Romance",6.1
+204,Hidden Strike,2023,102.0,Scott Waugh,"Jackie Chan, John Cena, Chunrui Ma","Action, Adventure, Comedy",5.4
+205,How to Have Sex,2023,91.0,Molly Manning Walker,"Anna Antoniades, Mia McKenna-Bruce, Lara Peake",Drama,6.5
+206,Hunger,2023,146.0,Sitisiri Mongkolsiri,"Nopachai Chaiyanam, Chutimon Chuengcharoensukying, Emilio Ferreira","Drama, Thriller",6.6
+207,Hi Nanna,2023,155.0,Shouryuv,"Nani, Mrunal Thakur, Kiara Khanna","Drama, Family, Romance",8.2
+208,Naga,2023,111.0,Meshal Al Jaser,"Adwa Bader, Yazeed Almajyul, Khalid Bin Shaddad","Drama, Thriller",6.1
+209,The Last Stop in Yuma County,2023,90.0,Francis Galluppi,"Jim Cummings, Faizon Love, Jocelin Donahue","Crime, Drama, Thriller",6.9
+210,Sam Bahadur,2023,150.0,Meghna Gulzar,"Vicky Kaushal, Sanya Malhotra, Fatima Sana Shaikh","Biography, Drama, War",7.7
+211,DogMan,2023,115.0,Luc Besson,"Caleb Landry Jones, Jojo T. Gibbs, Christopher Denham","Action, Crime, Drama",6.8
+212,Flamin' Hot,2023,99.0,Eva Longoria,"Jesse Garcia, Annie Gonzalez, Emilio Rivera","Biography, Drama, History",6.8
+213,Starfish,2023,121.0,Akhilesh Jaiswal,"Milind Soman, Mike Parish, Khushali Kumar","Drama, Romance, Thriller",4.3
+214,The Color Purple,2023,141.0,Blitz Bazawule,"Fantasia Barrino, Taraji P. Henson, Danielle Brooks","Drama, Musical",6.8
+215,Ponniyin Selvan: Part Two,2023,164.0,"Mani Ratnam, Sruti Harihara Subramanian","Vikram, Karthi, Ravi Mohan","Action, Adventure, Drama",7.2
+216,Blood & Gold,2023,98.0,Peter Thorwarth,"Jördis Triebel, Robert Maaser, Alexander Scheer","Action, Drama, War",6.5
+217,Mission Raniganj,2023,134.0,Tinu Suresh Desai,"Akshay Kumar, Parineeti Chopra, Rajesh Sharma","Action, Biography, Drama",7.2
+218,Magic Mike's Last Dance,2023,112.0,Steven Soderbergh,"Channing Tatum, Salma Hayek, Ayub Khan-Din","Comedy, Drama",5.2
+219,Theater Camp,2023,92.0,"Molly Gordon, Nick Lieberman","Ben Platt, Molly Gordon, Noah Galvin",Comedy,6.9
+220,Self Reliance,2023,85.0,Jake Johnson,"Jake Johnson, Andy Samberg, Bjorn Johnson","Comedy, Thriller",6.0
+221,His Three Daughters,2023,101.0,Azazel Jacobs,"Carrie Coon, Natasha Lyonne, Elizabeth Olsen",Drama,7.2
+222,Trolls Band Together,2023,91.0,"Walt Dohrn, Tim Heitz","Anna Kendrick, Justin Timberlake, Kenan Thompson","Animation, Adventure, Comedy",6.0
+223,The Taste of Things,2023,135.0,Anh Hung Tran,"Juliette Binoche, Benoît Magimel, Emmanuel Salinger","Drama, History, Romance",7.4
+224,La Chimera,2023,131.0,Alice Rohrwacher,"Josh O'Connor, Carol Duarte, Vincenzo Nemolato","Adventure, Comedy, Drama",7.3
+225,Love Again,2023,104.0,Jim Strouse,"Priyanka Chopra Jonas, Sam Heughan, Céline Dion","Comedy, Drama, Romance",5.9
+226,Eileen,2023,97.0,William Oldroyd,"Thomasin McKenzie, Shea Whigham, Sam Nivola","Drama, Mystery, Romance",5.9
+227,About Dry Grasses,2023,197.0,Nuri Bilge Ceylan,"Deniz Celiloglu, Merve Dizdar, Musab Ekici",Drama,7.7
+228,The Machine,2023,112.0,Peter Atencio,"Bert Kreischer, Mark Hamill, Jimmy Tatro","Action, Comedy",5.7
+229,Bawaal,2023,137.0,Nitesh Tiwari,"Varun Dhawan, Janhvi Kapoor, Manoj Pahwa","Action, Comedy, Drama",6.6
+230,Still: A Michael J. Fox Movie,2023,95.0,Davis Guggenheim,"Michael J. Fox, Davis Guggenheim, Tracy Pollan","Documentary, Biography",8.1
+231,Zara Hatke Zara Bachke,2023,132.0,Laxman Utekar,"Vicky Kaushal, Sara Ali Khan, Inaamulhaq","Comedy, Drama, Family",6.0
+232,Knights of the Zodiac,2023,112.0,Tomasz Baginski,"Mackenyu, Famke Janssen, Madison Iseman","Action, Adventure, Drama",4.4
+233,The Deepest Breath,2023,108.0,Laura McGann,"Alessia Zecchini, Stephen Keenan, Leigh Baker","Documentary, Adventure, Sport",7.7
+234,There's Still Tomorrow,2023,118.0,Paola Cortellesi,"Paola Cortellesi, Valerio Mastandrea, Romana Maggiora Vergano","Comedy, Drama, History",7.7
+235,The Wrath of Becky,2023,84.0,"Matt Angel, Suzanne Coote","Lulu Wilson, Seann William Scott, Denise Burse","Action, Thriller",6.1
+236,Io Capitano,2023,121.0,Matteo Garrone,"Seydou Sarr, Moustapha Fall, Issaka Sawadogo",Drama,7.6
+237,About My Father,2023,90.0,Laura Terruso,"Robert De Niro, Sebastian Maniscalco, Leslie Bibb",Comedy,5.8
+238,Ballerina,2023,92.0,Chung-Hyun Lee,"Jeon Jong-seo, Kim Ji-hoon, Park Yu-rim","Action, Thriller",6.3
+239,You Hurt My Feelings,2023,93.0,Nicole Holofcener,"Julia Louis-Dreyfus, Tobias Menzies, Michaela Watkins","Comedy, Drama, Romance",6.5
+240,Beautiful Disaster,2023,96.0,Roger Kumble,"Dylan Sprouse, Virginia Gardner, Austin North","Comedy, Drama, Romance",5.3
+241,Teen Wolf: The Movie,2023,141.0,Russell Mulcahy,"Tyler Posey, Crystal Reed, Holland Roden","Action, Drama, Fantasy",5.6
+242,Jules,2023,87.0,Marc Turtletaub,"Ben Kingsley, Harriet Sansom Harris, Jane Curtin","Comedy, Drama, Sci-Fi",6.8
+243,Deep Fear,2023,84.0,Marcus Adams,"Mãdãlina Ghenea, Ed Westwick, Macarena Gómez","Action, Horror, Thriller",3.9
+244,Jaane Jaan,2023,139.0,Sujoy Ghosh,"Kareena Kapoor, Jaideep Ahlawat, Vijay Varma","Crime, Drama, Mystery",7.0
+245,Bank of Dave,2023,107.0,Chris Foggin,"Joel Fry, Phoebe Dynevor, Rory Kinnear","Biography, Comedy, Drama",7.1
+246,Jesus Revolution,2023,120.0,"Jon Erwin, Brent Mccorkle","Joel Courtney, Jonathan Roumie, Kimberly Williams-Paisley","Biography, Drama, History",7.1
+247,Red Rooms,2023,118.0,Pascal Plante,"Juliette Gariépy, Laurie Babin, Sasha Samar","Crime, Horror, Mystery",7.1
+248,Kabzaa,2023,134.0,"R. Chandru, Manju Maurya, Shivu Hiremath","Upendra, Sudeep, Shriya Saran","Action, Crime, Thriller",4.7
+249,The Wandering Earth II,2023,173.0,Frant Gwo,"Jing Wu, Yi Sha, Yanmanzi Zhu","Action, Adventure, Drama",6.7
+250,El Conde,2023,110.0,Pablo Larraín,"Jaime Vadell, Gloria Münchmeyer, Alfredo Castro","Comedy, Fantasy, History",6.4
+251,Flora and Son,2023,97.0,John Carney,"Eve Hewson, Joseph Gordon-Levitt, Orén Kinlan","Comedy, Music, Romance",7.0
+252,Jeanne du Barry,2023,117.0,Maïwenn,"Stanislas Stanic, Maïwenn, Johnny Depp","Biography, Drama, History",6.7
+253,Rye Lane,2023,82.0,Raine Allen-Miller,"David Jonsson, Vivian Oparah, Poppy Allen-Quarmby","Comedy, Drama, Romance",7.2
+254,The Conference,2023,100.0,Patrik Eklund,"Katia Winter, Adam Lundgren, Eva Melander","Comedy, Horror, Mystery",5.7
+255,2018,2023,150.0,Jude Anthany Joseph,"Tovino Thomas, Kunchacko Boban, Asif Ali","Action, Drama, Thriller",8.3
+256,Kill Boksoon,2023,137.0,Byun Sung-hyun,"Lee Jae-wook, Jeon Do-yeon, Hwang Jung-min","Action, Thriller",6.6
+257,Demon Slayer: Kimetsu No Yaiba - To the Swordsmith Village,2023,110.0,Haruo Sotozaki,"Zach Aguilar, Laila Berzins, Kira Buckland","Animation, Action, Adventure",7.6
+258,AKA,2023,122.0,Morgan S. Dalibert,"Alban Lenoir, Éric Cantona, Thibault de Montalembert","Action, Crime, Thriller",6.6
+259,Golda,2023,100.0,Guy Nattiv,"Helen Mirren, Zed Josef, Henry Goodman","Biography, Drama, History",6.0
+260,Baghead,2023,94.0,Alberto Corredor,"Freya Allan, Jeremy Irvine, Ruby Barker","Horror, Mystery",5.4
+261,The Royal Hotel,2023,91.0,Kitty Green,"Julia Garner, Jessica Henwick, Herbert Nordrum","Drama, Thriller",5.8
+262,Rustin,2023,106.0,George C. Wolfe,"Colman Domingo, Chris Rock, Glynn Turman","Biography, Drama, History",6.5
+263,The Hatchet Wielding Hitchhiker,2023,85.0,Colette Camden,"Kai Lawrence, Jessob Reisbeck, Terry Woods","Documentary, Crime",6.2
+264,The Marsh King's Daughter,2023,109.0,Neil Burger,"Daisy Ridley, Ben Mendelsohn, Brooklynn Prince","Crime, Drama, Mystery",5.9
+265,Selfiee,2023,148.0,Raj Mehta,"Akshay Kumar, Mrunal Thakur, Emraan Hashmi","Action, Comedy, Drama",5.7
+266,Passages,2023,91.0,Ira Sachs,"Franz Rogowski, Ben Whishaw, Adèle Exarchopoulos","Drama, Romance",6.6
+267,Pamela: A Love Story,2023,112.0,Ryan White,"Pamela Anderson, Fran Drescher, David Hasselhoff","Documentary, Biography",7.2
+268,80 for Brady,2023,98.0,Kyle Marvin,"Lily Tomlin, Jane Fonda, Rita Moreno","Comedy, Drama, Sport",5.9
+269,Pet Sematary: Bloodlines,2023,87.0,Lindsey Anderson Beer,"Jackson White, Natalie Alyn Lind, Forrest Goodluck","Fantasy, Horror",4.6
+270,Ruby Gillman: Teenage Kraken,2023,91.0,"Kirk DeMicco, Faryn Pearl","Jane Fonda, Lana Condor, Toni Collette","Animation, Comedy, Romance",5.7
+271,Infested,2023,106.0,Sébastien Vanicek,"Théo Christine, Sofia Lesaffre, Jérôme Niel",Horror,6.2
+272,Little Bone Lodge,2023,93.0,Matthias Hoene,"Joely Richardson, Sadie Soverall, Neil Linpow","Crime, Horror, Mystery",6.0
+273,Mafia Mamma,2023,101.0,Catherine Hardwicke,"Toni Collette, Monica Bellucci, Sophia Nomvete","Action, Comedy, Crime",5.4
+274,The Old Oak,2023,113.0,Ken Loach,"Dave Turner, Ebla Mari, Claire Rodgerson",Drama,7.1
+275,The Bricklayer,2023,110.0,Renny Harlin,"Aaron Eckhart, Nina Dobrev, Clifton Collins Jr.","Action, Thriller",5.2
+276,Run Rabbit Run,2023,100.0,Daina Reid,"Sarah Snook, Lily LaTorre, Neil Melville","Drama, Horror, Mystery",5.0
+277,Sympathy for the Devil,2023,90.0,Yuval Adler,"Nicolas Cage, Joel Kinnaman, Alexis Zollicoffer","Action, Thriller",5.5
+278,The Strays,2023,100.0,Nathaniel Martello-White,"Ashley Madekwe, Bukky Bakray, Jorden Myrie","Drama, Mystery, Thriller",4.9
+279,Forgotten Love,2023,140.0,Michal Gazda,"Leszek Lichota, Maria Kowalska, Ignacy Liss","Drama, Romance",7.5
+280,The Other Zoey,2023,91.0,Sara Zandieh,"Josephine Langford, Drew Starkey, Archie Renaux","Comedy, Drama, Romance",5.9
+281,Ghoomer,2023,135.0,R Balki,"Amitabh Bachchan, Shabana Azmi, Angad Bedi","Drama, Sport",7.5
+282,I.S.S.,2023,95.0,Gabriela Cowperthwaite,"Ariana DeBose, Chris Messina, John Gallagher Jr.","Sci-Fi, Thriller",5.3
+283,Lady Ballers,2023,112.0,Jeremy Boreing,"Jeremy Boreing, Billie Rae Brandt, Daniel Considine","Comedy, Sport",5.7
+284,Foe,2023,110.0,Garth Davis,"Saoirse Ronan, Paul Mescal, Aaron Pierre","Drama, Romance, Sci-Fi",5.4
+285,Sly,2023,95.0,Thom Zimny,"Sylvester Stallone, Frank Stallone, John Herzfeld","Documentary, Biography",7.0
+286,Unlocked,2023,117.0,Kim Tae-joon,"Chun Woo-hee, Yim Si-wan, Kim Hee-won","Crime, Drama, Mystery",6.4
+287,Parking,2023,127.0,Ramkumar Balakrishnan,"Harish Kalyan, M.S. Bhaskar, Indhuja Ravichandran","Drama, Thriller",7.8
+288,The Holy Trinity,2023,80.0,"Shalom Kolontarov, Yakov Kolontarov","Yakov Kolontarov, Shalom Kolontarov, Val Garrahan",Horror,4.0
+289,Asterix & Obelix: The Middle Kingdom,2023,112.0,Guillaume Canet,"Guillaume Canet, Gilles Lellouche, Vincent Cassel","Adventure, Comedy, Family",5.1
+290,Puppy Love,2023,106.0,"Nick Fabiano, Richard Alan Reid","Lucy Hale, Grant Gustin, Nore Davis",Comedy,6.3
+291,Bheed,2023,124.0,Anubhav Sinha,"Rajkummar Rao, Pankaj Kapur, Bhumi Pednekar","Drama, History",6.5
+292,Dream Girl 2,2023,134.0,"Gauri Joshi, Raaj Shaandilyaa","Ayushmann Khurrana, Ananya Panday, Paresh Rawal","Comedy, Drama, Romance",5.2
+293,Good Grief,2023,100.0,Dan Levy,"Dan Levy, Ruth Negga, Himesh Patel","Comedy, Drama, Romance",6.4
+294,Mars Express,2023,88.0,Jérémie Périn,"Léa Drucker, Mathieu Amalric, Daniel Njo Lobé","Animation, Action, Mystery",7.5
+295,Polite Society,2023,104.0,Nida Manzoor,"Priya Kansara, Ritu Arya, Renu Brindle","Action, Comedy",6.6
+296,Daddio,2023,100.0,Christy Hall,"Dakota Johnson, Sean Penn, Marcos A. Gonzalez",Drama,6.6
+297,My Big Fat Greek Wedding 3,2023,92.0,Nia Vardalos,"Nia Vardalos, John Corbett, Louis Mandylor","Comedy, Drama, Romance",5.2
+298,Finestkind,2023,126.0,Brian Helgeland,"Ben Foster, Toby Wallace, Jenna Ortega","Crime, Drama, Thriller",6.1
+299,Yaariyan 2,2023,148.0,"Radhika Rao, Vinay Sapru","Divya Khossla, Yash Daasguptaa, Meezaan Jafri","Comedy, Drama, Musical",5.0
+300,Mr. Monk's Last Case: A Monk Movie,2023,97.0,Randy Zisk,"Tony Shalhoub, Traylor Howard, Jason Gray-Stanford","Comedy, Crime, Mystery",6.7
+301,Big George Foreman,2023,129.0,George Tillman Jr.,"Khris Davis, Jasmine Mathews, Sullivan Jones","Biography, Drama, Sport",6.6
+302,57 Seconds,2023,99.0,Rusty Cundieff,"Josh Hutcherson, Morgan Freeman, Greg Germann","Sci-Fi, Thriller",5.4
+303,Por Thozhil,2023,147.0,Vignesh Raja,"R. Sarathkumar, Lisha Chinnu, Ashok Selvan","Action, Crime, Thriller",8.0
+304,True Spirit,2023,109.0,Sarah Spillane,"Alyla Browne, Teagan Croft, Cliff Curtis","Adventure, Biography, Drama",6.8
+305,Jung_E,2023,98.0,Yeon Sang-ho,"Kang Soo-youn, Kim Hyun-joo, Ryu Kyung-soo","Action, Adventure, Drama",5.5
+306,Dasara,2023,156.0,Srikanth Odela,"Nani, Keerthy Suresh, Shine Tom Chacko","Action, Adventure, Drama",6.6
+307,Best. Christmas. Ever!,2023,82.0,Mary Lambert,"Heather Graham, Brandy Norwood, Jason Biggs","Comedy, Romance",4.4
+308,Evil Does Not Exist,2023,106.0,Ryûsuke Hamaguchi,"Hitoshi Omika, Ryô Nishikawa, Ryûji Kosaka",Drama,7.0
+309,The Portable Door,2023,116.0,Jeffrey Walker,"Christoph Waltz, Patrick Gibson, Damon Herriman","Adventure, Comedy, Fantasy",6.1
+310,Vaathi,2023,139.0,Venky Atluri,"Dhanush, Samyuktha Menon, Sai Kumar","Action, Drama",7.3
+311,White Men Can't Jump,2023,101.0,Calmatic,"Sinqua Walls, Jack Harlow, Lance Reddick","Comedy, Drama, Sport",5.2
+312,Genie,2023,93.0,Sam Boyd,"Melissa McCarthy, Paapa Essiedu, Denée Benton","Comedy, Fantasy",5.9
+313,Do Not Disturb,2023,114.0,Cem Yilmaz,"Cem Yilmaz, Ahsen Eroglu, Celal Kadri Kinoglu","Comedy, Drama",6.3
+314,Carry on Jatta 3,2023,136.0,Smeep Kang,"Gippy Grewal, Sonam Bajwa, Binnu Dhillon","Comedy, Drama, Romance",5.9
+315,Chhatriwali,2023,116.0,Tejas Prabha Vijay Deoskar,"Rakul Preet Singh, Sumeet Vyas, Satish Kaushik","Comedy, Drama",6.6
+316,IB 71,2023,117.0,"Sankalp Reddy, Lee Whittaker","Vishal Jethwa, Anupam Kher, Vidyut Jammwal","Action, Thriller",7.1
+317,Jigarthanda Double X,2023,172.0,Karthik Subbaraj,"Raghava Lawrence, S.J. Suryah, Nimisha Sajayan","Action, Comedy, Drama",8.0
+318,Locked In,2023,96.0,Nour Wazzi,"Famke Janssen, Rose Williams, Alex Hassell","Drama, Mystery, Thriller",5.1
+319,Viduthalai: Part 1,2023,150.0,Vetrimaaran,"Soori, Vijay Sethupathi, Bhavani Sre","Action, Crime, Drama",8.2
+320,Take Care of Maya,2023,103.0,Henry Roosevelt,Maya Kowalski,Documentary,7.7
+321,Kuttey,2023,109.0,Aasmaan Bhardwaj,"Tabu, Arjun Kapoor, Naseeruddin Shah","Action, Comedy, Crime",5.4
+322,Alice the Musical,2023,97.0,Serdar Bilis,"Serenay Sarikaya, Ezgi Mola, Enis Arikan","Fantasy, Musical",6.9
+323,Maybe I Do,2023,95.0,Michael Jacobs,"Diane Keaton, William H. Macy, Richard Gere","Comedy, Romance",5.0
+324,Bro,2023,134.0,Samuthirakani,"Urvashi Rautela, Priya Prakash Varrier, Brahmanandam","Comedy, Drama, Family",6.0
+325,The Passenger,2023,94.0,Carter Smith,"Merah Benoit, Johnny Berchtold, Betsy Borrego","Drama, Thriller",6.4
+326,The Three Musketeers - Part II: Milady,2023,115.0,Martin Bourboulon,"François Civil, Vincent Cassel, Romain Duris","Action, Adventure, Drama",6.4
+327,The Buckingham Murders,2023,107.0,Hansal Mehta,"Kareena Kapoor, Ash Tandon, Ranveer Brar","Crime, Drama, Mystery",5.9
+328,The Abyss,2023,103.0,Richard Holm,"Tuva Novotny, Peter Franzén, Kardo Razzazi","Action, Drama, Thriller",5.3
+329,Kranti,2023,163.0,V. Harikrishna,"Darshan Thoogudeep, Rachita Ram, V. Ravichandran","Action, Drama",5.1
+330,Mrs. Chatterjee vs. Norway,2023,144.0,Ashima Chibber,"Rani Mukerji, Jim Sarbh, Bodhisattva Mazumdar","Biography, Drama",7.3
+331,Pindam,2023,158.0,Saikiran Reddy Daida,"Srikanth, Easwari Rao, Srinivas Avasarala",Horror,6.6
+332,The Animal Kingdom,2023,128.0,Thomas Cailley,"Romain Duris, Paul Kircher, Adèle Exarchopoulos","Adventure, Drama, Horror",6.7
+333,Maaveeran,2023,163.0,Madonne Ashwin,"Sivakarthikeyan, Aditi Shankar, Mysskin","Action, Comedy, Drama",7.4
+334,Ganapath,2023,133.0,Vikas Bahl,"Tiger Shroff, Kriti Sanon, Amitabh Bachchan","Action, Drama, Sci-Fi",2.7
+335,Mortal World 2,2023,117.0,Ali Atay,"Ahmet Mümtaz Taylan, Alper Kul, Dogu Demirkol",Comedy,6.8
+336,Please Don't Destroy: The Treasure of Foggy Mountain,2023,92.0,Paul Briganti,"Martin Herlihy, John Higgins, Ben Marshall","Action, Adventure, Comedy",6.0
+337,After Everything,2023,93.0,Castille Landon,"Hero Fiennes Tiffin, Josephine Langford, Mimi Keene","Drama, Romance",4.7
+338,The Black Demon,2023,100.0,Adrian Grunberg,"Omar Chaparro, Bolivar Sanchez, Carlos Solórzano","Action, Drama, Horror",3.7
+339,Resident Evil: Death Island,2023,91.0,Eiichirô Hasumi,"Matthew Mercer, Nicole Tompkins, Kevin Dorman","Animation, Action, Horror",5.7
+340,Kannur Squad,2023,161.0,Roby Varghese Raj,"Mammootty, Kishore Kumar G., Vijayaraghavan","Action, Crime, Drama",7.6
+341,The Old Way,2023,95.0,Brett Donowho,"Nicolas Cage, Ryan Kiera Armstrong, Noah Le Gros","Action, Drama, Western",5.5
+342,Coup de Chance,2023,93.0,Woody Allen,"Lou de Laâge, Niels Schneider, Anna Laik","Comedy, Crime, Drama",6.4
+343,The Beast,2023,146.0,Bertrand Bonello,"Léa Seydoux, George MacKay, Guslagie Malanda","Drama, Romance, Sci-Fi",6.5
+344,Pathu Thala,2023,151.0,Obeli N. Krishna,"Silambarasan TR, Gautham Karthik, Priya Bhavani Shankar","Action, Crime, Drama",6.7
+345,Last Call for Istanbul,2023,91.0,Gonenc Uyanik,"Kivanç Tatlitug, Beren Saat, Shayan Ardalan","Drama, Romance",5.3
+346,Stopmotion,2023,93.0,Robert Morgan,"Aisling Franciosi, Stella Gonet, Tom York","Horror, Thriller",5.6
+347,The Beanie Bubble,2023,110.0,"Kristin Gore, Damian Kulash","Zach Galifianakis, Elizabeth Banks, Sarah Snook","Comedy, Drama",6.3
+348,Mummies,2023,88.0,Juan Jesús García Galocha,"Óscar Barberán, Ana Esther Alborg, Luis Reina","Animation, Adventure, Comedy",5.9
+349,The Retirement Plan,2023,103.0,Tim Brown,"Nicolas Cage, Ashley Greene, Thalia Campbell","Action, Comedy, Crime",5.1
+350,Afire,2023,102.0,Christian Petzold,"Thomas Schubert, Paula Beer, Langston Uibel","Comedy, Drama, Romance",7.1
+351,The Moon,2023,129.0,Kim Yong-hwa,"Sul Kyung-gu, Do Kyung-soo, Kim Hee-ae","Action, Adventure, Drama",5.8
+352,Sister Death,2023,91.0,Paco Plaza,"Aria Bedmar, Maru Valdivielso, Luisa Merelas","Horror, Mystery",5.7
+353,Mrs Undercover,2023,107.0,Anushree Mehta,"Radhika Apte, Sumeet Vyas, Rajesh Sharma","Action, Comedy, Thriller",5.6
+354,Vacation Friends 2,2023,106.0,Clay Tarver,"Lil Rel Howery, Yvonne Orji, John Cena","Action, Adventure, Comedy",5.4
+355,Wham!,2023,92.0,Chris Smith,"Wham!, George Michael, Andrew Ridgeley","Documentary, Biography, Music",7.5
+356,Kathal: A Jackfruit Mystery,2023,115.0,Yashowardhan Mishra,"Sanya Malhotra, Anant Joshi, Vijay Raaz","Comedy, Crime, Drama",6.7
+357,Hell House LLC Origins: The Carmichael Manor,2023,98.0,Stephen Cognetti,"Bridget Rose Perrotta, Destiny Leilani Brown, James Liddell","Horror, Mystery",6.2
+358,What You Wish For,2023,101.0,Nicholas Tomnay,"Nick Stahl, Tamsin Topolski, Randy Vasquez","Horror, Thriller",6.7
+359,Dark Harvest,2023,96.0,David Slade,"Casey Likes, Emyri Crutchfield, Dustin Ceithamer","Fantasy, Horror",5.5
+360,Rumble Through the Dark,2023,116.0,"Graham Phillips, Parker Phillips","Bella Thorne, Aaron Eckhart, Ritchie Coster","Action, Drama, Thriller",5.6
+361,V/H/S/85,2023,110.0,"David Bruckner, Scott Derrickson, Natasha Kermani","Alex Galick, Anna Sundberg, Chelsey Grant","Horror, Thriller",5.6
+362,Fingernails,2023,113.0,Christos Nikou,"Jessie Buckley, Riz Ahmed, Jeremy Allen White","Drama, Romance, Sci-Fi",5.8
+363,Chakravyuham: The Trap,2023,111.0,Chetkuri Madhusudhan,"Vivek Trivedi, Ajay, Bhargav","Crime, Mystery, Thriller",7.1
+364,Somebody I Used to Know,2023,106.0,Dave Franco,"Alison Brie, Jay Ellis, Kiersey Clemons","Comedy, Romance",5.7
+365,97 Minutes,2023,93.0,Timo Vuorensola,"Jonathan Rhys Meyers, Alec Baldwin, MyAnna Buring",Thriller,3.8
+366,Romancham,2023,130.0,Jithu Madhavan,"Soubin Shahir, Arjun Ashokan, Chemban Vinod Jose","Comedy, Horror",7.5
+367,Maggie Moore(s),2023,99.0,John Slattery,"Jon Hamm, Tina Fey, Micah Stock","Comedy, Crime, Mystery",6.2
+368,Memory,2023,103.0,Michel Franco,"Alan Nehama, Dutch Welch, Aliya Campbell",Drama,6.7
+369,Neru,2023,150.0,Jeethu Joseph,"Mohanlal, Siddique, Santhi Mayadevi","Drama, Thriller",7.5
+370,The American,2023,110.0,James Napier Robertson,"Talia Ryder, Diane Kruger, Oleg Ivenko","Biography, Drama",7.1
+371,Humanist Vampire Seeking Consenting Suicidal Person,2023,90.0,Ariane Louis-Seize,"Sara Montpetit, Félix-Antoine Bénard, Steve Laplante","Comedy, Drama, Fantasy",7.0
+372,Book Club: The Next Chapter,2023,107.0,Bill Holderman,"Diane Keaton, Jane Fonda, Candice Bergen","Comedy, Romance",5.6
+373,Thank You for Coming,2023,119.0,Karan Boolani,"Bhumi Pednekar, Dolly Singh, Shibani Bedi",Comedy,4.1
+374,A Beautiful Life,2023,98.0,Mehdi Avaz,"Inga Ibsdotter Lilleaas, David Blue, Ardalan Esmaili","Drama, Music, Romance",6.4
+375,Black Clover: Sword of the Wizard King,2023,110.0,Ayataka Tanemura,"Bryn Apprill, Tia Lynn Ballard, Steve Blum","Animation, Action, Adventure",7.4
+376,The Dead Don't Hurt,2023,129.0,Viggo Mortensen,"Vicky Krieps, Viggo Mortensen, Solly McLeod","Drama, Western",6.4
+377,King of Kotha,2023,174.0,Abhilash Joshiy,"Dulquer Salmaan, Aishwarya Lekshmi, Soubin Shahir","Action, Crime, Drama",6.1
+378,Atharva,2023,116.0,Mahesh Reddy,"Karthik Raju, Simran Choudhary, Arvind Krishna","Crime, Drama, Thriller",6.6
+379,Chithha,2023,140.0,S.U. Arun Kumar,"Siddharth, Sahasra Sree, S. Aafiyah Tasneem","Drama, Thriller",8.2
+380,Baby,2023,175.0,Sai Rajesh Neelam,"Anand Deverakonda, Vaishnavi Chaitanya, Viraj Ashwin","Drama, Romance",7.1
+381,It's a Wonderful Knife,2023,87.0,Tyler MacIntyre,"Jane Widdop, Joel McHale, Justin Long","Comedy, Horror, Mystery",5.2
+382,O Saathiya,2023,136.0,Divya Bhavna,"Aryan Gowra, Mishti Chakravarty, Kalpalatha","Comedy, Musical, Romance",6.0
+383,The Kill Room,2023,98.0,Nicol Paone,"Alexis Linkletter, Joe Manganiello, Danny Plaza","Comedy, Thriller",5.5
+384,It Lives Inside,2023,99.0,Bishal Dutta,"Megan Suri, Neeru Bajwa, Mohana Krishnan","Drama, Horror, Thriller",5.2
+385,The Kitchen,2023,107.0,"Daniel Kaluuya, Kibwe Tavares","Kano, Jedaiah Bannerman, Hope Ikpoku Jnr","Action, Adventure, Drama",4.8
+386,Bad Boy,2023,122.0,Rajkumar Santoshi,"Namashi Chakraborthy, Amrin Qureshi, Darshan Jariwala","Comedy, Drama, Romance",6.6
+387,Saptha Sagaradaache Ello - Side A,2023,142.0,Hemanth M. Rao,"Rakshit Shetty, Rukmini Vasanth, Chaithra J. Achar","Drama, Romance",8.2
+388,Gandhi Godse Ek Yudh,2023,110.0,Rajkumar Santoshi,"Deepak Antani, Chinmay Mandlekar, Tanisha Santoshi","Drama, History",6.7
+389,Tin & Tina,2023,119.0,Rubin Stein,"Milena Smit, Jaime Lorente, Carlos González Morollón","Horror, Mystery, Thriller",4.7
+390,Kushi,2023,163.0,Shiva Nirvana,"Samantha Ruth Prabhu, Vijay Deverakonda, Jayaram","Comedy, Drama, Romance",5.4
+391,Problemista,2023,104.0,Julio Torres,"Julio Torres, Tilda Swinton, RZA",Comedy,6.8
+392,The Ritual Killer,2023,92.0,George Gallo,"Talia Asseraf, Bob Bowersox, Dru Bramblett","Crime, Mystery, Thriller",4.3
+393,The Great Escaper,2023,96.0,Oliver Parker,"Michael Caine, Graeme Dalling, Myles Olofin","Biography, Drama, War",7.0
+394,The Hill,2023,126.0,Jeff Celentano,"Dennis Quaid, Colin Ford, Joelle Carter","Biography, Drama, Sport",6.7
+395,God Is a Bullet,2023,156.0,Nick Cassavetes,"Maika Monroe, Nikolaj Coster-Waldau, Karl Glusman","Action, Crime, Horror",5.8
+396,Through My Window: Across the Sea,2023,109.0,Marçal Forés,"Clara Galle, Julio Peña, Guillermo Lasheras","Comedy, Drama, Romance",5.1
+397,You'll Never Find Me,2023,100.0,"Josiah Allen, Indianna Bell","Brendan Rock, Jordan Cowan, Elena Carapetis","Drama, Horror, Thriller",5.8
+398,She Came to Me,2023,102.0,Rebecca Miller,"Peter Dinklage, Anne Hathaway, Marisa Tomei","Comedy, Drama, Music",6.0
+399,Sukhee,2023,139.0,"Sonal Joshi, Kuldeep Singh","Amit Sadh, Afia Tayebali, Kiran Kumar","Comedy, Drama",5.9
+400,A Thousand and One,2023,117.0,A.V. Rockwell,"Teyana Taylor, Aaron Kingsley Adetola, Aven Courtney","Crime, Drama",7.0
+401,Robots,2023,93.0,"Casper Christensen, Anthony Hines","Shailene Woodley, Jack Whitehall, Paul Rust","Comedy, Romance, Sci-Fi",5.5
+402,The End We Start From,2023,102.0,Mahalia Belo,"Jodie Comer, Joel Fry, Yves Rassou","Drama, Thriller",5.9
+403,Concrete Utopia,2023,130.0,Tae-hwa Eom,"Lee Byung-hun, Park Seo-joon, Park Bo-young","Action, Adventure, Drama",6.6
+404,The Nightingale of Bursa,2023,120.0,Hakan Algül,"Ata Demirer, Cem Gelinoglu, Özge Özacar","Comedy, Drama, Music",6.8
+405,The Peasants,2023,114.0,"DK Welchman, Hugh Welchman","Kamila Urzedowska, Robert Gulaczyk, Miroslaw Baka","Animation, Drama, History",7.6
+406,Khufiya,2023,157.0,Vishal Bhardwaj,"Tabu, Ali Fazal, Wamiqa Gabbi","Action, Biography, Crime",6.1
+407,Waltair Veerayya,2023,155.0,Bobby Kolli,"Chiranjeevi, Ravi Teja, Shruti Haasan","Action, Drama",6.2
+408,Birth/Rebirth,2023,98.0,Laura Moss,"Marin Ireland, Judy Reyes, A.J. Lister","Drama, Horror, Thriller",6.2
+409,Suitable Flesh,2023,100.0,Joe Lynch,"Heather Graham, Judah Lewis, Bruce Davison","Drama, Horror, Thriller",5.3
+410,A Tourist's Guide to Love,2023,94.0,Steven K. Tsuchida,"Rachael Leigh Cook, Scott Ly, Ben Feldman","Adventure, Comedy, Romance",5.8
+411,Last Sentinel,2023,117.0,Tanel Toom,"Kate Bosworth, Lucien Laviscount, Martin McCann","Drama, Horror, Mystery",4.9
+412,Chupa,2023,95.0,Jonás Cuarón,"Demián Bichir, Christian Slater, Evan Whitten","Action, Adventure, Drama",5.5
+413,"The Pig, the Snake and the Pigeon",2023,134.0,Wong Ching-Po,"Ethan Juan, Ben Yuen, Chen Yiwen","Action, Crime, Drama",7.3
+414,The Miracle Club,2023,90.0,Thaddeus O'Sullivan,"Maggie Smith, Laura Linney, Kathy Bates","Comedy, Drama",6.4
+415,There's Something Wrong with the Children,2023,92.0,Roxanne Benjamin,"Alisha Wainwright, Amanda Crew, Carlos Santos","Horror, Mystery",5.0
+416,Wingwomen,2023,116.0,Mélanie Laurent,"Adèle Exarchopoulos, Mélanie Laurent, Manon Bresch","Action, Comedy, Crime",5.7
+417,Scrapper,2023,84.0,Charlotte Regan,"Lola Campbell, Alin Uzun, Cary Crankson","Comedy, Drama",6.9
+418,Cat Person,2023,118.0,Susanna Fogel,"Emilia Jones, Nicholas Braun, Geraldine Viswanathan","Comedy, Drama, Mystery",6.0
+419,"Miraculous: Ladybug & Cat Noir, the Movie",2023,105.0,Jeremy Zag,"Cristina Valenzuela, Bryce Papenbrook, Carrie Keranen","Animation, Action, Adventure",6.1
+420,Asphalt City,2023,125.0,Jean-Stéphane Sauvaire,"Tye Sheridan, Michael Pitt, Lenel Caze","Drama, Thriller",6.1
+421,Mr. Pregnant,2023,135.0,Srinivas Vinjanampati,"Aadish, Ali, Mohammad Ali","Action, Comedy, Drama",6.3
+422,The Roundup: No Way Out,2023,105.0,Lee Sang-yong,"Ma Dong-seok, Lee Jun-hyuk, Munetaka Aoki","Action, Crime, Thriller",6.6
+423,7:11 PM,2023,142.0,Chaitu Madala,"Saahas Pagadala, Tess Walsh, Deepika","Action, Sci-Fi, Thriller",5.5
+424,Zom 100: Bucket List of the Dead,2023,128.0,Yûsuke Ishida,"Eiji Akaso, Mai Shiraishi, Shuntarô Yanagi","Action, Comedy, Fantasy",5.5
+425,Origin,2023,141.0,Ava DuVernay,"Aunjanue Ellis-Taylor, Jon Bernthal, Niecy Nash","Drama, History",7.2
+426,Femme,2023,99.0,"Sam H. Freeman, Ng Choon Ping","George MacKay, Nathan Stewart-Jarrett, John McCrea","Drama, Thriller",7.3
+427,The Book of Clarence,2023,129.0,Jeymes Samuel,"LaKeith Stanfield, Omar Sy, Anna Diop","Adventure, Comedy, Drama",5.6
+428,Yannick,2023,67.0,Quentin Dupieux,"Raphaël Quenard, Pio Marmaï, Blanche Gardin","Comedy, Drama",7.0
+429,The Monkey King,2023,97.0,Anthony Stacchi,"Jimmy O. Yang, Bowen Yang, Jolie Hoang-Rappaport","Animation, Action, Adventure",5.8
+430,Green Border,2023,152.0,Agnieszka Holland,"Jalal Altawil, Maja Ostaszewska, Behi Djanati Atai",Drama,6.4
+431,The Long Game,2023,112.0,Julio Quintana,"Jay Hernandez, Dennis Quaid, Cheech Marin","Drama, History, Sport",6.7
+432,Hidden Blade,2023,128.0,Er Cheng,"Tony Leung Chiu-wai, Yibo Wang, Lei Huang","Drama, History, Thriller",6.3
+433,Ghost,2023,132.0,Srini,"Shivarajkumar, H.G. Dattatreya, Jayaram","Action, Thriller",6.3
+434,Fool's Paradise,2023,98.0,Charlie Day,"Charlie Day, Ken Jeong, Kate Beckinsale",Comedy,4.7
+435,Spy x Family Code: White,2023,110.0,"Kazuhiro Furuhashi, Takashi Katagiri","Takuya Eguchi, Atsumi Tanezaki, Saori Hayami","Animation, Action, Comedy",7.3
+436,Illegal Lives,2023,105.0,Cenk Çelik,"Mahsun Karaca, Müjde Uzman, Mehmet Kahraman",Comedy,6.2
+437,Iratta,2023,112.0,Rohit M.G. Krishnan,"Joju George, Anjali, Srinda","Crime, Drama, Thriller",7.7
+438,Dada,2023,133.0,Ganesh K. Babu,"Kavin, Aparna Das, Bhagyaraj","Drama, Family, Romance",8.1
+439,The Great Indian Family,2023,112.0,Vijay Krishna Acharya,"Vicky Kaushal, Manushi Chhillar, Kumud Mishra",Family,5.6
+440,Regina,2023,118.0,Domin D'Silva,"Sunaina Yella, Ananth Nag, Nivas Adithan","Crime, Thriller",5.9
+441,"LaRoy, Texas",2023,112.0,Shane Atkinson,"Steve Zahn, John Magaro, Galadriel Stineman","Comedy, Crime, Thriller",6.5
+442,Wil,2023,110.0,Tim Mielants,"Stef Aerts, Matteo Simoni, Annelore Crollet","Drama, History, War",6.8
+443,Ride On,2023,126.0,Larry Yang,"Jackie Chan, Haocun Liu, Kevin Guo","Action, Comedy, Drama",6.3
+444,Gumraah,2023,130.0,Vardhan Ketkar,"Aditya Roy Kapoor, Mrunal Thakur, Ronit Roy","Action, Crime, Drama",6.5
+445,Kanjoos Makhichoos,2023,116.0,Vipul Mehta,"Kunal Kemmu, Shweta Tripathi, Piyush Mishra","Comedy, Drama, Family",6.5
+446,Radical,2023,125.0,Christopher Zalla,"Eugenio Derbez, Daniel Haddad, Jennifer Trejo",Drama,7.8
+447,Virupaksha,2023,145.0,Karthik Varma Dandu,"Sai Dharam Tej, Samyuktha Menon, Sunil","Action, Horror, Mystery",7.2
+448,Dog Gone,2023,95.0,Stephen Herek,"Rob Lowe, Johnny Berchtold, Kimberly Williams-Paisley","Biography, Drama, Family",6.1
+449,Mavka: The Forest Song,2023,99.0,"Oleh Malamuzh, Oleksandra Ruban, Yevheniy Yermak","Sarah Natochenny, Marc Thompson, Mike Pollock","Animation, Adventure, Comedy",6.6
+450,Mighty Morphin Power Rangers: Once & Always,2023,55.0,Charlie Haskell,"Walter Jones, Steve Cardenas, Catherine Sutherland","Action, Adventure, Drama",5.7
+451,Clock,2023,91.0,Alexis Jacknow,"Dianna Agron, Melora Hardin, Jay Ali","Drama, Horror, Thriller",5.0
+452,Freud's Last Session,2023,110.0,Matt Brown,"Anthony Hopkins, Matthew Goode, Liv Lisa Fries",Drama,6.1
+453,Malum,2023,92.0,Anthony DiBlasi,"Jessica Sula, Candice Coke, Chaney Morrow","Drama, Horror, Thriller",5.1
+454,Simulant,2023,95.0,April Mullen,"Robbie Amell, Jordana Brewster, Simu Liu","Crime, Drama, Sci-Fi",5.2
+455,Til Death Do Us Part,2023,111.0,Timothy Woodward Jr.,"Cam Gigandet, Natalie Burn, Jason Patric","Action, Comedy, Horror",3.8
+456,Sometimes I Think About Dying,2023,94.0,Rachel Lambert,"Daisy Ridley, Dave Merheje, Parvesh Cheena","Comedy, Drama, Romance",6.6
+457,Trial Period,2023,105.0,Aleya Sen,"Genelia Deshmukh, Manav Kaul, Shakti Kapoor","Comedy, Drama",6.9
+458,Nuovo Olimpo,2023,113.0,Ferzan Özpetek,"Luisa Ranieri, Loredana Cannata, Alvise Rigo","Drama, Romance",7.2
+459,White Bird,2023,121.0,Marc Forster,"Ariella Glaser, Orlando Schwerdt, Gillian Anderson","Biography, Drama, Family",7.3
+460,The Re-Education of Molly Singer,2023,120.0,Andy Palmer,"Britt Robertson, Ty Simpkins, Jaime Pressly",Comedy,5.6
+461,Farrey,2023,130.0,Soumendra Padhi,"Alizeh Agnihotri, Ronit Roy, Sahil Mehta","Crime, Drama, Thriller",6.2
+462,Veera Simha Reddy,2023,170.0,Gopichand Malineni,"Nandamuri Balakrishna, Shruti Haasan, Honey Rose","Action, Drama",4.8
+463,EXmas,2023,93.0,Jonah Feingold,"Leighton Meester, Robbie Amell, Michael Hitchcock",Comedy,5.7
+464,The Pod Generation,2023,110.0,Sophie Barthes,"Emilia Clarke, Chiwetel Ejiofor, Rosalie Craig","Comedy, Romance, Sci-Fi",5.6
+465,Love You Ram,2023,118.0,Dandela Yelleshwara Rao,"Rohit Behal, Aparna Janardanan, Dandela Yelleshwara Rao","Drama, Romance",4.9
+466,Die Hart,2023,84.0,Eric Appel,"Kevin Hart, John Travolta, Nathalie Emmanuel","Action, Comedy",5.2
+467,Invitation to a Murder,2023,92.0,Stephen Shimek,"Mischa Barton, Chris Browning, Bianca A. Santos","Mystery, Thriller",5.2
+468,The Magician's Elephant,2023,99.0,Wendy Rogers,"Noah Jupe, Mandy Patinkin, Brian Tyree Henry","Animation, Adventure, Comedy",6.6
+469,Faraway,2023,109.0,Vanessa Jopp,"Naomi Krauss, Goran Bogdan, Adnan Maral","Comedy, Drama, Romance",6.7
+470,There's Something in the Barn,2023,100.0,Magnus Martens,"Martin Starr, Amrita Acharia, Kiran Shah","Comedy, Fantasy, Horror",5.5
+471,The Crime Is Mine,2023,102.0,François Ozon,"Nadia Tereszkiewicz, Rebecca Marder, Isabelle Huppert","Comedy, Crime, Mystery",6.5
+472,Annapoorani,2023,146.0,Nilesh Krishnaa,"Nayanthara, Sathyaraj, Jai",Drama,3.8
+473,Mixed by Erry,2023,110.0,Sydney Sibilia,"Luigi D'Oriano, Giuseppe Arena, Emanuele Palumbo",Comedy,7.1
+474,Christmas as Usual,2023,88.0,Petter Holmsen,"Ida Ursin-Holm, Kanan Gill, Marit Andreassen","Comedy, Romance",5.5
+475,River Wild,2023,91.0,Ben Ketai,"Leighton Meester, Taran Killam, Adam Brody","Action, Adventure, Thriller",5.4
+476,Akelli,2023,127.0,Pranay Meshram,"Nushrratt Bharuccha, Amir Boutrous, Tsahi Halevi","Action, Drama, Thriller",6.1
+477,Ranga Maarthaanda,2023,153.0,Krishna Vamsi,"Prakash Raj, Ramya Krishnan, Brahmanandam",Drama,8.0
+478,Sleep,2023,95.0,Jason Yu,"Jung Yu-mi, Lee Sun-kyun, Kim Geum-soon","Horror, Mystery, Thriller",6.6
+479,Mujib: The Making of Nation,2023,176.0,Shyam Benegal,"Arifin Shuvoo, Nusraat Faria Mazhar, Imam Hossain Saju","Biography, Drama, History",4.4
+480,Blind,2023,124.0,Shome Makhija,"Vinay Pathak, Sonam Kapoor, Lucy Aarden","Crime, Drama, Thriller",4.1
+481,Mark Antony,2023,150.0,Adhik Ravichandran,"Vishal, S.J. Suryah, Ritu Varma","Action, Comedy, Crime",6.6
+482,The List,2023,97.0,Melissa Miller Costanzo,"Clark Backo, Shelley Hennig, Halston Sage",Comedy,5.3
+483,10 Days of a Good Man,2023,124.0,Uluç Bayraktar,"Nejat Isler, Nur Fettahoglu, Senay Gürler","Crime, Drama, Mystery",6.5
+484,Slum Dog Husband,2023,122.0,A.R. Sreedhar,"Mohammad Ali, Ameena, Balaraju","Comedy, Drama",6.4
+485,Chengiz,2023,150.0,Rajesh Ganguly,"Jeet, Susmita Chatterjee, Rohit Roy","Action, Crime, Thriller",7.6
+486,Sajini Shinde Ka Viral Video,2023,116.0,"Mikhil Musale, Javed Karim","Nimrat Kaur, Radhika Madan, Bhagyashree Patwardhan","Crime, Mystery, Thriller",6.2
+487,Maamannan,2023,157.0,Mari Selvaraj,"Vadivelu, Fahadh Faasil, Keerthy Suresh","Action, Drama, Thriller",6.7
+488,Paint,2023,96.0,Brit McAdams,"Owen Wilson, Elisabeth Henry, Paul Kosopod","Comedy, Drama",5.0
+489,The Settlers,2023,97.0,Felipe Gálvez Haberle,"Mark Stanley, Camilo Arancibia, Benjamin Westfall","Crime, Drama, History",6.9
+490,On a Wing and a Prayer,2023,102.0,Sean McNamara,"Dennis Quaid, Heather Graham, Jesse Metcalfe",Drama,5.5
+491,PAW Patrol: The Mighty Movie,2023,88.0,Cal Brunker,"Dan Duran, Kristen Bell, James Marsden","Animation, Action, Adventure",5.9
+492,Kadak Singh,2023,128.0,Aniruddha Roy Chowdhury,"Pankaj Tripathi, Sanjana Sanghi, Parvathy Thiruvothu","Drama, Thriller",6.2
+493,RDX: Robert Dony Xavier,2023,151.0,Nahas Hidhayath,"Antony Varghese, Shane Nigam, Neeraj Madhav","Action, Adventure",7.0
+494,Last Night of Amore,2023,124.0,Andrea Di Stefano,"Pierfrancesco Favino, Linda Caridi, Antonio Gerardi","Drama, Thriller",7.1
+495,The Shift,2023,115.0,Brock Heasley,"Kristoffer Polaha, Neal McDonough, Elizabeth Tabish","Action, Romance, Sci-Fi",5.5
+496,Double Blind,2023,90.0,Ian Hunt-Duffy,"Millie Brady, Pollyanna McIntosh, Akshay Kumar","Horror, Thriller",5.6
+497,The Unlikely Pilgrimage of Harold Fry,2023,108.0,Hettie Macdonald,"Jim Broadbent, Penelope Wilton, Earl Cave",Drama,6.8
+498,Tales of Babylon,2023,126.0,Pelayo De Lario,"Clive Russell, Billie Gadsdon, Brandon Burke","Action, Crime, Thriller",6.8
+499,The Caine Mutiny Court-Martial,2023,108.0,William Friedkin,"Kiefer Sutherland, Jason Clarke, Jake Lacy","Drama, War",6.7
+500,The Childe,2023,118.0,Park Hoon-jung,"Kim Seon-ho, Kang Tae-Ju, Kim Kang-woo","Action, Drama, Thriller",6.8
+501,Creation of the Gods I: Kingdom of Storms,2023,148.0,Wuershan,"Huang Bo, Kris Phillips, Xuejian Li","Action, Adventure, Drama",6.7
+502,Gulmohar,2023,131.0,Rahul V. Chittella,"Sharmila Tagore, Manoj Bajpayee, Simran","Drama, Family",7.6
+503,The Dive,2023,91.0,Maximilian Erlenwein,"Louisa Krause, Sophie Lowe, Stella Uhrig","Adventure, Drama, Thriller",5.6
+504,I Love You,2023,93.0,Nikhil Mahajan,"Rakul Preet Singh, Pavail Gulati, Akshay Oberoi","Drama, Romance, Thriller",5.4
+505,Writer Padmabhushan,2023,123.0,Shanmukha Prasanth,"Suhas, Tina Shilparaj, Gowri Priya","Comedy, Drama",7.5
+506,Spark: L.I.F.E.,2023,170.0,Vikranth Reddy,"Vikranth Reddy, Mehreen Pirzada, Rukshar Dhillon","Action, Romance, Thriller",6.9
+507,Mastaney,2023,150.0,Sharan Art,"Tarsem Jassar, Simi Chahal, Gurpreet Ghuggi","Action, Drama, History",7.4
+508,The Convert,2023,119.0,Lee Tamahori,"Guy Pearce, Tioreore Ngatai-Melbourne, Antonio Te Maioha","Action, Drama, History",6.4
+509,Firebrand,2023,121.0,Karim Aïnouz,"Alicia Vikander, Junia Rees, Ruby Bentall","Drama, History",6.3
+510,Sun and Concrete,2023,119.0,David Wnendt,"Levy Rico Arcos, Riad Chemali, Rafael Luis Klein-Heßling","Adventure, Crime, Drama",7.4
+511,The Girl Who Escaped: The Kara Robinson Story,2023,88.0,Simone Stock,"Katie Douglas, Cara Buono, Kristian Bruun","Crime, Drama, Thriller",6.2
+512,Good Night,2023,142.0,Vinayak Chandrasekaran,"Sree Arthi, Manikandan K., Jagan Krishnan","Comedy, Drama, Romance",7.7
+513,Custody,2023,148.0,Venkat Prabhu,"Naga Chaitanya Akkineni, Krithi Shetty, Arvind Swamy","Action, Drama, Thriller",5.7
+514,Killer Book Club,2023,89.0,Carlos Alonso Ojea,"Veki Velilla, Álvaro Mel, Priscilla Delgado","Horror, Thriller",4.6
+515,Money Shot: The Pornhub Story,2023,94.0,Suzanne Hillinger,"Noelle Perdue, Michael Stabile, Wolf Hudson",Documentary,5.4
+516,Israelism,2023,84.0,"Erin Axelman, Sam Eilertsen","Peter Beinart, Jeremy Ben-Ami, Noam Chomsky","Documentary, War",7.7
+517,Kannagi,2023,158.0,Yashwanth Kishore,"Keerthi Pandian, Ammu Abhirami, Vidya Pradeep","Drama, Romance",6.4
+518,Justice League: Warworld,2023,89.0,Jeff Wamester,"Jensen Ackles, Darren Criss, Stana Katic","Animation, Action, Adventure",5.3
+519,Samara,2023,118.0,Charles Joseph,"Rahman, Bharath Srinivasan, Binoj Villya","Action, Adventure, Sci-Fi",5.5
+520,Legion of Super-Heroes,2023,83.0,Jeff Wamester,"Meg Donnelly, Harry Shum Jr., Jensen Ackles","Animation, Action, Sci-Fi",5.8
+521,Do Not Expect Too Much from the End of the World,2023,163.0,Radu Jude,"Ilinca Manolache, Ovidiu Pîrsan, Nina Hoss","Comedy, Drama",7.4
+522,Sila Nodigalil,2023,94.0,Vinay Bharadwaj,"Yaashika Aanand, Rose Adams, Antara Banerjee","Drama, Mystery, Thriller",4.9
+523,Mrs,2023,111.0,Arati Kadav,"Sanya Malhotra, Avi Thakral, Nishant Dahiya","Comedy, Drama",6.6
+524,The Critic,2023,101.0,Anand Tucker,"Ian McKellen, Alfred Enoch, Matthew Cottle","Crime, Drama, Mystery",6.0
+525,Slotherhouse,2023,93.0,Matthew Goodhue,"Lisa Ambalavanar, Sydney Craven, Andrew Horton","Comedy, Horror, Thriller",4.6
+526,Infiesto,2023,96.0,Patxi Amezcua,"Isak Férriz, Iria del Río, Antonio Buíl","Action, Adventure, Crime",5.6
+527,Night Courier,2023,110.0,Ali Kalthami,"Mohamad Aldokhei, Mohammed Altawyan, Hajar Alshammari","Comedy, Crime, Drama",7.4
+528,O.Baby,2023,126.0,Ranjan Pramod,"Dileesh Pothan, Shinu Syamalan, Vishnu Agasthya","Action, Drama, Thriller",6.7
+529,Bhagavanth Kesari,2023,164.0,Anil Ravipudi,"Nandamuri Balakrishna, Arjun Rampal, Kajal Aggarwal","Action, Drama, Thriller",5.8
+530,Mayanagari,2023,137.0,Shankar Aradhya,"Anish Tejeshwar, Teju, Saathvika",,4.0
+531,You're Killing Me,2023,94.0,"Beth Hanna, Jerren Lauder","McKaley Miller, Keyara Milliner, Jayson Warner Smith","Action, Horror, Mystery",4.8
+532,Haddi,2023,134.0,Akshat Ajay Sharma,"Nawazuddin Siddiqui, Anurag Kashyap, Mohd. Zeeshan Ayyub","Crime, Drama",5.5
+533,See You on Venus,2023,94.0,Joaquín Llamas,"Virginia Gardner, Alex Aiono, Rob Estes","Drama, Romance",6.1
+534,Last Straw,2023,83.0,Alan Scott Neal,"Jessica Belkin, Taylor Kowalski, Joji Otani-Hansen","Horror, Thriller",5.5
+535,Ezra,2023,101.0,Tony Goldwyn,"Bobby Cannavale, Rose Byrne, Vera Farmiga","Comedy, Drama",6.5
+536,Chokehold,2023,112.0,Onur Saylak,"Kivanç Tatlitug, Funda Eryigit, Gürgen Öz","Drama, Thriller",5.7
+537,Night of the Hunted,2023,95.0,Franck Khalfoun,"Camille Rowe, Jeremy Scippio, J. John Bieler","Crime, Drama, Horror",5.2
+538,Fear the Night,2023,92.0,Neil LaBute,"Maggie Q, Kat Foster, Travis Hammer","Action, Horror, Thriller",4.8
+539,Aattam,2023,139.0,Anand Ekarshi,"Vinay Forrt, Zarin Shihab, Kalabhavan Shajohn","Drama, Mystery, Thriller",8.2
+540,The Tank,2023,100.0,Scott Walker,"Luciane Buchanan, Matt Whelan, Zara Nausbaum","Horror, Mystery, Thriller",4.6
+541,Desperation Road,2023,112.0,Nadine Crocker,"Garrett Hedlund, Willa Fitzgerald, Ryan Hurst","Action, Crime, Drama",5.8
+542,Neeyat,2023,134.0,Anu Menon,"Vidya Balan, Ram Kapoor, Rahul Bose","Crime, Mystery, Thriller",5.3
+543,Stephen Curry: Underrated,2023,110.0,Peter Nicks,"Stephen Curry, Bob McKillop, Jason Richards","Documentary, Biography, Sport",7.3
+544,Love Is in the Air,2023,88.0,Adrian Powers,"Delta Goodrem, Joshua Sasse, Roy Billing","Comedy, Drama, Romance",5.6
+545,Kutch Express,2023,134.0,Viral Shah,"Ratna Pathak Shah, Manasi Parekh, Dharmendra Gohil","Drama, Family",6.8
+546,Miss Shetty Mr Polishetty,2023,149.0,Mahesh Babu P.,"Anushka Shetty, Naveen Polishetty, Jayasudha","Comedy, Drama, Romance",7.0
+547,Elevator Game,2023,94.0,Rebekah McKendry,"Gino F. Anania, Megan Best, Alec Carlos","Horror, Thriller",4.1
+548,House Party,2023,100.0,Calmatic,"Jacob Latimore, Tosin Cole, Karen Obilom",Comedy,4.4
+549,Haunting of the Queen Mary,2023,114.0,Gary Shore,"Wesley Alfvin, Elena Angelova, Tiffany Ashton","Drama, Horror, Mystery",4.1
+550,Consecration,2023,91.0,Christopher Smith,"Janet Suzman, Jena Malone, Valerie Sarruf","Horror, Thriller",5.2
+551,Beyond Utopia,2023,115.0,Madeleine Gavin,"Hyeonseo Lee, Sung-eun Kim, So-yeon Lee","Documentary, Biography, History",7.9
+552,The Tutor,2023,92.0,Jordan Ross,"Victoria Justice, Garrett Hedlund, Noah Schnapp","Mystery, Thriller",4.8
+553,Sapta Sagaradaache Ello: Side B,2023,148.0,Hemanth M. Rao,"Rakshit Shetty, Rukmini Vasanth, Chaithra J. Achar","Action, Drama, Romance",8.0
+554,Kaathal - The Core,2023,114.0,Jeo Baby,"Mammootty, Jyotika, Anagha Akku",Drama,7.5
+555,What Happens Later,2023,103.0,Meg Ryan,"Meg Ryan, David Duchovny, Hal Liggett","Comedy, Romance",4.8
+556,Tarla,2023,127.0,Piyush Gupta,"Huma Qureshi, Hardik Thakkar, Kukul Tarmaster","Biography, Comedy, Drama",6.8
+557,Wonderwell,2023,96.0,Vlad Marsavin,"Carrie Fisher, Rita Ora, Kiera Milward","Drama, Family, Fantasy",5.9
+558,Appendage,2023,94.0,Anna Zlokovic,"Hadley Robinson, Emily Hampshire, Kausar Mohammed","Drama, Horror",5.2
+559,Sakshi,2023,140.0,Siva Kesanakurthi,"Sharan Kumar, Janvir Kaur, Nagendra Babu",Drama,5.9
+560,The Devil on Trial,2023,81.0,Chris Holt,"David Glatzel, Alan Glatzel, Carl Glatzel Jr.","Documentary, Crime, Horror",5.6
+561,In the Fire,2023,87.0,Conor Allyn,"Amber Heard, Eduardo Noriega, Sophie Amber","Horror, Thriller",2.9
+562,Crater,2023,105.0,Kyle Patrick Alvarez,"Isaiah Russell-Bailey, Mckenna Grace, Billy Barratt","Adventure, Drama, Sci-Fi",5.4
+563,Hell Camp: Teen Nightmare,2023,90.0,Liza Williams,"Nadine Louise Guerrara, Steve Cartisano, Chris Smith","Documentary, Crime",6.1
+564,Curry & Cyanide: The Jolly Joseph Case,2023,98.0,Christo Tomy,"B.A. Aloor, C.S. Chandrika, Nikhila Henry","Documentary, Crime",6.7
+565,Merry Little Batman,2023,96.0,Mike Roth,"Luke Wilson, Yonas Kibreab, James Cromwell","Animation, Comedy, Family",6.4
+566,Gandeevadhari Arjuna,2023,137.0,Praveen Sattaru,"Nassar, Sakshi Vaidya, Varun Tej","Action, Thriller",5.4
+567,Home for Rent,2023,124.0,Sophon Sakdaphisit,"Nittha Jirayungyurn, Sukollawat Kanarot, Thanyaphat Mayuraleela","Horror, Mystery, Thriller",6.6
+568,The Delinquents,2023,189.0,Rodrigo Moreno,"Daniel Elías, Esteban Bigliardi, Margarita Molfino","Comedy, Crime, Drama",6.7
+569,Perfect Addiction,2023,107.0,Castille Landon,"Kiana Madeira, Ross Butler, Matthew Noszka","Action, Drama, Romance",5.5
+570,Rotting in the Sun,2023,109.0,Sebastián Silva,"Jordan Firstman, Catalina Saavedra, Sebastián Silva","Comedy, Mystery, Thriller",6.9
+571,New Life,2023,85.0,John Rosman,"Sonya Walger, Hayley Erin, Tony Amendola","Horror, Thriller",5.6
+572,The Persian Version,2023,107.0,Maryam Keshavarz,"Layla Mohammadi, Niousha Noor, Kamand Shafieisabet","Comedy, Drama, Romance",6.2
+573,"20,000 Species of Bees",2023,128.0,Estibaliz Urresola Solaguren,"Sofía Otero, Patricia López Arnaiz, Ane Gabarain",Drama,7.0
+574,Close Your Eyes,2023,169.0,Víctor Erice,"Manolo Solo, Jose Coronado, Ana Torrent",Drama,7.2
+575,All Your Faces,2023,118.0,Jeanne Herry,"Birane Ba, Leïla Bekhti, Anne Benoît",Drama,7.5
+576,Spy,2023,135.0,Garry Bh,"Nikhil Siddharth, Iswarya Menon, Aryan Rajesh","Action, Thriller",4.7
+577,Starve Acre,2023,98.0,Daniel Kokotajlo,"Matt Smith, Morfydd Clark, Arthur Shaw","Drama, Horror",5.4
+578,800,2023,158.0,M.S. Sripathy,"Madhur Mittal, Mahima Nambiar, Nassar","Biography, Sport",7.1
+579,Cassandro,2023,107.0,Roger Ross Williams,"Gael García Bernal, Roberta Colindrez, Perla De La Rosa","Biography, Drama, Sport",6.5
+580,Muzzle,2023,100.0,John Stalberg Jr.,"Aaron Eckhart, Penelope Mitchell, Diego Tinoco","Action, Crime, Drama",5.6
+581,David Holmes: The Boy Who Lived,2023,90.0,Dan Hartley,"David Holmes, Sue Holmes, Andy Holmes",Documentary,7.7
+582,Summoning Sylvia,2023,74.0,"Wesley Taylor, Alex Wyse","Travis Coles, Frankie Grande, Troy Iwata","Comedy, Horror, Thriller",5.4
+583,Which Brings Me to You,2023,98.0,Peter Hutchings,"Britne Oldford, Lucy Hale, Genevieve Angelson","Comedy, Drama, Romance",5.6
+584,1920: Horrors of the Heart,2023,122.0,Krishna Bhatt,"Rupam Bag, Amit Behl, Bhavya","Drama, Horror",2.8
+585,Shortcomings,2023,92.0,Randall Park,"Justin H. Min, Sherry Cola, Ally Maki","Comedy, Drama, Romance",6.4
+586,American Symphony,2023,104.0,Matthew Heineman,"Jon Batiste, Lindsey Byrnes, Jonathan Dinklage","Documentary, Biography, Music",6.8
+587,12.12: The Day,2023,141.0,Sung Soo Kim,"Hwang Jung-min, Jung Woo-sung, Lee Sung-min","Action, Drama, History",7.6
+588,Good Burger 2,2023,90.0,Phil Traill,"Kel Mitchell, Pete Davidson, Kenan Thompson","Comedy, Family",5.3
+589,Matti Katha,2023,90.0,Pavan Kadiyala,"Raju Aluri, Mallesh B, G Nanda Kishore",Family,6.6
+590,Beneath Us All,2023,91.0,Harley Wallen,"Sean Whalen, Maria Olsen, Jeffrey C. Berry","Drama, Fantasy, Horror",3.6
+591,Bihter,2023,113.0,"Caner Alper, Mehmet Binay","Farah Zeynep Abdullah, Boran Kuzum, Osman Sonant","Drama, History",3.6
+592,Noise,2023,89.0,Steffen Geypens,"Ward Kerremans, Sallie Harmsen, Johan Leysen","Drama, Mystery, Thriller",3.5
+593,"Manta, Manta: Legacy",2023,127.0,Til Schweiger,"Sami Nasser, Jan-Philipp Jarke, Lukas Podolski","Action, Comedy",3.5
+594,Tuesday,2023,110.0,Daina Oniunas-Pusic,"Julia Louis-Dreyfus, Lola Petticrew, Leah Harvey","Drama, Fantasy",6.3
+595,Medal,2023,122.0,Maneesh Bhatt,"Jayy Randhawa, Baani Sandhu, Jag Singh",Action,7.6
+596,Burning Betrayal,2023,98.0,Diego Freitas,"Giovanna Lancellotti, Leandro Lima, Camilla de Lucas","Drama, Mystery, Romance",4.1
+597,Kidnapped: The Abduction of Edgardo Mortara,2023,134.0,Marco Bellocchio,"Paolo Pierobon, Fausto Russo Alesi, Barbara Ronchi","Drama, History",7.0
+598,Guardians of the Formula,2023,120.0,Dragan Bjelogrlic,"Alexis Manenti, Radivoje Bukvic, Lionel Abelanski","Biography, Drama, History",8.1
+599,Call Me Chihiro,2023,131.0,Rikiya Imaizumi,"Kasumi Arimura, Hana Toyoshima, Tetta Shimada",Drama,6.9
+600,Heat Is On,2023,130.0,"M N Arjun, Sharath Varma","Vardhan Gurrala, Sneha Kushi, Mohan Sai",Thriller,7.1
+601,Your Christmas or Mine 2,2023,101.0,Jim O'Hanlon,"Asa Butterfield, Cora Kirk, David Bradley",Comedy,5.8
+602,Berlin,2023,124.0,Atul Sabharwal,"Ishwak Singh, Aparshakti Khurana, Rahul Bose","Drama, Thriller",6.9
+603,Vidhi,2023,107.0,"Srikanth Ranganathan, Srinath Ranganathan","Mahesh Achanta, Anandhi, Arjun",Crime,6.9
+604,Jonah,2023,89.0,Ben Van Kleek,"Osric Chau, Alaina Huffman, Ken Kirby","Mystery, Sci-Fi, Thriller",6.1
+605,Widow Clicquot,2023,90.0,Thomas Napper,"Haley Bennett, Tom Sturridge, Sam Riley",Drama,6.3
+606,Landscape with Invisible Hand,2023,105.0,Cory Finley,"Asante Blackk, Tiffany Haddish, Kylie Rogers","Comedy, Drama, Sci-Fi",5.9
+607,One Ranger,2023,95.0,Jesse V. Johnson,"Thomas Jane, Dean Jagger, Dominique Tipper","Action, Thriller",4.8
+608,Tantiram,2023,99.0,Muthyala Meher Deepak,"Avinash Yelandur, Srikanth Gurram, Sukanya Gadavir","Fantasy, Horror, Mystery",6.9
+609,Hardcore Never Dies,2023,108.0,Jim Taihuttu,"Joes Brauers, Jim Deddes, Jordy Dijkshoorn","Crime, Drama",6.8
+610,The Arctic Convoy,2023,108.0,Henrik Martin Dahlsbakken,"Tobias Santelmann, Anders Baasmo, Heidi Ruud Ellingsen","Action, Drama, History",6.5
+611,I Used to Be Funny,2023,105.0,Ally Pankiw,"Rachel Sennott, Olga Petsa, Jason Jones","Comedy, Drama",6.4
+612,Missing: The Lucie Blackman Case,2023,83.0,Hyoe Yamamoto,"Katsuyoshi Abe, Jake Adelstein, Yasuhiko Asano","Documentary, Crime",6.4
+613,Dashing Through the Snow,2023,92.0,Tim Story,"Lil Rel Howery, Ludacris, Madison Skye Validum","Comedy, Family, Fantasy",5.6
+614,Tiger Nageswara Rao,2023,172.0,Vamsee,"Ravi Teja, Anupam Kher, Gayatri Bhardwaj","Action, Crime, Drama",6.0
+615,Yaathisai,2023,121.0,Dharani Rajendran,"Guru Somasundaram, Subatra Robert, Semmalar Annam","Action, Drama, History",7.1
+616,The Palace,2023,100.0,Roman Polanski,"Oliver Masucci, Fanny Ardant, John Cleese","Comedy, Drama",5.5
+617,Four Daughters,2023,107.0,Kaouther Ben Hania,"Olfa Hamrouni, Eya Chikhaoui, Tayssir Chikhaoui",Documentary,7.4
+618,Afwaah,2023,126.0,Sudhir Mishra,"Bhumi Pednekar, Nawazuddin Siddiqui, Sharib Hashmi","Drama, Thriller",5.7
+619,Spy Kids: Armageddon,2023,97.0,Robert Rodriguez,"Connor Esterson, Everly Carganilla, Zachary Levi","Action, Comedy, Family",4.3
+620,Paachuvum Albhuthavilakkum,2023,171.0,Akhil Sathyan,"Fahadh Faasil, Viji Venkatesh, Anjana Jayaprakash","Comedy, Drama",7.3
+621,Ayodhi,2023,121.0,Manthira Moorthy,"Master Advaith, Anju Asrani, Preethi Asrani","Action, Drama, Thriller",8.2
+622,T.I.M.,2023,101.0,Spencer Brown,"Georgina Campbell, Eamon Farren, Mark Rowley","Sci-Fi, Thriller",5.5
+623,Older Gods,2023,82.0,David A. Roberts,"Lindsay Bennett-Thompson, Ieuan Coombs, Jonathan Keeble","Drama, Horror",4.7
+624,Downtown Owl,2023,91.0,"Hamish Linklater, Lily Rabe","Lily Rabe, Ed Harris, Vanessa Hudgens","Comedy, Drama",5.0
+625,Your Lucky Day,2023,89.0,Dan Brown,"Angus Cloud, Elliot Knight, Jessica Garza",Thriller,5.9
+626,Thankam,2023,145.0,"Saheed Arafath, Prinish Prabhakaran","Biju Menon, Vineeth Sreenivasan, Girish Kulkarni","Crime, Drama",7.1
+627,Mangalavaaram,2023,149.0,Ajay Bhupathi,"Payal Rajput, Nandita Shwetha, Divya Pillai","Action, Horror, Thriller",6.8
+628,All Fun and Games,2023,76.0,"Eren Celeboglu, Ari Costa","Asa Butterfield, Natalia Dyer, Benjamin Evan Ainsworth","Horror, Thriller",4.3
+629,Cheena Trophy,2023,122.0,Anil Lal,"Dhyan Sreenivasan, Johny Antony, Ponnamma Babu",Comedy,5.9
+630,Fancy Dance,2023,90.0,Erica Tremblay,"Michael Rowe, Blayne Allen, Isabel Deroy-Olson",Drama,6.6
+631,Unknown: The Lost Pyramid,2023,83.0,Max Salomon,"Zahi Hawass, Mostafa Waziri, Essam Shehab","Documentary, History",6.6
+632,The Eternal Memory,2023,85.0,Maite Alberdi,"Augusto Góngora, Paulina Urrutia, Gustavo Cerati",Documentary,7.4
+633,Mob Land,2023,112.0,Nicholas Maggio,"Shiloh Fernandez, John Travolta, Kevin Dillon","Action, Crime, Thriller",5.3
+634,Dicks: The Musical,2023,86.0,Larry Charles,"Josh Sharp, Aaron Jackson, Nathan Lane","Comedy, Musical",5.3
+635,Assassin Club,2023,111.0,Camille Delamarre,"Henry Golding, Noomi Rapace, Daniela Melchior","Action, Thriller",4.7
+636,Dream,2023,125.0,"Lee Byeong-heon, Sharon S. Park","Park Seo-joon, IU, Kim Jong-soo","Comedy, Drama, Sport",6.5
+637,Totem,2023,95.0,Lila Avilés,"Naíma Sentíes, Montserrat Marañon, Marisol Gasé",Drama,7.0
+638,Exodus,2023,102.0,Abbe Hassan,"Ashraf Barhom, Jwan Alqatami, Isa Aouifia",Drama,6.8
+639,Tatsama Tadbhava,2023,122.0,Vishal Atreya,"Prajwal Devaraj, Meghana Raj, Dhaivik Anil","Crime, Thriller",7.5
+640,Make Me Believe,2023,104.0,"Evren Karabiyik Günaydin, Murat Saraçoglu","Ayça Aysin Turan, Ekin Koç, Cagla Irmak","Comedy, Romance",5.7
+641,A Brighter Tomorrow,2023,95.0,Nanni Moretti,"Nanni Moretti, Margherita Buy, Silvio Orlando","Comedy, Drama",6.7
+642,Supercell,2023,100.0,Herbert James Winterstern,"Skeet Ulrich, Anne Heche, Daniel Diemer","Action, Adventure, Drama",4.4
+643,Mast Mein Rehne Ka,2023,127.0,Vijay Maurya,"Jackie Shroff, Neena Gupta, Abhishek Chauhan","Comedy, Drama",7.1
+644,The Jester,2023,90.0,Colin Krawchuk,"Michael Sheffield, Lelia Symington, Delaney White","Horror, Mystery, Thriller",3.9
+645,Tell Them You Love Me,2023,102.0,Nick August-Perna,"Armani Cooper, Carl Hinson, Alex Conde",Documentary,6.9
+646,Hell of a Summer,2023,88.0,"Billy Bryk, Finn Wolfhard","Adam Pally, Rosebud Baker, Fred Hechinger","Comedy, Horror, Mystery",5.4
+647,Kather Basha Endra Muthuramalingam,2023,152.0,M. Muthaiah,"Arya, Indumathy Manikandan, Siddhi Idnani","Action, Crime, Drama",4.5
+648,Ugram,2023,146.0,Vijay Kanakamedala,"Allari Naresh, Mirnaa, Manikanta Varanasi","Action, Drama, Romance",6.5
+649,Last Summer,2023,104.0,Catherine Breillat,"Léa Drucker, Samuel Kircher, Olivier Rabourdin","Drama, Thriller",6.4
+650,The Mill,2023,106.0,Sean King O'Grady,"Lil Rel Howery, Pat Healy, Karen Obilom","Drama, Mystery, Sci-Fi",5.4
+651,The Monk and the Gun,2023,107.0,Pawo Choyning Dorji,"Tandin Wangchuk, Tandin Phubz, Kelsang Choejay","Comedy, Drama",7.1
+652,Fremont,2023,91.0,Babak Jalali,"Anaita Wali Zada, Gregg Turkington, Jeremy Allen White",Drama,6.9
+653,Operation Napoleon,2023,102.0,Óskar Thór Axelsson,"Vivian Ólafsdóttir, Jack Fox, Iain Glen","Action, Adventure, Thriller",6.0
+654,Taximetristi,2023,97.0,Bogdan Theodor Olteanu,"Alexandru Ion, Rolando Matsangos, Victoria Raileanu","Comedy, Drama",7.0
+655,Full River Red,2023,159.0,Yimou Zhang,"Teng Shen, Jackson Yee, Yi Zhang","Comedy, Drama, History",6.4
+656,Nightwatch: Demons Are Forever,2023,118.0,Ole Bornedal,"Fanny Leander Bornedal, Nikolaj Coster-Waldau, Kim Bodnia","Horror, Mystery, Thriller",5.8
+657,Renaissance: A Film by Beyoncé,2023,169.0,"Beyoncé, Mark Ritchie, Ed Burke","Beyoncé, Blue Ivy Carter, Diana Ross","Documentary, Music",8.6
+658,Daaaaaali!,2023,77.0,Quentin Dupieux,"Anaïs Demoustier, Edouard Baer, Jonathan Cohen","Comedy, Drama",6.6
+659,Accused,2023,88.0,Philip Barantini,"Chaneil Kular, Lauryn Ajufo, Nitin Ganatra",Thriller,6.3
+660,Anna Nicole Smith: You Don't Know Me,2023,116.0,Ursula Macfarlane,"Anna Nicole Smith, RuPaul, Arsenio Hall","Documentary, Biography",6.4
+661,The King Tide,2023,100.0,Christian Sparkes,"Frances Fisher, Clayne Crawford, Aden Young",Thriller,6.5
+662,Semmelweis,2023,127.0,Lajos Koltai,"Miklós H. Vecsei, Katica Nagy, László Gálffi","Biography, Drama, History",6.9
+663,Girl You Know It's True,2023,124.0,Simon Verhoeven,"Tijan Njie, Elan Ben Ali, Matthias Schweighöfer","Biography, Drama, Music",7.1
+664,Shooting Stars,2023,116.0,Chris Robinson,"Marquis Mookie Cook, Wood Harris, Caleb McLaughlin","Drama, Sport",6.5
+665,The Lesson,2023,103.0,Alice Troughton,"Richard E. Grant, Julie Delpy, Daryl McCormack",Thriller,6.1
+666,Only the River Flows,2023,101.0,Wei Shujun,"Yilong Zhu, Chloe Maayan, Tianlai Hou","Crime, Drama, Mystery",6.6
+667,Oh Belinda,2023,97.0,Deniz Yorulmazer,"Neslihan Atagül, Serkan Çayoglu, Necip Memili","Comedy, Drama",5.3
+668,The Perfect Find,2023,99.0,Numa Perrier,"Gabrielle Union, Keith Powers, Gina Torres","Comedy, Drama, Romance",5.2
+669,Girls on Film,2023,97.0,Robin Bain,"Dare Taylor, Willow Grey, Donnie Marhefka","Drama, Romance, Thriller",5.4
+670,Gold Brick,2023,95.0,Jérémie Rozan,"Raphaël Quenard, Igor Gotesman, Agathe Rousselle","Comedy, Drama",6.2
+671,U Turn,2023,140.0,"Arif Khan, Goswami Mahesh Gari Tulsigiri","Alaya F, Priyanshu Painyuli, Manu Rishi Chadha","Crime, Drama, Horror",6.2
+672,Mem Famous,2023,149.0,Sumanth Prabhas,"Sumanth Prabhas, Mani Aegurla, Mourya Chowdary","Comedy, Drama, Romance",7.1
+673,Ala Ninnu Cheri,2023,158.0,Maresh Shivan,"Dinesh Tej, Hebah Patel, Payal Radhakrishna","Action, Romance",6.4
+674,Magazine Dreams,2023,123.0,Elijah Bynum,"Jonathan Majors, Harrison Page, Harriet Sansom Harris",Drama,6.9
+675,Pradhan,2023,163.0,Avijit Sen,"Dev, Paran Banerjee, Anirban Chakrabarti",Drama,5.9
+676,Choose Love,2023,77.0,Stuart McDonald,"Laura Marano, Avan Jogia, Scott Michael Foster","Comedy, Romance",5.0
+677,Alibi.com 2,2023,88.0,Philippe Lacheau,"Philippe Lacheau, Élodie Fontan, Tarek Boudali",Comedy,6.5
+678,Shubh Nikah,2023,125.0,Arshad Siddiqui,"Aksha Pardasany, Rohit Vikkram, Arsh Sandhu","Comedy, Drama, Family",6.8
+679,Rudrangi,2023,142.0,Ajay Samrat,"Jagapathi Babu, Ashish Gandhi, Ganavi Laxman","Action, Drama, Thriller",4.8
+680,Kaatera,2023,183.0,Tarun Sudhir,"Darshan Thoogudeep, Shruthi, Vaijanath Biradar",Action,7.2
+681,Christopher,2023,150.0,B. Unnikrishnan,"Mammootty, Vinay Rai, Shine Tom Chacko","Action, Crime, Drama",5.9
+682,Sitting in Bars with Cake,2023,120.0,Trish Sie,"Yara Shahidi, Odessa A'zion, Bette Midler","Comedy, Drama, Romance",6.4
+683,Manodrome,2023,95.0,John Trengove,"Jesse Eisenberg, Adrien Brody, Odessa Young","Drama, Thriller",4.7
+684,Transfusion,2023,106.0,Matt Nable,"Sam Worthington, Matt Nable, Phoebe Tonkin","Action, Crime, Drama",5.1
+685,Prom Pact,2023,99.0,Anya Adams,"Peyton Elizabeth Lee, Milo Manheim, Blake Draper","Comedy, Family, Romance",6.4
+686,Her: Chapter 1,2023,103.0,Sreedhar Swaraghav,"Ruhani Sharma, Jeevan Kumar, Pradeep Rudra","Crime, Drama, Thriller",6.2
+687,Shin Kamen Rider,2023,121.0,Hideaki Anno,"Sôsuke Ikematsu, Minami Hamabe, Tasuku Emoto","Action, Adventure, Drama",6.1
+688,Keedaa Cola,2023,120.0,Tharun Bhascker Dhaassyam,"Chaitanya Madadi, Rag Mayur, Brahmanandam","Action, Comedy, Crime",7.4
+689,The Sweet East,2023,104.0,Sean Price Williams,"Jack Irv, Talia Ryder, Ella Rubin",Drama,6.4
+690,Irugapatru,2023,153.0,Yuvaraj Dhayalan,"Shraddha Srinath, Saniya Iyappan, Vikram Prabhu",Drama,8.1
+691,Spaghetti,2023,81.0,Adam Gierasch,"Angie Stevenson, Sarah Nicklin, Tangie Ambrose","Drama, Thriller",3.3
+692,Boudica: Queen of War,2023,101.0,Jesse V. Johnson,"Olga Kurylenko, Tim Barber, Andy Beckwith","Action, Drama, History",4.3
+693,Chandramukhi 2,2023,172.0,"P. Vasu, Mahendran","Raghava Lawrence, Kangana Ranaut, Aathmika","Action, Comedy, Drama",2.6
+694,Bring Him to Me,2023,96.0,Luke Sparke,"Barry Pepper, Jamie Costa, Sam Neill","Crime, Thriller",5.2
+695,A Day and a Half,2023,94.0,Fares Fares,"Fares Fares, Alexej Manvelov, Suanne Braun","Action, Drama, Thriller",5.8
+696,If You Were the Last,2023,92.0,Kristian Mercado,"Anthony Mackie, Zoë Chao, Natalie Morales","Comedy, Romance, Sci-Fi",6.3
+697,Devil,2023,144.0,Abhishek Nama,"Elnaaz Norouzi, Nandamuri Kalyan Ram, Mark Bennington","Action, Drama, Thriller",6.5
+698,Remembering Gene Wilder,2023,92.0,Ron Frank,"Gene Wilder, Mel Brooks, Rochelle Pierce","Documentary, Biography",7.8
+699,No More Bets,2023,130.0,"Ao Shen, Randy Liu","Yixing Zhang, Chen Jin, Mei Yong","Crime, Drama",6.8
+700,Journey to Bethlehem,2023,99.0,Adam Anders,"Fiona Palomo, Milo Manheim, Antonio Banderas","Adventure, Family, Musical",6.4
+701,Night Shift,2023,82.0,"Benjamin China, Paul China","Phoebe Tonkin, Madison Hu, Lamorne Morris","Horror, Thriller",5.4
+702,Paradise,2023,93.0,Prasanna Vithanage,"Roshan Mathew, Darshana Rajendran, Shyam Fernando",Drama,6.5
+703,Hidimbha,2023,136.0,Aneel Kanneganti,"Ashwin Babu, Nandita Shwetha, Sahithi Avancha","Action, Drama",6.4
+704,Club Zero,2023,110.0,Jessica Hausner,"Mia Wasikowska, Ksenia Devriendt, Luke Barker","Comedy, Drama, Thriller",5.8
+705,Quasi,2023,99.0,Kevin Heffernan,"Brian Cox, Steve Lemme, Jay Chandrasekhar","Comedy, Drama",5.3
+706,The Contestant,2023,90.0,Clair Titley,"Tomoaki Hamatsu, Jason Her, Toshio Tsuchiya","Documentary, Biography",7.2
+707,War of the Worlds: The Attack,2023,85.0,Junaid Syed,"Sam Gittins, Leo Staar, Vincent Regan","Horror, Sci-Fi, Thriller",3.2
+708,Nandor Fodor and the Talking Mongoose,2023,96.0,Adam Sigal,"Simon Pegg, Minnie Driver, Christopher Lloyd","Comedy, Mystery",5.4
+709,Awareness,2023,112.0,Daniel Benmayor,"Carlos Scholz, Pedro Alonso, Enzo Calleja","Mystery, Sci-Fi, Thriller",5.3
+710,Toby,2023,155.0,Basil Alchalakkal,"Chaithra J. Achar, Yathish Baikampady, Naresh Bhat","Crime, Drama, Thriller",7.2
+711,Phenomena,2023,94.0,Carlos Therón,"Belén Rueda, Gracia Olayo, Toni Acosta","Comedy, Horror",5.4
+712,Target,2023,101.0,Park Hee-kon,"Shin Hye-sun, Im Chul-soo, Oh Ga-bin","Crime, Mystery, Thriller",6.4
+713,10 Days of a Bad Man,2023,123.0,Uluç Bayraktar,"Nejat Isler, Riza Kocaoglu, Kadir Çermik","Crime, Drama, Mystery",6.1
+714,Project Silence,2023,101.0,Kim Tae-gon,"Lee Sun-kyun, Ju Ji-hoon, Kim Hee-won","Action, Horror, Sci-Fi",5.4
+715,Are You,2023,96.0,Alauda Ruiz de Azúa,"Álvaro Cervantes, Silvia Alonso, Susana Abaitua","Comedy, Romance",5.7
+716,Janet Planet,2023,113.0,Annie Baker,"Zoe Ziegler, Luke Philip Bosco, June Walker Grossman",Drama,6.2
+717,Ehrengard: The Art of Seduction,2023,94.0,Bille August,"Alice Bier Zanden, Emil Aron Dorph, Kit Eichler","Comedy, Drama, Romance",5.8
+718,Craving,2023,83.0,J. Horton,"Felissa Rose, Al Gomez, Holly Rockwell","Crime, Horror, Thriller",4.4
+719,Vincent Must Die,2023,115.0,Stéphan Castang,"Karim Leklou, Vimala Pons, François Chattot","Drama, Fantasy, Thriller",6.4
+720,Jogira Sara Ra Ra,2023,121.0,Kushan Nandy,"Nawazuddin Siddiqui, Neha Sharma, Vishal Anand","Comedy, Drama, Family",6.7
+721,Neethone Nenu,2023,123.0,Anji Ram,"Gopal Krishna Akella, Kushita Kallapu, Mokksha","Romance, Drama, Mystery",6.1
+722,The Nature of Love,2023,110.0,Monia Chokri,"Magalie Lépine Blondeau, Pierre-Yves Cardinal, Francis-William Rhéaume","Comedy, Drama, Romance",6.8
+723,Head to Head,2023,95.0,Malik Nejer,"Abdulaziz Alshehri, Adel Radwan, Mohammad Alqass","Comedy, Thriller",6.1
+724,Falimy,2023,125.0,Nithish Sahadev,"Basil Joseph, Jagadish, Manju Pillai","Comedy, Drama",7.3
+725,Dead Shot,2023,92.0,"Charles Guard, Thomas Guard","Aml Ameen, Colin Morgan, Máiréad Tyers","Action, Thriller",5.5
+726,Hammarskjöld: Fight for Peace,2023,114.0,Per Fly,"Mikael Persbrandt, Francis Chouler, Cian Barry","Biography, Drama, History",6.5
+727,Hard Feelings,2023,102.0,Granz Henman,"Tobias Schäfer, Cosima Henman, Monika Oschek",Comedy,4.8
+728,Balagam,2023,131.0,Venu Yeldandi,"Priyadarshi Pulikonda, Kavya Kalyanram, Kethiri Sudhakar Reddy","Drama, Family",7.9
+729,Leader: Amie Bangladesh,2023,144.0,Topu Khan,"Shakib Khan, Shabnam Bubly, Misha Sawdagor","Action, Drama",7.8
+730,Miami Bici 2,2023,102.0,Jesús del Cerro,"Danny Trejo, Matei Dima, Charlotte McKinney",Comedy,4.7
+731,Milli Vanilli,2023,106.0,Luke Korem,"Rob Pilatus, Fabrice Morvan, Carmen Pilatus","Documentary, Biography, Music",7.5
+732,The Extortion,2023,105.0,Martino Zaidelis,"Guillermo Francella, Pablo Rago, Andrea Frigerio","Crime, Thriller",6.6
+733,Veeran,2023,155.0,Ark Saravan,"Hiphop Tamizha Adhi, Athira Raj, Sassi Selvaraj","Action, Drama, Fantasy",7.3
+734,Just the Two of Us,2023,105.0,Valérie Donzelli,"Virginie Efira, Melvil Poupaud, Dominique Reymond","Drama, Thriller",6.6
+735,Born to Fly,2023,128.0,Xiaoshi Liu,"Yibo Wang, Jun Hu, Yosh Yu","Action, Drama",5.8
+736,Amigos,2023,139.0,Rajendra Reddy,"Brahmaji, Nithin Prasanna, Nandamuri Kalyan Ram","Action, Crime, Thriller",6.0
+737,Skanda: The Attacker,2023,167.0,Boyapati Srinu,"Ram Pothineni, Sreeleela, Saiee Manjrekar","Action, Drama, Romance",4.2
+738,The Last Rifleman,2023,95.0,Terry Loane,"Pierce Brosnan, Clémence Poésy, John Amos","Biography, Drama, War",6.6
+739,The Goldman Case,2023,115.0,Cédric Kahn,"Arieh Worthalter, Arthur Harari, Stéphan Guérin-Tillié","Crime, Drama, History",7.0
+740,One True Loves,2023,100.0,Andy Fickman,"Phillipa Soo, Simu Liu, Luke Bracey","Comedy, Drama, Romance",5.5
+741,Joe,2023,147.0,Hariharan Ram,"Rio Raj, Malavika Manoj, Bhavya Trikha",Drama,7.4
+742,Confidential Informant,2023,88.0,Michael Oblowitz,"Mel Gibson, Dominic Purcell, Nick Stahl","Action, Crime, Drama",3.8
+743,Junkyard Dog,2023,93.0,Jean-Baptiste Durand,"Anthony Bajon, Raphaël Quenard, Galatéa Bellugi","Comedy, Drama",7.0
+744,Mayhem!,2023,99.0,Xavier Gens,"Nassim Lyes, Loryn Nounay, Olivier Gourmet","Action, Thriller",6.3
+745,Lewis Capaldi: How I'm Feeling Now,2023,96.0,Joe Pearlman,"Amy Allen, Nick Atkinson, Tom Barnes","Documentary, Music",7.3
+746,Disquiet,2023,85.0,Michael Winnick,"Jonathan Rhys Meyers, Rachelle Goulding, Elyse Levesque","Horror, Mystery, Thriller",3.8
+747,Richie Gadi Pelli,2023,114.0,"K.S. Hemraj, M.Summanth","Kishore Maarisetty, Naveen Neni, Praneeta Patnaik","Comedy, Drama, Musical",7.3
+748,Unknown: Cosmic Time Machine,2023,64.0,Shai Gal,"Joe Biden, Amber Straughn, Thomas Zurbuchen",Documentary,7.2
+749,Cheater,2023,120.0,Barla Narayana,"Narendra Andekar, Chandrakanth Dutta, Paras Kalnawat","Romance, Thriller",6.6
+750,Adagio,2023,127.0,Stefano Sollima,"Pierfrancesco Favino, Toni Servillo, Valerio Mastandrea","Action, Crime, Thriller",6.6
+751,The Puppetman,2023,96.0,Brandon Christensen,"Alyson Gorske, Angel Prater, Kio Cyr","Horror, Thriller",5.3
+752,The Starling Girl,2023,117.0,Laurel Parmet,"Eliza Scanlen, Lewis Pullman, Jimmi Simpson",Drama,6.7
+753,Chatrapathi,2023,124.0,"V.V. Vinayak, Safdar Abbas","Sai Srinivas Bellamkonda, Nushrratt Bharuccha, Karan Singh Chhabra","Action, Drama",3.9
+754,Tiku Weds Sheru,2023,112.0,Sai Kabir,"Nawazuddin Siddiqui, Avneet Kaur, Kangana Ranaut","Comedy, Drama, Romance",3.4
+755,Dungeon,2023,65.0,Andy Bowles,"Faith Stanek, Andy Bowles, Victoria Meade","Crime, Drama, Horror",5.0
+756,Vinaro Bhagyamu Vishnu Katha,2023,138.0,Murali Kishor Abburu,"Kiran Abbavaram, Kashmira Pardeshi, Murli Sharma","Comedy, Drama, Romance",6.7
+757,Kalasa: The Symbol of Abundance,2023,138.0,Konda Rambabu,"Ajeez, Bosu Babu, Balachandar",Thriller,7.7
+758,Hosh,2023,,,,,4.5
+759,Coffee Wars,2023,104.0,Randall Miller,"Kate Nash, Saoirse-Monica Jackson, Toby Sebastian",Comedy,4.5
+760,Mr. King,2023,145.0,Sashidhar Chavali,"Tanikella Bharani, S.S. Kanchi, Mirchi Kiran","Drama, Romance, Thriller",5.0
+761,Blue Giant,2023,120.0,Yuzuru Tachikawa,"Junya Abe, Yutaka Aoyama, Mika Doi","Animation, Drama, Music",7.9
+762,An Egypt Affair,2023,82.0,Marlin Darrah,"Yolanthe Cabau, Jarred Harper, Nick Dreselly Thomas","Adventure, Drama",6.7
+763,Poisoned: The Dirty Truth About Your Food,2023,83.0,Stephanie Soechtig,"Mindy Brashears, Ben Chapman, Pablo Dayer",Documentary,6.8
+764,The Quest for Tom Sawyer's Gold,2023,88.0,Kirk Harris,"Joey Lauren Adams, Ava Torres, Patrick Muldoon","Adventure, Family",4.8
+765,The Sacrifice Game,2023,99.0,Jenn Wexler,"Mena Massoud, Olivia Scott Welch, Chloë Levine",Horror,5.4
+766,Come Out in Jesus Name,2023,90.0,"Ed Lamberg, Tim Romero","Greg Locke, Alexander Pagani, Isaiah Saldivar",Documentary,5.0
+767,Bezos,2023,99.0,Khoa Le,"Armando Gutierrez, Emilio Estefan Jr., Eliana Ghen","Biography, Drama, History",4.3
+768,Kelce,2023,103.0,Don Argott,"Jason Avant, Connor Barwin, Angelo Cataldi","Documentary, Sport",8.1
+769,Too Much Love,2023,100.0,Kivanç Baruönü,"Hasan Can Kaya, Büsra Pekin, Ugur Yücel",Comedy,3.9
+770,Spider-Man: Lotus,2023,120.0,Gavin J. Konop,"Warden Wayne, Sean Thomas Reid, Moriah Brooklyn","Action, Drama, Sci-Fi",3.1
+771,A Difficult Year,2023,120.0,"Olivier Nakache, Éric Toledano","Pio Marmaï, Jonathan Cohen, Noémie Merlant",Comedy,6.0
+772,Black Lotus,2023,90.0,Todor Chapkanov,"Rico Verhoeven, Frank Grillo, Marie Dompnier","Action, Drama, Thriller",4.3
+773,The Locksmith,2023,92.0,Nicolas Harvard,"Ving Rhames, Ryan Phillippe, Kate Bosworth","Action, Crime, Mystery",4.9
+774,Premadesam,2023,154.0,Srikanth Siddham,"Vaishnavi Chaitanya, Madhoo, Megha Akash","Comedy, Drama",6.7
+775,Stan Lee,2023,86.0,David Gelb,"Kevin Feige, Jack Kirby, J.C. Lee","Documentary, Biography",6.9
+776,Silver and the Book of Dreams,2023,92.0,Helena Hufnagel,"Jana McKinnon, Rhys Mannion, Chaneil Kular","Drama, Fantasy, Romance",5.5
+777,Fireworks,2023,134.0,Giuseppe Fiorello,"Gabriele Pizzurro, Samuele Segreto, Simona Malato","Drama, Romance",7.5
+778,Life,2023,193.0,Zeki Demirkubuz,"Miray Daner, Burak Dakak, Cem Davran",Drama,7.1
+779,Gangs of Lagos,2023,124.0,Jade Osiberu,"Tobi Bakre, Olarotimi Fakunle, Adesua Etomi-Wellington","Crime, Thriller",5.8
+780,Garudan,2023,138.0,Arun Varma,"Suresh Gopi, Biju Menon, Siddique","Crime, Thriller",7.3
+781,A Little White Lie,2023,101.0,Michael Maren,"Michael Shannon, Kate Hudson, Don Johnson",Comedy,5.9
+782,Pippa,2023,139.0,Raja Menon,"Ishaan Khatter, Mrunal Thakur, Priyanshu Painyuli","Action, Drama, History",6.2
+783,Restore Point,2023,115.0,Robert Hloz,"Andrea Mohylová, Matej Hádek, Milan Ondrík","Crime, Drama, Sci-Fi",6.2
+784,Death Whisperer,2023,120.0,Taweewat Wantha,"Nadech Kugimiya, Jelilcha Kapaun, Mim Rattawadee Wongthong","Horror, Thriller",5.8
+785,Waitress: The Musical,2023,144.0,"Diane Paulus, Brett Sullivan","Sara Bareilles, Drew Gehling, Joe Tippett","Comedy, Drama, Musical",7.8
+786,Cheddy Gang Tamasha,2023,160.0,Venkat Kalyan,"Kranthi Kiran CH, Venkat Kalyan, Laxman Meesala","Action, Comedy, Crime",7.5
+787,His Only Son,2023,106.0,David Helling,"Daniel da Silva, Nicolas Mouawad, Sara Seyed","Drama, History",5.9
+788,Warhorse One,2023,126.0,"William Kaufman, Johnny Strong","Johnny Strong, Athena Durner, Raj Kala","Action, Drama, War",5.4
+789,The Adults,2023,91.0,Dustin Guy Defa,"Michael Cera, Hannah Gross, Sophia Lillis","Comedy, Drama",5.7
+790,Lord of Misrule,2023,104.0,William Brent Bell,"Tuppence Middleton, Ralph Ineson, Matt Stokoe",Horror,5.3
+791,To End All War: Oppenheimer & the Atomic Bomb,2023,87.0,Christopher Cassel,"J. Robert Oppenheimer, Kai Bird, Ellen Bradbury","Documentary, Biography, History",7.4
+792,Brave Citizen,2023,112.0,Park Jin-Pyo,"Shin Hye-sun, Lee Jun-young, Park Jung-woo","Action, Comedy, Drama",6.5
+793,Hunt,2023,132.0,Mahesh Surapaneni,"Sudheer Babu Posani, Meka Srikanth, Bharath Srinivasan","Action, Crime, Thriller",5.4
+794,Within Seconds,2023,,Vijesh P. Vijayan,"Sebin Elavuthinkal, Bagio George, Indrans",War,3.3
+795,The Book of Solutions,2023,102.0,Michel Gondry,"Pierre Niney, Blanche Gardin, Françoise Lebrun","Comedy, Drama",6.1
+796,Mother's Day,2023,94.0,Mateusz Rakowicz,"Agnieszka Grochowska, Adrian Delikta, Dariusz Chojnacki","Action, Drama, Thriller",5.3
+797,Trevor Noah: Where Was I,2023,68.0,David Paul Meyer,Trevor Noah,"Documentary, Comedy",6.7
+798,Sewu Dino,2023,121.0,Kimo Stamboel,"Mikha Tambayong, Rio Dewanto, Givina Lukita","Horror, Thriller",6.0
+799,Holiday in the Vineyards,2023,107.0,Alex Ranarivelo,"Josh Swickard, Sol Rodriguez, Eileen Davidson",Romance,6.2
+800,Smoke Sauna Sisterhood,2023,89.0,Anna Hints,"Kadi Kivilo, Maria Meresaar, Elsa Saks",Documentary,7.1
+801,Voy! Voy! Voy!,2023,100.0,Omar Hilal,"Muhammad Farrag, Nelly Karim, Bayoumi Fouad","Comedy, Drama, Sport",7.6
+802,The Challenge,2023,164.0,Klim Shipenko,"Yuliya Peresild, Milos Bikovic, Vladimir Mashkov",Drama,6.7
+803,Surrounded,2023,100.0,Anthony Mandler,"Letitia Wright, Jamie Bell, Jeffrey Donovan","Drama, Western",6.2
+804,Poolman,2023,100.0,Chris Pine,"Chris Pine, Jennifer Jason Leigh, Danny DeVito","Comedy, Mystery",4.0
+805,The First Day of My Life,2023,121.0,Paolo Genovese,"Toni Servillo, Valerio Mastandrea, Margherita Buy","Comedy, Drama, Fantasy",6.7
+806,Acid,2023,99.0,Just Philippot,"Guillaume Canet, Laetitia Dosch, Patience Munchenbach","Drama, Sci-Fi",5.1
+807,Mad,2023,127.0,Kalyan Shankar,"Anthony, Ravi Anthony, Raghu Babu",Comedy,7.3
+808,Joram,2023,119.0,Devashish Makhija,"Manoj Bajpayee, Amrendra Sharma, Sunil Jadhav","Action, Adventure, Crime",6.6
+809,Kutra,2023,104.0,Siripuram Rajesh,"Siripuram Raajesh, Priya, Preethi","Crime, Horror, Mystery",5.0
+810,Brooklyn 45,2023,92.0,Ted Geoghegan,"Anne Ramsay, Ron E. Rains, Jeremy Holm","Drama, History, Horror",5.9
+811,One More Time,2023,85.0,Jonatan Etzler,"Hedda Stiernstedt, Miriam Ingrid, Elinor Silfversparre","Comedy, Drama, Romance",5.7
+812,Tufang,2023,142.0,Dheeraj Rattan,"Guri, Rukshar Dhillon, Jagjeet Sandhu","Action, Drama, Thriller",5.6
+813,Down Low,2023,90.0,Rightor Doyle,"Zachary Quinto, Lukas Gage, Judith Light",Comedy,5.6
+814,Raging Grace,2023,99.0,Paris Zarcilla,"Eva-Jane Willis, Leanne Best, David Hayman","Drama, Horror, Mystery",5.9
+815,A Ranjith Cinema,2023,149.0,Nishanth Sattu,"Asif Ali, Saiju Kurup, Aju Varghese",Thriller,5.0
+816,Love Tactics 2,2023,98.0,Recai Karagöz,"Demet Özdemir, Sükrü Özyildiz, Atakan Çelik","Comedy, Romance",5.0
+817,The Deep Dark,2023,103.0,Mathieu Turi,"Samuel Le Bihan, Amir El Kacem, Jean-Hugues Anglade","Adventure, Horror",5.6
+818,Money Back Guarantee,2023,122.0,Faisal Qureshi,"Fawad Khan, Shayan Khan, Mikaal Zulfiqar","Action, Comedy, Thriller",4.9
+819,Malli Pelli,2023,130.0,M.S. Raju,"Annapoorna, Sarath Babu, Mahaboob Basha","Drama, Romance",5.8
+820,The Y,2023,110.0,Girideva Raaj,"Yuvan Hariharan, Leonilla, Apsara","Horror, Mystery, Thriller",5.3
+821,¡Que viva México!,2023,191.0,Luis Estrada,"Damián Alcázar, Alfonso Herrera, Joaquín Cosio",Comedy,5.6
+822,The Channel,2023,95.0,William Kaufman,"Clayne Crawford, Max Martini, Nicoye Banks","Action, Crime, Thriller",5.6
+823,You Do You,2023,99.0,Cemal Alpan,"Ahsen Eroglu, Ozan Dolunay, Zuhal Olcay","Comedy, Romance",5.0
+824,Ravanasura,2023,141.0,Sudheer Varma,"Ravi Teja, Jayaram, Sushanth","Action, Crime, Drama",5.7
+825,Deliver Us,2023,103.0,"Cru Ennis, Lee Roy Kunz","Jelena Rajapu, Anil Kapur, Kätlin Hallik",Horror,4.8
+826,Unknown: Cave of Bones,2023,93.0,Mark Mannucci,"Lee Berger, Keneiloe Molopyane, Agusin Fuentes",Documentary,6.7
+827,Coup!,2023,98.0,"Joseph Schuman, Austin Stark","Peter Sarsgaard, Billy Magnussen, Sarah Gadon","Comedy, Thriller",6.1
+828,The Cello,2023,120.0,Darren Lynn Bousman,"Jeremy Irons, Tobin Bell, Samer Ismail","Horror, Mystery, Thriller",4.0
+829,Gunfight at Rio Bravo,2023,80.0,Joe Cornet,"Alexander Nevsky, Olivier Gruner, Joe Cornet","Action, Drama, Western",4.0
+830,"Lovely, Dark, and Deep",2023,87.0,Teresa Sutherland,"Georgina Campbell, Nick Blood, Wai Ching Ho",Horror,4.9
+831,Explanation for Everything,2023,151.0,Gábor Reisz,"Gáspár Adonyi-Walsh, István Znamenák, András Rusznák",Drama,7.3
+832,In Your Dreams,2023,90.0,Cemal Alpan,"Murat Boz, Burcu Özberk, Ugur Uzunel","Comedy, Drama, Romance",5.9
+833,Soulmate,2023,124.0,Young-Keun Min,"Kim Da-mi, Jeon So-nee, Byeon Woo-seok","Drama, Romance",7.4
+834,The Venture Bros.: Radiant Is the Blood of the Baboon Heart,2023,83.0,Christopher McCulloch,"J.K. Simmons, Patrick Warburton, Clancy Brown",Animation,7.9
+835,The Hypnosis,2023,98.0,Ernst De Geer,"Asta Kamma August, Herbert Nordrum, Andrea Edwards","Comedy, Drama",6.5
+836,Walden,2023,102.0,Mick Davis,"Emile Hirsch, Shane West, Kelli Garner",Thriller,6.0
+837,The Blind,2023,108.0,Andrew Hyatt,"Aron von Andrian, Matthew Erick White, Ronan Carroll",Drama,6.2
+838,Apurva,2023,95.0,Nikhil Nagesh Bhat,"Tara Sutaria, Rajpal Naurang Yadav, Abhishek Banerjee","Drama, Thriller",6.2
+839,Marguerite's Theorem,2023,113.0,Anna Novion,"Ella Rumpf, Jean-Pierre Darroussin, Clotilde Courau","Comedy, Drama, Mystery",6.8
+840,"Where the Devil Can't Go, He Sends a Woman 2",2023,122.0,Heathcliff Janusz Iwanowski,"Malgorzata Kozuchowska, Agnieszka Wiedlocha, Dominika Gwit","Comedy, Crime, Drama",4.8
+841,Under Therapy,2023,93.0,Gerardo Herrero,"Malena Alterio, Alexandra Jiménez, Fele Martínez","Comedy, Drama",6.7
+842,Englemageren,2023,94.0,"Esben Tønnesen, Julie R. Ølgaard","Julie R. Ølgaard, Roland Møller, Stine Stengade","Crime, Thriller",5.3
+843,The Good Mother,2023,90.0,Miles Joris-Peyrafitte,"Hilary Swank, Olivia Cooke, Jack Reynor","Crime, Drama, Mystery",4.7
+844,Marichi,2023,129.0,Siddhruv Siddu,"Aaryan, Aruna Balraj, Abhishek Das",Mystery,5.8
+845,Detective Conan: Black Iron Submarine,2023,109.0,Yuzuru Tachikawa,"Minami Takayama, Megumi Hayashibara, Rikiya Koyama","Animation, Action, Adventure",7.2
+846,The Well,2023,91.0,Federico Zampaglione,"Claudio Nathan Brezzi, Gianluigi Calvani, Yassine Fadel",Horror,5.0
+847,Wrongful Death,2023,86.0,Vjekoslav Katusin,"Isabella Brenza, Michael Paré, Alexander Man","Horror, Mystery, Thriller",4.8
+848,Love Reset,2023,119.0,Nam Dae-joong,"Kang Ha-neul, Jung So-min, Im Chul-hyung","Comedy, Romance",6.8
+849,Month of Madhu,2023,140.0,Srikanth Nagothi,"Naveen Chandra, Swathi Reddy, Shreya Navile","Drama, Romance",6.8
+850,"Mother, May I?",2023,99.0,Laurence Vannicelli,"Holland Roden, Kyle Gallner, Chris Mulkey","Horror, Thriller",5.0
+851,Tatami,2023,105.0,"Zar Amir Ebrahimi, Guy Nattiv","Arienne Mandi, Zar Amir Ebrahimi, Jaime Ray Newman","Drama, Sport, Thriller",7.5
+852,Sons of Summer,2023,88.0,Clive Fleury,"Temuera Morrison, Isabel Lucas, Joe Davidson","Action, Crime, Mystery",3.7
+853,Christy,2023,141.0,Alvin Henry,"Malavika Mohanan, Mathew Thomas, Muthumani","Comedy, Drama, Romance",4.8
+854,Cold Meat,2023,90.0,Sébastien Drouin,"Allen Leech, Nina Bergman, Yan Tual",Thriller,5.3
+855,Deep Sea,2023,112.0,Xiaopeng Tian,"Xin Su, Tingwen Wang, Kuixing Teng","Animation, Adventure, Drama",6.7
+856,Var Padharavo Saavdhan,2023,135.0,Vipul Sharma,"Tushar Sadhu, Kinjal Rajpriya, Ragi Jani","Drama, Family",3.7
+857,Onyx the Fortuitous and the Talisman of Souls,2023,108.0,Andrew Bowser,"Andrew Bowser, Rivkah Reyes, Melanie Chandra","Comedy, Horror",6.2
+858,Chaver,2023,128.0,Tinu Pappachan,"Kunchacko Boban, Arjun Ashokan, Antony Varghese","Crime, Thriller",6.2
+859,j-hope IN THE BOX,2023,85.0,Park Jun-soo,"j-hope, J. Cole, Becky G","Documentary, Music",8.4
+860,Dangerous Waters,2023,101.0,John Barr,"Odeya Rush, Eric Dane, Saffron Burrows",Thriller,5.2
+861,Sakra,2023,130.0,"Donnie Yen, Ka-Wai Kam","Donnie Yen, Yuqi Chen, Yase Liu","Action, Adventure",5.7
+862,Ayisha,2023,153.0,"Aamir Pallikkal, Sanju Ambadi","Manju Warrier, S.V. Krishna Shankar, Radhika","Comedy, Drama, Family",5.9
+863,C.S.I Sanatan,2023,,Sivashankar Dev,"Aadi, Misha Narang, Nandini Rai","Crime, Thriller",4.6
+864,Aporia,2023,104.0,Jared Moshe,"Judy Greer, Edi Gathegi, Payman Maadi","Drama, Sci-Fi",5.6
+865,Gajaman,2023,99.0,Chanaka Perera,"Suneth Chithrananda, Gaminda Priyaviraj, Dasun Pathirana","Animation, Comedy, Romance",8.1
+866,From Black,2023,100.0,Thomas Marchese,"Anna Camp, John Ales, Jennifer Lafleur",Horror,5.0
+867,Fear,2023,98.0,Deon Taylor,"Joseph Sikora, Andrew Bachelor, Annie Ngosi Ilonzeh",Horror,3.7
+868,Escape,2023,93.0,Howard J. Ford,"Sarah Alexandra Marks, Sophie Rankin, Sean Cronin",Thriller,5.1
+869,Left Behind: Rise of the Antichrist,2023,115.0,Kevin Sorbo,"Kevin Sorbo, Neal McDonough, Bailey Chase","Action, Drama, Mystery",4.5
+870,Hwjn,2023,126.0,Yasir Alyasiri,"Baraa Alem, Naif Aldaferi, Nour Alkhadra","Fantasy, Romance",6.0
+871,Founders Day,2023,106.0,Erik Bloomquist,"Naomi Grace, Devin Druid, William Russ","Comedy, Horror, Mystery",4.4
+872,Heist 88,2023,83.0,Menhaj Huda,"Courtney B. Vance, Dwayne Johnson-Cochran, Bentley Green","Crime, Drama",5.3
+873,Miranda's Victim,2023,127.0,Michelle Danner,"Ryan Phillippe, Kyle MacLachlan, Emily VanCamp","Crime, Drama",6.7
+874,Unseen,2023,76.0,Yoko Okumura,"Midori Francis, Jolene Purdy, Michael Patrick Lane","Horror, Thriller",5.8
+875,Victim/Suspect,2023,90.0,Nancy Schwartzman,"Lisa Avalos, Dyanie Bermeo, Rachel de Leon","Documentary, Crime",6.8
+876,Maboroshi,2023,111.0,"Mari Okada, Seimei Kidokoro","Jun'ya Enoki, Reina Ueda, Misaki Kuno","Animation, Drama, Fantasy",6.3
+877,The Naughty Nine,2023,83.0,Alberto Belli,"Danny Glover, Lindura, Camila Rodriguez","Adventure, Comedy, Crime",5.3
+878,Mayapetika,2023,142.0,Ramesh Raparthi,"Payal Rajput, Rajath Raghav, Viraj Ashwin","Comedy, Drama",4.6
+879,UT69,2023,117.0,Shahnawaz Ali,"Raj Kundra, Anand Alkunte, Asad Alvi",Drama,4.7
+880,Zoey 102,2023,101.0,Nancy Hower,"Jamie Lynn Spears, Sean Flynn, Erin Sanders","Comedy, Drama, Family",4.9
+881,My Name Is Shruthi,2023,130.0,Srinivas Omkar,"Hansika Motwani, Darbha Appaji Ambarisha, Murli Sharma",Thriller,6.2
+882,Bubblegum,2023,146.0,Ravikanth Perepu,"Roshan Kanakala, Manasa Chowdary, Harsha Chemudu","Action, Drama, Romance",6.2
+883,Shastry Viruddh Shastry,2023,140.0,"Shiboprosad Mukherjee, Nandita Roy","Kabir Pahwa, Paresh Rawal, Shiv Panditt",Drama,6.9
+884,Dark Obsession,2023,96.0,George Henry Horton,"Blaine Morris, Mena Suvari, Leonard Amoia",Thriller,5.3
+885,Minus 31: The Nagpur Files,2023,134.0,Pratik Moitro,"Raghubir Yadav, Rucha Inamdar, Rajesh Sharma","Crime, Music, Mystery",5.3
+886,Dovbush,2023,124.0,Oles Sanin,"Sergey Strelnikov, Oleksiy Hnatkovskyy, Daria Plakhtii","Action, Adventure, Drama",7.5
+887,The Angry Black Girl and Her Monster,2023,91.0,Bomani J. Story,"Laya DeLeon Hayes, Denzel Whitaker, Chad L. Coleman","Drama, Fantasy, Horror",5.3
+888,Maujaan Hi Maujaan,2023,110.0,Smeep Kang,"Gippy Grewal, Binnu Dhillon, Karamjit Anmol",Comedy,6.3
+889,The Seeding,2023,100.0,Barnaby Clay,"Scott Haze, Kate Lyn Sheil, Alex Montaldo","Horror, Thriller",5.0
+890,Odavum Mudiyadhu Oliyavum Mudiyadhu,2023,120.0,Ramesh Venkat,"Yaashika Aanand, Charukesh, Senathipathi Dharma","Comedy, Horror",3.4
+891,The Island,2023,93.0,Shaun Paul Piccinino,"Michael Jai White, Gillian White, Jackson Rathbone","Action, Thriller",4.6
+892,Dochevaarevarura,2023,,Siva Nageshwara Rao,"Ajay Ghosh, Gopal Krishna Akella, Tanikella Bharani","Comedy, Crime, Thriller",7.2
+893,The Flood,2023,93.0,Brandon Slagle,"Casper Van Dien, Nicky Whelan, Louis Mandylor","Action, Horror, Thriller",3.2
+894,Japan,2023,156.0,Raju Murugan,"Karthi, Sunil, K.S. Ravikumar","Action, Comedy, Crime",3.2
+895,River,2023,86.0,Junta Yamaguchi,"Riko Fujitani, Manami Honjô, Gôta Ishida","Comedy, Fantasy, Sci-Fi",6.9
+896,Pookkaalam,2023,137.0,Ganesh Raj,"Vijayaraghavan, K.P.A.C. Leela, Basil Joseph","Comedy, Drama, Family",7.3
+897,Murderess,2023,97.0,Eva Nathena,"Karyofyllia Karabeti, Maria Protopappa, Elena Topalidou",Drama,7.3
+898,Mercy,2023,85.0,Tony Dean Smith,"Leah Gibson, Jonathan Rhys Meyers, Jon Voight","Action, Drama",4.5
+899,A Deadly Invitation,2023,92.0,"J.M Cravioto, Josh Greenfield","Maribel Verdú, Manolo Cardona, Stephanie Cayo","Comedy, Mystery, Thriller",5.1
+900,Dhak Dhak,2023,140.0,Tarun Dudeja,"Ratna Pathak Shah, Fatima Sana Shaikh, Dia Mirza",Drama,6.3
+901,The Collective,2023,86.0,Tom DeNucci,"Lucas Till, Ruby Rose, Don Johnson","Action, Thriller",3.3
+902,Atatürk: 1881-1919,2023,132.0,Mehmet Ada Öztekin,"Aras Bulut Iynemli, Sarp Akkaya, Bertan Asllani","Biography, Drama, History",8.8
+903,Tumse Na Ho Payega,2023,132.0,Abhishek Sinha,"Ishwak Singh, Saurabh Sharma, Lovlesh Khaneja",Comedy,7.6
+904,Irena's Vow,2023,121.0,Louise Archambault,"Sophie Nélisse, Dougray Scott, Andrzej Seweryn","Drama, War",6.7
+905,Extra Ordinary Man,2023,157.0,Vakkantham Vamsi,"Nithiin, Sreeleela, Rajasekhar","Action, Comedy, Crime",5.1
+906,LehmberGinni,2023,117.0,Ishan Chopra,"Mahira Sharma, Ravi Multani, Nirmal Rishi",Comedy,5.9
+907,Iraivan,2023,154.0,I. Ahmed,"Ravi Mohan, Nayanthara, Vijayalakshmi Ahathian","Action, Crime, Drama",4.7
+908,Aybüke: Ögretmen Oldum Ben!,2023,95.0,Murat Onbul,"Nihayet Sahin, Caner Kurtaran, Zeynep Kankonde","Biography, Drama",7.8
+909,Sound Party,2023,125.0,Sanjay Sheri,"VJ Sunny, Hrithika Srinivas, Sivannarayana",Comedy,6.2
+910,Slow,2023,108.0,Marija Kavtaradze,"Greta Grineviciute, Kestutis Cicenas, Pijus Ganusauskas","Drama, Romance",7.1
+911,Bholaa Shankar,2023,159.0,Meher Ramesh,"Chiranjeevi, Tamannaah Bhatia, Keerthy Suresh","Action, Crime, Drama",3.3
+912,Takkar,2023,138.0,Karthik G. Krish,"Siddharth, Divyansha Kaushik, Yogi Babu","Action, Drama, Romance",5.4
+913,Darkland: The Return,2023,110.0,Fenar Ahmad,"Dar Salim, Birgitte Hjort Sørensen, Stine Fischer Christensen","Action, Thriller",6.3
+914,One Day as a Lion,2023,87.0,John Swab,"Scott Caan, Frank Grillo, Marianne Rendón","Action, Comedy, Thriller",5.2
+915,Bairan Palli,2023,91.0,Kacharla Venkat,"Prem Sagar, Prabhavati, P. Vijay Kumar","Horror, Thriller",8.1
+916,Ganaa,2023,,Medapati Vijay Krishna,"Medapati Vijay Krishna, Yogisha Sukanya, Teju Anupoju",Crime,6.7
+917,Bye Bye Barry,2023,92.0,"Paul Monusky, Micaela Powers, Angela Torma","Barry Sanders, Troy Aikman, Tim Allen","Documentary, Sport",7.7
+918,Two Souls,2023,134.0,Shravan,"Trinadh Varma Kalidindi, Bhavana Sagi, Mounika Reddy","Fantasy, Romance",6.9
+919,Lonesome Soldier,2023,109.0,Nino Aldi,"John Ashton, Allison McAtee, Alexander Randazzo","Biography, Drama, Thriller",6.0
+920,Blood for Dust,2023,98.0,Rod Blackhurst,"Scoot McNairy, Kit Harington, Josh Lucas","Action, Crime, Thriller",5.2
+921,Black Noise,2023,86.0,Philippe Martinez,"Alex Pettyfer, Jackson Rathbone, Eve Mauro","Action, Sci-Fi",3.0
+922,Vaalvi,2023,106.0,Paresh Mokashi,"Swapnil Joshi, Anita Date-Kelkar, Namrata Awate Sambherao","Comedy, Drama, Thriller",8.3
+923,One and Only,2023,124.0,Da Peng,"Huang Bo, Yibo Wang, Mintao Liu","Comedy, Drama, Sport",6.8
+924,Nunta Pe Ban,2023,96.0,Cristian Ilisuan,"Mircea Popa, Alexandra Spatarelu, Adrian Cucu",Comedy,7.0
+925,Dahanam,2023,137.0,Adari Murthy Sai,"Aditya Om, Sony Reddy, Rajeev",Drama,8.8
+926,Finding Michael,2023,100.0,Tom Beard,"Bear Grylls, Spencer Matthews, Dhuru Patel",Documentary,5.9
+927,Once Upon a Crime,2023,107.0,Yûichi Fukuda,"Kanna Hashimoto, Yûko Araki, Takanori Iwata","Adventure, Comedy, Crime",5.3
+928,Hitmen,2023,109.0,Savvas D. Michael,"Eric Roberts, Jan Anderson, Bentley Kalu",Action,4.0
+929,La Vaste,2023,116.0,Sudeesh Kanaujia,"Omkar Kapoor, Abhishek Chaudhary, Rajesh Bonik",Thriller,5.4
+930,Happy Ending,2023,92.0,Joosje Duk,"Denise Aznam, Claire Bender, Kanea Blokland","Comedy, Romance",5.4
+931,A Guilty Conscience,2023,135.0,Wai-Lun Ng,"Dayo Wong, Louise Wong, Kai-Wa Ho","Comedy, Crime, Mystery",7.2
+932,The Vourdalak,2023,90.0,Adrien Beau,"Kacey Mottet Klein, Ariane Labed, Grégoire Colin","Drama, Fantasy, Horror",6.4
+933,Anveshi,2023,137.0,V.J. Khanna,"Vijay Dharan Datla, Ajay Ghosh, Simran Gupta","Romance, Thriller",6.3
+934,Janam,2023,129.0,Venkata Ramana Pasupuleti,"Ajay Ghosh, Jayavani, K Kishore",Drama,9.3
+935,Non Stop Dhamaal,2023,100.0,Irshad Khan,"Annu Kapoor, Manoj Joshi, Rajpal Naurang Yadav",Comedy,5.0
+936,Medellin,2023,104.0,Franck Gastambide,"Franck Gastambide, Ramzy Bedia, Anouar Toubali","Action, Comedy",4.9
+937,Sagiletikatha,2023,115.0,Rajasekhar Sudmoon,"Rajasekhar Aningi, Vishika Kota, Ravi Teja Mahadasyam",Drama,6.0
+938,Vadu Evadu,2023,141.0,Narayanapuram Srinivas,"Babu Dev, Julee, Julee",Thriller,6.3
+939,All-Time High,2023,101.0,Julien Hollande,"Nassim Lyes, Zoé Marchal, Adrien Essamir",Comedy,5.8
+940,Rent,2023,100.0,Raguvardan Reddy,"Shivani Sharma, Manisha Jasnani, Meka Rama Krishna","Crime, Horror",3.8
+941,Dinosaurs,2023,150.0,M.R Madhavan,"Sathish Prabhu, Kavin Jay Babu, T.N. Arun Balaji",Crime,6.4
+942,Amelia's Children,2023,91.0,Gabriel Abrantes,"Jack Haven, Carloto Cotta, Anabela Moreira","Horror, Thriller",5.2
+943,Sijjin,2023,100.0,Hadrah Daeng Ratu,"Ibrahim Risyad, Anggika Bolsterli, Messi Gusti","Horror, Thriller",5.5
+944,Scout's Honor: The Secret Files of the Boy Scouts of America,2023,94.0,Brian Knappenberger,"Michael Johnson, Patrick Boyle, Christopher Hurley","Documentary, Crime",7.0
+945,Currency Nagar,2023,125.0,Vennela Kumar Pothepalli,"Sudharshan, Goutham Kumar, Mahesh Yadlapalli","Drama, Romance, Thriller",8.5
+946,Limbo,2023,108.0,Ivan Sen,"Simon Baker, Rob Collins, Natasha Wanganeen","Crime, Drama, Mystery",6.2
+947,Malibu Horror Story,2023,83.0,Scott Slone,"Dylan Sprayberry, Robert Bailey Jr., Valentina de Angelis","Horror, Thriller",4.7
+948,Anselm,2023,93.0,Wim Wenders,"Anselm Kiefer, Daniel Kiefer, Anton Wenders",Documentary,7.2
+949,Long Live Love!,2023,135.0,Piyakarn Butprasert,"Sunny Suwanmethanont, Araya A. Hargate, Rebecca Patricia 'Becky' Armstrong","Comedy, Drama, Romance",6.6
+950,Parari,2023,139.0,Sai Sivaji,"Bhupal, Shiwani Saini, Sayaji Shinde",Action,6.7
+951,Maro Prapancham,2023,109.0,Kilaru Naveen,"Venkat Kiran, Akshika Vidvat, Yamin Raaz","Drama, Sci-Fi, Thriller",7.3
+952,Mr. Kalyan,2023,,"Pandu, Srinivas Roy","Sapthagiri, Dhanraj, Thagubothu Ramesh","Drama, Romance",6.3
+953,Guns Trance Action,2023,122.0,Deepak Sidhanth,"Chaithanya Pasupuleti, Heena Rai, Sudharshan","Action, Crime, Drama",6.8
+954,Dhimahi,2023,124.0,"Naveen Kante, Saahas Pagadala","Saahas Pagadala, Nikhita Chopra, Ashika Pagadala",Thriller,7.6
+955,Dalari,2023,114.0,Gopal Reddy Kachidi,"Rajeev Kanakala, Shakalaka Shankar, Aqsa Khan",,7.9
+956,The Engineer,2023,92.0,Danny A. Abeckaser,"Emile Hirsch, Robert Davi, Danny A. Abeckaser","Action, Thriller",4.3
+957,Cobweb,2023,135.0,Kim Jee-woon,"Song Kang-ho, Lim Soo-jung, Oh Jung-se","Comedy, Drama, History",6.6
+958,#NOVA,2023,52.0,Dan Pe'er,Yuval Raphael,Documentary,7.4
+959,Upendra Gadi Adda,2023,130.0,Aryan Subhan,"Sandhya Janak, Upendra Kancharla, Kireeti",Action,7.4
+960,Believer 2,2023,114.0,Jong-Yeol Baek,"Kim Dong-young, Andreas Fronk, Han Hyo-joo","Action, Crime, Thriller",5.6
+961,Man Suang,2023,128.0,"Ning Bhanbhassa Dhubtien, Chartchai Ketnust, Pond Krisda Witthayakhajorndet","Apo Nattawin Wattanagitiphat, Mile Phakphum Romsaithong, Bas Asavapatr Ponpiboon","Drama, History, Mystery",6.7
+962,Sacred Demijohn 4,2023,96.0,Kamil Çetin,"Safak Sezer, Ersin Korkut, Müjde Uzman",Comedy,2.8
+963,Pictures of Ghosts,2023,93.0,Kleber Mendonça Filho,"Kleber Mendonça Filho, Rubens Santos, Sonia Braga",Documentary,7.6
+964,The Face of the Faceless,2023,136.0,Shaison P Ouseph,"Jeett Matharu, Stanley Kozhichira, Vincy Aloshious",Drama,7.6
+965,Ashtadigbandhanam,2023,135.0,Baba PR,"Surya Bharath Chandra, Vijay Kandagatla, Vishika Kota","Action, Adventure, Mystery",6.8
+966,Bama Rush,2023,100.0,Rachel Fleit,"Shelby Rose, Isabelle Eacrett, Makalya Miller",Documentary,4.3
+967,The Reading,2023,96.0,Courtney Glaude,"Mo'Nique, Chasity Sereal, Denisha Hardeman",Thriller,5.3
+968,Pichaikkaran 2,2023,148.0,Vijay Antony,"Vijay Antony, Kavya Thapar, Y.G. Mahendran","Action, Drama, Sci-Fi",5.7
+969,Clinic,2023,89.0,"Aleshia Cowser Jackson, Aarron Tyson","Candice Marie Singleton, Alex Will Brooks, Shavonia Jones",Thriller,3.0
+970,A Journey to Kasi,2023,127.0,Munikishna,"Akshara, Katalyn Gowda, Chaitanya Madadi",Drama,6.9
+971,Error 500,2023,109.0,Saandip Mytreya,"Jaswanth, Thrinadh Varma, Nakshatra Trinayani","Action, Sport, Thriller",7.2
+972,Dilli Dark,2023,100.0,Dibakar Das Roy,"Samuel Abiola Robinson, Geetika Vidya Ohlyan, Shantanu Anam",Comedy,7.9
+973,Das Ka Dhamki,2023,140.0,Vishwak Sen,"Vishwak Sen, Nivetha Pethuraj, Rao Ramesh","Comedy, Drama, Thriller",6.1
+974,Louis Tomlinson: All of Those Voices,2023,108.0,Charlie Lightening,"Louis Tomlinson, Isaac Anderson, Steve Aoki","Documentary, Biography, Music",8.6
+975,Together 99,2023,115.0,Lukas Moodysson,"David Dencik, Jonas Karlsson, Sten Ljunggren","Comedy, Drama",5.9
+976,Alhamour H.A.,2023,120.0,Abdulelah Alqurashi,"Fahad Alqahtani, Khaled Yeslam, Ali Al Sharif","Biography, Comedy, Crime",7.1
+977,Rudramkota,2023,123.0,Ramu Kona,"Anil Arka, Alekhya Gadamboina, Vibhisha Jaanu","Action, Adventure, Drama",6.6
+978,Friday Night Plan,2023,108.0,Vatsal Neelakantan,"Babil Khan, Amrith Jayan, Medha Rana","Comedy, Drama",6.5
+979,Shaan,2023,121.0,Kumar Yadav,"Kumar Yadav, Priya Deshpag, Vangmay Patel","Action, Drama, Romance",7.5
+980,The Subtle Art of Not Giving a F*ck,2023,97.0,Nathan Price,"Mark Manson, Michael Hockey, Max Houston",Documentary,5.9
+981,Sirimalle Puvva,2023,135.0,"Goutham, Goutham Mylavaram","Srikar, Sravani, Ajay Ghosh",Drama,7.3
+982,The Accident,2023,127.0,Chandrasekhar Duvvuri,"Amith Reddy, Divi Vadthya, Chandra Sekhara Azad","Horror, Thriller",7.0
+983,Prestij Meselesi,2023,120.0,Mahsun Kirmizigül,"Ali Erkin Acir, Kerem Atasavun, Gülden Avsaroglu","Biography, Drama, Music",6.1
+984,Love You Too,2023,161.0,Yogee Qumaar,"Aata Sandeep, Prachi Thaker, Jyothi Raj Sandeep","Drama, Romance",7.1
+985,Northern Comfort,2023,97.0,Hafsteinn Gunnar Sigurðsson,"Lydia Leonard, Timothy Spall, Ella Rumpf",Comedy,5.5
+986,The Imaginary,2023,105.0,Yoshiyuki Momose,"Kokoro Terada, Rio Suzuki, Sakura Andô","Animation, Adventure, Drama",6.7
+987,Mark Cavendish: Never Enough,2023,91.0,Alex Kiehl,Mark Cavendish,"Documentary, Biography, Sport",7.4
+988,Jaitra,2023,,Thota Mallikarjuna,"Sunny Naveen, Rohini Rachel, Vamsi Nakkanti",Comedy,6.1
+989,"Ice Cold: Murder, Coffee and Jessica Wongso",2023,86.0,Rob Sixsmith,"Dale, Fristian Griec, Otto Hasibuan","Documentary, Crime",5.9
+990,The Gullspång Miracle,2023,108.0,Maria Fredriksson,"Olaug Bakkevoll, Pauline Dahl, Jan Fjelltun","Documentary, Mystery",7.0
+991,The Pigeon Tunnel,2023,92.0,Errol Morris,"Jake Dove, Charlotte Hamblin, Garry Cooper","Documentary, Biography",7.0
+992,Perfume,2023,122.0,J. D Swamy,"Abhinaya, Keshav Deepak, Prachi Thaker","Romance, Thriller",7.9
+993,Kleks Academy,2023,130.0,Maciej Kawulski,"Tomasz Kot, Antonina Litwiniak, Piotr Fronczewski",Fantasy,4.6
+994,The Final Race,2023,111.0,Edward af Sillén,"David Hellenius, Axel Adelöw, Malin Akerman","Action, Comedy, Family",5.1
+995,All the Names of God,2023,105.0,Daniel Calparsoro,"Luis Tosar, Inma Cuesta, Nourdin Batan","Action, Adventure, Drama",5.8
+996,Organ Trail,2023,112.0,Michael Patrick Jann,"Zoé de Grand'Maison, Mather Zickel, Lisa LoCicero","Drama, Horror, Thriller",5.0
+997,Death's Roulette,2023,94.0,Manolo Cardona,"Manolo Cardona, Maribel Verdú, Carla Adell","Drama, Mystery, Thriller",5.5
+998,Mountain Queen: The Summits of Lhakpa Sherpa,2023,105.0,Lucy Walker,"Lhakpa Sherpa, Shiny Dijmarescu, Sunny Dijmarescu",Documentary,7.6
+999,Kill Shot,2023,93.0,Ari Novak,"Rib Hillis, Rachel Cook, Bobby Maximus",Action,3.3
+1000,Agent,2023,156.0,Surender Reddy,"Akhil Akkineni, Mammootty, Sakshi Vaidya","Action, Mystery, Thriller",3.6

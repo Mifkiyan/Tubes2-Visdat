@@ -1,0 +1,1001 @@
+﻿ID,Name,Year,Duration,Directors,Actors,Genres,Rating
+1,Dune: Part Two,2024,166.0,Denis Villeneuve,"Timothée Chalamet, Zendaya, Rebecca Ferguson","Action, Adventure, Drama",8.5
+2,Deadpool & Wolverine,2024,128.0,Shawn Levy,"Ryan Reynolds, Hugh Jackman, Emma Corrin","Action, Adventure, Comedy",7.5
+3,The Substance,2024,141.0,Coralie Fargeat,"Demi Moore, Margaret Qualley, Dennis Quaid","Drama, Horror, Sci-Fi",7.2
+4,Furiosa: A Mad Max Saga,2024,148.0,George Miller,"Anya Taylor-Joy, Chris Hemsworth, Tom Burke","Action, Adventure, Sci-Fi",7.5
+5,Alien: Romulus,2024,119.0,Fede Alvarez,"Cailee Spaeny, David Jonsson, Archie Renaux","Horror, Sci-Fi, Thriller",7.1
+6,Gladiator II,2024,148.0,Ridley Scott,"Paul Mescal, Denzel Washington, Pedro Pascal","Action, Adventure, Drama",6.5
+7,Civil War,2024,109.0,Alex Garland,"Kirsten Dunst, Wagner Moura, Cailee Spaeny","Action, Thriller",7.0
+8,The Fall Guy,2024,126.0,David Leitch,"Ryan Gosling, Emily Blunt, Aaron Taylor-Johnson","Action, Comedy, Drama",6.8
+9,Inside Out 2,2024,96.0,Kelsey Mann,"Amy Poehler, Maya Hawke, Kensington Tallman","Animation, Adventure, Comedy",7.5
+10,Nosferatu,2024,132.0,Robert Eggers,"Lily-Rose Depp, Nicholas Hoult, Bill Skarsgård","Fantasy, Horror, Mystery",7.2
+11,Anora,2024,139.0,Sean Baker,"Mikey Madison, Paul Weissman, Yura Borisov","Comedy, Drama, Romance",7.5
+12,Conclave,2024,120.0,Edward Berger,"Ralph Fiennes, Stanley Tucci, John Lithgow","Drama, Thriller",7.4
+13,Longlegs,2024,101.0,Osgood Perkins,"Maika Monroe, Nicolas Cage, Blair Underwood","Crime, Horror, Thriller",6.6
+14,The Wild Robot,2024,102.0,Chris Sanders,"Lupita Nyong'o, Pedro Pascal, Kit Connor","Animation, Sci-Fi",8.2
+15,Twisters,2024,122.0,Lee Isaac Chung,"Daisy Edgar-Jones, Glen Powell, Anthony Ramos","Action, Adventure, Thriller",6.5
+16,Road House,2024,121.0,Doug Liman,"Jake Gyllenhaal, Daniela Melchior, Conor McGregor","Action, Drama, Thriller",6.2
+17,Carry-On,2024,119.0,Jaume Collet-Serra,"Taron Egerton, Jason Bateman, Sofia Carson","Action, Crime, Thriller",6.5
+18,Wicked,2024,160.0,Jon M. Chu,"Cynthia Erivo, Ariana Grande, Jeff Goldblum","Fantasy, Musical, Romance",7.5
+19,Joker: Folie à Deux,2024,138.0,Todd Phillips,"Joaquin Phoenix, Lady Gaga, Brendan Gleeson","Drama, Musical, Thriller",5.2
+20,The Beekeeper,2024,105.0,David Ayer,"Jason Statham, Emmy Raver-Lampman, Bobby Naderi","Action, Crime, Thriller",6.3
+21,Challengers,2024,131.0,Luca Guadagnino,"Mike Faist, Josh O'Connor, Zendaya","Comedy, Drama, Romance",7.0
+22,Kingdom of the Planet of the Apes,2024,145.0,Wes Ball,"Owen Teague, Freya Allan, Kevin Durand","Action, Adventure, Drama",6.9
+23,A Quiet Place: Day One,2024,99.0,Michael Sarnoski,"Lupita Nyong'o, Joseph Quinn, Alex Wolff","Drama, Horror, Sci-Fi",6.3
+24,Beetlejuice Beetlejuice,2024,105.0,Tim Burton,"Michael Keaton, Winona Ryder, Catherine O'Hara","Comedy, Fantasy, Horror",6.6
+25,Heretic,2024,111.0,"Scott Beck, Bryan Woods","Hugh Grant, Sophie Thatcher, Chloe East","Horror, Thriller",7.0
+26,Trap,2024,105.0,M. Night Shyamalan,"Josh Hartnett, Ariel Donoghue, Saleka Shyamalan","Crime, Horror, Mystery",5.8
+27,Red One,2024,123.0,Jake Kasdan,"Dwayne Johnson, Chris Evans, Lucy Liu","Action, Adventure, Comedy",6.3
+28,The Ministry of Ungentlemanly Warfare,2024,122.0,Guy Ritchie,"Henry Cavill, Alan Ritchson, Alex Pettyfer","Action, Comedy, War",6.8
+29,Venom: The Last Dance,2024,110.0,Kelly Marcel,"Tom Hardy, Chiwetel Ejiofor, Juno Temple","Action, Adventure, Sci-Fi",6.0
+30,Godzilla x Kong: The New Empire,2024,115.0,Adam Wingard,"Rebecca Hall, Brian Tyree Henry, Dan Stevens","Action, Adventure, Fantasy",6.0
+31,Smile 2,2024,127.0,Parker Finn,"Naomi Scott, Rosemarie DeWitt, Lukas Gage","Horror, Mystery, Thriller",6.7
+32,Damsel,2024,110.0,Juan Carlos Fresnadillo,"Millie Bobby Brown, Ray Winstone, Angela Bassett","Action, Adventure, Fantasy",6.1
+33,I'm Still Here,2024,137.0,Walter Salles,"Fernanda Torres, Fernanda Montenegro, Selton Mello","Biography, Drama, History",8.2
+34,Blink Twice,2024,102.0,Zoë Kravitz,"Naomi Ackie, Channing Tatum, Alia Shawkat","Mystery, Thriller",6.5
+35,Moana 2,2024,100.0,"David G. Derrick Jr., Jason Hand, Dana Ledoux Miller","Auli'i Cravalho, Dwayne Johnson, Hualalai Chung","Animation, Adventure, Comedy",6.6
+36,Speak No Evil,2024,110.0,James Watkins,"James McAvoy, Mackenzie Davis, Scoot McNairy","Drama, Horror, Thriller",6.8
+37,Madame Web,2024,116.0,S.J. Clarkson,"Dakota Johnson, Sydney Sweeney, Isabela Merced","Action, Thriller",4.0
+38,Juror #2,2024,114.0,Clint Eastwood,"Nicholas Hoult, Toni Collette, J.K. Simmons","Crime, Drama, Mystery",7.0
+39,Bad Boys: Ride or Die,2024,115.0,"Adil El Arbi, Bilall Fallah","Will Smith, Martin Lawrence, Vanessa Hudgens","Action, Adventure, Comedy",6.5
+40,A Real Pain,2024,90.0,Jesse Eisenberg,"Kieran Culkin, Jesse Eisenberg, Olha Bosova","Comedy, Drama",7.1
+41,Abigail,2024,109.0,"Matt Bettinelli-Olpin, Tyler Gillett","Melissa Barrera, Dan Stevens, Alisha Weir","Horror, Thriller",6.5
+42,Ghostbusters: Frozen Empire,2024,115.0,Gil Kenan,"Paul Rudd, Carrie Coon, Finn Wolfhard","Adventure, Comedy, Fantasy",6.1
+43,Argylle,2024,139.0,Matthew Vaughn,"Henry Cavill, Bryce Dallas Howard, Sam Rockwell","Action, Comedy, Thriller",5.6
+44,Monkey Man,2024,121.0,Dev Patel,"Dev Patel, Sharlto Copley, Pitobash","Action, Crime, Thriller",6.8
+45,Emilia Pérez,2024,132.0,Jacques Audiard,"Zoe Saldaña, Karla Sofía Gascón, Selena Gomez","Crime, Drama, Musical",5.4
+46,Rebel Ridge,2024,131.0,Jeremy Saulnier,"Aaron Pierre, Don Johnson, AnnaSophia Robb","Action, Crime, Drama",6.8
+47,The Brutalist,2024,216.0,Brady Corbet,"Adrien Brody, Felicity Jones, Guy Pearce",Drama,7.4
+48,It Ends with Us,2024,130.0,Justin Baldoni,"Blake Lively, Justin Baldoni, Jenny Slate","Drama, Romance",6.3
+49,A Complete Unknown,2024,141.0,James Mangold,"Timothée Chalamet, Edward Norton, Elle Fanning","Biography, Drama, Music",7.4
+50,Wolfs,2024,108.0,Jon Watts,"George Clooney, Brad Pitt, Amy Ryan","Crime, Thriller",6.5
+51,Beverly Hills Cop: Axel F,2024,118.0,Mark Molloy,"Eddie Murphy, Joseph Gordon-Levitt, Taylour Paige","Action, Comedy, Crime",6.4
+52,Flow,2024,85.0,Gints Zilbalodis,,"Animation, Adventure, Family",7.9
+53,Bhool Bhulaiyaa 3,2024,158.0,Anees Bazmee,"Kartik Aaryan, Vidya Balan, Madhuri Dixit","Comedy, Fantasy, Horror",4.7
+54,Singham Again,2024,144.0,Rohit Shetty,"Ajay Devgn, Kareena Kapoor, Deepika Padukone","Action, Crime, Drama",4.6
+55,The Idea of You,2024,115.0,Michael Showalter,"Anne Hathaway, Nicholas Galitzine, Ella Rubin","Comedy, Drama, Romance",6.3
+56,MaXXXine,2024,103.0,Ti West,"Charley Rowan McCain, Simon Prast, Mia Goth","Crime, Horror",6.2
+57,Kung Fu Panda 4,2024,94.0,"Mike Mitchell, Stephanie Stine","Jack Black, Awkwafina, Viola Davis","Animation, Action, Adventure",6.3
+58,Maharaja,2024,141.0,Nithilan Saminathan,"Vijay Sethupathi, Anurag Kashyap, Mamta Mohandas","Action, Crime, Drama",8.4
+59,Do Patti,2024,126.0,Shashanka Chaturvedi,"Kajol, Kriti Sanon, Shaheer Sheikh","Crime, Drama, Mystery",6.3
+60,Mufasa: The Lion King,2024,118.0,Barry Jenkins,"Aaron Pierre, Kelvin Harrison Jr., Tiffany Boone","Animation, Adventure, Drama",6.6
+61,Kalki 2898 AD,2024,180.0,Nag Ashwin,"Prabhas, Amitabh Bachchan, Kamal Haasan","Action, Adventure, Drama",7.0
+62,Despicable Me 4,2024,94.0,"Chris Renaud, Patrick Delage","Steve Carell, Kristen Wiig, Pierre Coffin","Animation, Adventure, Comedy",6.2
+63,The First Omen,2024,119.0,Arkasha Stevenson,"Nell Tiger Free, Ralph Ineson, Sonia Braga",Horror,6.5
+64,Sonic the Hedgehog 3,2024,110.0,Jeff Fowler,"Jim Carrey, Ben Schwartz, Keanu Reeves","Action, Adventure, Comedy",6.9
+65,Babygirl,2024,114.0,Halina Reijn,"Nicole Kidman, Harris Dickinson, Antonio Banderas","Drama, Romance, Thriller",5.9
+66,Kraven the Hunter,2024,127.0,J.C. Chandor,"Aaron Taylor-Johnson, Ariana DeBose, Fred Hechinger","Action, Adventure, Thriller",5.5
+67,Kinds of Kindness,2024,164.0,Yorgos Lanthimos,"Emma Stone, Jesse Plemons, Willem Dafoe","Comedy, Drama, Horror",6.5
+68,Rebel Moon - Part Two: The Scargiver,2024,122.0,Zack Snyder,"Sofia Boutella, Djimon Hounsou, Ed Skrein","Action, Adventure, Drama",5.3
+69,IF,2024,104.0,John Krasinski,"Cailey Fleming, Ryan Reynolds, John Krasinski","Animation, Comedy, Drama",6.4
+70,The Apprentice,2024,122.0,Ali Abbasi,"Sebastian Stan, Jeremy Strong, Martin Donovan","Biography, Drama, History",7.1
+71,The Watchers,2024,102.0,Ishana Shyamalan,"Dakota Fanning, Georgina Campbell, Olwen Fouéré","Fantasy, Horror, Mystery",5.7
+72,Love Lies Bleeding,2024,104.0,Rose Glass,"Anna Baryshnikov, Kristen Stewart, Dave Franco","Action, Adventure, Crime",6.6
+73,Pushpa: The Rule - Part 2,2024,201.0,Sukumar,"Allu Arjun, Rashmika Mandanna, Fahadh Faasil","Action, Crime, Drama",6.1
+74,Ricky Stanicky,2024,113.0,Peter Farrelly,"Zac Efron, John Cena, Andrew Santino",Comedy,6.2
+75,Atlas,2024,118.0,Brad Peyton,"Jennifer Lopez, Simu Liu, Sterling K. Brown","Action, Adventure, Drama",5.6
+76,Shaitaan,2024,132.0,Vikas Bahl,"Ajay Devgn, Madhavan, Jyotika","Drama, Horror, Thriller",6.5
+77,We Live in Time,2024,108.0,John Crowley,"Andrew Garfield, Florence Pugh, Grace Delaney","Drama, Romance",7.0
+78,Teri Baaton Mein Aisa Uljha Jiya,2024,141.0,"Amit Joshi, Aradhana Sah","Shahid Kapoor, Kriti Sanon, Dharmendra","Comedy, Drama, Romance",6.2
+79,The Union,2024,107.0,Julian Farino,"Mark Wahlberg, Halle Berry, J.K. Simmons","Action, Comedy, Thriller",5.4
+80,Immaculate,2024,89.0,Michael Mohan,"Sydney Sweeney, Álvaro Morte, Simona Tabasco","Horror, Thriller",5.8
+81,Transformers One,2024,104.0,Josh Cooley,"Chris Hemsworth, Brian Tyree Henry, Scarlett Johansson","Animation, Action, Adventure",7.6
+82,Fighter,2024,166.0,Siddharth Anand,"Hrithik Roshan, Deepika Padukone, Anil Kapoor","Action, Drama",6.2
+83,Land of Bad,2024,113.0,William Eubank,"Liam Hemsworth, Russell Crowe, Luke Hemsworth","Action, Thriller",6.6
+84,Fly Me to the Moon,2024,132.0,Greg Berlanti,"Scarlett Johansson, Channing Tatum, Woody Harrelson","Comedy, Romance",6.6
+85,Murder Mubarak,2024,140.0,Homi Adajania,"Pankaj Tripathi, Sara Ali Khan, Vijay Varma","Comedy, Horror, Mystery",5.8
+86,Terrifier 3,2024,125.0,Damien Leone,"Lauren LaVera, David Howard Thornton, Antonella Rose",Horror,6.3
+87,Lift,2024,107.0,F. Gary Gray,"Kevin Hart, Gugu Mbatha-Raw, Sam Worthington","Action, Comedy, Crime",5.5
+88,Borderlands,2024,101.0,Eli Roth,"Cate Blanchett, Kevin Hart, Edgar Ramírez","Action, Adventure, Comedy",4.7
+89,The Order,2024,116.0,Justin Kurzel,"Jude Law, Nicholas Hoult, Tye Sheridan","Crime, Drama, Thriller",6.8
+90,The Goat Life,2024,173.0,Blessy,"Prithviraj Sukumaran, Jimmy Jean-Louis, K.r. Gokul","Adventure, Drama",7.1
+91,Oddity,2024,98.0,Damian Mc Carthy,"Carolyn Bracken, Gwilym Lee, Steve Wall","Horror, Thriller",6.7
+92,Caddo Lake,2024,103.0,"Logan George, Celine Held","Dylan O'Brien, Eliza Scanlen, Caroline Falk","Drama, Mystery, Sci-Fi",6.8
+93,Spaceman,2024,107.0,Johan Renck,"Adam Sandler, Carey Mulligan, Paul Dano","Adventure, Drama, Sci-Fi",5.7
+94,It's What's Inside,2024,103.0,Greg Jardin,"Brittany O'Grady, James Morosini, Gavin Leatherwood","Comedy, Mystery, Sci-Fi",6.6
+95,Stree 2: Sarkate Ka Aatank,2024,147.0,Amar Kaushik,"Rajkummar Rao, Shraddha Kapoor, Pankaj Tripathi","Comedy, Horror",6.9
+96,Madgaon Express,2024,143.0,Kunal Kemmu,"Divyendu Sharma, Pratik Gandhi, Avinash Tiwary","Comedy, Drama",7.0
+97,Horizon: An American Saga - Chapter 1,2024,181.0,Kevin Costner,"Kevin Costner, Sienna Miller, Sam Worthington","Drama, Western",6.6
+98,The Platform 2,2024,99.0,Galder Gaztelu-Urrutia,"Milena Smit, Hovik Keuchkerian, Natalia Tena","Horror, Sci-Fi, Thriller",4.9
+99,Auron Mein Kahan Dum Tha,2024,150.0,Neeraj Pandey,"Ajay Devgn, Tabu, Jimmy Shergill","Action, Crime, Drama",6.4
+100,My Old Ass,2024,89.0,Megan Park,"Maisy Stella, Aubrey Plaza, Percy Hynes White","Comedy, Drama, Romance",6.9
+101,Color of Victory,2024,157.0,"Abdullah Oguz, Bekir Dadas","Kubilay Aka, Gülper Özdemir, Nejat Isler","Drama, History, Sport",6.1
+102,Don't Move,2024,92.0,"Brian Netto, Adam Schindler","Kelsey Asbille, Finn Wittrock, Moray Treadwell","Horror, Thriller",5.8
+103,Vettaiyan,2024,163.0,T.J. Gnanavel,"Amitabh Bachchan, Fahadh Faasil, Rajinikanth","Action, Crime, Drama",6.9
+104,Bade Miyan Chote Miyan,2024,163.0,Ali Abbas Zafar,"Akshay Kumar, Prithviraj Sukumaran, Tiger Shroff","Action, Adventure, Sci-Fi",3.7
+105,The Instigators,2024,101.0,Doug Liman,"Matt Damon, Casey Affleck, Hong Chau","Action, Comedy, Crime",6.2
+106,Mean Girls,2024,112.0,"Samantha Jayne, Arturo Perez Jr.","Angourie Rice, Reneé Rapp, Auli'i Cravalho","Comedy, Musical",5.5
+107,I Saw the TV Glow,2024,100.0,Jane Schoenbrun,"Justice Smith, Jack Haven, Ian Foreman","Drama, Mystery",5.8
+108,Crew,2024,118.0,Rajesh A Krishnan,"Tabu, Kareena Kapoor, Kriti Sanon","Comedy, Drama",5.8
+109,A Family Affair,2024,111.0,Richard LaGravenese,"Nicole Kidman, Zac Efron, Joey King","Comedy, Drama, Romance",5.4
+110,Under Paris,2024,104.0,Xavier Gens,"Bérénice Bejo, Nassim Lyes, Léa Léviant","Action, Drama, Horror",5.2
+111,Megalopolis,2024,138.0,Francis Ford Coppola,"Adam Driver, Giancarlo Esposito, Nathalie Emmanuel","Drama, Fantasy, Sci-Fi",4.7
+112,The Count of Monte-Cristo,2024,178.0,"Alexandre de La Patellière, Matthieu Delaporte","Pierre Niney, Bastien Bouillon, Anaïs Demoustier","Action, Adventure, Drama",7.6
+113,The Crow,2024,111.0,Rupert Sanders,"Bill Skarsgård, FKA twigs, Danny Huston","Action, Crime, Fantasy",4.7
+114,Martin,2024,147.0,A.P. Arjun,"Dhruva Sarja, Vaibhavi Shandilya, Sriram Reddy Polasane","Action, Drama, Thriller",2.2
+115,Wallace & Gromit: Vengeance Most Fowl,2024,82.0,"Merlin Crossingham, Nick Park","Ben Whitehead, Peter Kay, Lauren Patel","Animation, Adventure, Comedy",7.5
+116,Bob Marley: One Love,2024,107.0,Reinaldo Marcus Green,"Kingsley Ben-Adir, Lashana Lynch, James Norton","Biography, Drama, Music",6.2
+117,Unfrosted,2024,97.0,Jerry Seinfeld,"Isaac Bae, Jerry Seinfeld, Chris Rickett","Biography, Comedy, History",5.5
+118,Savi,2024,126.0,Abhinay Deo,"Divya Khossla, Harshvardhan Rane, Mairaaj Kakkar","Action, Crime, Drama",6.1
+119,Arthur the King,2024,107.0,Simon Cellan Jones,"Mark Wahlberg, Simu Liu, Juliet Rylance","Adventure, Drama, Sport",7.0
+120,Salem's Lot,2024,114.0,Gary Dauberman,"Lewis Pullman, Makenzie Leigh, Jordan Preston Carter","Horror, Thriller",5.6
+121,Chandu Champion,2024,142.0,Kabir Khan,"Kartik Aaryan, Vijay Raaz, Bhuvan Arora","Action, Biography, Drama",7.8
+122,Uglies,2024,100.0,McG,"Joey King, Brianne Tju, Keith Powers","Action, Adventure, Drama",4.7
+123,Lucky Baskhar,2024,148.0,Venky Atluri,"Dulquer Salmaan, Meenaakshi Chaudhary, Tinnu Anand","Crime, Drama, Thriller",8.0
+124,Tarot,2024,92.0,"Spenser Cohen, Anna Halberg","Harriet Slater, Adain Bradley, Jacob Batalon",Horror,4.8
+125,The Lord of the Rings: The War of the Rohirrim,2024,134.0,Kenji Kamiyama,"Brian Cox, Gaia Wise, Miranda Otto","Animation, Action, Adventure",6.3
+126,Saturday Night,2024,109.0,Jason Reitman,"Gabriel LaBelle, Rachel Sennott, Cory Michael Smith","Biography, Comedy, Drama",6.9
+127,Jackpot!,2024,106.0,Paul Feig,"John Cena, Awkwafina, Simu Liu","Action, Comedy",5.8
+128,A Different Man,2024,112.0,Aaron Schimberg,"Sebastian Stan, Renate Reinsve, Adam Pearson","Comedy, Drama, Thriller",6.9
+129,Upgraded,2024,104.0,Carlson Young,"Camila Mendes, Archie Renaux, Marisa Tomei","Comedy, Romance",6.1
+130,Merry Christmas,2024,144.0,Sriram Raghavan,"Katrina Kaif, Vijay Sethupathi, Tinnu Anand","Drama, Mystery, Thriller",6.9
+131,Better Man,2024,135.0,Michael Gracey,"Robbie Williams, Jonno Davies, Steve Pemberton","Biography, Fantasy, Music",7.6
+132,Hanu Man,2024,158.0,Prasanth Varma,"Teja Sajja, Amritha Aiyer, Varalaxmi Sarathkumar","Action, Adventure, Fantasy",7.7
+133,Subservience,2024,106.0,S.K. Dale,"Megan Fox, Michele Morrone, Madeline Zima","Sci-Fi, Thriller",5.4
+134,Aavesham,2024,155.0,Jithu Madhavan,"Fahadh Faasil, Hipzster, Mithun Jai Shankar","Action, Comedy",7.8
+135,Lisa Frankenstein,2024,101.0,Zelda Williams,"Kathryn Newton, Liza Soberano, Jenna Davis","Comedy, Horror, Romance",6.1
+136,Cuckoo,2024,102.0,Tilman Singer,"Hunter Schafer, Jan Bluthardt, Marton Csokas","Horror, Mystery, Thriller",5.7
+137,Manjummel Boys,2024,135.0,Chidambaram,"Soubin Shahir, Sreenath Bhasi, Balu Varghese","Adventure, Drama, Thriller",8.2
+138,Night Swim,2024,98.0,Bryce McGuire,"Wyatt Russell, Kerry Condon, Amélie Hoeferle","Horror, Mystery, Thriller",4.7
+139,Khel Khel Mein,2024,135.0,Mudassar Aziz,"Akshay Kumar, Ammy Virk, Taapsee Pannu","Comedy, Drama",6.5
+140,The Six Triple Eight,2024,127.0,Tyler Perry,"Kerry Washington, Ebony Obsidian, Milauna Jackson","Drama, History, War",6.7
+141,Back to Black,2024,122.0,Sam Taylor-Johnson,"Marisa Abela, Eddie Marsan, Jack O'Connell","Biography, Drama, Music",6.3
+142,In a Violent Nature,2024,94.0,Chris Nash,"Ry Barrett, Andrea Pavlovic, Cameron Love","Drama, Horror, Thriller",5.6
+143,Bad Newz,2024,142.0,Anand Tiwari,"Vicky Kaushal, Triptii Dimri, Ammy Virk","Comedy, Romance",4.7
+144,Munjya,2024,123.0,Aditya Sarpotdar,"Sharvari, Abhay Verma, Mona Singh","Comedy, Horror",6.3
+145,Small Things Like These,2024,98.0,Tim Mielants,"Cillian Murphy, Eileen Walsh, Emily Watson","Drama, History",6.8
+146,September 5,2024,95.0,Tim Fehlbaum,"Peter Sarsgaard, John Magaro, Ben Chaplin","Drama, History, Thriller",7.1
+147,Sector 36,2024,123.0,Aditya Nimbalkar,"Vikrant Massey, Deepak Dobriyal, Akash Khurana","Crime, Drama, Thriller",7.1
+148,Article 370,2024,158.0,Aditya Suhas Jambhale,"Yami Gautam, Priyamani, Vaibhav Tatwawadi","Action, Drama, Thriller",7.8
+149,Presence,2024,84.0,Steven Soderbergh,"Lucy Liu, Chris Sullivan, Callina Liang","Drama, Horror, Thriller",6.1
+150,Guntur Kaaram,2024,159.0,Trivikram Srinivas,"Mahesh Babu, Sreeleela, Meenaakshi Chaudhary","Action, Drama",5.4
+151,The Sabarmati Report,2024,127.0,Dheeraj Sarna,"Vikrant Massey, Raashi Khanna, Ridhi Dogra","Crime, Drama, Thriller",6.4
+152,Sikandar Ka Muqaddar,2024,142.0,Neeraj Pandey,"Jimmy Shergill, Avinash Tiwary, Tamannaah Bhatia","Action, Crime, Drama",6.0
+153,The Garfield Movie,2024,101.0,Mark Dindal,"Chris Pratt, Samuel L. Jackson, Hannah Waddingham","Animation, Adventure, Comedy",5.7
+154,Ulajh,2024,150.0,Sudhanshu Saria,"Janhvi Kapoor, Gulshan Devaiah, Roshan Mathew","Crime, Drama, Thriller",6.0
+155,Paddington in Peru,2024,106.0,Dougal Wilson,"Hugh Bonneville, Emily Mortimer, Ben Whishaw","Animation, Adventure, Comedy",6.7
+156,Exhuma,2024,134.0,Jang Jae-hyun,"Choi Min-sik, Kim Go-eun, Lee Do-hyun","Drama, Horror, Mystery",6.9
+157,Miller's Girl,2024,93.0,Jade Halley Bartlett,"Martin Freeman, Jenna Ortega, Bashir Salahuddin","Comedy, Drama, Thriller",5.2
+158,Arcadian,2024,92.0,Benjamin Brewer,"Nicolas Cage, Jaeden Martell, Maxwell Jenkins","Action, Drama, Horror",5.5
+159,Drive-Away Dolls,2024,84.0,Ethan Coen,"Margaret Qualley, Geraldine Viswanathan, Beanie Feldstein","Action, Comedy, Thriller",5.4
+160,Our Little Secret,2024,101.0,Stephen Herek,"Lindsay Lohan, Ian Harding, Kristin Chenoweth","Comedy, Romance",5.7
+161,Jigra,2024,153.0,Vasan Bala,"Alia Bhatt, Akansha Ranjan Kapoor, Vedang Raina","Action, Crime, Drama",6.0
+162,Thelma,2024,98.0,Josh Margolin,"June Squibb, Fred Hechinger, Richard Roundtree","Action, Comedy",7.0
+163,Elevation,2024,91.0,George Nolfi,"Anthony Mackie, Morena Baccarin, Maddie Hasson","Action, Sci-Fi, Thriller",5.6
+164,Queer,2024,137.0,Luca Guadagnino,"Daniel Craig, Daan de Wit, Jason Schwartzman","Biography, Drama, History",6.4
+165,The Strangers: Chapter 1,2024,91.0,Renny Harlin,"Madelaine Petsch, Ryan Bown, Matus Lajcak",Horror,4.6
+166,Maidaan,2024,181.0,Amit Ravindernath Sharma,"Ajay Devgn, Priyamani, Gajraj Rao","Biography, Drama, History",7.9
+167,The Deliverance,2024,112.0,Lee Daniels,"Andra Day, Glenn Close, Anthony B. Jenkins","Drama, Horror, Mystery",5.1
+168,The Greatest of All Time,2024,183.0,Venkat Prabhu,"Joseph Vijay, Prashanth, Prabhu Deva","Action, Thriller",5.7
+169,Marco,2024,145.0,Haneef Adeni,"Unni Mukundan, Siddique, Jagadish","Action, Crime, Drama",6.8
+170,Sleeping Dogs,2024,110.0,Adam Cooper,"Russell Crowe, Karen Gillan, Marton Csokas","Crime, Mystery, Thriller",6.2
+171,Here,2024,104.0,Robert Zemeckis,"Tom Hanks, Robin Wright, Paul Bettany",Drama,6.3
+172,The Room Next Door,2024,107.0,Pedro Almodóvar,"Julianne Moore, Tilda Swinton, John Turturro",Drama,6.8
+173,Irish Wish,2024,93.0,Janeen Damian,"Lindsay Lohan, Ed Speleers, Alexander Vlahos","Comedy, Fantasy, Romance",5.2
+174,Mothers' Instinct,2024,94.0,Benoît Delhomme,"Jessica Chastain, Anne Hathaway, Anders Danielsen Lie","Drama, Thriller",6.3
+175,Devara Part 1,2024,176.0,Koratala Siva,"N.T. Rama Rao Jr., Saif Ali Khan, Janhvi Kapoor","Action, Drama, Thriller",6.0
+176,Nightbitch,2024,99.0,Marielle Heller,"Amy Adams, Scoot McNairy, Arleigh Snowden","Comedy, Horror",5.5
+177,Scoop,2024,102.0,Philip Martin,"Billie Piper, Gillian Anderson, Rufus Sewell","Biography, Drama",6.5
+178,Apocalypse Z: The Beginning of the End,2024,117.0,Carles Torrens,"José María Yazpik, Iria del Río, Berta Vázquez","Action, Horror, Sci-Fi",6.1
+179,Maria,2024,124.0,Pablo Larraín,"Angelina Jolie, Pierfrancesco Favino, Alba Rohrwacher","Biography, Drama, Music",6.4
+180,Nickel Boys,2024,140.0,RaMell Ross,"Ethan Herisse, Brandon Wilson, Aunjanue Ellis-Taylor",Drama,6.9
+181,Premalu,2024,156.0,Girish A.D.,"Naslen, Mamitha Baiju, Shyam Mohan","Comedy, Romance",7.8
+182,Trigger Warning,2024,106.0,Mouly Surya,"Jessica Alba, Mark Webber, Anthony Michael Hall","Action, Crime, Thriller",4.6
+183,Time Cut,2024,91.0,Hannah Macpherson,"Madison Bailey, Antonia Gentry, Michael Shanks","Horror, Mystery, Sci-Fi",5.0
+184,Amaran,2024,167.0,Rajkumar Periasamy,"Sivakarthikeyan, Sai Pallavi, Bhuvan Arora","Action, Biography, Drama",8.1
+185,Role Play,2024,100.0,Thomas Vincent,"Kaley Cuoco, David Oyelowo, Bill Nighy","Action, Comedy, Romance",5.5
+186,Kneecap,2024,105.0,Rich Peppiatt,"Móglaí Bap, Mo Chara, DJ Próvaí","Comedy, Drama, Music",7.6
+187,Dear Santa,2024,107.0,Bobby Farrelly,"Jack Black, Robert Timothy Smith, Keegan-Michael Key","Comedy, Fantasy",5.4
+188,Memoir of a Snail,2024,95.0,Adam Elliot,"Jacki Weaver, Sarah Snook, Charlotte Belsey","Animation, Drama",7.8
+189,The Killer's Game,2024,104.0,J.J. Perry,"Dave Bautista, Dmitrij Kalacsov, Mia Rouba M.Kiss","Action, Comedy, Thriller",5.8
+190,Swatantrya Veer Savarkar,2024,176.0,Randeep Hooda,"Randeep Hooda, Ankita Lokhande, Apinderdeep Singh","Biography, Drama",7.7
+191,Imaginary,2024,104.0,Jeff Wadlow,"DeWanda Wise, Taegen Burns, Pyper Braun","Horror, Mystery, Thriller",4.7
+192,Orion and the Dark,2024,93.0,Sean Charmatz,"Jacob Tremblay, Paul Walter Hauser, Colin Hanks","Animation, Adventure, Comedy",6.3
+193,Young Woman and the Sea,2024,129.0,Joachim Rønning,"Daisy Ridley, Tilda Cobham-Hervey, Stephen Graham","Biography, Drama, Romance",7.5
+194,Baby John,2024,159.0,Kalees,"Wamiqa Gabbi, Salman Khan, Varun Dhawan","Action, Crime, Drama",5.1
+195,Now or Never,2024,,Balázs Lóth,"Nándor Berettyán, Sára Mosolygó, Balázs Koltai-Nagy","Adventure, Biography, Drama",2.2
+196,That Christmas,2024,91.0,Simon Otto,"Bill Nighy, Brian Cox, Guz Khan","Animation, Adventure, Comedy",6.8
+197,Mother of the Bride,2024,88.0,Mark Waters,"Brooke Shields, Miranda Cosgrove, Benjamin Bratt","Comedy, Drama, Romance",4.8
+198,Am I Racist?,2024,100.0,Justin Folk,"Matt Walsh, Maryna Biletska, Robin DiAngelo","Documentary, Comedy",6.6
+199,Apartment 7A,2024,107.0,Natalie Erika James,"Julia Garner, Dianne Wiest, Kevin McNally","Horror, Thriller",5.9
+200,Attack on Titan the Movie: The Last Attack,2024,145.0,Yûichirô Hayashi,"Natsuki Hanae, Yoshimasa Hosoya, Marina Inoue","Animation, Action, Adventure",9.2
+201,Sting,2024,91.0,Kiah Roache-Turner,"Noni Hazlehurst, Jermaine Fowler, Alyla Browne","Horror, Sci-Fi, Thriller",5.7
+202,Blitz,2024,120.0,Steve McQueen,"Saoirse Ronan, Harris Dickinson, Benjamin Clémentine","Action, Drama, History",6.2
+203,The Outrun,2024,118.0,Nora Fingscheidt,"Saoirse Ronan, Paapa Essiedu, Nabil Elouahabi",Drama,6.9
+204,Indian 2,2024,,S. Shankar,"Kamal Haasan, Siddharth, Rakul Preet Singh","Action, Drama, Musical",3.8
+205,How to Make Millions Before Grandma Dies,2024,125.0,Pat Boonnitipat,"Putthipong Assaratanakul, Usha Seamkhum, Sanya Kunakorn","Comedy, Drama, Family",7.9
+206,Amar Singh Chamkila,2024,145.0,Imtiaz Ali,"Diljit Dosanjh, Parineeti Chopra, Apinderdeep Singh","Biography, Drama, Music",7.8
+207,Viduthalai Part 2,2024,170.0,Vetrimaaran,"Vijay Sethupathi, Manju Warrier, Soori","Action, Crime, Drama",7.8
+208,Ordinary Angels,2024,118.0,Jon Gunn,"Hilary Swank, Alan Ritchson, Emily Mitchell","Biography, Drama",7.4
+209,Code 8: Part II,2024,100.0,Jeff Chan,"Robbie Amell, Stephen Amell, Alex Mallari Jr.","Action, Crime, Drama",5.7
+210,Mr. & Mrs. Mahi,2024,139.0,Sharan Sharma,"Rajkummar Rao, Janhvi Kapoor, Rajesh Sharma","Drama, Sport",5.9
+211,Never Let Go,2024,101.0,Alexandre Aja,"Halle Berry, Percy Daggs IV, Anthony B. Jenkins","Horror, Thriller",5.4
+212,Nr. 24,2024,111.0,John Andreas Andersen,"Sjur Vatne Brean, Erik Hivju, Philip Helgar","Biography, Drama, War",7.5
+213,Y2K,2024,91.0,Kyle Mooney,"Jaeden Martell, Rachel Zegler, Julian Dennison","Comedy, Horror, Sci-Fi",4.8
+214,Look Back,2024,58.0,Kiyotaka Oshiyama,"Yumi Kawai, Mizuki Yoshida, Yôichirô Saitô","Animation, Drama",7.8
+215,Wild Wild Punjab,2024,109.0,Simarpreet Singh,"Varun Sharma, Sunny Singh, Jassie Gill","Comedy, Romance",6.2
+216,The Greatest Night in Pop,2024,96.0,Bao Nguyen,"Lionel Richie, Harriet Sternberg, Wendy Rees","Documentary, Music",7.9
+217,Maharaj,2024,131.0,Siddharth P Malhotra,"Junaid Khan, Jaideep Ahlawat, Shalini Pandey","Biography, Crime, Drama",6.5
+218,Agni,2024,122.0,Rahul Dholakia,"Pratik Gandhi, Divyendu Sharma, Jitendra Joshi","Action, Drama",7.2
+219,Meiyazhagan,2024,177.0,C. Prem Kumar,"Karthi, Arvind Swamy, Indumathy Manikandan","Drama, Family",8.4
+220,The Seed of the Sacred Fig,2024,167.0,Mohammad Rasoulof,"Soheila Golestani, Missagh Zareh, Setareh Maleki","Crime, Drama, Thriller",7.6
+221,Kanguva,2024,152.0,Siva,"Suriya, Disha Patani, Bobby Deol","Action, Adventure, Drama",4.5
+222,Hot Frosty,2024,92.0,Jerry Ciccoritti,"Lacey Chabert, Dustin Milligan, Chrishell Stause","Comedy, Fantasy, Romance",5.3
+223,The Girl with the Needle,2024,123.0,Magnus von Horn,"Vic Carmen Sonne, Trine Dyrholm, Besir Zeciri","Crime, Drama, History",7.5
+224,Afraid,2024,84.0,Chris Weitz,"John Cho, Katherine Waterston, Keith Carradine","Horror, Mystery, Sci-Fi",5.2
+225,Bramayugam,2024,139.0,Rahul Sadasivan,"Mammootty, Arjun Ashokan, Sidharth Bharathan","Drama, Horror, Thriller",7.8
+226,Incoming,2024,91.0,"Dave Chernin, John Chernin","Mason Thames, Ramon Reed, Raphael Alejandro",Comedy,5.8
+227,Hellboy: The Crooked Man,2024,99.0,Brian Taylor,"Jack Kesy, Jefferson White, Adeline Rudolph","Action, Horror, Mystery",4.5
+228,Srikanth,2024,134.0,Tushar Hiranandani,"Rajkummar Rao, Jyotika, Alaya F","Biography, Drama",7.4
+229,Sipahi,2024,62.0,Amit Bhadana,"Amit Bhadana, Dinesh Ahlawat, Baljinder Kaur",Drama,7.2
+230,Killer Heat,2024,95.0,Philippe Lacôte,"Joseph Gordon-Levitt, Shailene Woodley, Richard Madden","Crime, Drama, Mystery",5.6
+231,Culpa Tuya,2024,118.0,Domingo González,"Nicole Wallace, Gabriel Guevara, Marta Hazas","Drama, Romance",5.2
+232,Lover Stalker Killer,2024,90.0,Sam Hobkinson,"Dave Kroupa, Nancy Raney, Chris LeGrow","Documentary, Crime",7.0
+233,Brothers,2024,89.0,Max Barbakow,"Josh Brolin, Peter Dinklage, Taylour Paige","Action, Comedy, Crime",5.4
+234,Intoxicated by Love,2024,118.0,Hasan Fathi,"Parsa Pirouzfar, Shahab Hosseini, Hande Erçel","Drama, History, Romance",8.5
+235,Yudhra,2024,142.0,Ravi Udyawar,"Siddhant Chaturvedi, Sarthak Khurana, Malavika Mohanan","Action, Drama, Thriller",4.9
+236,Solo Leveling: ReAwakening,2024,121.0,Shunsuke Nakashige,"Brandon Acosta, Taito Ban, Bryson Baugus","Animation, Action, Adventure",8.8
+237,Parthenope,2024,137.0,Paolo Sorrentino,"Dario Aita, Antonio Annina, Margherita Aresti","Drama, Fantasy",6.6
+238,The Killer,2024,126.0,John Woo,"Nathalie Emmanuel, Omar Sy, Sam Worthington","Action, Thriller",5.7
+239,Dìdi,2024,93.0,Sean Wang,"Izaac Wang, Joan Chen, Shirley Chen","Comedy, Drama",7.3
+240,No Other Land,2024,92.0,"Yuval Abraham, Basel Adra, Hamdan Ballal","Yuval Abraham, Basel Adra, Hamdan Ballal",Documentary,8.3
+241,The Last Showgirl,2024,88.0,Gia Coppola,"Pamela Anderson, Brenda Song, Kiernan Shipka",Drama,6.5
+242,Love Li,2024,168.0,Chethan Keshav,"Vasishta N. Simha, Stefy Patel, Achyuth Kumar","Drama, Romance",6.3
+243,Snack Shack,2024,112.0,Adam Rehmeier,"Conor Sherry, Gabriel LaBelle, Mika Abdalla",Comedy,7.0
+244,Find Me Falling,2024,93.0,Stelana Kliris,"Harry Connick Jr., Agni Scott, Ali Fumiko Whitney","Comedy, Music, Romance",6.3
+245,Kaam Chalu Hai,2024,82.0,Palaash Muchhal,"Karan Ashok Awale, Swapnil Kamble, Namdev Kamlakar",Drama,7.1
+246,Fight or Flight,2024,102.0,James Madigan,"Josh Hartnett, Charithra Chandran, Katee Sackhoff","Action, Comedy",6.4
+247,The Tearsmith,2024,103.0,Alessandro Genovesi,"Simone Baldasseroni, Caterina Ferioli, Sabrina Paravicini","Drama, Fantasy, Romance",5.2
+248,The Remarkable Life of Ibelin,2024,103.0,Benjamin Ree,"Mats Steen, Robert Steen, Trude Steen","Documentary, Animation, Biography",8.2
+249,Badland Hunters,2024,107.0,Heo Myeong-haeng,"Ma Dong-seok, Lee Jun-young, Roh Jeong-eui","Action, Adventure, Crime",5.9
+250,Will & Harper,2024,114.0,Josh Greenbaum,"Will Ferrell, Harper Steele, Tina Fey",Documentary,7.4
+251,Greedy People,2024,112.0,Potsy Ponciroli,"Himesh Patel, Joseph Gordon-Levitt, Lily James","Comedy, Crime",6.2
+252,Kishkindha Kaandam,2024,133.0,Dinjith Ayyathan,"Asif Ali, Vijayaraghavan, Aparna Balamurali","Drama, Mystery, Thriller",8.0
+253,Do Aur Do Pyaar,2024,140.0,Shirsha Guha Thakurta,"Vidya Balan, Pratik Gandhi, Ileana D'Cruz","Comedy, Drama, Romance",6.4
+254,Players,2024,105.0,Trish Sie,"Gina Rodriguez, Damon Wayans Jr., Tom Ellis","Comedy, Romance",5.7
+255,The American Society of Magical Negroes,2024,104.0,Kobi Libii,"Justice Smith, Zachary Barton, Anthony Coons","Comedy, Fantasy",3.8
+256,Lonely Planet,2024,94.0,Susannah Grant,"Laura Dern, Liam Hemsworth, Diana Silvers","Drama, Romance",5.7
+257,Canary Black,2024,101.0,Pierre Morel,"Kate Beckinsale, Rupert Friend, Ray Stevenson","Action, Drama, Thriller",5.4
+258,Azrael,2024,86.0,E.L. Katz,"Vic Carmen Sonne, Samara Weaving, Nathan Stewart-Jarrett","Action, Horror",5.4
+259,The Exorcism,2024,95.0,Joshua John Miller,"Russell Crowe, Ryan Simpkins, Sam Worthington","Horror, Thriller",4.2
+260,Winnie-the-Pooh: Blood and Honey 2,2024,93.0,Rhys Frake-Waterfield,"Scott Chambers, Tallulah Evans, Ryan Oliva","Horror, Thriller",4.7
+261,Vicky Vidya Ka Woh Wala Video,2024,152.0,Raaj Shaandilyaa,"Rajkummar Rao, Triptii Dimri, Vijay Raaz",Comedy,5.2
+262,What Jennifer Did,2024,87.0,Jenny Popplewell,"Fernando Baldassini, Samantha Chang, Alan Cooke","Documentary, Crime",6.1
+263,Reagan,2024,141.0,Sean McNamara,"Dennis Quaid, Penelope Ann Miller, Jon Voight","Biography, Drama, History",6.1
+264,Raayan,2024,145.0,Dhanush,"Dhanush, Aparna Balamurali, Devadarshini Chetan","Action, Crime, Drama",6.5
+265,Sarfira,2024,155.0,Sudha Kongara,"Akshay Kumar, Paresh Rawal, Radhika Madan",Drama,6.9
+266,My Spy: The Eternal City,2024,112.0,Peter Segal,"Dave Bautista, Chloe Coleman, Kristen Schaal","Action, Comedy",5.7
+267,We Will Dance Again,2024,90.0,Yariv Mozer,,Documentary,7.6
+268,Sookshma Darshini,2024,142.0,Mc Jithin,"Nazriya Nazim, Basil Joseph, Akhila Bhargavan","Comedy, Mystery, Thriller",7.8
+269,No Way Up,2024,90.0,Claudio Fäh,"Colm Meaney, Will Attenborough, Jeremias Amoore","Action, Adventure, Drama",4.6
+270,Captain Miller,2024,157.0,Arun Matheswaran,"Dhanush, Aditi Balan, Shivarajkumar","Action, Adventure, Drama",6.8
+271,All We Imagine as Light,2024,118.0,Payal Kapadia,"Kani Kusruti, Divya Prabha, Chhaya Kadam","Drama, Romance",7.1
+272,Dharmaveer 2,2024,130.0,Pravin Tarde,"Sunil Barve, Rajesh Bhosle, Kshitish Date","Documentary, Biography, Drama",5.3
+273,Anweshippin Kandethum,2024,142.0,Darwin Kuriakose,"Tovino Thomas, Vineeth Thattil David, Rahul Rajagopal","Crime, Drama, Mystery",7.4
+274,Blackout,2024,122.0,Devang Bhavsar,"Vikrant Massey, Sunil Grover, Mouni Roy","Comedy, Thriller",6.1
+275,The Merry Gentlemen,2024,87.0,Peter Sullivan,"Britt Robertson, Chad Michael Murray, Marla Sokoloff","Comedy, Musical, Romance",4.8
+276,Space Cadet,2024,110.0,Liz W. Garcia,"Emma Roberts, Tom Hopper, Poppy Liu",Comedy,5.0
+277,Twilight of the Warriors: Walled In,2024,126.0,Soi Cheang,"Louis Koo, Sammo Kam-Bo Hung, Richie Jen","Action, Crime, Thriller",7.0
+278,Slingshot,2024,108.0,Mikael Håfström,"Casey Affleck, Laurence Fishburne, Emily Beecham","Mystery, Sci-Fi, Thriller",5.7
+279,Screams Before Silence,2024,57.0,Anat Stalinsky,"Sheryl Sandberg, Chen Goldstein-Almog, Agam Goldstein-Almog",Documentary,6.1
+280,Joy,2024,115.0,Ben Taylor,"Thomasin McKenzie, James Norton, Bill Nighy","Biography, Drama, History",7.1
+281,V/H/S/Beyond,2024,114.0,"Jay Cheel, Jordan Downey, Christian Long","Brian Baker, Trevor Dow, Gerry Eng","Horror, Sci-Fi, Thriller",5.8
+282,Yatra 2,2024,132.0,"Three Autumn Leaves, Mahi v Raghav","Mammootty, Jiiva, Rajiv Kumar Aneja","Biography, Drama, History",6.3
+283,The Return,2024,116.0,Uberto Pasolini,"Charlie Plummer, Marwan Kenzari, Claudio Santamaria","Adventure, Drama, History",6.2
+284,Saripodhaa Sanivaaram,2024,166.0,Vivek Athreya,"Nani, S.J. Suryah, Priyanka Arulmohan","Action, Crime, Drama",7.0
+285,The Menendez Brothers,2024,119.0,Alejandro Hartmann,"Erik Menendez, Lyle Menendez, Jose Menendez","Documentary, Crime",7.0
+286,The Shadow Strays,2024,144.0,Timo Tjahjanto,"Aurora Ribero, Hana Malasan, Taskya Namya","Action, Crime, Thriller",6.5
+287,Super/Man: The Christopher Reeve Story,2024,104.0,"Ian Bonhôte, Peter Ettedgui","Christopher Reeve, Will Reeve, Dana Reeve","Documentary, Biography",8.0
+288,Family Pack,2024,94.0,François Uzan,"Franck Dubosc, Jean Reno, Suzanne Clément","Adventure, Comedy, Fantasy",5.5
+289,Nutcrackers,2024,104.0,David Gordon Green,"Ben Stiller, Homer Janson, Ulysses Janson","Comedy, Drama",5.5
+290,Stream,2024,123.0,Michael Leavy,"Jeffrey Combs, Charles Edwin Powell, Danielle Harris",Horror,6.0
+291,The Assessment,2024,114.0,Fleur Fortune,"Alicia Vikander, Elizabeth Olsen, Himesh Patel","Drama, Sci-Fi",6.6
+292,Bird,2024,119.0,Andrea Arnold,"Nykiya Adams, Franz Rogowski, Barry Keoghan",Drama,7.0
+293,Cabrini,2024,142.0,Alejandro Monteverde,"Cristiana Dell'Anna, John Lithgow, David Morse","Biography, Drama",7.3
+294,Yodha,2024,130.0,"Sagar Ambre, Pushkar Ojha","Sidharth Malhotra, Raashi Khanna, Disha Patani","Action, Drama, Thriller",5.7
+295,A.R.M,2024,150.0,Jithin Lal,"Tovino Thomas, Basil Joseph, Krithi Shetty","Action, Adventure, Comedy",7.1
+296,Hold Your Breath,2024,94.0,"Karrie Crouse, William Joines","Sarah Paulson, Amiah Miller, Alona Jane Robbins","Drama, Horror, Thriller",5.3
+297,Paradox Effect,2024,87.0,Scott Weintrob,"Olga Kurylenko, Harvey Keitel, Oliver Trevena",Action,5.8
+298,Demon Slayer: Kimetsu No Yaiba - To the Hashira Training,2024,104.0,Haruo Sotozaki,"Natsuki Hanae, Kengo Kawanishi, Akari Kitô","Animation, Action, Adventure",7.2
+299,Justice League: Crisis on Infinite Earths - Part One,2024,93.0,Jeff Wamester,"Matt Bomer, Jensen Ackles, Darren Criss","Animation, Action, Adventure",6.2
+300,Harold and the Purple Crayon,2024,90.0,Carlos Saldanha,"Zachary Levi, Lil Rel Howery, Benjamin Bottani","Animation, Adventure, Comedy",5.7
+301,Colors of Evil: Red,2024,111.0,Adrian Panek,"Jakub Gierszal, Maja Ostaszewska, Zofia Jastrzebska","Crime, Drama, Mystery",6.4
+302,Meet Me Next Christmas,2024,105.0,Rusty Cundieff,"Christina Milian, Devale Ellis, Mitch Grassi","Comedy, Romance",5.7
+303,Absolution,2024,112.0,Hans Petter Moland,"Liam Neeson, Daniel Diemer, Javier Molina","Action, Crime, Drama",5.2
+304,Officer Black Belt,2024,108.0,Joo-hwan Kim,"Kim Woo-bin, Kim Sung Kyun, Lee Hae-young","Action, Comedy, Crime",6.9
+305,MadS,2024,89.0,David Moreau,"Lucille Guillaume, Laurie Pavy, Milton Riche","Horror, Thriller",6.4
+306,Don't Open the Door,2024,87.0,"Alexandros Karpas, Sakis Karpas","Sakis Karpas, Foteini Levogianni",Horror,6.6
+307,Toofan,2024,145.0,Raihan Rafi,"Shakib Khan, Mimi Chakraborty, Chanchal Chowdhury","Action, Crime",7.4
+308,The Strangers' Case,2024,103.0,Brandt Andersen,"Omar Sy, Jay Abdo, Mahmoud Bakri",Drama,9.3
+309,Mary,2024,112.0,D.J. Caruso,"Noa Cohen, Ido Tako, Ori Pfeffer",Drama,5.2
+310,The Beautiful Game,2024,125.0,Thea Sharrock,"Micheal Ward, Beckett Handley, Tahvae Hunte","Drama, Sport",6.3
+311,The Silent Hour,2024,99.0,Brad Anderson,"Joel Kinnaman, Sandra Mae Frank, Mekhi Phifer","Action, Crime, Thriller",6.1
+312,I Am: Celine Dion,2024,103.0,Irene Taylor,"Céline Dion, Nelson Angélil, Eddy Angélil","Documentary, Biography, Music",7.7
+313,O2,2024,105.0,"Raghav, Prashanth Raj","Ashika Ranganath, Praveen Tej, Raghava Nayak","Romance, Thriller",6.6
+314,Spellbound,2024,109.0,Vicky Jenson,"Rachel Zegler, John Lithgow, Jenifer Lewis","Animation, Adventure, Comedy",5.5
+315,The Children's Train,2024,106.0,Cristina Comencini,"Barbara Ronchi, Serena Rossi, Stefano Accorsi","Drama, History",7.4
+316,Jung Kook: I Am Still,2024,90.0,Park Jun-soo,Jungkook,"Documentary, Music",8.2
+317,The Greatest Hits,2024,94.0,Ned Benson,"Lucy Boynton, Justin H. Min, David Corenswet","Drama, Music, Romance",6.2
+318,Kalinga,2024,116.0,Dhruva Vaayu,"Dhruva Vaayu, Pragya Nayan, Aadukalam Naren",Horror,5.9
+319,My Favourite Cake,2024,97.0,"Maryam Moghadam, Behtash Sanaeeha","Lili Farhadpour, Esmaeel Mehrabi, Mansoore Ilkhani","Comedy, Drama, Romance",7.4
+320,Damaged,2024,97.0,Terry McDonough,"Samuel L. Jackson, Vincent Cassel, Gianni Capaldi","Action, Crime, Drama",4.7
+321,The Wonderful Story of Henry Sugar and Three More,2024,88.0,Wes Anderson,"Richard Ayoade, Mita Chowdhury, Jarvis Cocker","Comedy, Drama, Fantasy",7.1
+322,Bagheera,2024,158.0,D.R. Suri,"Sri Murali, Rukmini Vasanth, Prakash Raj","Action, Crime, Thriller",6.7
+323,Humane,2024,93.0,Caitlin Cronenberg,"Jay Baruchel, Emily Hampshire, Peter Gallagher","Horror, Thriller",5.5
+324,Breathe,2024,93.0,Stefon Bristol,"Jennifer Hudson, Milla Jovovich, Quvenzhané Wallis","Sci-Fi, Thriller",4.2
+325,Suncoast,2024,109.0,Laura Chinn,"Nico Parker, Laura Linney, Woody Harrelson",Drama,6.7
+326,Bhaiyya Ji,2024,150.0,Apoorv Singh Karki,"Manoj Bajpayee, Akash Makhija, Zoya Hussain","Action, Drama",4.8
+327,Force of Nature: The Dry 2,2024,120.0,Robert Connolly,"Eric Bana, Anna Torv, Deborra-Lee Furness","Crime, Mystery, Thriller",5.8
+328,Werewolves,2024,93.0,Steven C. Miller,"Frank Grillo, Katrina Law, Ilfenesh Hadera","Action, Horror, Sci-Fi",4.4
+329,Get Away,2024,86.0,Steffen Haars,"Nick Frost, Aisling Bea, Sebastian Croft","Comedy, Horror",5.3
+330,Turtles All the Way Down,2024,111.0,Hannah Marks,"Isabela Merced, Cree, Judy Reyes","Drama, Mystery, Romance",6.6
+331,Avicii - I'm Tim,2024,95.0,Henrik Burman,"Avicii, Aloe Blacc, Chris Martin","Documentary, Biography, Music",7.7
+332,Bhakshak,2024,134.0,Pulkit,"Bhumi Pednekar, Sanjay Mishra, Aditya Srivastav","Crime, Drama",7.2
+333,Descendants: The Rise of Red,2024,91.0,Jennifer Phang,"Kylie Cantrall, Malia Baker, Dara Reneé","Action, Adventure, Family",4.7
+334,This Is Me... Now,2024,65.0,Dave Meyers,"Jennifer Lopez, Fat Joe, Jane Fonda","Comedy, Drama, Fantasy",4.1
+335,My Fault,2024,120.0,Tyler Perry,"Kelly Rowland, Trevante Rhodes, Nick Sagar","Crime, Drama, Thriller",4.2
+336,Ishq Vishk Rebound,2024,106.0,Nipun Dharmadhikari,"Rohit Saraf, Pashmina Roshan, Jibraan Khan","Comedy, Drama",5.5
+337,Trouble,2024,98.0,Jon Holmberg,"Filip Berg, Amy Deasismont, Eva Melander","Action, Comedy, Crime",6.2
+338,Brats,2024,92.0,Andrew McCarthy,"Andrew McCarthy, Emilio Estevez, Ally Sheedy",Documentary,6.5
+339,Phir Aayi Hasseen Dillruba,2024,132.0,Jayprad Desai,"Taapsee Pannu, Vikrant Massey, Sunny Kaushal","Crime, Drama, Mystery",5.8
+340,Watchmen: Chapter I,2024,83.0,Brandon Vietti,"Troy Baker, Adrienne Barbeau, Corey Burton","Animation, Action, Drama",7.1
+341,Thangalaan,2024,156.0,Pa. Ranjith,"Vikram, Parvathy Thiruvothu, Malavika Mohanan","Action, Adventure, Drama",6.5
+342,Blue Cave,2024,88.0,Altan Dönmez,"Kerem Bürsin, Devrim Özkan, Okan Yalabik",Drama,5.3
+343,Buy Now! The Shopping Conspiracy,2024,84.0,Nic Stacey,"Eric Liedtke, Roger Lee, Maren Costa",Documentary,6.7
+344,Lowlifes,2024,90.0,"Tesh Guttikonda, Mitch Oliver","Amanda Fix, Matthew MacCaull, Brenna Llewellyn",Horror,6.2
+345,Let Go,2024,110.0,Josephine Bornebusch,"Josephine Bornebusch, Pål Sverre Hagen, Sigrid Johnson",Drama,7.0
+346,The Devil's Bath,2024,121.0,"Severin Fiala, Veronika Franz","Anja Plaschg, David Scheid, Maria Hofstätter","Drama, History, Horror",6.6
+347,Ultraman: Rising,2024,117.0,"Shannon Tindle, John Aoshima","Christopher Sean, Tamlyn Tomita, Rob Fukuzaki","Animation, Action, Adventure",6.9
+348,Crakk: Jeetega... Toh Jiyegaa,2024,154.0,Aditya Datt,"Vidyut Jammwal, Arjun Rampal, Nora Fatehi","Action, Sport, Thriller",4.7
+349,Babes,2024,104.0,Pamela Adlon,"Elena Ouspenskaia, Sandra Bernhard, Oliver Platt",Comedy,6.3
+350,Haikyu!! The Dumpster Battle,2024,85.0,"Susumu Mitsunaka, Jonathan Rigg","Ayumu Murase, Kaito Ishikawa, Yûki Kaji","Animation, Comedy, Drama",7.7
+351,Kakuda,2024,116.0,Aditya Sarpotdar,"Riteish Deshmukh, Sonakshi Sinha, Saqib Saleem","Comedy, Horror",5.4
+352,Mura,2024,129.0,Muhammed Musthafa,"Suraj Venjaramoodu, Hridhu Haroon, Maala Parvathi","Action, Drama",7.2
+353,Main Atal Hoon,2024,139.0,"Ravi Jadhav, Javed Karim","Pankaj Tripathi, Alok A Nath Pathak, Dayashankar Pandey","Biography, Drama",6.9
+354,Nanban Oruvan Vantha Piragu,2024,134.0,Ananth Ram,"Ananth Ram, Bhavani Sre, Aishwarya. M",Drama,6.1
+355,Freaky Tales,2024,107.0,"Anna Boden, Ryan Fleck","Pedro Pascal, Ben Mendelsohn, Jay Ellis","Action, Adventure, Comedy",6.3
+356,CTRL,2024,99.0,Vikramaditya Motwane,"Ananya Panday, Vihaan Samat, Devika Vatsa","Drama, Thriller",6.2
+357,The Best Christmas Pageant Ever,2024,99.0,Dallas Jenkins,"Kynlee Heiman, Sebastian Billingsley-Rodriguez, Judy Greer","Adventure, Comedy, Drama",6.8
+358,Ghostlight,2024,115.0,"Kelly O'Sullivan, Alex Thompson","Keith Kupferer, Katherine Mallen Kupferer, Tara Mallen","Comedy, Drama",7.6
+359,Like Aani Subscribe,2024,140.0,Abhishek Merukar,"Amruta Khanvilkar, Amey Wagh, Shubhankar Tawde",Mystery,7.3
+360,Rich Flu,2024,116.0,Galder Gaztelu-Urrutia,"Mary Elizabeth Winstead, Rafe Spall, Lorraine Bracco","Sci-Fi, Thriller",5.2
+361,Lubber Pandhu,2024,146.0,Tamizharasan Pachamuthu,"Devadarshini Chetan, Dinesh, Jensan Diwakar","Comedy, Drama, Sport",8.1
+362,Your Monster,2024,103.0,Caroline Lindy,"Melissa Barrera, Tommy Dewey, Edmund Donovan","Comedy, Horror, Romance",6.4
+363,Bagman,2024,93.0,Colm McCarthy,"Sam Claflin, Antonia Thomas, Caréll Vincent Rhoden",Horror,4.7
+364,Hard Truths,2024,97.0,Mike Leigh,"Marianne Jean-Baptiste, Michele Austin, David Webber","Comedy, Drama",7.2
+365,Red Right Hand,2024,111.0,"Eshom Nelms, Ian Nelms","Orlando Bloom, Garret Dillahunt, Andie MacDowell","Action, Thriller",5.5
+366,The Roast of Tom Brady,2024,179.0,Beth McCarthy-Miller,"Tom Brady, Kevin Hart, Jeffrey Ross","Documentary, Comedy",7.2
+367,Amber Alert,2024,90.0,Kerry Bellessa,"Hayden Panettiere, Tyler James Williams, Kevin Dunn",Thriller,6.0
+368,Golam,2024,120.0,Samjad,"Ranjith Sajeev, Dileesh Pothan, Sunny Wayne","Crime, Mystery",7.2
+369,Angels Fallen: Warriors of Peace,2024,103.0,Ali Zamani,"Josh Burdett, Arifin Putra, Cuba Gooding Jr.","Action, Adventure, Fantasy",4.9
+370,Blood Star,2024,97.0,Lawrence Jacomelli,"Britni Camacho, John Schwab, Sydney Brumfield","Horror, Thriller",6.4
+371,Sweet Bobby: My Catfish Nightmare,2024,82.0,Lyttanya Shannon,Hemma Gulhane,Documentary,6.2
+372,Uprising,2024,126.0,Sang-man Kim,"Gang Dong-won, Park Jeong-min, Kim Shin-rock","Action, Drama, History",6.6
+373,Piece by Piece,2024,93.0,Morgan Neville,"Pharrell Williams, Morgan Neville, Kendrick Lamar","Animation, Biography, Comedy",6.9
+374,UI,2024,135.0,Upendra,"Reeshma, Pavan Acharya, Insane Ashraf","Action, Sci-Fi",6.8
+375,Touch,2024,121.0,Baltasar Kormákur,"Egill Ólafsson, Kôki, Palmi Kormákur","Drama, Romance",7.4
+376,Goodrich,2024,110.0,Hallie Meyers-Shyer,"Michael Keaton, Mila Kunis, Danny Deferrari","Comedy, Drama",6.3
+377,City Hunter,2024,102.0,Yûichi Satô,"Ryohei Suzuki, Misato Morita, Masanobu Andô","Action, Comedy, Crime",6.3
+378,Megamind vs. The Doom Syndicate,2024,83.0,Eric Fogel,"Keith Ferguson, Laura Post, Josh Brener","Animation, Action, Adventure",2.5
+379,A Sacrifice,2024,94.0,Jordan Scott,"Eric Bana, Sadie Sink, Sylvia Hoeks","Drama, Horror, Mystery",5.0
+380,Gundi: Legend of Love,2024,166.0,Dimitar Dimitrov,"Pavel Ivanov, Alexandra Svilenova, Dimiter D. Marinov","Biography, Sport",9.0
+381,Beating Hearts,2024,166.0,Gilles Lellouche,"Adèle Exarchopoulos, François Civil, Malik Frikah","Crime, Drama, Romance",7.0
+382,Die Hart 2: Die Harter,2024,92.0,Eric Appel,"Kevin Hart, Nathalie Emmanuel, Ben Schwartz","Action, Comedy",4.3
+383,My Penguin Friend,2024,97.0,David Schurmann,"Jean Reno, Adriana Barraza, Alexia Moyano","Adventure, Drama, Family",6.8
+384,The Family Star,2024,159.0,Parasuram,"Mrunal Thakur, Vijay Deverakonda, Jagapathi Babu","Action, Drama, Romance",5.4
+385,The Front Room,2024,94.0,"Max Eggers, Sam Eggers","Brandy Norwood, Andrew Burnap, Kathryn Hunter","Horror, Thriller",4.6
+386,Sasquatch Sunset,2024,88.0,"David Zellner, Nathan Zellner","Jesse Eisenberg, Riley Keough, Christophe Zajac-Denek","Adventure, Comedy",5.4
+387,The Roundup: Punishment,2024,109.0,Heo Myeong-haeng,"Ma Dong-seok, Kim Mu-yeol, Park Ji-hwan","Action, Crime, Thriller",6.6
+388,Justice League: Crisis on Infinite Earths - Part Two,2024,94.0,Jeff Wamester,"Jensen Ackles, Darren Criss, Meg Donnelly","Animation, Action, Adventure",5.6
+389,Weapon,2024,120.0,Guhan Senniappan,"Sathyaraj, Vasanth Ravi, Tanya Hope","Action, Sci-Fi, Thriller",5.4
+390,Dead Sea,2024,88.0,Phil Volken,"Isabel Gravitt, Genneya Walton, Koa Tom","Crime, Thriller",5.2
+391,The Rule of Jenny Pen,2024,104.0,James Ashcroft,"Geoffrey Rush, Nikki MacDonnell, Maaka Pohatu","Horror, Mystery, Thriller",6.2
+392,Through My Window: Looking at You,2024,105.0,Marçal Forés,"Clara Galle, Julio Peña, Natalia Azahara","Comedy, Drama, Romance",5.4
+393,Sabari,2024,129.0,Anilkatz,"Varalaxmi Sarathkumar, Ganesh Venkatraman, Shashank Siddamsetty","Action, Drama, Family",6.5
+394,The Last Journey,2024,95.0,"Filip Hammar, Fredrik Wikingsson","Filip Hammar, Fredrik Wikingsson, Lars Hammar",Documentary,7.8
+395,Razakar: The Silent Genocide of Hyderabad,2024,166.0,Yaata Satyanarayana,"Raj Arjun, Bobby Simha, Anasuya Bharadwaj","Action, Drama, History",7.4
+396,Daddy's Head,2024,92.0,Benjamin Barfoot,"James Harper-Jones, Rupert Turnbull, Julia Brown",Horror,5.6
+397,The New Year That Never Came,2024,138.0,Bogdan Muresanu,"Adrian Vancica, Nicoleta Hâncu, Emilia Dobrin","Drama, History",8.2
+398,Mr. Bachchan,2024,150.0,Harish Shankar,"Ravi Teja, Sidhu Jonnalagadda, Jagapathi Babu","Action, Crime, Drama",3.6
+399,Crossing,2024,106.0,Levan Akin,"Mzia Arabuli, Lucas Kankava, Deniz Dumanli",Drama,7.4
+400,Blame the Game,2024,92.0,Marco Petry,"Dennis Mojen, Janina Uhse, Anna Maria Mühe","Comedy, Thriller",5.4
+401,Sixty Minutes,2024,88.0,Oliver Kienle,"Emilio Sakraya, Dennis Mojen, Marie Mouroum","Action, Adventure, Drama",5.7
+402,Young Hearts,2024,99.0,Anthony Schatteman,"Lou Goossens, Marius De Saeger, Geert Van Rampelberg","Drama, Family, Romance",8.0
+403,Bandaa Singh Chaudhary,2024,113.0,Abhishek Saxena,"Arshad Warsi, Alisha Chopra, Meher Vij","Action, Comedy, Drama",6.0
+404,Weekend in Taipei,2024,100.0,George Huang,"Luke Evans, Lun-Mei Gwei, Sung Kang","Action, Thriller",5.7
+405,Dhakshina,2024,107.0,Tulasi Ram Osho,"Rishav Basu, Magna Choudhary, Dhansika","Crime, Drama",5.4
+406,The Last Redemption,2024,122.0,John Real,"Kevin Sorbo, Angus Macfadyen, James Cosmo",Adventure,6.8
+407,Sharmajee Ki Beti,2024,116.0,Tahira Kashyap Khurrana,"Sakshi Tanwar, Divya Dutta, Saiyami Kher","Comedy, Drama",5.9
+408,Boneyard,2024,96.0,Asif Akbar,"Mel Gibson, 50 Cent, Brian Van Holt","Action, Crime, Drama",4.1
+409,Unsung Hero,2024,113.0,"Richard L. Ramsey, Joel David Smallbone","Daisy Betts, Joel David Smallbone, Kirrilee Berger","Drama, Family",7.0
+410,The Damned,2024,89.0,Thordur Palsson,"Odessa Young, Joe Cole, Siobhan Finneran","Drama, Horror, Mystery",5.7
+411,Laggam,2024,130.0,Ramesh Cheppala,"Anjibabu, Raghu Babu, Chammak Chandra",Family,8.3
+412,Superboys of Malegaon,2024,127.0,Reema Kagti,"Adarsh Gourav, Shashank Arora, Vineet Kumar Singh","Comedy, Drama",7.7
+413,Música,2024,91.0,Rudy Mancuso,"Rudy Mancuso, Camila Mendes, Francesca Reale","Comedy, Music, Romance",6.4
+414,A Little Something Extra,2024,99.0,Artus,"Théophile Leroy, Ludovic Boul, Stanislas Carmont",Comedy,7.0
+415,The Forge,2024,124.0,Alex Kendrick,"Cameron Arnett, Priscilla C. Shirer, Aspen Kennedy","Drama, Family",6.7
+416,The Firing Squad,2024,93.0,Timothy A. Chey,"James Barrington, Kevin Sorbo, Cuba Gooding Jr.","Adventure, Biography, Drama",5.1
+417,Friendship,2024,100.0,Andrew DeYoung,"Tim Robinson, Paul Rudd, Kate Mara",Comedy,7.5
+418,Malayalee from India,2024,160.0,Dijo Jose Antony,"Anaswara Rajan, Dhyan Sreenivasan, Nivin Pauly","Action, Comedy, Drama",5.6
+419,The Beast Within,2024,97.0,Alexander J. Farrell,"Kit Harington, Ashleigh Cummings, Caoilinn Springall",Horror,4.3
+420,The Piano Lesson,2024,127.0,Malcolm Washington,"Samuel L. Jackson, John David Washington, Danielle Deadwyler","Drama, Music",6.2
+421,Bloodline Killer,2024,105.0,Ante Novakovic,"Shawnee Smith, Taryn Manning, Tyrese Gibson","Crime, Horror, Mystery",4.3
+422,The Day the Earth Blew Up: A Looney Tunes Movie,2024,91.0,Peter Browngardt,"Eric Bauza, Candi Milo, Peter MacNicol","Animation, Adventure, Comedy",7.0
+423,Yo Yo Honey Singh: Famous,2024,80.0,Mozez Singh,"Shah Rukh Khan, Salman Khan, Yo Yo Honey Singh","Documentary, Drama",6.8
+424,Music by John Williams,2024,105.0,Laurent Bouzereau,"John Williams, Steven Spielberg, Chris Martin","Documentary, Biography, Music",8.2
+425,Rumours,2024,104.0,"Evan Johnson, Galen Johnson, Guy Maddin","Cate Blanchett, Roy Dupuis, Denis Ménochet","Comedy, Drama, Horror",5.0
+426,The Wasp,2024,96.0,Guillem Morales,"Naomie Harris, Natalie Dormer, Dominic Allburn",Thriller,6.1
+427,Kuch Khattaa Ho Jaay,2024,125.0,Ashok G.,"Ila Arun, Brahmanandam, Paresh Ganatra",Comedy,5.3
+428,Vaazhai,2024,134.0,Mari Selvaraj,"Dhivya Dhuraisamy, Kalaiyarasan, JSK. Satish Kumar",Drama,7.7
+429,Eagle,2024,159.0,Karthik Gattamneni,"Ravi Teja, Anupama Parameswaran, Navdeep","Action, Thriller",5.9
+430,Something in the Water,2024,86.0,Hayley Easton Street,"Hiftu Quasem, Natalie Mitson, Tashani Bent","Adventure, Drama, Horror",4.1
+431,Race for Glory: Audi vs. Lancia,2024,109.0,Stefano Mordini,"Haley Bennett, Daniel Brühl, Riccardo Scamarcio","Biography, Drama, Sport",5.8
+432,Thalavan,2024,131.0,Jis Joy,"Biju Menon, Asif Ali, Miya George","Crime, Mystery, Thriller",7.2
+433,Uranus 2324,2024,130.0,Thanadol Nualsuth,"Freen Sarocha Chankimha, Rebecca Patricia 'Becky' Armstrong, Amarin Nitipon","Drama, Romance, Sci-Fi",6.4
+434,Guruvayoor Ambalanadayil,2024,132.0,Vipin Das,"Prithviraj Sukumaran, Basil Joseph, Nikhila Vimal",Comedy,6.6
+435,The Master and Margarita,2024,156.0,Michael Lockshin,"August Diehl, Yulia Snigir, Evgeniy Tsyganov","Drama, Fantasy, Romance",7.2
+436,Vanished Into the Night,2024,92.0,Renato De Maria,"Riccardo Scamarcio, Annabelle Wallis, Massimiliano Gallo","Drama, Thriller",5.2
+437,Legally Veer,2024,142.0,Ravi Gogula,"Reddy Veer, Thanuja Puttaswamy, Priyanka Rewri","Drama, Thriller",7.0
+438,Chief of Station,2024,97.0,Jesse V. Johnson,"Aaron Eckhart, Olga Kurylenko, Alex Pettyfer","Action, Thriller",4.7
+439,Outside,2024,142.0,Carlo Ledesma,"Sid Lucero, Beauty Gonzalez, Marco Masa","Horror, Thriller",5.1
+440,Mr. Crocket,2024,88.0,Brandon Espy,"Jerrika Hinton, Ayden Gavin, Kristolyn Lloyd",Horror,5.4
+441,"Love, Divided",2024,98.0,Patricia Font,"Aitana, Fernando Guallar, Natalia Rodríguez","Comedy, Romance",6.0
+442,Justice League: Crisis on Infinite Earths - Part Three,2024,94.0,Jeff Wamester,"Jensen Ackles, Gideon Adlon, Ike Amadi","Animation, Action, Adventure",6.1
+443,Money Electric: The Bitcoin Mystery,2024,100.0,Cullen Hoback,"Cullen Hoback, Samson Mow, Ricardo Salinas Pliego",Documentary,6.8
+444,The Underdoggs,2024,96.0,Charles Stone III,"Snoop Dogg, Tika Sumpter, Mike Epps","Comedy, Sport",5.6
+445,Skincare,2024,96.0,Austin Peters,"Elizabeth Banks, Lewis Pullman, Luis Gerardo Méndez","Comedy, Mystery, Thriller",5.7
+446,Demonte Colony 2,2024,144.0,R. Ajay Gnanamuthu,"VJ Archana, Arulnithi, C. Arunpandian","Horror, Thriller",6.6
+447,Vermiglio,2024,119.0,Maura Delpero,"Tommaso Ragno, Roberta Rovelli, Martina Scrinzi","Drama, History",6.9
+448,The Courier,2024,101.0,Daniel Calparsoro,"Arón Piper, María Pedraza, Luis Tosar","Action, Adventure, Crime",6.0
+449,Rifle Club,2024,113.0,Aashiq Abu,"Anurag Kashyap, Dileesh Pothan, Vijayaraghavan",Action,7.0
+450,Handling the Undead,2024,97.0,Thea Hvistendahl,"Bjørn Sundquist, Renate Reinsve, Dennis Østby Ruud","Drama, Horror, Mystery",5.3
+451,Luv Ki Arrange Marriage,2024,135.0,Ishrat R. Khan,"Sunny Singh, Avneet Kaur, Annu Kapoor","Comedy, Family",3.9
+452,Despatch,2024,153.0,Kanu Behl,"Manoj Bajpayee, Shahana Goswami, Arrchita Agarwaal","Drama, Thriller",4.4
+453,Undercover,2024,118.0,Arantxa Echevarría,"Carolina Yuste, Luis Tosar, Iñigo Gastesi",Thriller,7.2
+454,Bloody Beggar,2024,134.0,M. Sivabalan,"Kavin, Radha Ravi, Redin Kingsley","Action, Comedy, Drama",6.2
+455,Vedaa,2024,145.0,Nikkhil Advani,"John Abraham, Sharvari, Abhishek Banerjee","Action, Drama, Thriller",6.0
+456,My Name Is Loh Kiwan,2024,131.0,Kim Hee Jin,"Song Joong-ki, Kaan Abdullah, June Angela","Drama, Romance",6.7
+457,Aftermath,2024,78.0,"Gergö Elekes, József Gallai","Fruzsina Nagy, Edward Apeagyei, Sally Kirkland","Drama, Mystery, Sci-Fi",5.2
+458,You Can't Run Forever,2024,102.0,Michelle Schumacher,"J.K. Simmons, Fernanda Urrejola, Allen Leech","Drama, Horror, Thriller",4.5
+459,Cellar Door,2024,97.0,Vaughn Stein,"Jordana Brewster, Laurence Fishburne, Scott Speedman",Thriller,5.3
+460,Cadi,2024,134.0,Erman Bostan,"Furkan Andic, Buse Meral, Çagdas Onur Öztürk","Drama, Horror, Thriller",6.3
+461,Armor,2024,89.0,Justin Routt,"Jason Patric, Sylvester Stallone, Josh Wiggins","Action, Crime, Drama",3.6
+462,Unstoppable,2024,116.0,William Goldenberg,"Jharrel Jerome, Anthony Robles, Jennifer Lopez","Drama, Sport",6.8
+463,The Calendar Killer,2024,97.0,Adolfo J. Kolmerer,"Luise Heyer, Sabin Tambrea, Friedrich Mücke","Crime, Thriller",5.4
+464,Gone Running,2024,105.0,Gábor Herendi,"Dorottya Udvaros, Réka Tenki, Rozi Lovas","Comedy, Romance",7.0
+465,Beautiful Wedding,2024,100.0,Roger Kumble,"Virginia Gardner, Dylan Sprouse, Libe Barer","Comedy, Romance",4.1
+466,Vaazha: Biopic of a Billion Boys,2024,125.0,Anand Menon,"Siju Sunny, Amith Mohan Rajeshwari, Joemon Jyothir","Comedy, Drama",7.3
+467,Erdal and Ece,2024,107.0,Togan Gökbakar,"Sahan Gökbakar, Seda Türkmen, Kerem Poyraz Kayaalp",Comedy,4.3
+468,How to Rob a Bank,2024,88.0,"Stephen Robert Morse, Seth Porges","Scott Scurlock, Ellen Glasser, Shawn Johnson","Documentary, Action, Crime",6.6
+469,Aftermath,2024,97.0,Patrick Lussier,"Dylan Sprouse, Mason Gooding, Megan Stott","Action, Thriller",5.1
+470,Abraham Ozler,2024,143.0,Midhun Manuel Thomas,"Jayaram, Jagadish, Senthil Krishna","Crime, Drama, Mystery",6.6
+471,Bahumukham,2024,90.0,HarShiv Karthik,"HarShiv Karthik, Maria Martynova, Swarnima Singh","Drama, Thriller",8.5
+472,Varshangalkku Shesham,2024,166.0,Vineeth Sreenivasan,"Pranav Mohanlal, Dhyan Sreenivasan, Nivin Pauly","Comedy, Drama, Musical",6.6
+473,Dancing Village: The Curse Begins,2024,122.0,Kimo Stamboel,"Aulia Sarah, Maudy Effrosina, Jourdy Pranata","Horror, Mystery, Thriller",5.7
+474,Gelin Takimi,2024,109.0,Doga Can Anafarta,"Seda Bakan, Dogan Bayraktar, Sebnem Bozoklu","Comedy, Romance",3.9
+475,Malaikottai Vaaliban,2024,156.0,Lijo Jose Pellissery,"Mohanlal, Sonalee Kulkarni, Hareesh Peradi","Action, Drama, Fantasy",6.0
+476,The Wages of Fear,2024,104.0,Julien Leclercq,"Franck Gastambide, Alban Lenoir, Sofiane Zermani","Action, Adventure, Drama",4.6
+477,Federer: Twelve Final Days,2024,88.0,"Asif Kapadia, Joe Sabia","Roger Federer, Mirka Federer, Leo Federer","Documentary, Biography, Sport",7.3
+478,Gorre Puranam,2024,103.0,Bobby,"Suhas, Vishika Kota, Raghu Karumanchi",Drama,4.3
+479,Martha,2024,115.0,R.J. Cutler,"Dan Abrams, Jed Alexander, Varda Appleton",Documentary,7.2
+480,Gowri,2024,130.0,"Aneesh, Indrajit Lankesh","Manasi Sudhir, Priyanka Upendra, Sampath Maitreya",Family,7.4
+481,Bitconned,2024,93.0,Bryan Storkel,"Ray Trapani, Nathaniel Popper, Andrew Aguirre",Documentary,6.5
+482,Einstein and the Bomb,2024,76.0,Anthony Philipson,"Aidan McArdle, Andrew Havill, Rachel Barry","Documentary, History",6.2
+483,Sweethearts,2024,98.0,Jordan Weiss,"Kiernan Shipka, Nico Hiraga, Caleb Hearon",Comedy,5.6
+484,100 Crores,2024,,Virat Chakravarthy,"Rahul Haridas, Sakshi Chaudhary, Bhadram",Action,5.5
+485,Ayalaan,2024,155.0,R. Ravikumar,"Sivakarthikeyan, Rakul Preet Singh, Karunakaran","Action, Adventure, Sci-Fi",5.9
+486,Homestead,2024,112.0,Ben Smallbone,"Iñigo Pascual, Mark Labella, Susan Misner","Action, Drama, Thriller",5.2
+487,Justice,2024,113.0,Michal Gazda,"Olaf Lubaszenko, Jedrzej Hycnar, Wiktoria Gorodecka","Crime, Drama",6.3
+488,How to Date Billy Walsh,2024,98.0,Alex Pillai,"Charithra Chandran, Sebastian Croft, Tanner Buchanan","Comedy, Romance",5.2
+489,Bosco,2024,99.0,Nicholas Manuel Pino,"Aubrey Joseph, Nikki Blonsky, John Lewis","Drama, Thriller",5.5
+490,Saving Bikini Bottom: The Sandy Cheeks Movie,2024,82.0,Liza Johnson,"Carolyn Lawrence, Tom Kenny, Clancy Brown","Animation, Adventure, Comedy",3.7
+491,Sidelined: The QB and Me,2024,99.0,Justin Wu,"Siena Agudong, Noah Beck, Drew Ray Tanner",Romance,5.9
+492,Monster Summer,2024,97.0,David Henrie,"Mel Gibson, Mason Thames, Julian Lerner","Adventure, Fantasy, Mystery",5.7
+493,House of Spoils,2024,101.0,"Bridget Savage Cole, Danielle Krudy","Ariana DeBose, Barbie Ferreira, Arian Moayed","Drama, Horror, Thriller",5.0
+494,Bachhala Malli,2024,140.0,Subbu,"Allari Naresh, Amritha Aiyer, Rao Ramesh","Action, Drama, Romance",8.2
+495,Bring Them Down,2024,106.0,Chris Andrews,"Christopher Abbott, Barry Keoghan, Colm Meaney","Drama, Thriller",6.5
+496,Jim Henson: Idea Man,2024,111.0,Ron Howard,"Jim Henson, Frank Oz, Alex Rockwell","Documentary, Biography",7.7
+497,Jatt Nuu Chudail Takri,2024,155.0,Vikas Vashisht,"Gippy Grewal, Sargun Mehta, Roopi Gill",Comedy,5.0
+498,Pogumidam Vegu Thooramillai,2024,133.0,Michael K Raja,"Vimal, Karunas, Mery Rickets",Mystery,7.3
+499,The 4:30 Movie,2024,87.0,Kevin Smith,"Siena Agudong, Austin Zajur, Kate Micucci",Comedy,6.0
+500,Ferry 2,2024,94.0,Wannes Destoop,"Frank Lammers, Aiko Beemsterboer, Tobias Kersloot","Action, Crime, Drama",5.6
+501,Yolo,2024,129.0,Ling Jia,"Ling Jia, Jiayin Lei, Xiaofei Zhang","Action, Comedy, Drama",6.9
+502,Bonhoeffer: Pastor. Spy. Assassin.,2024,133.0,Todd Komarnicki,"Jonas Dassler, Phileas Heyblom, August Diehl","Biography, Drama, History",6.2
+503,Dhoom Dhaam,2024,142.0,"Macha Sai Kishore, Sai Kishore Macha","Chetan Maddineni, Hebah Patel, Benerjee",Drama,6.6
+504,Dirty Fellow,2024,119.0,Adari Murthy Sai,"Simrithi Bhatija, Shanti Chandra, Nikkesha","Action, Drama",6.8
+505,In Her Place,2024,96.0,Maite Alberdi,"Elisa Zulueta, Francisca Lewin, Marcial Tagle","Crime, Drama, History",6.2
+506,One More Shot,2024,103.0,James Nunn,"Scott Adkins, Michael Jai White, Alexis Knapp","Action, Thriller",5.4
+507,Marmalade,2024,99.0,Keir O'Donnell,"Joe Keery, Hans Christopher, Aldis Hodge","Comedy, Crime, Drama",6.3
+508,Dirty Angels,2024,104.0,Martin Campbell,"Eva Green, Maria Bakalova, Ruby Rose","Action, Drama, Thriller",4.4
+509,Rathnam,2024,155.0,Hari,"Vishal, Priya Bhavani Shankar, Samuthirakani",Action,5.4
+510,Die Alone,2024,90.0,Lowell Dean,"Carrie-Anne Moss, Douglas Smith, Frank Grillo","Drama, Horror, Mystery",5.7
+511,Black Box Diaries,2024,102.0,Shiori Itô,Shiori Itô,Documentary,7.5
+512,Turbo,2024,155.0,Vysakh,"Mammootty, Raj B. Shetty, Anjana Jayaprakash","Action, Comedy",5.9
+513,You Are the Apple of My Eye,2024,101.0,Cho Young-Myoung,"Jung Jinyoung, Kim Da-Hyun, Demian","Comedy, Drama, Romance",7.0
+514,Riff Raff,2024,103.0,Dito Montiel,"Jennifer Coolidge, Ed Harris, Gabrielle Union","Comedy, Crime",5.7
+515,The Second Act,2024,80.0,Quentin Dupieux,"Léa Seydoux, Vincent Lindon, Louis Garrel",Comedy,6.4
+516,The Surfer,2024,100.0,Lorcan Finnegan,"Nicolas Cage, Finn Little, Rahel Romahn",Thriller,6.5
+517,The Penguin Lessons,2024,111.0,Peter Cattaneo,"Steve Coogan, Jonathan Pryce, Bruno Blas",Drama,7.1
+518,Reunion,2024,90.0,Chris Nelson,"Lil Rel Howery, Billy Magnussen, Jamie Chung","Comedy, Mystery",5.6
+519,Magpie,2024,90.0,Sam Yates,"Daisy Ridley, Shazad Latif, Matilda Lutz",Thriller,6.2
+520,Inheritance,2024,94.0,Sylwester Jakimow,"Jan Peszek, Maciej Stuhr, Joanna Trzepiecinska","Comedy, Drama, Mystery",5.1
+521,Tyler Perry's Divorce in the Black,2024,143.0,Tyler Perry,"Meagan Good, Cory Hardrict, Joseph Lee Anderson","Drama, Thriller",4.6
+522,Souleymane's Story,2024,93.0,Boris Lojkine,"Abou Sangare, Alpha Oumar Sow, Nina Meurisse",Drama,7.6
+523,Skywalkers: A Love Story,2024,100.0,"Jeff Zimbalist, Maria Bukhonina","Angela Nikolau, Ivan Beerkus",Documentary,7.1
+524,The Marching Band,2024,103.0,Emmanuel Courcol,"Benjamin Lavernhe, Pierre Lottin, Sarah Suco","Comedy, Drama, Music",7.4
+525,Manyam Dheerudu,2024,114.0,Dekkala Naresh,"Shanti Varma Bhupathi, Navvula Damodhar, G.V.Trinadh",Biography,5.2
+526,El 47,2024,110.0,Marcel Barrena,"Eduard Fernández, Clara Segura, Zoe Bonafonte","Biography, Drama",7.2
+527,Black Dog,2024,116.0,Guan Hu,"Eddie Peng, Liya Tong, Jia Zhang-ke","Drama, Thriller",7.2
+528,The Mouse Trap,2024,80.0,Jamie Bailey,"Simon Phillips, Sophie McIntosh, Madeline Kelman","Comedy, Horror, Thriller",2.4
+529,Mechanic Rocky,2024,156.0,Ravi Teja Mullapudi,"Regena Cassandrra, Meenaakshi Chaudhary, Sunil","Action, Drama",6.4
+530,Max,2024,132.0,Vijay Karthikeyan,"Sudeep, Varalaxmi Sarathkumar, Sunil",Action,7.1
+531,Tillu Square,2024,137.0,Mallik Ram,"Anupama Parameswaran, Sidhu Jonnalagadda, Priyanka Jawalkar","Action, Comedy, Crime",6.6
+532,A House on Fire,2024,105.0,Dani de la Orden,"Emma Vilarasau, Enric Auquer, Maria Rodríguez Soto","Comedy, Drama",7.3
+533,Sugarcane,2024,107.0,"Emily Kassie, Julian Brave NoiseCat","Willie Sellars, Charlene Belleau, Whitney Spearing",Documentary,7.0
+534,Garudan,2024,133.0,R.S. Durai Senthilkumar,"Soori, M. Sasikumar, Unni Mukundan",Action,7.1
+535,La cocina,2024,139.0,Alonso Ruizpalacios,"Raúl Briones, Rooney Mara, James Waterston","Drama, Romance",7.1
+536,Hijack 1971,2024,100.0,Kim Sung-han-I,"Chae Soo-bin, Sung Dong-il, Park Ji-ah","Action, Crime, Thriller",6.8
+537,Distant,2024,87.0,"Josh Gordon, Will Speck","Anthony Ramos, Naomi Scott, Kristofer Hivju","Comedy, Drama, Sci-Fi",5.7
+538,Shirley,2024,117.0,John Ridley,"Regina King, Lance Reddick, Terrence Howard","Biography, Drama, History",6.2
+539,Prey,2024,86.0,Mukunda Michael Dewil,"Ryan Phillippe, Emile Hirsch, Mena Suvari","Action, Thriller",3.7
+540,The Thicket,2024,108.0,Elliott Lester,"Peter Dinklage, Juliette Lewis, Levon Hawke","Crime, Drama, Western",5.8
+541,Maruthi Nagar Subramanyam,2024,147.0,Lakshman Karya,"Ajay, Annapurnamma, Bindu Chandramouli",Comedy,7.7
+542,Jailbreak: Love on the Run,2024,88.0,Dan Abrams,"Joy Behar, Mike Blakely, Joyce Brawley","Documentary, Crime",6.4
+543,Hello Mummy,2024,136.0,Vaishakh Elans,"Sharafudheen, Aishwarya Lekshmi, Johny Antony",Comedy,5.5
+544,Cocorico,2024,92.0,Julien Hervé,"Christian Clavier, Didier Bourdon, Sylvie Testud",Comedy,5.8
+545,Bougainvillea,2024,138.0,Amal Neerad,"Kunchacko Boban, Fahadh Faasil, Jyothirmayi","Action, Crime, Mystery",6.4
+546,Bastar: The Naxal Story,2024,124.0,"Sudipto Sen, Vipul Amrutlal Shah","Adah Sharma, Shah Zain Alam, Sachin Bansode","Action, Crime, Drama",6.4
+547,Watchmen: Chapter II,2024,90.0,"Vinton Heuck, Brandon Vietti","Troy Baker, Adrienne Barbeau, Michael Cerveris","Animation, Action, Drama",7.1
+548,Hack Your Health: The Secrets of Your Gut,2024,79.0,Anjali Nayar,"Giulia Enders, Heiner Krammer, John Cryan",Documentary,6.6
+549,The Red Virgin,2024,114.0,Paula Ortiz,"Najwa Nimri, Alba Planas, Aixa Villagrán",Drama,6.8
+550,Darkness of Man,2024,109.0,James Cullen Bressack,"Jean-Claude Van Damme, Kristanna Loken, Emerson Min","Action, Crime, Thriller",4.7
+551,They Called Him Mostly Harmless,2024,89.0,Patricia E. Gillespie,"Kristin Adams, Marge Creech, Brandon Dowell","Documentary, Crime, Mystery",5.9
+552,Girl Haunts Boy,2024,100.0,Emily Ting,"Peyton List, Michael Cimino, Andrea Navedo","Fantasy, Romance",6.3
+553,Zebra,2024,164.0,Eashvar Karthic,"Satyadev Kancharana, Priya Bhavani Shankar, Dhananjaya","Action, Crime, Thriller",7.2
+554,Pani,2024,143.0,Joju George,"Joju George, Sagar Surya, Junaiz VP","Action, Crime, Drama",6.9
+555,Marakkuma Nenjam,2024,137.0,Raako.Yoagandran,"Munishkanth, Malina, Rakshan",Drama,5.3
+556,Binny and Family,2024,140.0,Ssanjay Tripaathy,"Pankaj Kapur, Anjini Dhawan, Rajesh Kumar",Drama,7.3
+557,Project Dorothy,2024,80.0,George Henry Horton,"Danielle Harris, Tim DeZarn, Adam Budron","Horror, Sci-Fi, Thriller",3.9
+558,BTS: Behind the Scenes,2024,,"Apoorva Bharadwaj, Kuldeep Cariappa, Prajwal Raj","Aahan, Koushik Gowda, Medini Kelamane",,8.0
+559,Miss You,2024,128.0,N. Rajasekar,"Siddharth, Ashika Ranganath, Anupama Parameswaran",Romance,6.1
+560,Omni Loop,2024,112.0,Bernardo Britto,"Mary-Louise Parker, Ayo Edebiri, Carlos Jacott","Drama, Sci-Fi",5.6
+561,Ni Main Sass Kuttni 2,2024,125.0,Mohit Banwait,"Gurpreet Ghuggi, Nirmal Rishi, Neha Dayal",Comedy,4.1
+562,Ek Kori Prem Katha,2024,129.0,Cchinmay P Purohit,"Akshay Oberoi, Raj Babbar, Khanak Budhiraja",Drama,6.3
+563,Bhale Unnade,2024,137.0,Siva Sai Vardhan,"Hyper Aadi, Ammu Abhirami, VTV Ganesh",Comedy,9.0
+564,Kahan Shuru Kahan Khatam,2024,107.0,Saurabh Dasgupta,"Dhvani Bhanushali, Ravi Chauhan, Rakesh Bedi","Comedy, Romance",6.0
+565,Parakramam,2024,131.0,Bandi Saroj Kumar,"Bandi Saroj Kumar, Naga Lakshmi, Sruthi Samanvi",Drama,6.7
+566,A Dog's Will 2,2024,104.0,"Guel Arraes, Flávia Lacerda","Matheus Nachtergaele, Selton Mello, Taís Araújo","Comedy, Drama, Fantasy",6.2
+567,Raju Gari Ammayi Naidu Gari Abbayi,2024,158.0,Satya Raj,"Ravi Teja Nunna, Neha Jurel, Yogi Khatri","Action, Romance, Thriller",8.2
+568,Vaaradhi,2024,125.0,Manikala Sri Krishna,"Anil Arka, Viharika Chowdary, Prashanth Madugula",Drama,8.8
+569,Faye,2024,91.0,Laurent Bouzereau,"Faye Dunaway, Mark Harris, Sharon Stone","Documentary, Biography",7.1
+570,Krishnam Pranaya Sakhi,2024,159.0,Srinivas Raju,"Ganesh, Malvika Nair, Sadhu Kokila",Comedy,7.5
+571,Sarangadhariya,2024,150.0,Padmarao Abbisetti,"Srikanta Ayangar, L.V. Prasad CH, Neela Priya Devulapalli",Action,8.3
+572,Committee Kurrollu,2024,156.0,Yadu Vamsi,"Prasad Behra, Ramana Bhargav, Kota Jayaram",Drama,8.1
+573,Soundtrack to a Coup d'Etat,2024,150.0,Johan Grimonprez,"Patrice Lumumba, Dag Hammarskjöld, Louis Armstrong","Documentary, Music",7.8
+574,Nunakuzhi,2024,125.0,Jeethu Joseph,"Basil Joseph, Swasika Vijay, Binu Pappu","Comedy, Crime",6.8
+575,Swag,2024,150.0,Hasith Goli,"Sree Vishnu, Ritu Varma, Sunil","Comedy, Drama",7.5
+576,Namo,2024,124.0,Aditya Reddy Kunduru,"Viswant Duddumpudi, Anuroop Katari, Vismaya Sri",Comedy,8.0
+577,Pedro Páramo,2024,130.0,Rodrigo Prieto,"Manuel Garcia-Rulfo, Tenoch Huerta, Dolores Heredia","Drama, Fantasy, Horror",6.3
+578,Harom Hara,2024,154.0,Gnanasagar Dwaraka,"Sudheer Babu Posani, Sunil, Malvika Sharma","Action, Crime, Drama",6.6
+579,Simarik,2024,111.0,Onur Ünlü,"Kerem Bürsin, Melis Sezen, Erkan Kolçak Köstendil","Comedy, Drama",5.9
+580,Between the Temples,2024,111.0,Nathan Silver,"Jason Schwartzman, Carol Kane, Dolly De Leon",Comedy,6.2
+581,2073,2024,85.0,Asif Kapadia,"Naomi Ackie, Samantha Morton, Mohammad Bin Salman","Documentary, Thriller",5.0
+582,Armand,2024,118.0,Halfdan Ullmann Tøndel,"Renate Reinsve, Ellen Dorrit Petersen, Endre Hellestveit",Drama,6.2
+583,Cash Out,2024,92.0,Randall Emmett,"John Travolta, Kristin Davis, Lukas Haas",Action,4.8
+584,The Birthday Boy,2024,118.0,Whisky,"Ravi Krishna, Sameer Malla, Rajeev Kanakala","Drama, Mystery, Thriller",8.2
+585,Lover,2024,145.0,Prabhu Ram Vyas,"Manikandan K., Sri Gouri Priya, Harini Sundararajan",Drama,7.1
+586,Love Mocktail 2,2024,140.0,Darling Krishna,"Baby Aaradhya, Abhilaash, Khushi Achar","Drama, Romance",8.8
+587,The Truth vs. Alex Jones,2024,121.0,Dan Reed,"Alex Jones, Russell Dowden, Rob Jacobson","Documentary, Biography, Crime",7.5
+588,Timestalker,2024,89.0,Alice Lowe,"Alice Lowe, Jacob Anderson, Nick Frost","Comedy, Drama, Fantasy",5.5
+589,We Love Bad Boys,2024,129.0,Raju Rajendra Prasad,"Ajay Kumar Kathurvar, Vamsi Krishna, Aditya Shashank Neeti",Comedy,1.3
+590,Agak Laen,2024,119.0,Muhadkly Acho,"Bene Dion Rajagukguk, Oki Rengga, Indra Jegel",Comedy,7.6
+591,The Inheritance,2024,85.0,Alejandro Brugués,"Bob Gunton, Peyton List, Briana Middleton","Horror, Thriller",4.7
+592,Thelma the Unicorn,2024,93.0,"Jared Hess, Lynn Wang","Brittany Howard, Will Forte, Jon Heder","Animation, Adventure, Comedy",5.7
+593,August,2024,52.0,Zhehan Zhang,Zhehan Zhang,Documentary,8.5
+594,Trisha on the Rocks,2024,172.0,Krishnadev Yagnik,"Janki Bodiwala, Ravi Gohil, Hiten Kumar","Comedy, Romance",5.2
+595,Grave Torture,2024,117.0,Joko Anwar,"Faradina Mufti, Reza Rahadian, Widuri Puteri","Drama, Horror, Thriller",6.2
+596,Shivam Bhaje,2024,121.0,Apsar,"Hyper Aadi, Darbha Appaji Ambarisha, Ashwin Babu","Crime, Drama",7.9
+597,Siren,2024,154.0,Anthony Bhagyaraj,"Anupama Parameswaran, Yogi Babu, Keerthy Suresh","Action, Crime, Thriller",6.4
+598,Vasco Da Gama,2024,125.0,R.G. Krishnan,"Nakhul, K.S. Ravikumar, Arthana Binu","Comedy, Thriller",4.8
+599,Casatoria,2024,96.0,Mihai Bendeac,"Mihai Bendeac, Vlad Dragulin, Liviu Pintileasa",Comedy,6.3
+600,Air Force One Down,2024,84.0,James Bamford,"Katherine McNamara, Ian Bohen, Rade Serbedzija","Action, Thriller",4.4
+601,Mandakini,2024,127.0,Vinod Leela,"Althaf Salim, Anarkali Marikar, Ganapathi S. Poduval",Comedy,5.9
+602,Good One,2024,89.0,India Donaldson,"Lily Collias, Sumaya Bouhbal, Valentine Black",Drama,6.7
+603,A Part of You,2024,99.0,Sigge Eklund,"Felicia Maxime, Edvin Ryding, Zara Larsson",Drama,5.8
+604,Siddharth Roy,2024,148.0,V Yeshasvi,"Gaurav Mahaur, Kalyani Natarajan, Tanvi Negi","Drama, Romance",6.3
+605,Lohusa,2024,118.0,Kivanç Baruönü,"Gupse Özay, Onur Gürçay, Cihan Albayrak",Comedy,5.3
+606,Survive,2024,90.0,Frédéric Jardin,"Émilie Dequenne, Andreas Pietschmann, Lisa Delamar","Action, Adventure, Sci-Fi",4.6
+607,The Soul Eater,2024,108.0,"Alexandre Bustillo, Julien Maury","Virginie Ledoyen, Paul Hamy, Sandrine Bonnaire","Crime, Horror, Mystery",5.8
+608,DarkGame,2024,100.0,Howard J. Ford,"Ed Westwick, Andrew P Stephen, Natalya Tsvetkova","Horror, Thriller",4.6
+609,Haraa,2024,136.0,Vijay Sri G.,"Mohan, Yogi Babu, Manobala",Action,5.2
+610,William Tell,2024,133.0,Nick Hamm,"Claes Bang, Tobias Jowett, Connor Swindells","Action, Biography, Drama",5.7
+611,The Radleys,2024,115.0,Euros Lyn,"Kelly Macdonald, Damian Lewis, Sophia Di Martino","Comedy, Horror",5.0
+612,Pavi Caretaker,2024,150.0,Vineeth Kumar,"Dileep, Radhika Sarathkumar, Johny Antony",Comedy,5.0
+613,"MoviePass, MovieCrash",2024,96.0,Muta'Ali,"Mitch Lowe, Nathan McAlone, Sydney Weinshel","Documentary, Comedy, Crime",6.7
+614,The Luckiest Man in America,2024,91.0,Samir Oliveros,"Paul Walter Hauser, Walton Goggins, Shamier Anderson",Thriller,6.2
+615,The Lost Children,2024,96.0,"Orlando von Einsiedel, Jorge Duran, Lali Houghton","Vanessa F. Garcia, Dan Garza, Henry Guerrero",Documentary,7.0
+616,Latency,2024,94.0,James Croke,"Sasha Luss, Alexis Ren, Robert Coleby","Action, Horror, Sci-Fi",4.2
+617,Dan Da Dan: First Encounter,2024,83.0,Fûga Yamashiro,"Shion Wakayama, Natsuki Hanae, Mayumi Tanaka","Animation, Action, Comedy",8.2
+618,Cult Killer,2024,105.0,Jon Keeyes,"Antonio Banderas, Alice Eve, Shelley Hennig","Adventure, Crime, Drama",4.8
+619,Black,2024,115.0,Balasubramani KG,"Jiiva, Priya Bhavani Shankar, Vivek Prasanna","Horror, Mystery, Sci-Fi",7.1
+620,The Blue Angels,2024,93.0,Paul Crowder,"Chris Kapuschansky, Brian Kesselring, Monica Borza",Documentary,7.3
+621,Aliya Basu Gayab Hai,2024,103.0,Preeti Singh,"Salim Diwan, Vinay Pathak, Raima Sen",Drama,6.1
+622,Carved,2024,95.0,Justin Harding,"Peyton Elizabeth Lee, Corey Fogelmanis, Carla Jimenez","Comedy, Horror",4.4
+623,The Fire Inside,2024,109.0,Rachel Morrison,"Ryan Destiny, Brian Tyree Henry, Jazmin Headley","Biography, Drama, Sport",6.7
+624,Fear,2024,115.0,Haritha Gogineni,"Vedhika, Arvind Krishna, V. Jayaprakash","Drama, Family, Thriller",8.3
+625,Gunner,2024,106.0,Dimitri Logothetis,"Luke Hemsworth, Morgan Freeman, Mykel Shannon Jenkins",Action,3.2
+626,Dagr,2024,77.0,Matthew Butler-Hart,"Riz Moritz, Ellie Duckles, Tori Butler-Hart","Horror, Thriller",4.4
+627,Out of My Mind,2024,102.0,Amber Sealey,"Phoebe-Rae Taylor, Luke Kirby, Emily Mitchell",Drama,7.4
+628,"LSD 2: Love, Sex Aur Dhokha 2",2024,119.0,Dibakar Banerjee,"Paritosh Tiwari, Bonita Rajpurohit, Abhinav Singh","Comedy, Crime, Drama",3.8
+629,Nasha Jurm Aur Gangsters,2024,137.0,"Rajkumar Patra, Rocky Rupkumar Patra","Rocky Rupkumar Patra, Rajkumar Patra, Yudhisthir","Action, Crime, Drama",6.8
+630,Devaki Nandana Vasudeva,2024,128.0,Arjun Jandyala,"Ashok Galla, Manasa Varanasi, Devayani",Action,6.5
+631,Old Guy,2024,94.0,Simon West,"Christoph Waltz, Lucy Liu, Cooper Hoffman","Action, Comedy",5.2
+632,Classified,2024,105.0,Roel Reiné,"Aaron Eckhart, Tim Roth, Abigail Breslin","Action, Mystery, Thriller",3.7
+633,Dahomey,2024,68.0,Mati Diop,"Lucrèce Hougbelo, Parfait Vaiayinon, Didier Sedoha Nassangade",Documentary,6.8
+634,The Mehta Boys,2024,116.0,Boman Irani,"Boman Irani, Avinash Tiwary, Shreya Chaudhry",Drama,7.1
+635,Pottel,2024,148.0,Sahit Mothkhuri,"Yuva Chandraa, Ananya Nagalla, Noel Sean","Action, Drama, Thriller",8.1
+636,Things Will Be Different,2024,102.0,Michael Felker,"Adam David Thompson, Riley Dandy, Chloe Skoczen","Horror, Sci-Fi, Thriller",5.2
+637,Rajkumar,2024,145.0,Himel Ashraf,"Shakib Khan, Courtney Coffey, Collin Chiucchini","Drama, Family, Romance",7.4
+638,The Southern Chronicles,2024,120.0,Ignas Miskinis,"Dziugas Grinys, Robertas Petraitis, Digna Kulionyte","Comedy, Drama, Romance",8.7
+639,Monsieur Aznavour,2024,133.0,"Mehdi Idir, Grand Corps Malade","Tahar Rahim, Bastien Bouillon, Marie-Julie Baup","Biography, Drama, Music",7.3
+640,Brahmavaram PS Paridilo,2024,104.0,Imran Sastry,"Sravanthi Bellamkonda, Guru Charan, Sammeta Gandhi",Thriller,8.6
+641,The Bloody Hundredth,2024,62.0,"Laurent Bouzereau, Mark Herzog","Tom Hanks, Robert Rosenthal, Steven Spielberg",Documentary,7.5
+642,Alienoid: The Return to the Future,2024,122.0,Dong-hoon Choi,"Ryu Jun-yeol, Kim Tae-ri, Kim Woo-bin","Action, Fantasy, Sci-Fi",6.5
+643,Kaagaz 2,2024,125.0,"V.K. Prakash, Jay Dev Banerjee","Anupam Kher, Darshan Kumaar, Satish Kaushik",Drama,5.8
+644,Chantal in Fairyland,2024,118.0,Bora Dagtekin,"Jella Haase, Gizem Emre, Mido Kotaini","Comedy, Fantasy",4.6
+645,F*** Marry Kill,2024,97.0,Laura Murphy,"Lucy Hale, Virginia Gardner, Brooke Nevin","Comedy, Mystery, Romance",5.3
+646,Drawing Closer,2024,118.0,Takahiro Miki,"Ren Nagase, Natsuki Deguchi, Mayu Yokota","Drama, Romance",7.6
+647,Level Cross,2024,116.0,Arfaz Ayub,"Asif Ali, Amala Paul, Sharafudheen",Drama,6.8
+648,The Antisocial Network: Memes to Mayhem,2024,85.0,"Giorgio Angelini, Arthur Jones","Fuxnet, Amanda, Aubrey Cottle",Documentary,6.4
+649,Mercy Killing,2024,131.0,Venkat Ramana Surapalli,"Chakrapani Ananda, Surya Bhagavan Das, Baby Harika","Action, Drama, Romance",8.7
+650,Love Me,2024,91.0,"Andrew Zuchero, Sam Zuchero","Kristen Stewart, Steven Yeun","Drama, Romance, Sci-Fi",5.1
+651,The Last Dance,2024,126.0,Anselm Chan,"Michael Hui, Dayo Wong, Michelle Wai",Drama,7.7
+652,Girls Will Be Girls,2024,118.0,Shuchi Talati,"Preeti Panigrahi, Kani Kusruti, Kesav Binoy Kiron","Drama, Romance",7.1
+653,Ashes,2024,100.0,Erdem Tepegöz,"Funda Eryigit, Alperen Duymaz, Mehmet Günsür","Drama, Romance",4.3
+654,Mission: Cross,2024,105.0,Lee Myung Hoon,"Hwang Jung-min, Yum Jung-ah, Jeon Hye-jin","Action, Comedy, Crime",6.1
+655,Woody Woodpecker Goes to Camp,2024,100.0,Jonathan A. Rosenbaum,"Mary-Louise Parker, Josh Lawson, Chloe De Los Santos","Animation, Adventure, Comedy",4.5
+656,Beatles '64,2024,106.0,David Tedeschi,"The Beatles, John Lennon, Paul McCartney","Documentary, Music",7.2
+657,Secrets of the Neanderthals,2024,80.0,Ashley Gething,"Emma Pomeroy, Graeme Barker, Abdullah Barzani",Documentary,6.4
+658,Take Cover,2024,90.0,Nick McKinless,"Scott Adkins, Jack Parr, Alice Eve","Action, Thriller",5.1
+659,Janaka Aithe Ganaka,2024,138.0,Sandeep Reddy Bandla,"Suhas, Sangeerthana Vipin, Vennela Kishore",Drama,7.6
+660,Viraaji,2024,100.0,Adhyanth Harsha,"Phani Acharya, Prasad Behra, Kota Jayaram",Thriller,7.8
+661,Winter Spring Summer or Fall,2024,97.0,Tiffany Paulsen,"Jenna Ortega, Percy Hynes White, Adam Rodriguez","Drama, Romance",6.0
+662,Golden Kamuy,2024,127.0,Shigeaki Kubo,"Kento Yamazaki, Anna Yamada, Gordon Maeda","Action, Adventure, History",6.3
+663,Utsavam,2024,140.0,Arjun Sai,"Dilip Prakash, Regena Cassandrra, Mohammad Ali",Drama,8.8
+664,Jimmy Carr: Natural Born Killer,2024,59.0,"Jimmy Carr, Brian Klein",Jimmy Carr,"Documentary, Comedy",6.7
+665,Wanted Man,2024,85.0,Dolph Lundgren,"Dolph Lundgren, Christina Villa, Kelsey Grammer","Action, Crime, Drama",4.8
+666,Milk & Serial,2024,62.0,Curry Barker,"Curry Barker, Cooper Tomlinson, Adlih Alvarado","Horror, Thriller",6.6
+667,Winner,2024,103.0,Susanna Fogel,"Emilia Jones, Connie Britton, Zach Galifianakis","Adventure, Biography, Comedy",6.5
+668,Thiru.Manickam,2024,122.0,Nanda Periyasamy,"Jaseena, Ananya, Bharathiraja",Thriller,8.1
+669,Valari,2024,135.0,M Mrithika Santhoshini,"Keshav Deepak, Siddharth Gollapudi, Pharrnitha Rudra Raju",Horror,8.0
+670,Blue Lock: Episode Nagi,2024,91.0,Shunsuke Ishikawa,"Nobunaga Shimazaki, Yuma Uchida, Kazuyuki Okitsu","Animation, Drama, Sport",6.6
+671,My Dead Friend Zoe,2024,103.0,Kyle Hausmann-Stokes,"Sonequa Martin-Green, Natalie Morales, Ed Harris","Comedy, Drama, War",6.6
+672,Rez Ball,2024,111.0,Sydney Freeland,"Kauchani Bratt, Jessica Matten, Devin Sampson-Craig","Drama, Sport",6.3
+673,American Star,2024,107.0,Gonzalo López-Gallego,"Ian McShane, Nora Arnezeder, Oscar Coleman","Drama, Mystery, Thriller",5.5
+674,The Friend,2024,119.0,"Scott McGehee, David Siegel","Bill Murray, Naomi Watts, Cloé Xhauflaire","Comedy, Drama",6.4
+675,Karna Pisachi,2024,103.0,Malladi Vijay,"Pranavi Yathirajyam, Mangalampalli Nikhil, Ramya Sree",Thriller,7.8
+676,Roti Kapda Romance,2024,153.0,Vikram Reddy,"Harsha Narra, Tarun Ponugoti, Supraj Ranga","Comedy, Drama, Romance",5.9
+677,The Shrouds,2024,120.0,David Cronenberg,"Vincent Cassel, Diane Kruger, Guy Pearce","Drama, Horror, Sci-Fi",6.0
+678,My Hero Academia: You're Next,2024,110.0,Tensai Okamura,"Van Barr Jr., Nasim Benelkour, Kimmie Britt","Animation, Action, Adventure",7.0
+679,Grafted,2024,96.0,Sasha Rainbow,"Jess Hong, Alison Quigan, Mark Mitchinson","Drama, Horror, Romance",5.6
+680,The Final: Attack on Wembley,2024,82.0,"Robert Miller, Kwabena Oppong","Lee Caley, England National Football Team, Italy National Football Team","Documentary, Crime, Sport",6.3
+681,Aanandhapuram Diaries,2024,115.0,Jaya Jose Raj,"Meena, Srikanth, Manoj K. Jayan",Family,7.0
+682,Goebbels and the Führer,2024,135.0,Joachim Lang,"Robert Stadlober, Fritz Karl, Franziska Weisz","Biography, Drama, History",6.7
+683,Chime,2024,45.0,Kiyoshi Kurosawa,"Mutsuo Yoshioka, Seiichi Kohinata, Hana Amano","Horror, Thriller",6.4
+684,Apollo 13: Survival,2024,98.0,Peter Middleton,"Neil Armstrong, Jules Bergman, James Burke","Documentary, History",7.3
+685,Art of Love,2024,99.0,Recai Karagöz,"Birkan Sokullu, Esra Bilgiç, Firat Tanis","Drama, Romance",4.6
+686,Bad Genius,2024,96.0,J.C. Lee,"Callina Liang, Benedict Wong, Jabari Banks",Thriller,6.2
+687,Ikinci Raunt,2024,,"Burak Aksoy, Altug Gultan","Bengi Apak, Baris Arduç, Kerem Bürsin",Documentary,7.6
+688,Jithender Reddy,2024,136.0,Virinchi Varma,"Bindu Chandramouli, Rama Rao Jadhav, Ravi Prakash",Action,7.7
+689,Footage,2024,124.0,Saiju Sreedharan,"Manju Warrier, Vishak Nair, Gayathri Ashok",Thriller,5.0
+690,Anand Sreebala,2024,134.0,Vishnu Vinay,"Arjun Ashokan, Sangeetha, Aparna Das",Crime,6.6
+691,French Girl,2024,106.0,"James A. Woods, Nicolas Wright","Zach Braff, Evelyne Brochu, Luc Picard",Comedy,5.5
+692,Pranaya Godari,2024,148.0,PL Vignesh,"Sadan Hasan, Priyanka Prasad, Sai Kumar","Romance, Action",7.8
+693,Tantra,2024,136.0,Srinivas Gopisetti,"Ananya Nagalla, Dhanush Raghumudri, Temper Vamsi",Horror,5.0
+694,Aranmanai 4,2024,148.0,Sundar C.,"Sundar C., Tamannaah Bhatia, Raashi Khanna",Horror,5.0
+695,Lorry Chapter-1,2024,183.0,Sreekanth Reddy Asam,"Sreekanth Reddy Asam, Geetha Bhosale, Chandrashika","Action, Crime, Thriller",5.4
+696,Camp Pleasant Lake,2024,90.0,Thomas Walton,"Michael Paré, Jonathan Lipnicki, Bonnie Aarons",Horror,3.3
+697,The Last Breath,2024,96.0,Joachim Hedén,"Kim Spearman, Jack Parr, Alexander Arnold","Horror, Thriller",4.7
+698,Murphy,2024,136.0,B.S.P. Varma,"Prabhu Mundkur, Roshini Prakash, Ila Veermalla",Romance,7.0
+699,Ramnagar Bunny,2024,148.0,Srinivas Mahath,"Hrishikesh Gajagouni, Chandra Hass, Richa Joshi",Comedy,6.8
+700,Srikakulam Sherlockholmes,2024,125.0,Writer Mohan,"Bhadram, Muralidhar Goud, Siya Gowtam",Comedy,7.9
+701,Aarata,2024,122.0,Pushparaj Rai Malarabeedu,"Deeksha Bhagyaraj, Sandeep Bhaktha, Shashi Gujaran",Drama,5.3
+702,Lesson Learned,2024,119.0,Bálint Szimler,"Paul Mátis, Anna Mészöly, Ákos 'Dadan' Kovács",Drama,7.6
+703,Wonderland,2024,113.0,Kim Tae-yong,"Tang Wei, Bae Suzy, Park Bo-gum","Drama, Sci-Fi",6.2
+704,Qalb,2024,147.0,Sajid Yahiya,"Ranjith Sajeev, Neha Nazneen, Siddique","Drama, Romance",6.5
+705,I Heart Robots,2024,76.0,Justin Price,"Franzi Schissler, Justin Price, Lela Gruber","Action, Adventure",4.6
+706,Alanaati Ramachandrudu,2024,154.0,Chilukuri Akash Reddy,"Krishna Vamsi, Mokksha, Brahmaji",Drama,7.1
+707,Stormskerry Maja,2024,164.0,Tiina Lymi,"Amanda Jansson, Linus Troedsson, Jonna Järnefelt",Drama,7.7
+708,Rest in Peace,2024,105.0,Sebastián Borensztein,"Joaquín Furriel, Griselda Siciliani, Gabriel Goity","Drama, Thriller",5.8
+709,S.I.T,2024,110.0,Vijay Bhaskar Reddy,"Natasha Doshi, Arvind Krishna, Kaushik Mekala",Crime,6.7
+710,The Painter,2024,100.0,Kimani Ray Smith,"Charlie Weber, Jon Voight, Madison Bailey",Thriller,4.7
+711,Dead Talents Society,2024,111.0,John Hsu,"Gingle Wang, Sandrine Pinna, Chen Bolin","Comedy, Horror, Thriller",7.0
+712,EVOL: A Love Story in Reverse,2024,122.0,Ram Yogi Velagapudi,"Bodduraju, Jenifer Emmanuel, Jennifer Emmanuel",Thriller,5.6
+713,The Last Kumite,2024,105.0,Ross W. Clarkson,"Mathis Landwehr, Matthias Hues, Kurt McKinney",Action,4.6
+714,The Prosecutor,2024,117.0,Donnie Yen,"Donnie Yen, Julian Cheung, Francis Ng","Action, Thriller",6.6
+715,Game On,2024,140.0,Dayanandh Gaddam,"Aditya, Aravind, Konkimalla Ashritha","Action, Drama, Romance",5.2
+716,Rewind,2024,135.0,Kalyan Chakravarthy,"Sai Ronak, Amrutha Chowdary, Suresh",Drama,7.5
+717,Music Shop Murthy,2024,127.0,Siva Paladugu,"Ajay Ghosh, Chandini Chowdary, Aamani",Music,8.1
+718,Vey Dharuvey,2024,127.0,D. Naveen Reddy,"Sairam Shankar, Sunil, Chammak Chandra","Action, Comedy",6.3
+719,Christmas Eve in Miller's Point,2024,106.0,Tyler Taormina,"Matilda Fleming, Maria Dizzia, Ben Shenkman","Comedy, Drama",5.6
+720,Monster on a Plane,2024,88.0,Ezra Tsegaye,"Eva Habermann, Robin Czerny, Nicolás Artajo","Comedy, Horror",5.1
+721,Love Reddy,2024,138.0,Smaran Reddy,"Vani Channanraryaptan, Kiran Dravid, Ganesh Ds",Romance,8.0
+722,Daaru Na Peenda Hove,2024,111.0,Rajiv Dhingra,"Amrinder Gill, Zafri Khan, Sohaila Kaur","Comedy, Drama, Family",7.5
+723,This Time Next Year,2024,116.0,Nick Moore,"Sophie Cookson, Lucien Laviscount, Golda Rosheuvel","Comedy, Romance",5.6
+724,Paarijathaparvam,2024,133.0,Kambhampati Santosh,"Shraddha Das, Sunil, Harsha Chemudu","Comedy, Crime",6.2
+725,Brother,2024,140.0,M. Rajesh,"Ravi Mohan, Priyanka Arulmohan, Natarajan Subramaniam","Comedy, Family",6.2
+726,Rust,2024,139.0,Joel Souza,"Alec Baldwin, Josh Hopkins, Patrick Scott McDermott",Western,5.4
+727,Misericordia,2024,104.0,Alain Guiraudie,"Félix Kysyl, Catherine Frot, Jean-Baptiste Durand","Comedy, Crime, Drama",6.8
+728,Tekka,2024,135.0,Srijit Mukherji,"Dev, Swastika Mukherjee, Rukmini Maitra",Drama,6.1
+729,Chhota Bheem and the Curse of Damyaan,2024,145.0,Rajiv Chilaka,"Yagya Bhasin, Sanjay Bishnoi, Shaji Chaudhary","Action, Adventure, Comedy",4.8
+730,Santosh,2024,128.0,Sandhya Suri,"Shahana Goswami, Sunita Rajwar, Nawal Shukla","Crime, Drama, Thriller",7.1
+731,Dominique,2024,100.0,Michael S. Ojeda,"Maurice Compte, Oksana Orlan, Jose Conejo Martin","Action, Thriller",5.3
+732,Goyo,2024,106.0,Marcos Carnevale,"Nicolás Furtado, Nancy Dupláa, Soledad Villamil","Comedy, Drama, Romance",6.6
+733,Inside the Mind of a Dog,2024,75.0,Andy Mitchell,"Joelle Andres, Bastian the Talking Terrier, Sascha Crasnow",Documentary,7.2
+734,Pekamedalu,2024,120.0,Neelagiri Mamilla,"Anuraga, Bank Basha, Akhil Bhaneswar",Drama,8.5
+735,Market Mahalakshmi,2024,133.0,VS Mukkhesh,"Parvateesam, Praneeka Anvika, Harsha Vardhan","Comedy, Romance",4.2
+736,Purushothamudu,2024,120.0,Rom Bhimana,"Raj Tarun, Hasini Sudhir, Prakash Raj",Action,5.1
+737,Star,2024,158.0,Elan,"Kavin, Lal, Aditi Sudhir Pohankar",Drama,6.5
+738,Eesaraina!?,2024,110.0,G.viplav,"G.Viplav, Ashwini Ayaluru, Prradep Rapartii",Drama,7.7
+739,Sattam En Kaiyil,2024,124.0,Chachi,"Sathish, Ajay Raj, Pavel Navageethan","Crime, Horror, Thriller",7.9
+740,Stolen,2024,105.0,Elle Márjá Eira,"Martin Wallström, Dakota Trancher Williams, Pavva Pittja","Drama, Thriller",5.7
+741,Thookudurai,2024,125.0,Dennis Manjunath,"Yogi Babu, Iniya, Motta Rajendran","Comedy, Family, Horror",4.2
+742,Takintilar,2024,96.0,Yunus Nihat Özcan,"Zafer Algöz, Seda Bakan, Özge Özberk",Comedy,5.1
+743,105 Minutes,2024,120.0,Raju Dussa,Hansika Motwani,"Horror, Thriller",4.1
+744,ED: Extra Decent,2024,122.0,Aamir Pallikkal,"Suraj Venjaramoodu, Sudheer Karamana, Vinaya Prasad",Comedy,6.1
+745,Someone Like You,2024,118.0,Tyler Russell,"Sarah Fisher, Jake Allyn, Lynn Collins",Romance,5.8
+746,One Fast Move,2024,108.0,Kelly Blatz,"KJ Apa, Eric Dane, Maia Reficco",Action,5.0
+747,Average Student Nani,2024,138.0,Pawan Kumar Kothuri,"Pawan Kumar Kothuri, Sahiba Bhasin, Sneha Malviya",Action,7.5
+748,Chhava,2024,51.0,"Kshitij Jagdale, Deep Kadam, Azzam Khan",,"Documentary, Biography, Drama",8.5
+749,Sriranga Neethulu,2024,122.0,Praveen Kumar VSS,"Suhas, Ruhani Sharma, Karthik Rathnam",Drama,7.0
+750,Blackwater Lane,2024,108.0,Jeff Celentano,"Minka Kelly, Dermot Mulroney, Maggie Grace","Crime, Drama, Horror",4.6
+751,A True Gentleman,2024,110.0,Onur Bilgetay,"Çagatay Ulusoy, Ebru Sahin, Senay Gürler","Drama, Romance",4.5
+752,ClearMind,2024,85.0,Rebecca Eskreis,"Rebecca Creskoff, Toks Olagundoye, Jenn Lyon","Comedy, Mystery, Thriller",4.1
+753,Night Call,2024,97.0,Michiel Blanchart,"Jonathan Feltre, Natacha Krief, Jonas Bloquet","Action, Thriller",6.8
+754,Atatürk II: 1881-1919,2024,141.0,Mehmet Ada Öztekin,"Aras Bulut Iynemli, Sarp Akkaya, Bertan Asllani","Biography, Drama, History",8.9
+755,Little Hearts,2024,136.0,"Aby Treesa Paul, Anto Jose Periera","Shane Nigam, Mahima Nambiar, Piers MacKenzie","Comedy, Drama, Romance",5.8
+756,The Tiger's Apprentice,2024,84.0,"Raman Hui, Yong Duk Jhun, Paul Watling","Henry Golding, Brandon Soo Hoo, Lucy Liu","Animation, Action, Adventure",5.7
+757,A Wedding Story,2024,110.0,Abhinav Pareek,"Vaibhav Tatwawadi, Mukti Mohan, Akshay Anand",Horror,5.0
+758,Veppam Kulir Mazhai,2024,132.0,Pascal Vedamuthu,"Ismath Banu, M.S. Bhaskar, Dhirav",Thriller,6.9
+759,Loveable,2024,101.0,Lilja Ingolfsdottir,"Oddgeir Thune, Helga Guren, Kyrre Haugen Sydness","Drama, Romance",7.7
+760,Hide N Seek,2024,134.0,Basireddy Rana,"Viswant Duddumpudi, Sainath Garimella, Kasvi",Horror,8.8
+761,A Song from the Dark,2024,105.0,Ogodinife Okpue,"Vanessa Vanderpuye, Nse Ikpe-Etim, Wale Ojo","Drama, Fantasy, Mystery",4.8
+762,Kaliyugam Pattanamlo,2024,150.0,Ramakhanth Reddy,"Vishva Karthikeya, Ayushi Patel, Chitra Shukla",Crime,6.6
+763,Local Sarakku,2024,133.0,S.P. Rajkumar,"Dinesh Kumar, Upasana RC, Yogi Babu",Comedy,4.2
+764,Arena Wars,2024,96.0,Brandon Slagle,"Michael Madsen, Eric Roberts, Robert LaSardo","Action, Comedy, Sci-Fi",4.9
+765,Ghuspaithiya,2024,132.0,Susi Ganesan,"Shiv Aryan, Govind Namdeo, Akshay Oberoi",Drama,6.7
+766,Veeranjaneyulu Vihara Yatra,2024,130.0,Anurag Palutla,"Brahmanandam, Sri Lakshmi, Ravi Teja Mahadasyam",Comedy,8.6
+767,Bloody Ishq,2024,138.0,"Vikram Bhatt, Manish .P. Chavan","Avika Gor, Vardhaan Puri, Jeniffer Piccinato",Horror,2.9
+768,Heart of the Hunter,2024,105.0,Mandla Dube,"Bonko Khoza, Connie Ferguson, Masasa Mbangeni","Action, Thriller",4.7
+769,KTM,2024,149.0,Aruna,"Sanjana Doss, Kaajal Kunder, Dheekshith Shetty",Drama,6.7
+770,Khadaan,2024,137.0,Soojit Dutta,"Dev, Jisshu Sengupta, Idhika Paul","Action, Drama",7.1
+771,Geethanjali Malli Vachindi,2024,144.0,Shiva Thurlapati,"Anjali, Srinivasa Reddy, Satyam Rajesh","Comedy, Horror",4.9
+772,Sound of Hope: The Story of Possum Trot,2024,130.0,Joshua Weigel,"Nika King, Demetrius Grosse, Elizabeth Mitchell",Drama,7.2
+773,I Want to Talk,2024,122.0,Shoojit Sircar,"Abhishek Bachchan, Ahilya Bamroo, Nirvan Patnaik",Drama,7.1
+774,"Oh, Canada",2024,91.0,Paul Schrader,"Richard Gere, Uma Thurman, Jacob Elordi",Drama,5.6
+775,Rob Peace,2024,120.0,Chiwetel Ejiofor,"Jay Will, Mary J. Blige, Chiwetel Ejiofor","Biography, Drama",6.5
+776,Gangster,2024,121.0,Chandra Shekar Rathod,"Chandra Shekar Rathod, Kaashvi Kanchan, Surya Narayana Konduri",Drama,8.2
+777,Tenant,2024,96.0,Y. Yugandhar,"Satyam Rajesh, Megha Chowdhury, Bharath Kanth",Thriller,4.4
+778,Holy Cow,2024,92.0,Louise Courvoisier,"Clément Faveau, Maïwene Barthelemy, Luna Garret","Comedy, Drama",7.1
+779,The End,2024,148.0,Joshua Oppenheimer,"Tilda Swinton, George MacKay, Moses Ingram","Drama, Fantasy, Musical",5.5
+780,When Fall Is Coming,2024,104.0,François Ozon,"Hélène Vincent, Josiane Balasko, Ludivine Sagnier",Drama,6.9
+781,Simbaa,2024,121.0,Murali Manohar Reddy,"Rajiv Kumar Aneja, Jagapathi Babu, Anasuya Bharadwaj",Mystery,5.7
+782,C202,2024,135.0,Munna Kasi,"Archana Ananth, Sravanthi Bellamkonda, Tanikella Bharani",Horror,7.3
+783,Treasure,2024,111.0,Julia von Heinz,"Lena Dunham, Stephen Fry, Zbigniew Zamachowski","Comedy, Drama",6.3
+784,Sharathulu Varthisthai,2024,140.0,Kumara Swamy,"Rj Avinash, Mallesh Balast, Palamuru Devaraj",Drama,6.5
+785,Double Ismart,2024,156.0,Puri Jagannadh,"Ram Pothineni, Sanjay Dutt, Kavya Thapar","Action, Sci-Fi, Thriller",2.9
+786,The Snow Sister,2024,96.0,Cecilie A. Mosli,"Mudit Gupta, Celina Meyer Hovland, Jan Sælid","Drama, Family",7.0
+787,Masthu Shades Unnai Ra,2024,142.0,Thirupathi Rao Indla,"Abhinav Gomatam, Vaishali Raj, Moin",Comedy,7.0
+788,Tears of Cem Karaca,2024,123.0,Yüksel Aksu,"Ismail Hacioglu, Fikret Kuskan, Yasemin Yalçin","Biography, Drama, Music",7.2
+789,Kismath,2024,128.0,Srinath Badineni,"Abhinav Gomatam, Srinivas Avasarala, Naresh Agastya",Comedy,5.3
+790,Escape,2024,94.0,Lee Jong-pil,"Lee Je-hoon, Koo Kyo-hwan, Hong Xa-bin","Action, Adventure, Thriller",6.4
+791,Kolpaçino: 4 4'lük,2024,98.0,Kamil Çetin,"Safak Sezer, Aydemir Akbas, Cem Kiliç",Comedy,2.8
+792,The Beach Boys,2024,113.0,"Frank Marshall, Thom Zimny","The Beach Boys, Mike Love, Brian Wilson","Documentary, Biography, Music",7.1
+793,Darshini,2024,120.0,Venkat Pradeep Allu,"Vikas Kanaka, Bisetty Nagesh, Somayajula Prasad","Comedy, Sci-Fi, Thriller",8.5
+794,Drinker Sai,2024,148.0,Kiran Tirumalasetti,"Dharma Kakani, Badram, Ritu Chowdary",Drama,8.9
+795,Honeymoon Express,2024,118.0,Bala Rajasekharuni,"Chaitanya Rao, Hebah Patel, Suhasini","Comedy, Romance",6.8
+796,Untold: The Murder of Air McNair,2024,57.0,"Rodney Lucas, Taylor Alexander Ward","Steve McNair, Robert Gaddy, Jeff Fisher","Documentary, Crime, Sport",5.6
+797,Mudo Kannu,2024,100.0,"K Brahmaiah Acharya, Maviti Sai Surendra Babu, Krishna Mohan","Shashidhar Kosuri, Sai Kumar, Madhavilatha","Crime, Thriller",6.6
+798,Grand Theft Hamlet,2024,89.0,"Sam Crane, Pinny Grylls","Sam Crane, Mark Oosterveen, Pinny Grylls","Documentary, Animation",6.9
+799,Narudi Brathuku Natana,2024,120.0,Rishikeshwar Yogi,"Anil Anto, Shruthi Jayan, Aiswarya Anil Kumar",Drama,6.4
+800,Sons,2024,100.0,Gustav Möller,"Sidse Babett Knudsen, Sebastian Bull, Dar Salim","Drama, Thriller",6.4
+801,Sarkaaru Noukari,2024,117.0,Shekar Ganganamoni,"Tanikella Bharani, Ramya Ponduri, Rajeshwari Mullapudi",Drama,8.4
+802,Life After Fighting,2024,126.0,Bren Foster,"Bren Foster, Cassie Howarth, Luke Ford","Action, Drama, Thriller",6.4
+803,RAM: Rapid Action Mission,2024,152.0,Mihiraam Vynateyaa,"Surya Ayyalasomyajula, Dhanya Balakrishna, Mahaboob Basha",Drama,5.2
+804,Mukhya Gamanika,2024,125.0,Venu Muralidhar Vadnala,"Viran Muttam Setty, Aaryan Krishna, Lavannya Sahukara","Crime, Thriller",8.5
+805,Ground,2024,102.0,Suraj,"Tejaswini M, Harinath Raj Kuntamukkula, Nagaraju Badhavath",Drama,7.1
+806,First Shift,2024,89.0,Uwe Boll,"Gino Anthony Pesi, Kristen Renton, Garry Pastore","Crime, Drama",4.5
+807,S-99,2024,119.0,Jagan Mohan Chindam,"Jaganmohan Chindam, Swetaa Varma, Dayanand Reddy",Action,8.7
+808,Revu,2024,134.0,Harinath Puli,"Ajay, Epuri Hari, Vamsi Ram Pendyala",Thriller,8.1
+809,Usha Parinayam,2024,144.0,Vijay K. Bhaskar,"Phani Prakash, Aamani, Tanvi Akaanksha","Action, Romance",9.0
+810,I Hate Love,2024,147.0,VI.Venkatesh,"Priyanka Chollangi, Nagi Jabardest, Kittaiah",Drama,7.6
+811,Paagal vs Kadhal,2024,111.0,Rajesh Mudunuri,"Aadvik Bandaru, Brahmaji, Prashant Kuchubhotla",Family,9.0
+812,Prabuthwa Junior Kalashala,2024,131.0,Sreenath Pulakuram,"Amrutha Bindu, Gemini, Teja Goud",Romance,7.0
+813,Nenu Keerthana,2024,155.0,Chimata Ramesh Babu,"Ramesh C.H.R., Kundena Sandhya, Meghana Vadeghar","Action, Comedy, Drama",8.9
+814,Destroy All Neighbors,2024,85.0,Josh Forbes,"Jonah Ray, Kiran Deol, Randee Heller","Comedy, Horror",5.3
+815,Ravikula Raghurama,2024,111.0,Chandrashekar Kanuri,"Deepshika, Jabardasth Nagireddy, Krishna Chaithanya Makunur",Romance,8.0
+816,Jamie Foxx: What Had Happened Was...,2024,68.0,Hamish Hamilton,"Jamie Foxx, Craig Brockman, Nisan Stewart","Documentary, Comedy",5.8
+817,Naale Rajaa Koli Majaa,2024,91.0,Abhilash Shetty,"Prabhakar Kunder, Radha Ramachandra, Samrudhi Kundapura","Comedy, Drama",8.4
+818,Gaami,2024,147.0,Vidyadhar Kagita,"Vishwak Sen, Abhinaya, Mohammad Samad","Adventure, Drama, Fantasy",6.3
+819,Sandeham,2024,119.0,"Sateesh Paramveda, Satish Paramvedha","Hebah Patel, Subhashree, Swetha Varma",Drama,7.7
+820,The Heist,2024,120.0,Aditya Awandhe,"Nad Sham, Siddhant Kapoor, Suman Rao","Action, Comedy, Crime",6.9
+821,Plant Man,2024,121.0,K. Santhosh Babu,"Apparao, Balaraj, Akkam Balaraju",Comedy,7.2
+822,Samudrudu,2024,141.0,Nagesh Naradasi,"Avanthika, Bhanu Sri, Sammeta Gandhi",Romance,6.8
+823,Veekshanam,2024,122.0,Manoj Palleti,"Ram Karthik, Kashvi, Dayanand Reddy",Thriller,8.0
+824,Nindha,2024,122.0,Rajesh Jagannadham,"Varun Sandesh, Tanikella Bharani, Shreya Rani Reddy",Thriller,7.9
+825,Babu (No.1 Bullshit Guy),2024,125.0,Laxmman Varma MLR,"Badram, Muralidhar Goud, Kushita Kallapu",Comedy,8.2
+826,Boundless,2024,121.0,Ole Christian Madsen,"Ulrich Thomsen, Sofie Torp, Afshin Firouzi","Crime, Thriller",5.6
+827,Wedding Diaries,2024,121.0,Venkataramana Midde,"Arjun Ambati, Chandini Tamilarasan, Srivani Tripuraneni","Drama, Family, Fantasy",8.9
+828,Mechanic,2024,150.0,Muni Sahekara,"Mani Sai Teja, Rekha Nirosha, Tanikella Bharani",Drama,8.1
+829,I Hate You,2024,117.0,Anji Ram,"Karthik Raju, Mokksha, Sherry Agarwal","Romance, Thriller",7.8
+830,Rudrakshapuram 3KM,2024,116.0,R.K. Gandhi,"Dheeraj Appaji, Veera Babu, Suresh Kondeti",Thriller,8.8
+831,Gaga Chromatica Ball,2024,117.0,"Kerry Asmussen, Lady Gaga, Callum Knight","Alaia Aisha, Madison Rogue Alvarado, Lady Gaga","Music, Musical",8.1
+832,#Lifestories,2024,104.0,Ujjwal Kashyap,"Satya Kethineedi, Deviyani Sharma, Rajasekhar Aningi",Drama,8.2
+833,GHOST: Rite Here Rite Now,2024,145.0,"Tobias Forge, Alex Ross Perry","Maralyn Facey, Alan Ursillo, Justin Andrews",Music,8.6
+834,Roudhra Rupaya,2024,132.0,Palik Srinu,"Payal Mukarji, Bhahubali Prabhakar, Ragu",Action,7.4
+835,Just a Minute,2024,88.0,Poornas Yaswanth,"Dharmapuri Karthik, Naziya Khan, Abhishek Pachipala",Comedy,8.1
+836,Haddhu Ledhu Raa,2024,112.0,Raavi Rajashekkar,"Varsha Viswanath, Ashish Gandhi, Dayanand Reddy",Family,7.3
+837,Kaalam raasina kathalu,2024,132.0,MNV Sagar,"Viharika Chowdary, Abhilash Goguboina, MNV Sagar",Drama,7.5
+838,Itlu Mee Cinema,2024,122.0,Harish Chava,"Abhiram, Pradeep Kondiparthi, Krishna",Drama,7.5
+839,Gally Gang Stars,2024,157.0,"Dharma, Kondipogu Venkatesh","Shanjay Sree Raj, Priya Sreenivas, Bharath Srij","Action, Comedy, Crime",9.0
+840,Bookworm,2024,103.0,Ant Timpson,"Nell Fisher, Morgana O'Reilly, Millen Baird","Adventure, Comedy, Drama",6.0
+841,Bogota: City of the Lost,2024,108.0,Seong-je Kim,"Song Joong-ki, Lee Hee-joon, Kwon Hae-hyo","Crime, Drama, Thriller",5.4
+842,Kallu Compound 1995,2024,140.0,Praveen Jetti,"Ganesh Ds, Ayeshee Patel, Praveen Jetti","Action, Family",7.9
+843,Big Brother,2024,115.0,Subba Rao Gosangi,"Siva Kantamaneni, Pakhi Hegde, Nissar Khan",Action,8.5
+844,Grand Tour,2024,129.0,Miguel Gomes,"Gonçalo Waddington, Crista Alfaiate, Cláudio da Silva","Drama, History, Romance",6.5
+845,Five Blind Dates,2024,83.0,Shawn Seet,"Shuang Hu, Yoson An, Jon Prasida","Comedy, Romance",5.1
+846,Praveen Ips,2024,135.0,Durgha Dev Naidu,"Vaanya Aggarwal, B Roja Bharathi, Sudheer Chandra Jerry",Drama,8.9
+847,The Great Lillian Hall,2024,110.0,Michael Cristofer,"Jessica Lange, Kathy Bates, Lily Rabe","Biography, Drama",7.3
+848,Elton John: Never Too Late,2024,102.0,"R.J. Cutler, David Furnish","Dua Lipa, Elton John, John Lennon","Documentary, Biography, Music",6.5
+849,10 Lives,2024,88.0,Christopher Jenkins,"Mo Gilligan, Simone Ashley, Sophie Okonedo","Animation, Comedy, Family",5.9
+850,Seetha Kalyana Vaibhogame,2024,146.0,"Satish Paramvedha, Sateesh Paramveda","Suman Vootkur, Garima Chouhan, Venkey Monkey",Action,8.6
+851,Return of the King: The Fall and Rise of Elvis Presley,2024,90.0,Jason Hehir,"Steve Binder, Billy Corgan, Bob Dylan","Documentary, Music",7.6
+852,Parallel,2024,88.0,Kourosh Ahari,"Aldis Hodge, Edwin Hodge, Danielle Deadwyler","Drama, Sci-Fi, Thriller",5.3
+853,The Good Teacher,2024,91.0,Teddy Lussi-Modeste,"François Civil, Shaïn Boumedine, Toscane Duquesne","Drama, Thriller",6.6
+854,Rautu Ka Raaz,2024,114.0,"Anand Surapur, Arjun Singh Tanwar","Nawazuddin Siddiqui, Rajesh Kumar, Atul Tiwari","Crime, Drama, Mystery",6.3
+855,18×2 Beyond Youthful Days,2024,123.0,Michihito Fujii,"Greg Han Hsu, Kaya Kiyohara, Hsiao-chuan Chang","Drama, Romance",7.3
+856,Billy & Molly: An Otter Love Story,2024,77.0,Charlie Hamilton-James,"Billy Mail, Susan Mail",Documentary,8.0
+857,Nandhan,2024,110.0,Era Saravanan,"M. Sasikumar, Balaji Sakthivel, Suruthi Periyasamy",Drama,7.3
+858,Sebastian,2024,110.0,Mikko Mäkelä,"Ruaridh Mollica, Hiftu Quasem, Jonathan Hyde",Drama,6.7
+859,Dard,2024,156.0,Anonno Mamun,"Shakib Khan, Sonal Chauhan, Payel Sarkar","Drama, Thriller",6.8
+860,Baki Hanma VS Kengan Ashura,2024,62.0,Toshiki Hirano,"Nobunaga Shimazaki, Tatsuhisa Suzuki, Yutaka Aoyama","Animation, Action, Drama",5.7
+861,Hounds of War,2024,95.0,Isaac Florentine,"Frank Grillo, Robert Patrick, Rhona Mitra","Action, Drama",4.5
+862,Year 10,2024,96.0,Ben Goodger,"Alexander Anderson, Emma Cole, Joseph Coleman","Horror, Sci-Fi",5.4
+863,South of Hope Street,2024,101.0,Jane Spencer,"Judd Nelson, Michael Madsen, William Baldwin",Sci-Fi,6.4
+864,Pignorant,2024,102.0,Joey Carbstrong,"Joey Carbstrong, Tarion Partridge, Dan Sheppard",Documentary,8.2
+865,Silence 2: The Night Owl Bar Shootout,2024,142.0,Aban Bharucha Deohans,"Manoj Bajpayee, Prachi Desai, Parul Gulati","Crime, Drama, Thriller",6.2
+866,Ullozhukku,2024,123.0,Christo Tomy,"Parvathy Thiruvothu, Urvashi, Arjun Radhakrishnan",Drama,7.6
+867,Her Story,2024,123.0,Shao Yihui,"Song Jia, Elane Zhong, Zhang Yu","Comedy, Drama, Romance",7.6
+868,River of Blood,2024,86.0,Howard J. Ford,"Joseph Millson, Sarah Alexandra Marks, Louis James","Action, Adventure, Horror",5.1
+869,Nedelja,2024,130.0,"Nemanja Ceranic, Milos Radunovic","Husein Alijevic, Dino Bajrovic, Aleksej Bjelogrlic","Biography, Drama",7.2
+870,Motel Destino,2024,115.0,Karim Aïnouz,"Iago Xavier, Nataly Rocha, Fábio Assunção","Drama, Thriller",6.5
+871,Yacht Rock: A Dockumentary,2024,95.0,Garret Price,"Garret Price, Fred Armisen, Mac DeMarco","Documentary, Music",7.6
+872,Waves,2024,131.0,Jirí Mádl,"Vojtech Vodochodský, Ondrej Stupka, Tatiana Pauhofová","Drama, History, Thriller",7.9
+873,"I, the Executioner",2024,118.0,Ryoo Seung-wan,"Hwang Jung-min, Ahn Bo-hyun, Oh Dae-hwan","Action, Adventure, Comedy",6.3
+874,Bob Trevino Likes It,2024,101.0,Tracie Laymon,"Barbie Ferreira, John Leguizamo, French Stewart","Comedy, Drama",7.5
+875,Flight 404,2024,104.0,Hani Khalifa,"Mona Zaki, Mohamed Mamdouh, Muhammad Farrag",Drama,7.3
+876,The Thundermans Return,2024,70.0,Trevor Kirschner,"Kira Kosarin, Jack Griffo, Addison Riecke","Action, Comedy, Crime",5.0
+877,Major Grom: The Game,2024,168.0,Oleg Trofim,"Lyubov Aksyonova, Konstantin Khabensky, Matvey Lykov","Action, Adventure",6.1
+878,Goldilocks and the Three Bears: Death and Porridge,2024,82.0,Craig Rees,"Abigail Huxley, Olga Solo, Jack Barry","Horror, Thriller",2.1
+879,Hisaab Barabar,2024,112.0,Ashwani Dhir,"Madhavan, Neil Nitin Mukesh, Kirti Kulhari","Comedy, Drama, Thriller",5.8
+880,Dying,2024,180.0,Matthias Glasner,"Lars Eidinger, Corinna Harfouch, Lilith Stangenberg",Drama,7.4
+881,Queen of the Ring,2024,129.0,Ash Avildsen,"Emily Bett Rickards, Josh Lucas, Tyler Posey","Biography, Drama, Sport",6.4
+882,Uruttu Factory,2024,88.0,Sid Frequency,"Pcdoc Nandha, Sid Frequency, Dayalu Semmozhi",Documentary,8.4
+883,The Glassworker,2024,98.0,Usman Riaz,"Art Malik, Sacha Dhawan, Anjli Mohindra","Animation, Drama, Romance",7.3
+884,Memory Lane,2024,98.0,Jelle de Jonge,"Leny Breederveld, Martin van Waardenberg, Trudy de Jong","Comedy, Drama",7.4
+885,My Oni Girl,2024,112.0,"Tomotaka Shibayama, Francesca Calo","Kenshô Ono, Miyu Tomita, Kanon Amane","Animation, Adventure, Drama",6.0
+886,Sir,2024,132.0,Bose Venkat,"Vimal, Saravanan, Chaya Kannan",Thriller,7.9
+887,Jatt & Juliet 3,2024,135.0,Jagdeep Sidhu,"Diljit Dosanjh, Neeru Bajwa, Jasmin Bajwa","Comedy, Romance",5.4
+888,Lights Out,2024,90.0,Christian Sesma,"Frank Grillo, Mekhi Phifer, Jaime King","Action, Thriller",4.9
+889,Sommartider,2024,101.0,Per Simonsson,"Henriette Steenstrup, Emil Almén, Anastasios Soulis",Drama,6.8
+890,Black Cab,2024,88.0,Bruce Goodison,"Nick Frost, Synnove Karlsen, Luke Norris","Horror, Thriller",4.2
+891,Nyctophobia,2024,90.0,Seayoon Jeong,"Olivia Clari Nice, Sophia Biscotti, Soulo Smith","Drama, Fantasy, Horror",7.0
+892,Emmanuelle,2024,107.0,Audrey Diwan,"Noémie Merlant, Will Sharpe, Jamie Campbell Bower","Drama, Romance",4.1
+893,Dead Mail,2024,106.0,"Joe DeBoer, Kyle McConaghy","Sterling Macer Jr., John Fleck, Micki Jackson","Crime, Drama, Horror",6.0
+894,Giannis: The Marvelous Journey,2024,109.0,Kristen Lappas,"Giannis Antetokounmpo, Alex Antetokounmpo, Kostas Antetokounmpo","Sport, Documentary",8.3
+895,Kill the Jockey,2024,96.0,Luis Ortega,"Valentina Ávila, Roberto Carnaghi, Osmar Núñez","Crime, Drama, Sport",6.4
+896,Drugstore June,2024,91.0,Nicholaus Goossen,"Esther Povitsky, Bobby Lee, Danny Griffin","Comedy, Crime, Mystery",5.4
+897,Megan Thee Stallion: In Her Words,2024,112.0,Nneka Onuorah,Megan Thee Stallion,Documentary,7.4
+898,The ShortCut,2024,138.0,Ramakrishna Kanchi,"Aata Sandeep, Shagna Sri, A.V.M Sai Abbhiesheck",Action,7.6
+899,Detained,2024,97.0,Felipe Mucci,"Abbie Cornish, Laz Alonso, Moon Bloodgood","Crime, Mystery, Thriller",4.9
+900,Ooru Peru Bhairavakona,2024,133.0,Vi Anand,"Sundeep Kishan, Varsha Bollamma, Kavya Thapar","Fantasy, Thriller",5.7
+901,Bionic,2024,110.0,Afonso Poyart,"Jessica Córes, Bibi Flor, Emilly Nayara","Action, Adventure, Sci-Fi",4.3
+902,PT Sir,2024,130.0,Karthik Venugopalan,"Abhinakshatra, Hiphop Tamizha Adhi, Agathiyan","Comedy, Crime",6.8
+903,Sons of Rizk 3,2024,125.0,Tarek Alarian,"Ahmed Ezz, Amr Youssef, Ahmad El-Fishawi","Action, Comedy, Crime",6.7
+904,The Sand Castle,2024,98.0,Matty Brown,"Nadine Labaki, Ziad Bakri, Riman Al Rafeea","Drama, Fantasy, Mystery",4.7
+905,Dragonkeeper,2024,98.0,"Jianping Li, Salvador Simó","Bill Nighy, Mayalinee Griffiths, Anthony Howell","Animation, Adventure, Fantasy",5.7
+906,Universal Language,2024,89.0,Matthew Rankin,"Matthew Rankin, Pirouz Nemati, Amir Amiri","Comedy, Drama",7.0
+907,Naalkane Aayama,2024,108.0,Gowtham R,"Gowtham Ghatke, Rachana Inder, Vanshika Anjani Kashyapa",Horror,5.1
+908,Padmavyuham Lo Chakradhari,2024,110.0,Sanjay Reddy Bangarapu,"Rajkumar Praveen, Tickoo Shashika, Ashu Reddy",Family,7.3
+909,Mission: Chapter 1,2024,144.0,A.L. Vijay,"Arun Vijay, Amy Jackson, Nimisha Sajayan","Action, Thriller",5.9
+910,Hamare Baarah,2024,148.0,Kamal Chandra,"Rahul Bagga, Aditi Bhatpahri, Harish Chhabra",Drama,7.2
+911,Mathu Vadalara 2,2024,139.0,Ritesh Rana,"Faria Abdullah, Ajay, Raja Chembolu","Action, Comedy, Crime",7.0
+912,Bharathanatyam,2024,121.0,Krishnadas Murali,"Saiju Kurup, Saikumar, Kalaranjini",Comedy,6.7
+913,Petta Rap,2024,123.0,S.J. Sinu,"Prabhu Deva, Vedhika, Sunny Leone","Action, Comedy, Musical",4.2
+914,Chitti - Potti,2024,150.0,Bhaskar Yadav Dasari,"Ram Mittakanti, Pavithra, Kashvi","Drama, Family",9.1
+915,Endurance,2024,103.0,"Jimmy Chin, Natalie Hewit, Elizabeth Chai Vasarhelyi","Nicolas Vincent, John Shears, Dan Snow",Documentary,7.5
+916,Midas Man,2024,112.0,Joe Stephenson,"Jacob Fortune-Lloyd, Emily Watson, Eddie Marsan","Biography, Drama, Music",6.4
+917,Prom Dates,2024,86.0,Kim O. Nguyen,"Julia Lester, Antonia Gentry, Kenny Ridwan",Comedy,5.2
+918,The Sidemen Story,2024,99.0,Luke Hyams,"KSI, Harry Lewis, Simon Minter","Documentary, Biography",6.7
+919,KA,2024,151.0,"Sandeep, Sujeeth","Kiran Abbavaram, Ajay, Annapoorna","Action, Thriller",7.0
+920,Daughters,2024,108.0,"Angela Patton, Natalie Rae","Chad Morris, Angela Patton, Aubrey Smith",Documentary,7.6
+921,5lbs of Pressure,2024,111.0,Phil Allocco,"Luke Evans, Rory Culkin, Alex Pettyfer","Crime, Romance, Thriller",5.2
+922,Fighting the Fire,2024,115.0,Bobby Lacer,"James Dickey, Angela Katherine Baker, Brayden Lacer","Action, Drama",8.5
+923,Bootcut Balaraju,2024,144.0,Srinivas Koneti,"Syed Sohel Ryan, Gopal Krishna Akella, Darbha Appaji Ambarisha",Comedy,4.0
+924,Vindicating Trump,2024,96.0,"Debbie D'Souza, Dinesh D'Souza, Bruce Schooley","Dinesh D'Souza, Alina Habba, Joe Biden",Documentary,4.1
+925,Mysteries of the Terracotta Warriors,2024,77.0,James Tovell,,"Documentary, History",6.7
+926,Moartea in vacanta,2024,89.0,Cristian Ilisuan,"Mircea Popa, Maria Popovici, Constantin Bojog",Comedy,6.6
+927,Bohurupi,2024,155.0,"Shiboprosad Mukherjee, Nandita Roy","Shiboprosad Mukherjee, Abir Chatterjee, Ritabhari Chakraborty","Action, Drama",7.9
+928,Pyre,2024,111.0,Vinod Kapri,"Padam Singh, Hira Devi, Subhash Chandra",Drama,8.9
+929,Jama,2024,133.0,Pari Elavazhagan,"Pari Elavazhagan, Ammu Abhirami, Chetan",Drama,7.8
+930,Saindhav,2024,138.0,Sailesh Kolanu,"Nawazuddin Siddiqui, Venkatesh Daggubati, Jisshu Sengupta","Action, Crime, Drama",5.1
+931,Summer Camp,2024,95.0,Castille Landon,"Diane Keaton, Kathy Bates, Alfre Woodard",Comedy,4.6
+932,Golden Opulence: 500 Years of Luxury in Anatolia,2024,50.0,Khadifa Wong,"Pierpaolo Piccioli, Tuba Büyüküstün, Erdem Moralioglu",Documentary,9.5
+933,Murder Company,2024,86.0,Shane Dax Taylor,"Kelsey Grammer, William Moseley, Joe Anderson","Action, War",3.6
+934,The Park Maniac,2024,103.0,Mauricio Eça,"Silvero Pereira, Giovanna Grigio, Mariana Amâncio","Crime, Drama",4.8
+935,The Other Way Around,2024,114.0,Jonás Trueba,"Vito Sanz, Itsaso Arana, Fernando Trueba","Comedy, Drama",6.4
+936,The Fabulous Four,2024,98.0,Jocelyn Moorhouse,"Susan Sarandon, Bette Midler, Megan Mullally",Comedy,4.8
+937,Bharathanatyam,2024,169.0,K.V.R. Mahendra,"Surya Teja Aelay, Krishna Alluri, Santosh Balakrishna","Comedy, Thriller",5.7
+938,Devil,2024,118.0,G.R. Adithya,"Shubasree Rayaguru, Vidharth, Adith Arun",Horror,4.5
+939,Udvegam (The First Case of),2024,135.0,Mahipal Reddy,"Thrigun, Deepshikha, Suresh Naidu",Drama,8.3
+940,Levels,2024,93.0,Adam Stern,"Cara Gee, Peter Mooney, Aaron Abrams","Action, Sci-Fi, Thriller",5.0
+941,Love in the Big City,2024,118.0,Eon-hee Lee,"Kim Go-eun, Steve Sanghyun Noh, Salim Benoit","Comedy, Drama, Romance",7.4
+942,A Fragile Flower,2024,96.0,Mai Thu Huyen,"Mai Thu Huyen, Maya, Quoc Cuong","Drama, Music, Romance",7.8
+943,Enough for Now,2024,94.0,Marko Djordjevic,"Filip Djuric, Ivana Vukovic, Nikola Rakocevic",Drama,7.5
+944,Here After,2024,93.0,Robert Salerno,"Connie Britton, Freya Hannan-Mills, Giovanni Cirfiera","Drama, Horror, Thriller",4.1
+945,Matt Rife: Lucid - A Crowd Work Special,2024,54.0,Erik Griffin,Matt Rife,"Documentary, Comedy",6.4
+946,Sangharshana,2024,102.0,S. Chinna Venkatesh,"Chaithanya Pasupuleti, Rasheeda Bhanu, Swathi Sri Chellaboina","Crime, Romance, Thriller",7.3
+947,The Smile Man,2024,122.0,Syam Praveen,"R. Sarathkumar, Sija Rose, Iniya","Crime, Thriller",7.5
+948,Wynonna Earp: Vengeance,2024,96.0,Paolo Barzman,"Melanie Scrofano, Tim Rozon, Dominique Provost-Chalkley","Action, Thriller",5.5
+949,Out Come the Wolves,2024,86.0,Adam MacDonald,"Missy Peregrym, Joris Jarsky, Damon Runyan","Drama, Horror, Thriller",4.7
+950,Satyabhama,2024,132.0,Suman Chikkala,"Kajal Aggarwal, Naveen Chandra, Prakash Raj","Crime, Drama, Thriller",5.9
+951,Blue Star,2024,166.0,S. Jayakumar,"Ashok Selvan, Elango Kumaravel, Bagavathi Perumal","Comedy, Drama, Sport",6.9
+952,Doraemon the Movie: Nobita's Earth Symphony,2024,115.0,Kazuaki Imai,"Wasabi Mizuta, Megumi Ôhara, Yumi Kakazu","Animation, Adventure, Comedy",6.6
+953,Jönssonligan kommer tillbaka,2024,104.0,Eddie Åhgren,"Robert Gustafsson, Jonas Karlsson, Anders Jansson","Comedy, Crime",5.9
+954,A Nice Indian Boy,2024,96.0,Roshan Sethi,"Karan Soni, Jonathan Groff, Sunita Mani","Comedy, Drama, Romance",7.5
+955,Theppa Samudram,2024,133.0,Sateesh Rapolu,"Arjun Ambati, Kishori Datrak, Chaitanya Rao",Crime,7.4
+956,Honeymoonish,2024,100.0,Elie Semaan,"Nour Al Ghandour, Mahmoud Boushahri, Ascia Al Faraj","Comedy, Romance",5.3
+957,Broken Rage,2024,62.0,Takeshi Kitano,"Takeshi Kitano, Tadanobu Asano, Nao Ômori","Comedy, Crime, Drama",6.1
+958,Anthima Theerpu,2024,133.0,A Abhiramu,"Dhansika, Naga Mahesh, Sathya Prakash","Action, Drama, Thriller",7.0
+959,Yevam,2024,123.0,Prakash Dantuluri,"Chandini Chowdary, Kalpitha, Ramesh Konambhotla",Crime,5.8
+960,Sthanarthi Sreekuttan,2024,135.0,Vinesh Viswanath,"Aju Varghese, Johny Antony, Saiju Kurup",Comedy,7.1
+961,Mai,2024,131.0,Tran Thanh,"Huynh Uyen An, Hong Dao, Phuong Anh Dao","Drama, Romance",6.8
+962,Blink,2024,136.0,Bengaluru Srinidhi,"Dheekshith Shetty, Chaithra J. Achar, Mandara Battalahalli","Sci-Fi, Thriller",7.0
+963,"Disco, Ibiza, Locomia",2024,104.0,Kike Maíllo,"Jaime Lorente, Alberto Ammann, Alejandro Speitzer","Biography, Drama, Music",6.0
+964,Stelios,2024,132.0,Yorgos Tsemberopoulos,"Christos Mastoras, Klelia Renesi, Asimenia Voulioti","Biography, Drama, Music",7.3
+965,Imamdasta,2024,143.0,Rizwan Siddiqui,"Rakesh Sharma, Mahesh Chandra Deva, Jay Shanker Pandey",Drama,7.4
+966,Eden,2024,120.0,Ron Howard,"Jude Law, Ana de Armas, Vanessa Kirby",Thriller,6.6
+967,The Girl in the Pool,2024,89.0,Dakota Gorman,"Freddie Prinze Jr., Kevin Pollak, Monica Potter","Drama, Mystery, Thriller",4.3
+968,Detective Conan: The Million-Dollar Pentagram,2024,111.0,Chika Nagaoka,"Banjô Ginga, Hikaru Hanada, Tomoe Hanba","Animation, Mystery, Romance",6.7
+969,Rob N Roll,2024,98.0,Albert Kai-Kwong Mak,"Aaron Kwok, Ka-Tung Lam, Richie Jen","Action, Comedy, Crime",6.1
+970,Silk Saree,2024,120.0,T. Nagendar,"Preeti Goswami, Hemanth, Jhansi",Thriller,8.3
+971,Duchess,2024,114.0,Neil Marshall,"Charlotte Kirk, Philip Winchester, Colm Meaney","Action, Crime",4.6
+972,Frida,2024,87.0,Carla Gutierrez,"Pablo Alarson, Jeanne Albanese, Tizoc Arroyo","Documentary, Animation",7.5
+973,Biggest Heist Ever,2024,85.0,Chris Smith,"Heather Morgan, Ilya Lichtenstein, Chris Janczewski","Documentary, Biography, Crime",6.1
+974,Don't Love,2024,177.0,Shirin Sriram,"Anurup Reddy, Sarika, Devaa Malishetty","Crime, Thriller",7.7
+975,Let's Start a Cult,2024,90.0,Ben Kitnick,"Stavros Halkias, Katy Fullan, Wes Haney",Comedy,5.9
+976,The Greatest Love Story Never Told,2024,86.0,Jason B. Bergh,"Jennifer Lopez, Ben Affleck, Elaine Goldsmith-Thomas",Documentary,5.0
+977,Krazy House,2024,89.0,"Steffen Haars, Flip Van der Kuil","Nick Frost, Alicia Silverstone, Jan Bijvoet","Comedy, Horror",4.8
+978,Minmini,2024,115.0,Halitha Shameem,"Esther Anil, Gaurav Kaalai, Pravin Kishore",Drama,7.3
+979,On Swift Horses,2024,119.0,Daniel Minahan,"Daisy Edgar-Jones, Jacob Elordi, Will Poulter","Drama, Romance",6.1
+980,Lucky Winners,2024,103.0,"Romain Choay, Maxime Govare","Fabrice Eboué, Audrey Lamy, Anouk Grinberg",Comedy,6.3
+981,Jolly O Gymkhana,2024,129.0,Sakthi Chidambaram,"Yaashika Aanand, Abhirami, Raghu Babu",Comedy,7.3
+982,Sacramento,2024,89.0,Michael Angarano,"Michael Cera, Kristen Stewart, Michael Angarano",Comedy,5.9
+983,Tati Part Time,2024,90.0,Letitia Rosculet,"Alex Bogdan, Eva Maruta, Raluca Aprodu",Comedy,6.2
+984,Rocky Road to Berlin,2024,104.0,Olga Ryashina,"Ivan Blindar, Volodymyr Geva, Maria Stopnyk",Adventure,7.2
+985,The Fix,2024,98.0,Kelsey Egan,"Grace Van Dien, Daniel Sharman, Keenan Arrison","Action, Sci-Fi",4.7
+986,Jameelante Poovan Kozhi,2024,122.0,Shaajahan,"Nitin Thomas, Alisha George, Mithun Nalini",Comedy,4.6
+987,Stopping the Steal,2024,90.0,Dan Reed,"Alyssa Farah Griffin, William Barr, Ronald Hansen",Documentary,7.4
+988,Death Whisperer 2,2024,110.0,Taweewat Wantha,"Nadech Kugimiya, Kajbhunditt Jaidee, Peerakrit Phacharaboonyakiat","Action, Horror, Thriller",6.3
+989,Pechi,2024,110.0,B. Ramachandran,"Gayathri Shanker, Bala Saravanan, Dev Ramnath","Fantasy, Horror",5.5
+990,Kaveri,2024,101.0,Rajesh Nellore,"Shaik Allabakashu, Risitha Nellore, Kushi Yadav",Action,6.8
+991,Elyas,2024,105.0,Florent-Emilio Siri,"Roschdy Zem, Laëtitia Eïdo, Jeanne Michel","Action, Thriller",6.1
+992,Raajadhani Files,2024,160.0,Bhanu,"Agilan Pushparaj, Amrutha Chowdary, Vinod Kumar",Drama,7.2
+993,Diamanti,2024,135.0,Ferzan Özpetek,"Luisa Ranieri, Jasmine Trinca, Stefano Accorsi","Comedy, Drama",6.8
+994,The Supremes at Earl's All-You-Can-Eat,2024,124.0,Tina Mabry,"Aunjanue Ellis-Taylor, Sanaa Lathan, Uzo Aduba","Comedy, Drama",6.4
+995,The Adamant Girl,2024,100.0,P.S. Vinothraj,"Soori, Anna Ben, Nirosha",Drama,6.6
+996,Vivekanandan Viralaanu,2024,121.0,Kamal,"Swasika Vijay, Shine Tom Chacko, Johny Antony",Comedy,3.7
+997,Sweet Dreams,2024,95.0,Lije Sarki,"Beth Grant, Bobby Lee, Johnny Knoxville","Comedy, Drama, Sport",5.4
+998,¡Casa Bonita Mi Amor!,2024,88.0,Arthur Bradford,"Trey Parker, Matt Stone, Jared Polis",Documentary,7.6
+999,Love at 39 Degrees,2024,115.0,Tunç Sahin,"Ayça Aysin Turan, Furkan Andic, Cem Davran","Comedy, Romance",5.5
+1000,Adios Amigo,2024,156.0,Nahas Nazar,"Asif Ali, Suraj Venjaramoodu, Shine Tom Chacko","Comedy, Drama",5.9
