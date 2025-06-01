@@ -1,0 +1,999 @@
+ID,Name,Year,Duration,Directors,Actors,Genres,Rating
+1,Deadpool,2016,108,Tim Miller,"Ryan Reynolds, Morena Baccarin, T.J. Miller","Action, Comedy, Sci-Fi",8.0
+2,Captain America: Civil War,2016,147,"Anthony Russo, Joe Russo","Chris Evans, Robert Downey Jr., Scarlett Johansson","Action, Sci-Fi",7.8
+3,Doctor Strange,2016,115,Scott Derrickson,"Benedict Cumberbatch, Chiwetel Ejiofor, Rachel McAdams","Action, Adventure, Fantasy",7.5
+4,Arrival,2016,116,Denis Villeneuve,"Amy Adams, Jeremy Renner, Forest Whitaker","Drama, Mystery, Sci-Fi",7.9
+5,Batman v Superman: Dawn of Justice,2016,151,Zack Snyder,"Ben Affleck, Henry Cavill, Amy Adams","Action, Adventure, Sci-Fi",6.5
+6,Suicide Squad,2016,123,David Ayer,"Will Smith, Jared Leto, Margot Robbie","Action, Adventure, Fantasy",5.9
+7,Rogue One: A Star Wars Story,2016,133,Gareth Edwards,"Felicity Jones, Diego Luna, Alan Tudyk","Action, Adventure, Sci-Fi",7.8
+8,La La Land,2016,128,Damien Chazelle,"Ryan Gosling, Emma Stone, Rosemarie DeWitt","Comedy, Drama, Music",8.0
+9,Hacksaw Ridge,2016,139,Mel Gibson,"Andrew Garfield, Sam Worthington, Luke Bracey","Biography, Drama, History",8.1
+10,Split,2016,117,M. Night Shyamalan,"James McAvoy, Anya Taylor-Joy, Haley Lu Richardson","Horror, Thriller",7.3
+11,Zootopia,2016,108,"Byron Howard, Rich Moore, Jared Bush","Ginnifer Goodwin, Jason Bateman, Idris Elba","Animation, Action, Adventure",8.0
+12,Fantastic Beasts and Where to Find Them,2016,132,David Yates,"Eddie Redmayne, Katherine Waterston, Alison Sudol","Adventure, Family, Fantasy",7.2
+13,X-Men: Apocalypse,2016,144,Bryan Singer,"James McAvoy, Michael Fassbender, Jennifer Lawrence","Action, Adventure, Sci-Fi",6.8
+14,Passengers,2016,116,Morten Tyldum,"Jennifer Lawrence, Chris Pratt, Michael Sheen","Drama, Romance, Sci-Fi",7.0
+15,Moana,2016,107,"Ron Clements, John Musker, Don Hall","Auli'i Cravalho, Dwayne Johnson, Rachel House","Animation, Adventure, Comedy",7.6
+16,The Nice Guys,2016,116,Shane Black,"Russell Crowe, Ryan Gosling, Angourie Rice","Action, Comedy, Crime",7.4
+17,10 Cloverfield Lane,2016,103,Dan Trachtenberg,"John Goodman, Mary Elizabeth Winstead, John Gallagher Jr.","Drama, Horror, Sci-Fi",7.2
+18,The Accountant,2016,128,Gavin O'Connor,"Ben Affleck, Anna Kendrick, J.K. Simmons","Action, Crime, Drama",7.3
+19,Your Name.,2016,106,Makoto Shinkai,"Ryûnosuke Kamiki, Mone Kamishiraishi, Ryo Narita","Animation, Drama, Fantasy",8.4
+20,Moonlight,2016,111,Barry Jenkins,"Mahershala Ali, Naomie Harris, Trevante Rhodes",Drama,7.4
+21,Now You See Me 2,2016,129,Jon M. Chu,"Jesse Eisenberg, Mark Ruffalo, Woody Harrelson","Action, Adventure, Comedy",6.4
+22,Manchester by the Sea,2016,137,Kenneth Lonergan,"Casey Affleck, Michelle Williams, Kyle Chandler",Drama,7.8
+23,Nocturnal Animals,2016,116,Tom Ford,"Amy Adams, Jake Gyllenhaal, Michael Shannon","Drama, Thriller",7.4
+24,Finding Dory,2016,97,"Andrew Stanton, Angus MacLane","Ellen DeGeneres, Albert Brooks, Ed O'Neill","Animation, Adventure, Comedy",7.2
+25,The Conjuring 2,2016,134,James Wan,"Vera Farmiga, Patrick Wilson, Madison Wolfe","Horror, Mystery, Thriller",7.3
+26,Don't Breathe,2016,88,Fede Alvarez,"Stephen Lang, Jane Levy, Dylan Minnette","Crime, Horror, Thriller",7.1
+27,Sully,2016,96,Clint Eastwood,"Tom Hanks, Aaron Eckhart, Laura Linney","Biography, Drama",7.4
+28,Me Before You,2016,110,Thea Sharrock,"Emilia Clarke, Sam Claflin, Janet McTeer","Drama, Romance",7.4
+29,The Jungle Book,2016,106,Jon Favreau,"Neel Sethi, Bill Murray, Ben Kingsley","Animation, Action, Adventure",7.3
+30,Warcraft,2016,123,Duncan Jones,"Travis Fimmel, Paula Patton, Ben Foster","Action, Adventure, Fantasy",6.7
+31,Train to Busan,2016,118,Yeon Sang-ho,"Gong Yoo, Jung Yu-mi, Ma Dong-seok","Action, Horror, Thriller",7.6
+32,War Dogs,2016,114,Todd Phillips,"Jonah Hill, Miles Teller, Steve Lantz","Biography, Comedy, Crime",7.1
+33,Hidden Figures,2016,127,Theodore Melfi,"Taraji P. Henson, Octavia Spencer, Janelle Monáe","Biography, Drama, History",7.8
+34,Hell or High Water,2016,102,David Mackenzie,"Chris Pine, Ben Foster, Jeff Bridges","Crime, Drama, Thriller",7.6
+35,Star Trek Beyond,2016,122,Justin Lin,"Chris Pine, Zachary Quinto, Karl Urban","Action, Adventure, Sci-Fi",7.0
+36,Lion,2016,118,Garth Davis,"Dev Patel, Nicole Kidman, Rooney Mara","Biography, Drama",8.0
+37,Ghostbusters,2016,117,Paul Feig,"Melissa McCarthy, Kristen Wiig, Kate McKinnon","Action, Comedy, Fantasy",6.8
+38,Jason Bourne,2016,123,Paul Greengrass,"Matt Damon, Tommy Lee Jones, Alicia Vikander","Action, Thriller",6.6
+39,Captain Fantastic,2016,118,Matt Ross,"Viggo Mortensen, George MacKay, Samantha Isler","Comedy, Drama",7.8
+40,The Magnificent Seven,2016,132,Antoine Fuqua,"Denzel Washington, Chris Pratt, Ethan Hawke","Action, Adventure, Drama",6.9
+41,The Secret Life of Pets,2016,86,Chris Renaud,"Louis C.K., Eric Stonestreet, Kevin Hart","Animation, Adventure, Comedy",6.5
+42,Central Intelligence,2016,107,Rawson Marshall Thurber,"Dwayne Johnson, Kevin Hart, Danielle Nicolet","Action, Comedy, Crime",6.3
+43,Dangal,2016,161,Nitesh Tiwari,"Aamir Khan, Sakshi Tanwar, Fatima Sana Shaikh","Action, Biography, Drama",8.3
+44,Sausage Party,2016,89,"Greg Tiernan, Conrad Vernon","Seth Rogen, Kristen Wiig, Jonah Hill","Animation, Adventure, Comedy",6.1
+45,Assassin's Creed,2016,115,Justin Kurzel,"Michael Fassbender, Marion Cotillard, Jeremy Irons","Action, Adventure, Sci-Fi",5.6
+46,The Girl on the Train,2016,112,Tate Taylor,"Emily Blunt, Haley Bennett, Rebecca Ferguson","Crime, Drama, Mystery",6.5
+47,Kung Fu Panda 3,2016,95,"Alessandro Carloni, Jennifer Yuh Nelson","Jack Black, Bryan Cranston, Dustin Hoffman","Animation, Action, Adventure",7.1
+48,Sing,2016,108,"Garth Jennings, Christophe Lourdelet","Matthew McConaughey, Reese Witherspoon, Seth MacFarlane","Animation, Comedy, Family",7.1
+49,The Invisible Guest,2016,106,Oriol Paulo,"Mario Casas, Ana Wagener, Jose Coronado","Crime, Drama, Mystery",8.0
+50,Miss Peregrine's Home for Peculiar Children,2016,127,Tim Burton,"Eva Green, Asa Butterfield, Samuel L. Jackson","Adventure, Drama, Family",6.7
+51,Inferno,2016,121,Ron Howard,"Tom Hanks, Felicity Jones, Irrfan Khan","Action, Adventure, Crime",6.2
+52,Independence Day: Resurgence,2016,120,Roland Emmerich,"Liam Hemsworth, Jeff Goldblum, Bill Pullman","Action, Adventure, Sci-Fi",5.2
+53,The Legend of Tarzan,2016,110,David Yates,"Alexander Skarsgård, Rory J Saper, Christian Stevens","Action, Adventure, Drama",6.2
+54,The Founder,2016,115,John Lee Hancock,"Michael Keaton, Nick Offerman, John Carroll Lynch","Biography, Drama",7.2
+55,Deepwater Horizon,2016,107,Peter Berg,"Mark Wahlberg, Kurt Russell, Douglas M. Griffin","Action, Drama, History",7.1
+56,The Handmaiden,2016,145,Park Chan-wook,"Kim Min-hee, Ha Jung-woo, Cho Jin-woong","Drama, Romance, Thriller",8.1
+57,Jack Reacher: Never Go Back,2016,118,Edward Zwick,"Tom Cruise, Cobie Smulders, Aldis Hodge","Action, Thriller",6.2
+58,The Promise,2016,133,Terry George,"Oscar Isaac, Charlotte Le Bon, Christian Bale","Action, Adventure, Drama",6.1
+59,London Has Fallen,2016,99,Babak Najafi,"Gerard Butler, Aaron Eckhart, Morgan Freeman","Action, Thriller",5.9
+60,Allied,2016,124,Robert Zemeckis,"Brad Pitt, Marion Cotillard, Jared Harris","Action, Drama, Romance",7.1
+61,13 Hours: The Secret Soldiers of Benghazi,2016,144,Michael Bay,"John Krasinski, Pablo Schreiber, James Badge Dale","Action, Drama, History",7.3
+62,Snowden,2016,134,Oliver Stone,"Joseph Gordon-Levitt, Shailene Woodley, Melissa Leo","Biography, Crime, Drama",7.3
+63,Hush,2016,82,Mike Flanagan,"John Gallagher Jr., Kate Siegel, Michael Trucco","Horror, Thriller",6.6
+64,The Autopsy of Jane Doe,2016,86,André Øvredal,"Brian Cox, Emile Hirsch, Ophelia Lovibond","Horror, Mystery, Thriller",6.8
+65,The Great Wall,2016,103,Yimou Zhang,"Matt Damon, Tian Jing, Willem Dafoe","Action, Adventure, Fantasy",5.9
+66,The Shallows,2016,86,Jaume Collet-Serra,"Blake Lively, Óscar Jaenada, Angelo Josue Lozano Corzo","Drama, Horror, Thriller",6.3
+67,Hunt for the Wilderpeople,2016,101,Taika Waititi,"Sam Neill, Julian Dennison, Rima Te Wiata","Adventure, Comedy, Drama",7.8
+68,Lights Out,2016,81,David F. Sandberg,"Teresa Palmer, Gabriel Bateman, Maria Bello","Horror, Mystery",6.3
+69,"Hail, Caesar!",2016,106,"Ethan Coen, Joel Coen","Josh Brolin, George Clooney, Alden Ehrenreich","Comedy, Drama, Mystery",6.3
+70,The Edge of Seventeen,2016,104,Kelly Fremon Craig,"Hailee Steinfeld, Haley Lu Richardson, Blake Jenner","Comedy, Drama, Romance",7.3
+71,Nerve,2016,96,"Henry Joost, Ariel Schulman","Emma Roberts, Dave Franco, Emily Meade","Adventure, Crime, Drama",6.5
+72,Kubo and the Two Strings,2016,101,Travis Knight,"Charlize Theron, Art Parkinson, Matthew McConaughey","Animation, Action, Adventure",7.7
+73,Allegiant,2016,120,Robert Schwentke,"Shailene Woodley, Theo James, Jeff Daniels","Action, Adventure, Fantasy",5.7
+74,Bad Moms,2016,100,"Jon Lucas, Scott Moore","Mila Kunis, Kathryn Hahn, Kristen Bell",Comedy,6.2
+75,Dirty Grandpa,2016,102,Dan Mazer,"Robert De Niro, Zac Efron, Zoey Deutch",Comedy,5.9
+76,Swiss Army Man,2016,97,"Daniel Kwan, Daniel Scheinert","Paul Dano, Daniel Radcliffe, Mary Elizabeth Winstead","Comedy, Drama, Fantasy",6.9
+77,Neighbors 2: Sorority Rising,2016,92,Nicholas Stoller,"Seth Rogen, Rose Byrne, Zac Efron",Comedy,5.7
+78,Gods of Egypt,2016,127,Alex Proyas,"Brenton Thwaites, Nikolaj Coster-Waldau, Gerard Butler","Action, Adventure, Drama",5.4
+79,Why Him?,2016,111,John Hamburg,"Zoey Deutch, James Franco, Tangie Ambrose",Comedy,6.2
+80,Alice Through the Looking Glass,2016,113,James Bobin,"Mia Wasikowska, Johnny Depp, Helena Bonham Carter","Adventure, Family, Fantasy",6.2
+81,Silence,2016,161,Martin Scorsese,"Andrew Garfield, Adam Driver, Liam Neeson","Drama, History",7.2
+82,The Huntsman: Winter's War,2016,114,Cedric Nicolas-Troyan,"Chris Hemsworth, Jessica Chastain, Charlize Theron","Action, Adventure, Drama",6.1
+83,The 5th Wave,2016,112,J Blakeson,"Chloë Grace Moretz, Matthew Zuk, Gabriela Lopez","Action, Adventure, Sci-Fi",5.2
+84,Fences,2016,139,Denzel Washington,"Denzel Washington, Viola Davis, Stephen McKinley Henderson",Drama,7.2
+85,A Silent Voice: The Movie,2016,130,Naoko Yamada,"Miyu Irino, Saori Hayami, Aoi Yûki","Animation, Drama",8.1
+86,Patriots Day,2016,133,Peter Berg,"Mark Wahlberg, Michelle Monaghan, J.K. Simmons","Action, Crime, Drama",7.3
+87,The Brothers Grimsby,2016,83,Louis Leterrier,"Sacha Baron Cohen, Mark Strong, Rebel Wilson","Action, Adventure, Comedy",6.2
+88,A Cure for Wellness,2016,146,Gore Verbinski,"Dane DeHaan, Jason Isaacs, Mia Goth","Drama, Fantasy, Horror",6.4
+89,The Purge: Election Year,2016,108,James DeMonaco,"Frank Grillo, Elizabeth Mitchell, Mykelti Williamson","Action, Horror, Sci-Fi",6.0
+90,The Mountain II,2016,135,Alper Caglar,"Caglar Ertugrul, Ufuk Bayraktar, Ahu Türkpençe","Action, Drama, War",8.2
+91,The Angry Birds Movie,2016,97,"Clay Kaytis, Fergal Reilly","Jason Sudeikis, Josh Gad, Danny McBride","Animation, Action, Adventure",6.3
+92,Money Monster,2016,98,Jodie Foster,"George Clooney, Julia Roberts, Jack O'Connell","Action, Crime, Drama",6.5
+93,The Neon Demon,2016,117,Nicolas Winding Refn,"Elle Fanning, Christina Hendricks, Keanu Reeves","Horror, Thriller",6.1
+94,Collateral Beauty,2016,97,David Frankel,"Will Smith, Edward Norton, Kate Winslet","Drama, Romance",6.8
+95,The Boy,2016,97,William Brent Bell,"Lauren Cohan, Rupert Evans, James Russell","Horror, Mystery, Thriller",6.0
+96,Resident Evil: The Final Chapter,2016,107,Paul W.S. Anderson,"Milla Jovovich, Iain Glen, Ali Larter","Action, Horror, Sci-Fi",5.5
+97,Sing Street,2016,106,John Carney,"Ferdia Walsh-Peelo, Aidan Gillen, Maria Doyle Kennedy","Comedy, Drama, Music",7.9
+98,Teenage Mutant Ninja Turtles: Out of the Shadows,2016,112,Dave Green,"Megan Fox, Will Arnett, Tyler Perry","Action, Adventure, Comedy",5.9
+99,The Lost City of Z,2016,141,James Gray,"Charlie Hunnam, Robert Pattinson, Sienna Miller","Adventure, Biography, Drama",6.6
+100,Mechanic: Resurrection,2016,98,Dennis Gansel,"Jason Statham, Jessica Alba, Tommy Lee Jones","Action, Adventure, Thriller",5.7
+101,Mike and Dave Need Wedding Dates,2016,98,Jake Szymanski,"Zac Efron, Adam Devine, Anna Kendrick","Comedy, Romance",6.0
+102,How to Be Single,2016,110,Christian Ditter,"Dakota Johnson, Rebel Wilson, Leslie Mann","Comedy, Drama, Romance",6.1
+103,Trolls,2016,92,"Mike Mitchell, Walt Dohrn","Anna Kendrick, Justin Timberlake, Zooey Deschanel","Animation, Adventure, Comedy",6.4
+104,The BFG,2016,117,Steven Spielberg,"Mark Rylance, Ruby Barnhill, Penelope Wilton","Adventure, Family, Fantasy",6.3
+105,A Monster Calls,2016,108,J.A. Bayona,"Lewis MacDougall, Sigourney Weaver, Felicity Jones","Adventure, Drama, Family",7.4
+106,Raw,2016,99,Julia Ducournau,"Garance Marillier, Ella Rumpf, Rabah Nait Oufella","Drama, Horror",6.9
+107,Paterson,2016,118,Jim Jarmusch,"Adam Driver, Golshifteh Farahani, Nellie","Comedy, Drama, Romance",7.3
+108,Office Christmas Party,2016,105,"Josh Gordon, Will Speck","Jason Bateman, Olivia Munn, T.J. Miller",Comedy,5.9
+109,The Wailing,2016,156,Na Hong-jin,"Jun Kunimura, Hwang Jung-min, Kwak Do-won","Drama, Horror",7.4
+110,Bridget Jones's Baby,2016,123,Sharon Maguire,"Renée Zellweger, Gemma Jones, Jim Broadbent","Comedy, Drama, Romance",6.4
+111,Miss Sloane,2016,132,John Madden,"Jessica Chastain, Mark Strong, Gugu Mbatha-Raw",Drama,7.5
+112,Midnight Special,2016,112,Jeff Nichols,"Michael Shannon, Joel Edgerton, Kirsten Dunst","Drama, Mystery, Sci-Fi",6.6
+113,Jackie,2016,100,Pablo Larraín,"Natalie Portman, Peter Sarsgaard, Greta Gerwig","Biography, Drama",6.6
+114,Terrifier,2016,85,Damien Leone,"Jenna Kanell, Samantha Scaffidi, David Howard Thornton","Horror, Thriller",5.5
+115,Underworld: Blood Wars,2016,91,Anna Foerster,"Kate Beckinsale, Theo James, Tobias Menzies","Action, Crime, Drama",5.8
+116,Café Society,2016,96,Woody Allen,"Jesse Eisenberg, Kristen Stewart, Steve Carell","Comedy, Drama, Romance",6.6
+117,The Fundamentals of Caring,2016,97,Rob Burnett,"Craig Roberts, Paul Rudd, Selena Gomez","Comedy, Drama",7.3
+118,The Infiltrator,2016,127,Brad Furman,"Bryan Cranston, John Leguizamo, Diane Kruger","Biography, Crime, Drama",7.0
+119,Ice Age: Collision Course,2016,94,"Michael Thurmeier, Galen T. Chu","Ray Romano, Denis Leary, John Leguizamo","Animation, Adventure, Comedy",5.7
+120,Triple 9,2016,115,John Hillcoat,"Casey Affleck, Chiwetel Ejiofor, Anthony Mackie","Action, Crime, Drama",6.3
+121,Zoolander 2,2016,101,Ben Stiller,"Ben Stiller, Owen Wilson, Penélope Cruz","Action, Adventure, Comedy",4.7
+122,Ouija: Origin of Evil,2016,99,Mike Flanagan,"Elizabeth Reaser, Lulu Wilson, Annalise Basso","Drama, Horror, Mystery",6.2
+123,Perfect Strangers,2016,96,Paolo Genovese,"Giuseppe Battiston, Anna Foglietta, Marco Giallini","Comedy, Drama, Thriller",7.7
+124,Criminal,2016,113,Ariel Vromen,"Kevin Costner, Ryan Reynolds, Gal Gadot","Action, Sci-Fi, Thriller",6.3
+125,Elle,2016,130,Paul Verhoeven,"Isabelle Huppert, Laurent Lafitte, Anne Consigny","Action, Crime, Drama",7.1
+126,The Finest Hours,2016,117,Craig Gillespie,"Chris Pine, Casey Affleck, Ben Foster","Action, Drama, History",6.7
+127,M.S. Dhoni: The Untold Story,2016,184,Neeraj Pandey,"Sushant Singh Rajput, Kiara Advani, Disha Patani","Biography, Drama, Sport",8.0
+128,Gold,2016,120,Stephen Gaghan,"Matthew McConaughey, Edgar Ramírez, Bryce Dallas Howard","Biography, Crime, Drama",6.7
+129,Colossal,2016,109,Nacho Vigalondo,"Anne Hathaway, Jason Sudeikis, Austin Stowell","Comedy, Drama, Fantasy",6.2
+130,Popstar: Never Stop Never Stopping,2016,87,"Akiva Schaffer, Jorma Taccone","Andy Samberg, Jorma Taccone, Akiva Schaffer","Comedy, Drama, Music",6.7
+131,Keeping Up with the Joneses,2016,105,Greg Mottola,"Zach Galifianakis, Isla Fisher, Jon Hamm","Action, Comedy",5.9
+132,Storks,2016,87,"Nicholas Stoller, Doug Sweetland","Andy Samberg, Katie Crown, Kelsey Grammer","Animation, Adventure, Comedy",6.8
+133,Blood Father,2016,88,Jean-François Richet,"Mel Gibson, Erin Moriarty, Diego Luna","Action, Crime, Drama",6.4
+134,Spectral,2016,107,Nic Mathieu,"James Badge Dale, Emily Mortimer, Bruce Greenwood","Action, Adventure, Sci-Fi",6.3
+135,The Salesman,2016,124,Asghar Farhadi,"Shahab Hosseini, Taraneh Alidoosti, Mina Sadati","Drama, Thriller",7.7
+136,"I, Daniel Blake",2016,100,Ken Loach,"Dave Johns, Hayley Squires, Sharon Percy",Drama,7.8
+137,The Girl with All the Gifts,2016,111,Colm McCarthy,"Sennia Nanua, Fisayo Akinade, Dominique Tipper","Action, Adventure, Drama",6.6
+138,Free State of Jones,2016,139,Gary Ross,"Matthew McConaughey, Gugu Mbatha-Raw, Mahershala Ali","Action, Biography, Drama",6.9
+139,Ride Along 2,2016,102,Tim Story,"Ice Cube, Kevin Hart, Tika Sumpter","Action, Comedy, Crime",5.9
+140,Batman: The Killing Joke,2016,76,Sam Liu,"Kevin Conroy, Mark Hamill, Tara Strong","Animation, Action, Crime",6.4
+141,The Belko Experiment,2016,89,Greg McLean,"John Gallagher Jr., Tony Goldwyn, Adria Arjona","Horror, Thriller",6.2
+142,Pete's Dragon,2016,102,David Lowery,"Bryce Dallas Howard, Robert Redford, Oakes Fegley","Action, Adventure, Comedy",6.7
+143,Everybody Wants Some!!,2016,117,Richard Linklater,"Blake Jenner, Tyler Hoechlin, Ryan Guzman",Comedy,6.9
+144,Pride and Prejudice and Zombies,2016,108,Burr Steers,"Lily James, Sam Riley, Jack Huston","Action, Comedy, Fantasy",5.8
+145,The Light Between Oceans,2016,133,Derek Cianfrance,"Michael Fassbender, Alicia Vikander, Rachel Weisz","Drama, Romance",7.2
+146,Live by Night,2016,129,Ben Affleck,"Ben Affleck, Elle Fanning, Brendan Gleeson","Action, Crime, Drama",6.4
+147,Florence Foster Jenkins,2016,111,Stephen Frears,"Meryl Streep, Hugh Grant, Simon Helberg","Biography, Comedy, Drama",6.8
+148,Airlift,2016,130,Raja Menon,"Akshay Kumar, Nimrat Kaur, Kumud Mishra","Drama, History",7.9
+149,Whiskey Tango Foxtrot,2016,112,"Glenn Ficarra, John Requa","Tina Fey, Margot Robbie, Martin Freeman","Biography, Comedy, Drama",6.6
+150,Anthropoid,2016,120,Sean Ellis,"Jamie Dornan, Cillian Murphy, Brian Caspe","Action, Drama, History",7.2
+151,Sultan,2016,170,Ali Abbas Zafar,"Salman Khan, Anushka Sharma, Randeep Hooda","Action, Drama, Romance",7.1
+152,Before I Wake,2016,97,Mike Flanagan,"Kate Bosworth, Thomas Jane, Jacob Tremblay","Drama, Fantasy, Horror",6.2
+153,The Do-Over,2016,108,Steven Brill,"Adam Sandler, David Spade, Paula Patton","Action, Adventure, Comedy",5.7
+154,Keanu,2016,100,Peter Atencio,"Keegan-Michael Key, Jordan Peele, Tiffany Haddish","Action, Comedy, Crime",6.2
+155,Toni Erdmann,2016,162,Maren Ade,"Sandra Hüller, Peter Simonischek, Michael Wittenborn","Comedy, Drama",7.3
+156,The Take,2016,92,James Watkins,"Idris Elba, Richard Madden, Charlotte Le Bon","Action, Adventure, Crime",6.3
+157,Free Fire,2016,91,Ben Wheatley,"Sharlto Copley, Brie Larson, Armie Hammer","Action, Comedy, Crime",6.3
+158,Imperium,2016,109,Daniel Ragussis,"Daniel Radcliffe, Toni Collette, Tracy Letts","Crime, Drama, Mystery",6.5
+159,Blair Witch,2016,89,Adam Wingard,"James Allen McCune, Callie Hernandez, Corbin Reid","Horror, Mystery, Thriller",5.0
+160,20th Century Women,2016,119,Mike Mills,"Annette Bening, Elle Fanning, Greta Gerwig","Comedy, Drama",7.3
+161,Fan,2016,142,Maneesh Sharma,"Shah Rukh Khan, Shriya Pilgaonkar, Sayani Gupta","Action, Drama, Thriller",6.8
+162,Pink,2016,136,Aniruddha Roy Chowdhury,"Amitabh Bachchan, Taapsee Pannu, Kirti Kulhari","Crime, Drama, Thriller",8.0
+163,The Boss,2016,99,Ben Falcone,"Melissa McCarthy, Kristen Bell, Peter Dinklage",Comedy,5.4
+164,Better Watch Out,2016,89,Chris Peckover,"Olivia DeJonge, Levi Miller, Ed Oxenbould","Comedy, Horror, Thriller",6.5
+165,A Hologram for the King,2016,98,Tom Tykwer,"Tom Hanks, Omar Elba, Sarita Choudhury","Comedy, Drama, Romance",6.1
+166,American Honey,2016,163,Andrea Arnold,"Sasha Lane, Shia LaBeouf, Riley Keough","Adventure, Drama, Romance",7.0
+167,Morgan,2016,92,Luke Scott,"Kate Mara, Anya Taylor-Joy, Rose Leslie","Action, Horror, Sci-Fi",5.9
+168,Ben-Hur,2016,123,Timur Bekmambetov,"Jack Huston, Toby Kebbell, Rodrigo Santoro","Action, Adventure, Drama",5.7
+169,The Choice,2016,111,Ross Katz,"Benjamin Walker, Teresa Palmer, Alexandra Daddario","Drama, Romance",6.5
+170,Brimstone,2016,148,Martin Koolhoven,"Guy Pearce, Dakota Fanning, Emilia Jones","Drama, Thriller, Western",7.0
+171,The Forest,2016,93,Jason Zada,"Natalie Dormer, Eoin Macken, Stephanie Vogt","Horror, Mystery, Thriller",4.8
+172,The Siege of Jadotville,2016,108,Richie Smyth,"Jamie Dornan, Emmanuelle Seigner, Mark Strong","Action, Drama, Thriller",7.2
+173,Dear Zindagi,2016,151,Gauri Shinde,"Alia Bhatt, Shah Rukh Khan, Kunal Kapoor","Drama, Romance",7.4
+174,The Void,2016,90,"Jeremy Gillespie, Steven Kostanski","Aaron Poole, Kenneth Welsh, Ellen Wong","Horror, Mystery, Sci-Fi",5.9
+175,Personal Shopper,2016,105,Olivier Assayas,"Kristen Stewart, Lars Eidinger, Sigrid Bouaziz","Drama, Mystery, Thriller",6.1
+176,ARQ,2016,88,Tony Elliott,"Robbie Amell, Rachael Taylor, Shaun Benson","Action, Sci-Fi, Thriller",6.3
+177,Race,2016,134,Stephen Hopkins,"Stephan James, Jason Sudeikis, Eli Goree","Biography, Drama, Sport",7.1
+178,Mother's Day,2016,118,Garry Marshall,"Jennifer Aniston, Kate Hudson, Julia Roberts","Comedy, Drama, Romance",5.7
+179,Shin Godzilla,2016,120,"Hideaki Anno, Shinji Higuchi","Hiroki Hasegawa, Yutaka Takenouchi, Satomi Ishihara","Action, Drama, Horror",6.8
+180,The Red Turtle,2016,80,Michael Dudok de Wit,"Emmanuel Garijo, Tom Hudson, Baptiste Goy","Animation, Drama, Family",7.5
+181,Smolensk,2016,120,Antoni Krauze,"Beata Fido, Maciej Póltorak, Aldona Struzik","Drama, Thriller",1.2
+182,13th,2016,100,Ava DuVernay,"Melina Abdullah, Michelle Alexander, Cory Booker","Documentary, Crime, History",8.2
+183,Meet the Blacks,2016,94,Deon Taylor,"Mike Epps, Zulay Henao, Alex Henderson","Comedy, Horror",4.8
+184,Loving,2016,123,Jeff Nichols,"Ruth Negga, Joel Edgerton, Will Dalton","Biography, Drama, Romance",7.0
+185,My Big Fat Greek Wedding 2,2016,94,Kirk Jones,"Nia Vardalos, John Corbett, Michael Constantine","Comedy, Romance",6.0
+186,The Bad Batch,2016,118,Ana Lily Amirpour,"Suki Waterhouse, Jason Momoa, Jayda Fink","Action, Horror, Mystery",5.2
+187,A Street Cat Named Bob,2016,103,Roger Spottiswoode,"Luke Treadaway, Bob the Cat, Ruta Gedmintas","Biography, Drama, Family",7.3
+188,The Whole Truth,2016,93,Courtney Hunt,"Keanu Reeves, Renée Zellweger, Gugu Mbatha-Raw","Crime, Drama, Mystery",6.2
+189,Julieta,2016,99,Pedro Almodóvar,"Emma Suárez, Adriana Ugarte, Daniel Grao","Drama, Mystery, Romance",7.1
+190,Udta Punjab,2016,148,Abhishek Chaubey,"Shahid Kapoor, Alia Bhatt, Kareena Kapoor","Crime, Drama",7.7
+191,Mr. Church,2016,104,Bruce Beresford,"Eddie Murphy, Britt Robertson, Natascha McElhone","Comedy, Drama",7.6
+192,Bleed for This,2016,117,Ben Younger,"Miles Teller, Aaron Eckhart, Katey Sagal","Biography, Drama, Sport",6.8
+193,Risen,2016,107,Kevin Reynolds,"Joseph Fiennes, Tom Felton, Peter Firth","Action, Drama, History",6.3
+194,Cell,2016,98,Tod Williams,"John Cusack, Samuel L. Jackson, Isabelle Fuhrman","Action, Adventure, Horror",4.4
+195,My Life as a Zucchini,2016,70,Claude Barras,"Gaspard Schlatter, Sixtine Murat, Paulin Jaccoud","Animation, Comedy, Drama",7.8
+196,Under the Shadow,2016,84,Babak Anvari,"Narges Rashidi, Mia Sinclair Jenness, Mike Pollock","Drama, Fantasy, Horror",6.8
+197,Mirror Game,2016,147,Amitabh Reza Chowdhury,"Chanchal Chowdhury, Masuma Rahman Nabila, Partha Barua","Crime, Mystery, Thriller",8.9
+198,Bad Santa 2,2016,92,Mark Waters,"Billy Bob Thornton, Kathy Bates, Tony Cox","Comedy, Crime, Drama",5.6
+199,Miracles from Heaven,2016,109,Patricia Riggen,"Jennifer Garner, Kylie Rogers, Martin Henderson","Biography, Drama, Family",7.1
+200,Rustom,2016,148,Tinu Suresh Desai,"Akshay Kumar, Ileana D'Cruz, Arjan Bajwa","Crime, Drama, Thriller",7.0
+201,Kapoor & Sons,2016,132,Shakun Batra,"Rishi Kapoor, Rajat Kapoor, Ratna Pathak Shah","Comedy, Crime, Drama",7.7
+202,Two Is a Family,2016,118,Hugo Gélin,"Omar Sy, Clémence Poésy, Antoine Bertrand","Comedy, Drama",7.3
+203,Before the Flood,2016,96,Fisher Stevens,"Leonardo DiCaprio, Ban Ki-moon, Alejandro G. Iñárritu","Documentary, News",8.2
+204,Lady Macbeth,2016,89,William Oldroyd,"Florence Pugh, Cosmo Jarvis, Paul Hilton","Drama, Romance",6.8
+205,Friend Request,2016,92,Simon Verhoeven,"Alycia Debnam-Carey, William Moseley, Connor Paolo","Horror, Mystery, Thriller",5.2
+206,Ae Dil Hai Mushkil,2016,158,Karan Johar,"Ranbir Kapoor, Aishwarya Rai Bachchan, Anushka Sharma","Drama, Musical, Romance",5.9
+207,Love & Friendship,2016,90,Whit Stillman,"Kate Beckinsale, Chloë Sevigny, Xavier Samuel","Comedy, Drama, Romance",6.4
+208,Special Correspondents,2016,101,Ricky Gervais,"Ricky Gervais, Eric Bana, Vera Farmiga",Comedy,5.9
+209,Get a Job,2016,83,Dylan Kidd,"Miles Teller, Anna Kendrick, Bryan Cranston",Comedy,5.3
+210,Amanda Knox,2016,92,"Rod Blackhurst, Brian McGinn","Amanda Knox, Meredith Kercher, Raffaele Sollecito","Documentary, Crime",6.9
+211,It's Only the End of the World,2016,97,Xavier Dolan,"Gaspard Ulliel, Marion Cotillard, Léa Seydoux",Drama,6.8
+212,Leap!,2016,89,"Eric Summer, Éric Warin","Elle Fanning, Dane DeHaan, Carly Rae Jepsen","Animation, Adventure, Comedy",6.8
+213,Brain on Fire,2016,88,Gerard Barrett,"Chloë Grace Moretz, Thomas Mann, Richard Armitage","Biography, Drama",6.6
+214,24,2016,164,Vikram K. Kumar,"Suriya, Samantha Ruth Prabhu, Nithya Menen","Action, Comedy, Drama",7.8
+215,Nine Lives,2016,87,Barry Sonnenfeld,"Kevin Spacey, Jennifer Garner, Robbie Amell","Comedy, Drama, Family",5.3
+216,Theri,2016,157,Atlee,"Joseph Vijay, Samantha Ruth Prabhu, Amy Jackson","Action, Crime, Drama",7.3
+217,True Memoirs of an International Assassin,2016,98,Jeff Wadlow,"Kevin James, Kim Coates, Maurice Compte","Action, Comedy, Crime",5.9
+218,Our Kind of Traitor,2016,108,Susanna White,"Carlos Acosta, Radivoje Bukvic, Stellan Skarsgård","Action, Crime, Drama",6.3
+219,Billy Lynn's Long Halftime Walk,2016,113,Ang Lee,"Joe Alwyn, Garrett Hedlund, Arturo Castro","Action, Drama, Sport",6.2
+220,Marauders,2016,107,Steven C. Miller,"Bruce Willis, Christopher Meloni, Dave Bautista","Action, Crime, Thriller",5.5
+221,Denial,2016,109,Mick Jackson,"Rachel Weisz, Tom Wilkinson, Timothy Spall","Biography, Drama",6.8
+222,Maudie,2016,115,Aisling Walsh,"Sally Hawkins, Ethan Hawke, Zachary Bennett","Biography, Drama, Romance",7.6
+223,Neerja,2016,122,Ram Madhvani,"Sonam Kapoor, Shabana Azmi, Yogendra Tikku","Biography, Drama, Thriller",7.6
+224,I Am Not Your Negro,2016,93,Raoul Peck,"Samuel L. Jackson, James Baldwin, Martin Luther King","Documentary, History",7.9
+225,The Limehouse Golem,2016,109,Juan Carlos Medina,"Douglas Booth, Olivia Cooke, Sam Reid","Crime, Mystery, Thriller",6.3
+226,31,2016,102,Rob Zombie,"Malcolm McDowell, Richard Brake, Jeff Daniel Phillips","Horror, Thriller",5.1
+227,Fifty Shades of Black,2016,92,Michael Tiddes,"Marlon Wayans, Kali Hawk, Fred Willard",Comedy,3.5
+228,Kingsglaive: Final Fantasy XV,2016,110,Takeshi Nozue,"Aaron Paul, Lena Headey, Sean Bean","Animation, Action, Adventure",6.7
+229,Department Q: A Conspiracy of Faith,2016,112,Hans Petter Moland,"Nikolaj Lie Kaas, Fares Fares, Pål Sverre Hagen","Crime, Drama, Mystery",7.0
+230,A Dark Song,2016,100,Liam Gavin,"Steve Oram, Catherine Walker, Susan Loughnane","Drama, Fantasy, Horror",6.2
+231,Skiptrace,2016,107,Renny Harlin,"Jackie Chan, Johnny Knoxville, Bingbing Fan","Action, Adventure, Comedy",5.6
+232,O.J.: Made in America,2016,467,Ezra Edelman,"Willie Brown, Harry Edwards, John McKay","Documentary, Biography, Crime",8.9
+233,David Brent: Life on the Road,2016,96,Ricky Gervais,"Ricky Gervais, Rob Jarvis, Abbie Murphy","Comedy, Music",6.3
+234,Mine,2016,106,"Fabio Guaglione, Fabio Resinaro","Armie Hammer, Annabelle Wallis, Tom Cullen","Drama, Thriller, War",5.8
+235,The Birth of a Nation,2016,120,Nate Parker,"Nate Parker, Armie Hammer, Penelope Ann Miller","Biography, Drama, History",6.5
+236,The Love Witch,2016,120,Anna Biller,"Samantha Robinson, Jeffrey Vincent Parise, Laura Waddell","Comedy, Horror, Romance",6.2
+237,Genius,2016,104,Michael Grandage,"Colin Firth, Jude Law, Nicole Kidman","Biography, Drama",6.5
+238,Pele: Birth of a Legend,2016,107,"Jeff Zimbalist, Michael Zimbalist","Vincent D'Onofrio, Rodrigo Santoro, Diego Boneta","Biography, Drama, Sport",7.1
+239,Beta Test,2016,88,Nicholas Gyeney,"Manu Bennett, Larenz Tate, Linden Ashby","Action, Sci-Fi, Thriller",4.7
+240,Tickled,2016,92,"David Farrier, Dylan Reeve","David Farrier, Dylan Reeve, David Starr","Documentary, Crime, Mystery",7.5
+241,Tallulah,2016,111,Sian Heder,"Elliot Page, Allison Janney, Tammy Blanchard","Comedy, Drama, Romance",6.7
+242,In a Valley of Violence,2016,104,Ti West,"Ethan Hawke, John Travolta, Taissa Farmiga","Action, Western",6.1
+243,Their Finest,2016,117,Lone Scherfig,"Gemma Arterton, Sam Claflin, Bill Nighy","Comedy, Drama, Romance",6.8
+244,Blue Jay,2016,80,Alex Lehmann,"Mark Duplass, Sarah Paulson, Clu Gulager","Drama, Romance",7.3
+245,Sanam Teri Kasam,2016,154,"Radhika Rao, Vinay Sapru","Harshvardhan Rane, Mawra Hocane, Vijay Raaz","Drama, Musical, Romance",7.6
+246,The Trust,2016,92,"Alex Brewer, Benjamin Brewer","Nicolas Cage, Elijah Wood, Sky Ferreira","Action, Crime, Drama",5.5
+247,"Crouching Tiger, Hidden Dragon: Sword of Destiny",2016,96,Yuen Woo-Ping,"Donnie Yen, Michelle Yeoh, Harry Shum Jr.","Action, Adventure, Drama",6.1
+248,Aquarius,2016,146,Kleber Mendonça Filho,"Sonia Braga, Maeve Jinkings, Irandhir Santos",Drama,7.4
+249,Max Steel,2016,92,Stewart Hendler,"Ben Winchell, Josh Brener, Maria Bello","Action, Adventure, Fantasy",4.6
+250,War on Everyone,2016,98,John Michael McDonagh,"Alexander Skarsgård, Michael Peña, Theo James","Action, Comedy, Crime",5.8
+251,Dark Crimes,2016,92,Alexandros Avranas,"Jim Carrey, Marton Csokas, Charlotte Gainsbourg","Crime, Drama, Mystery",4.6
+252,Wazir,2016,103,Bejoy Nambiar,"Amitabh Bachchan, Farhan Akhtar, Aditi Rao Hydari","Action, Crime, Drama",7.1
+253,The Other Side of the Door,2016,96,Johannes Roberts,"Sarah Wayne Callies, Jeremy Sisto, Sofia Rosinsky","Horror, Thriller",5.3
+254,The Monster,2016,91,Bryan Bertino,"Zoe Kazan, Ella Ballentine, Aaron Douglas","Drama, Fantasy, Horror",5.4
+255,Monster Trucks,2016,104,Chris Wedge,"Lucas Till, Jane Levy, Thomas Lennon","Action, Adventure, Comedy",5.7
+256,Pet,2016,94,Carles Torrens,"Dominic Monaghan, Ksenia Solo, Jennette McCurdy","Crime, Horror, Thriller",5.7
+257,Queen of Katwe,2016,124,Mira Nair,"Madina Nalwanga, David Oyelowo, Lupita Nyong'o","Biography, Drama, Sport",7.4
+258,The Good Neighbor,2016,98,Kasra Farahani,"James Caan, Logan Miller, Keir Gilchrist","Crime, Drama, Horror",6.3
+259,American Pastoral,2016,108,Ewan McGregor,"Ewan McGregor, Jennifer Connelly, Dakota Fanning","Crime, Drama, Mystery",6.1
+260,Message from the King,2016,102,Fabrice du Welz,"Chadwick Boseman, Luke Evans, Alfred Molina","Action, Crime, Drama",6.4
+261,Life and a Day,2016,112,Saeed Roustayi,"Payman Maadi, Navid Mohammadzadeh, Parinaz Izadyar",Drama,8.2
+262,Wakefield,2016,106,Robin Swicord,"Bryan Cranston, Jennifer Garner, Victoria Bruno",Drama,6.3
+263,Misconduct,2016,106,Shintaro Shimosawa,"Josh Duhamel, Anthony Hopkins, Al Pacino","Crime, Drama, Mystery",5.3
+264,Don't Think Twice,2016,92,Mike Birbiglia,"Keegan-Michael Key, Gillian Jacobs, Mike Birbiglia","Comedy, Drama",6.7
+265,Hands of Stone,2016,111,Jonathan Jakubowicz,"Edgar Ramírez, Usher, Robert De Niro","Biography, Drama, Sport",6.6
+266,Frantz,2016,113,François Ozon,"Pierre Niney, Paula Beer, Ernst Stötzner","Drama, History, Romance",7.5
+267,Handsome Devil,2016,95,John Butler,"Fionn O'Shea, Ardal O'Hanlon, Amy Huberman","Comedy, Drama, Sport",7.0
+268,For Both of Us,2016,126,Umur Turagay,"Serenay Sarikaya, Nejat Isler, Zerrin Tekindor","Drama, Romance",6.2
+269,Collide,2016,99,Eran Creevy,"Nicholas Hoult, Felicity Jones, Anthony Hopkins","Action, Adventure, Crime",5.7
+270,Dhuruvangal Pathinaaru,2016,105,Karthick Naren,"Rahman, Prakash Raghavan, Sharathkumar","Crime, Drama, Mystery",8.2
+271,Turnabout,2016,90,E.B. Hughes,"George Katt, Waylon Payne, Peter Greene","Drama, Mystery, Thriller",7.1
+272,Exposed,2016,102,Gee Malik Linton,"Ana de Armas, Keanu Reeves, Christopher McDonald","Crime, Drama, Mystery",4.3
+273,The Darkness,2016,92,Greg McLean,"Kevin Bacon, Radha Mitchell, David Mazouz","Horror, Thriller",4.5
+274,Blue Mountain State: The Rise of Thadland,2016,90,Lev L. Spiro,"Alan Ritchson, Darin Brooks, James Cade","Comedy, Sport",5.7
+275,Fallen,2016,91,Scott Hicks,"Joely Richardson, Addison Timlin, Hermione Corfield","Drama, Fantasy, Romance",5.2
+276,Christine,2016,119,Antonio Campos,"Rebecca Hall, Michael C. Hall, Tracy Letts","Biography, Drama",6.9
+277,A United Kingdom,2016,111,Amma Asante,"David Oyelowo, Rosamund Pike, Tom Felton","Biography, Drama, History",6.9
+278,Gantz: O,2016,95,"Yasushi Kawamura, Keiichi Satô","Daisuke Ono, Mao Ichimichi, Tomohiro Kaku","Animation, Action, Drama",7.1
+279,I Am the Pretty Thing That Lives in the House,2016,89,Osgood Perkins,"Ruth Wilson, Paula Prentiss, Bob Balaban","Drama, Horror, Mystery",4.6
+280,I.T.,2016,95,John Moore,"Pierce Brosnan, Jason Barry, Karen Moskow","Crime, Drama, Mystery",5.5
+281,Don't Hang Up,2016,83,"Damien Macé, Alexis Wajsbrot","Gregg Sulkin, Garrett Clayton, Bella Dayne","Horror, Thriller",5.6
+282,Headshot,2016,118,"Kimo Stamboel, Timo Tjahjanto","Iko Uwais, Chelsea Islan, Sunny Pang","Action, Drama, Thriller",6.3
+283,I Am Wrath,2016,92,Chuck Russell,"John Travolta, Christopher Meloni, Amanda Schull","Action, Thriller",5.4
+284,Barbershop: The Next Cut,2016,111,Malcolm D. Lee,"Ice Cube, Regina Hall, Anthony Anderson","Comedy, Drama",5.9
+285,Psycho Raman,2016,133,Anurag Kashyap,"Nawazuddin Siddiqui, Vicky Kaushal, Sobhita Dhulipala","Crime, Drama, Thriller",7.3
+286,Certain Women,2016,107,Kelly Reichardt,"Michelle Williams, Kristen Stewart, Laura Dern",Drama,6.4
+287,I Am Not a Serial Killer,2016,104,Billy O'Brien,"Max Records, Christopher Lloyd, Laura Fraser","Crime, Drama, Horror",6.2
+288,Kedi,2016,79,Ceyda Torun,"Yaman Barlas, Sari, Arzu Göl",Documentary,7.6
+289,At the End of the Tunnel,2016,120,Rodrigo Grande,"Leonardo Sbaraglia, Pablo Echarri, Clara Lago","Crime, Drama, Thriller",7.0
+290,61 Days,2016,115,Yüksel Aksu,"Cem Yilmaz, Berat Efe Parlar, Yilmaz Bayraktar","Drama, History",7.3
+291,The Exception,2016,107,David Leveaux,"Lily James, Jai Courtney, Christopher Plummer","Drama, History, Romance",6.8
+292,Yoga Hosers,2016,88,Kevin Smith,"Lily-Rose Depp, Harley Quinn Smith, Johnny Depp","Action, Comedy, Horror",4.3
+293,Kill Command,2016,99,Steven Gomez,"Thure Lindhardt, Vanessa Kirby, David Ajala","Action, Horror, Sci-Fi",5.7
+294,Madaari,2016,133,Nishikant Kamat,"Irrfan Khan, Jimmy Shergill, Vishesh Bansal","Drama, Thriller",7.6
+295,The 9th Life of Louis Drax,2016,108,Alexandre Aja,"Jamie Dornan, Aiden Longworth, Sarah Gadon","Drama, Mystery, Thriller",6.3
+296,Don't Knock Twice,2016,93,Caradog W. James,"Katee Sackhoff, Lucy Boynton, Richard Mylan","Drama, Fantasy, Horror",5.1
+297,Sairat,2016,174,Nagraj Manjule,"Rinku Rajguru, Akash Thosar, Arbaz Shaikh","Drama, Romance",8.3
+298,Elvis & Nixon,2016,86,Liza Johnson,"Michael Shannon, Kevin Spacey, Alex Pettyfer","Comedy, History",6.3
+299,Shut In,2016,91,Farren Blackburn,"Naomi Watts, Charlie Heaton, Jacob Tremblay","Drama, Horror, Mystery",4.8
+300,The Eyes of My Mother,2016,76,Nicolas Pesce,"Kika Magalhães, Will Brill, Olivia Bond","Drama, Horror, Thriller",6.2
+301,Below Her Mouth,2016,94,April Mullen,"Erika Linder, Natalie Krill, Sebastian Pigott","Drama, Romance",5.5
+302,Graduation,2016,128,Cristian Mungiu,"Adrian Titieni, Maria Dragus, Lia Bugnar","Crime, Drama",7.3
+303,The Hollars,2016,88,John Krasinski,"Sharlto Copley, Charlie Day, Richard Jenkins","Comedy, Drama, Romance",6.6
+304,Things to Come,2016,102,Mia Hansen-Løve,"Isabelle Huppert, André Marcon, Roman Kolinka",Drama,6.9
+305,USS Indianapolis: Men of Courage,2016,128,Mario Van Peebles,"Nicolas Cage, Tom Sizemore, Thomas Jane","Action, Drama, History",5.3
+306,Kabali,2016,153,Pa. Ranjith,"Rajinikanth, Winston Chao, Radhika Apte","Action, Crime, Drama",6.1
+307,Aruvi,2016,130,Arun Prabhu Purushothaman,"Aditi Balan, Padmashri Mohammad Ali, Pradeep Anthony",Drama,8.3
+308,Incarnate,2016,87,Brad Peyton,"Aaron Eckhart, Carice van Houten, Catalina Sandino Moreno","Horror, Thriller",5.3
+309,Trapped,2016,105,Vikramaditya Motwane,"Rajkummar Rao, Geetanjali Thapa, Shiladitya Sen","Drama, Thriller",7.5
+310,Manhattan Night,2016,113,Brian DeCubellis,"Adrien Brody, Yvonne Strahovski, Campbell Scott","Crime, Drama, Mystery",6.2
+311,A Family Man,2016,108,Mark Williams,"Gerard Butler, Gretchen Mol, Alison Brie",Drama,6.5
+312,The Beatles: Eight Days a Week - The Touring Years,2016,106,Ron Howard,"The Beatles, John Lennon, George Harrison","Documentary, History, Music",7.8
+313,Te3n,2016,136,Ribhu Dasgupta,"Amitabh Bachchan, Nawazuddin Siddiqui, Vidya Balan","Crime, Drama, Mystery",7.2
+314,Carrie Pilby,2016,98,Susan Johnson,"Bel Powley, Nathan Lane, William Moseley","Comedy, Drama",6.7
+315,Hounds of Love,2016,108,Ben Young,"Emma Booth, Ashleigh Cummings, Stephen Curry","Crime, Drama, Thriller",6.5
+316,God's Not Dead 2,2016,120,Harold Cronk,"Melissa Joan Hart, Jesse Metcalfe, David A.R. White",Drama,4.4
+317,All I See Is You,2016,109,Marc Forster,"Blake Lively, Jason Clarke, Ahna O'Reilly","Drama, Mystery",5.4
+318,The Distinguished Citizen,2016,118,"Mariano Cohn, Gastón Duprat","Oscar Martínez, Dady Brieva, Andrea Frigerio","Comedy, Drama",7.5
+319,This Beautiful Fantastic,2016,92,Simon Aboud,"Jessica Brown Findlay, Andrew Scott, Jeremy Irvine","Comedy, Drama, Romance",6.9
+320,Mindhorn,2016,89,Sean Foley,"Julian Barratt, Simon Farnaby, Essie Davis","Action, Adventure, Comedy",6.3
+321,Lo and Behold: Reveries of the Connected World,2016,98,Werner Herzog,"Elon Musk, Lawrence Krauss, Lucianne Walkowicz",Documentary,7.0
+322,The Young Offenders,2016,83,Peter Foott,"Alex Murphy, Chris Walley, Hilary Rose","Adventure, Comedy, Crime",7.1
+323,Absolutely Fabulous: The Movie,2016,91,Mandie Fletcher,"Jennifer Saunders, Joanna Lumley, Jane Horrocks","Comedy, Crime",5.4
+324,After the Storm,2016,118,Hirokazu Koreeda,"Hiroshi Abe, Yôko Maki, Satomi Kobayashi","Comedy, Drama",7.4
+325,The Other Me,2016,101,Sotiris Tsafoulias,"Pigmalion Dadakaridis, Dimitris Katalifos, Manos Vakousis","Crime, Drama, Mystery",7.9
+326,AmeriGeddon,2016,90,Mike Norris,"Aliya Astaphan, Rich Bentz, Giovannie Cruz","Action, Adventure, Drama",3.8
+327,Mohenjo Daro,2016,155,Ashutosh Gowariker,"Hrithik Roshan, Pooja Hegde, Kabir Bedi","Action, Adventure, Drama",5.6
+328,Quo vado?,2016,86,Gennaro Nunziante,"Checco Zalone, Eleonora Giovanardi, Sonia Bergamasco",Comedy,6.7
+329,In This Corner of the World,2016,129,Sunao Katabuchi,"Non, Ava Pickard, Kenna Pickard","Animation, Drama, History",7.8
+330,Oasis: Supersonic,2016,122,Mat Whitecross,"Paul Arthurs, Christine Biller, Mark Coyle","Documentary, Biography, Music",7.8
+331,May God Save Us,2016,127,Rodrigo Sorogoyen,"Antonio de la Torre, Roberto Álamo, Javier Pereira","Crime, Drama, Thriller",7.1
+332,The Fury of a Patient Man,2016,92,Raúl Arévalo,"Antonio de la Torre, Luis Callejo, Ruth Díaz","Crime, Drama, Thriller",6.7
+333,Indignation,2016,110,James Schamus,"Logan Lerman, Sarah Gadon, Tijuana Ricks","Drama, Romance",6.7
+334,Other People,2016,97,Chris Kelly,"Jesse Plemons, Molly Shannon, Bradley Whitford","Comedy, Drama",6.8
+335,Irudhi Suttru,2016,109,Sudha Kongara,"Madhavan, Nassar, Radha Ravi","Drama, Sport",7.6
+336,Kickboxer: Vengeance,2016,90,John Stockwell,"Dave Bautista, Alain Moussi, Gina Carano","Action, Crime, Drama",4.9
+337,The Duel,2016,110,Kieran Darcy-Smith,"Woody Harrelson, Liam Hemsworth, Alice Braga","Drama, Western",5.8
+338,The Red Pill,2016,108,Cassie Jaye,"Cassie Jaye, Paul Elam, Attila Vinczer",Documentary,8.0
+339,Infinity Chamber,2016,103,Travis Milloy,"Christopher Soren Kelly, Cass Clark, Cajardo Lindsey","Sci-Fi, Thriller",6.2
+340,Two Lottery Tickets,2016,86,Paul Negoescu,"Dorian Boguta, Dragos Bucur, Alexandru Papadopol",Comedy,7.5
+341,White Girl,2016,88,Elizabeth Wood,"Morgan Saylor, Brian Marc, Justin Bartha","Crime, Drama",5.7
+342,Ratchet & Clank,2016,94,"Kevin Munroe, Jericca Cleland","James Arnold Taylor, David Kaye, Jim Ward","Animation, Action, Adventure",5.5
+343,Holidays,2016,105,"Anthony Scott Burns, Kevin Kölsch, Nicholas McCarthy","Madeleine Coghlan, Savannah Kennick, Rick Peters","Fantasy, Horror, Mystery",5.1
+344,The African Doctor,2016,96,Julien Rambaldi,"Marc Zinga, Aïssa Maïga, Bayron Lebli","Biography, Comedy, Drama",7.0
+345,Rules Don't Apply,2016,127,Warren Beatty,"Lily Collins, Haley Bennett, Taissa Farmiga","Comedy, Drama, Romance",5.7
+346,The Innocents,2016,115,Anne Fontaine,"Lou de Laâge, Agata Buzek, Agata Kulesza","Drama, History",7.3
+347,Una,2016,94,Benedict Andrews,"Ruby Stokes, Rooney Mara, Riz Ahmed",Drama,6.2
+348,Buster's Mal Heart,2016,96,Sarah Adina Smith,"Rami Malek, DJ Qualls, Kate Lyn Sheil","Crime, Drama, Mystery",6.1
+349,Hacker,2016,95,Akan Satayev,"Callan McAuliffe, Lorraine Nicholson, Daniel Eric Gold","Crime, Drama, Thriller",6.1
+350,Cabin Fever,2016,99,Travis Zariwny,"Gage Golightly, Matthew Daddario, Samuel Davis","Horror, Sci-Fi, Thriller",3.7
+351,Housefull 3,2016,140,"Sajid, Farhad Samji","Akshay Kumar, Abhishek Bachchan, Riteish Deshmukh",Comedy,4.9
+352,Nannaku Prematho,2016,168,Sukumar,"N.T. Rama Rao Jr., Rakul Preet Singh, Jagapathi Babu","Action, Drama, Thriller",7.5
+353,Shivaay,2016,153,"Chandan Arora, Ajay Devgn","Ajay Devgn, Abigail Eames, Erika Kaar","Action, Crime, Drama",6.1
+354,The Age of Shadows,2016,140,Kim Jee-woon,"Lee Byung-hun, Gong Yoo, Song Kang-ho","Action, History, Thriller",7.1
+355,Ali and Nino,2016,100,Asif Kapadia,"Adam Bakri, María Valverde, Mandy Patinkin","Drama, Romance, War",6.8
+356,Wiener-Dog,2016,88,Todd Solondz,"Greta Gerwig, Keaton Nigel Cooke, Tracy Letts","Comedy, Drama",5.9
+357,Goodbye Berlin,2016,93,Fatih Akin,"Tristan Göbel, Aniya Wendel, Justina Humpf","Comedy, Drama, Family",6.9
+358,Tunnel,2016,126,Kim Seong-hun,"Ha Jung-woo, Bae Doona, Oh Dal-su","Drama, Thriller",6.8
+359,Neruda,2016,107,Pablo Larraín,"Gael García Bernal, Luis Gnecco, Mercedes Morán","Biography, Crime, Drama",6.8
+360,Good Kids,2016,86,Chris McCoy,"Nicholas Braun, Zoey Deutch, Mateo Arias","Comedy, Drama",6.1
+361,Maheshinte Prathikaaram,2016,120,Dileesh Pothan,"Fahadh Faasil, Aparna Balamurali, Soubin Shahir","Comedy, Drama",8.3
+362,The Disappointments Room,2016,91,D.J. Caruso,"Kate Beckinsale, Mel Raido, Duncan Joiner","Drama, Horror, Thriller",3.9
+363,Alibi.com,2016,89,Philippe Lacheau,"Philippe Lacheau, Élodie Fontan, Julien Arruti","Comedy, Romance",6.5
+364,The Thinning,2016,81,Michael J. Gallagher,"Logan Paul, Peyton List, Lia Marie Johnson","Action, Drama, Horror",5.3
+365,Baaghi,2016,133,Sabbir Khan,"Tiger Shroff, Shraddha Kapoor, Sudheer Babu Posani","Action, Drama, Romance",5.3
+366,The Late Bloomer,2016,90,Kevin Pollak,"Charlotte McKinney, Johnny Simmons, Blake Cooper","Comedy, Drama, Romance",5.2
+367,Divines,2016,105,Houda Benyamina,"Oulaya Amamra, Déborah Lukumuena, Kévin Mischel","Crime, Drama",7.3
+368,The Unknown Girl,2016,113,"Jean-Pierre Dardenne, Luc Dardenne","Adèle Haenel, Olivier Bonnaud, Jérémie Renier","Crime, Drama, Mystery",6.5
+369,Zero Days,2016,116,Alex Gibney,"David Sanger, Emad Kiyaei, Eric Chien",Documentary,7.7
+370,Viral,2016,85,"Henry Joost, Ariel Schulman","Sofia Black-D'Elia, Lio Tipton, Travis Tope","Drama, Horror, Sci-Fi",5.5
+371,High Strung,2016,96,Michael Damian,"Keenan Kampa, Nicholas Galitzine, Sonoya Mizuno","Drama, Music, Romance",6.3
+372,Weiner,2016,96,"Josh Kriegman, Elyse Steinberg","Anthony Weiner, Huma Abedin, Jordan Zain Weiner",Documentary,7.6
+373,The Mermaid,2016,94,Stephen Chow,"Chao Deng, Show Lo, Yuqi Zhang","Comedy, Drama, Fantasy",6.2
+374,The King's Choice,2016,133,Erik Poppe,"Jesper Christensen, Anders Baasmo, Karl Markovics","Biography, Drama, History",7.1
+375,Like Crazy,2016,116,Paolo Virzì,"Valeria Bruni Tedeschi, Micaela Ramazzotti, Valentina Carnelutti","Comedy, Drama",7.1
+376,Middle School: The Worst Years of My Life,2016,92,Steve Carr,"Griffin Gluck, Lauren Graham, Alexa Nisenson","Comedy, Family",6.1
+377,Into the Inferno,2016,104,Werner Herzog,"Werner Herzog, Katia Krafft, Maurice Krafft",Documentary,7.2
+378,Norm of the North,2016,90,"Trevor Wall, Lisa Ortiz","Rob Schneider, Heather Graham, Ken Jeong","Animation, Adventure, Comedy",3.4
+379,Alone in Berlin,2016,103,Vincent Perez,"Louis Hofmann, Emil von Schönfels, Katrin Pollitt","Drama, History, War",6.5
+380,Southside with You,2016,84,Richard Tanne,"Tika Sumpter, Parker Sawyers, Vanessa Bell Calloway","Biography, Drama, History",6.3
+381,Killing Ground,2016,88,Damien Power,"Aaron Pedersen, Ian Meadows, Harriet Dyer","Horror, Thriller",5.8
+382,Kevin Hart: What Now?,2016,96,"Leslie Small, Tim Story","Kevin Hart, Don Cheadle, Halle Berry","Documentary, Comedy",6.0
+383,Precious Cargo,2016,90,Max Adams,"Bruce Willis, Mark-Paul Gosselaar, Claire Forlani","Action, Comedy, Thriller",4.6
+384,Dog Eat Dog,2016,93,Paul Schrader,"Nicolas Cage, Willem Dafoe, Christopher Matthew Cook","Action, Crime, Thriller",4.8
+385,Paris Can Wait,2016,92,Eleanor Coppola,"Diane Lane, Arnaud Viard, Alec Baldwin","Comedy, Drama, Romance",5.8
+386,Come and Find Me,2016,112,Zack Whedon,"Aaron Paul, Annabelle Wallis, Garret Dillahunt","Action, Drama, Mystery",5.7
+387,Secuestro,2016,105,Mar Targarona,"Blanca Portillo, Antonio Dechent, Vicente Romero","Crime, Drama, Mystery",6.4
+388,King Cobra,2016,91,Justin Kelly,"Garrett Clayton, Christian Slater, Molly Ringwald","Crime, Drama",5.6
+389,Boo! A Madea Halloween,2016,103,Tyler Perry,"Tyler Perry, Cassi Davis, Patrice Lovely","Comedy, Drama, Horror",4.7
+390,House on Willow Street,2016,90,Alastair Orr,"Sharni Vinson, Carlyn Burchell, Steven John Ward","Action, Crime, Horror",4.6
+391,The Assignment,2016,95,Walter Hill,"Michelle Rodriguez, Tony Shalhoub, Anthony LaPaglia","Action, Crime, Thriller",4.7
+392,Up for Love,2016,98,Laurent Tirard,"Jean Dujardin, Virginie Efira, Cédric Kahn","Comedy, Romance",6.3
+393,The Osiris Child,2016,95,Shane Abbess,"Kellan Lutz, Daniel MacPherson, Isabel Lucas","Action, Adventure, Drama",5.5
+394,Dishoom,2016,124,Rohit Dhawan,"John Abraham, Varun Dhawan, Jacqueline Fernandez","Action, Adventure, Comedy",5.2
+395,Pee-wee's Big Holiday,2016,90,John Lee,"Paul Reubens, Jordan Black, Doug Cox","Comedy, Family",6.1
+396,Trespass Against Us,2016,99,Adam Smith,"Michael Fassbender, Brendan Gleeson, Lyndsey Marshal","Action, Crime, Drama",5.8
+397,Army of One,2016,92,Larry Charles,"Nicolas Cage, Russell Brand, Wendi McLendon-Covey","Biography, Comedy, Crime",5.2
+398,Standoff,2016,80,Adam Alleca,"Thomas Jane, Laurence Fishburne, Ella Ballentine","Action, Crime, Drama",6.1
+399,Greater,2016,130,David L. Hunt,"Neal McDonough, Leslie Easterbrook, Christopher Severio","Biography, Family, Sport",7.3
+400,Sleight,2016,89,J.D. Dillard,"Jacob Latimore, Seychelle Gabriel, Storm Reid","Crime, Drama, Sci-Fi",5.9
+401,Rocky Handsome,2016,0,Nishikant Kamat,"John Abraham, Nishikant Kamat, Sharad Kelkar","Action, Crime, Drama",6.8
+402,Pelli Choopulu,2016,125,Tharun Bhascker Dhaassyam,"Abhay Bethiganti, Bindu Chandramouli, Khenisha Chandran","Comedy, Drama, Romance",8.2
+403,Urge,2016,89,Aaron Kaufman,"Pierce Brosnan, Justin Chatwin, Danny Masterson","Drama, Horror, Mystery",4.3
+404,Approaching the Unknown,2016,90,Mark Elijah Rosenberg,"Mark Strong, Luke Wilson, Sanaa Lathan","Drama, Sci-Fi, Thriller",4.9
+405,The Secret Scripture,2016,108,Jim Sheridan,"Theo James, Rooney Mara, Eric Bana","Drama, Romance",6.7
+406,Lavender,2016,92,Ed Gass-Donnelly,"Abbie Cornish, Diego Klattenhoff, Justin Long","Adventure, Drama, Horror",5.4
+407,Bad Cat,2016,86,"Mehmet Kurtulus, Ayse Ünal","Ugur Yücel, Demet Evgar, Okan Yalabik","Animation, Action, Adventure",7.0
+408,Pandora,2016,136,Jeong-woo Park,"Kim Nam-gil, Kim Joo-Hyun, Jung Jin-young","Action, Drama, Thriller",6.7
+409,Birth of the Dragon,2016,95,George Nolfi,"Billy Magnussen, Yu Xia, Philip Ng","Action, Biography, Drama",5.7
+410,The Healer,2016,113,Paco Arango,"Oliver Jackson-Cohen, Jonathan Pryce, Camilla Luddington","Comedy, Drama, Family",6.4
+411,Riphagen,2016,131,Pieter Kuijpers,"Huub Smit, Guido Pollemans, Anna Raadsveld","Biography, Drama, War",7.1
+412,The Greasy Strangler,2016,93,Jim Hosking,"Michael St. Michaels, Sky Elobar, Elizabeth De Razzo","Comedy, Horror",5.7
+413,Prevenge,2016,88,Alice Lowe,"Alice Lowe, Dan Renton Skinner, Jo Hartley","Comedy, Crime, Drama",5.9
+414,A Kind of Murder,2016,95,Andy Goddard,"Patrick Wilson, Jessica Biel, Haley Bennett","Crime, Drama, Mystery",5.3
+415,Pulimurugan,2016,161,Vysakh,"Mohanlal, Jagapathi Babu, Kamalinee Mukherjee",Action,6.7
+416,Janatha Garage,2016,162,Koratala Siva,"N.T. Rama Rao Jr., Mohanlal, Samantha Ruth Prabhu","Action, Drama",7.2
+417,Term Life,2016,93,Peter Billingsley,"Vince Vaughn, Hailee Steinfeld, Bill Paxton","Action, Crime, Drama",5.6
+418,Almost Christmas,2016,111,David E. Talbert,"Kimberly Elise, Omar Epps, Danny Glover","Comedy, Drama, Romance",6.2
+419,Dad's Army,2016,100,Oliver Parker,"Mark Tandy, Russell Balogh, Andrew Havill","Comedy, War",5.2
+420,Smoke & Mirrors,2016,123,Alberto Rodríguez,"Jose Coronado, Eduard Fernández, Miquel García Borda","Biography, Thriller",6.8
+421,Beware the Slenderman,2016,114,Irene Taylor,"Morgan Geyser, Anissa Weier, Angie Geyser","Documentary, Biography, Crime",6.2
+422,The Neighbor,2016,87,Marcus Dunstan,"Josh Stewart, Bill Engvall, Alexandra Essoe","Crime, Horror, Thriller",5.8
+423,Pandemic,2016,91,John Suits,"Rachel Nichols, Alfie Allen, Missi Pyle","Action, Horror, Sci-Fi",4.4
+424,Sami Blood,2016,110,Amanda Kernell,"Maj-Doris Rimpi, Olle Sarri, Ánne Biret Somby","Drama, History",7.3
+425,Befikre,2016,130,Aditya Chopra,"Vaani Kapoor, Ranveer Singh, Djinda Kane","Comedy, Drama, Romance",4.2
+426,Suntan,2016,104,Argyris Papadimitropoulos,"Makis Papadimitriou, Elli Tringou, Hara Kotsali",Drama,6.6
+427,When the Bough Breaks,2016,107,Jon Cassar,"Morris Chestnut, Regina Hall, Romany Malco","Drama, Thriller",5.2
+428,The Commune,2016,111,Thomas Vinterberg,"Lars Ranthe, Fares Fares, Trine Dyrholm",Drama,6.4
+429,Chocolat,2016,119,Roschdy Zem,"Omar Sy, James Thierrée, Clotilde Hesme","Biography, Drama",7.0
+430,Dhruva,2016,165,Surender Reddy,"Ram Charan, Arvind Swamy, Rakul Preet Singh","Action, Crime, Drama",7.7
+431,Tower,2016,82,Keith Maitland,"Monty Muir, Violett Beane, Cole Bee Wilson","Documentary, Animation, Crime",7.9
+432,Rupture,2016,102,Steven Shainberg,"Noomi Rapace, Michael Chiklis, Kerry Bishé","Horror, Sci-Fi, Thriller",4.9
+433,The Veil,2016,93,Phil Joanou,"Jessica Alba, Thomas Jane, Lily Rabe",Horror,4.7
+434,The Comedian,2016,120,Taylor Hackford,"Robert De Niro, Leslie Mann, Danny DeVito","Comedy, Drama, Romance",5.8
+435,Sour Apples,2016,114,Yilmaz Erdogan,"Yilmaz Erdogan, Farah Zeynep Abdullah, Songül Öden","Drama, History",7.1
+436,Mascots,2016,89,Christopher Guest,"Zach Woods, Wayne Wilderson, Sarah Baker",Comedy,5.8
+437,Operation Avalanche,2016,94,Matt Johnson,"Matt Johnson, Owen Williams, Andrew Appelle","Comedy, Drama, Mystery",6.1
+438,Seoul Station,2016,92,Yeon Sang-ho,"Ryu Seung-ryong, Shim Eun-kyung, Lee Joon","Animation, Action, Horror",6.1
+439,Sarrainodu,2016,126,Boyapati Srinu,"Allu Arjun, Aadhi, Rakul Preet Singh","Action, Drama",6.6
+440,Here Alone,2016,98,Rod Blackhurst,"Lucy Walters, Gina Piersanti, Adam David Thompson","Drama, Horror, Sci-Fi",5.6
+441,Goat,2016,96,Andrew Neel,"Ben Schnetzer, Nick Jonas, Gus Halper",Drama,5.7
+442,Miss Stevens,2016,86,Julia Hart,"Lily Rabe, Timothée Chalamet, Lili Reinhart","Comedy, Drama",6.5
+443,One Piece Film: Gold,2016,124,Hiroaki Miyamoto,"Mayumi Tanaka, Kazuya Nakai, Akemi Okamura","Animation, Action, Adventure",7.1
+444,LBJ,2016,98,Rob Reiner,"Woody Harrelson, Michael Stahl-David, Richard Jenkins","Biography, Drama, History",6.5
+445,Buddha in a Traffic Jam,2016,114,Vivek Agnihotri,"Anupam Kher, Anchal Dwivedi, Mahie Gill","Crime, Thriller",7.2
+446,Hillary's America: The Secret History of the Democratic Party,2016,106,"Dinesh D'Souza, Bruce Schooley","Dinesh D'Souza, Jonah Goldberg, David Guyette","Documentary, Biography, History",4.8
+447,Within,2016,88,Phil Claydon,"Michael Vartan, Erin Moriarty, Nadine Velazquez","Horror, Thriller",5.1
+448,Siren,2016,82,Gregg Bishop,"Chase Williamson, Hannah Fierman, Justin Welborn","Horror, Mystery, Thriller",5.3
+449,Little Men,2016,85,Ira Sachs,"Greg Kinnear, Jennifer Ehle, Paulina García",Drama,6.7
+450,Baar Baar Dekho,2016,141,Nitya Mehra,"Sidharth Malhotra, Katrina Kaif, Sayani Gupta","Drama, Romance, Sci-Fi",5.4
+451,The Last King,2016,99,Nils Gaup,"Jakob Oftebro, Kristofer Hivju, Torkel Dommersnes Soldal","Action, Drama, History",6.1
+452,Barry,2016,104,Vikram Gandhi,"Devon Terrell, Anya Taylor-Joy, Jason Mitchell","Biography, Drama",6.0
+453,HyperNormalisation,2016,166,Adam Curtis,"Adam Curtis, Donald Trump, Vladimir Putin",Documentary,8.2
+454,Kirik Party,2016,159,Rishab Shetty,"Rakshit Shetty, Rashmika Mandanna, Samyuktha Hegde","Comedy, Drama, Romance",8.2
+455,96 Souls,2016,112,Stanley Jacobs,"Grinnell Morris, Sridhar Maruvada, Paul Statman","Drama, Mystery, Sci-Fi",5.9
+456,Natsamrat,2016,166,"Mahesh Manjrekar, Satish Padwal","Nana Patekar, Medha Manjrekar, Mrunmayee Deshpande","Drama, Family",8.8
+457,Center of My World,2016,115,Jakob M. Erwa,"Louis Hofmann, Jannik Schümann, Sabine Timoteo","Drama, Romance",7.1
+458,To Steal from a Thief,2016,96,Daniel Calparsoro,"Luis Tosar, Rodrigo de la Serna, Raúl Arévalo","Adventure, Crime, Drama",6.2
+459,Being 17,2016,114,André Téchiné,"Sandrine Kiberlain, Kacey Mottet Klein, Corentin Fila","Drama, Romance",7.2
+460,Lipstick Under My Burkha,2016,117,Alankrita Shrivastava,"Aahana Kumra, Ratna Pathak Shah, Konkona Sen Sharma","Comedy, Drama",6.8
+461,Team Foxcatcher,2016,90,Jon Greenhalgh,"John du Pont, Dave Schultz, Mike Gostigian","Documentary, Biography, Crime",7.2
+462,Catfight,2016,95,Onur Tukel,"Sandra Oh, Anne Heche, Alicia Silverstone","Action, Comedy, Drama",5.9
+463,MSG the Warrior: Lion Heart,2016,120,Gurmeet Ram Rahim Singh,"Muntazir Ahmad, Gaurav Sharma Influencer, Ashok Insan","Adventure, Fantasy, Sci-Fi",7.1
+464,David Lynch: The Art Life,2016,88,"Rick Barnes, Olivia Neergaard-Holm, Jon Nguyen","David Lynch, Lula Lynch, Edwina Lynch","Documentary, Biography",7.2
+465,The Confirmation,2016,101,Bob Nelson,"Clive Owen, Maria Bello, Jaeden Martell","Adventure, Comedy, Drama",6.4
+466,XOXO,2016,92,Christopher Louie,"Sarah Hyland, Graham Phillips, Brett DelBuono","Drama, Music",5.3
+467,Osman Pazarlama,2016,114,Togan Gökbakar,"Sahan Gökbakar, Mehmet Selim Akgul, Feristah Senem Yildirim",Comedy,3.5
+468,Laid in America,2016,85,"Sam Milman, Peter Vass","KSI, Caspar Lee, Bobby Lee",Comedy,4.3
+469,The Dirty Dutch,2016,77,Willem Gerritsen,"Niek Roozen, Martijn van Eijzeren, Simon Kindermans",Comedy,5.1
+470,Satanic,2016,85,Jeffrey G. Hunt,"Sarah Hyland, Steven Krueger, Justin Chon",Horror,3.7
+471,100 Meters,2016,108,Marcel Barrena,"Dani Rovira, Karra Elejalde, Alexandra Jiménez","Biography, Comedy, Drama",7.5
+472,Audrie & Daisy,2016,95,"Bonni Cohen, Jon Shenk","Robin Bourland, Daisy Coleman, Charles Coleman","Documentary, Crime",7.2
+473,Swinger,2016,99,Mikkel Munch-Fals,"Martin Buch, Mille Dinesen, Rasmus Botoft","Comedy, Romance",5.4
+474,House of Bodies,2016,79,"Juan Bofill, Alex Merkin","Terrence Howard, Peter Fonda, George Katt","Crime, Drama, Thriller",3.8
+475,Chuck,2016,98,Philippe Falardeau,"Liev Schreiber, Elisabeth Moss, Ron Perlman","Biography, Drama, Sport",6.5
+476,The Untamed,2016,98,Amat Escalante,"Ruth Ramos, Simone Bucio, Jesús Meza","Drama, Horror, Mystery",6.1
+477,Hatred,2016,150,Wojciech Smarzowski,"Michalina Labacz, Arkadiusz Jakubik, Wasyl Wasylik","Drama, War",7.6
+478,Big Fish & Begonia,2016,100,"Xuan Liang, Chun Zhang","Guanlin Ji, Shangqing Su, Timmy Xu","Animation, Adventure, Drama",7.0
+479,Girl Lost,2016,95,Robin Bain,"Jessica Taylor Haid, James Seaman, Robin Bain",Drama,6.1
+480,Hurricane Bianca,2016,84,Matt Kugelman,"Roy Haylock, Lola Botha, Grayson Thorne Kilpatrick","Comedy, Drama",5.9
+481,From the Land of the Moon,2016,120,Nicole Garcia,"Marion Cotillard, Louis Garrel, Alex Brendemühl","Drama, Romance",6.6
+482,The Wild Life,2016,91,"Vincent Kesteloot, Mimi Maynard","Matthias Schweighöfer, Kaya Yanar, Ilka Bessin","Animation, Adventure, Comedy",5.4
+483,The 101-Year-Old Man Who Skipped Out on the Bill and Disappeared,2016,108,"Felix Herngren, Felix Herngren Måns Herngren, Måns Herngren","Robert Gustafsson, Iwar Wiklander, David Wiberg","Adventure, Comedy, Crime",6.3
+484,Endless Poetry,2016,128,Alejandro Jodorowsky,"Adan Jodorowsky, Brontis Jodorowsky, Leandro Taub","Biography, Drama, Fantasy",7.5
+485,Gimme Danger,2016,108,Jim Jarmusch,"Iggy Pop, Jim Jarmusch, Bob Waller","Documentary, Music",7.2
+486,Detour,2016,97,Christopher Smith,"Tye Sheridan, Emory Cohen, Bel Powley","Action, Thriller",6.2
+487,Norman,2016,118,Joseph Cedar,"Richard Gere, Lior Ashkenazi, Michael Sheen","Drama, Thriller",6.1
+488,Complete Unknown,2016,91,Joshua Marston,"Michael Shannon, Rachel Weisz, Hansel Tan","Drama, Mystery",5.4
+489,The Intervention,2016,90,Clea DuVall,"Melanie Lynskey, Jason Ritter, Skylar Bernon","Comedy, Drama",6.0
+490,Batman: Return of the Caped Crusaders,2016,78,Rick Morales,"Adam West, Burt Ward, Julie Newmar","Animation, Action, Adventure",6.7
+491,Strangled,2016,121,Árpád Sopsits,"Károly Hajduk, Gábor Jászberényi, Zsolt Anger","Crime, Drama, Horror",7.0
+492,Autumn Lights,2016,98,Angad Aulakh,"Guy Kent, Marta Gastini, Sveinn Ólafur Gunnarsson","Drama, Mystery",5.1
+493,"Kiki, Love to Love",2016,102,Paco León,"Natalia de Molina, Álex García, Jacobo Sánchez","Comedy, Romance",6.4
+494,Daylight's End,2016,105,William Kaufman,"Johnny Strong, Lance Henriksen, Louis Mandylor","Action, Fantasy, Horror",5.4
+495,Tight Dress,2016,77,Hiner Saleem,"Tuba Büyüküstün, Hazar Ergüçlü, Inanç Konukçu",Drama,8.3
+496,Frank & Lola,2016,88,Matthew Ross,"Michael Shannon, Imogen Poots, Carlos Moreno Jr.","Crime, Drama, Romance",5.9
+497,A Death in the Gunj,2016,110,Konkona Sen Sharma,"Kalki Koechlin, Vikrant Massey, Gulshan Devaiah","Drama, Thriller",7.4
+498,Amateur Night,2016,92,"Lisa Addario, Joe Syracuse","Jason Biggs, Janet Montgomery, Ashley Tisdale",Comedy,5.1
+499,Oopiri,2016,158,Vamshi Paidipally,"Nagarjuna Akkineni, Karthi, Tamannaah Bhatia","Comedy, Drama",8.0
+500,Ki & Ka,2016,126,R Balki,"Kareena Kapoor, Amitabh Bachchan, Arjun Kapoor","Comedy, Romance",5.7
+501,Heartstone,2016,129,Guðmundur Arnar Guðmundsson,"Baldur Einarsson, Blær Hinriksson, Diljá Valsdóttir","Drama, Romance",7.4
+502,A Quiet Passion,2016,125,Terence Davies,"Emma Bell, Sara Vertongen, Rose Williams","Biography, Drama",6.4
+503,Creepy,2016,130,Kiyoshi Kurosawa,"Hidetoshi Nishijima, Yûko Takeuchi, Toru Baba","Crime, Drama, Horror",6.4
+504,Tramps,2016,82,Adam Leon,"Callum Turner, Grace Van Patten, Michal Vondel","Adventure, Romance",6.5
+505,Beyond the Gates,2016,84,Jackson Stewart,"Graham Skipper, Chase Williamson, Brea Grant","Adventure, Horror",5.1
+506,Goldstone,2016,110,Ivan Sen,"Aaron Pedersen, Alex Russell, Jacki Weaver","Action, Crime, Mystery",6.6
+507,Penny Pincher!,2016,89,Fred Cavayé,"Dany Boon, Laurence Arné, Noémie Schmidt",Comedy,5.9
+508,Battle for Incheon: Operation Chromite,2016,111,John H. Lee,"Liam Neeson, Lee Jung-jae, Lee Beom-su","Action, Drama, History",6.2
+509,The Hollow Point,2016,97,Gonzalo López-Gallego,"Patrick Wilson, Ian McShane, John Leguizamo","Adventure, Crime, Drama",5.4
+510,The Odyssey,2016,122,Jérôme Salle,"Lambert Wilson, Pierre Niney, Audrey Tautou","Adventure, Biography, Drama",6.6
+511,Kahaani 2,2016,127,Sujoy Ghosh,"Vidya Balan, Arjun Rampal, Jugal Hansraj","Mystery, Thriller",6.5
+512,Clash,2016,97,Mohamed Diab,"Nelly Karim, Hany Adel, Muhammad El-Sebai","Drama, Thriller, War",7.4
+513,Panfilov's 28 Men,2016,121,"Kim Druzhinin, Andrey Shalopa","Anton Kuznetsov, Aziz Beyshenaliev, Dmitriy Sutyrin","Action, Drama, War",6.7
+514,Holy Hell,2016,100,Will Allen,"Will Allen, Dimitrius Pulido, Phillipe Coquet","Documentary, Drama",7.0
+515,Anti Matter,2016,109,Keir Burrows,"Yaiza Figueroa, Philippa Carson, Tom Barber-Duffy","Horror, Mystery, Sci-Fi",5.7
+516,Kshanam,2016,110,Ravikanth Perepu,"Adivi Sesh, Adah Sharma, Anasuya Bharadwaj",Thriller,8.1
+517,Flight Crew,2016,138,Nikolay Lebedev,"Danila Kozlovsky, Vladimir Mashkov, Agne Grudyte","Action, Adventure, Drama",6.6
+518,The Day Will Come,2016,119,Jesper W. Nielsen,"Harald Kaiser Hermann, Albert Rudbeck Lindhardt, Lars Mikkelsen",Drama,7.9
+519,Rock Dog,2016,90,Ash Brannon,"Luke Wilson, Eddie Izzard, J.K. Simmons","Animation, Adventure, Comedy",6.0
+520,The Student,2016,118,Kirill Serebrennikov,"Pyotr Skvortsov, Viktoriya Isakova, Yuliya Aug",Drama,6.9
+521,"Life, Animated",2016,92,Roger Ross Williams,"Owen Suskind, Cornelia Suskind, Ron Suskind","Documentary, Comedy, Drama",7.4
+522,Force 2,2016,127,Abhinay Deo,"John Abraham, Sonakshi Sinha, Tahir Raj Bhasin","Action, Thriller",6.2
+523,Sour Grapes,2016,85,"Reuben Atlas, Jerry Rothwell","Laurent Ponsot, Jay McInerney, Jefery Levy","Documentary, Crime",7.2
+524,Fire at Sea,2016,114,Gianfranco Rosi,"Samuele Pucillo, Mattias Cucina, Samuele Caruana",Documentary,6.7
+525,Azhar,2016,130,Anthony D'Souza,"Emraan Hashmi, Nargis Fakhri, Prachi Desai","Biography, Drama, Sport",5.7
+526,Rebirth,2016,100,Karl Mueller,"Fran Kranz, Adam Goldberg, Nicky Whelan",Thriller,5.0
+527,The Unnamed,2016,100,Tauquir Ahmed,"Shahiduzzaman Selim, Ashraful Tushar, Mosharraf Karim",Drama,9.0
+528,"Fear, Inc.",2016,90,Vincent Masciale,"Lucas Neff, Caitlin Stasey, Christopher Rodriguez Marquette","Comedy, Horror, Thriller",5.6
+529,Sieranevada,2016,173,Cristi Puiu,"Mara Elena Andrei, Mirela Apostu, Eugenia Bosânceanu","Comedy, Drama",7.3
+530,Always Shine,2016,85,Sophia Takal,"Mackenzie Davis, Caitlin FitzGerald, Lawrence Michael Levine","Drama, Horror, Mystery",5.6
+531,It Stains the Sands Red,2016,92,Colin Minihan,"Brittany Allen, Juan Riedinger, Merwin Mondesir","Drama, Horror, Sci-Fi",5.5
+532,A Flying Jatt,2016,151,Remo D'Souza,"Tiger Shroff, Jacqueline Fernandez, Nathan Jones","Action, Adventure, Comedy",3.1
+533,Happy Bhaag Jayegi,2016,126,Mudassar Aziz,"Diana Penty, Abhay Deol, Jimmy Shergill","Comedy, Romance",6.5
+534,Enter the Warriors Gate,2016,108,Matthias Hoene,"Mark Chao, Ni Ni, Dave Bautista","Action, Adventure, Comedy",5.4
+535,Don't Blame the Kid,2016,105,Gustavo Loza,"Karla Souza, Ricardo Abarca, Biassini Segura","Comedy, Romance",6.6
+536,Italian Race,2016,118,Matteo Rovere,"Stefano Accorsi, Matilda De Angelis, Paolo Graziosi","Drama, Sport",7.2
+537,Fitoor,2016,131,Abhishek Kapoor,"Aditya Roy Kapoor, Katrina Kaif, Tabu","Drama, Romance",5.4
+538,Betting on Zero,2016,99,Ted Braun,"William Ackman, Douglas M. Brooks, William Cohan",Documentary,7.2
+539,Welcome to Germany,2016,116,Simon Verhoeven,"Senta Berger, Heiner Lauterbach, Florian David Fitz","Comedy, Drama",6.2
+540,The Last Face,2016,130,Sean Penn,"Charlize Theron, Javier Bardem, Brandon Phillips","Action, Adventure, Drama",5.0
+541,Sarbjit,2016,131,Omung Kumar,"Randeep Hooda, Aishwarya Rai Bachchan, Richa Chadha","Biography, Drama",7.3
+542,One More Time with Feeling,2016,113,Andrew Dominik,"Nick Cave, Warren Ellis, Jim Sclavunos","Documentary, Music",8.2
+543,Morris from America,2016,91,Chad Hartigan,"Markees Christmas, Craig Robinson, Carla Juri","Comedy, Drama, Romance",6.3
+544,Almost Friends,2016,101,Jake Goldberger,"Freddie Highmore, Odeya Rush, Christopher Meloni","Comedy, Drama",5.8
+545,Kali,2016,115,Sameer Thahir,"Dulquer Salmaan, Sai Pallavi, Vinayakan","Action, Drama, Thriller",6.9
+546,Beyond the Woods,2016,84,Sean Breathnach,"John Ryan Howard, Claire J. Loy, Irene Kelleher","Drama, Horror, Mystery",4.3
+547,Realive,2016,112,Mateo Gil,"Charlotte Le Bon, Oona Chaplin, Tom Hughes","Drama, Sci-Fi",5.9
+548,Voyage of Time: Life's Journey,2016,90,Terrence Malick,"Cate Blanchett, Jamal Cavil, Maisha Diatta","Documentary, Drama",6.5
+549,Let's Be Evil,2016,82,Martin Owen,"Sophie Willis, Jules Brown, Elizabeth Morris","Horror, Sci-Fi, Thriller",3.8
+550,"My Tomorrow, Your Yesterday",2016,111,Takahiro Miki,"Sôta Fukushi, Nana Komatsu, Masahiro Higashide","Drama, Fantasy, Romance",7.4
+551,Operation Mekong,2016,123,Dante Lam,"Hanyu Zhang, Eddie Peng, Baoguo Chen","Action, Adventure, Crime",6.5
+552,Nocturama,2016,130,Bertrand Bonello,"Finnegan Oldfield, Vincent Rottiers, Hamza Meziani","Drama, Thriller",6.4
+553,Teenage Cocktail,2016,88,John Carchietta,"Nichole Sakura, Fabianne Therese, Pat Healy","Drama, Thriller",5.8
+554,Tell Me How I Die,2016,107,D.J. Viola,"Nathan Kress, Virginia Gardner, Kirby Bliss Blanton","Horror, Mystery, Thriller",5.0
+555,Kolpaçino: 3. Devre,2016,93,Safak Sezer,"Aydemir Akbas, Safak Sezer, Ali Çatalbas",Comedy,4.2
+556,Lovesong,2016,84,So Yong Kim,"Riley Keough, Jena Malone, Jessie Ok Gray","Drama, Romance",6.3
+557,Ghayal Once Again,2016,127,Sunny Deol,"Sunny Deol, Soha Ali Khan, Shivam Patil","Action, Drama, Thriller",6.2
+558,Phantasm: Ravager,2016,85,David Hartman,"A. Michael Baldwin, Reggie Bannister, Dawn Cody","Action, Fantasy, Horror",4.9
+559,Antiporno,2016,76,Sion Sono,"Ami Tomite, Mariko Tsutsui, Fujiko","Drama, Horror",6.3
+560,7 Years,2016,77,Roger Gual,"Juana Acosta, Alex Brendemühl, Paco León",Drama,6.7
+561,Esteros,2016,83,Papu Curotto,"Ignacio Rogers, Esteban Masturini, Joaquín Parada","Drama, Romance",7.0
+562,They're Watching,2016,95,"Jay Lender, Micah Wright","Mia Marcon, Kris Lemche, David Alpay","Comedy, Horror, Thriller",5.6
+563,Vaxxed: From Cover-Up to Catastrophe,2016,91,Andrew Wakefield,"Del Bigtree, Mark F. Blaxill, Michaela Blaxill",Documentary,4.6
+564,Victoria,2016,97,Justine Triet,"Virginie Efira, Vincent Lacoste, Melvil Poupaud","Comedy, Drama, Romance",6.2
+565,My Brother,2016,120,Mert Baykal,"Burak Özçivit, Murat Boz, Asli Enver","Comedy, Romance",5.8
+566,Viking,2016,142,Andrey Kravchuk,"Danila Kozlovsky, Svetlana Khodchenkova, Maksim Sukhanov","Action, Drama, History",4.6
+567,Range 15,2016,89,Ross Patterson,"Keith David, Sean Astin, William Shatner","Action, Comedy, Horror",4.0
+568,Kammatti Paadam,2016,177,Rajeev Ravi,"Dulquer Salmaan, Vinayakan, Shaun Romy","Action, Crime, Drama",7.9
+569,Inside,2016,89,Miguel Ángel Vivas,"Rachel Nichols, Laura Harring, Ben Temple","Horror, Thriller",4.6
+570,Don't Kill It,2016,83,Mike Mendez,"Dolph Lundgren, Kristina Klebe, Tony Bentley","Action, Horror",5.2
+571,Mean Dreams,2016,108,Nathan Morlando,"Josh Wiggins, Sophie Nélisse, Joe Cobden","Drama, Thriller",6.3
+572,Bodyguard,2016,105,Ebrahim Hatamikia,"Parviz Parastui, Merila Zare'i, Babak Hamidian","Action, Drama, Thriller",6.0
+573,Laal Rang,2016,147,Syed Ahmad Afzal,"Randeep Hooda, Akshay Oberoi, Rajneesh Duggal","Comedy, Crime, Drama",7.8
+574,The Happiest Day in the Life of Olli Maki,2016,92,Juho Kuosmanen,"Jarkko Lahti, Oona Airola, Eero Milonoff","Biography, Drama, Romance",7.2
+575,Railroad Tigers,2016,124,Sheng Ding,"Jackie Chan, Jaycee Cho-Ming Chan, Zitao Huang","Action, Adventure, Comedy",5.8
+576,We Go On,2016,90,"Jesse Holland, Andy Mitton","Annette O'Toole, Clark Freeman, John Glover","Drama, Horror, Mystery",5.8
+577,The Midnight Man,2016,95,Travis Zariwny,"Summer H. Howell, Keenan Lehmann, Meredith Rose","Fantasy, Horror, Mystery",4.8
+578,Lake Bodom,2016,85,Taneli Mustonen,"Nelly Hirst-Gee, Mimosa Willamo, Mikael Gabriel","Horror, Mystery, Thriller",5.2
+579,Eliminators,2016,94,James Nunn,"Scott Adkins, Stu Bennett, Daniel Caltagirone","Action, Thriller",5.6
+580,Eloise,2016,89,Robert Legato,"Chace Crawford, Eliza Dushku, Brandon T. Jackson","Horror, Mystery, Sci-Fi",4.6
+581,The Visitors: Bastille Day,2016,110,Jean-Marie Poiré,"Christian Clavier, Jean Reno, Franck Dubosc","Comedy, Fantasy",4.6
+582,The Last Family,2016,123,Jan P. Matuszynski,"Andrzej Seweryn, Dawid Ogrodnik, Aleksandra Konieczna","Biography, Drama",7.4
+583,On the Milky Road,2016,125,Emir Kusturica,"Emir Kusturica, Monica Bellucci, Sloboda Micalovic","Comedy, Drama, Fantasy",6.3
+584,Correspondence,2016,122,Giuseppe Tornatore,"Jeremy Irons, Olga Kurylenko, Simon Johns","Drama, Romance",6.1
+585,Score,2016,93,Matt Schrader,"Marco Beltrami, Jon Burlingame, Leonard Maltin","Documentary, Music",7.5
+586,The Windmill,2016,85,Nick Jongerius,"Patrick Baladi, Ben Batt, Charlotte Beaumont","Drama, Horror",4.9
+587,Slack Bay,2016,122,Bruno Dumont,"Fabrice Luchini, Juliette Binoche, Valeria Bruni Tedeschi","Comedy, Fantasy",6.0
+588,Sacrifice,2016,91,Peter A. Dowling,"Radha Mitchell, Rupert Graves, Ian McElhinney","Crime, Horror, Mystery",5.3
+589,For the Love of Spock,2016,111,Adam Nimoy,"Simon Pegg, Zoe Saldaña, J.J. Abrams","Documentary, Biography",7.6
+590,Edge of Winter,2016,89,Rob Connolly,"Joel Kinnaman, Percy Hynes White, Tom Holland","Drama, Thriller",5.4
+591,The Book of Love,2016,106,Bill Purple,"Jason Sudeikis, Maisie Williams, Jessica Biel",Drama,6.0
+592,My Blind Brother,2016,85,Sophie Goodhart,"Adam Scott, Nick Kroll, Greg Violand","Comedy, Drama, Romance",6.0
+593,Five,2016,102,Igor Gotesman,"Pierre Niney, François Civil, Igor Gotesman","Comedy, Crime, Drama",6.3
+594,Küçük Esnaf,2016,104,Bedran Güzel,"Ibrahim Büyükak, Zeynep Kocak, Gupse Özay",Comedy,5.6
+595,Wild Oats,2016,86,Andy Tennant,"Shirley MacLaine, Jessica Lange, Demi Moore","Action, Adventure, Comedy",5.7
+596,Belgica,2016,127,Felix van Groeningen,"Stef Aerts, Tom Vermeir, Stefaan De Winter",Drama,6.7
+597,The Net,2016,114,Kim Ki-duk,"Ryu Seung-beom, Lee Won-geun, Kim Young-min",Drama,7.3
+598,In the Shadow of Iris,2016,99,Jalil Lespert,"Romain Duris, Charlotte Le Bon, Jalil Lespert","Drama, Thriller",6.1
+599,According to Ben Adams,2016,105,"Bramwell Noah, Dan Noah","Daniel Schepisi, Chloe Ng, Allan V. Watt",Drama,6.0
+600,The White King,2016,89,"Alex Helfrecht, Jörg Tittel","Jonathan Pryce, Olivia Williams, Fiona Shaw","Drama, Sci-Fi",5.5
+601,Our Lovers,2016,88,Miguel Ángel Lamata,"Eduardo Noriega, Michelle Jenner, Fele Martínez","Comedy, Drama, Romance",6.7
+602,Tony Robbins: I Am Not Your Guru,2016,115,Joe Berlinger,"Sage Bonnie Humphrey, Steven Kronick, Anthony Robbins",Documentary,6.6
+603,R.A.I.D. Special Unit,2016,105,Dany Boon,"Alice Pol, Dany Boon, Michel Blanc","Action, Comedy, Crime",5.6
+604,Maximum Ride,2016,88,Jay Martin,"Allie Marie Evans, Patrick Johnson, Lyliana Wray","Action, Adventure, Comedy",3.6
+605,Vigilante Diaries,2016,107,Christian Sesma,"Paul Sloan, Quinton 'Rampage' Jackson, Jason Mewes","Action, Crime, Thriller",4.1
+606,American Fable,2016,96,Anne Hamilton,"Peyton Kennedy, Richard Schiff, Kip Pardue",Thriller,5.8
+607,Joshy,2016,93,Jeff Baena,"Thomas Middleditch, Adam Pally, Alex Ross Perry","Comedy, Drama",5.9
+608,My Annoying Brother,2016,110,Kwon Su-kyung,"Jo Jung-suk, Do Kyung-soo, Park Shin-hye","Comedy, Drama, Sport",7.3
+609,Oppam,2016,143,Priyadarshan,"Mohanlal, Samuthirakani, Anusree","Action, Thriller",7.3
+610,Blind,2016,98,Michael Mailer,"Alec Baldwin, Demi Moore, Dylan McDermott","Drama, Mystery, Romance",5.8
+611,Wolves at the Door,2016,73,John R. Leonetti,"Katie Cassidy, Elizabeth Henstridge, Adam Campbell","Horror, Mystery, Thriller",4.5
+612,In Dubious Battle,2016,110,James Franco,"Nat Wolff, James Franco, Vincent D'Onofrio","Crime, Drama, History",6.0
+613,Abattoir,2016,98,Darren Lynn Bousman,"Jessica Lowndes, Joe Anderson, Lin Shaye","Horror, Mystery, Thriller",4.5
+614,Ares,2016,80,Jean-Patrick Benes,"Ola Rapace, Micha Lescot, Thierry Hancisse","Drama, Sci-Fi, Thriller",6.2
+615,Action Hero Biju,2016,144,Abrid Shine,"Nivin Pauly, Anu Emmanuel, Devi Ajith","Action, Comedy, Thriller",7.6
+616,Kyaa Kool Hain Hum 3,2016,124,Umesh Ghadge,"Tusshar Kapoor, Aftab Shivdasani, Krushna Abhishek",Comedy,2.0
+617,Kicks,2016,80,Justin Tipping,"Jahking Guillory, Christopher Meyer, Christopher Jordan Wallace","Adventure, Drama",6.4
+618,The Pass,2016,88,Ben A. Williams,"Russell Tovey, Arinzé Kene, Lisa McGrillis","Drama, Romance",6.5
+619,Kindergarten Cop 2,2016,100,Don Michael Paul,"Dolph Lundgren, Darla Taylor, Bill Bellamy","Action, Comedy",4.4
+620,100 Streets,2016,93,Jim O'Hanlon,"Idris Elba, Gemma Arterton, Tom Cullen","Crime, Drama",5.8
+621,Fair Haven,2016,90,Kerstin Karlhuber,"Michael Grant, Tom Wopat, Gregory Harrison",Drama,6.9
+622,The Red Maple Leaf,2016,132,Frank D'Angelo,"James Caan, Kris Kristofferson, Martin Landau","Crime, Drama, Mystery",5.6
+623,Irumugan,2016,154,Anand Shankar,"Vikram, Nayanthara, Nithya Menen","Action, Sci-Fi, Thriller",6.3
+624,Akira,2016,137,A.R. Murugadoss,"Sonakshi Sinha, Anurag Kashyap, Konkona Sen Sharma","Action, Thriller",5.9
+625,The Perfect Match,2016,96,Bille Woodruff,"Terrence Jenkins, Cassie Ventura, Paula Patton","Comedy, Romance",4.9
+626,Boys in the Trees,2016,112,Nicholas Verso,"Toby Wallace, Gulliver McGrath, Mitzi Ruhlmann","Drama, Horror, Thriller",6.2
+627,Brotherhood,2016,104,Noel Clarke,"Noel Clarke, Arnold Oceng, Red Madrell","Crime, Drama, Thriller",6.0
+628,Sound and Fury,2016,96,Houman Seyyedi,"Tannaz Tabatabaei, Navid Mohammadzadeh, Saeed Changizian","Drama, Mystery, Romance",6.3
+629,Rocco,2016,105,"Thierry Demaizière, Alban Teurlai","Rocco Siffredi, Anikka Albrite, Veronica Avluv",Documentary,5.7
+630,The Most Beautiful Day,2016,113,Florian David Fitz,"Florian David Fitz, Matthias Schweighöfer, Alexandra Maria Lara","Comedy, Drama",6.4
+631,I'm Not Ashamed,2016,112,Brian Baugh,"Masey McLain, Ben Davies, Cameron McKendry","Biography, Drama",5.9
+632,Sugar Mountain,2016,106,Richard Gray,"Jason Momoa, Cary Elwes, Melora Walters","Drama, Thriller",5.5
+633,Ukraine on Fire,2016,95,Igor Lopatonok,"Oliver Stone, Vladimir Putin, Victor Yanukovich",Documentary,6.3
+634,Be Somebody,2016,88,Joshua Caldwell,"Matthew Espinosa, Sarah Jeffery, Allison Paige","Comedy, Drama, Romance",5.6
+635,My Mother's Wound,2016,120,Ozan Açiktan,"Ozan Güven, Meryem Uzerli, Belçim Bilgin","Drama, Mystery",7.3
+636,The Lighthouse of the Whales,2016,110,Gerardo Olivares,"Maribel Verdú, Joaquín Furriel, Joaquín Rapalini","Biography, Drama, Romance",6.7
+637,Priceless,2016,97,Ben Smallbone,"Joel David Smallbone, Bianca A. Santos, David Koechner","Crime, Drama, Romance",6.0
+638,The Model,2016,105,Mads Matthiesen,"Maria Palm, Ed Skrein, Charlotte Tomaszewska",Thriller,5.7
+639,Bridge of Sleep,2016,90,Oktay Baraheni,"Saed Soheili, Anahita Afshar, Houman Seyyedi","Crime, Drama",4.8
+640,Shelley,2016,92,Ali Abbasi,"Ellen Dorrit Petersen, Cosmina Stratan, Peter Christoffersen","Drama, Horror, Mystery",5.3
+641,Paris 05:59: Théo & Hugo,2016,97,"Olivier Ducastel, Jacques Martineau","Mario Fanfani, Geoffrey Couët, François Nambot","Drama, Romance",7.0
+642,Havenhurst,2016,85,Andrew C. Erin,"Julie Benz, Belle Shouse, Josh Stamberg","Horror, Mystery, Thriller",4.8
+643,Kizumonogatari Part 1: Tekketsu,2016,64,"Tatsuya Oishi, Akiyuki Shinbô","Hiroshi Kamiya, Takahiro Sakurai, Maaya Sakamoto","Animation, Action, Comedy",7.3
+644,The Eagle Huntress,2016,87,Otto Bell,"Aisholpan Nurgaiv, Daisy Ridley, Rys Nurgaiv","Documentary, Adventure, Sport",7.5
+645,Adult Life Skills,2016,96,Rachel Tunnard,"Jodie Whittaker, Lorraine Ashbourne, Brett Goldstein","Comedy, Drama",6.3
+646,First Girl I Loved,2016,90,Kerem Sanga,"Dylan Gelula, Brianna Hildebrand, Mateo Arias","Drama, Romance",6.1
+647,Born in China,2016,79,Chuan Lu,"John Krasinski, Claire Keim, Xun Zhou",Documentary,7.2
+648,The Call Up,2016,90,Charles Barker,"Max Deacon, Morfydd Clark, Ali Cook","Action, Sci-Fi, Thriller",4.9
+649,Scare Campaign,2016,80,"Cameron Cairnes, Colin Cairnes","Meegan Warner, Ian Meadows, Olivia DeJonge",Horror,5.8
+650,Michael Moore in TrumpLand,2016,73,Michael Moore,"Michael Moore, Hillary Clinton, Donald Trump","Documentary, Comedy",5.8
+651,Sadako vs. Kayako,2016,98,Kôji Shiraishi,"Mizuki Yamamoto, Tina Tamashiro, Aimi Satsukawa",Horror,5.1
+652,The Cleanse,2016,81,Bobby Miller,"Johnny Galecki, Anna Friel, Kyle Gallner","Comedy, Drama, Fantasy",5.1
+653,The Stakelander,2016,81,"Dan Berk, Robert Olsen","Connor Paolo, Nick Damici, Laura Abramsen","Drama, Horror",5.3
+654,Dedemin Fisi,2016,100,Meltem Bozoflu,"Aziz Aslan, Hatice Aslan, Kivanç Baran Aslan","Comedy, Family",5.6
+655,Ethel & Ernest,2016,94,Roger Mainwood,"Jim Broadbent, Brenda Blethyn, Luke Treadaway","Animation, Drama, History",7.7
+656,The Transfiguration,2016,97,Michael O'Shea,"Eric Ruffin, Karin Cherches, Chloë Levine","Drama, Horror",6.1
+657,A Aa,2016,152,Trivikram Srinivas,"Nithiin, Samantha Ruth Prabhu, Anupama Parameswaran","Comedy, Drama, Romance",6.8
+658,Detours,2016,81,Robert McCaskill,"Tara Westwood, Carlo Fiorletta, Paul Sorvino","Comedy, Drama",6.4
+659,Rogue Warrior: Robot Fighter,2016,101,Neil Johnson,"Tracey Birdsall, William Kircher, Daz Crawford","Action, Sci-Fi",3.1
+660,The Curse of Sleeping Beauty,2016,89,Pearry Reginald Teo,"Ethan Peck, India Eisley, Natalie Hall","Fantasy, Horror, Mystery",4.3
+661,U Turn,2016,120,Pawan Kumar,"Shraddha Srinath, Roger Narayan, Radhika Narayan","Crime, Horror, Mystery",7.4
+662,Billionaire Ransom,2016,107,Jim Gillespie,"Jeremy Sumpter, Phoebe Tonkin, Hari Dhillon","Action, Adventure, Crime",5.5
+663,Kills On Wheels,2016,103,Attila Till,"Zoltán Fenyvesi, Szabolcs Thuróczy, Ádám Fekete","Action, Comedy, Drama",7.1
+664,The Young Messiah,2016,111,Cyrus Nowrasteh,"Adam Greaves-Neal, Vincent Walsh, Sara Lazzaro","Drama, Fantasy",5.7
+665,I Am Bolt,2016,107,"Ben Turner, Gabe Turner","Usain Bolt, Nugent Walker Jr., Ricky Simms","Documentary, Biography, Sport",7.1
+666,Sand Storm,2016,87,Elite Zexer,"Lamis Ammar, Ruba Blal, Hitham Omari",Drama,6.8
+667,Planetarium,2016,105,Rebecca Zlotowski,"Natalie Portman, Lily-Rose Depp, Emmanuel Salinger","Drama, Fantasy, Mystery",4.6
+668,Dou Kyu Sei: Classmates,2016,60,Shôko Nakamura,"Kotomi Aihara, Haruki Aikawa, Iori Ashihara","Animation, Drama, Music",7.7
+669,Kadhalum Kadandhu Pogum,2016,136,Nalan Kumarasamy,"Vijay Sethupathi, Madonna Sebastian, Samuthirakani","Comedy, Drama, Romance",7.4
+670,Iraivi,2016,160,Karthik Subbaraj,"S.J. Suryah, Vijay Sethupathi, Bobby Simha",Drama,8.0
+671,Equity,2016,100,Meera Menon,"Anna Gunn, James Purefoy, Sarah Megan Thomas",Drama,5.6
+672,Lantouri,2016,111,Reza Dormishian,"Baran Kosari, Navid Mohammadzadeh, Maryam Palizban","Action, Crime, Drama",6.4
+673,Full Speed,2016,91,Nicolas Benamou,"José Garcia, André Dussollier, Caroline Vigneaux","Action, Comedy",5.8
+674,The Olive Tree,2016,100,Icíar Bollaín,"Anna Castillo, Javier Gutiérrez, Pep Ambròs","Comedy, Drama",6.8
+675,The Teacher,2016,102,Jan Hrebejk,"Zuzana Mauréry, Zuzana Konecná, Csongor Kassai","Comedy, Drama",7.2
+676,Little Sister,2016,91,Zach Clark,"Addison Timlin, Ally Sheedy, Alex Karpovsky","Comedy, Drama",6.3
+677,Maalik,2016,155,Ashir Azeem,"Ashir Azeem, Farhan Ali Agha, Hassan Niazi","Action, Crime, Drama",7.9
+678,The Evil in Us,2016,90,Jason William Lee,"Debs Howard, Danny Zaporozan, Behtash Fazlali",Horror,4.7
+679,The Ornithologist,2016,117,João Pedro Rodrigues,"Paul Hamy, João Pedro Rodrigues, Xelo Cagiao","Adventure, Drama, Mystery",6.3
+680,Carnage Park,2016,90,Mickey Keating,"Ashley Bell, Pat Healy, James Landry Hébert","Action, Crime, Horror",4.9
+681,Brahmotsavam,2016,156,Srikanth Addala,"Mahesh Babu, Kajal Aggarwal, Samantha Ruth Prabhu","Drama, Romance",4.0
+682,Outlaws and Angels,2016,120,JT Mollner,"Chad Michael Murray, Teri Polo, Frances Fisher","Action, Thriller, Western",5.4
+683,Görümce,2016,109,Kivanç Baruönü,"Gupse Özay, Bugra Gülsoy, Eda Ece","Comedy, Romance",5.1
+684,Hot Bot,2016,86,Michael Polish,"Zack Pearlman, Doug Haley, Cynthia Kirchner","Comedy, Sci-Fi",3.3
+685,The Northlander,2016,98,Benjamin Ross Hayden,"Corey Sevier, Roseanne Supernault, Michelle Thrush","Drama, Fantasy, Sci-Fi",3.7
+686,Banking on Bitcoin,2016,90,Christopher Cannucciari,"Charlie Shrem, Nancy Cannucciari, Paul Vigna","Documentary, History, News",6.6
+687,Yu-Gi-Oh!: The Dark Side of Dimensions,2016,130,Satoshi Kuwabara,"Shunsuke Kazama, Kenjiro Tsuda, Gregory Abbey","Animation, Adventure, Drama",6.9
+688,Dalida,2016,127,Lisa Azuelos,"Sveva Alviti, Riccardo Scamarcio, Jean-Paul Rouve","Biography, Drama, Music",6.9
+689,Baked in Brooklyn,2016,86,Rory Rooney,"Josh Brener, Alexandra Daddario, Paul Iacono","Comedy, Crime, Drama",5.4
+690,Joker,2016,130,"Raju Murugan, Raju Saravanan","Guru Somasundaram, Ramya Pandian, Gayathri","Comedy, Drama",8.3
+691,Kalinka,2016,87,Vincent Garenq,"Daniel Auteuil, Sebastian Koch, Marie-Josée Croze","Biography, Crime, Drama",7.1
+692,Bedeviled,2016,98,"Abel Vang, Burlee Vang","Saxon Sharbino, Mitchell Edwards, Brandon Soo Hoo","Horror, Mystery, Thriller",4.2
+693,Natural Born Pranksters,2016,90,"Roman Atwood, Ben Pluimer","Roman Atwood, Vitaly Zdorovetskiy, Dennis Roady",Comedy,3.6
+694,Sniper: Special Ops,2016,84,Fred Olen Ray,"Steven Seagal, Rob Van Dam, Tim Abell","Action, Thriller, War",3.0
+695,Kaçma Birader,2016,107,"Defne Deliormanli, Murat Kaman","Zafer Algöz, Melek Baykal, Emrah Kaman",Comedy,6.8
+696,Godhi Banna Sadharana Mykattu,2016,144,Hemanth M. Rao,"Anant Nag, Rakshit Shetty, Sruthi Hariharan","Drama, Thriller",8.6
+697,Mercy,2016,90,Chris Sparling,"James Wolk, Tom Lipinski, Caitlin FitzGerald","Drama, Mystery, Thriller",4.2
+698,Kizumonogatari Part 2: Nekketsu,2016,68,"Yukihiro Miyamoto, Tatsuya Oishi, Akiyuki Shinbô","Hiroshi Kamiya, Takahiro Sakurai, Maaya Sakamoto","Animation, Action, Drama",7.6
+699,Antibirth,2016,94,Danny Perez,"Natasha Lyonne, Chloë Sevigny, Meg Tilly","Comedy, Horror, Mystery",4.9
+700,Lost in Paris,2016,83,"Dominique Abel, Fiona Gordon","Emmanuelle Riva, Pierre Richard, Emmy Boissard Paumelle",Comedy,6.3
+701,Despite the Falling Snow,2016,93,Shamim Sarif,"Rebecca Ferguson, Sam Reid, Charles Dance","Drama, Mystery, Romance",5.8
+702,Pitchfork,2016,94,Glenn Douglas Packard,"Daniel Wilkinson, Brian Michael Raetz, Lindsey Dresbach",Horror,3.0
+703,Swallows and Amazons,2016,96,Philippa Lowthorpe,"Bobby McCulloch, Dane Hughes, Kelly Macdonald","Adventure, Drama, Family",6.1
+704,1898: Our Last Men in the Philippines,2016,105,Salvador Calvo,"Luis Tosar, Javier Gutiérrez, Álvaro Cervantes","Drama, History, War",6.5
+705,Kocan Kadar Konus: Dirilis,2016,108,Kivanç Baruönü,"Ezgi Mola, Murat Yildirim, Nevra Serezli","Comedy, Drama, Fantasy",5.7
+706,Sanam Re,2016,120,Divya Khossla,"Rishi Kapoor, Pulkit Samrat, Yami Gautam",Drama,3.3
+707,Gringo: The Dangerous Life of John McAfee,2016,97,Nanette Burstein,"Allison Adonizio, Nanette Burstein, Mark Coker","Documentary, Crime",6.7
+708,Vier gegen die Bank,2016,96,Wolfgang Petersen,"Til Schweiger, Matthias Schweighöfer, Michael Herbig","Comedy, Crime",5.8
+709,Dead Awake,2016,99,Phillip Guzman,"Jocelin Donahue, Jesse Bradford, Jesse Borrego","Drama, Horror, Mystery",4.6
+710,My Mom Is a Character 2,2016,88,César Rodrigues,"Paulo Gustavo, Rodrigo Pandolfo, Mariana Xavier",Comedy,6.7
+711,A Violent Prosecutor,2016,126,"Lee Il-Hyung, Il-Hyeong Lee","Hwang Jung-min, Gang Dong-won, Jung Seung Bae","Action, Comedy, Crime",6.7
+712,Heal the Living,2016,103,Katell Quillévéré,"Tahar Rahim, Emmanuelle Seigner, Anne Dorval",Drama,6.9
+713,The Monkey King 2,2016,119,"Soi Cheang, Jack Lai","Aaron Kwok, Gong Li, Shaofeng Feng","Action, Adventure, Fantasy",5.9
+714,Rampage: President Down,2016,99,Uwe Boll,"Brendan Fletcher, Bruce Blain, Loretta Walsh","Action, Crime, Thriller",4.7
+715,We Are the Flesh,2016,79,Emiliano Rocha Minter,"Noé Hernández, María Evoli, Diego Gamaliel","Drama, Fantasy, Horror",4.7
+716,Taekwondo,2016,112,"Marco Berger, Martín Farina","Gabriel Epstein, Lucas Papa, Nicolás Barsoff","Comedy, Drama, Romance",6.4
+717,Asura,2016,136,Sung Soo Kim,"Jung Woo-sung, Hwang Jung-min, Ju Ji-hoon","Action, Crime, Thriller",6.7
+718,Remo,2016,151,Bakkiyaraj Kannan,"Sivakarthikeyan, Keerthy Suresh, Anson Paul","Comedy, Romance",6.1
+719,Pitbull: New Orders,2016,133,Patryk Vega,"Andrzej Grabowski, Boguslaw Linda, Piotr Stramowski","Action, Crime, Drama",6.4
+720,The Remains,2016,85,Thomas Della Bella,"Todd Lowe, Brooke Butler, Hannah Nordberg","Horror, Thriller",3.7
+721,Patient Seven,2016,116,"Danny Draven, Paul Davis, Ómar Örn Hauksson","Michael Ironside, Jack Plotnick, Drew Fonteiro","Fantasy, Horror, Mystery",5.0
+722,Planet Single,2016,136,Mitja Okorn,"Maciej Stuhr, Agnieszka Wiedlocha, Piotr Glowacki","Comedy, Romance",6.8
+723,The Ivory Game,2016,112,"Kief Davidson, Richard Ladkani","Andrea Crosta, Ian Stevenson, Prince William of Wales",Documentary,7.8
+724,Rage,2016,142,Sang-il Lee,"Ken Watanabe, Mirai Moriyama, Aoi Miyazaki","Drama, Mystery, Thriller",7.0
+725,Toro,2016,105,Kike Maíllo,"Mario Casas, Luis Tosar, José Sacristán","Action, Crime, Drama",5.9
+726,Terra Formars,2016,108,Takashi Miike,"Rinko Kikuchi, Rila Fukushima, Shun Oguri","Action, Horror, Sci-Fi",4.7
+727,Kodi,2016,145,R.S. Durai Senthilkumar,"Dhanush, Trisha Krishnan, Anupama Parameswaran","Action, Drama, Thriller",6.7
+728,Sheep & Wolves,2016,85,"Andrey Galat, Maksim Volkov, Haishun Xing","Alexander Petrov, Sergey Bezrukov, Elizaveta Boyarskaya","Animation, Comedy, Family",5.8
+729,Death Note: Light Up the New World,2016,135,Shinsuke Satô,"Tatsuya Fujiwara, Masaki Suda, Miyuki Sawashiro","Crime, Drama, Horror",5.7
+730,Cameraperson,2016,102,Kirsten Johnson,"Kirsten Johnson, Aisha Bukar, Eric W. Davis","Documentary, Biography, History",7.4
+731,The Dark Tapes,2016,98,"Michael McQuown, Vincent J. Guastini","David Banks, Sara Areyano, Cortney Palm","Horror, Mystery, Sci-Fi",4.5
+732,Sethupathi,2016,122,S.U. Arun Kumar,"Vijay Sethupathi, Ramya Nambeeshan, Raaghavan Murugan","Action, Crime, Drama",7.1
+733,Sijjin 3: Love,2016,110,Alper Mestçi,"Büsra Ayaydin, Elif Baysal, Nevin Efe",Horror,6.0
+734,Lady Bloodfight,2016,100,Chris Nahon,"Amy Johnston, Muriel Hofmann, Kathy Wu","Action, Crime, Drama",5.6
+735,The Duelist,2016,109,Aleksey Mizgiryov,"Pyotr Fyodorov, Vladimir Mashkov, Yuliya Khlynina","Action, Drama, Thriller",6.3
+736,Barcode,2016,96,Mostafa Kiaei,"Bahram Radan, Mohsen Kiayee, Sahar Dolatshahi","Comedy, Crime, Drama",5.8
+737,Afterimage,2016,98,Andrzej Wajda,"Boguslaw Linda, Zofia Wichlacz, Bronislawa Zamachowska","Biography, Drama, History",7.0
+738,Dead Rising: Endgame,2016,96,Pat Williams,"Jesse Metcalfe, Marie Avgeropoulos, Ian Tracey","Action, Horror",4.8
+739,Bizans Oyunlari: Geym of Bizans,2016,101,Gani Müjde,"Gürkan Uygun, Tolgahan Sayisman, Murat Dalkiliç","Comedy, History",3.8
+740,Irreplaceable,2016,102,Thomas Lilti,"François Cluzet, Marianne Denicourt, Christophe Odent","Comedy, Drama",6.5
+741,Mafia: Game of Survival,2016,91,Sarik Andreasyan,"Vadim Tsallati, Violetta Getmanskaya, Venyamin Smekhov","Action, Sci-Fi, Thriller",4.3
+742,The Hollow,2016,128,Miles Doleac,"Jeff Fahey, William Sadler, William Forsythe","Crime, Drama, Mystery",4.7
+743,Mothers and Daughters,2016,90,"Paul Duddridge, Nigel Levy","Selma Blair, Luke Mitchell, Symmetry",Drama,4.9
+744,Luck-Key,2016,112,Kae-Byeok Lee,"Yoo Hae-jin, Lee Joon, Jo Yun-hie","Action, Comedy, Crime",6.9
+745,Trash Fire,2016,91,Richard Bates Jr.,"Adrian Grenier, Angela Trimbur, Fionnula Flanagan","Comedy, Drama, Horror",5.8
+746,The Drowning,2016,95,Bette Gordon,"Julia Stiles, John C. McGinley, Tracie Thoms","Drama, Mystery, Thriller",4.5
+747,Ordinary World,2016,86,Lee Kirk,"Billie Joe Armstrong, Fred Armisen, Judy Greer","Comedy, Drama, Music",5.5
+748,From Vegas to Macau III,2016,113,"Wai Keung Lau, Jing Wong","Chow Yun-Fat, Andy Lau, Jacky Cheung","Comedy, Drama",2.6
+749,He Even Has Your Eyes,2016,95,Lucien Jean-Baptiste,"Lucien Jean-Baptiste, Aïssa Maïga, Zabou Breitman",Comedy,6.2
+750,I'm a Killer,2016,117,Maciej Pieprzyca,"Miroslaw Haniszewski, Arkadiusz Jakubik, Agata Kulesza","Crime, Drama, Mystery",6.9
+751,Phobia,2016,112,Pavan Kirpalani,"Radhika Apte, Amrita Bagchi, Nivedita Bhattacharya","Drama, Mystery, Thriller",6.8
+752,Paradox,2016,90,Michael Hurst,"Zoë Bell, Malik Yoba, Adam Huss","Action, Drama, Sci-Fi",4.6
+753,ZG80,2016,90,Igor Seregi,"Rene Bitorajac, Matija Kacan, Marko Cindric","Action, Comedy, Sport",7.0
+754,Hibta: El-Muhadharah el-Akhirah,2016,112,Hadi El Bagoury,"Amr Youssef, Ahmed Malek, Ahmed Dawood","Drama, Romance",7.6
+755,Soulmate,2016,110,Derek Tsang,"Dongyu Zhou, Sichun Ma, Toby Lee","Drama, Romance",7.3
+756,The Constitution,2016,93,Rajko Grlic,"Nebojsa Glogovac, Dejan Acimovic, Ksenija Marinkovic","Comedy, Drama",7.7
+757,Aandavan Kattalai,2016,151,M. Manikandan,"Vijay Sethupathi, Ritika Singh, Pooja Devariya",Drama,8.0
+758,All We Had,2016,105,Katie Holmes,"Katie Holmes, Stefania LaVie Owen, Eve Lindley",Drama,5.9
+759,Dogs,2016,104,Bogdan Mirica,"Dragos Bucur, Gheorghe Visu, Vlad Ivanov","Drama, Thriller",7.0
+760,A Plastic Ocean,2016,102,Craig Leeson,"David Attenborough, Sylvia Earle, Ben Fogle",Documentary,8.0
+761,Great Grand Masti,2016,134,Indra Kumar,"Riteish Deshmukh, Vivek Oberoi, Aftab Shivdasani","Comedy, Drama, Fantasy",3.7
+762,Food Choices,2016,91,Michal Siewierski,"Pam Popper, T. Colin Campbell, Joe Cross",Documentary,7.3
+763,Cold War 2,2016,110,"Lok Man Leung, Kim-Ching Luk","Aaron Kwok, Tony Ka Fai Leung, Chow Yun-Fat","Action, Crime, Drama",6.5
+764,Dancer,2016,85,Steven Cantor,"Sergei Polunin, Galyna Polunina, Galina Ivanovna","Documentary, Biography",7.8
+765,Çakallarla Dans 4,2016,109,Murat Seker,"Sevket Çoruh, Ilker Ayrik, Murat Akkoyunlu",Comedy,4.1
+766,Survival Family,2016,117,Shinobu Yaguchi,"Fumiyo Kohinata, Eri Fukatsu, Yuki Izumisawa","Adventure, Comedy, Family",7.2
+767,Dirty 30,2016,86,Andrew Bush,"Mamrie Hart, Adam Lustick, Joselyn Hughes",Comedy,5.5
+768,Emerald Green,2016,113,"Felix Fuchssteiner, Katharina Schöde","Kostja Ullmann, Josefine Preuß, Maria Ehrich","Adventure, Family, Fantasy",5.8
+769,Shepherds and Butchers,2016,102,Oliver Schmitz,"Steve Coogan, Andrea Riseborough, Garion Dowds","Crime, Drama, Mystery",6.8
+770,Almost Adults,2016,90,Sarah Rotella,"Natasha Negovanlis, Elise Bauman, Justin Gerhard","Comedy, Drama",5.6
+771,In Between,2016,103,Maysaloun Hamoud,"Mouna Hawa, Sana Jammelieh, Shaden Kanboura",Drama,7.3
+772,Finding Altamira,2016,97,Hugh Hudson,"Antonio Banderas, Clément Sibony, Rupert Everett","Biography, Drama, History",6.0
+773,Well,2016,100,Attila Gigor,"Péter Jankovics, Niké Kurta, Roland Tzafetás","Action, Adventure, Drama",6.2
+774,The Watcher,2016,89,Ryan Rothmaier,"Erin Cahill, Edi Gathegi, Denise Crosby","Horror, Thriller",5.4
+775,Gleason,2016,110,Clay Tweel,"Steve Gleason, Mike Gleason, Scott Fujita","Documentary, Biography",8.3
+776,Voyage of Time,2016,44,Terrence Malick,"Brad Pitt, Jamal Cavil, Maisha Diatta","Documentary, Animation",7.0
+777,The Ticket,2016,97,Ido Fluk,"Dan Stevens, Malin Akerman, Peter Mark Kendall",Drama,5.4
+778,Thodari,2016,168,Prabu Solomon,"Dhanush, Keerthy Suresh, Ganesh Venkatraman","Action, Adventure, Comedy",6.0
+779,Code of Honor,2016,106,Michael Winnick,"Steven Seagal, Craig Sheffer, James Russo","Action, Crime, Thriller",4.1
+780,Money,2016,86,Martín Rosete,"Jamie Bamber, Jesse Williams, Kellan Lutz","Crime, Mystery, Thriller",5.5
+781,Girl in the Box,2016,87,Stephen Kemp,"Addison Timlin, Zane Holtz, Zelda Williams","Crime, Drama",6.2
+782,Sen Benim Herseyimsin,2016,107,Tolga Örnek,"Tolga Çevik, Melis Birkan, Tuna Çevik",Comedy,6.2
+783,Jimmy Vestvood: Amerikan Hero,2016,84,Jonathan Kesselman,"Maz Jobrani, John Heard, Sheila Vand",Comedy,5.1
+784,Nina,2016,90,Cynthia Mort,"Zoe Saldaña, David Oyelowo, Kevin Mambo","Biography, Drama, Music",5.4
+785,Fog in August,2016,121,Kai Wessel,"Ivo Pietzcker, Sebastian Koch, Jule Hermann","Drama, History, War",7.3
+786,Mastizaade,2016,119,Milap Zaveri,"Tusshar Kapoor, Vir Das, Sunny Leone",Comedy,2.5
+787,Freaky Ali,2016,120,Sohail Khan,"Nawazuddin Siddiqui, Arbaaz Khan, Amy Jackson","Comedy, Sport",5.0
+788,Salt and Fire,2016,98,Werner Herzog,"Veronica Ferres, Michael Shannon, Gael García Bernal","Action, Adventure, Drama",4.2
+789,As You Are,2016,110,Miles Joris-Peyrafitte,"Owen Campbell, Charlie Heaton, Amandla Stenberg","Drama, Mystery",6.6
+790,Zoombies,2016,87,Glenn Miller,"Ione Butler, Andrew Asper, LaLa Nestor","Action, Adventure, Comedy",3.4
+791,League of Gods,2016,109,Koan Hui,"Jet Li, Bingbing Fan, Zhang Wen","Action, Fantasy",4.5
+792,Jacob's Kingdom of Heaven,2016,145,"Vineeth Sreenivasan, G. Prajith","Nivin Pauly, Renji Panicker, Lakshmy Ramakrishnan","Biography, Drama, Family",7.7
+793,Transpecos,2016,86,Greg Kwedar,"Johnny Simmons, Gabriel Luna, Clifton Collins Jr.",Thriller,5.8
+794,Pihu,2016,91,Vinod Kapri,"Rahul Bagga, Pihu Myra Vishwakarma, Prerna Vishwakarma","Drama, Thriller",6.7
+795,Clair Obscur,2016,105,Yesim Ustaoglu,"Funda Eryigit, Ecem Uzun, Mehmet Kurtulus",Drama,6.4
+796,Fender Bender,2016,91,Mark Pavia,"Bill Sage, Makenzie Vega, Dre Davis","Horror, Thriller",4.9
+797,Cardboard Boxer,2016,88,Knate Lee,"Thomas Haden Church, Terrence Howard, Boyd Holbrook",Drama,6.4
+798,Earthquake,2016,101,Sarik Andreasyan,"Konstantin Lavronenko, Mariya Mironova, Viktor Stepanyan",Drama,6.6
+799,Everlasting,2016,85,Anthony Stabley,"Valentina de Angelis, Adam Perez, Elisabeth Röhm","Crime, Drama, Mystery",5.0
+800,Krishna Gaadi Veera Prema Gaadha,2016,148,Hanu Raghavapudi,"Nani, Mehreen Pirzada, Murli Sharma","Comedy, Romance, Thriller",7.4
+801,If Cats Disappeared from the World,2016,103,Akira Nagai,"Mauro Caiazza, Gaku Hamada, Mieko Harada","Drama, Fantasy",6.8
+802,Harmonium,2016,120,Kôji Fukada,"Tadanobu Asano, Mariko Tsutsui, Taiga Nakano",Drama,6.9
+803,The Prime Minister,2016,115,Erik Van Looy,"Koen De Bouw, Tine Reymer, Charlotte Vandermeersch",Thriller,6.2
+804,Shikari,2016,145,"Joydip Mukherjee, Zakir Hossain, Zakir Hossain Simanto","Shakib Khan, Srabanti Chatterjee, Rahul Dev","Action, Crime, Drama",7.1
+805,A Dragon Arrives!,2016,105,Mani Haghighi,"Amir Jadidi, Ehsan Goodarzi, Homayoun Ghanizadeh","Drama, Horror, Mystery",6.6
+806,Sardaar Gabbar Singh,2016,164,Bobby Kolli,"Pawan Kalyan, Kajal Aggarwal, Sharad Kelkar","Action, Comedy",4.6
+807,Abacus: Small Enough to Jail,2016,88,Steve James,"Thomas Sung, Hwei Lin Sung, Cyrus Vance Jr.",Documentary,7.1
+808,The Matchbreaker,2016,94,Caleb Vetter,"Wesley Elder, Christina Grimmie, Osric Chau","Comedy, Romance",5.6
+809,One Day,2016,135,Banjong Pisanthanakun,"Chantavit Dhanasevi, Nittha Jirayungyurn, Theerapat Sajakul","Drama, Romance",7.7
+810,Børning 2,2016,98,Hallvard Bræin,"Anders Baasmo, Ida Husøy, Otto Jespersen","Action, Comedy",5.9
+811,Prey,2016,108,Dick Maas,"Sophie van Winden, Julian Looman, Mark Frost","Comedy, Horror, Thriller",5.3
+812,BoBoiBoy: The Movie,2016,100,Nizam Razak,"Nur Fathiah Diaz, Mohd Fathi Diaz, Dzubir Mohamed Zakaria","Animation, Action, Adventure",6.7
+813,Einstein's God Model,2016,89,Philip T. Johnson,"Aaron Graham, Kirby O'Connell, Kenneth Hughes","Drama, Sci-Fi, Thriller",5.2
+814,Beacon Point,2016,85,Eric Blue,"Rae Olivier, Jon Briddell, Eric Goins",Thriller,4.6
+815,Traded,2016,98,Timothy Woodward Jr.,"Kris Kristofferson, Trace Adkins, Michael Paré","Action, Western",4.8
+816,My Brother Khosrow,2016,90,Ehsan Biglari,"Shahab Hosseini, Hengameh Ghaziani, Naser Hashemi",Drama,6.8
+817,Opening Night,2016,90,Isaac Rentz,"Alona Tal, Anne Heche, Topher Grace","Comedy, Musical",5.9
+818,Howard Lovecraft and the Frozen Kingdom,2016,83,Sean Patrick O'Reilly,"Kiefer O'Reilly, Michelle O'Reilly, Christopher Plummer","Animation, Adventure, Family",4.5
+819,Gentleman,2016,144,Mohana Krishna Indraganti,"Nani, Surbhi, Nivetha Thomas","Mystery, Romance, Thriller",7.1
+820,Actor in Law,2016,116,Nabeel Qureshi,"Mehwish Hayat, Fahad Mustafa, Om Puri","Comedy, Drama, Romance",7.4
+821,One Man and His Cow,2016,91,Mohamed Hamidi,"Fatsah Bouyahmed, Lambert Wilson, Jamel Debbouze","Adventure, Comedy, Drama",6.7
+822,No Manches Frida,2016,114,Nacho G. Velilla,"Omar Chaparro, Martha Higareda, Mónica Dionne","Comedy, Romance",5.5
+823,Ember,2016,115,Zeki Demirkubuz,"Aslihan Gürbüz, Caner Cindoruk, Taner Birsel",Drama,6.4
+824,Max & Leon,2016,98,Jonathan Barré,"David Marsais, Grégoire Ludig, Alice Vial","Adventure, Comedy, War",6.2
+825,Monolith,2016,83,Ivan Silvestrini,"Katrina Bowden, Krew Hodges, Nixon Hodges","Drama, Horror, Thriller",4.8
+826,A Billion Lives,2016,95,Aaron Biebert,"David Goerlitz, Clive Bates, Attila Danko",Documentary,7.9
+827,The Dancer,2016,108,Stéphanie Di Giusto,"Soko, Gaspard Ulliel, Mélanie Thierry","Biography, Drama, History",6.5
+828,The Levelling,2016,83,Hope Dickson Leach,"Ellie Kendrick, David Troughton, Jack Holden",Drama,6.4
+829,Uriyadi,2016,91,Vijay Kumar,"Vijay Kumar, Chandru, Mime Gopi","Action, Crime, Drama",7.9
+830,It's a Fairy!,2016,86,Cris D'Amato,"Kéfera Buchmann, Klara Castanho, Silvio Guindane","Comedy, Family, Fantasy",2.3
+831,"I, Olga Hepnarova",2016,105,"Petr Kazda, Tomás Weinreb","Michalina Olszanska, Martin Pechlát, Klára Melísková","Biography, Crime, Drama",6.6
+832,Magnus,2016,78,Benjamin Ree,"Magnus Carlsen, Garry Kasparov, Viswanathan Anand","Documentary, Biography, Sport",7.1
+833,Collector,2016,75,Aleksey Krasovskiy,"Konstantin Khabensky, Polina Agureeva, Kseniya Buravskaya","Drama, Thriller",6.7
+834,American Wrestler: The Wizard,2016,117,Alex Ranarivelo,"George Kosturos, William Fichtner, Ali Afshar","Drama, Sport",7.1
+835,The Red Thread,2016,100,Daniela Goggi,"China Suárez, Benjamín Vicuña, Hugo Silva","Drama, Romance",5.5
+836,Master,2016,143,Jo Ui-seok,"Lee Byung-hun, Gang Dong-won, Kim Woo-bin","Action, Crime",6.6
+837,Traffic,2016,104,Rajesh Pillai,"Amol Parashar, Manoj Bajpayee, Jimmy Shergill","Action, Adventure, Drama",6.7
+838,Jack Goes Home,2016,104,Thomas Dekker,"Rory Culkin, Nando Del Castillo, Sally Del Castillo","Drama, Horror, Mystery",5.1
+839,Lowriders,2016,98,Ricardo de Montreuil,"Gabriel Chavarria, Demián Bichir, Theo Rossi","Adventure, Crime, Drama",5.7
+840,Found Footage 3D,2016,100,Steven DeGennaro,"Carter Roy, Alena von Stroheim, Chris O'Brien",Horror,5.3
+841,Stefan Zweig: Farewell to Europe,2016,106,Maria Schrader,"Barbara Sukowa, Valerie Pachner, Tómas Lemarquis","Biography, Drama, History",6.7
+842,The Eavesdropper,2016,91,Thomas Kruithof,"François Cluzet, Denis Podalydès, Sami Bouajila","Action, Mystery, Thriller",6.2
+843,Ozzy,2016,90,"Alberto Rodríguez, Nacho La Casa","Guillermo Romero, Dani Rovira, José Mota","Animation, Adventure, Comedy",5.2
+844,The Last Heist,2016,84,Mike Mendez,"Henry Rollins, Torrance Coombs, Victoria Pratt","Action, Horror, Thriller",3.6
+845,Nenu Sailaja,2016,135,Thirumala Kishore,"Ram Pothineni, Keerthy Suresh, Sathyaraj","Action, Comedy, Romance",6.9
+846,Dean,2016,94,Demetri Martin,"Demetri Martin, Kevin Kline, Gillian Jacobs","Comedy, Drama, Romance",6.3
+847,Bir Baba Hindu,2016,112,Sermiyan Midyat,"Sermiyan Midyat, Burak Satibol, Nicole Faria",Comedy,2.6
+848,The Death of Louis XIV,2016,115,Albert Serra,"Jean-Pierre Léaud, Patrick d'Assumçao, Marc Susini","Biography, Drama, History",6.8
+849,Sword Master,2016,108,"Derek Tung-Sing Yee, Stephen Hoff","Kenny Lin, Yiyan Jiang, Mengjie Jiang","Action, Drama",6.0
+850,Pashupati Prasad,2016,140,Dipendra K. Khanal,"Khagendra Lamichhane, Rabindra Singh Baniya, Bipin Karki","Comedy, Drama, Romance",8.4
+851,Alamet-i Kiyamet,2016,88,Doga Can Anafarta,"Busra Cubukcuoglu, Dogus Gun Demir, Funda Ersin",Horror,4.7
+852,Fucking Berlin,2016,94,Florian Gottschick,"Svenja Jung, Mateusz Dopieralski, Christoph Letkowski","Drama, Romance",5.2
+853,Call of Heroes,2016,120,Benny Chan,"Ching-Wan Lau, Eddie Peng, Louis Koo","Action, Adventure, Crime",6.4
+854,Sam Was Here,2016,75,Christophe Deroo,"Rusty Joiner, Sigrid La Chapelle, Rhoda Pell","Horror, Mystery, Thriller",4.8
+855,Trivisa,2016,97,"Jevons Au, Frank Hui, Vicky Wong","Richie Jen, Jordan Chan, Ka-Tung Lam","Crime, Drama",6.9
+856,London Town,2016,92,Derrick Borte,"Jonathan Rhys Meyers, Daniel Huttlestone, Dougray Scott","Drama, Music",6.4
+857,Guppy,2016,158,Johnpaul George,"Chethan Jayalal, Tovino Thomas, Sreenivasan","Comedy, Drama",8.1
+858,Loop,2016,95,Isti Madarász,"Dénes Száraz, Dorina Martinovics, Zsolt Anger","Crime, Sci-Fi, Thriller",6.4
+859,Jai Gangaajal,2016,149,Prakash Jha,"Priyanka Chopra Jonas, Prakash Jha, Manav Kaul","Action, Crime, Drama",5.8
+860,Down by Love,2016,110,Pierre Godeau,"Adèle Exarchopoulos, Guillaume Gallienne, Stéphanie Cléau","Biography, Drama, Romance",5.9
+861,Achcham Yenbadhu Madamaiyada,2016,135,Gautham Vasudev Menon,"Silambarasan TR, Manjima Mohan, Baba Sehgal","Action, Romance, Thriller",6.3
+862,Dharma Durai,2016,147,Seenu Ramasamy,"Vijay Sethupathi, Tamannaah Bhatia, Aishwarya Rajesh",Drama,7.5
+863,Driver from Hell,2016,83,Micheal Bafaro,"Anna Hutchison, Andrea Whitburn, Jennifer Koenig","Action, Horror, Thriller",3.4
+864,Pitbull: Tough Women,2016,135,Patryk Vega,"Alicja Bachleda, Magdalena Cielecka, Anna Dereszowska","Action, Crime, Drama",5.6
+865,The Elf,2016,90,Tristan Price,"Natassia Halabi, Gabriel Miller, Lassiter Holmes",Horror,2.4
+866,Staying Vertical,2016,98,Alain Guiraudie,"Damien Bonnard, India Hair, Raphaël Thiéry","Comedy, Drama",5.9
+867,Gehenna: Where Death Lives,2016,105,Hiroshi Katagiri,"Lance Henriksen, Doug Jones, Patrick Gorman","Horror, Mystery, Thriller",4.9
+868,Her Love Boils Bathwater,2016,125,Ryôta Nakano,"Rie Miyazawa, Hana Sugisaki, Aoi Itô",Drama,7.4
+869,Praktan,2016,142,"Shiboprosad Mukherjee, Nandita Roy, Jyoti Hazra","Prosenjit Chatterjee, Rituparna Sengupta, Aparajita Adhya","Comedy, Drama",7.7
+870,Glory,2016,101,"Kristina Grozeva, Petar Valchanov","Stefan Denolyubov, Margita Gosheva, Alexandra Angelova",Drama,7.6
+871,Red Dog: True Blue,2016,88,Kriv Stenders,"Jason Isaacs, Levi Miller, Bryan Brown","Comedy, Drama, Family",6.4
+872,The Zohar Secret,2016,124,Vladek Zankovsky,"Israel Sasha Demidov, Irina Barinova, Henry David","Comedy, Drama, Sci-Fi",5.4
+873,Guernica,2016,110,Koldo Serra,"James D'Arcy, María Valverde, Jack Davenport","Drama, History, Romance",5.8
+874,I Am Not Madame Bovary,2016,128,Xiaogang Feng,"Bingbing Fan, Wei Fan, Xiaogang Feng","Comedy, Drama",6.9
+875,Sundown,2016,103,Fernando Lebrija,"Devon Werkheiser, Sean Marquette, Silverio Palacios","Action, Adventure, Comedy",5.4
+876,The Oath,2016,103,Baltasar Kormákur,"Baltasar Kormákur, Hera Hilmar, Gísli Örn Garðarsson","Crime, Drama, Thriller",6.4
+877,Katie Says Goodbye,2016,88,Wayne Roberts,"Mary Steenburgen, Christopher Abbott, Olivia Cooke",Drama,6.7
+878,Chasing Trane: The John Coltrane Documentary,2016,99,John Scheinfeld,"Denzel Washington, Reggie Workman, Ravi Coltrane","Documentary, Biography, History",7.3
+879,City of Tiny Lights,2016,110,Pete Travis,"Riz Ahmed, Billie Piper, James Krishna Floyd","Crime, Drama, Mystery",5.6
+880,Aanandam,2016,120,Ganesh Raj,"Thomas Mathew, Arun Kurian, Roshan Mathew","Adventure, Comedy, Drama",7.3
+881,Detective Conan: The Darkest Nightmare,2016,112,Kôbun Shizuno,"Minami Takayama, Kappei Yamaguchi, Wakana Yamazaki","Animation, Action, Adventure",7.0
+882,Lída Baarová,2016,106,Filip Renc,"Tatiana Pauhofová, Karl Markovics, Gedeon Burkhard","Biography, Drama, History",5.9
+883,After Love,2016,100,Joachim Lafosse,"Bérénice Bejo, Cédric Kahn, Marthe Keller",Drama,6.5
+884,Michael Jackson's Journey from Motown to Off the Wall,2016,93,Spike Lee,"Michael Jackson, Jackson 5, Berry Gordy","Documentary, Music",7.4
+885,Ghost Team,2016,83,Oliver Irving,"Jon Heder, David Krumholtz, Justin Long","Comedy, Thriller",4.8
+886,Hotel Salvation,2016,102,Shubhashish Bhutiani,"Adil Hussain, Lalit Behl, Geetanjali Kulkarni","Comedy, Drama",7.1
+887,You're Killing Me Susana,2016,100,Roberto Sneider,"Gael García Bernal, Verónica Echegui, Ashley Hinshaw","Comedy, Drama, Romance",6.4
+888,Alien Arrival,2016,98,Jesse O'Brien,"Dan Mor, Aleisha Rose, Shaun Micallef","Action, Adventure, Sci-Fi",4.4
+889,Patients,2016,110,"Mehdi Idir, Grand Corps Malade","Pablo Pauly, Soufiane Guerrab, Moussa Mansaly","Comedy, Drama",7.2
+890,Shortwave,2016,85,Ryan Gregory Phillips,"Juanita Ringeling, Tina Feliciano, Nina Senicar","Sci-Fi, Thriller",3.9
+891,Vanishing Time: A Boy Who Returned,2016,130,Tae-hwa Eom,"Gang Dong-won, Shin Eun-soo, Lee Hyo-Je","Drama, Fantasy",7.3
+892,The Phenom,2016,88,Noah Buschel,"Johnny Simmons, Ethan Hawke, Paul Giamatti","Drama, Sport",5.3
+893,The Perfect Weapon,2016,88,Titus Paar,"Steven Seagal, Richard Tyson, Vernon Wells","Action, Sci-Fi, Thriller",2.9
+894,A Date for Mad Mary,2016,82,Darren Thornton,"Seána Kerslake, Carolyn Bracken, Denise McCormack","Comedy, Drama, Romance",7.0
+895,Kóblic,2016,92,Sebastián Borensztein,"Ricardo Darín, Oscar Martínez, Inma Cuesta","Crime, Drama, Thriller",6.4
+896,Red Christmas,2016,82,Craig Anderson,"Dee Wallace, David Collins, Sam Campbell","Horror, Thriller",4.3
+897,The Snow Queen 3: Fire and Ice,2016,89,Alex Tsitsilin,"Natalya Bystrova, Nikolay Bystrov, Filipp Lebedev","Animation, Adventure, Comedy",6.0
+898,End of a Gun,2016,86,Keoni Waxman,"Steven Seagal, Florin Piersic Jr., Jade Ewen","Action, Crime, Thriller",3.6
+899,Cave,2016,85,Henrik Martin Dahlsbakken,"Heidi Toini, Mads Sjøgård Pettersen, Benjamin Helstad","Adventure, Crime, Horror",4.2
+900,Check Store Next Door,2016,104,Ernest Prakasa,"Ernest Prakasa, Kin Wah Chew, Gisella Anastasia","Comedy, Drama",7.8
+901,Back to Mom's,2016,97,Eric Lavaine,"Josiane Balasko, Alexandra Lamy, Mathilde Seigner","Comedy, Drama",5.8
+902,No Way 2,2016,82,Caner Özyurtlu,"Zafer Algöz, Onur Buldu, Sebnem Bozoklu",Comedy,5.3
+903,A Bride for Rip Van Winkle,2016,179,Shunji Iwai,"Haru Kuroki, Cocco, Gô Ayano","Drama, Mystery, Romance",7.2
+904,Standing in the Dust,2016,98,Mohammad Hossein Mahdavian,"Hadi Hejazifar, Yousef Aghaei, Mehrdad Ahmadi","Action, Biography, Drama",6.8
+905,Dönerse Senindir,2016,109,Erol Özlevi,"Murat Boz, Irem Sak, Yasemin Kay Allen","Comedy, Romance",4.8
+906,At War with Love,2016,99,Pif,"Pif, Andrea Di Stefano, Miriam Leone","Comedy, Drama, Romance",6.9
+907,Risk,2016,86,Laura Poitras,"Julian Assange, Sarah Harrison, Jacob Appelbaum",Documentary,6.4
+908,Vincent N Roxxy,2016,102,Gary Michael Schultz,"Emile Hirsch, Zoë Kravitz, Zoey Deutch","Crime, Drama, Thriller",5.5
+909,Natural Selection,2016,101,Chad L. Scheifele,"Mason Dye, Ryan Munzert, Anthony Michael Hall","Crime, Drama, Mystery",5.1
+910,My Beloved Bodyguard,2016,99,Sammo Kam-Bo Hung,"Sammo Kam-Bo Hung, Jacqueline Chan, Qinqin Li","Action, Crime, Drama",5.9
+911,Tonight She Comes,2016,84,Matt Stuertz,"Nathan Eswine, Larissa White, Jenna McDonald","Comedy, Horror",3.9
+912,Porto,2016,76,Gabe Klinger,"Anton Yelchin, Lucie Lucas, Paulo Calatré","Drama, Romance",6.0
+913,Contract to Kill,2016,90,Keoni Waxman,"Steven Seagal, Russell Wong, Jemma Dallender","Action, Thriller",3.2
+914,The Last Princess,2016,127,Hur Jin-ho,"Son Ye-jin, Park Hae-il, Ra Mi-ran","Action, Biography, Drama",7.1
+915,Justin Timberlake + the Tennessee Kids,2016,90,Jonathan Demme,"Adam Blackstone, Aaron Camper, Devine Evans","Documentary, Music",7.6
+916,Men 30 Sanah,2016,145,Amr Arafa,"Ahmed El Sakka, Mohamed Ibrahim, Mona Zaki","Crime, Drama, Thriller",7.1
+917,The Queen of Spain,2016,128,Fernando Trueba,"Penélope Cruz, Antonio Resines, Neus Asensi","Comedy, Drama",5.3
+918,Ko 2,2016,124,"Sarath Mandava, Chenna Narayana","Bobby Simha, Prakash Raj, Nikki Galrani",Thriller,5.2
+919,Cartels,2016,95,Keoni Waxman,"Steven Seagal, Luke Goss, Georges St-Pierre","Action, Crime, Thriller",3.7
+920,The 24 Hour War,2016,99,"Nate Adams, Adam Carolla","Charlie Agapiou, Mario Andretti, A.J. Baime","Documentary, History, Sport",7.2
+921,Kuttrame Thandanai,2016,100,M. Manikandan,"Vidharth, Pooja Devariya, Aishwarya Rajesh","Crime, Drama, Mystery",7.6
+922,Mr. Donkey,2016,113,"Lu Liu, Shen Zhou","Suxi Ren, Li Da, Shuailiang Liu",Comedy,7.4
+923,Rock on 2,2016,143,Shujaat Saudagar,"Farhan Akhtar, Shraddha Kapoor, Arjun Rampal","Drama, Music",4.9
+924,Officer Downe,2016,88,Shawn Crahan,"Kim Coates, Tyler Ross, Meadow Williams","Action, Comedy, Sci-Fi",4.2
+925,Attack of the Killer Donuts,2016,85,Scott Wheeler,"Justin Ray, Kassandra Voyagis, Michael Swan","Action, Comedy, Horror",3.8
+926,An Insignificant Man,2016,96,"Khushboo Ranka, Vinay Shukla","Arvind Kejriwal, Saurabh Bhardwaj, Prashant Bhushan","Documentary, Thriller",8.5
+927,Sex Doll,2016,102,Sylvie Verheyde,"Hafsia Herzi, Ash Stymest, Karole Rocher","Drama, Romance, Thriller",4.6
+928,The Icebreaker,2016,124,Nikolay Khomeriki,"Pyotr Fyodorov, Sergey Puskepalis, Aleksandr Pal","Action, Adventure, Drama",6.1
+929,Peelers,2016,95,Sevé Schelenz,"Wren Walker, Caz Odin Darko, Madison J. Loos","Comedy, Horror",4.1
+930,Text for You,2016,107,Karoline Herfurth,"Karoline Herfurth, Friedrich Mücke, Nora Tschirner","Comedy, Drama, Romance",6.5
+931,The American Side,2016,90,Jenna Ricker,"Greg Stuhr, Don Stuhr, Kelsey Siepser","Drama, Mystery, Thriller",4.8
+932,Hired Gun,2016,98,Fran Strine,"John 5, Kenny Aronoff, Corey Britz","Documentary, Music",7.2
+933,Aloys,2016,91,Tobias Nölle,"Georg Friedrich, Tilde von Overbeck, Kamil Krejcí","Drama, Fantasy",6.3
+934,Schweinskopf al dente,2016,96,Ed Herzog,"Sebastian Bezzel, Simon Schwarz, Lisa Maria Potthoff","Comedy, Crime",6.9
+935,The Worthy,2016,99,Ali F. Mostafa,"Ali Suliman, Mahmoud Al Atrash, Samer al Masri","Action, Sci-Fi, Thriller",5.1
+936,A Man and a Woman,2016,115,Yoon-ki Lee,"Gong Yoo, Jeon Do-yeon, Park Byeong-eun","Drama, Romance",6.7
+937,Raaz Reboot,2016,128,Vikram Bhatt,"Emraan Hashmi, Kriti Kharbanda, Suzanna Mukherjee","Horror, Mystery, Thriller",4.4
+938,Dawson City: Frozen Time,2016,120,Bill Morrison,"Michael Gates, Kathy Jones-Gates, Roscoe 'Fatty' Arbuckle","Documentary, History",7.5
+939,Magi,2016,132,Hasan Karacadag,"Michael Madsen, Stephen Baldwin, Brianne Davis",Horror,5.2
+940,Little Boxes,2016,84,Rob Meyer,"Melanie Lynskey, Nelsan Ellis, Armani Jackson","Comedy, Drama",5.9
+941,Two Lovers and a Bear,2016,96,Kim Nguyen,"Dane DeHaan, Tatiana Maslany, Enooapik Sageatook","Adventure, Drama, Romance",6.0
+942,Perfect Strangers,2016,92,Thodoris Atheridis,"Thodoris Atheridis, Smaragda Karydi, Alkis Kourkoulos","Comedy, Drama",7.0
+943,Night of Something Strange,2016,97,Jonathan Straiton,"Trey Harrison, Rebecca C. Kasek, Wayne W. Johnson","Comedy, Horror",4.7
+944,We Need to Talk,2016,91,David Serrano,"Belén Cuesta, Carla Diego, Verónica Forqué","Comedy, Romance",5.8
+945,What's Up with Cinta 2,2016,123,Riri Riza,"Nicholas Saputra, Dian Sastrowardoyo, Titi Kamal","Drama, Romance",7.3
+946,Tales of an Immoral Couple,2016,91,Manolo Caro,"Cecilia Suárez, Manuel Garcia-Rulfo, Mariana Treviño",Comedy,6.9
+947,All Girls Weekend,2016,85,Lou Simon,"Jamie Bernadette, Katie Carpenter, Gema Calero","Action, Adventure, Horror",2.9
+948,Temps,2016,95,Ryan Sage,"Grant Rosenmeyer, Lindsey Shaw, Reid Ewing","Comedy, Romance",5.2
+949,The Silence of the Sky,2016,102,Marco Dutra,"Leonardo Sbaraglia, Carolina Dieckmann, Chino Darín","Drama, Thriller",6.5
+950,Roza of Smyrna,2016,97,George Kordellas,"Tasos Nousias, Lida Protopsalti, Evgenia Dimitropoulou","Drama, Romance",6.6
+951,Missing 411,2016,98,"Michael DeGrazier, Benjamin Paulides","Jaryd Atadero, DeOrr Kunz Jr., Nate Eaton",Documentary,6.4
+952,Notes on Blindness,2016,90,"Peter Middleton, James Spinney","John M. Hull, Marilyn Hull, Miranda Beinart-Smith","Documentary, Drama",7.0
+953,The Journey,2016,94,Nick Hamm,"Timothy Spall, Colm Meaney, John Hurt","Biography, Drama, History",6.7
+954,The Dreamseller,2016,98,"Jayme Monjardim, Luca Bueno","César Troncoso, Dan Stulbach, Dani Antunes",Drama,6.1
+955,Thoppil Joppan,2016,129,Johny Antony,"Sohan Seenulal, Andrea Jeremiah, Mamta Mohandas","Comedy, Drama",5.1
+956,King of the Belgians,2016,94,"Peter Brosens, Jessica Woodworth","Peter Van den Begin, Lucie Debay, Titus De Voogdt","Comedy, Drama",6.5
+957,Pass Thru,2016,90,Neil Breen,"Neil Breen, Viad, Kathy Corpus","Comedy, Drama, Fantasy",4.5
+958,The Darkest Dawn,2016,76,Drew Casson,"Bethan Leadley, Cherry Wallis, Jess Cleverly",Sci-Fi,4.1
+959,Silicon Cowboys,2016,77,Jason Cohen,"Rod Canion, Jim Harris, Bill Murto","Documentary, History",6.9
+960,The Asian Connection,2016,90,Daniel Zirilli,"Pim Bubear, John Edward Lee, Steven Seagal","Action, Crime, Drama",3.2
+961,In-Lawfully Yours,2016,85,Robert Kirbyson,"Chelsey Crisp, Lisa Renz, Leticia Rivera","Comedy, Romance",6.0
+962,1 Night,2016,80,Minhal Baig,"Anna Camp, Justin Chatwin, Isabelle Fuhrman","Drama, Romance",5.7
+963,Three,2016,88,Johnnie To,"Wei Zhao, Louis Koo, Kathy Wu","Action, Crime, Thriller",5.9
+964,Heroes Wanted,2016,95,Joaquín Mazón,"María León, Miki Esparbé, Jordi Sánchez","Action, Comedy",4.6
+965,K-Shop,2016,120,Dan Pringle,"Kristin Atherton, John May, Ewen MacIntosh","Crime, Horror, Thriller",5.9
+966,A Stroke of Luck,2016,90,Nacho G. Velilla,"Carmen Machi, Leo Harlem, Carlos Santos",Comedy,4.6
+967,Mais Forte que o Mundo: A História de José Aldo,2016,107,Afonso Poyart,"José Loreto, Cleo, Jackson Antunes","Action, Biography, Drama",7.1
+968,Some Freaks,2016,97,Ian McDonald,"Thomas Mann, Lily Mae Harrington, Ely Henry","Comedy, Drama, Romance",6.2
+969,The Free World,2016,100,Jason Lew,"Boyd Holbrook, Elisabeth Moss, Octavia Spencer","Drama, Romance",6.1
+970,The Next Skin,2016,103,"Isa Campo, Isaki Lacuesta","Àlex Monner, Emma Suárez, Sergi López","Drama, Mystery, Thriller",6.1
+971,Saint George,2016,112,Marco Martins,"Nuno Lopes, Mariana Nunes, David Semedo","Crime, Drama",6.9
+972,Whisky Galore,2016,98,Gillies MacKinnon,"Naomi Battrick, Sean Biggerstaff, James Cosmo","Comedy, Romance",5.9
+973,Elis,2016,110,Hugo Prata,"Andréia Horta, Gustavo Machado, Caco Ciocler","Biography, Drama, Music",6.7
+974,Cold Moon,2016,87,Griff Furst,"Josh Stewart, Candy Clark, Robbie Kay","Crime, Drama, Horror",4.6
+975,The Wasted Times,2016,125,Er Cheng,"You Ge, Ziyi Zhang, Tadanobu Asano","Crime, Drama",6.9
+976,The Faith of Anna Waters,2016,95,Kelvin Tong,"Daeng Amer Omar, Darius Tan, Colin Borgonon","Drama, Horror, Mystery",3.8
+977,The Barn,2016,88,Justin M. Seaman,"Mitchell Musolino, Will Stout, Lexi Dripps","Comedy, Horror",5.2
+978,Kaashmora,2016,163,Gokul,"Karthi, Nayanthara, Sri Divya","Action, Comedy, Fantasy",5.6
+979,Is That a Gun in Your Pocket?,2016,95,Matt Cooper,"Andrea Anders, Matt Passmore, Cloris Leachman",Comedy,4.9
+980,2047: Virtual Revolution,2016,92,Guy-Roger Duvert,"Mike Dopud, Jane Badler, Jochen Hägele","Action, Crime, Sci-Fi",5.1
+981,Ekkadiki Pothavu Chinnavada,2016,140,Vi Anand,"Nikhil Siddharth, Hebah Patel, Nandita Shwetha","Comedy, Fantasy, Romance",7.4
+982,1920 London,2016,120,Tinu Suresh Desai,"Sharman Joshi, Meera Chopra, Vishal Karwal","Horror, Mystery",4.2
+983,Layla M.,2016,98,Mijke de Jong,"Nora El Koussour, Ilias Addab, Hassan Akkouch",Drama,6.6
+984,Unforgettable,2016,113,Lee Eun-hee,"Do Kyung-soo, Kim So-hyun, Yeon Joon-seok","Drama, Romance",7.2
+985,Dear Eleanor,2016,89,Kevin Connolly,"Liana Liberato, Isabelle Fuhrman, Josh Lucas","Comedy, Drama, Family",5.9
+986,Lazy Eye,2016,87,Tim Kirkman,"Drew Barr, Lucas Near-Verbrugghe, Michaela Watkins","Comedy, Drama, Romance",6.4
+987,Paradise,2016,130,Andrei Konchalovsky,"Caroline Piette, Peter Kurth, Jakob Diehl","Drama, War",7.0
+988,Showdown in Manila,2016,86,Mark Dacascos,"Alexander Nevsky, Casper Van Dien, Cary-Hiroyuki Tagawa",Action,2.6
+989,Operator,2016,87,Logan Kibens,"Martin Starr, Mae Whitman, Nat Faxon","Comedy, Drama",6.0
+990,The Tuche Family: The American Dream,2016,94,Olivier Baroux,"Jean-Paul Rouve, Isabelle Nanty, Claire Nadeau",Comedy,4.9
+991,Miss Saigon: 25th Anniversary,2016,141,Brett Sullivan,"Jon Jon Briones, Eva Noblezada, Alistair Brammer","Drama, Musical, Romance",8.1
+992,The Last Shaman,2016,77,Raz Degan,"Guillermo Arevalo, James Freeman","Documentary, Adventure, Drama",6.6
+993,Mad World,2016,101,Chun Wong,"Shawn Yue, Eric Tsang, Elaine Jin",Drama,7.2
+994,The Axe Murders of Villisca,2016,78,Tony E. Valenzuela,"Robert Adamson, Jarrett Sleeper, Alex Frnka",Horror,4.1
+995,Brahman Naman,2016,95,Qaushiq Mukherjee,"Shashank Arora, Tanmay Dhanania, Chaitanya Varad",Comedy,5.5
+996,Her Sey Asktan,2016,100,Andaç Haznedaroglu,"Hande Dogandemir, Sükrü Özyildiz, Mithat Can Özer","Comedy, Romance",5.3
+997,No Filter,2016,100,Nicolás López,"Paz Bascuñán, Antonio Quercia, Paulo Brunetti",Comedy,5.6
+998,Sweet Dreams,2016,131,Marco Bellocchio,"Valerio Mastandrea, Bérénice Bejo, Guido Caprino","Drama, Romance",6.5

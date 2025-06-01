@@ -1,0 +1,1001 @@
+ID,Name,Year,Duration,Directors,Actors,Genres,Rating
+1,Mad Max: Fury Road,2015,120,George Miller,"Tom Hardy, Charlize Theron, Nicholas Hoult","Action, Adventure, Sci-Fi",8.1
+2,Star Wars: Episode VII - The Force Awakens,2015,138,J.J. Abrams,"Daisy Ridley, John Boyega, Oscar Isaac","Action, Adventure, Sci-Fi",7.8
+3,The Martian,2015,144,Ridley Scott,"Matt Damon, Jessica Chastain, Kristen Wiig","Adventure, Drama, Sci-Fi",8.0
+4,Avengers: Age of Ultron,2015,141,Joss Whedon,"Robert Downey Jr., Chris Evans, Mark Ruffalo","Action, Adventure, Sci-Fi",7.3
+5,The Revenant,2015,156,Alejandro G. Iñárritu,"Leonardo DiCaprio, Tom Hardy, Will Poulter","Adventure, Drama, Western",8.0
+6,Inside Out,2015,95,"Pete Docter, Ronnie Del Carmen","Amy Poehler, Bill Hader, Lewis Black","Animation, Adventure, Comedy",8.1
+7,Ant-Man,2015,117,Peyton Reed,"Paul Rudd, Michael Douglas, Corey Stoll","Action, Comedy, Sci-Fi",7.2
+8,Jurassic World,2015,124,Colin Trevorrow,"Chris Pratt, Bryce Dallas Howard, Ty Simpkins","Action, Adventure, Sci-Fi",6.9
+9,The Hateful Eight,2015,168,Quentin Tarantino,"Samuel L. Jackson, Kurt Russell, Jennifer Jason Leigh","Crime, Drama, Mystery",7.8
+10,Spotlight,2015,129,Tom McCarthy,"Mark Ruffalo, Michael Keaton, Rachel McAdams","Biography, Crime, Drama",8.1
+11,The Big Short,2015,130,Adam McKay,"Christian Bale, Steve Carell, Ryan Gosling","Biography, Comedy, Drama",7.8
+12,Sicario,2015,121,Denis Villeneuve,"Emily Blunt, Josh Brolin, Benicio Del Toro","Action, Crime, Drama",7.7
+13,Spectre,2015,148,Sam Mendes,"Daniel Craig, Christoph Waltz, Léa Seydoux","Action, Adventure, Thriller",6.8
+14,Room,2015,118,Lenny Abrahamson,"Brie Larson, Jacob Tremblay, Sean Bridgers","Drama, Thriller",8.1
+15,Mission: Impossible - Rogue Nation,2015,131,Christopher McQuarrie,"Tom Cruise, Rebecca Ferguson, Jeremy Renner","Action, Adventure, Thriller",7.4
+16,Furious 7,2015,137,James Wan,"Vin Diesel, Paul Walker, Dwayne Johnson","Action, Thriller",7.1
+17,The Hunger Games: Mockingjay - Part 2,2015,137,Francis Lawrence,"Jennifer Lawrence, Josh Hutcherson, Liam Hemsworth","Action, Adventure, Sci-Fi",6.6
+18,The Man from U.N.C.L.E.,2015,116,Guy Ritchie,"Henry Cavill, Armie Hammer, Alicia Vikander","Action, Adventure, Comedy",7.2
+19,Fifty Shades of Grey,2015,125,Sam Taylor-Johnson,"Dakota Johnson, Jamie Dornan, Jennifer Ehle","Drama, Romance, Thriller",4.2
+20,Bridge of Spies,2015,142,Steven Spielberg,"Tom Hanks, Mark Rylance, Alan Alda","Drama, History, Thriller",7.6
+21,The Witch,2015,92,Robert Eggers,"Anya Taylor-Joy, Ralph Ineson, Kate Dickie","Drama, Fantasy, Horror",7.0
+22,Creed,2015,133,Ryan Coogler,"Michael B. Jordan, Sylvester Stallone, Tessa Thompson","Action, Drama, Sport",7.6
+23,The Lobster,2015,119,Yorgos Lanthimos,"Colin Farrell, Rachel Weisz, Jessica Barden","Drama, Romance, Sci-Fi",7.1
+24,Terminator Genisys,2015,126,Alan Taylor,"Arnold Schwarzenegger, Jason Clarke, Emilia Clarke","Action, Adventure, Sci-Fi",6.3
+25,The Intern,2015,121,Nancy Meyers,"Robert De Niro, Anne Hathaway, Rene Russo","Comedy, Drama",7.1
+26,Maze Runner: The Scorch Trials,2015,131,Wes Ball,"Dylan O'Brien, Kaya Scodelario, Thomas Brodie-Sangster","Action, Adventure, Sci-Fi",6.3
+27,Focus,2015,105,"Glenn Ficarra, John Requa","Will Smith, Margot Robbie, Rodrigo Santoro","Comedy, Crime, Drama",6.6
+28,Chappie,2015,120,Neill Blomkamp,"Sharlto Copley, Dev Patel, Hugh Jackman","Action, Crime, Drama",6.8
+29,Minions,2015,91,"Kyle Balda, Pierre Coffin","Sandra Bullock, Jon Hamm, Michael Keaton","Animation, Adventure, Comedy",6.4
+30,Southpaw,2015,124,Antoine Fuqua,"Jake Gyllenhaal, Rachel McAdams, Oona Laurence","Action, Drama, Sport",7.3
+31,Spy,2015,120,Paul Feig,"Melissa McCarthy, Rose Byrne, Jude Law","Action, Comedy",7.0
+32,San Andreas,2015,114,Brad Peyton,"Dwayne Johnson, Carla Gugino, Alexandra Daddario","Action, Adventure, Thriller",6.1
+33,Insurgent,2015,119,Robert Schwentke,"Shailene Woodley, Ansel Elgort, Theo James","Action, Adventure, Sci-Fi",6.2
+34,Ted 2,2015,115,Seth MacFarlane,"Mark Wahlberg, Seth MacFarlane, Amanda Seyfried",Comedy,6.3
+35,Everest,2015,121,Baltasar Kormákur,"Jason Clarke, Ang Phula Sherpa, Thomas M. Wright","Adventure, Biography, Drama",7.1
+36,Straight Outta Compton,2015,147,F. Gary Gray,"O'Shea Jackson Jr., Corey Hawkins, Jason Mitchell","Biography, Drama, History",7.8
+37,The Age of Adaline,2015,112,Lee Toland Krieger,"Blake Lively, Michiel Huisman, Harrison Ford","Drama, Fantasy, Romance",7.2
+38,Legend,2015,132,Brian Helgeland,"Tom Hardy, Emily Browning, Taron Egerton","Biography, Crime, Drama",6.9
+39,The Danish Girl,2015,119,Tom Hooper,"Eddie Redmayne, Alicia Vikander, Amber Heard","Biography, Drama",7.1
+40,Cinderella,2015,105,Kenneth Branagh,"Lily James, Cate Blanchett, Richard Madden","Adventure, Drama, Family",6.9
+41,Jupiter Ascending,2015,127,"Lana Wachowski, Lilly Wachowski","Channing Tatum, Mila Kunis, Eddie Redmayne","Action, Adventure, Sci-Fi",5.3
+42,Black Mass,2015,123,Scott Cooper,"Johnny Depp, Benedict Cumberbatch, Dakota Johnson","Biography, Crime, Drama",6.8
+43,Tomorrowland,2015,130,Brad Bird,"George Clooney, Britt Robertson, Hugh Laurie","Action, Adventure, Family",6.4
+44,Steve Jobs,2015,122,Danny Boyle,"Michael Fassbender, Kate Winslet, Seth Rogen","Biography, Drama",7.2
+45,Fantastic Four,2015,100,Josh Trank,"Miles Teller, Kate Mara, Michael B. Jordan","Action, Adventure, Sci-Fi",4.3
+46,The Gift,2015,108,Joel Edgerton,"Jason Bateman, Rebecca Hall, Joel Edgerton","Drama, Mystery, Thriller",7.0
+47,Pitch Perfect 2,2015,115,Elizabeth Banks,"Anna Kendrick, Rebel Wilson, Hailee Steinfeld","Comedy, Music",6.4
+48,Pixels,2015,105,Chris Columbus,"Adam Sandler, Kevin James, Michelle Monaghan","Action, Comedy, Fantasy",5.6
+49,The Visit,2015,94,M. Night Shyamalan,"Olivia DeJonge, Ed Oxenbould, Deanna Dunagan","Horror, Mystery, Thriller",6.3
+50,Crimson Peak,2015,119,Guillermo del Toro,"Mia Wasikowska, Jessica Chastain, Tom Hiddleston","Drama, Horror, Mystery",6.5
+51,Brooklyn,2015,117,John Crowley,"Saoirse Ronan, Emory Cohen, Domhnall Gleeson","Drama, Romance",7.5
+52,In the Heart of the Sea,2015,122,Ron Howard,"Chris Hemsworth, Cillian Murphy, Brendan Gleeson","Action, Adventure, Biography",6.9
+53,Hotel Transylvania 2,2015,89,Genndy Tartakovsky,"Adam Sandler, Andy Samberg, Selena Gomez","Animation, Adventure, Comedy",6.6
+54,Get Hard,2015,100,Etan Cohen,"Will Ferrell, Kevin Hart, Alison Brie","Comedy, Crime, Drama",6.0
+55,Joy,2015,124,David O. Russell,"Jennifer Lawrence, Robert De Niro, Bradley Cooper","Biography, Drama",6.6
+56,Carol,2015,118,Todd Haynes,"Cate Blanchett, Rooney Mara, Sarah Paulson","Drama, Romance",7.3
+57,Green Room,2015,95,Jeremy Saulnier,"Anton Yelchin, Imogen Poots, Alia Shawkat","Crime, Horror, Music",7.0
+58,Trainwreck,2015,125,Judd Apatow,"Amy Schumer, Bill Hader, Brie Larson","Comedy, Drama, Romance",6.2
+59,Baahubali: The Beginning,2015,159,S.S. Rajamouli,"Prabhas, Rana Daggubati, Anushka Shetty","Action, Drama",8.0
+60,Me and Earl and the Dying Girl,2015,105,Alfonso Gomez-Rejon,"Thomas Mann, RJ Cyler, Olivia Cooke","Comedy, Drama",7.7
+61,The Walk,2015,123,Robert Zemeckis,"Joseph Gordon-Levitt, Charlotte Le Bon, Ben Kingsley","Adventure, Biography, Drama",7.3
+62,Burnt,2015,101,John Wells,"Bradley Cooper, Sienna Miller, Daniel Brühl","Comedy, Drama",6.6
+63,Daddy's Home,2015,96,Sean Anders,"Will Ferrell, Mark Wahlberg, Linda Cardellini","Comedy, Family",6.2
+64,The Good Dinosaur,2015,93,Peter Sohn,"Jeffrey Wright, Frances McDormand, Maleah Nipay-Padilla","Animation, Action, Adventure",6.7
+65,Bone Tomahawk,2015,132,S. Craig Zahler,"Kurt Russell, Patrick Wilson, Matthew Fox","Drama, Horror, Western",7.1
+66,Vacation,2015,99,"John Francis Daley, Jonathan Goldstein","Ed Helms, Christina Applegate, Skyler Gisondo","Adventure, Comedy",6.2
+67,The Invitation,2015,100,Karyn Kusama,"Logan Marshall-Green, Emayatzy Corinealdi, Michiel Huisman","Drama, Horror, Mystery",6.6
+68,Insidious: Chapter 3,2015,97,Leigh Whannell,"Dermot Mulroney, Stefanie Scott, Angus Sampson","Horror, Mystery, Thriller",6.1
+69,Demolition,2015,101,Jean-Marc Vallée,"Jake Gyllenhaal, Naomi Watts, Chris Cooper","Comedy, Drama",7.0
+70,Run All Night,2015,114,Jaume Collet-Serra,"Liam Neeson, Ed Harris, Joel Kinnaman","Action, Crime, Thriller",6.6
+71,Home,2015,94,Tim Johnson,"Jim Parsons, Rihanna, Steve Martin","Animation, Adventure, Comedy",6.5
+72,The Last Witch Hunter,2015,106,Breck Eisner,"Vin Diesel, Rose Leslie, Elijah Wood","Action, Adventure, Fantasy",5.9
+73,Knock Knock,2015,99,Eli Roth,"Keanu Reeves, Lorenza Izzo, Ana de Armas","Crime, Thriller",4.9
+74,Paper Towns,2015,109,Jake Schreier,"Nat Wolff, Cara Delevingne, Austin Abrams","Adventure, Comedy, Drama",6.2
+75,Self/less,2015,117,Tarsem Singh,"Ryan Reynolds, Natalie Martinez, Matthew Goode","Action, Mystery, Sci-Fi",6.5
+76,Hardcore Henry,2015,96,Ilya Naishuller,"Sharlto Copley, Tim Roth, Haley Bennett","Action, Adventure, Sci-Fi",6.7
+77,Bajrangi Bhaijaan,2015,163,Kabir Khan,"Salman Khan, Harshaali Malhotra, Nawazuddin Siddiqui","Action, Adventure, Comedy",8.1
+78,The DUFF,2015,101,Ari Sandel,"Mae Whitman, Bella Thorne, Robbie Amell","Comedy, Romance",6.4
+79,Eddie the Eagle,2015,106,Dexter Fletcher,"Taron Egerton, Hugh Jackman, Tom Costello","Adventure, Biography, Comedy",7.3
+80,Concussion,2015,123,Peter Landesman,"Will Smith, Alec Baldwin, Albert Brooks","Biography, Drama, Sport",7.1
+81,Drishyam,2015,163,Nishikant Kamat,"Ajay Devgn, Shriya Saran, Tabu","Crime, Drama, Mystery",8.2
+82,Hitman: Agent 47,2015,96,Aleksander Bach,"Rupert Friend, Hannah Ware, Zachary Quinto","Action, Adventure, Crime",5.7
+83,Goosebumps,2015,103,Rob Letterman,"Jack Black, Dylan Minnette, Odeya Rush","Adventure, Comedy, Fantasy",6.3
+84,American Ultra,2015,96,Nima Nourizadeh,"Jesse Eisenberg, Kristen Stewart, Connie Britton","Action, Comedy",6.1
+85,No Escape,2015,103,John Erick Dowdle,"Lake Bell, Pierce Brosnan, Owen Wilson","Action, Thriller",6.7
+86,Eye in the Sky,2015,102,Gavin Hood,"Helen Mirren, Aaron Paul, Alan Rickman","Action, Drama, Thriller",7.3
+87,The Longest Ride,2015,123,George Tillman Jr.,"Scott Eastwood, Britt Robertson, Alan Alda","Drama, Romance",7.0
+88,Dope,2015,103,Rick Famuyiwa,"Shameik Moore, Tony Revolori, Kiersey Clemons","Adventure, Comedy, Crime",7.2
+89,Krampus,2015,98,Michael Dougherty,"Adam Scott, Toni Collette, David Koechner","Comedy, Fantasy, Horror",6.2
+90,Beasts of No Nation,2015,137,Cary Joji Fukunaga,"Abraham Attah, Emmanuel Affadzi, Ricky Adelayitar","Drama, War",7.7
+91,The Night Before,2015,101,Jonathan Levine,"Joseph Gordon-Levitt, Seth Rogen, Jillian Bell","Comedy, Fantasy",6.4
+92,Trumbo,2015,124,Jay Roach,"Bryan Cranston, Diane Lane, Helen Mirren","Biography, Drama",7.4
+93,Youth,2015,124,Paolo Sorrentino,"Michael Caine, Harvey Keitel, Rachel Weisz","Comedy, Drama, Music",7.3
+94,Project Almanac,2015,106,Dean Israelite,"Amy Landecker, Sofia Black-D'Elia, Virginia Gardner","Drama, Mystery, Sci-Fi",6.4
+95,Entourage,2015,104,Doug Ellin,"Adrian Grenier, Kevin Connolly, Jerry Ferrara","Comedy, Drama",6.5
+96,The Wedding Ringer,2015,101,Jeremy Garelick,"Kevin Hart, Josh Gad, Kaley Cuoco","Comedy, Romance",6.6
+97,Mortdecai,2015,107,David Koepp,"Johnny Depp, Gwyneth Paltrow, Ewan McGregor","Action, Adventure, Comedy",5.5
+98,Child 44,2015,137,Daniel Espinosa,"Tom Hardy, Gary Oldman, Noomi Rapace","Crime, Drama, History",6.4
+99,Anomalisa,2015,90,"Duke Johnson, Charlie Kaufman","David Thewlis, Jennifer Jason Leigh, Tom Noonan","Animation, Comedy, Drama",7.2
+100,Aloha,2015,105,Cameron Crowe,"Bradley Cooper, Rachel McAdams, Emma Stone","Comedy, Drama, Romance",5.4
+101,True Story,2015,99,Rupert Goold,"James Franco, Jonah Hill, Felicity Jones","Biography, Crime, Drama",6.3
+102,Solace,2015,101,Afonso Poyart,"Anthony Hopkins, Jeffrey Dean Morgan, Abbie Cornish","Crime, Drama, Mystery",6.4
+103,A Man Called Ove,2015,116,Hannes Holm,"Rolf Lassgård, Bahar Pars, Filip Berg","Comedy, Drama, Romance",7.7
+104,Sisters,2015,118,Jason Moore,"Amy Poehler, Tina Fey, Maya Rudolph",Comedy,6.0
+105,Love,2015,135,Gaspar Noé,"Aomi Muyock, Karl Glusman, Klara Kristin","Drama, Romance",6.1
+106,Circle,2015,87,"Aaron Hann, Mario Miscione","Allegra Masters, Aimee McKay, Ashley Key","Drama, Horror, Mystery",6.0
+107,Mr. Holmes,2015,104,Bill Condon,"Ian McKellen, Laura Linney, Hiroyuki Sanada","Crime, Drama, Family",6.8
+108,The Little Prince,2015,108,Mark Osborne,"Jeff Bridges, Mackenzie Foy, Rachel McAdams","Animation, Adventure, Comedy",7.6
+109,Irrational Man,2015,95,Woody Allen,"Joaquin Phoenix, Emma Stone, Parker Posey","Comedy, Crime, Drama",6.6
+110,The Dressmaker,2015,119,Jocelyn Moorhouse,"Kate Winslet, Judy Davis, Liam Hemsworth","Comedy, Drama",7.0
+111,Pan,2015,111,Joe Wright,"Levi Miller, Hugh Jackman, Garrett Hedlund","Adventure, Comedy, Family",5.7
+112,Point Break,2015,114,Ericson Core,"Edgar Ramírez, Luke Bracey, Ray Winstone","Action, Adventure, Crime",5.3
+113,Blackhat,2015,133,Michael Mann,"Chris Hemsworth, Viola Davis, Tang Wei","Action, Crime, Thriller",5.5
+114,Victoria,2015,138,Sebastian Schipper,"Laia Costa, Frederick Lau, Franz Rogowski","Crime, Drama, Romance",7.6
+115,Woman in Gold,2015,109,Simon Curtis,"Helen Mirren, Ryan Reynolds, Daniel Brühl","Biography, Drama, History",7.3
+116,The SpongeBob Movie: Sponge Out of Water,2015,92,"Paul Tibbitt, Mike Mitchell","Tom Kenny, Antonio Banderas, Bill Fagerbakke","Animation, Adventure, Comedy",6.0
+117,The Man Who Knew Infinity,2015,108,Matt Brown,"Dev Patel, Jeremy Irons, Malcolm Sinclair","Biography, Drama",7.2
+118,Sinister 2,2015,97,Ciarán Foy,"James Ransone, Shannyn Sossamon, Robert Daniel Sloan","Horror, Mystery, Thriller",5.3
+119,Mr. Right,2015,95,Paco Cabezas,"Anna Kendrick, Sam Rockwell, Tim Roth","Action, Comedy, Crime",6.3
+120,Masterminds,2015,95,Jared Hess,"Zach Galifianakis, Owen Wilson, Kristen Wiig","Biography, Comedy, Crime",5.8
+121,Poltergeist,2015,93,Gil Kenan,"Sam Rockwell, Rosemarie DeWitt, Kennedi Clements","Fantasy, Horror, Thriller",4.9
+122,Magic Mike XXL,2015,115,Gregory Jacobs,"Channing Tatum, Joe Manganiello, Matt Bomer","Comedy, Drama, Music",5.6
+123,Wild Card,2015,92,Simon West,"Jason Statham, Michael Angarano, Dominik Garcia","Action, Crime, Drama",5.6
+124,Ip Man 3,2015,105,Wilson Yip,"Donnie Yen, Lynn Xiong, Jin Zhang","Action, Biography, Crime",7.0
+125,Victor Frankenstein,2015,110,Paul McGuigan,"Daniel Radcliffe, James McAvoy, Jessica Brown Findlay","Drama, Horror, Sci-Fi",6.0
+126,Baby,2015,159,Neeraj Pandey,"Akshay Kumar, Danny Denzongpa, Rana Daggubati","Action, Thriller",7.9
+127,Macbeth,2015,113,Justin Kurzel,"Michael Fassbender, Marion Cotillard, Jack Madigan","Drama, History, War",6.6
+128,Colonia,2015,110,Florian Gallenberger,"Emma Watson, Daniel Brühl, Michael Nyqvist","Biography, Drama, History",7.0
+129,Man Up,2015,88,Ben Palmer,"Lake Bell, Rory Kinnear, Ken Stott","Comedy, Drama, Romance",6.8
+130,Scouts Guide to the Zombie Apocalypse,2015,93,Christopher Landon,"Tye Sheridan, Logan Miller, Joey Morgan","Action, Comedy, Horror",6.3
+131,Amy,2015,128,Asif Kapadia,"Amy Winehouse, Mitch Winehouse, Mark Ronson","Documentary, Biography, Music",7.8
+132,The Ridiculous 6,2015,119,Frank Coraci,"Adam Sandler, Terry Crews, Jorge Garcia","Action, Adventure, Comedy",4.9
+133,Hot Pursuit,2015,87,Anne Fletcher,"Reese Witherspoon, Sofía Vergara, Matthew Del Negro","Action, Comedy, Crime",5.2
+134,Far from the Madding Crowd,2015,119,Thomas Vinterberg,"Carey Mulligan, Matthias Schoenaerts, Michael Sheen","Drama, Romance",7.1
+135,The Final Girls,2015,91,Todd Strauss-Schulson,"Taissa Farmiga, Malin Akerman, Adam Devine","Comedy, Fantasy, Horror",6.5
+136,Secret in Their Eyes,2015,111,Billy Ray,"Chiwetel Ejiofor, Nicole Kidman, Julia Roberts","Crime, Drama, Mystery",6.3
+137,Son of Saul,2015,107,László Nemes,"Géza Röhrig, Levente Molnár, Urs Rechn","Drama, War",7.4
+138,Look Who's Back,2015,116,David Wnendt,"Oliver Masucci, Thomas M. Köppl, Marc-Marvin Israel","Comedy, Drama, Fantasy",7.0
+139,Absolutely Anything,2015,85,Terry Jones,"Simon Pegg, Kate Beckinsale, Sanjeev Bhaskar","Comedy, Sci-Fi",6.0
+140,The Peanuts Movie,2015,88,Steve Martino,"Noah Schnapp, Bill Melendez, Hadley Belle Miller","Animation, Adventure, Comedy",7.0
+141,Sleeping with Other People,2015,101,Leslye Headland,"Jason Sudeikis, Alison Brie, Jordan Carlos","Comedy, Drama, Romance",6.5
+142,Dark Places,2015,113,Gilles Paquet-Brenner,"Charlize Theron, Nicholas Hoult, Christina Hendricks","Crime, Drama, Mystery",6.2
+143,Slow West,2015,84,John Maclean,"Kodi Smit-McPhee, Caren Pistorius, Aorere Paki","Adventure, Drama, Romance",6.9
+144,Maggie,2015,95,Henry Hobson,"Arnold Schwarzenegger, Abigail Breslin, Joely Richardson","Drama, Horror, Sci-Fi",5.6
+145,Land of Mine,2015,100,Martin Zandvliet,"Roland Møller, Louis Hofmann, Joel Basman","Drama, History, War",7.8
+146,The Lazarus Effect,2015,83,David Gelb,"Olivia Wilde, Mark Duplass, Evan Peters","Horror, Mystery, Sci-Fi",5.2
+147,The Boy Next Door,2015,91,Rob Cohen,"Jennifer Lopez, Ryan Guzman, Kristin Chenoweth",Thriller,4.7
+148,The Stanford Prison Experiment,2015,122,Kyle Patrick Alvarez,"Ezra Miller, Tye Sheridan, Billy Crudup","Biography, Drama, History",6.8
+149,Last Knights,2015,115,Kazuaki Kiriya,"Clive Owen, Morgan Freeman, Aksel Hennie","Action, Drama",6.2
+150,High-Rise,2015,119,Ben Wheatley,"Tom Hiddleston, Jeremy Irons, Sienna Miller","Drama, Sci-Fi",5.5
+151,The Transporter Refueled,2015,96,Camille Delamarre,"Ed Skrein, Loan Chabanol, Ray Stevenson","Action, Thriller",5.2
+152,Suffragette,2015,106,Sarah Gavron,"Carey Mulligan, Anne-Marie Duff, Helena Bonham Carter","Drama, History",6.9
+153,Shaun the Sheep Movie,2015,85,"Mark Burton, Richard Starzak","Justin Fletcher, John Sparkes, Omid Djalili","Animation, Adventure, Comedy",7.3
+154,The Wave,2015,105,Roar Uthaug,"Kristoffer Joner, Ane Dahl Torp, Jonas Hoff Oftebro","Action, Drama, Thriller",6.6
+155,"McFarland, USA",2015,129,Niki Caro,"Kevin Costner, Maria Bello, Ramiro Rodriguez","Biography, Drama, Sport",7.4
+156,The Gunman,2015,115,Pierre Morel,"Sean Penn, Idris Elba, Jasmine Trinca","Action, Crime, Mystery",5.8
+157,Regression,2015,106,Alejandro Amenábar,"Ethan Hawke, David Thewlis, Emma Watson","Crime, Drama, Mystery",5.6
+158,Hot Tub Time Machine 2,2015,93,Steve Pink,"Rob Corddry, Craig Robinson, Clark Duke","Comedy, Mystery, Sci-Fi",5.0
+159,Paul Blart: Mall Cop 2,2015,94,Andy Fickman,"Kevin James, Raini Rodriguez, Eduardo Verástegui","Action, Comedy, Crime",4.5
+160,Mustang,2015,97,Deniz Gamze Ergüven,"Günes Sensoy, Doga Zeynep Doguslu, Tugba Sunguroglu",Drama,7.6
+161,Going Clear: Scientology & the Prison of Belief,2015,119,Alex Gibney,"Paul Haggis, Jason Beghe, Spanky Taylor",Documentary,8.0
+162,We Are Your Friends,2015,96,Max Joseph,"Zac Efron, Wes Bentley, Emily Ratajkowski","Drama, Music, Romance",6.2
+163,The 33,2015,127,Patricia Riggen,"Antonio Banderas, Rodrigo Santoro, Juliette Binoche","Biography, Drama, History",6.9
+164,Tangerine,2015,88,Sean Baker,"Kitana Kiki Rodriguez, Mya Taylor, Karren Karagulian","Comedy, Crime, Drama",7.1
+165,Dilwale,2015,158,Rohit Shetty,"Shah Rukh Khan, Kajol, Varun Dhawan","Action, Comedy, Drama",5.1
+166,Bajirao Mastani,2015,158,Sanjay Leela Bhansali,"Ranveer Singh, Deepika Padukone, Priyanka Chopra Jonas","Action, Drama, History",7.3
+167,Guilty,2015,132,Meghna Gulzar,"Irrfan Khan, Konkona Sen Sharma, Neeraj Kabi","Crime, Drama, Mystery",8.1
+168,The Second Best Exotic Marigold Hotel,2015,122,John Madden,"Judi Dench, Maggie Smith, Bill Nighy","Comedy, Drama, Romance",6.5
+169,Survivor,2015,96,James McTeigue,"Milla Jovovich, Pierce Brosnan, Dylan McDermott","Action, Crime, Thriller",5.6
+170,The Brand New Testament,2015,114,Jaco Van Dormael,"Pili Groyne, Benoît Poelvoorde, Catherine Deneuve","Comedy, Drama, Fantasy",7.1
+171,Cop Car,2015,88,Jon Watts,"Kevin Bacon, James Freedson-Jackson, Hays Wellford","Crime, Thriller",6.3
+172,45 Years,2015,95,Andrew Haigh,"Charlotte Rampling, Tom Courtenay, Geraldine James","Drama, Romance",7.1
+173,Unfinished Business,2015,91,Ken Scott,"Vince Vaughn, Dave Franco, Tom Wilkinson","Comedy, Drama",5.4
+174,Piku,2015,123,Shoojit Sircar,"Deepika Padukone, Amitabh Bachchan, Irrfan Khan","Comedy, Drama",7.6
+175,A Bigger Splash,2015,125,Luca Guadagnino,"Tilda Swinton, Matthias Schoenaerts, Ralph Fiennes","Drama, Music, Thriller",6.4
+176,Tamasha,2015,139,Imtiaz Ali,"Deepika Padukone, Ranbir Kapoor, Naila Grrewal","Comedy, Drama, Romance",7.4
+177,The Diary of a Teenage Girl,2015,102,Marielle Heller,"Bel Powley, Alexander Skarsgård, Kristen Wiig","Comedy, Drama, Romance",6.8
+178,Danny Collins,2015,106,Dan Fogelman,"Al Pacino, Annette Bening, Jennifer Garner","Comedy, Drama, Music",7.0
+179,Equals,2015,101,Drake Doremus,"Nicholas Hoult, Kristen Stewart, Vernetta Lopez","Drama, Romance, Sci-Fi",6.0
+180,Heist,2015,93,Scott Mann,"Robert De Niro, Jeffrey Dean Morgan, Dave Bautista","Action, Crime, Drama",6.1
+181,Z for Zachariah,2015,98,Craig Zobel,"Chiwetel Ejiofor, Chris Pine, Margot Robbie","Drama, Romance, Sci-Fi",6.0
+182,The End of the Tour,2015,106,James Ponsoldt,"Jason Segel, Jesse Eisenberg, Anna Chlumsky","Biography, Drama",7.2
+183,The Lady in the Van,2015,104,Nicholas Hytner,"Maggie Smith, Alex Jennings, Jim Broadbent","Biography, Comedy, Drama",6.7
+184,Masaan,2015,109,Neeraj Ghaywan,"Richa Chadha, Sanjay Mishra, Vicky Kaushal",Drama,8.1
+185,Cobain: Montage of Heck,2015,132,Brett Morgen,"Kurt Cobain, Wendy O'Connor, Don Cobain","Documentary, Animation, Biography",7.5
+186,Tale of Tales,2015,134,Matteo Garrone,"Salma Hayek, Vincent Cassel, Toby Jones","Drama, Fantasy, Horror",6.4
+187,Paranormal Activity: The Ghost Dimension,2015,88,Gregory Plotkin,"Chris J. Murray, Brit Shaw, Ivy George","Horror, Mystery",4.6
+188,Hell House LLC,2015,93,Stephen Cognetti,"Gore Abrams, Alice Bahlke, Danny Bellini","Horror, Mystery",6.4
+189,A Walk in the Woods,2015,104,Ken Kwapis,"Robert Redford, Nick Nolte, Emma Thompson","Adventure, Biography, Comedy",6.4
+190,Knight of Cups,2015,118,Terrence Malick,"Christian Bale, Cate Blanchett, Natalie Portman","Drama, Fantasy, Romance",5.6
+191,Turbo Kid,2015,93,"François Simard, Anouk Whissell, Yoann-Karl Whissell","Munro Chambers, Laurence Leboeuf, Michael Ironside","Action, Adventure, Comedy",6.7
+192,Tanu Weds Manu Returns,2015,128,Aanand L. Rai,"Kangana Ranaut, Madhavan, Gunnit Kaur","Comedy, Drama, Romance",7.6
+193,The Blackcoat's Daughter,2015,93,Osgood Perkins,"Emma Roberts, Kiernan Shipka, Lucy Boynton","Horror, Mystery, Thriller",5.9
+194,Fathers & Daughters,2015,116,Gabriele Muccino,"Russell Crowe, Amanda Seyfried, Aaron Paul",Drama,7.0
+195,Mistress America,2015,84,Noah Baumbach,"Greta Gerwig, Lola Kirke, Shana Dowdeswell","Comedy, Drama",6.7
+196,Max,2015,111,Boaz Yakin,"Thomas Haden Church, Josh Wiggins, Luke Kleintank","Adventure, Drama, Family",6.6
+197,Remember,2015,94,Atom Egoyan,"Christopher Plummer, Kim Roberts, Amanda Smith","Drama, Mystery, Thriller",7.5
+198,The Boy and the Beast,2015,119,Mamoru Hosoda,"Kôji Yakusho, Aoi Miyazaki, Shôta Sometani","Animation, Action, Adventure",7.6
+199,Love the Coopers,2015,107,Jessie Nelson,"Steve Martin, Diane Keaton, John Goodman","Comedy, Fantasy, Romance",5.8
+200,Hidden,2015,84,"Matt Duffer, Ross Duffer","Alexander Skarsgård, Andrea Riseborough, Emily Alyn Lind","Horror, Sci-Fi, Thriller",6.4
+201,Code Name: K.O.Z.,2015,114,Celal Çimen,"Cem Kurtoglu, Hakan Ural, Hazim Körmükçü","Crime, Mystery",1.7
+202,Gabbar Is Back,2015,128,Radha Krishna Jagarlamudi,"Akshay Kumar, Shruti Haasan, Kareena Kapoor","Action, Crime, Drama",7.0
+203,Mississippi Grind,2015,108,"Anna Boden, Ryan Fleck","Ben Mendelsohn, Ryan Reynolds, Yvonne Landry","Comedy, Drama",6.4
+204,Badlapur,2015,134,Sriram Raghavan,"Varun Dhawan, Nawazuddin Siddiqui, Yami Gautam","Action, Crime, Drama",7.4
+205,Where to Invade Next,2015,120,Michael Moore,"Michael Moore, Johnny Fancelli, Christina Fancelli","Documentary, Comedy",7.5
+206,Premam,2015,156,Alphonse Puthren,"Nivin Pauly, Sai Pallavi, Madonna Sebastian","Comedy, Drama, Romance",8.3
+207,Ricki and the Flash,2015,101,Jonathan Demme,"Meryl Streep, Kevin Kline, Mamie Gummer","Comedy, Drama, Music",6.0
+208,Embrace of the Serpent,2015,125,Ciro Guerra,"Nilbio Torres, Jan Bijvoet, Antonio Bolívar","Adventure, Biography, Drama",7.8
+209,Detective Byomkesh Bakshy!,2015,139,Dibakar Banerjee,"Sushant Singh Rajput, Anand Tiwari, Neeraj Kabi","Action, Crime, Drama",7.6
+210,Dragon Ball Z: Resurrection 'F',2015,94,Tadayoshi Yamamuro,"Masako Nozawa, Ryô Horikawa, Hiromi Tsuru","Animation, Action, Adventure",7.1
+211,Jane Got a Gun,2015,98,Gavin O'Connor,"Natalie Portman, Joel Edgerton, Ewan McGregor","Action, Crime, Drama",5.9
+212,I,2015,188,S. Shankar,"Vikram, Amy Jackson, Suresh Gopi","Action, Drama, Romance",7.4
+213,Little Boy,2015,106,Alejandro Monteverde,"Jakob Salvati, Emily Watson, David Henrie","Drama, History, War",7.3
+214,Prem Ratan Dhan Payo,2015,164,Sooraj R. Barjatya,"Salman Khan, Sonam Kapoor, Neil Nitin Mukesh","Action, Drama, Musical",4.4
+215,MI-5,2015,104,Bharat Nalluri,"Kit Harington, Peter Firth, Jennifer Ehle","Action, Drama, Thriller",6.2
+216,Alvin and the Chipmunks: The Road Chip,2015,92,Walt Becker,"Jason Lee, Justin Long, Matthew Gray Gubler","Adventure, Comedy, Family",4.9
+217,A Perfect Day,2015,106,Fernando León de Aranoa,"Benicio Del Toro, Tim Robbins, Olga Kurylenko","Comedy, Drama, War",6.8
+218,Barely Lethal,2015,96,Kyle Newman,"Jaime King, Samuel L. Jackson, Madeleine Stack","Action, Comedy",5.4
+219,Our Brand Is Crisis,2015,107,David Gordon Green,"Sandra Bullock, Billy Bob Thornton, Anthony Mackie","Comedy, Drama",6.1
+220,By the Sea,2015,122,Angelina Jolie,"Brad Pitt, Angelina Jolie, Mélanie Laurent","Drama, Romance",5.3
+221,He Never Died,2015,99,Jason Krawczyk,"Henry Rollins, Booboo Stewart, Kate Greenhouse","Comedy, Drama, Fantasy",6.3
+222,The Devil's Candy,2015,79,Sean Byrne,"Ethan Embry, Shiri Appleby, Pruitt Taylor Vince","Drama, Horror, Thriller",6.3
+223,"Hello, My Name Is Doris",2015,90,Michael Showalter,"Sally Field, Max Greenfield, Tyne Daly","Comedy, Drama, Romance",6.6
+224,Thani Oruvan,2015,160,Mohan Raja,"Ravi Mohan, Arvind Swamy, Nayanthara","Action, Crime, Drama",8.4
+225,Suburra,2015,130,Stefano Sollima,"Pierfrancesco Favino, Elio Germano, Claudio Amendola","Action, Crime, Drama",7.4
+226,Into the Forest,2015,101,Patricia Rozema,"Elliot Page, Evan Rachel Wood, Max Minghella","Drama, Sci-Fi, Thriller",5.8
+227,Southbound,2015,89,"Roxanne Benjamin, Matt Bettinelli-Olpin, David Bruckner","Chad Villella, Matt Bettinelli-Olpin, Kristina Pesic",Horror,5.9
+228,The Gallows,2015,81,"Travis Cluff, Chris Lofing","Reese Mishler, Pfeifer Brown, Ryan Shoos","Horror, Mystery, Thriller",4.2
+229,Kidnapping Mr. Heineken,2015,95,Daniel Alfredson,"Jim Sturgess, Sam Worthington, Ryan Kwanten","Action, Crime, Drama",6.1
+230,Dragon Blade,2015,127,Daniel Lee,"Jackie Chan, John Cusack, Adrien Brody","Action, Drama, History",5.9
+231,Truth,2015,125,James Vanderbilt,"Cate Blanchett, Robert Redford, Dennis Quaid","Biography, Drama, History",6.8
+232,My Big Fat Bride,2015,109,Sharat Katariya,"Bhumi Pednekar, Ayushmann Khurrana, Sanjay Mishra","Comedy, Drama, Romance",7.5
+233,Ali Baba and the Seven Dwarfs,2015,114,Cem Yilmaz,"Cem Yilmaz, Çetin Altay, Irina Ivkina","Adventure, Comedy",5.6
+234,The Human Centipede III (Final Sequence),2015,102,Tom Six,"Dieter Laser, Laurence R. Harvey, Eric Roberts","Comedy, Horror",2.7
+235,Winter on Fire: Ukraine's Fight for Freedom,2015,102,Evgeny Afineevsky,"His Beatitude Sviatoslav, Said Ismagilov, Bishop Agapit","Documentary, History",8.3
+236,Dil Dhadakne Do,2015,170,Zoya Akhtar,"Anil Kapoor, Shefali Shah, Priyanka Chopra Jonas","Comedy, Drama, Romance",7.0
+237,Manjhi: The Mountain Man,2015,120,Ketan Mehta,"Nawazuddin Siddiqui, Radhika Apte, Ashutosh Acharya","Biography, Drama",8.0
+238,We Are Still Here,2015,84,Ted Geoghegan,"Andrew Sensenig, Barbara Crampton, Larry Fessenden","Horror, Mystery",5.7
+239,Tracers,2015,94,Daniel Benmayor,"Taylor Lautner, Marie Avgeropoulos, Adam Rayner","Action, Crime, Drama",5.6
+240,Experimenter,2015,98,Michael Almereyda,"Peter Sarsgaard, Winona Ryder, Jim Gaffigan","Biography, Drama, History",6.6
+241,Miss You Already,2015,112,Catherine Hardwicke,"Drew Barrymore, Toni Collette, Dominic Cooper","Comedy, Drama, Romance",6.8
+242,Deathgasm,2015,86,Jason Howden,"Milo Cawthorne, James Joshua Blake, Kimberley Crossman","Action, Comedy, Horror",6.3
+243,The Program,2015,104,Stephen Frears,"Ben Foster, Chris O'Dowd, Guillaume Canet","Biography, Drama, Sport",6.5
+244,Meru,2015,90,"Jimmy Chin, Elizabeth Chai Vasarhelyi","Conrad Anker, Grace Chin, Jimmy Chin","Documentary, Sport",7.7
+245,The Vatican Tapes,2015,91,Mark Neveldine,"Olivia Taylor Dudley, Michael Peña, Dougray Scott","Horror, Thriller",4.7
+246,Pay the Ghost,2015,94,Uli Edel,"Nicolas Cage, Sarah Wayne Callies, Veronica Ferres","Horror, Mystery",5.2
+247,The Survivalist,2015,104,Stephen Fingleton,"Martin McCann, Mia Goth, Olwen Fouéré","Drama, Sci-Fi, Thriller",6.4
+248,Bilal: A New Breed of Hero,2015,105,"Khurram H. Alavi, Ayman Jamal","Adewale Akinnuoye-Agbaje, Ian McShane, China Anne McClain","Animation, Action, Adventure",7.6
+249,The Hallow,2015,97,Corin Hardy,"Joseph Mawle, Bojana Novakovic, Michael McElhatton","Fantasy, Horror, Thriller",5.7
+250,The Sea of Trees,2015,110,Gus Van Sant,"Matthew McConaughey, Naomi Watts, Ken Watanabe","Drama, Fantasy, Mystery",6.1
+251,Cartel Land,2015,100,Matthew Heineman,"Tim Foley, José Manuel 'El Doctor' Mireles, Paco Valencia",Documentary,7.3
+252,Extinction,2015,112,Miguel Ángel Vivas,"Matthew Fox, Jeffrey Donovan, Quinn McColgan","Action, Adventure, Drama",5.8
+253,Maggie's Plan,2015,98,Rebecca Miller,"Greta Gerwig, Ethan Hawke, Julianne Moore","Comedy, Drama, Romance",6.2
+254,Hot Girls Wanted,2015,84,"Jill Bauer, Ronna Gradus","Stella May, Riley Reynolds, Rachel Bernard","Documentary, Crime",6.1
+255,The Assassin,2015,105,Hsiao-Hsien Hou,"Shu Qi, Chang Chen, Yun Zhou","Action, Drama, History",6.3
+256,The Second Mother,2015,112,Anna Muylaert,"Regina Casé, Helena Albergaria, Michel Joelsas","Comedy, Drama",7.8
+257,Our Story,2015,97,Yasin Uslu,"Cansel Elcin, Haluk Piyes, Sera Tokdemir",Drama,5.4
+258,Our Little Sister,2015,127,Hirokazu Koreeda,"Haruka Ayase, Masami Nagasawa, Kaho","Drama, Family",7.6
+259,The Overnight,2015,79,Patrick Brice,"Adam Scott, Taylor Schilling, Jason Schwartzman","Comedy, Mystery",6.1
+260,Final Girl,2015,84,Tyler Shields,"Abigail Breslin, Wes Bentley, Logan Huffman","Horror, Thriller",4.7
+261,Ronaldo,2015,92,Anthony Wonke,"Dolores Aveiro, Hugo Aveiro, Georgie Bingham","Documentary, Biography, Sport",6.3
+262,Dheepan,2015,115,Jacques Audiard,"Jesuthasan Antonythasan, Kalieaswari Srinivasan, Claudine Vinasithamby","Crime, Drama",7.2
+263,Momentum,2015,96,Stephen S. Campanelli,"Olga Kurylenko, James Purefoy, Morgan Freeman","Action, Crime, Thriller",5.5
+264,Grandma,2015,79,Paul Weitz,"Lily Tomlin, Julia Garner, Marcia Gay Harden","Comedy, Drama",6.7
+265,Vice,2015,96,Brian A. Miller,"Thomas Jane, Bruce Willis, Ambyr Childers","Action, Sci-Fi, Thriller",4.2
+266,Home Sweet Hell,2015,98,Anthony Burns,"Katherine Heigl, Patrick Wilson, Madison Wolfe","Comedy, Crime, Thriller",5.5
+267,Demonic,2015,83,Will Canon,"Dustin Milligan, Scott Mechlowicz, Cody Horn","Horror, Mystery, Thriller",5.3
+268,Taxi,2015,82,Jafar Panahi,"Jafar Panahi, Hana Saeidi, Nasrin Sotoudeh","Comedy, Drama",7.3
+269,Howl,2015,92,Paul Hyett,"Elliot Cowan, Rosie Day, Calvin Dean","Action, Fantasy, Horror",5.5
+270,Telling Tales,2015,103,Burak Aksak,"Fatih Artman, Hande Dogandemir, Devrim Yakut","Comedy, Fantasy, Romance",7.3
+271,War Room,2015,120,Alex Kendrick,"Priscilla C. Shirer, T.C. Stallings, Karen Abercrombie",Drama,6.5
+272,They Call Me Jeeg Robot,2015,112,Gabriele Mainetti,"Claudio Santamaria, Luca Marinelli, Ilenia Pastorelli","Action, Comedy, Drama",7.0
+273,Minimalism: A Documentary About the Important Things,2015,78,Matt D'Avella,"Dan Harris, Ryan Nicodemus, Rick Hanson",Documentary,6.6
+274,I Spit on Your Grave: Vengeance Is Mine,2015,92,Richard Schenkman,"Sarah Butler, Jen Landon, Doug McKeon","Horror, Thriller",5.1
+275,Pyaar Ka Punchnama 2,2015,137,Luv Ranjan,"Kartik Aaryan, Omkar Kapoor, Sunny Singh","Comedy, Drama, Romance",7.2
+276,Ashby,2015,100,Tony McNamara,"Mickey Rourke, Nat Wolff, Emma Roberts","Comedy, Crime, Drama",6.4
+277,Attack on Titan Part 1,2015,98,Shinji Higuchi,"Haruma Miura, Kiko Mizuhara, Kanata Hongô","Action, Adventure, Drama",5.0
+278,RangiTaranga,2015,149,Anup Bhandari,"Nirup Bhandari, Radhika Narayan, Avantika Shetty","Mystery, Thriller",8.1
+279,Area 51,2015,91,Oren Peli,"Reid Warner, Darrin Bragg, Ben Rovner","Horror, Mystery, Sci-Fi",4.3
+280,Emelie,2015,82,Michael Thelin,"Sarah Bolger, Joshua Rush, Carly Adams","Horror, Mystery, Thriller",5.4
+281,Suck Me Shakespeer 2,2015,115,Bora Dagtekin,"Elyas M'Barek, Jella Haase, Karoline Herfurth",Comedy,5.9
+282,Rams,2015,93,Grímur Hákonarson,"Sigurður Sigurjónsson, Theodór Júlíusson, Charlotte Bøving",Drama,7.2
+283,Infini,2015,110,Shane Abbess,"Daniel MacPherson, Grace Huang, Luke Hemsworth","Horror, Sci-Fi, Thriller",5.3
+284,Return to Sender,2015,92,Fouad Mikati,"Rosamund Pike, Shiloh Fernandez, Nick Nolte","Drama, Thriller",5.1
+285,Parallels,2015,83,Christopher Leone,"Mark Hapka, Jessica Rothe, Eric Jungmann","Action, Sci-Fi",6.0
+286,Men & Chicken,2015,104,Anders Thomas Jensen,"David Dencik, Mads Mikkelsen, Nikolaj Lie Kaas","Comedy, Drama, Mystery",6.7
+287,"What Happened, Miss Simone?",2015,101,Liz Garbus,"Nina Simone, Lisa Simone Kelly, Roger Nupie","Documentary, Biography, Music",7.6
+288,The Miracle,2015,136,Mahsun Kirmizigül,"Talat Bulut, Mert Turak, Mahsun Kirmizigül","Comedy, Drama, History",7.6
+289,Lemonade,2015,110,Ali Atay,"Ertan Saban, Serkan Keskin, Funda Eryigit","Comedy, Drama",7.4
+290,Tales of Halloween,2015,97,"Darren Lynn Bousman, Axelle Carolyn, Adam Gierasch","Adrienne Barbeau, Hunter Smit, Cameron Easton","Adventure, Comedy, Fantasy",5.5
+291,Intruders,2015,90,Adam Schindler,"Rory Culkin, Leticia Jimenez, Jack Kesy","Drama, Horror, Thriller",5.7
+292,The Clan,2015,108,Pablo Trapero,"Guillermo Francella, Gastón Cocchiarale, Peter Lanzani","Biography, Crime, Drama",6.9
+293,My King,2015,124,Maïwenn,"Vincent Cassel, Emmanuelle Bercot, Louis Garrel","Drama, Romance",7.1
+294,Battle for Sevastopol,2015,110,Sergey Mokritskiy,"Yuliya Peresild, Evgeniy Tsyganov, Oleg Vasilkov","Action, Biography, Drama",7.0
+295,The Meddler,2015,103,Lorene Scafaria,"Susan Sarandon, Rose Byrne, J.K. Simmons","Comedy, Drama, Romance",6.3
+296,The Escort,2015,88,Will Slocombe,"Lyndsy Fonseca, Michael Doneger, Tommy Dewey","Comedy, Drama, Romance",6.0
+297,Louder Than Bombs,2015,109,Joachim Trier,"Jesse Eisenberg, Gabriel Byrne, Isabelle Huppert",Drama,6.6
+298,Forsaken,2015,90,Jon Cassar,"Esther Purves-Smith, Kiefer Sutherland, Donald Sutherland","Action, Drama, Western",6.4
+299,NH 10,2015,115,Navdeep Singh,"Anushka Sharma, Neil Bhoopalam, Darshan Kumaar","Action, Crime, Drama",7.2
+300,Brothers,2015,156,Karan Malhotra,"Akshay Kumar, Sidharth Malhotra, Jackie Shroff","Action, Drama, Sport",6.4
+301,Truman,2015,108,Cesc Gay,"Ricardo Darín, Javier Cámara, Dolores Fonzi","Comedy, Drama",7.3
+302,Backtrack,2015,90,Michael Petroni,"Adrien Brody, Jenni Baird, Bruce Spence","Drama, Fantasy, Horror",5.9
+303,Ivy,2015,104,Tolga Karaçelik,"Nadir Saribacak, Hakan Karsak, Kadir Çermik","Drama, Fantasy, Thriller",7.9
+304,Charlie,2015,130,Martin Prakkat,"Dulquer Salmaan, Parvathy Thiruvothu, Aparna Gopinath","Adventure, Drama, Romance",8.1
+305,The Bronze,2015,100,Bryan Buckley,"Melissa Rauch, Gary Cole, Haley Lu Richardson","Comedy, Drama, Sport",6.1
+306,Srimanthudu,2015,158,Koratala Siva,"Mahesh Babu, Shruti Haasan, Jagapathi Babu","Action, Drama",7.5
+307,Freaks of Nature,2015,92,Robbie Pickering,"Nicholas Braun, Mackenzie Davis, Josh Fadem","Comedy, Horror, Sci-Fi",5.9
+308,Holding the Man,2015,127,Neil Armfield,"Ryan Corr, Sarah Snook, Francesco Ferdinandi","Biography, Drama, History",7.4
+309,My Scientology Movie,2015,99,John Dower,"Louis Theroux, Tom Cruise, Marty Rathbun",Documentary,6.6
+310,The Wolfpack,2015,90,Crystal Moselle,"Mukunda Angulo, Narayana Angulo, Susanne Angulo","Documentary, Biography",7.0
+311,A Christmas Horror Story,2015,99,"Grant Harvey, Steven Hoban, Brett Sullivan","William Shatner, George Buza, Rob Archer","Fantasy, Horror, Mystery",5.8
+312,Sweet Bean,2015,113,Naomi Kawase,"Kirin Kiki, Masatoshi Nagase, Kyara Uchida",Drama,7.4
+313,Freeheld,2015,103,Peter Sollett,"Julianne Moore, Elliot Page, Steve Carell","Biography, Drama, Romance",6.6
+314,Delibal,2015,117,Ali Bilgin,"Çagatay Ulusoy, Leyla Lydia Tugutlu, Hüseyin Avni Danyal","Drama, Romance",6.7
+315,Curve,2015,85,Iain Softley,"Julianne Hough, Teddy Sears, Penelope Mitchell","Horror, Thriller",5.4
+316,6 Years,2015,79,Hannah Fidell,"Taissa Farmiga, Ben Rosenfield, Lindsay Burdge","Drama, Romance",5.5
+317,Baskin,2015,97,Can Evrenol,"Mehmet Cerrahoglu, Görkem Kasal, Ergun Kuyucu","Horror, Thriller",5.8
+318,Rock the Kasbah,2015,106,Barry Levinson,"Bill Murray, Leem Lubany, Zooey Deschanel","Comedy, Music, War",5.5
+319,Queen of the Desert,2015,128,Werner Herzog,"Nicole Kidman, James Franco, Robert Pattinson","Adventure, Biography, Drama",5.7
+320,Strange Magic,2015,99,Gary Rydstrom,"Evan Rachel Wood, Elijah Kelley, Kristin Chenoweth","Animation, Adventure, Comedy",5.8
+321,Visaaranai,2015,117,Vetrimaaran,"Dinesh, Samuthirakani, Anandhi","Crime, Drama, Thriller",8.4
+322,Boruto: Naruto the Movie,2015,95,"Hiroyuki Yamashita, Toshiyuki Tsuru","Yûko Sanpei, Kokoro Kikuchi, Ryûichi Kijima","Animation, Action, Adventure",7.7
+323,Palm Trees in the Snow,2015,163,Fernando González Molina,"Mario Casas, Adriana Ugarte, Macarena García","Drama, Romance",7.3
+324,Air,2015,95,Christian Cantamessa,"Norman Reedus, Djimon Hounsou, Sandrine Holt","Drama, Sci-Fi, Thriller",5.1
+325,Muhammad: The Messenger of God,2015,162,Majid Majidi,"Mahdi Pakdel, Sareh Bayat, Mina Sadati","Biography, Drama, History",7.2
+326,The Club,2015,98,Pablo Larraín,"Alfredo Castro, Roberto Farías, Antonia Zegers","Drama, Mystery, Thriller",7.2
+327,Jenny's Wedding,2015,94,Mary Agnes Donoghue,"Katherine Heigl, Tom Wilkinson, Linda Emond","Comedy, Drama, Romance",5.6
+328,Extraction,2015,82,Steven C. Miller,"Bruce Willis, Kellan Lutz, Gina Carano","Action, Thriller",4.1
+329,Spare Parts,2015,114,Sean McNamara,"George Lopez, Jamie Lee Curtis, Carlos PenaVega","Biography, Drama, History",7.2
+330,Dügün Dernek 2: Sünnet,2015,112,Selçuk Aydemir,"Ahmet Kural, Murat Cemcir, Rasim Öztekin",Comedy,6.3
+331,The D Train,2015,101,"Andrew Mogel, Jarrad Paul","Jack Black, James Marsden, Kathryn Hahn","Comedy, Drama",5.1
+332,Ratter,2015,80,Branden Kramer,"Ashley Benson, Matt McGorry, Kaili Vernoff","Drama, Horror, Mystery",4.8
+333,Jeruzalem,2015,94,"Doron Paz, Yoav Paz","Yael Grobglas, Yon Tumarkin, Danielle Jadelyn","Horror, Sci-Fi, Thriller",4.8
+334,Soaked in Bleach,2015,90,Benjamin Statler,"Daniel Roebuck, Sarah Scott, August Emerson","Documentary, Crime",7.3
+335,The Perfect Guy,2015,100,David M. Rosenthal,"Sanaa Lathan, Michael Ealy, Morris Chestnut","Drama, Romance, Thriller",5.6
+336,Synchronicity,2015,101,Jacob Gentry,"Chad McKnight, Brianne Davis, AJ Bowen","Drama, Mystery, Romance",5.4
+337,Man Down,2015,90,Dito Montiel,"Shia LaBeouf, Jai Courtney, Gary Oldman","Drama, Thriller, War",6.0
+338,400 Days,2015,91,Matt Osterman,"Brandon Routh, Dane Cook, Caity Lotz","Mystery, Sci-Fi, Thriller",4.4
+339,Visions,2015,82,Kevin Greutert,"Isla Fisher, Anson Mount, Gillian Jacobs","Horror, Mystery",5.3
+340,A War,2015,115,Tobias Lindholm,"Pilou Asbæk, Tuva Novotny, Søren Malling","Crime, Drama, Thriller",7.0
+341,The Ones Below,2015,87,David Farr,"Clémence Poésy, David Morrissey, Stephen Campbell Moore","Drama, Thriller",6.1
+342,Superfast!,2015,99,"Jason Friedberg, Aaron Seltzer","Alex Ashbaugh, Dale Pavinski, Lili Mirojnick","Action, Comedy, Crime",4.2
+343,MSG: The Messenger of God,2015,197,"Jeetu Arora, Gurmeet Ram Rahim Singh","Gurmeet Ram Rahim Singh, Daniel Kaleb, Flora Saini","Action, Comedy, Drama",5.9
+344,Retribution,2015,102,Dani de la Torre,"Luis Tosar, Javier Gutiérrez, Elvira Mínguez","Action, Adventure, Crime",6.6
+345,A Royal Night Out,2015,97,Julian Jarrold,"Sarah Gadon, Bel Powley, Emily Watson","Comedy, Drama, Romance",6.5
+346,People Places Things,2015,85,Jim Strouse,"Jemaine Clement, Regina Hall, Jessica Williams","Comedy, Romance",6.8
+347,Into the Grizzly Maze,2015,94,David Hackl,"James Marsden, Thomas Jane, Piper Perabo","Action, Adventure, Horror",5.3
+348,4th Man Out,2015,86,Andrew Nackman,"Parker Young, Evan Todd, Chord Overstreet","Comedy, Drama",6.7
+349,Desierto,2015,88,Jonás Cuarón,"Gael García Bernal, Jeffrey Dean Morgan, Alondra Hidalgo","Action, Adventure, Drama",6.1
+350,Chi-Raq,2015,127,Spike Lee,"Nick Cannon, Teyonah Parris, Wesley Snipes","Comedy, Crime, Drama",5.9
+351,Blackway,2015,90,Daniel Alfredson,"Anthony Hopkins, Julia Stiles, Ray Liotta","Action, Mystery, Thriller",5.3
+352,One Wild Moment,2015,105,Jean-François Richet,"Vincent Cassel, François Cluzet, Lola Le Lann","Comedy, Drama, Romance",6.2
+353,Puli,2015,155,Chimbudeven,"Joseph Vijay, Sridevi, Sudeep","Action, Adventure, Fantasy",4.3
+354,Yennai Arindhaal,2015,168,Gautham Vasudev Menon,"Ajith Kumar, Arun Vijay, Trisha Krishnan","Action, Crime, Drama",7.3
+355,Miles Ahead,2015,100,Don Cheadle,"Don Cheadle, Emayatzy Corinealdi, Ewan McGregor","Biography, Drama, Music",6.4
+356,The Admiral,2015,151,Roel Reiné,"Frank Lammers, Sanne Langelaar, Barry Atsma","Action, Biography, Drama",7.0
+357,Naomi and Ely's No Kiss List,2015,89,Kristin Hanggi,"Victoria Justice, Pierson Fode, Matthew Daddario","Comedy, Drama, Romance",5.5
+358,The Lure,2015,92,Agnieszka Smoczynska,"Marta Mazurek, Michalina Olszanska, Kinga Preis","Drama, Fantasy, Horror",6.2
+359,Krisha,2015,83,Trey Edward Shults,"Krisha Fairchild, Alex Dobrenko, Robyn Fairchild",Drama,7.1
+360,The Family Fang,2015,105,Jason Bateman,"Jason Bateman, Nicole Kidman, Kathryn Hahn","Comedy, Drama, Mystery",6.1
+361,13 Minutes,2015,114,Oliver Hirschbiegel,"Christian Friedel, Katharina Schüttler, Burghart Klaußner","Biography, Drama, War",7.0
+362,Kill Your Friends,2015,103,Owen Harris,"Nicholas Hoult, Thomas Conroy, James Corden","Comedy, Crime, Music",6.0
+363,Strangerland,2015,112,Kim Farrant,"Nicole Kidman, Joseph Fiennes, Hugo Weaving","Drama, Mystery, Thriller",5.2
+364,Phantom,2015,136,Kabir Khan,"Saif Ali Khan, Katrina Kaif, Sabyasachi Chakrabarty","Action, Drama, Thriller",6.0
+365,Moonwalkers,2015,96,Antoine Bardou-Jacquet,"Rupert Grint, Ron Perlman, Robert Sheehan","Action, Comedy",6.1
+366,Kara Bela,2015,105,Burak Aksak,"Cengiz Bozkurt, Seda Bakan, Erkan Kolçak Köstendil","Action, Adventure, Comedy",6.7
+367,Requiem for the American Dream,2015,73,"Peter D. Hutchison, Kelly Nyks, Jared P. Scott","Spiro Agnew, William F. Buckley, Noam Chomsky","Documentary, Biography, News",8.0
+368,Virgin Mountain,2015,94,Dagur Kári,"Gunnar Jónsson, Ilmur Kristjánsdóttir, Sigurjón Kjartansson","Drama, Romance",7.4
+369,The Rezort,2015,91,Steve Barker,"Dougray Scott, Jessica De Gouw, Martin McCann","Horror, Sci-Fi, Thriller",5.3
+370,Liza the Fox-Fairy,2015,98,Károly Ujj Mészáros,"Mónika Balsai, Szabolcs Bede Fazekas, David Sakurai","Comedy, Fantasy, Romance",7.5
+371,Deep Web,2015,90,Alex Winter,"Ross Ulbricht, James Chaparro, Nicolas Christin",Documentary,6.9
+372,The Atticus Institute,2015,83,Chris Sparling,"Rya Kihlstedt, William Mapother, Sharon Maughan",Horror,5.5
+373,Dead Rising: Watchtower,2015,118,Zach Lipovsky,"Jesse Metcalfe, Meghan Ory, Virginia Madsen","Action, Horror",5.2
+374,Lazer Team,2015,102,Matt Hullum,"Burnie Burns, Gavin Free, Michael Jones","Action, Comedy, Sci-Fi",5.5
+375,Hyena Road,2015,120,Paul Gross,"Rossif Sutherland, Allan Hawco, David Richmond-Peck","Drama, War",6.5
+376,Criminal Activities,2015,94,Jackie Earle Haley,"Michael Pitt, Dan Stevens, Christopher Abbott","Crime, Drama, Thriller",5.8
+377,Singh Is Bliing,2015,141,Prabhu Deva,"Akshay Kumar, Amy Jackson, Lara Dutta","Action, Comedy, Drama",5.0
+378,Born to Be Blue,2015,97,Robert Budreau,"Ethan Hawke, Carmen Ejogo, Callum Keith Rennie","Biography, Drama, Music",6.8
+379,Closet Monster,2015,90,Stephen Dunn,"Aaron Abrams, Jack Fulton, Joanne Kelly","Drama, Fantasy, Mystery",7.0
+380,I'll See You in My Dreams,2015,92,Brett Haley,"Blythe Danner, Martin Starr, Sam Elliott","Comedy, Drama, Romance",6.7
+381,Worlds Apart,2015,113,Christopher Papakaliatis,"J.K. Simmons, Maria Kavoyianni, Andrea Osvárt","Drama, Romance",7.4
+382,Accidental Love,2015,100,David O. Russell,"Jessica Biel, Ray Brown, Jenny Gulley","Comedy, Romance",4.1
+383,Lila & Eve,2015,94,Charles Stone III,"Viola Davis, Aml Ameen, Ron Caldwell","Crime, Drama, Thriller",5.9
+384,They Look Like People,2015,80,Perry Blackshear,"MacLeod Andrews, Evan Dumouchel, Margaret Ying Drake","Drama, Horror, Mystery",5.8
+385,Life,2015,111,Anton Corbijn,"Robert Pattinson, Dane DeHaan, Peter Lucas","Biography, Drama",6.0
+386,Whispers,2015,90,Tammi Sutton,"Keeley Hazell, Craig Rees, Barbara Nedeljakova","Drama, Horror, Thriller",4.0
+387,Papanasam,2015,179,Jeethu Joseph,"Kamal Haasan, Gautami, Nivetha Thomas","Crime, Drama, Mystery",8.4
+388,Careful What You Wish For,2015,91,Elizabeth Allen Rosenbaum,"Nick Jonas, Kiki Harris, David Sherrill","Drama, Thriller",5.6
+389,Human,2015,263,Yann Arthus-Bertrand,"Luis Cancu, Atman, Berthony",Documentary,8.6
+390,Vedalam,2015,148,Siva,"Ajith Kumar, Shruti Haasan, Lakshmi Menon","Action, Drama",6.3
+391,April and the Extraordinary World,2015,105,"Christian Desmares, Franck Ekinci","Marion Cotillard, Marc-André Grondin, Philippe Katerine","Animation, Adventure, Comedy",7.2
+392,Veteran,2015,123,Ryoo Seung-wan,"Hwang Jung-min, Yoo Ah-in, Yoo Hae-jin","Action, Comedy, Crime",7.0
+393,My All-American,2015,118,Angelo Pizzo,"Aaron Eckhart, Finn Wittrock, Robin Tunney","Biography, Drama, Sport",7.2
+394,Tag,2015,85,Sion Sono,"Reina Triendl, Mariko Shinoda, Erina Mano","Action, Drama, Fantasy",6.1
+395,MSG 2 the Messenger,2015,134,Gurmeet Ram Rahim Singh,"Muntazir Ahmad, Charanpreet Insan, Honeypreet Insan","Comedy, Drama, Fantasy",7.0
+396,I Saw the Light,2015,123,Marc Abraham,"Tom Hiddleston, Elizabeth Olsen, Maddie Hasson","Biography, Drama, Music",5.8
+397,The Beauty Inside,2015,127,Jong-Yeol Baek,"Han Hyo-joo, Park Seo-joon, Juri Ueno","Drama, Fantasy, Romance",7.3
+398,No Deposit,2015,80,Frank D'Angelo,"Paul Amato, Daniel Baldwin, Jason Blicker",Drama,5.6
+399,Jem and the Holograms,2015,118,Jon M. Chu,"Aubrey Shea, Stefanie Scott, Aurora Perrineau","Adventure, Drama, Family",4.2
+400,Uppi 2,2015,135,Upendra,"Upendra, Kristina Akheeva, Parul Yadav","Action, Mystery, Thriller",7.8
+401,Do You Believe?,2015,120,Jon Gunn,"Mira Sorvino, Sean Astin, Alexa PenaVega",Drama,6.1
+402,Assassination,2015,140,Dong-hoon Choi,"Jun Ji-hyun, Lee Jung-jae, Ha Jung-woo","Action, Drama, Thriller",7.2
+403,Tumbledown,2015,105,Sean Mewshaw,"Rebecca Hall, Jason Sudeikis, Blythe Danner","Comedy, Drama, Music",6.2
+404,The New Classmate,2015,100,Ashwiny Iyer Tiwari,"Swara Bhasker, Riya Shukla, Ratna Pathak Shah","Drama, Family",8.2
+405,Racing Extinction,2015,90,Louie Psihoyos,"Elon Musk, Joel Sartore, Louie Psihoyos","Documentary, Adventure, News",8.2
+406,I Am a Hero,2015,126,Shinsuke Satô,"Yô Ôizumi, Kasumi Arimura, Masami Nagasawa","Action, Comedy, Horror",6.7
+407,Zipper,2015,112,Mora Stephens,"Patrick Wilson, Lena Headey, Ray Winstone","Drama, Thriller",5.8
+408,Spanish Affair 2,2015,99,Emilio Martínez Lázaro,"Dani Rovira, Karra Elejalde, Carmen Machi","Comedy, Romance",5.4
+409,Woodlawn,2015,123,"Andrew Erwin, Jon Erwin","Caleb Castille, Sean Astin, Jon Voight","Biography, Drama, History",6.5
+410,Aferim!,2015,108,Radu Jude,"Teodor Corban, Mihai Comanoiu, Toma Cuzin","Adventure, Comedy, Drama",7.6
+411,Shamitabh,2015,155,R Balki,"Amitabh Bachchan, Dhanush, Akshara Haasan",Drama,6.7
+412,Aligarh,2015,114,Hansal Mehta,"Manoj Bajpayee, Rajkummar Rao, Ashish Vidyarthi","Biography, Crime, Drama",7.8
+413,Listen to Me Marlon,2015,103,Stevan Riley,"Marlon Brando, Stella Adler, Bernardo Bertolucci","Documentary, Biography",8.1
+414,Temper,2015,147,Puri Jagannadh,"N.T. Rama Rao Jr., Kajal Aggarwal, Prakash Raj","Action, Crime, Drama",7.4
+415,Roy,2015,146,Vikramjit Singh,"Arjun Rampal, Jacqueline Fernandez, Ranbir Kapoor","Drama, Romance",3.2
+416,Babysitting 2,2015,93,"Nicolas Benamou, Philippe Lacheau","Philippe Lacheau, Alice David, Vincent Desagnat",Comedy,6.4
+417,My Mother,2015,106,Nanni Moretti,"Margherita Buy, John Turturro, Giulia Lazzarini",Drama,6.8
+418,Results,2015,105,Andrew Bujalski,"Guy Pearce, Cobie Smulders, Kevin Corrigan","Comedy, Romance",5.5
+419,Evolution,2015,81,Lucile Hadzihalilovic,"Max Brebant, Roxane Duran, Julie-Marie Parmentier","Drama, Horror, Mystery",5.9
+420,Heidi,2015,111,Alain Gsponer,"Anuk Steffen, Anna Schinz, Lilian Naef","Drama, Family",7.4
+421,The Fear of 13,2015,96,David Sington,"Herbert A. Fuchs, Sammy Silverwatch, Nick Yarris","Documentary, Biography, Crime",7.6
+422,The Bad Education Movie,2015,90,Elliot Hegarty,"Jack Whitehall, Charlie Wernham, Nikki Runeckles",Comedy,5.8
+423,The Dark Side of the Moon,2015,98,Stephan Rick,"Jürgen Prochnow, Moritz Bleibtreu, Nora Waldstätten","Mystery, Thriller",6.1
+424,Any Body Can Dance 2,2015,154,Remo D'Souza,"Prabhu Deva, Varun Dhawan, Shraddha Kapoor","Biography, Drama, Music",5.4
+425,A Girl Like Her,2015,91,Amy S. Weber,"Lexi Ainsworth, Hunter King, Jimmy Bennett",Drama,6.9
+426,Kill Zone 2,2015,120,Soi Cheang,"Tony Jaa, Jing Wu, Simon Yam","Action, Adventure, Crime",6.7
+427,Staten Island Summer,2015,108,Rhys Thomas,"Graham Phillips, Zack Pearlman, Ashley Greene","Comedy, Drama",5.6
+428,Martyrs,2015,86,"Kevin Goetz, Michael Goetz","Troian Bellisario, Bailey Noble, Kate Burton","Drama, Horror, Thriller",4.0
+429,Manifesto,2015,95,Julian Rosefeldt,"Cate Blanchett, Erika Bauer, Ruby Bustamante",Drama,6.5
+430,The True Cost,2015,92,Andrew Morgan,"Livia Giuggioli, Stella McCartney, Richard D. Wolff","Documentary, Drama, News",7.7
+431,Captive,2015,97,Jerry Jameson,"Kate Mara, David Oyelowo, Mimi Rogers","Action, Biography, Crime",5.4
+432,Hitchcock/Truffaut,2015,79,Kent Jones,"Wes Anderson, Peter Bogdanovich, David Fincher",Documentary,7.3
+433,The Nightmare,2015,91,Rodney Ascher,"Estrella Cristina, Nicole Bosworth, Siegfried Peters","Documentary, Horror",5.7
+434,S/O Satyamurthy,2015,162,Trivikram Srinivas,"Allu Arjun, Upendra, Samantha Ruth Prabhu","Action, Drama",7.1
+435,The Corpse of Anna Fritz,2015,76,Hèctor Hernández Vicens,"Alba Ribas, Cristian Valencia, Albert Carbó","Drama, Thriller",5.9
+436,James White,2015,85,Josh Mond,"Christopher Abbott, Cynthia Nixon, Kid Cudi",Drama,7.1
+437,Bloodsucking Bastards,2015,86,Brian James O'Connell,"Fran Kranz, Pedro Pascal, Joey Kern","Action, Comedy, Horror",5.7
+438,Pound of Flesh,2015,104,Ernie Barbarash,"Jean-Claude Van Damme, John Ralston, Aki Aleong","Action, Thriller",5.1
+439,Capsule,2015,91,Andrew Martin,"Edmund Kingsley, Lisa Greenwood, David Wayman","Drama, History, Sci-Fi",5.4
+440,Harbinger Down,2015,82,Alec Gillis,"Lance Henriksen, Camille Balsamo, Matt Winston","Horror, Sci-Fi",4.6
+441,The Childhood of a Leader,2015,115,Brady Corbet,"Bérénice Bejo, Liam Cunningham, Stacy Martin",Drama,6.2
+442,Blind Date,2015,90,Clovis Cornillac,"Mélanie Bernier, Clovis Cornillac, Lilou Fogli","Comedy, Romance",6.6
+443,Hamari Adhuri Kahani,2015,129,Mohit Suri,"Emraan Hashmi, Vidya Balan, Rajkummar Rao","Drama, Romance",6.8
+444,Queen of Earth,2015,90,Alex Ross Perry,"Elisabeth Moss, Katherine Waterston, Patrick Fugit","Drama, Mystery, Thriller",6.2
+445,Welcome Back,2015,152,Anees Bazmee,"John Abraham, Anil Kapoor, Nana Patekar","Action, Comedy, Crime",4.3
+446,O Kadhal Kanmani,2015,139,Mani Ratnam,"Dulquer Salmaan, Nithya Menen, Prakash Raj","Drama, Musical, Romance",7.4
+447,Pocket Listing,2015,92,Conor Allyn,"James Jurdi, Jessica Clark, Rob Lowe","Action, Comedy, Crime",5.0
+448,3 Generations,2015,92,Gaby Dellal,"Naomi Watts, Elle Fanning, Susan Sarandon",Drama,6.0
+449,The Tiger,2015,139,Park Hoon-jung,"Choi Min-sik, Hitanshu Barik, Baek Dong-hyeon","Action, Adventure, Drama",7.2
+450,Potato Salad,2015,81,Michael David Pate,"Joyce Ilg, Torge Oelrich, Otto Waalkes","Comedy, Horror",1.3
+451,Hunterrr,2015,141,Harshavardhan Kulkarni,"Gulshan Devaiah, Radhika Apte, Sai Tamhankar","Comedy, Romance",7.0
+452,Smosh: The Movie,2015,84,Alex Winter,"Ian Hecox, Anthony Padilla, Michael Ian Black","Adventure, Comedy, Fantasy",3.3
+453,Landmine Goes Click,2015,105,Levan Bakhia,"Sterling Knight, Spencer Locke, Kote Tolordava","Action, Crime, Drama",5.8
+454,The Measure of a Man,2015,91,Stéphane Brizé,"Vincent Lindon, Karine de Mirbeck, Matthieu Schaller",Drama,6.8
+455,Digging for Fire,2015,85,Joe Swanberg,"Jake Johnson, Rosemarie DeWitt, Orlando Bloom","Comedy, Drama",5.8
+456,All Roads Lead to Rome,2015,90,Ella Lemhagen,"Sarah Jessica Parker, Raoul Bova, Claudia Cardinale","Comedy, Drama, Romance",4.9
+457,San Andreas Quake,2015,84,John Baumgartner,"Jhey Castles, Jason Woods, Grace Van Dien","Action, Adventure, Drama",2.2
+458,Disorder,2015,98,Alice Winocour,"Matthias Schoenaerts, Diane Kruger, Paul Hamy","Drama, Thriller",6.2
+459,Regular Show: The Movie,2015,70,J.G. Quintel,"J.G. Quintel, William Salyers, Sam Marin","Animation, Action, Adventure",7.4
+460,April 9th,2015,93,Roni Ezra,"Pilou Asbæk, Lars Mikkelsen, Gustav Dyekjær Giese","Drama, History, War",6.6
+461,Those People,2015,89,Joey Kuhn,"Jonathan Gordon, Jason Ralph, Haaz Sleiman","Drama, Romance",6.5
+462,I Am Dragon,2015,110,Indar Dzhendubaev,"Matvey Lykov, Mariya Poezzhaeva, Stanislav Lyubshin","Adventure, Fantasy, Romance",6.8
+463,Barney Thomson,2015,96,Robert Carlyle,"Robert Carlyle, Emma Thompson, Ray Winstone","Comedy, Crime",6.2
+464,Mountains May Depart,2015,126,Jia Zhang-ke,"Tao Zhao, Yi Zhang, Liang Jingdong","Drama, Romance",6.9
+465,The Anthem of the Heart,2015,119,Tatsuyuki Nagai,"Inori Minase, Kôki Uchiyama, Sora Amamiya","Animation, Drama, Family",7.3
+466,Shaandaar,2015,144,Vikas Bahl,"Shahid Kapoor, Alia Bhatt, Pankaj Kapur","Comedy, Drama, Romance",3.7
+467,1944,2015,100,Elmo Nüganen,"Kaspar Velberg, Kristjan Üksküla, Maiken Pius","Drama, History, War",7.0
+468,Steve Jobs: The Man in the Machine,2015,128,Alex Gibney,"Steve Jobs, Alex Gibney, Steve Wozniak","Documentary, Biography",6.9
+469,Life on the Line,2015,97,David Hackl,"John Travolta, Kate Bosworth, Devon Sawa","Action, Thriller",5.2
+470,Bombay Velvet,2015,149,Anurag Kashyap,"Ranbir Kapoor, Anushka Sharma, Karan Johar","Action, Crime, Drama",5.5
+471,Every Thing Will Be Fine,2015,118,Wim Wenders,"James Franco, Peter Miller, Gilbert Wahiakeron",Drama,5.5
+472,Best of Enemies: Buckley vs. Vidal,2015,87,"Robert Gordon, Morgan Neville","Gore Vidal, William F. Buckley, Dick Cavett","Documentary, Biography, History",7.6
+473,The Hunting Ground,2015,103,Kirby Dick,"Andrea Pino, Annie Clark, Claire Potter",Documentary,7.4
+474,Kis Kisko Pyaar Karoon,2015,133,"Abbas Alibhai Burmawalla, Mastan Alibhai Burmawalla, Abinash Rout","Kapil Sharma, Simran Kaur Mundi, Manjari Fadnnis","Comedy, Romance",5.6
+475,Bound to Vengeance,2015,93,J.M Cravioto,"Tina Ivlev, Richard Tyson, Bianca Malinowski","Horror, Thriller",5.6
+476,Walt Before Mickey,2015,107,Khoa Le,"Thomas Ian Nicholas, Jon Heder, Armando Gutierrez","Biography, Drama",5.9
+477,The Great Beauty,2015,61,Gianluca Jodice,"Toni Servillo, Paolo Sorrentino, Carlo Verdone",Documentary,8.1
+478,Already Tomorrow in Hong Kong,2015,78,Emily Ting,"Jamie Chung, Bryan Greenberg, Richard Ng","Comedy, Romance",6.4
+479,De Palma,2015,110,"Noah Baumbach, Jake Paltrow","Brian De Palma, Mark Hamill, Amy Irving","Documentary, Biography",7.4
+480,13 Cameras,2015,87,Victor Zarcoff,"Neville Archambault, Sean Carrigan, PJ McCabe","Crime, Horror, Thriller",5.2
+481,Our Times,2015,134,Yu Shan Chen,"Vivian Sung, Talu Wang, Dino Lee","Comedy, Romance",7.4
+482,Wolf Totem,2015,121,Jean-Jacques Annaud,"Shaofeng Feng, Shawn Dou, Ankhnyam Ragchaa","Adventure, Drama",6.6
+483,The Adderall Diaries,2015,87,Pamela Romanowsky,"James Franco, Ed Harris, Amber Heard","Crime, Drama, Mystery",5.1
+484,Exeter,2015,91,Marcus Nispel,"Stephen Lang, Kevin Chapman, Kelly Blatz","Horror, Mystery, Thriller",4.5
+485,Cool Cat Saves the Kids,2015,75,Derek Savage,"Vivica A. Fox, Erik Estrada, Derek Savage","Crime, Family, Mystery",3.4
+486,The Sand,2015,84,Isaac Gabaeff,"Brooke Butler, Cleo Berry, Cynthia Murell","Comedy, Horror, Sci-Fi",3.8
+487,Terminus,2015,94,Marc Furmie,"Jai Koutrae, Todd Lasance, Kendra Appleton","Drama, Sci-Fi",5.3
+488,Attack on Titan: Part 2,2015,87,Shinji Higuchi,"Haruma Miura, Hiroki Hasegawa, Kanata Hongô","Action, Adventure, Fantasy",4.7
+489,Demon,2015,94,Marcin Wrona,"Itay Tiran, Agnieszka Zulewska, Andrzej Grabowski","Drama, Fantasy, Horror",6.1
+490,Pressure,2015,91,Ron Scalpello,"Danny Huston, Matthew Goode, Joe Cole","Drama, Thriller",5.6
+491,Parched,2015,116,Leena Yadav,"Tannishtha Chatterjee, Radhika Apte, Lehar Khan",Drama,7.5
+492,The People Vs. Fritz Bauer,2015,105,Lars Kraume,"Burghart Klaußner, Ronald Zehrfeld, Lilith Stangenberg","Biography, Drama, Thriller",7.1
+493,Wolf Warrior,2015,90,Jing Wu,"Jing Wu, Yu Nan, Dahong Ni","Action, Crime, Thriller",5.3
+494,Alienated,2015,81,Brian Ackley,"George Katt, Jen Burry, Taylor Negron","Drama, Romance",3.3
+495,Uncanny,2015,85,Matthew Leutwyler,"Mark Webber, David Clayton Rogers, Lucy Griffiths","Drama, Horror, Sci-Fi",6.2
+496,Ten Thousand Saints,2015,113,"Shari Springer Berman, Robert Pulcini","Ethan Hawke, Asa Butterfield, Hailee Steinfeld","Comedy, Drama, Music",5.9
+497,The Runner,2015,90,Austin Stark,"Nicolas Cage, Sarah Paulson, Peter Fonda",Drama,4.7
+498,Ennu Ninte Moideen,2015,166,R.S. Vimal,"Prithviraj Sukumaran, Parvathy Thiruvothu, Saikumar","Biography, Drama, Romance",8.0
+499,Sicilian Vampire,2015,124,Frank D'Angelo,"Vittorio Altomare, Armand Assante, Daniel Baldwin","Crime, Drama, Horror",4.9
+500,Advantageous,2015,90,Jennifer Phang,"Jacqueline Kim, James Urbaniak, Freya Adams","Drama, Family, Sci-Fi",6.1
+501,Septembers of Shiraz,2015,110,Wayne Blair,"Adrien Brody, Salma Hayek, Shohreh Aghdashloo","Drama, History, Thriller",6.2
+502,Summertime,2015,105,Catherine Corsini,"Cécile de France, Izïa Higelin, Noémie Lvovsky","Drama, Romance",6.7
+503,I Am Michael,2015,98,Justin Kelly,"James Franco, Zachary Quinto, Emma Roberts","Biography, Drama, Romance",5.6
+504,Don Verdean,2015,90,Jared Hess,"Sam Rockwell, Amy Ryan, Jemaine Clement","Adventure, Comedy, Crime",5.4
+505,Sperm Whale,2015,87,Saman Moghadam,"Mahnaz Afshar, Sepand Amirsoleimani, Afshin Arashtanabieh","Comedy, Drama, Romance",6.3
+506,Rahasya,2015,123,Manish Gupta,"Kay Kay Menon, Ashish Vidyarthi, Tisca Chopra","Mystery, Thriller",7.5
+507,Monster Hunt,2015,117,Raman Hui,"Baihe Bai, Boran Jing, Wu Jiang","Action, Adventure, Comedy",6.1
+508,Close Range,2015,80,Isaac Florentine,"Scott Adkins, Nick Chinlund, Caitlin Keats","Action, Crime, Thriller",5.1
+509,The Diabolical,2015,86,Alistair Legrand,"Ali Larter, Arjun Gupta, Max Rose","Horror, Sci-Fi",4.7
+510,I Smile Back,2015,85,Adam Salky,"Sarah Silverman, Josh Charles, Skylar Gaertner","Drama, Mystery, Romance",6.2
+511,The Boy,2015,111,Craig William Macneill,"David Morse, Jared Breeze, Rainn Wilson","Drama, Horror, Thriller",5.5
+512,Bite,2015,88,Chad Archibald,"Elma Begovic, Annette Wozniak, Denise Yuen",Horror,4.9
+513,The Ardennes,2015,96,Robin Pront,"Kevin Janssens, Jeroen Perceval, Veerle Baetens","Crime, Drama, Thriller",6.7
+514,Marguerite,2015,129,Xavier Giannoli,"Catherine Frot, André Marcon, Michel Fau","Comedy, Drama, Music",6.9
+515,Kocan Kadar Konus,2015,108,Kivanç Baruönü,"Ezgi Mola, Murat Yildirim, Nevra Serezli","Comedy, Drama, Fantasy",6.1
+516,Cemetery of Splendor,2015,122,Apichatpong Weerasethakul,"Jenjira Pongpas, Banlop Lomnoi, Jarinpattra Rueangram","Drama, Fantasy, Mystery",6.8
+517,Janis: Little Girl Blue,2015,103,Amy Berg,"Cat Power, Janis Joplin, Karleen Bennett","Documentary, Biography, Music",7.4
+518,Mojave,2015,93,William Monahan,"Oscar Isaac, Garrett Hedlund, Louise Bourgoin","Action, Adventure, Crime",5.2
+519,The Abandoned,2015,86,Eytan Rockaway,"Jason Patric, Louisa Krause, Mark Margolis","Horror, Mystery, Thriller",4.8
+520,The Daughter,2015,96,Simon Stone,"Geoffrey Rush, Nicholas Hope, Sam Neill",Drama,6.6
+521,Off Course,2015,104,Nacho G. Velilla,"Yon González, Julián López, Blanca Suárez","Comedy, Romance",5.8
+522,Waffle Street,2015,86,"Eshom Nelms, Ian Nelms","James Lafferty, Danny Glover, Julie Gonzalo","Comedy, Drama",6.2
+523,Sherpa,2015,96,Jennifer Peedom,"Russell Brice, Tim Medvetz, Pasang Tenzing Sherpa",Documentary,7.6
+524,Maari,2015,138,Balaji Mohan,"Dhanush, Kajal Aggarwal, Vijay Yesudas","Action, Comedy, Drama",6.4
+525,The Crew,2015,81,Julien Leclercq,"Sami Bouajila, Guillaume Gouix, Youssef Hajdi","Action, Crime, Drama",6.3
+526,The Great Gilly Hopkins,2015,99,Stephen Herek,"Sophie Nélisse, Kathy Bates, Glenn Close","Comedy, Drama, Family",6.5
+527,The Benefactor,2015,93,Andrew Renzi,"Richard Gere, Dakota Fanning, Theo James",Drama,5.2
+528,Naanum Rowdy Thaan,2015,139,Vignesh Shivan,"Vijay Sethupathi, Nayanthara, Parthiban Radhakrishnan","Action, Comedy, Drama",7.2
+529,Contracted: Phase II,2015,78,Josh Forbes,"Matt Mercer, Marianna Palka, Morgan Peter Brown","Drama, Horror, Thriller",5.0
+530,Hell and Back,2015,86,"Tom Gianas, Ross Shuman","Nick Swardson, Mila Kunis, Bob Odenkirk","Animation, Adventure, Comedy",5.4
+531,Klown Forever,2015,99,Mikkel Nørgaard,"Casper Christensen, Frank Hvam, Mia Lyhne","Comedy, Drama",6.2
+532,The Fencer,2015,99,Klaus Härö,"Märt Avandi, Ursula Ratasepp, Hendrik Toompere Jr.","Biography, Drama, History",7.1
+533,Diablo,2015,90,Lawrence Roeck,"Scott Eastwood, Walton Goggins, Camilla Belle","Action, Adventure, Drama",4.5
+534,Nina Forever,2015,98,"Ben Blaine, Chris Blaine","Cian Barry, Abigail Hardingham, Mandeep Dhillon","Comedy, Drama, Horror",5.6
+535,Stung,2015,87,Benni Diez,"Matt O'Leary, Jessica Cook, Lance Henriksen","Action, Adventure, Comedy",5.1
+536,Don't Be Bad,2015,103,Claudio Caligari,"Luca Marinelli, Alessandro Borghi, Silvia D'Amico","Crime, Drama",7.1
+537,Sons of Rizk,2015,103,Tarek Alarian,"Ahmed Ezz, Amr Youssef, Ahmad El-Fishawi","Action, Comedy, Crime",7.4
+538,Gridlocked,2015,110,Allan Ungar,"Dominic Purcell, Cody Hackman, Saul Rubinek",Action,5.8
+539,All Creatures Big And Small,2015,87,"Toby Genkel, Seán McCormack","Dermot Magennis, Callum Maloney, Tara Flynn","Animation, Adventure, Comedy",5.8
+540,Massu Engira Masilamani,2015,151,Venkat Prabhu,"Suriya, Nayanthara, Parthiban Radhakrishnan","Action, Comedy, Drama",5.9
+541,"Right Now, Wrong Then",2015,121,Hong Sang-soo,"Jeong Jae-yeong, Kim Min-hee, Youn Yuh-jung","Drama, Romance",7.1
+542,Under the Sun,2015,106,Vitaliy Manskiy,"Lee Zin-Mi, Yu-Yong, Hye-Yong",Documentary,7.4
+543,Indru Netru Naalai,2015,146,R. Ravikumar,"Vishnu Vishal, Miya George, Karunakaran","Comedy, Sci-Fi, Thriller",8.0
+544,Pathemari,2015,118,Salim Ahmed,"Mammootty, Sreenivasan, Jewel Mary",Drama,8.3
+545,Anesthesia,2015,90,Tim Blake Nelson,"Sam Waterston, Kristen Stewart, Corey Stoll","Crime, Drama",6.1
+546,The Fits,2015,72,Anna Rose Holmer,"Royalty Hightower, Alexis Neblett, Da'Sean Minor","Drama, Music",6.6
+547,Chevalier,2015,105,Athina Rachel Tsangari,"Vangelis Mourikis, Nikos Orfanos, Yorgos Pirpassopoulos","Comedy, Drama",6.2
+548,Daddy or Mommy,2015,85,Martin Bourboulon,"Laurent Lafitte, Marina Foïs, Alexandre Desrousseaux","Comedy, Drama, Romance",6.0
+549,A Perfect Man,2015,104,Yann Gozlan,"Pierre Niney, Ana Girardot, André Marcon","Drama, Thriller",6.8
+550,Most Likely to Die,2015,80,Anthony DiBlasi,"Chad Addison, Jake Busey, Tess Christiansen","Crime, Horror, Mystery",4.0
+551,1915,2015,82,"Garin Hovannisian, Alec Mouhibian","Simon Abkarian, Angela Sarafyan, Sam Page",Drama,3.6
+552,Tiger House,2015,80,Thomas Daley,"Kaya Scodelario, Ed Skrein, Dougray Scott","Action, Crime, Drama",5.2
+553,Summer of '92,2015,93,Kasper Barfoed,"Ulrich Thomsen, Henning Jensen, Mikkel Boe Følsgaard","Biography, Comedy, Drama",6.8
+554,My Big Night,2015,100,Álex de la Iglesia,"Raphael, Mario Casas, Pepón Nieto","Comedy, Romance",6.1
+555,Monkey King: Hero Is Back,2015,89,Xiaopeng Tian,"Lei Zhang, Zijie Lin, Wenlun Wu","Animation, Action, Adventure",6.7
+556,Gopala Gopala,2015,153,Kishore Kumar Pardasani,"Venkatesh Daggubati, Pawan Kalyan, Shriya Saran","Comedy, Drama, Fantasy",7.2
+557,Ma ma,2015,111,Julio Medem,"Penélope Cruz, Luis Tosar, Asier Etxeandia",Drama,6.4
+558,Twinsters,2015,89,"Samantha Futerman, Ryan Miyamoto","Skylar Astin, Anaïs Bordier, Jacques Bordier","Documentary, Biography",7.5
+559,Being Charlie,2015,97,Rob Reiner,"Nick Robinson, Common, Cary Elwes","Drama, Romance",6.2
+560,The Student and Mister Henri,2015,98,Ivan Calbérac,"Claude Brasseur, Guillaume de Tonquédec, Noémie Schmidt","Comedy, Drama",6.7
+561,He Named Me Malala,2015,88,Davis Guggenheim,"Malala Yousafzai, Ziauddin Yousafzai, Toor Pekai Yousafzai","Documentary, Biography",7.0
+562,Psycho-Pass: The Movie,2015,113,"Naoyoshi Shiotani, Katsuyuki Motohiro","Bryn Apprill, Major Attaway, Z. Charles Bolton","Animation, Action, Crime",7.1
+563,Tanna,2015,104,"Martin Butler, Bentley Dean","Mungau Dain, Marie Wawa, Marceline Rofit","Adventure, Drama, Romance",6.9
+564,The Girl in the Book,2015,86,Marya Cohn,"Emily VanCamp, Courtney Daniels, Jordan Lage",Drama,6.1
+565,The Death of Superman Lives: What Happened?,2015,104,Jon Schnepp,"Jon Schnepp, Charlie Oliver, Aaron Blossom","Documentary, Sci-Fi",7.1
+566,12 Rounds 3: Lockdown,2015,90,Stephen Reynolds,"Jonathan Good, Roger Cross, Daniel Cudmore","Action, Crime, Thriller",5.1
+567,The Dead Room,2015,80,Jason Stutter,"Jed Brophy, Jeffrey Thomas, Laura Petersen","Horror, Thriller",4.8
+568,Black,2015,95,"Adil El Arbi, Bilall Fallah","Sanâa Alaoui, Martha Canga Antonio, Aboubakr Bensaihi","Action, Crime, Drama",7.0
+569,The Funhouse Massacre,2015,90,Andy Palmer,"Jere Burns, Scottie Thompson, Matt Angel","Comedy, Horror",5.2
+570,The Surprise,2015,102,Mike van Diem,"Jeroen van Koningsbrugge, Georgina Verbaan, Jan Decleir","Comedy, Romance",6.7
+571,Yakuza Apocalypse,2015,115,Takashi Miike,"Hayato Ichihara, Riko Narumi, Shô Aoyagi","Action, Comedy, Horror",5.5
+572,The Witness,2015,89,"James D. Solomon, Jessica Robinson","William Genovese, Kitty Genovese, Charles Skoller","Documentary, Biography, Crime",7.0
+573,Kaili Blues,2015,113,Bi Gan,"Yongzhong Chen, Feiyang Luo, Lixun Xie","Drama, Mystery",7.3
+574,Band of Robbers,2015,95,"Aaron Nee, Adam Nee","Kyle Gallner, Adam Nee, Matthew Gray Gubler","Adventure, Comedy, Crime",6.0
+575,Rainbow,2015,106,Nagesh Kukunoor,"Hetal Gada, Krrish Chhabria, Vipin Sharma","Comedy, Drama",7.8
+576,God Willing,2015,87,Edoardo Maria Falcone,"Marco Giallini, Alessandro Gassmann, Laura Morante",Comedy,6.7
+577,Frenzy,2015,119,Emin Alper,"Mehmet Özgür, Berkay Ates, Tülin Özen","Crime, Drama, Mystery",7.2
+578,The Girl King,2015,106,Mika Kaurismäki,"Malin Buska, Sarah Gadon, Michael Nyqvist","Biography, Drama, History",5.9
+579,Haraamkhor,2015,90,"Shlok Sharma, Jatinkumar Jagdishbhai Patel","Nawazuddin Siddiqui, Shweta Tripathi, Trimala Adhikari","Drama, Romance",6.3
+580,Last Days in the Desert,2015,98,Rodrigo García,"Ewan McGregor, Ciarán Hinds, Tye Sheridan","Drama, Fantasy, History",5.6
+581,Stonewall,2015,129,Roland Emmerich,"Jeremy Irvine, Jonny Beauchamp, Joey King","Drama, History",5.4
+582,Welcome to Leith,2015,85,"Michael Beach Nichols, Christopher K. Walker","Ryan Schock, Heather Cook, Lee Cook",Documentary,6.9
+583,The Propaganda Game,2015,98,Álvaro Longoria,"Álvaro Longoria, Simon Cockerell, Kang Hyoin Gyu",Documentary,6.8
+584,Mojin: The Lost Legend,2015,127,Wuershan,"Kun Chen, Huang Bo, Shu Qi","Action, Adventure, Drama",5.9
+585,90 Minutes in Heaven,2015,121,Michael Polish,"Kate Bosworth, Hayden Christensen, Hudson Meek",Drama,4.9
+586,Night of the Living Deb,2015,85,Kyle Rankin,"Maria Thayer, Michael Cassidy, Julie Brister","Comedy, Horror, Romance",5.6
+587,American Hero,2015,86,Nick Love,"Stephen Dorff, Eddie Griffin, Luis Da Silva Jr.","Action, Comedy, Drama",5.0
+588,Lolo,2015,99,Julie Delpy,"Julie Delpy, Dany Boon, Vincent Lacoste",Comedy,5.7
+589,Spy Time,2015,93,Javier Ruiz Caldera,"Imanol Arias, Quim Gutiérrez, Alexandra Jiménez","Action, Comedy, Thriller",6.0
+590,Lost in the Sun,2015,95,Trey Nelson,"Josh Duhamel, Josh Wiggins, Lynn Collins","Action, Drama, Thriller",6.0
+591,Bhale Bhale Magadivoy,2015,137,Maruthi Dasari,"Nani, Lavanya Tripathi, Murli Sharma","Comedy, Romance",7.7
+592,Bravetown,2015,112,Daniel Duran,"Lucas Till, Kherington Payne, Josh Duhamel","Drama, Music",6.1
+593,A Tale of Love and Darkness,2015,95,Natalie Portman,"Natalie Portman, Gilad Kahana, Amir Tessler","Biography, Drama, History",6.0
+594,The Similars,2015,89,Isaac Ezban,"Gustavo Sánchez Parra, Cassandra Ciangherotti, Fernando Becerril","Horror, Mystery, Sci-Fi",5.8
+595,Audacity,2015,55,Eddie Roman,"Travis Owens, Molly Ritter, Ben Price","Drama, Horror",2.8
+596,The Squad,2015,92,Benjamin Rocher,"Jean Reno, Alban Lenoir, Caterina Murino","Action, Crime, Drama",5.7
+597,Mr. Six,2015,134,Guan Hu,"Xiaogang Feng, Hanyu Zhang, Qing Xu","Action, Crime, Drama",6.9
+598,Inside Men,2015,130,Min-ho Woo,"Lee Byung-hun, Cho Seung-woo, Jo Woo-jin","Action, Crime, Drama",7.0
+599,What We Become,2015,85,Bo Mikkelsen,"Benjamin Engell, Troels Lyby, Mille Dinesen","Horror, Thriller",5.5
+600,Back in Time,2015,95,Jason Aron,"Steven Spielberg, Michael J. Fox, Robert Zemeckis","Documentary, Family, History",6.3
+601,The Shamer's Daughter,2015,96,Kenneth Kainz,"Jakob Oftebro, Maria Bonnevie, Roland Møller","Adventure, Drama, Fantasy",6.0
+602,Summer Camp,2015,81,Alberto Marini,"Diego Boneta, Jocelin Donahue, Maiara Walsh",Horror,5.1
+603,Last Cab to Darwin,2015,123,Jeremy Sims,"Michael Caton, Ningali Lawford, Mark Coles Smith","Adventure, Comedy, Drama",7.2
+604,Cute & Dangerous,2015,113,"Özcan Deniz, Reyhan Pekar","Sükrü Özyildiz, Ayça Aysin Turan, Türkan Kiliç","Comedy, Romance",6.0
+605,Sijjin 2,2015,93,Alper Mestçi,"Bulut Akkale, Efsun Akkurt, Mana Alkoy","Horror, Thriller",6.1
+606,Flying Colors,2015,117,Nobuhiro Doi,"Kasumi Arimura, Nanami Abe, Morio Agata","Comedy, Drama",7.3
+607,Savageland,2015,82,"Phil Guidry, Simon Herbert, David Whelan","Heather Moore, Lars Nielsen, J.C. Carlos","Crime, Horror, Thriller",6.0
+608,Hitting the Apex,2015,138,Mark Neale,"Brad Pitt, Jorge Lorenzo, Jose Manuel Lorenzo","Documentary, Sport",8.1
+609,Monkey Kingdom,2015,81,"Mark Linfield, Alastair Fothergill",Tina Fey,Documentary,7.2
+610,The Girl in the Photographs,2015,95,Nick Simon,"Kal Penn, Claudia Lee, Kenny Wormald","Crime, Horror, Mystery",4.5
+611,Ghost in the Shell: The New Movie,2015,100,"Motonobu Hori, Shinji Itadaki, Toshiyuki Kôno","Maaya Sakamoto, Ken'ichirô Matsuda, Ikkyû Jaku","Animation, Action, Sci-Fi",6.6
+612,Songs My Brothers Taught Me,2015,98,Chloé Zhao,"John Reddy, Jashaun St. John, Irene Bedard",Drama,7.0
+613,Open Season: Scared Silly,2015,84,"David Feiss, Frantisek Vasa","Will Townsend, Donny Lucas, Melissa Sturm","Animation, Adventure, Comedy",5.0
+614,Meadowland,2015,105,Reed Morano,"Olivia Wilde, Luke Wilson, Giovanni Ribisi",Drama,5.8
+615,Capture the Flag,2015,94,Enrique Gato,"Dani Rovira, Michelle Jenner, Carme Calvell","Animation, Adventure, Comedy",5.8
+616,Tar Pit,2015,85,J. Christian Ingvordsen,"Stefanie Barbato, Juliana Aidén Martinez, J. Christian Ingvordsen","Action, Crime, Drama",5.1
+617,Partisan,2015,94,Ariel Kleiman,"Vincent Cassel, Jeremy Chabriel, Florence Mezzara",Drama,5.8
+618,From Afar,2015,93,Lorenzo Vigas,"Alfredo Castro, Luis Silva, Jericó Montilla","Drama, Romance",6.6
+619,Dark Moon Rising,2015,85,Tristan Price,"Anastasia Antonia, Eric Roberts, Khu","Fantasy, Horror",2.3
+620,Anegan,2015,154,K.V. Anand,"Dhanush, Karthik, Amyra Dastur","Action, Romance, Thriller",6.7
+621,Nadide Hayat,2015,118,Çagan Irmak,"Demet Akbag, Yetkin Dikinciler, Sevil Aki",Comedy,6.3
+622,Selam: Bahara Yolculuk,2015,126,Hamdi Alkan,"Gürol Güngör, Aslihan Güner, Miktibek Apazov","Biography, Drama, History",7.1
+623,Sunset Song,2015,135,Terence Davies,"Ken Blackburn, Mark Bonnar, Stuart Bowman",Drama,6.4
+624,Yok Artik,2015,99,Caner Özyurtlu,"Berkay Akin, Murat Akkoyunlu, Güven Murat Akpinar",Comedy,5.8
+625,Flytrap,2015,81,Stephen David Brooks,"Gabrielle Stone, Jonah Blechman, Jeremy Crutchley","Comedy, Drama, Sci-Fi",5.2
+626,Long Way North,2015,81,Rémi Chayé,"Christa Théret, Féodor Atkine, Thomas Sagols","Animation, Adventure, Drama",7.2
+627,#Horror,2015,97,Tara Subkoff,"Sadie Seelert, Haley Murphy, Bridget McGarry","Crime, Drama, Horror",3.1
+628,Attack on Titan: The Wings of Freedom,2015,120,Tetsurô Araki,"Yûki Kaji, Yui Ishikawa, Marina Inoue","Animation, Action, Fantasy",7.9
+629,Wild Horses,2015,100,Robert Duvall,"Robert Duvall, James Franco, Darien Willardson","Crime, Drama, Mystery",4.8
+630,Vendetta,2015,90,"Jen Soska, Sylvia Soska","Dean Cain, Paul Wight, Michael Eklund","Action, Drama",4.7
+631,Absolution,2015,96,Keoni Waxman,"Steven Seagal, Byron Mann, Howard Dell","Action, Crime, Thriller",4.4
+632,Mythica: The Darkspore,2015,107,Anne K. Black,"Melanie Stone, Adam Johnson, Jake Stormoen","Action, Adventure, Fantasy",5.2
+633,Too Late,2015,107,Dennis Hauck,"Dichen Lachman, Dash Mihok, Joanna Cassidy","Crime, Drama, Mystery",6.7
+634,The Preppie Connection,2015,95,Joseph Castelo,"Thomas Mann, Lucy Fry, Logan Huffman","Crime, Drama",6.1
+635,The Silenced,2015,99,Lee Hae-young,"Joo Bo-bi, Park Bo-young, Kim Dong-hyun","Horror, Mystery, Thriller",5.7
+636,Uttama Villain,2015,171,Ramesh Aravind,"Kamal Haasan, K. Balachander, K. Viswanath","Comedy, Drama",7.3
+637,Felix Manalo,2015,178,Joel Lamangan,"AJ Muhlach, Alan Paule, Alex Medina",Biography,4.2
+638,Riot,2015,87,John Lyde,"Matthew Reese, Dolph Lundgren, Danielle C. Ryan",Action,5.1
+639,Samurai Cop 2: Deadly Vengeance,2015,94,Gregory Hatanaka,"Mathew Karedas, Mark Frazer, Bai Ling","Action, Crime, Thriller",3.5
+640,Standing Tall,2015,120,Emmanuelle Bercot,"Catherine Deneuve, Rod Paradot, Benoît Magimel",Drama,6.9
+641,Road Games,2015,95,Abner Pastoll,"Andrew Simpson, Joséphine de La Baume, Frédéric Pierrot","Drama, Horror, Mystery",5.3
+642,My Golden Days,2015,123,Arnaud Desplechin,"Quentin Dolmaire, Lou Roy-Lecollinet, Mathieu Amalric","Drama, Romance",6.7
+643,Lake Eerie,2016,104,Chris Majors,"Lance Henriksen, Marilyn Ghigliotti, Betsy Baker","Horror, Sci-Fi, Thriller",4.0
+644,The Intruders,2015,92,Adam Massey,"Miranda Cosgrove, Donal Logue, Austin Butler","Drama, Horror, Mystery",4.5
+645,Pod,2015,78,Mickey Keating,"Lauren Ashley Carter, Dean Cates, Brian Morvant","Horror, Mystery, Sci-Fi",4.4
+646,Calla Lily,2015,83,Mark Penney,"Cynthia Stone, Rudolph Mendy, Jonah Kaplun",Drama,5.7
+647,Goodbye Mr. Loser,2015,104,"Da-Mo Peng, Fei Yan","Teng Shen, Li Ma, Zheng Yin","Comedy, Drama, Fantasy",6.7
+648,Beyond the Mask,2015,103,Chad Burns,"Andrew Cheney, John Rhys-Davies, Kara Killmer","Action, Adventure, Drama",5.1
+649,Angrej,2015,130,Simerjit Singh,"Amrinder Gill, Sargun Mehta, Aditi Sharma",Romance,8.5
+650,The High Sun,2015,123,Dalibor Matanic,"Tihana Lazovic, Goran Markovic, Nives Ivankovic","Drama, Romance, War",7.1
+651,Detective Chinatown,2015,136,Sicheng Chen,"Baoqiang Wang, Haoran Liu, He Chen","Action, Comedy, Mystery",6.6
+652,After the Ball,2015,101,Sean Garrity,"Portia Doubleday, Marc-André Grondin, Chris Noth",Comedy,5.8
+653,Jazbaa,2015,119,Sanjay Gupta,"Aishwarya Rai Bachchan, Irrfan Khan, Shabana Azmi","Drama, Thriller",5.7
+654,War Pigs,2015,91,Ryan Little,"Luke Goss, Dolph Lundgren, Chuck Liddell","Action, Drama, War",4.3
+655,Wizard School,2015,91,Erdi Dikmen,"Barbaros Dikmen, Selen Seyven, Enes Atis",Comedy,1.7
+656,Keith Richards: Under the Influence,2015,81,Morgan Neville,"Keith Richards, Anthony DeCurtis, Steve Jordan","Documentary, Music",7.1
+657,Holy Mess,2015,108,Helena Bergström,"Robert Gustafsson, Maria Lundqvist, Anton Lundqvist","Comedy, Drama",5.6
+658,Macadam Stories,2015,100,Samuel Benchetrit,"Isabelle Huppert, Gustave Kervern, Valeria Bruni Tedeschi","Comedy, Drama",7.0
+659,How to Plan an Orgy in a Small Town,2015,101,Jeremy LaLonde,"Jewel Staite, Ennis Esmer, Lauren Lee Smith","Comedy, Drama",5.5
+660,Chronic,2015,93,Michel Franco,"Tim Roth, Sarah Sutherland, Robin Bartlett",Drama,6.6
+661,I Am Chris Farley,2015,96,"Brent Hodge, Derik Murray","Christina Applegate, Tom Arnold, Dan Aykroyd","Documentary, Biography",7.4
+662,Içimdeki Ses,2015,93,Çagri Bayrak,"Engin Günaydin, Leyla Lydia Tugutlu, Füsun Demirel",Comedy,5.9
+663,Addicted to Fresno,2015,85,Jamie Babbit,"Judy Greer, Natasha Lyonne, Malcolm Barrett","Comedy, Crime, Drama",5.5
+664,Akron,2015,88,"Sasha King, Brian O'Donnell","Matthew Frias, Cailan Rose, Luis Gabriel Cañas","Drama, Romance",6.6
+665,All Things Must Pass,2015,94,Colin Hanks,"Russ Solomon, Michael Solomon, Heidi Cotler","Documentary, History, Music",7.3
+666,Rudhramadevi,2015,157,Gunasekhar,"Anushka Shetty, Allu Arjun, Rana Daggubati","Action, Biography, Drama",5.6
+667,88,2015,88,April Mullen,"Katharine Isabelle, Christopher Lloyd, Tim Doiron","Action, Thriller",4.9
+668,Bitter Lake,2015,136,Adam Curtis,"George Bush, George W. Bush, Joanne Herring",Documentary,8.1
+669,Man Vs.,2015,84,Adam Massey,"Chris Diamantopoulos, Chloe Bradt, Michael Cram","Horror, Sci-Fi, Thriller",5.6
+670,Niyazi Gül: Dörtnala,2015,106,Hakan Algül,"Ata Demirer, Demet Akbag, Sebnem Bozoklu",Comedy,4.5
+671,Tomorrow,2015,118,"Cyril Dion, Mélanie Laurent","Anthony Barnosky, Olivier De Schutter, Cyril Dion",Documentary,7.9
+672,Ask Sana Benzer,2015,115,A. Taner Elhan,"Burak Özçivit, Fahriye Evcen Özçivit, Selim Bayraktar",Drama,3.7
+673,One More Time,2015,98,Robert Edwards,"Christopher Walken, Amber Heard, Kelli Garner","Comedy, Drama, Music",5.0
+674,Miss Hokusai,2015,93,"Keiichi Hara, Stephanie Sheh, Michael Sinterniklaas","Yutaka Matsushige, Anne Watanabe, Erica Lindbeck","Animation, Biography, Drama",6.7
+675,What's Left of You,2015,117,Abdullah Oguz,"Neslihan Atagül, Ekin Koç, Zeynep Kankonde","Drama, Romance",6.5
+676,Always Watching: A Marble Hornets Story,2015,92,James Moran,"Alexandra Breckenridge, Christopher Rodriguez Marquette, Jake McDorman",Horror,4.7
+677,Be Here Now,2015,100,Lilibet Foster,"Jai Courtney, Andy Whitfield, Indigo Whitfield","Documentary, Biography, Drama",8.5
+678,The Bride,2015,96,Paula Ortiz,"Inma Cuesta, Álex García, Asier Etxeandia","Drama, Romance",6.6
+679,Containment,2015,77,Neil Mcenery-West,"Lee Ross, Sheila Reid, Gabriel Senior","Horror, Sci-Fi, Thriller",4.9
+680,Hate Story 3,2015,126,Vishal Pandya,"Sharman Joshi, Karan Singh Grover, Zareen Khan","Drama, Thriller",4.6
+681,Tab Hunter Confidential,2015,90,Jeffrey Schwarz,"Tab Hunter, John Waters, Robert Wagner","Documentary, Biography",7.5
+682,The Walking Deceased,2015,88,Scott Dow,"Tim Ogletree, Joey Oglesby, Troy Ogletree","Comedy, Horror",3.6
+683,Neon Bull,2015,101,Gabriel Mascaro,"Juliano Cazarré, Maeve Jinkings, Josinaldo Alves",Drama,6.8
+684,Uncle Nick,2015,93,Chris Kasick,"Brian Posehn, Paget Brewster, Missi Pyle",Comedy,5.9
+685,The Sense of Wonder,2015,100,Éric Besnard,"Virginie Efira, Benjamin Lavernhe, Lucie Fagedet","Comedy, Drama, Romance",6.8
+686,Daft Punk Unchained,2015,85,Hervé Martin-Delpierre,"Thomas Bangalter, Guy-Manuel De Homem-Christo, Skrillex","Documentary, Music",7.3
+687,Even Lambs Have Teeth,2015,79,Terry Miles,"Kirsten Zien, Tiera Skovbye, Garrett Black","Horror, Thriller",5.1
+688,Only the Dead,2015,77,"Bill Guttentag, Michael Ware","Abu Musab Al-Zarqawi, Michael Ware","Documentary, Biography, History",7.6
+689,Bang Gang: A Modern Love Story,2015,98,Eva Husson,"Finnegan Oldfield, Marilyn Lima, Lorenzo Lefèbvre","Drama, Romance",5.5
+690,The Pack,2015,88,Nick Robertson,"Jack Campbell, Anna Lise Phillips, Katie Moore","Horror, Thriller",5.0
+691,The Summer of Sangaile,2015,90,Alante Kavaite,"Julija Steponaityte, Aiste Dirziute, Jurate Sodyte","Drama, Romance",6.3
+692,Demonte Colony,2015,116,R. Ajay Gnanamuthu,"Arulnithi, Ramesh Thilak, Sananth","Horror, Thriller",7.0
+693,Henry Gamble's Birthday Party,2015,87,Stephen Cone,"Cole Doman, Joe Keery, Elizabeth Laidlaw",Drama,6.1
+694,Schneider vs. Bax,2015,96,Alex van Warmerdam,"Tom Dewispelaere, Alex van Warmerdam, Maria Kraakman","Comedy, Thriller",6.6
+695,All Hallows' Eve 2,2015,91,"Jesse Baget, Elias Benavidez, Andrés Borghi","Andrea Monier, Damien Monier, Helen Rogers",Horror,4.6
+696,Dark Summer,2015,81,Paul Solet,"Keir Gilchrist, Stella Maeve, Maestro Harrell","Horror, Thriller",4.3
+697,The Lovers,2015,109,Roland Joffé,"Josh Hartnett, Bipasha Basu, Tamsin Egerton","Action, Adventure, Romance",4.6
+698,The Forbidden Room,2015,130,"Guy Maddin, Evan Johnson","Roy Dupuis, Clara Furey, Louis Negin","Comedy, Mystery",6.2
+699,Tevar,2015,157,Amit Ravindernath Sharma,"Arjun Kapoor, Sonakshi Sinha, Manoj Bajpayee","Action, Drama, Romance",4.2
+700,Hellions,2015,80,Bruce McDonald,"Chloe Rose, Rachel Wilson, Rossif Sutherland","Drama, Horror, Thriller",4.2
+701,Bill,2015,94,Richard Bracewell,"Mathew Baynton, Simon Farnaby, Martha Howe-Douglas","Comedy, Family, History",6.6
+702,Dabbe 6: The Return,2015,160,Hasan Karacadag,"Elçin Atamgüç, Ömer Duran, Funda Eskioglu",Horror,5.5
+703,King Jack,2015,81,Felix Thompson,"Charlie Plummer, Cory Nichols, Christian Madsen","Adventure, Drama",6.9
+704,Abandoned,2015,86,John Laing,"Dominic Purcell, Peter Feeney, Owen Black","Adventure, Drama, Thriller",6.3
+705,Darling,2015,78,Mickey Keating,"Lauren Ashley Carter, Sean Young, Brian Morvant","Horror, Thriller",5.5
+706,Jawani Phir Nahi Ani,2015,156,Nadeem Baig,"Aziz Akhmedov, Mehwish Hayat, Mykola Udianskyi","Adventure, Comedy, Musical",7.3
+707,Kanche,2015,126,Radha Krishna Jagarlamudi,"Varun Tej, Pragya Jaiswal, Nikitin Dheer","Action, Drama, War",7.8
+708,Chhello Divas: A New Beginning,2015,138,Krishnadev Yagnik,"Yash Soni, Malhar Thakar, Janki Bodiwala",Comedy,8.3
+709,Parasyte: Part 2,2015,117,Takashi Yamazaki,"Tadanobu Asano, Jun Kunimura, Kazuki Kitamura","Action, Drama, Horror",6.5
+710,I Want to Live,2015,106,Karzan Kardozi,"Shndar Noradin Ali, Ahmed Noradin Ali, Noradin Khalaf Ali","Documentary, Adventure, Biography",8.0
+711,The Resurrection of Jake the Snake,2015,93,Steve Yu,"Steve Austin, Louie Benson, Joe Case","Documentary, Biography, Sport",7.8
+712,Ava's Possessions,2015,89,Jordan Galland,"Louisa Krause, Whitney Able, Deborah Rush","Comedy, Horror, Mystery",5.6
+713,Who is Subramanyam?,2015,150,Nag Ashwin,"Nani, Malvika Nair, Vijay Deverakonda","Adventure, Comedy, Drama",7.5
+714,Oru Vadakkan Selfie,2015,141,G. Prajith,"Nivin Pauly, Aju Varghese, Vineeth Sreenivasan","Comedy, Thriller",6.7
+715,Birdboy: The Forgotten Children,2015,76,"Pedro Rivero, Alberto Vázquez","Andrea Alzuri, Eba Ojanguren, Josu Cubero","Animation, Drama, Horror",7.2
+716,The Phoenix Incident,2015,82,Keith Arem,"Yuri Lowenthal, Travis Willingham, Troy Baker","Mystery, Sci-Fi, Thriller",4.9
+717,Ali Kundilli,2015,118,Bülent Isbilen,"Cem Gelinoglu, Ömer Acar, Sami Aksu",Comedy,5.4
+718,Ixcanul,2015,93,Jayro Bustamante,"María Mercedes Coroy, María Telón, Manuel Antún",Drama,7.1
+719,Numb,2015,90,Jason R. Goode,"Jamie Bamber, Marie Avgeropoulos, Aleks Paunovic","Action, Mystery, Thriller",5.5
+720,Entertainment,2015,103,Rick Alverson,"Gregg Turkington, John C. Reilly, Tye Sheridan",Drama,5.7
+721,Oddball,2015,95,Stuart McDonald,"Shane Jacobson, Sarah Snook, Alan Tudyk","Adventure, Family",6.4
+722,The Throne,2015,125,Lee Joon-ik,"Song Kang-ho, Yoo Ah-in, Moon Geun-young","Drama, History",7.1
+723,Katti Batti,2015,135,Nikkhil Advani,"Imran Khan, Kangana Ranaut, Abhishek Saha","Comedy, Drama, Romance",4.7
+724,Dolly Ki Doli,2015,98,Abhishek Dogra,"Malaika Arora, Karan Ashar, Mohd. Zeeshan Ayyub","Comedy, Romance",4.6
+725,The Treasure,2015,89,Corneliu Porumboiu,"Toma Cuzin, Adrian Purcarescu, Corneliu Cozmei",Comedy,6.6
+726,Hellstorm,2015,90,Kyle Hunt,"Gerhard Ausmeier, John DeNugent, Thomas Goodrich","Documentary, History, War",6.7
+727,Unexpected,2015,90,Kris Rey,"Cobie Smulders, Anders Holm, Gail Bean","Comedy, Drama",5.8
+728,Ithaca,2015,96,Meg Ryan,"Alex Neustaedter, Meg Ryan, Sam Shepard","Drama, War",5.5
+729,The Nightmare,2015,92,Akiz,"Carolyn Genzkow, Sina Tkotsch, Wilson Gonzalez","Drama, Horror, Mystery",6.5
+730,Andron,2015,100,Francesco Cinquemani,"Leo Howard, Gale Harold, Michelle Ryan","Action, Sci-Fi",2.7
+731,Manson Family Vacation,2015,84,J. Davis,"Jay Duplass, Linas Phillips, Leonora Pitts","Comedy, Drama, Thriller",5.8
+732,Microbe & Gasoline,2015,105,Michel Gondry,"Ange Dargent, Théophile Baquet, Diane Besnier","Adventure, Comedy, Drama",6.7
+733,Much Loved,2015,104,Nabil Ayouch,"Loubna Abidar, Asmaa Lazrak, Halima Karaouane",Drama,6.2
+734,Eisenstein in Guanajuato,2015,105,Peter Greenaway,"Elmer Bäck, Luis Alberti, Maya Zapata","Biography, Comedy, Drama",6.3
+735,Happy Hour,2015,317,Ryûsuke Hamaguchi,"Sachie Tanaka, Hazuki Kikuchi, Maiko Mihara",Drama,7.6
+736,Frankenstein,2015,89,Bernard Rose,"Xavier Samuel, Carrie-Anne Moss, Danny Huston","Horror, Sci-Fi, Thriller",5.1
+737,November Tenth,2015,99,Aryanto Yuniawan,"Reza Rahadian, Maudy Ayunda, Marlon Dance-Hooi","Animation, Action, Adventure",6.4
+738,Muck,2015,99,Steve Wolsh,"Lachlan Buchanan, Puja, Bryce Draper",Horror,2.7
+739,Robert,2015,90,Andrew Jones,"Suzanne Dallaway, Lee Bane, Flynn Allen","Drama, Horror, Mystery",3.0
+740,Journal d'une femme de chambre,2015,96,Benoît Jacquot,"Léa Seydoux, Vincent Lindon, Clotilde Mollet",Drama,5.5
+741,Heart Attack,2015,130,Nawapol Thamrongrattanarit,"Sunny Suwanmethanont, Davika Hoorne, Violette Wautier","Comedy, Drama, Romance",7.7
+742,Full Out,2015,90,Sean Cisterna,"Ana Golja, Jennifer Beals, Sarah Fisher","Biography, Drama, Family",6.3
+743,The Hoarder,2015,84,Matt Winn,"Mischa Barton, Robert Knepper, Emily Atack","Crime, Horror, Thriller",4.6
+744,The Lady in the Car with Glasses and a Gun,2015,93,Joann Sfar,"Freya Mavor, Benjamin Biolay, Elio Germano","Crime, Drama, Mystery",5.5
+745,Nausea,2015,112,Zeki Demirkubuz,"Zeki Demirkubuz, Sebnem Hassanisoughi, Öykü Karayel",Drama,6.2
+746,Gascoigne,2015,90,Jane Preston,"Paul Gascoigne, Vinnie Jones, Gary Lineker","Documentary, Biography, Sport",7.0
+747,Till We Meet Again,2015,105,Bank Tangjaitrong,"Johan Matton, Linnea Larsdotter Mikkelä, Emrhys Cooper","Adventure, Drama, Romance",5.7
+748,Little Forest: Winter/Spring,2015,120,Jun'ichi Mori,"Ai Hashimoto, Mayu Matsuoka, Yôichi Nukumizu",Drama,7.6
+749,SuperBob,2015,82,Jon Drever,"Brett Goldstein, Natalia Tena, Laura Haddock","Action, Comedy, Romance",5.9
+750,Francofonia,2015,88,Aleksandr Sokurov,"Louis-Do de Lencquesaing, Benjamin Utzerath, Vincent Nemeth","Drama, History",6.6
+751,Requirements to Be a Normal Person,2015,90,Leticia Dolera,"Leticia Dolera, Manuel Burque, Silvia Munt","Comedy, Romance",6.4
+752,Zoom,2015,96,Pedro Morelli,"Tyler Labine, Alison Pill, Michael Eklund","Animation, Comedy, Drama",6.0
+753,Dark Woods II,2015,93,Pål Øie,"Ellen Dorrit Petersen, Anders Baasmo, Tomas Norström",Horror,5.1
+754,Belaseshe,2015,141,"Shiboprosad Mukherjee, Nandita Roy, Jyoti Hazra","Soumitra Chatterjee, Swatilekha Sengupta, Rituparna Sengupta","Drama, Family",8.5
+755,Take Me to the River,2015,84,Matt Sobel,"Logan Miller, Robin Weigert, Josh Hamilton",Drama,6.2
+756,Angry Indian Goddesses,2015,115,Pan Nalin,"Amy Maghera, Rajshri Deshpande, Pavleen Gujral","Comedy, Crime, Drama",6.9
+757,The Pearl Button,2015,82,Patricio Guzmán,"Martín Calderón, Cristina, Patricio Guzmán",Documentary,7.6
+758,Departure,2015,109,Andrew Steggall,"Juliet Stevenson, Alex Lawther, Phénix Brossard","Drama, Romance",6.6
+759,Hero,2015,145,Nikkhil Advani,"Sooraj Pancholi, Athiya Shetty, Tigmanshu Dhulia","Action, Drama, Musical",3.6
+760,Ahora o nunca,2015,91,Maria Ripoll,"Dani Rovira, María Valverde, Jordi Sánchez","Comedy, Romance",5.2
+761,The Final Master,2015,109,Haofeng Xu,"Fan Liao, Song Jia, Wenli Jiang","Action, Drama",6.8
+762,The Cokeville Miracle,2015,94,T.C. Christensen,"Jasen Wade, Sarah Kent, Kimball Stinger","Drama, Family, History",5.6
+763,Girl Asleep,2015,77,Rosemary Myers,"Bethany Whitmore, Harrison Feldman, Amber McMahon","Comedy, Fantasy",6.1
+764,Christmas Eve,2015,95,Mitch Davis,"Patrick Stewart, Jon Heder, James Roday Rodriguez",Comedy,5.0
+765,Tig,2015,95,"Kristina Goolsby, Ashley York","Stephanie Allynne, Zach Galifianakis, Sarah Silverman","Documentary, Biography",7.4
+766,Slow Learners,2015,96,"Don Argott, Sheena M. Joyce","Adam Pally, Megan Neuringer, Bobby Spears Jr.","Comedy, Romance",5.8
+767,Be My Cat: A Film for Anne,2015,87,Adrian Tofei,"Adrian Tofei, Sonia Teodoriu, Florentina Hariton","Crime, Horror, Thriller",5.6
+768,In the Grayscale,2015,101,Claudio Marcone,"Francisco Celhay, Emilio Edwards, Daniela Ramírez","Drama, Romance",6.4
+769,Italiano medio,2015,90,Maccio Capatonda,"Maccio Capatonda, Herbert Ballerina, Enrico Venti",Comedy,6.1
+770,Estranged,2015,92,Adam Levins,"Joe Coen, Craig Conway, James Cosmo","Horror, Mystery, Thriller",5.4
+771,10 Days in a Madhouse,2015,111,Timothy Hines,"Caroline Barry, Christopher Lambert, Kelly LeBrock","Drama, History",5.7
+772,Some Kind of Hate,2015,82,Adam Egypt Mortimer,"Andrew Bryniarski, Justin Prentice, Ronen Rubinstein","Drama, Horror, Thriller",4.6
+773,Loev,2015,92,Sudhanshu Saria,"Dhruv Ganesh, Siddharth Menon, Shiv Panditt","Crime, Drama",5.9
+774,Finders Keepers,2015,82,"Bryan Carberry, Clay Tweel","John Wood, Shannon Whisnant, Mark Hamilton",Documentary,6.8
+775,Thithi,2015,123,Raam Reddy,"Thammegowda S., Channegowda, Abhishek H.N.",Drama,8.0
+776,Amar Akbar Anthony,2015,140,Nadirsha,"Prithviraj Sukumaran, Jayasurya, Indrajith Sukumaran","Comedy, Crime, Drama",6.6
+777,The Mask You Live In,2015,97,Jennifer Siebel Newsom,"Joe Herman, Michael Kimmel, Caroline Heldman","Documentary, News",7.6
+778,Hangman,2015,85,Adam Mason,"Jeremy Sisto, Kate Ashfield, Ryan Simpkins","Horror, Thriller",4.7
+779,Traumfrauen,2015,109,Anika Decker,"Hannah Herzsprung, Karoline Herfurth, Palina Rojinski",Comedy,5.4
+780,Re-Kill,2015,88,Valeri Milev,"Bruce Payne, Daniella Alonso, Roger Cross","Action, Horror",4.9
+781,Bourek,2015,90,Vladan Nikolic,"William Leroy, Katerina Misichroni, Robert Rees","Comedy, Drama",6.2
+782,The New Adventures of Aladdin,2015,107,Arthur Benzaquen,"Kev Adams, Jean-Paul Rouve, Vanessa Guide","Comedy, Fantasy",4.8
+783,Nasty Baby,2015,101,Sebastián Silva,"Sebastián Silva, Tunde Adebimpe, Kristen Wiig",Drama,5.7
+784,All Three of Us,2015,102,Kheiron,"Kheiron, Leïla Bekhti, Gérard Darmon","Comedy, Drama",7.2
+785,Why Me?,2015,125,Tudor Giurgiu,"Emilian Oprea, Mihai Constantin, Andreea Vasile","Drama, Thriller",7.5
+786,Touched with Fire,2015,106,Paul Dalio,"Katie Holmes, Luke Kirby, Christine Lahti","Drama, Romance",6.2
+787,Deep Dark,2015,79,Michael Medaglia,"Sean McGrath, Anne Sorce, Denise Poirier","Fantasy, Horror",5.0
+788,Shark Lake,2015,92,Jerry Dugan,"Dolph Lundgren, Sara Malakul Lane, Lily Brooks O'Briant",Horror,3.4
+789,Nothing in Return,2015,93,Daniel Guzmán,"Miguel Herrán, Antonio Bachiller, Antonia Guzmán",Drama,6.5
+790,Awaken,2015,89,Mark Atkins,"Jason London, Robert Davi, David Keith","Action, Horror, Mystery",3.4
+791,Crazy Rook,2015,110,Abolhassan Davoodi,"Tannaz Tabatabaei, Saber Abar, Saed Soheili","Drama, Mystery, Thriller",6.8
+792,Brothers of the Wind,2015,98,"Gerardo Olivares, Otmar Penker","Jean Reno, Tobias Moretti, Manuel Camacho","Adventure, Drama, Family",6.8
+793,Thanga Magan,2015,122,Velraj,"Dhanush, Samantha Ruth Prabhu, Amy Jackson","Drama, Romance",6.0
+794,The Last Rescue,2015,107,Eric Colley,"Brett Cullen, Cody Kasch, Gilles Marini","Action, Drama, War",4.4
+795,Two Countries,2015,154,Shafi,"Dileep, Mamta Mohandas, Aju Varghese","Comedy, Drama",6.9
+796,Reunion,2015,88,Taneli Mustonen,"Aku Hirviniemi, Niina Lahtinen, Annikki Hirviniemi",Comedy,5.1
+797,The Circle,2015,144,Levan Akin,"Josefin Asplund, Helena Engström, Miranda Frydman","Drama, Fantasy, Horror",5.8
+798,100 Days of Love,2015,153,Jenuse Mohamed,"Dulquer Salmaan, Nithya Menen, Sekhar Menon","Comedy, Romance",6.6
+799,Becoming Zlatan ...,2015,100,"Fredrik Gertten, Magnus Gertten","Zlatan Ibrahimovic, Hasse Borg, Priscilla Salazar-Janssens","Documentary, Biography, Sport",6.6
+800,A la mala,2015,99,"Pedro Pablo Ibarra, Pitipol Ybarra","Aislinn Derbez, Mauricio Ochmann, Aurora Papile",Comedy,6.3
+801,The Master Plan,2015,91,Alain Darborg,"Simon J. Berger, Alexander Karim, Torkel Petersson","Action, Adventure, Comedy",5.4
+802,The Unearthing,2015,60,Tristan James Jensen,"Riley Yeary, Angelina Masciopinto, Kaleb Miller","Family, Horror, Mystery",4.7
+803,"Stockholm, Pennsylvania",2015,99,Nikole Beckwith,"Saoirse Ronan, Cynthia Nixon, Jason Isaacs","Drama, Thriller",6.0
+804,Bruce Lee - The Fighter,2015,151,Sreenu Vaitla,"Ram Charan, Rakul Preet Singh, Kriti Kharbanda","Action, Comedy",5.6
+805,Twenty,2015,115,Lee Byeong-heon,"Kim Woo-bin, Lee Jun-ho, Kang Ha-neul","Comedy, Drama, Romance",6.8
+806,Seashore,2015,83,"Filipe Matzembacher, Marcio Reolon","Mateus Almada, Maurício Barcellos, Elisa Brites","Drama, Romance",6.0
+807,Bridgend,2015,104,Jeppe Rønde,"Hannah Murray, Josh O'Connor, Adrian Rawlins","Drama, Horror",5.4
+808,Thoongaa Vanam,2015,128,Rajesh M. Selva,"Kamal Haasan, Prakash Raj, Trisha Krishnan","Action, Crime, Thriller",6.9
+809,The Priests,2015,103,Jang Jae-hyun,"Kim Yoon-seok, Gang Dong-won, Kim Byeong-Ok","Horror, Mystery, Thriller",6.3
+810,Sweet Home,2015,80,Rafa Martínez,"Ingrid García Jonsson, Bruno Sevilla, Oriol Tarrida",Horror,5.2
+811,Katyar Kaljat Ghusali,2015,162,Subodh Bhave,"Sachin Pilgaonkar, Shankar Mahadevan, Subodh Bhave","Drama, Musical",8.7
+812,Dude Bro Party Massacre III,2015,91,"Tomm Jacobsen, Michael Rousselet, Jon Salmon","Alec Owen, Ben Gigli, Olivia Taylor Dudley","Comedy, Horror",6.0
+813,American Poltergeist,2015,78,Michael Rutkowski,"Luke Brandon Field, Donna Spangler, Simona Fusco","Horror, Thriller",2.0
+814,Nise: The Heart of Madness,2015,106,Roberto Berliner,"Glória Pires, Luciana Fregolente, Simone Mazzer","Biography, Drama, History",7.6
+815,The House on Pine Street,2015,111,"Aaron Keeling, Austin Keeling","Emily Goss, Taylor Bottles, Cathy Barnett","Drama, Horror, Mystery",5.2
+816,Saving Mr. Wu,2015,106,Sheng Ding,"Andy Lau, Ye Liu, Qianyuan Wang","Action, Crime, Drama",6.6
+817,Mythica: The Necromancer,2015,93,A. Todd Smith,"Melanie Stone, Adam Johnson, Jake Stormoen","Action, Adventure, Fantasy",5.3
+818,L'attesa,2015,100,Piero Messina,"Juliette Binoche, Giorgio Colangeli, Lou de Laâge",Drama,6.5
+819,Night Owls,2015,90,Charles Hood,"Adam Pally, Rosa Salazar, Rob Huebel","Comedy, Drama",6.2
+820,Heneral Luna,2015,118,Jerrold Tarog,"John Arcilla, Arron Villaflor, Mon Confiado","Action, Biography, History",7.2
+821,Dark,2015,93,Nick Basile,"Whitney Able, Alexandra Breckenridge, Steel Burkhardt","Drama, Thriller",3.5
+822,Heart of a Dog,2015,75,Laurie Anderson,"Laurie Anderson, Archie, Jason Berg",Documentary,7.0
+823,Anarchy Parlor,2015,98,"Devon Downs, Kenny Gage","Robert LaSardo, Jordan James Smith, Tiffany DeMarco",Horror,4.7
+824,Memories of the Sword,2015,120,Heung-sik Park,"Lee Byung-hun, Kim Go-eun, Lee Jun-ho","Action, Drama, History",6.3
+825,Flight World War II,2015,85,Emile Edwin Smith,"Faran Tahir, Robbie Kay, Aqueela Zoll","Action, Adventure, Sci-Fi",4.4
+826,I'm Off Then,2015,92,Julia von Heinz,"Devid Striesow, Martina Gedeck, Karoline Schuch",Comedy,6.1
+827,The Legendary Giulia and Other Miracles,2015,115,Edoardo Leo,"Luca Argentero, Edoardo Leo, Anna Foglietta",Comedy,6.8
+828,Bare,2015,90,Natalia Leite,"Dianna Agron, Paz de la Huerta, Chris Zylka","Drama, Romance",5.1
+829,Man vs Snake: The Long and Twisted Tale of Nibbler,2015,92,"Tim Kinzy, Andrew Seklir","Tim McVey, Walter Day, Dwayne Richard",Documentary,7.0
+830,Drunk Stoned Brilliant Dead,2015,98,Douglas Tirola,"Danny Abelson, Judd Apatow, Kevin Bacon","Documentary, History",7.2
+831,Enclave,2015,92,Goran Radovanovic,"Milena Jaksic, Filip Subaric, Nenad Stanojkovic",Drama,7.6
+832,Sword of Vengeance,2015,87,Jim Weedon,"Stanley Weber, Annabelle Wallis, Karel Roden","Action, Adventure, Drama",4.4
+833,Bad Roomies,2015,93,Jason Schnell,"Tommy Savas, Eric Pumphrey, Patrick Renna",Comedy,5.1
+834,Life Eternal,2015,123,Wolfgang Murnberger,"Josef Hader, Tobias Moretti, Nora Waldstätten","Comedy, Crime",7.2
+835,600 Miles,2015,85,Gabriel Ripstein,"Tim Roth, Kristyan Ferrer, Mónica Del Carmen","Drama, Thriller",5.5
+836,Body,2015,90,Malgorzata Szumowska,"Janusz Gajos, Maja Ostaszewska, Justyna Suwala","Comedy, Drama",6.4
+837,The Village,2015,82,Amadeu Artasona,"Pol Baulida, Liliana Cabal, Antonio de la Cruz","Horror, Mystery, Thriller",3.3
+838,Ingrid Bergman: In Her Own Words,2015,114,Stig Björkman,"Ingrid Bergman, Pia Lindström, Robertino Rossellini","Documentary, Biography",7.4
+839,Body,2015,75,"Dan Berk, Robert Olsen","Helen Rogers, Alexandra Turshen, Lauren Molina","Crime, Drama, Thriller",5.2
+840,Traders,2015,90,"Rachael Moriarty, Peter Murphy","Killian Scott, John Bradley, Nika McGuigan",Thriller,6.2
+841,All Through the House,2015,88,Todd Nunes,"Ashley Mary Nunes, Jessica Cameron, Melynda Kiring",Horror,4.4
+842,David and Goliath,2015,92,Timothy A. Chey,"Miles Sloman, Jerald Sokolowski, Paul Hughes","Action, Adventure, Drama",4.3
+843,Port of Call,2015,126,Philip Yung,"Aaron Kwok, Jessie Li, Michael Ning","Crime, Drama, Mystery",6.7
+844,Un + Une,2015,115,Claude Lelouch,"Jean Dujardin, Elsa Zylberstein, Christopher Lambert","Comedy, Drama, Romance",6.2
+845,Arabian Nights: Volume 1 - The Restless One,2015,125,Miguel Gomes,"Crista Alfaiate, Miguel Gomes, Martinho Cerqueira",Drama,6.9
+846,My Little Pony: Equestria Girls - Friendship Games,2015,72,"Ishi Rudell, Jayson Thiessen","Tara Strong, Rebecca Shoichet, Ashleigh Ball","Animation, Family, Fantasy",6.5
+847,Kaun Kitney Paani Mein,2015,112,Nila Madhab Panda,"Kunal Kapoor, Radhika Apte, Saurabh Shukla","Comedy, Drama, Family",6.1
+848,Navy Seals vs. Zombies,2015,97,Stanton Barrett,"Ed Quinn, Michael Dudikoff, Rick Fox","Action, Horror",3.3
+849,The Murder Case of Hana & Alice,2015,100,Shunji Iwai,"Yû Aoi, Anne Suzuki, Shôko Aida","Animation, Comedy, Crime",7.1
+850,Chuck Norris vs. Communism,2015,78,Ilinca Calugareanu,"Irina Margareta Nistor, Teodor Zamfir, Mircea Cojocaru","Documentary, Comedy, History",7.4
+851,Hamlet,2015,217,"Lyndsey Turner, Robin Lough","Benedict Cumberbatch, Ciarán Hinds, Sian Brooke",Drama,8.4
+852,Boy 7,2015,90,Lourens Blok,"Matthijs van de Sande Bakhuyzen, Ella-June Henrard, Tygo Gernandt","Action, Sci-Fi, Thriller",5.8
+853,No Stranger Than Love,2015,89,Nick Wernham,"Alison Brie, Justin Chatwin, Colin Hanks","Comedy, Romance",4.8
+854,One and Two,2015,90,Andrew Droz Palermo,"Kiernan Shipka, Timothée Chalamet, Elizabeth Reaser","Drama, Fantasy, Thriller",5.2
+855,Dharam Sankat Mein,2015,129,Fuwad Khan,"Naseeruddin Shah, Paresh Rawal, Annu Kapoor",Comedy,6.3
+856,Chronicles of Evil,2015,102,Woon-hak Baek,"Son Hyeon-ju, Ma Dong-seok, Choi Daniel","Crime, Drama, Mystery",6.8
+857,Made in France,2015,89,Nicolas Boukhrief,"Malik Zidi, Dimitri Storoge, François Civil","Crime, Drama, Thriller",6.2
+858,Nightlight,2015,85,"Scott Beck, Bryan Woods","Shelby Young, Carter Jenkins, Chloe Bridges","Horror, Thriller",4.4
+859,The Midnight Orchestra,2015,114,Jérôme Cohen-Olivar,"Avishay Benazra, Aziz Dadas, Gad Elmaleh","Comedy, Drama, History",6.7
+860,Sky,2015,100,Fabienne Berthaud,"Diane Kruger, Norman Reedus, Gilles Lellouche","Drama, Romance",5.8
+861,Rise of the Footsoldier: Part II,2015,111,Ricci Harnett,"Luke Mably, Charlie Heaton, Steven Berkoff","Biography, Crime, Drama",5.4
+862,Jack of the Red Hearts,2015,102,Janet Grillo,"AnnaSophia Robb, Famke Janssen, Scott Cohen","Drama, Family",7.0
+863,Anarkali,2015,160,Sachy,"Prithviraj Sukumaran, Biju Menon, Kabir Bedi","Drama, Musical, Romance",7.0
+864,Une famille à louer,2015,97,Jean-Pierre Améris,"Benoît Poelvoorde, Virginie Efira, François Morel","Comedy, Romance",5.5
+865,Ghoul,2015,86,Petr Jákl,"Jennifer Armour, Alina Golovlyova, Jeremy Isabella","Horror, Thriller",4.6
+866,Rendez-Vous,2015,100,Antoinette Beumer,"Loes Haverkort, Mark van Eeuwen, Evi van der Laken","Drama, Romance",5.6
+867,Courted,2015,98,Christian Vincent,"Fabrice Luchini, Sidse Babett Knudsen, Eva Lallier","Comedy, Crime, Drama",6.5
+868,Mr. X,2015,133,Vikram Bhatt,"Emraan Hashmi, Amyra Dastur, Tanmay Bhat","Action, Drama, Sci-Fi",3.7
+869,Jurassic City,2015,88,Sean Cain,"Ray Wise, Kevin Gage, Vernon Wells","Action, Adventure, Comedy",3.1
+870,4Got10,2015,84,Timothy Woodward Jr.,"Johnny Messner, Dolph Lundgren, Danny Trejo","Action, Crime, Thriller",4.1
+871,Publieke werken,2015,115,Joram Lürsen,"Gijs Scholten van Aschat, Jacob Derwig, Rifka Lodeizen","Drama, History",6.7
+872,The Treacherous,2015,133,Kyu-dong Min,"Ju Ji-hoon, Kim Kang-woo, Lim Ji-yeon","Crime, Drama, History",6.1
+873,Anguish,2015,91,Sonny Mallhi,"Ryan Simpkins, Annika Marks, Karina Logue","Drama, Horror",4.6
+874,Wild in Blue,2015,82,Matthew Berkowitz,"Frank Cermak Jr., Charlotte Ellen Price, Steve Railsback","Romance, Thriller",3.8
+875,Lamb,2015,97,Ross Partridge,"Ross Partridge, Oona Laurence, Jess Weixler",Drama,6.3
+876,Pokémon the Movie: Hoopa and the Clash of Ages,2015,79,Kunihiko Yuyama,"Rica Matsumoto, Ikue Ôtani, Mayuki Makiguchi","Animation, Action, Adventure",5.9
+877,Memories of the Wind,2015,124,Özcan Alper,"Onur Saylak, Tuba Büyüküstün, Mustafa Ugurlu",Drama,7.3
+878,Residue,2015,102,Alex Garcia Lopez,"Natalia Tena, Iwan Rheon, Jamie Draven","Drama, Horror, Mystery",5.3
+879,Valley of Love,2015,91,Guillaume Nicloux,"Isabelle Huppert, Gérard Depardieu, Dan Warner","Drama, Fantasy",6.1
+880,Pali Road,2015,92,Jonathan Lim,"Jackson Rathbone, Sung Kang, Michelle Chen","Drama, Fantasy, Mystery",6.9
+881,Lost After Dark,2015,89,Ian Kessner,"Sarah Fisher, Mark Wiebe, Jesse Camacho",Horror,4.8
+882,The Unspoken,2015,91,Sheldon Wilson,"Jodelle Ferland, Sunny Suljic, Pascale Hutton","Horror, Thriller",4.9
+883,The Heaven None Missed,2015,125,Kuntz Agus,"Fedi Nuril, Laudya Cynthia Bella, Raline Shah","Drama, Romance",7.4
+884,Broken Horses,2015,101,Vidhu Vinod Chopra,"Henry Shotwell, Thomas Jane, Nicholas Neve","Action, Crime, Drama",5.7
+885,You Carry Me,2015,155,Ivona Juka,"Lana Baric, Vojislav 'Voja' Brajovic, Helena Beljan","Action, Drama",6.9
+886,Anti-Social,2015,116,Reg Traviss,"Gregg Sulkin, Meghan Markle, Josh Myers",Crime,5.7
+887,River,2015,89,Jamie M. Dagg,"Rossif Sutherland, Sara Botsford, Douangmany Soliphanh",Thriller,6.0
+888,Alaska,2015,125,Claudio Cupellini,"Elio Germano, Astrid Bergès-Frisbey, Valerio Binasco","Drama, Romance",6.7
+889,See You in Valhalla,2015,82,Jarret Tarnol,"Sarah Hyland, Bret Harrison, Steve Howey","Comedy, Drama",5.3
+890,Bleeding Heart,2015,80,Diane Bell,"Jessica Biel, Zosia Mamet, Joe Anderson","Action, Drama, Mystery",5.1
+891,Operator,2015,88,"Amariah Olson, Obin Olson","Ving Rhames, Luke Goss, Mischa Barton","Action, Thriller",4.3
+892,The Manny,2015,110,"Matthias Schweighöfer, Torsten Künstler","Matthias Schweighöfer, Milan Peschel, Paula Hartmann","Comedy, Drama, Family",5.6
+893,Raiders!: The Story of the Greatest Fan Film Ever Made,2015,106,"Jeremy Coon, Tim Skousen","Chris Strompolos, Eric Zala, Jayson Lamb",Documentary,6.9
+894,Assassination Classroom,2015,110,Eiichirô Hasumi,"Ryôsuke Yamada, Masaki Suda, Maika Yamamoto","Action, Adventure, Comedy",6.1
+895,Embers,2015,85,Claire Carré,"Jason Ritter, Iva Gocheva, Greta Fernández","Drama, Mystery, Sci-Fi",5.4
+896,Coin Locker Girl,2015,110,Han Jun-hee,"Kim Hye-su, Kim Go-eun, Park Bo-gum","Action, Crime, Drama",6.7
+897,Abzurdah,2015,90,Daniela Goggi,"China Suárez, Esteban Lamothe, Gloria Carrá","Biography, Drama, Romance",5.4
+898,The Guardian Brothers,2015,103,"Gary Wang, Paulette Victor Lifton","Mike Birbiglia, Mel Brooks, Blanca Camacho","Animation, Comedy, Family",5.5
+899,Monk Comes Down the Mountain,2015,123,Kaige Chen,"Baoqiang Wang, Xuejian Li, Wei Fan","Action, Adventure, Comedy",5.5
+900,Ever Been to the Moon?,2015,90,Paolo Genovese,"Sabrina Impacciatore, Raoul Bova, Sergio Rubini","Comedy, Romance",6.2
+901,Creative Control,2015,97,Benjamin Dickinson,"Benjamin Dickinson, Nora Zehetner, Dan Gill","Drama, Sci-Fi",5.4
+902,Les Cowboys,2015,104,Thomas Bidegain,"François Damiens, Finnegan Oldfield, Agathe Dronne","Drama, Thriller, Western",6.6
+903,No Kids,2015,90,Ariel Winograd,"Diego Peretti, Maribel Verdú, Guadalupe Manent","Comedy, Romance",6.3
+904,Unnatural,2015,89,Hank Braxtan,"James Remar, Sherilyn Fenn, Ron Carlson","Action, Horror, Sci-Fi",3.9
+905,Junun,2015,54,Paul Thomas Anderson,"Jonny Greenwood, Ehtisham Khan Ajmeri, Nihal Khan","Documentary, Music",7.3
+906,London Road,2015,91,Rufus Norris,"Olivia Colman, Clare Burt, Rosalie Craig","Crime, Drama, Musical",5.3
+907,125 Years Memory,2015,132,Mitsutoshi Tanaka,"Seiyô Uchino, Kenan Ece, Shioli Kutsuna","Drama, History",7.1
+908,14+,2015,102,Andrey Zaytsev,"Gleb Kalyuzhnyy, Ulyana Vaskovich, Olga Ozollapinya","Drama, Romance",6.9
+909,Amongst Bees,2015,100,Ian Sbf,"Fábio Porchat, Irene Ravache, Marcos Veras","Comedy, Drama, Fantasy",6.7
+910,Kanchana 2,2015,166,Raghava Lawrence,"Raghava Lawrence, Taapsee Pannu, Kovai Sarala","Comedy, Horror",5.5
+911,Plan 9,2015,103,John Johnson,"Brian Krause, Sara Eshleman, Mister Lobo","Comedy, Drama, Fantasy",4.0
+912,B-Movie: Lust & Sound in West-Berlin 1979-1989,2015,92,"Jörg A. Hoppe, Heiko Lange, Klaus Maeck","Andi, Bela B., Blixa Bargeld","Documentary, Music",7.8
+913,Office,2015,111,Hong Won-chan,"Ko Ah-sung, Bae Sung-woo, Park Sung-woong","Drama, Mystery, Thriller",6.0
+914,Rajini Murugan,2015,149,Ponram,"Sivakarthikeyan, Raj Kiran, Keerthy Suresh","Comedy, Drama",5.9
+915,Field of Lost Shoes,2015,96,Sean McNamara,"Michael Krebs, Jake Lawson, Sean Marquette","Action, Drama, War",5.7
+916,Cosmos,2015,103,Andrzej Zulawski,"Sabine Azéma, Jean-François Balmer, Jonathan Genet","Comedy, Crime, Drama",5.7
+917,Gangnam 1970,2015,135,Ha Yoo,"Lee Min-ho, Kim Rae-won, Jung Jin-young","Action, Crime, Drama",6.2
+918,Two Friends,2015,100,Louis Garrel,"Golshifteh Farahani, Vincent Macaigne, Louis Garrel","Comedy, Drama, Romance",5.9
+919,Bucharest Non Stop,2015,86,Dan Chisu,"Gheorghe Ifrim, Ion Besoiu, Dorina Lazar","Comedy, Drama",7.3
+920,The Hours Till Daylight,2015,84,Jon Garcia,"Quinn Allan, Dan Braverman, Alma Gloria Garcia","Drama, Horror, Thriller",4.3
+921,The Bunker,2015,85,Nikias Chryssos,"David Scheller, Oona von Maydell, Daniel Fripan","Comedy, Drama, Horror",6.1
+922,The Dead End,2015,139,Baoping Cao,"Yihong Duan, Chao Deng, Tao Guo","Crime, Drama",7.2
+923,Prescription Thugs,2015,86,"Chris Bell, Josh Alexander, G.B. Young","Mark Bell, Mike Bell, Rosemary Bell",Documentary,6.9
+924,Dirty Weekend,2015,93,Neil LaBute,"Matthew Broderick, Alice Eve, Phil Burke","Comedy, Drama",5.0
+925,Zero Tolerance,2015,89,Wych Kaosayananda,"Dustin Nguyen, Sahajak Boonthanakit, Scott Adkins","Action, Crime, Thriller",4.1
+926,Comment c'est loin,2015,90,"Christophe Offenstein, Orelsan","Orelsan, Gringe, Seydou Doucouré","Comedy, Drama, Music",6.9
+927,Jane Wants a Boyfriend,2015,101,William Sullivan,"Louisa Krause, Gabriel Ebert, Eliza Dushku","Comedy, Drama, Romance",6.7
+928,Next to Me,2015,95,Stevan Filipovic,"Hristina Popovic, Slaven Doslo, Nikola Glisic","Comedy, Drama",6.9
+929,The Chosen,2015,88,Ben Jehoshua,"Kian Lawley, Elizabeth Keener, Angelica Rose Torres","Horror, Thriller",3.5
+930,Ryuzo and the Seven Henchmen,2015,125,Takeshi Kitano,"Takayuki Akaike, Kiyomi Aratani, Masahiro Asano","Action, Comedy",6.4
+931,Brotherly Love,2015,89,Jamal Hill,"Keke Palmer, Cory Hardrict, Romeo Miller",Drama,6.5
+932,Dream/Killer,2015,106,Andrew Jenks,"Kevin Crane, Chuck Erickson, Bill Ferguson","Documentary, Crime",7.4
+933,Argo 2,2015,91,Attila Árpa,"Péter Andorai, Andrea Balázs, Tsogbaatar Batzorig","Action, Comedy, Crime",6.7
+934,Call Me Lucky,2015,106,Bobcat Goldthwait,"Barry Crimmins, Jack Gallagher, Martin Olson","Documentary, Biography, Comedy",7.5
+935,The Driftless Area,2015,95,Zachary Sluser,"Anton Yelchin, Zooey Deschanel, John Hawkes","Crime, Drama",5.3
+936,The Tag-Along,2015,93,Wei-Hao Cheng,"Wei-Ning Hsu, River Huang, Yin-Shang Liu","Horror, Thriller",5.7
+937,Mandira Filozofu: Istanbul,2015,109,Müfit Can Saçinti,"Müfit Can Saçinti, Kemal Kuruçay, Gulnihal Demir",Comedy,5.7
+938,Chronicles of the Ghostly Tribe,2015,118,Chuan Lu,"Mark Chao, Jin Chen, Li Feng","Action, Adventure, Drama",5.1
+939,Kendasampige,2015,99,Suri,"Vikky Varun, Manvita Kamath, Rajesh Nataranga","Romance, Thriller",8.3
+940,Jaws 19,2015,63,"Sergey A., Ivan Lachance","Ivan Lachance, Sergey A., Viktor Murzikov","Action, Horror, Sci-Fi",3.5
+941,No Men Beyond This Point,2015,80,Mark Sawers,"Patrick Gilmore, Bronwen Smith, Tara Pratt","Comedy, Drama, Sci-Fi",6.3
+942,The Rise of the Krays,2015,110,Zackary Adler,"Matt Vael, Simon Cotton, Kevin Leslie","Crime, Drama",4.9
+943,Patchwork,2015,86,Tyler MacIntyre,"Tory Stolper, Tracey Fairaway, Maria Blasucci","Comedy, Horror",5.7
+944,The Black Panthers: Vanguard of the Revolution,2015,115,Stanley Nelson,"Blair Anderson, Omar Barbour, Julian Bond","Documentary, History",7.4
+945,German Angst,2015,112,"Jörg Buttgereit, Michal Kosakowski, Andreas Marschall","Lola Gave, Axel Holst, Michael Zenner","Drama, Fantasy, Horror",5.3
+946,Safelight,2015,84,Tony Aloupis,"Evan Peters, Juno Temple, Christine Lahti",Drama,5.8
+947,Hawaizaada,2015,148,Vibhu Puri,"Naman Jain, Mithun Chakraborty, Samir Chandra","Biography, Drama",5.5
+948,AfterDeath,2015,88,"Gez Medinger, Robin Schmidt","Miranda Raison, Sam Keeley, Elarica Johnson","Horror, Mystery, Thriller",4.0
+949,The Chosen Ones,2015,105,David Pablos,"Nancy Talamantes, Óscar Torres, Leidi Gutiérrez",Drama,6.7
+950,Burn Burn Burn,2015,106,Chanya Button,"Jack Farthing, Joe Dempsie, Eleanor Matsuura","Comedy, Drama",6.8
+951,Walter,2015,94,Anna Mastro,"William H. Macy, Leven Rambin, Milo Ventimiglia","Comedy, Drama",5.4
+952,Orange,2015,139,Kôjirô Hashimoto,"Tao Tsuchiya, Kento Yamazaki, Ryô Ryûsei","Comedy, Drama, Romance",6.8
+953,Cold of Kalandar,2015,130,Mustafa Kara,"Haydar Sisman, Nuray Yesilaraz, Hanife Kara",Drama,7.6
+954,11 Minutes,2015,81,Jerzy Skolimowski,"Richard Dormer, Paulina Chapko, Wojciech Mecwaldowski","Drama, Thriller",5.7
+955,The Curse of Downers Grove,2015,89,Derick Martini,"Bella Heathcote, Lucas Till, Helen Slater","Drama, Horror, Mystery",4.4
+956,The Dawns Here Are Quiet...,2015,111,Renat Davletyarov,"Pyotr Fyodorov, Anastasiya Mikulchina, Zhenya Malakhova","Drama, War",6.7
+957,The Portuguese Falcon,2015,106,João Leitão,"Gonçalo Waddington, David Chan Cordeiro, José Pinto","Action, Comedy, History",6.9
+958,Çarsi Pazar,2015,97,Muharrem Gülmez,"Erdem Yener, Ayhan Tas, Emin Olcay",Comedy,5.2
+959,Battle for Skyark,2015,88,Simon Hung,"Caon Mortenson, Garrett Coffey, Charlene Tung","Action, Adventure, Fantasy",2.7
+960,Lapland Odyssey 2,2015,87,Teppo Airaksinen,"Jussi Vatanen, Pamela Tola, Timo Lavikainen",Comedy,5.9
+961,The World Made Straight,2015,119,David Burris,"Noah Wyle, Jeremy Irvine, Minka Kelly",Drama,5.5
+962,Viva,2015,100,Paddy Breathnach,"Héctor Medina, Jorge Perugorría, Luis Alberto García",Drama,7.2
+963,8 Saniye,2015,120,Ömer Faruk Sorak,"Esra Inal, Ceylin Adiyaman, Gülay Baltaci","Biography, Drama, Fantasy",6.3
+964,Journey to the Shore,2015,127,Kiyoshi Kurosawa,"Eri Fukatsu, Tadanobu Asano, Masao Komatsu","Drama, Fantasy, Romance",6.3
+965,Nahid,2015,105,Ida Panahandeh,"Sareh Bayat, Sahar Aghili, Payam Ahmadinia","Drama, Romance",6.3
+966,Tank 432,2015,88,Nick Gillespie,"Rupert Evans, Steve Garry, Deirdre Mullins","Action, Horror, Mystery",3.3
+967,Dough,2015,94,John Goldschmidt,"Jonathan Pryce, Jerome Holder, Phil Davis","Comedy, Drama",6.3
+968,The Mind's Eye,2015,87,Joe Begos,"Graham Skipper, Lauren Ashley Carter, John Speredakos","Action, Horror, Sci-Fi",4.8
+969,Homesick,2015,106,Anne Sewitsky,"Ine Marie Wilmann, Simon J. Berger, Anneke von der Lippe",Drama,5.5
+970,Detective Conan: Sunflowers of Inferno,2015,112,Kôbun Shizuno,"Cristina Valenzuela, Kellen Goff, Kira Buckland","Animation, Action, Adventure",6.2
+971,Two Down,2015,92,Matthew Butler-Hart,"Alex Hassell, Tori Butler-Hart, Emma King","Comedy, Crime, Thriller",6.0
+972,Identicals,2015,100,Simon Pummell,"Lachlan Nieboer, Nora-Jane Noone, Nick Blood","Sci-Fi, Thriller",3.8
+973,Happy 140,2015,98,Gracia Querejeta,"Maribel Verdú, Antonio de la Torre, Eduard Fernández","Comedy, Drama",6.0
+974,Frau Müller muss weg!,2015,83,Sönke Wortmann,"Gabriela Maria Schmeide, Justus von Dohnányi, Anke Engelke",Comedy,6.2
+975,The Idol,2015,100,Hany Abu-Assad,"Tawfeek Barhom, Qais Attaallah, Hiba Attalah","Biography, Comedy, Drama",6.7
+976,Digimon Adventure tri. Part 1: Reunion,2015,96,Keitarô Motonaga,"Colleen O'Shaughnessey, Cherami Leigh, Robbie Daymond","Animation, Action, Adventure",7.2
+977,Kunjiramayanam,2015,122,Basil Joseph,"Vineeth Sreenivasan, Dhyan Sreenivasan, Aju Varghese",Comedy,6.9
+978,At Granny's House,2015,83,Les Mahoney,"Rachel Alig, Glenda Morgan Brown, Les Mahoney",Thriller,3.8
+979,Adulterers,2015,91,H.M. Coakley,"Sean Faris, Mehcad Brooks, Danielle Savre","Crime, Drama, Thriller",5.1
+980,Prophet's Prey,2015,101,Amy Berg,"Nick Cave, Elaine Anderson, Sam Brower","Documentary, Biography, History",7.2
+981,The Piper,2015,119,Kwang-tae Kim,"Ryu Seung-ryong, Lee Sung-min, Chun Woo-hee","Horror, Mystery, Thriller",6.4
+982,Cloudy Sunday,2015,116,Manousos Manousakis,"Gerasimos Skiadaresis, Andreas Konstantinou, Giannis Stankoglou","Drama, Music, War",6.5
+983,Mohalla Assi,2015,150,Chandra Prakash Dwivedi,"Sunny Deol, Sakshi Tanwar, Ravi Kishan","Comedy, Drama",6.6
+984,"3 1/2 Minutes, 10 Bullets",2015,98,Marc Silver,"Lucia McBath, Ron Davis, Michael David Dunn","Documentary, Crime",7.2
+985,S Is for Stanley,2015,78,Alex Infascelli,"Emilio D'Alessandro, Alex Infascelli, Roberto Pedicini","Documentary, Biography, Drama",6.9
+986,Just Jim,2015,84,Craig Roberts,"Richard Harrington, Emile Hirsch, Trystan Gravelle","Comedy, Drama, Thriller",5.7
+987,A Hitman in London,2015,97,Ara Paiaya,"Mickey Rourke, Eric Roberts, Daryl Hannah","Action, Crime",3.9
+988,"Bloed, zweet & tranen",2015,111,Diederick Koopal,"Martijn Fischer, Hadewych Minis, Fedja van Huêt","Biography, Drama, Music",7.1
+989,Rabid Dogs,2015,100,Éric Hannezo,"Lambert Wilson, Virginie Ledoyen, Guillaume Gouix","Crime, Drama, Thriller",5.8
+990,Thought Crimes: The Case of the Cannibal Cop,2015,81,Erin Lee Carr,"Gary Allen, Violet Blue, James A. Cohen","Documentary, Crime",6.3
+991,SOMM: Into the Bottle,2015,90,Jason Wise,"Silvia Altare, Brian Carmody, Ian Cauble",Documentary,7.3
+992,Road Hard,2015,98,"Adam Carolla, Kevin Hench","Adam Carolla, David Alan Grier, Jay Mohr",Comedy,6.0
+993,(Dis)Honesty: The Truth About Lies,2015,90,Yael Melamede,Dan Ariely,"Documentary, Drama, News",7.4
+994,How Sarah Got Her Wings,2015,88,"Edmund Entin, Gary Entin","Lindsey Gort, Derek Theler, Melanie Liburd","Drama, Fantasy",5.5
+995,I Believe in Miracles,2015,104,Jonny Owen,"Brian Clough, Peter Taylor, Jimmy Gordon","Documentary, History, Sport",7.7
+996,Puerto Ricans in Paris,2015,82,Ian Edelman,"Miriam Shor, Luis Guzmán, Edgar Garcia","Comedy, Crime",5.4
+997,Blunt Force Trauma,2015,97,Ken Sanzel,"Ryan Kwanten, Freida Pinto, Carolina Gómez",Action,4.6
+998,Little Witch Academia: The Enchanted Parade,2015,54,Yô Yoshinari,"Megumi Han, Fumiko Orikasa, Michiyo Murase","Animation, Comedy, Family",7.2
+999,Lost in Hong Kong,2015,114,Zheng Xu,"Zheng Xu, Wei Zhao, Bei'er Bao","Action, Adventure, Comedy",5.4
+1000,I Kissed a Girl,2015,98,"Maxime Govare, Noémie Saglio","Pio Marmaï, Franck Gastambide, Adriane Gradziel","Comedy, Romance",5.9

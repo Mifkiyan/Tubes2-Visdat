@@ -1,0 +1,999 @@
+ID,Name,Year,Duration,Directors,Actors,Genres,Rating
+1,Avengers: Infinity War,2018,149,"Anthony Russo, Joe Russo","Robert Downey Jr., Chris Hemsworth, Mark Ruffalo","Action, Adventure, Sci-Fi",8.4
+2,Black Panther,2018,134,Ryan Coogler,"Chadwick Boseman, Michael B. Jordan, Lupita Nyong'o","Action, Adventure, Sci-Fi",7.3
+3,Spider-Man: Into the Spider-Verse,2018,117,"Bob Persichetti, Peter Ramsey, Rodney Rothman","Shameik Moore, Jake Johnson, Hailee Steinfeld","Animation, Action, Adventure",8.4
+4,Deadpool 2,2018,119,David Leitch,"Ryan Reynolds, Josh Brolin, Morena Baccarin","Action, Adventure, Comedy",7.6
+5,Green Book,2018,130,Peter Farrelly,"Viggo Mortensen, Mahershala Ali, Linda Cardellini","Biography, Comedy, Drama",8.2
+6,A Quiet Place,2018,90,John Krasinski,"Emily Blunt, John Krasinski, Millicent Simmonds","Drama, Horror, Sci-Fi",7.5
+7,Bohemian Rhapsody,2018,134,Bryan Singer,"Rami Malek, Lucy Boynton, Gwilym Lee","Biography, Drama, Music",7.9
+8,Venom,2018,112,Ruben Fleischer,"Tom Hardy, Michelle Williams, Riz Ahmed","Action, Adventure, Sci-Fi",6.6
+9,Aquaman,2018,143,James Wan,"Jason Momoa, Amber Heard, Willem Dafoe","Action, Adventure, Fantasy",6.8
+10,Ready Player One,2018,140,Steven Spielberg,"Tye Sheridan, Olivia Cooke, Ben Mendelsohn","Action, Adventure, Sci-Fi",7.4
+11,Ant-Man and the Wasp,2018,118,Peyton Reed,"Paul Rudd, Evangeline Lilly, Michael Peña","Action, Adventure, Comedy",7.0
+12,A Star Is Born,2018,136,Bradley Cooper,"Lady Gaga, Bradley Cooper, Sam Elliott","Drama, Music, Romance",7.6
+13,Hereditary,2018,127,Ari Aster,"Toni Collette, Milly Shapiro, Gabriel Byrne","Drama, Horror, Mystery",7.3
+14,Bird Box,2018,124,Susanne Bier,"Sandra Bullock, Trevante Rhodes, John Malkovich","Horror, Mystery, Sci-Fi",6.6
+15,Mission: Impossible - Fallout,2018,147,Christopher McQuarrie,"Tom Cruise, Henry Cavill, Ving Rhames","Action, Adventure, Thriller",7.7
+16,Solo: A Star Wars Story,2018,135,Ron Howard,"Alden Ehrenreich, Woody Harrelson, Emilia Clarke","Action, Adventure, Sci-Fi",6.9
+17,Annihilation,2018,115,Alex Garland,"Natalie Portman, Jennifer Jason Leigh, Tessa Thompson","Adventure, Drama, Horror",6.8
+18,Jurassic World: Fallen Kingdom,2018,128,J.A. Bayona,"Chris Pratt, Bryce Dallas Howard, Rafe Spall","Action, Adventure, Sci-Fi",6.1
+19,Incredibles 2,2018,118,Brad Bird,"Craig T. Nelson, Holly Hunter, Sarah Vowell","Animation, Action, Adventure",7.5
+20,Fantastic Beasts: The Crimes of Grindelwald,2018,134,David Yates,"Eddie Redmayne, Katherine Waterston, Dan Fogler","Adventure, Family, Fantasy",6.5
+21,BlacKkKlansman,2018,135,Spike Lee,"John David Washington, Adam Driver, Laura Harrier","Biography, Comedy, Crime",7.5
+22,Game Night,2018,100,"John Francis Daley, Jonathan Goldstein","Jason Bateman, Rachel McAdams, Kyle Chandler","Action, Adventure, Comedy",6.9
+23,Ocean's Eight,2018,110,Gary Ross,"Sandra Bullock, Cate Blanchett, Anne Hathaway","Action, Comedy, Crime",6.3
+24,The Favourite,2018,119,Yorgos Lanthimos,"Olivia Colman, Emma Stone, Rachel Weisz","Biography, Comedy, Drama",7.5
+25,Tomb Raider,2018,119,Roar Uthaug,"Alicia Vikander, Dominic West, Walton Goggins","Action, Adventure, Fantasy",6.3
+26,Upgrade,2018,100,Leigh Whannell,"Logan Marshall-Green, Melanie Vallejo, Steve Danielsen","Action, Sci-Fi, Thriller",7.5
+27,The Meg,2018,113,Jon Turteltaub,"Jason Statham, Bingbing Li, Rainn Wilson","Action, Horror, Sci-Fi",5.7
+28,The Equalizer 2,2018,121,Antoine Fuqua,"Denzel Washington, Pedro Pascal, Ashton Sanders","Action, Crime, Mystery",6.7
+29,Red Sparrow,2018,140,Francis Lawrence,"Jennifer Lawrence, Joel Edgerton, Matthias Schoenaerts","Action, Drama, Thriller",6.6
+30,First Man,2018,141,Damien Chazelle,"Ryan Gosling, Claire Foy, Jason Clarke","Biography, Drama, History",7.3
+31,Crazy Rich Asians,2018,120,Jon M. Chu,"Constance Wu, Henry Golding, Michelle Yeoh","Comedy, Drama, Romance",6.9
+32,Isle of Dogs,2018,101,Wes Anderson,"Bryan Cranston, Koyu Rankin, Edward Norton","Animation, Adventure, Comedy",7.8
+33,Bumblebee,2018,114,Travis Knight,"Hailee Steinfeld, Jorge Lendeborg Jr., John Cena","Action, Adventure, Sci-Fi",6.7
+34,Ralph Breaks the Internet,2018,112,"Phil Johnston, Rich Moore","John C. Reilly, Sarah Silverman, Gal Gadot","Animation, Adventure, Comedy",7.0
+35,Rampage,2018,107,Brad Peyton,"Dwayne Johnson, Naomie Harris, Malin Akerman","Action, Adventure, Sci-Fi",6.1
+36,Searching,2018,102,Aneesh Chaganty,"John Cho, Debra Messing, Joseph Lee","Drama, Mystery, Thriller",7.6
+37,A Simple Favor,2018,117,Paul Feig,"Anna Kendrick, Blake Lively, Henry Golding","Comedy, Crime, Mystery",6.8
+38,The Nun,2018,96,Corin Hardy,"Demián Bichir, Taissa Farmiga, Jonas Bloquet","Horror, Mystery, Thriller",5.4
+39,Sicario: Day of the Soldado,2018,122,Stefano Sollima,"Benicio Del Toro, Josh Brolin, Isabela Merced","Action, Crime, Drama",7.1
+40,Halloween,2018,106,David Gordon Green,"Jamie Lee Curtis, Judy Greer, Andi Matichak","Crime, Drama, Horror",6.5
+41,Maze Runner: The Death Cure,2018,143,Wes Ball,"Dylan O'Brien, Ki Hong Lee, Kaya Scodelario","Action, Adventure, Sci-Fi",6.3
+42,The Ballad of Buster Scruggs,2018,133,"Ethan Coen, Joel Coen","Tim Blake Nelson, Willie Watson, Clancy Brown","Comedy, Drama, Musical",7.2
+43,Roma,2018,135,Alfonso Cuarón,"Yalitza Aparicio, Marina de Tavira, Diego Cortina Autrey",Drama,7.6
+44,Bad Times at the El Royale,2018,141,Drew Goddard,"Jeff Bridges, Cynthia Erivo, Dakota Johnson","Crime, Drama, Mystery",7.1
+45,Vice,2018,132,Adam McKay,"Christian Bale, Amy Adams, Steve Carell","Biography, Comedy, Drama",7.2
+46,Creed II,2018,130,Steven Caple Jr.,"Michael B. Jordan, Sylvester Stallone, Tessa Thompson","Action, Drama, Sport",7.1
+47,The Mule,2018,116,Clint Eastwood,"Clint Eastwood, Bradley Cooper, Laurence Fishburne","Crime, Drama, Thriller",7.0
+48,Tag,2018,100,Jeff Tomsic,"Jeremy Renner, Ed Helms, Jake Johnson","Action, Comedy",6.5
+49,The Predator,2018,107,Shane Black,"Boyd Holbrook, Trevante Rhodes, Jacob Tremblay","Action, Adventure, Sci-Fi",5.3
+50,Mortal Engines,2018,128,Christian Rivers,"Hera Hilmar, Robert Sheehan, Hugo Weaving","Action, Adventure, Fantasy",6.1
+51,Den of Thieves,2018,140,Christian Gudegast,"Gerard Butler, Pablo Schreiber, O'Shea Jackson Jr.","Action, Crime, Drama",7.0
+52,Black Mirror: Bandersnatch,2018,90,David Slade,"Fionn Whitehead, Craig Parkinson, Alice Lowe","Drama, Fantasy, Mystery",7.1
+53,Skyscraper,2018,102,Rawson Marshall Thurber,"Dwayne Johnson, Neve Campbell, Chin Han","Action, Adventure, Thriller",5.8
+54,Pacific Rim: Uprising,2018,111,Steven S. DeKnight,"John Boyega, Scott Eastwood, Cailee Spaeny","Action, Adventure, Sci-Fi",5.6
+55,To All the Boys I've Loved Before,2018,99,Susan Johnson,"Lana Condor, Noah Centineo, Janel Parrish","Comedy, Drama, Romance",7.0
+56,"Love, Simon",2018,110,Greg Berlanti,"Nick Robinson, Jennifer Garner, Josh Duhamel","Comedy, Drama, Romance",7.5
+57,The Commuter,2018,104,Jaume Collet-Serra,"Liam Neeson, Vera Farmiga, Patrick Wilson","Action, Mystery, Thriller",6.3
+58,Instant Family,2018,118,Sean Anders,"Mark Wahlberg, Rose Byrne, Isabela Merced","Comedy, Drama",7.3
+59,The Cloverfield Paradox,2018,102,Julius Onah,"Gugu Mbatha-Raw, David Oyelowo, Daniel Brühl","Horror, Sci-Fi, Thriller",5.5
+60,Capernaum,2018,126,Nadine Labaki,"Zain Al Rafeea, Yordanos Shiferaw, Boluwatife Treasure Bankole",Drama,8.4
+61,Mamma Mia! Here We Go Again,2018,114,Ol Parker,"Lily James, Amanda Seyfried, Meryl Streep","Comedy, Musical, Romance",6.6
+62,Beautiful Boy,2018,120,Felix van Groeningen,"Steve Carell, Maura Tierney, Jack Dylan Grazer","Biography, Drama",7.4
+63,Overlord,2018,110,Julius Avery,"Jovan Adepo, Wyatt Russell, Mathilde Ollivier","Action, Horror, Sci-Fi",6.6
+64,Andhadhun,2018,139,Sriram Raghavan,"Ayushmann Khurrana, Tabu, Radhika Apte","Crime, Mystery, Thriller",8.2
+65,Widows,2018,129,Steve McQueen,"Viola Davis, Michelle Rodriguez, Elizabeth Debicki","Crime, Drama, Thriller",6.8
+66,K.G.F: Chapter 1,2018,154,Prashanth Neel,"Yash, Srinidhi Shetty, Ramachandra Raju","Action, Crime, Drama",8.2
+67,The Grinch,2018,85,"Yarrow Cheney, Scott Mosier","Benedict Cumberbatch, Cameron Seely, Rashida Jones","Animation, Comedy, Family",6.4
+68,Suspiria,2018,152,Luca Guadagnino,"Chloë Grace Moretz, Tilda Swinton, Doris Hick","Drama, Fantasy, Horror",6.7
+69,The House That Jack Built,2018,152,Lars von Trier,"Matt Dillon, Bruno Ganz, Uma Thurman","Crime, Drama, Horror",6.8
+70,The Kissing Booth,2018,105,Vince Marcello,"Joey King, Jacob Elordi, Joel Courtney","Comedy, Romance",5.9
+71,Mary Poppins Returns,2018,130,Rob Marshall,"Emily Blunt, Lin-Manuel Miranda, Ben Whishaw","Adventure, Comedy, Family",6.7
+72,12 Strong,2018,130,Nicolai Fuglsig,"Chris Hemsworth, Michael Shannon, Michael Peña","Action, Drama, History",6.5
+73,Mandy,2018,121,Panos Cosmatos,"Nicolas Cage, Andrea Riseborough, Linus Roache","Action, Fantasy, Horror",6.5
+74,Hotel Transylvania 3: Summer Vacation,2018,97,Genndy Tartakovsky,"Adam Sandler, Andy Samberg, Selena Gomez","Animation, Adventure, Comedy",6.3
+75,Sorry to Bother You,2018,112,Boots Riley,"LaKeith Stanfield, Tessa Thompson, Jermaine Fowler","Comedy, Drama, Fantasy",6.9
+76,Shoplifters,2018,121,Hirokazu Koreeda,"Lily Franky, Sakura Andô, Kirin Kiki","Crime, Drama, Thriller",7.9
+77,Mile 22,2018,94,Peter Berg,"Mark Wahlberg, Lauren Cohan, Iko Uwais","Action, Thriller",6.1
+78,Blockers,2018,102,Kay Cannon,"Leslie Mann, John Cena, Ike Barinholtz","Comedy, Drama",6.2
+79,The Christmas Chronicles,2018,104,Clay Kaytis,"Kurt Russell, Darby Camp, Judah Lewis","Adventure, Comedy, Family",7.0
+80,Christopher Robin,2018,104,Marc Forster,"Ewan McGregor, Hayley Atwell, Bronte Carmichael","Adventure, Comedy, Drama",7.2
+81,Johnny English Strikes Again,2018,89,David Kerr,"Rowan Atkinson, Ben Miller, Olga Kurylenko","Action, Adventure, Comedy",6.2
+82,Climax,2018,97,Gaspar Noé,"Sofia Boutella, Romain Guillermic, Souheila Yacoub","Drama, Horror, Music",6.9
+83,The Spy Who Dumped Me,2018,117,Susanna Fogel,"Justin Theroux, Kate McKinnon, Blanka Györfi-Tóth","Action, Adventure, Comedy",6.0
+84,Outlaw King,2018,121,David Mackenzie,"Chris Pine, Stephen Dillane, Rebecca Robin","Action, Biography, Drama",6.9
+85,Eighth Grade,2018,93,Bo Burnham,"Elsie Fisher, Josh Hamilton, Emily Robinson","Comedy, Drama",7.3
+86,Robin Hood,2018,116,Otto Bathurst,"Taron Egerton, Jamie Foxx, Ben Mendelsohn","Action, Adventure, Drama",5.3
+87,Mid90s,2018,85,Jonah Hill,"Sunny Suljic, Katherine Waterston, Lucas Hedges","Comedy, Drama",7.4
+88,Free Solo,2018,100,"Jimmy Chin, Elizabeth Chai Vasarhelyi","Alex Honnold, Tommy Caldwell, Jimmy Chin","Documentary, Adventure, Sport",8.1
+89,Burning,2018,148,Lee Chang-dong,"Yoo Ah-in, Steven Yeun, Jeon Jong-seo","Drama, Mystery",7.4
+90,Death Wish,2018,107,Eli Roth,"Bruce Willis, Vincent D'Onofrio, Elisabeth Shue","Action, Crime, Drama",6.3
+91,Fifty Shades Freed,2018,105,James Foley,"Dakota Johnson, Jamie Dornan, Eric Johnson","Drama, Mystery, Romance",4.5
+92,Hunter Killer,2018,121,Donovan Marsh,"Gerard Butler, Gary Oldman, Common","Action, Thriller",6.6
+93,Insidious: The Last Key,2018,103,Adam Robitel,"Lin Shaye, Leigh Whannell, Angus Sampson","Horror, Mystery, Thriller",5.7
+94,Hotel Mumbai,2018,123,Anthony Maras,"Dev Patel, Armie Hammer, Nazanin Boniadi","Action, Drama, History",7.6
+95,The First Purge,2018,97,Gerard McMurray,"Y'lan Noel, Lex Scott Davis, Joivan Wade","Action, Horror, Sci-Fi",5.2
+96,The Sisters Brothers,2018,122,Jacques Audiard,"John C. Reilly, Joaquin Phoenix, Jake Gyllenhaal","Drama, Western",6.9
+97,Peppermint,2018,101,Pierre Morel,"Jennifer Garner, John Gallagher Jr., John Ortiz","Action, Thriller",6.5
+98,Set It Up,2018,105,Claire Scanlon,"Zoey Deutch, Glen Powell, Lucy Liu","Comedy, Romance",6.5
+99,Truth or Dare,2018,100,Jeff Wadlow,"Lucy Hale, Tyler Posey, Violett Beane","Horror, Mystery, Thriller",5.2
+100,Alpha,2018,96,Albert Hughes,"Kodi Smit-McPhee, Jóhannes Haukur Jóhannesson, Marcin Kowalczyk","Adventure, Drama",6.6
+101,Tumbbad,2018,108,"Rahi Anil Barve, Anand Gandhi, Adesh Prasad","Sohum Shah, Jyoti Malshe, Anita Date-Kelkar","Drama, Fantasy, Horror",8.2
+102,Mirage,2018,128,Oriol Paulo,"Adriana Ugarte, Chino Darín, Javier Gutiérrez","Drama, Fantasy, Mystery",7.4
+103,Leave No Trace,2018,109,Debra Granik,"Thomasin McKenzie, Ben Foster, Jeffery Rifflard","Adventure, Drama",7.1
+104,Mowgli: Legend of the Jungle,2018,104,Andy Serkis,"Christian Bale, Cate Blanchett, Benedict Cumberbatch","Adventure, Drama, Fantasy",6.5
+105,The Guilty,2018,85,Gustav Möller,"Jakob Cedergren, Jessica Dinnage, Omar Shargawi","Crime, Drama, Thriller",7.5
+106,Tully,2018,95,Jason Reitman,"Charlize Theron, Mackenzie Davis, Ron Livingston","Comedy, Drama, Mystery",6.9
+107,Sanju,2018,155,Rajkumar Hirani,"Ranbir Kapoor, Paresh Rawal, Manisha Koirala","Biography, Comedy, Drama",7.6
+108,Adrift,2018,96,Baltasar Kormákur,"Shailene Woodley, Sam Claflin, Jeffrey Thomas","Action, Adventure, Biography",6.6
+109,Cold War,2018,89,Pawel Pawlikowski,"Joanna Kulig, Tomasz Kot, Borys Szyc","Drama, Music, Romance",7.5
+110,Apostle,2018,130,Gareth Evans,"Dan Stevens, Richard Elfyn, Paul Higgins","Drama, Fantasy, Horror",6.3
+111,How It Ends,2018,113,David M. Rosenthal,"Theo James, Kat Graham, Nancy Sorel","Action, Drama, Horror",5.1
+112,Arctic,2018,98,Joe Penna,"Mads Mikkelsen, Maria Thelma Smáradóttir, Tintrinai Thikhasuk","Adventure, Drama",6.8
+113,Hotel Artemis,2018,94,Drew Pearce,"Jodie Foster, Sofia Boutella, Dave Bautista","Action, Crime, Drama",6.1
+114,Extinction,2018,95,Ben Young,"Michael Peña, Lizzy Caplan, Amelia Crouch","Action, Drama, Sci-Fi",5.8
+115,Dragged Across Concrete,2018,159,S. Craig Zahler,"Mel Gibson, Vince Vaughn, Tory Kittles","Action, Crime, Drama",6.9
+116,I Feel Pretty,2018,110,"Abby Kohn, Marc Silverstein","Amy Schumer, Michelle Williams, Emily Ratajkowski","Comedy, Romance",5.7
+117,Mary Queen of Scots,2018,124,Josie Rourke,"Saoirse Ronan, Margot Robbie, Jack Lowden","Biography, Drama, History",6.3
+118,Can You Ever Forgive Me?,2018,106,Marielle Heller,"Melissa McCarthy, Richard E. Grant, Dolly Wells","Biography, Comedy, Crime",7.1
+119,The House with a Clock in Its Walls,2018,105,Eli Roth,"Jack Black, Cate Blanchett, Owen Vaccaro","Comedy, Family, Fantasy",6.1
+120,Enes Batur: Imagination or Reality?,2018,110,Kamil Çetin,"Enes Batur, Baran Teyin, Egemen Erturk",Comedy,2.0
+121,Under the Silver Lake,2018,139,David Robert Mitchell,"Andrew Garfield, Riley Keough, Topher Grace","Crime, Drama, Mystery",6.5
+122,The Guernsey Literary and Potato Peel Pie Society,2018,124,Mike Newell,"Jessica Brown Findlay, Tom Courtenay, Michiel Huisman","Drama, Romance, War",7.3
+123,When We First Met,2018,97,Ari Sandel,"Adam Devine, Alexandra Daddario, Shelley Hennig","Comedy, Fantasy, Romance",6.4
+124,Raatchasan,2018,146,Ram Kumar,"Vishnu Vishal, Amala Paul, Radha Ravi","Crime, Drama, Mystery",8.3
+125,The Girl in the Spider's Web,2018,115,Fede Alvarez,"Claire Foy, Beau Gadsdon, Sverrir Gudnason","Action, Adventure, Crime",6.1
+126,If Beale Street Could Talk,2018,119,Barry Jenkins,"KiKi Layne, Stephan James, Regina King","Drama, Romance",7.1
+127,Unsane,2018,98,Steven Soderbergh,"Claire Foy, Joshua Leonard, Jay Pharoah","Drama, Horror, Mystery",6.4
+128,The Perfection,2018,90,Richard Shepard,"Marie Maskell, Allison Williams, Christina Jastrzembska","Drama, Horror, Thriller",6.2
+129,Operation Finale,2018,122,Chris Weitz,"Oscar Isaac, Ben Kingsley, Mélanie Laurent","Biography, Drama, History",6.6
+130,American Animals,2018,116,Bart Layton,"Spencer Reinhard, Warren Lipka, Eric Borsuk","Biography, Crime, Drama",7.0
+131,The Old Man & the Gun,2018,93,David Lowery,"Robert Redford, Casey Affleck, Sissy Spacek","Biography, Comedy, Crime",6.7
+132,Peter Rabbit,2018,95,Will Gluck,"James Corden, Fayssal Bazzi, Domhnall Gleeson","Animation, Adventure, Comedy",6.6
+133,Anon,2018,100,Andrew Niccol,"Clive Owen, Afiya Bennett, Morgan Allen","Crime, Mystery, Sci-Fi",6.1
+134,Race 3,2018,160,Remo D'Souza,"Anil Kapoor, Salman Khan, Bobby Deol","Action, Thriller",1.9
+135,Summer of 84,2018,105,"François Simard, Anouk Whissell, Yoann-Karl Whissell","Graham Verchere, Judah Lewis, Caleb Emery","Horror, Mystery, Thriller",6.7
+136,A Wrinkle in Time,2018,109,Ava DuVernay,"Storm Reid, Oprah Winfrey, Reese Witherspoon","Adventure, Drama, Family",4.3
+137,Night School,2018,111,Malcolm D. Lee,"Kevin Hart, Tiffany Haddish, Rob Riggle",Comedy,5.6
+138,White Boy Rick,2018,111,Yann Demange,"Matthew McConaughey, Richie Merritt, Bel Powley","Crime, Drama",6.5
+139,Stree,2018,128,Amar Kaushik,"Rajkummar Rao, Shraddha Kapoor, Pankaj Tripathi","Comedy, Horror",7.5
+140,Boy Erased,2018,115,Joel Edgerton,"Lucas Hedges, Nicole Kidman, Joel Edgerton","Biography, Drama",6.9
+141,Smallfoot,2018,96,"Karey Kirkpatrick, Jelly Roll, Jason Reisig","Channing Tatum, James Corden, Zendaya","Animation, Adventure, Comedy",6.6
+142,Replicas,2018,107,Jeffrey Nachmanoff,"Keanu Reeves, Alice Eve, Thomas Middleditch","Action, Drama, Sci-Fi",5.5
+143,High Life,2018,113,Claire Denis,"Robert Pattinson, Juliette Binoche, André 3000","Drama, Sci-Fi, Thriller",5.7
+144,Incident in a Ghostland,2018,91,Pascal Laugier,"Crystal Reed, Mylène Farmer, Anastasia Phillips","Drama, Horror, Mystery",6.4
+145,Braven,2018,94,Lin Oeding,"Jason Momoa, Garret Dillahunt, Jill Wagner","Action, Thriller",5.9
+146,Freaks,2018,105,"Zach Lipovsky, Adam B. Stein","Emile Hirsch, Bruce Dern, Grace Park","Drama, Mystery, Sci-Fi",6.7
+147,Three Identical Strangers,2018,96,Tim Wardle,"Robert Shafran, Michael Domnitz, Howard Schneider","Documentary, Biography, Drama",7.6
+148,Overboard,2018,112,Rob Greenberg,"Eugenio Derbez, Anna Faris, Eva Longoria","Comedy, Romance",6.0
+149,At Eternity's Gate,2018,111,Julian Schnabel,"Willem Dafoe, Rupert Friend, Oscar Isaac","Biography, Drama, History",6.9
+150,The Hate U Give,2018,133,George Tillman Jr.,"Amandla Stenberg, Regina Hall, Russell Hornsby","Crime, Drama",7.5
+151,Sierra Burgess Is a Loser,2018,105,Ian Samuels,"Shannon Purser, Kristine Froseth, RJ Cyler","Comedy, Drama, Romance",5.8
+152,Hold the Dark,2018,125,Jeremy Saulnier,"Jeffrey Wright, Alexander Skarsgård, James Badge Dale","Action, Crime, Drama",5.7
+153,96,2018,158,C. Prem Kumar,"Vijay Sethupathi, Trisha Krishnan, Adithya Bhaskar","Drama, Romance",8.5
+154,Life of the Party,2018,105,Ben Falcone,"Melissa McCarthy, Matt Walsh, Molly Gordon",Comedy,5.6
+155,Unfriended: Dark Web,2018,92,Stephen Susco,"Colin Woodell, Stephanie Nogueras, Betty Gabriel","Horror, Mystery, Thriller",6.0
+156,On the Basis of Sex,2018,120,Mimi Leder,"Felicity Jones, Armie Hammer, Justin Theroux","Biography, Drama, History",7.1
+157,Stan & Ollie,2018,98,Jon S. Baird,"Steve Coogan, John C. Reilly, Shirley Henderson","Biography, Comedy, Drama",7.2
+158,Holmes & Watson,2018,90,Etan Cohen,"Will Ferrell, John C. Reilly, Ralph Fiennes","Comedy, Crime, Mystery",3.9
+159,Slender Man,2018,93,Sylvain White,"Joey King, Julia Goldani Telles, Jaz Sinclair","Horror, Mystery, Thriller",3.3
+160,Greta,2018,98,Neil Jordan,"Isabelle Huppert, Chloë Grace Moretz, Maika Monroe","Drama, Mystery, Thriller",6.1
+161,Arif V 216,2018,125,Kivanç Baruönü,"Cem Yilmaz, Ozan Güven, Özkan Ugur","Comedy, Sci-Fi",6.9
+162,They Shall Not Grow Old,2018,99,Peter Jackson,"Thomas Adlam, William Argent, John Ashby","Documentary, History, War",8.2
+163,The Professor,2018,90,Wayne Roberts,"Johnny Depp, Rosemarie DeWitt, Odessa Young","Comedy, Drama",6.7
+164,Everybody Knows,2018,133,Asghar Farhadi,"Penélope Cruz, Javier Bardem, Ricardo Darín","Crime, Drama, Mystery",6.9
+165,Badhaai Ho,2018,124,Amit Ravindernath Sharma,"Ayushmann Khurrana, Neena Gupta, Gajraj Rao","Comedy, Drama",7.9
+166,22 July,2018,143,Paul Greengrass,"Anders Danielsen Lie, Jonas Strand Gravli, Jon Øigarden","Crime, Drama, History",6.8
+167,The Nutcracker and the Four Realms,2018,99,"Lasse Hallström, Joe Johnston","Mackenzie Foy, Keira Knightley, Morgan Freeman","Adventure, Family, Fantasy",5.6
+168,Padmaavat,2018,163,Sanjay Leela Bhansali,"Deepika Padukone, Ranveer Singh, Shahid Kapoor","Drama, History, War",7.1
+169,Mute,2018,126,Duncan Jones,"Alexander Skarsgård, Paul Rudd, Justin Theroux","Mystery, Sci-Fi, Thriller",5.5
+170,Dumplin',2018,110,Anne Fletcher,"Danielle Macdonald, Jennifer Aniston, Odeya Rush","Comedy, Drama",6.5
+171,The Darkest Minds,2018,104,Jennifer Yuh Nelson,"Amandla Stenberg, Mandy Moore, Bradley Whitford","Action, Adventure, Drama",5.7
+172,The Nightingale,2018,136,Jennifer Kent,"Aisling Franciosi, Maya Christie, Baykali Ganambarr","Adventure, Drama, Thriller",7.3
+173,The Clovehitch Killer,2018,109,Duncan Skiles,"Dylan McDermott, Charlie Plummer, Samantha Mathis","Crime, Drama, Horror",6.5
+174,Midnight Sun,2018,91,Scott Speer,"Bella Thorne, Patrick Schwarzenegger, Rob Riggle","Drama, Romance",6.6
+175,The Open House,2018,94,"Matt Angel, Suzanne Coote","Dylan Minnette, Piercey Dalton, Patricia Bethune","Horror, Thriller",3.3
+176,Winchester,2018,99,"Michael Spierig, Peter Spierig","Helen Mirren, Sarah Snook, Finn Scicluna-O'Prey","Biography, Fantasy, Horror",5.5
+177,Cam,2018,94,Daniel Goldhaber,"Madeline Brewer, Patch Darragh, Melora Walters","Drama, Horror, Mystery",5.9
+178,The Strangers: Prey at Night,2018,85,Johannes Roberts,"Christina Hendricks, Martin Henderson, Bailee Madison",Horror,5.3
+179,Prospect,2018,100,"Christopher Caldwell, Zeek Earl","Sophie Thatcher, Jay Duplass, Pedro Pascal","Adventure, Drama, Sci-Fi",6.3
+180,Escape Plan 2: Hades,2018,93,Steven C. Miller,"Sylvester Stallone, Dave Bautista, Xiaoming Huang","Action, Crime, Mystery",3.9
+181,The 15:17 to Paris,2018,94,Clint Eastwood,"Alek Skarlatos, Anthony Sadler, Spencer Stone","Biography, Drama, Thriller",5.3
+182,Tau,2018,97,Federico D'Alessandro,"Maika Monroe, Ed Skrein, Gary Oldman","Horror, Sci-Fi, Thriller",5.8
+183,Border,2018,110,Ali Abbasi,"Eva Melander, Eero Milonoff, Jörgen Thorsson","Crime, Drama, Fantasy",7.0
+184,Calibre,2018,101,Matt Palmer,"Jack Lowden, Martin McCann, Tony Curran","Drama, Thriller",6.8
+185,Raazi,2018,138,Meghna Gulzar,"Alia Bhatt, Vicky Kaushal, Rajit Kapoor","Action, Drama, Thriller",7.7
+186,Destination Wedding,2018,87,Victor Levin,"Winona Ryder, Keanu Reeves, DJ Dallenbach","Comedy, Drama, Romance",6.0
+187,Dragon Ball Super: Broly,2018,100,Tatsuya Nagamine,"Masako Nozawa, Aya Hisakawa, Ryô Horikawa","Animation, Action, Adventure",7.7
+188,"Game Over, Man!",2018,101,Kyle Newacheck,"Adam Devine, Anders Holm, Blake Anderson","Action, Comedy",5.5
+189,The Titan,2018,97,Lennart Ruff,"Sam Worthington, Taylor Schilling, Tom Wilkinson","Drama, Mystery, Romance",4.8
+190,Book Club,2018,104,Bill Holderman,"Diane Keaton, Jane Fonda, Candice Bergen","Comedy, Drama, Romance",6.1
+191,Blindspotting,2018,95,Carlos López Estrada,"Daveed Diggs, Rafael Casal, Janina Gavankar","Comedy, Crime, Drama",7.4
+192,Mortal World,2018,107,Ali Atay,"Ahmet Mümtaz Taylan, Alper Kul, Sarp Apak","Action, Comedy, Crime",7.6
+193,The Princess Switch,2018,101,Mike Rohl,"Vanessa Hudgens, Sam Palladio, Nick Sagar","Comedy, Drama, Family",6.1
+194,Gringo,2018,111,Nash Edgerton,"Joel Edgerton, Charlize Theron, David Oyelowo","Action, Comedy, Crime",6.1
+195,Destroyer,2018,121,Karyn Kusama,"Nicole Kidman, Toby Kebbell, Tatiana Maslany","Action, Crime, Drama",6.2
+196,Wildlife,2018,105,Paul Dano,"Ed Oxenbould, Jake Gyllenhaal, Carey Mulligan",Drama,6.8
+197,"Don't Worry, He Won't Get Far on Foot",2018,114,Gus Van Sant,"Joaquin Phoenix, Jonah Hill, Rooney Mara","Biography, Comedy, Drama",6.8
+198,Second Act,2018,103,Peter Segal,"Jennifer Lopez, Vanessa Hudgens, Leah Remini","Comedy, Drama, Romance",5.8
+199,The Night Comes for Us,2018,121,Timo Tjahjanto,"Iko Uwais, Joe Taslim, Sunny Pang","Action, Crime, Thriller",6.9
+200,The Happytime Murders,2018,91,Brian Henson,"Melissa McCarthy, Elizabeth Banks, Maya Rudolph","Action, Comedy, Crime",5.5
+201,Zero,2018,164,Aanand L. Rai,"Shah Rukh Khan, Anushka Sharma, Katrina Kaif","Comedy, Drama, Romance",5.2
+202,Dogman,2018,103,Matteo Garrone,"Marcello Fonte, Edoardo Pesce, Nunzia Schiano","Crime, Drama, Thriller",7.2
+203,The Outsider,2018,120,Martin Zandvliet,"Jared Leto, Tadanobu Asano, Kippei Shîna","Crime, Drama, Thriller",6.3
+204,Pad Man,2018,140,R Balki,"Akshay Kumar, Radhika Apte, Sonam Kapoor","Comedy, Drama",7.9
+205,I Want to Eat Your Pancreas,2018,109,"Jun'ichi Fujise, Tomoyuki Itamura, Masaharu Tomoda","Mahiro Takasugi, Lynn, Yukiyo Fujii","Animation, Drama, Family",8.1
+206,Night Hunter,2018,98,David Raymond,"Henry Cavill, Ben Kingsley, Alexandra Daddario","Action, Adventure, Crime",5.9
+207,The Wild Pear Tree,2018,188,Nuri Bilge Ceylan,"Dogu Demirkol, Murat Cemcir, Bennu Yildirimlar",Drama,8.0
+208,Rangasthalam,2018,170,Sukumar,"Ram Charan, Samantha Ruth Prabhu, Aadhi","Action, Drama",8.2
+209,Super Troopers 2,2018,99,Jay Chandrasekhar,"Jay Chandrasekhar, Kevin Heffernan, Steve Lemme","Comedy, Crime, Mystery",6.0
+210,2.0,2018,148,S. Shankar,"Rajinikanth, Akshay Kumar, Amy Jackson","Action, Fantasy, Sci-Fi",6.0
+211,The Possession of Hannah Grace,2018,86,Diederik Van Rooijen,"Shay Mitchell, Grey Damon, Kirby Johnson","Horror, Mystery, Thriller",5.2
+212,Won't You Be My Neighbor?,2018,95,Morgan Neville,"Fred Rogers, Margaret Whitmer, Tom Junod","Documentary, Biography, History",8.3
+213,Colette,2018,111,Wash Westmoreland,"Keira Knightley, Fiona Shaw, Dominic West","Biography, Drama, History",6.7
+214,Bad Samaritan,2018,110,Dean Devlin,"David Tennant, Robert Sheehan, Kerry Condon","Crime, Drama, Horror",6.4
+215,Never Look Away,2018,189,Florian Henckel von Donnersmarck,"Tom Schilling, Sebastian Koch, Paula Beer","Biography, Drama, Romance",7.7
+216,Welcome to Marwen,2018,116,Robert Zemeckis,"Steve Carell, Falk Hentschel, Matt O'Leary","Biography, Comedy, Drama",6.2
+217,The Miseducation of Cameron Post,2018,91,Desiree Akhavan,"Chloë Grace Moretz, Steven Hauck, Quinn Shephard","Comedy, Drama",6.6
+218,Terminal,2018,95,Vaughn Stein,"Margot Robbie, Simon Pegg, Dexter Fletcher","Action, Comedy, Crime",5.4
+219,Life Itself,2018,117,Dan Fogelman,"Oscar Isaac, Olivia Wilde, Annette Bening","Drama, Romance",6.9
+220,Beirut,2018,109,Brad Anderson,"Jon Hamm, Jay Potter, Khalid Benchagra","Action, Adventure, Crime",6.5
+221,Parmanu: The Story of Pokhran,2018,129,Abhishek Sharma,"John Abraham, Boman Irani, Diana Penty","Action, Drama, History",7.6
+222,The Week Of,2018,116,Robert Smigel,"Adam Sandler, Chris Rock, Steve Buscemi",Comedy,5.2
+223,Sonu Ke Titu Ki Sweety,2018,138,Luv Ranjan,"Kartik Aaryan, Nushrratt Bharuccha, Sunny Singh","Comedy, Romance",7.1
+224,"Juliet, Naked",2018,97,Jesse Peretz,"Chris O'Dowd, Rose Byrne, Ethan Hawke","Comedy, Drama, Music",6.6
+225,Goosebumps 2: Haunted Halloween,2018,90,Ari Sandel,"Wendi McLendon-Covey, Madison Iseman, Jeremy Ray Taylor","Adventure, Comedy, Fantasy",5.6
+226,Ben Is Back,2018,103,Peter Hedges,"Julia Roberts, Lucas Hedges, Courtney B. Vance",Drama,6.7
+227,Early Man,2018,89,Nick Park,"Eddie Redmayne, Tom Hiddleston, Maisie Williams","Animation, Adventure, Comedy",6.1
+228,Every Day,2018,97,Michael Sucsy,"Angourie Rice, Justice Smith, Debby Ryan","Drama, Fantasy, Romance",6.4
+229,Fahrenheit 451,2018,100,Ramin Bahrani,"Michael B. Jordan, Aaron Davis, Cindy Katz","Drama, Sci-Fi, Thriller",5.0
+230,Like Father,2018,98,Lauren Miller Rogen,"Kristen Bell, Danielle Davenport, Kimiko Glenn",Drama,6.1
+231,Forever My Girl,2018,108,Bethany Ashton Wolf,"Alex Roe, Jessica Rothe, Abby Ryder Fortson","Comedy, Drama, Music",6.6
+232,Look Away,2018,103,Assaf Bernstein,"India Eisley, Jason Isaacs, Mira Sorvino","Drama, Fantasy, Horror",5.8
+233,Simmba,2018,158,Rohit Shetty,"Ranveer Singh, Sara Ali Khan, Sonu Sood","Action, Crime, Drama",5.5
+234,The Hurricane Heist,2018,103,Rob Cohen,"Toby Kebbell, Maggie Grace, Ryan Kwanten","Action, Adventure, Crime",5.1
+235,Nothing to Lose,2018,134,Alexandre Avancini,"Petrônio Gontijo, Day Mesquita, Beth Goulart","Biography, Drama",2.4
+236,Sarkar,2018,163,A.R. Murugadoss,"Joseph Vijay, Keerthy Suresh, A.R. Murugadoss","Action, Drama",6.7
+237,Batman Ninja,2018,85,Junpei Mizusaki,"Kôichi Yamadera, Wataru Takagi, Ai Kakuma","Animation, Action, Sci-Fi",5.6
+238,Private Life,2018,123,Tamara Jenkins,"Kathryn Hahn, Paul Giamatti, Gabrielle Reid","Comedy, Drama",7.2
+239,The Man Who Killed Don Quixote,2018,132,Terry Gilliam,"José Luis Ferrer, Ismael Fritschi, Juan López-Tagle","Adventure, Comedy, Drama",6.3
+240,Teen Titans GO! To the Movies,2018,84,"Aaron Horvath, Peter Rida Michail","Greg Cipes, Scott Menville, Khary Payton","Animation, Action, Adventure",6.7
+241,Assassination Nation,2018,108,Sam Levinson,"Odessa Young, Abra, Suki Waterhouse","Action, Comedy, Crime",6.0
+242,The Command,2018,117,Thomas Vinterberg,"Matthias Schoenaerts, Léa Seydoux, Peter Simonischek","Action, Adventure, Drama",6.6
+243,The Package,2018,94,Jake Szymanski,"Daniel Doheny, Geraldine Viswanathan, Sadie Calvano","Comedy, Thriller",5.6
+244,Thugs of Hindostan,2018,164,Vijay Krishna Acharya,"Aamir Khan, Amitabh Bachchan, Katrina Kaif","Action, Adventure",4.1
+245,The Game Changers,2018,86,Louie Psihoyos,"James Wilks, Arnold Schwarzenegger, Patrik Baboumian","Documentary, Sport",7.8
+246,Happy as Lazzaro,2018,128,Alice Rohrwacher,"Adriano Tardiolo, Agnese Graziani, Alba Rohrwacher","Drama, Fantasy, Mystery",7.5
+247,Traffik,2018,96,Deon Taylor,"Priscilla Quintana, Luke Goss, Paula Patton","Action, Thriller",5.9
+248,Mulk,2018,140,Anubhav Sinha,"Taapsee Pannu, Rajat Kapoor, Rishi Kapoor",Drama,7.2
+249,The Lie,2018,97,Veena Sud,"Peter Sarsgaard, Mireille Enos, Joey King","Crime, Drama, Mystery",5.8
+250,The Vanishing,2018,107,Kristoffer Nyholm,"Peter Mullan, Gerard Butler, Emma King","Drama, Mystery, Thriller",5.9
+251,A Private War,2018,110,Matthew Heineman,"Rosamund Pike, Alexandra Moen, Tom Hollander","Biography, Drama, War",6.7
+252,Pimp,2018,86,Christine Crokos,"Keke Palmer, Vanessa Morgan, Edi Gathegi","Crime, Drama, Romance",6.5
+253,City of Lies,2018,112,Brad Furman,"Johnny Depp, Forest Whitaker, Toby Huss","Biography, Crime, Drama",6.5
+254,Vada Chennai,2018,164,Vetrimaaran,"Dhanush, Ameer Sultan, Radha Ravi","Action, Crime, Drama",8.4
+255,Lords of Chaos,2018,118,Jonas Åkerlund,"Rory Culkin, Emory Cohen, Jack Kilmer","Biography, Drama, Horror",6.6
+256,Fahrenheit 11/9,2018,128,Michael Moore,"Jim Acosta, Roger Ailes, Brooke Baldwin",Documentary,7.2
+257,Müslüm,2018,136,"Ketche, Can Ulkay","Timuçin Esen, Zerrin Tekindor, Ayça Bingöl","Biography, Drama, Music",7.6
+258,Journal 64,2018,119,Christoffer Boe,"Nikolaj Lie Kaas, Fares Fares, Johanne Louise Schmidt","Crime, Mystery, Thriller",7.4
+259,Raid,2018,122,Raj Kumar Gupta,"Ajay Devgn, Ileana D'Cruz, Saurabh Shukla","Crime, Drama, Thriller",7.4
+260,Vox Lux,2018,114,Brady Corbet,"Natalie Portman, Jude Law, Stacy Martin","Drama, Music",5.9
+261,The Tale,2018,114,Jennifer Fox,"Laura Dern, Jason Ritter, Common","Biography, Drama, Mystery",7.2
+262,Hell Fest,2018,89,Gregory Plotkin,"Cynthea Mercado, Stephen Conroy, Amy Forsyth","Horror, Mystery, Thriller",5.5
+263,Gonjiam: Haunted Asylum,2018,95,Jung Bum-shik,"Oh Ah-yeon, Wi Ha-joon, Yoo Je-Yoon","Horror, Mystery",6.5
+264,Skin,2018,118,Guy Nattiv,"Jamie Bell, Danielle Macdonald, Daniel Henshall","Biography, Crime, Drama",6.8
+265,Next Gen,2018,106,"Kevin R. Adams, Joe Ksander","John Krasinski, Charlyne Yi, Jason Sudeikis","Animation, Action, Adventure",6.6
+266,The Witch: Part 1 - The Subversion,2018,125,Park Hoon-jung,"Kim Da-mi, Jo Min-soo, Choi Woo-sik","Action, Mystery, Sci-Fi",7.1
+267,Thunder Road,2018,92,Jim Cummings,"Jim Cummings, Kendal Farr, Nican Robinson","Comedy, Drama",7.0
+268,Alex Strangelove,2018,99,Craig Johnson,"Michael Abela, Brendan Archer, Joshua Barragan","Comedy, Drama, Romance",6.3
+269,October,2018,115,Shoojit Sircar,"Varun Dhawan, Banita Sandhu, Gitanjali Rao","Drama, Romance",7.6
+270,Batman: Gotham by Gaslight,2018,78,Sam Liu,"Bruce Greenwood, Jennifer Carpenter, Chris Cox","Animation, Action, Adventure",6.7
+271,Butterflies,2018,117,Tolga Karaçelik,"Tolga Tekin, Bartu Küçükçaglayan, Tugce Altug","Comedy, Drama",7.3
+272,Kin,2018,102,"Jonathan Baker, Josh Baker","Myles Truitt, Jack Reynor, Dennis Quaid","Action, Drama, Sci-Fi",5.8
+273,I Can Only Imagine,2018,110,"Andrew Erwin, Jon Erwin","John Michael Finley, Madeline Carroll, Dennis Quaid","Biography, Drama, Family",7.3
+274,Pariyerum Perumal,2018,154,Mari Selvaraj,"Kathir, Anandhi, Yogi Babu",Drama,8.7
+275,Bharath Ane Nenu,2018,173,Koratala Siva,"Mahesh Babu, Kiara Advani, Prakash Raj","Action, Drama, Thriller",7.4
+276,Ibiza,2018,94,Alex Richanbach,"Gwen Elizabeth Duchon, Gillian Jacobs, Michaela Watkins","Comedy, Romance",5.2
+277,Little Italy,2018,102,Donald Petrie,"Emma Roberts, Hayden Christensen, Danny Aiello","Comedy, Romance",5.7
+278,Karwaan,2018,114,Akarsh Khurana,"Irrfan Khan, Dulquer Salmaan, Mithila Palkar","Adventure, Comedy, Drama",7.6
+279,Shadow,2018,116,Yimou Zhang,"Chao Deng, Li Sun, Ryan Zheng","Action, Adventure, Fantasy",7.0
+280,Mirai,2018,98,Mamoru Hosoda,"Rebecca Hall, John Cho, Daniel Dae Kim","Animation, Adventure, Drama",7.0
+281,A Futile and Stupid Gesture,2018,101,David Wain,"Frank Gingerich, Morgan Gingerich, Annette O'Toole","Biography, Comedy",6.7
+282,Malevolent,2018,89,Olaf de Fleur Johannesson,"Florence Pugh, Ben Lloyd-Hughes, Scott Chambers","Horror, Mystery, Thriller",4.9
+283,The Kindergarten Teacher,2018,96,Sara Colangelo,"Maggie Gyllenhaal, Gael García Bernal, Ato Blankson-Wood","Drama, Thriller",6.7
+284,Office Uprising,2018,92,Lin Oeding,"Brenton Thwaites, Jane Levy, Karan Soni","Action, Comedy, Horror",5.7
+285,Nothing to Hide,2018,90,Fred Cavayé,"Bérénice Bejo, Suzanne Clément, Stéphane De Groodt","Comedy, Drama",6.8
+286,Level 16,2018,102,Danishka Esterhazy,"Katie Douglas, Celina Martin, Sara Canning","Drama, Mystery, Thriller",6.1
+287,Siberia,2018,104,Matthew Ross,"Keanu Reeves, Boris Gulyarin, Ashley St. George","Crime, Drama, Romance",4.3
+288,7 Days in Entebbe,2018,107,José Padilha,"Batsheva Dance Company, Zina Zinchenko, Ben Schnetzer","Action, Drama, History",5.9
+289,Gotti,2018,112,Kevin Connolly,"John Travolta, Spencer Rocco Lofranco, Kelly Preston","Biography, Crime, Drama",4.8
+290,Occupation,2018,119,Luke Sparke,"Dan Ewing, Temuera Morrison, Stephany Jacobsen","Action, Drama, Sci-Fi",4.5
+291,The Night Eats the World,2018,93,Dominique Rocher,"Anders Danielsen Lie, Golshifteh Farahani, Denis Lavant","Drama, Horror, Thriller",6.0
+292,Girl,2018,105,Lukas Dhont,"Victor Polster, Arieh Worthalter, Oliver Bodart",Drama,7.2
+293,Breaking In,2018,88,James McTeigue,"Gabrielle Union, Billy Burke, Richard Cabral","Action, Thriller",5.5
+294,King of Thieves,2018,108,James Marsh,"Michael Caine, Francesca Annis, Olivia Le Andersen","Biography, Crime, Drama",5.6
+295,The Hummingbird Project,2018,111,Kim Nguyen,"Jesse Eisenberg, Alexander Skarsgård, Salma Hayek","Drama, Thriller",6.2
+296,Resurrection,2018,147,Ram,"Mammootty, Sadhana, Anjali","Drama, Family",8.7
+297,Galveston,2018,93,Mélanie Laurent,"Ben Foster, Jeffrey Grover, Christopher Amitrano","Action, Crime, Drama",6.2
+298,Slaughterhouse Rulez,2018,104,Crispian Mills,"Jassa Ahluwalia, Asa Butterfield, Jamie Blackley","Action, Comedy, Fantasy",5.3
+299,Geetha Govindam,2018,142,Parasuram,"Vijay Deverakonda, Rashmika Mandanna, Subbaraju","Comedy, Drama, Romance",7.7
+300,Uncle Drew,2018,103,Charles Stone III,"Kyrie Irving, Lil Rel Howery, Shaquille O'Neal","Comedy, Drama, Sport",5.8
+301,Utoya: July 22,2018,93,Erik Poppe,"Andrea Berntzen, Aleksander Holmen, Solveig Koløen Birkeland","Drama, Thriller",7.2
+302,Wild Rose,2018,101,Tom Harper,"Jessie Buckley, Matt Costello, Jane Patterson","Drama, Music",7.1
+303,I Am Not an Easy Man,2018,98,Eléonore Pourriat,"Vincent Elbaz, Marie-Sophie Ferdane, Pierre Benezit","Comedy, Fantasy, Romance",6.3
+304,The Angel,2018,114,Ariel Vromen,"Jordan Rocca, Marwan Kenzari, Henry Andrawes","Action, Biography, Drama",6.7
+305,Kedarnath,2018,116,Abhishek Kapoor,"Sushant Singh Rajput, Sara Ali Khan, Nitish Bharadwaj","Drama, Romance",6.8
+306,Mahanati,2018,177,Nag Ashwin,"Keerthy Suresh, Dulquer Salmaan, Samantha Ruth Prabhu","Biography, Drama",8.4
+307,The Quake,2018,106,John Andreas Andersen,"Kristoffer Joner, Ane Dahl Torp, Edith Haagenrud-Sande","Action, Drama, Thriller",6.2
+308,T-34,2018,139,Aleksey Sidorov,"Alexander Petrov, Irina Starshenbaum, Viktor Dobronravov","Action, War",6.8
+309,Billionaire Boys Club,2018,108,James Cox,"Ansel Elgort, Kevin Spacey, Taron Egerton","Biography, Drama, Thriller",5.6
+310,Stockholm,2018,92,Robert Budreau,"Ethan Hawke, Noomi Rapace, Mark Strong","Biography, Comedy, Crime",6.1
+311,RBG,2018,98,"Julie Cohen, Betsy West","Ruth Bader Ginsburg, Ann Kittner, Harryette Helsel","Documentary, Biography",7.6
+312,Down a Dark Hall,2018,96,Rodrigo Cortés,"AnnaSophia Robb, Uma Thurman, Isabelle Fuhrman","Drama, Fantasy, Horror",5.0
+313,In Darkness,2018,110,Anthony Byrne,"Natalie Dormer, Ed Skrein, Emily Ratajkowski","Mystery, Thriller",5.8
+314,Gold,2018,151,Reema Kagti,"Krishan Tandon, Hubertus Geller, Siddharth Kher","Drama, History, Sport",7.3
+315,Trial by Fire,2018,127,Edward Zwick,"Jack O'Connell, Laura Dern, Emily Meade","Biography, Drama",7.1
+316,Red Joan,2018,101,Trevor Nunn,"Judi Dench, Sophie Cookson, Stephen Campbell Moore","Biography, Drama, History",6.4
+317,Rust Creek,2018,108,Jen McGowan,"Hermione Corfield, Jay Paulson, Sean O'Bryan","Action, Crime, Drama",5.9
+318,In Fabric,2018,118,Peter Strickland,"Sidse Babett Knudsen, Marianne Jean-Baptiste, Julian Barratt","Comedy, Drama, Fantasy",6.2
+319,Sherlock Gnomes,2018,86,John Stevenson,"Johnny Depp, James McAvoy, Emily Blunt","Animation, Adventure, Comedy",5.3
+320,The American Meme,2018,98,Bert Marcus,"Kirill Bichutsky, Hailey Bieber, Amanda Cerny",Documentary,6.1
+321,Final Score,2018,104,Scott Mann,"Martyn Ford, Gordon Alexander, Alexandra Dinu","Action, Adventure, Drama",5.8
+322,The Front Runner,2018,113,Jason Reitman,"Hugh Jackman, Vera Farmiga, J.K. Simmons","Biography, Drama, History",6.1
+323,Wildling,2018,92,Fritz Böhm,"Bel Powley, Brad Dourif, Liv Tyler","Drama, Fantasy, Horror",5.5
+324,Hichki,2018,116,Siddharth P Malhotra,"Rani Mukerji, Pankaj Anand, Rohit Saraf","Comedy, Drama",7.5
+325,Accident Man,2018,105,Jesse V. Johnson,"Scott Adkins, Ray Stevenson, David Paymer","Action, Adventure, Comedy",6.2
+326,Then Came You,2018,97,Peter Hutchings,"Asa Butterfield, Maisie Williams, Nina Dobrev","Comedy, Drama, Romance",6.9
+327,The Man Who Killed Hitler and Then the Bigfoot,2018,98,Robert D. Krzykowski,"Sam Elliott, Rocco Gioffre, Aidan Turner","Adventure, Drama, Sci-Fi",5.7
+328,Balloon,2018,125,Michael Herbig,"Friedrich Mücke, Karoline Schuch, David Kross","Drama, History, Thriller",7.5
+329,A-X-L,2018,98,Oliver Daly,"Alex Neustaedter, Becky G, Alex MacNicoll","Action, Adventure, Drama",5.3
+330,Ophelia,2018,106,Claire McCarthy,"Daisy Ridley, Mia Quiney, Calum O'Rourke","Drama, Romance, Thriller",6.5
+331,My Hero Academia: Two Heroes,2018,96,Kenji Nagasaki,"Daiki Yamashita, Kenta Miyake, Mirai Shida","Animation, Action, Adventure",7.3
+332,Aniara,2018,106,"Pella Kagerman, Hugo Lilja","Emelie Garbers, Bianca Cruzeiro, Arvin Kananian","Drama, Sci-Fi",6.3
+333,Champion,2018,130,Ahmet Katiksiz,"Ekin Koç, Farah Zeynep Abdullah, Fikret Kuskan","Biography, Drama, Romance",8.2
+334,Black '47,2018,100,Lance Daly,"Hugo Weaving, James Frecheville, Stephen Rea","Action, Drama, History",6.8
+335,Spinning Man,2018,100,Simon Kaijser,"Guy Pearce, Pierce Brosnan, Minnie Driver","Drama, Mystery, Thriller",5.7
+336,Acts of Violence,2018,86,Brett Donowho,"Bruce Willis, Cole Hauser, Shawn Ashmore","Action, Crime, Thriller",5.3
+337,Lust Stories,2018,120,"Zoya Akhtar, Dibakar Banerjee, Karan Johar","Kiara Advani, Vicky Kaushal, Bhumi Pednekar","Drama, Romance",6.4
+338,Veere Di Wedding,2018,135,Shashanka Ghosh,"Kareena Kapoor, Sonam Kapoor, Swara Bhasker",Comedy,3.4
+339,Birds of Passage,2018,125,"Cristina Gallego, Ciro Guerra","Carmiña Martínez, José Acosta, Natalia Reyes","Crime, Drama",7.5
+340,Gloria Bell,2018,102,Sebastián Lelio,"Julianne Moore, John Turturro, Caren Pistorius","Comedy, Drama, Music",6.3
+341,I Think We're Alone Now,2018,99,Reed Morano,"Peter Dinklage, Elle Fanning, Charlotte Gainsbourg","Drama, Mystery, Sci-Fi",5.7
+342,The Photographer of Mauthausen,2018,110,Mar Targarona,"Mario Casas, Richard van Weyden, Alain Hernández","Biography, Drama, History",6.8
+343,Bleach,2018,108,Shinsuke Satô,"Sôta Fukushi, Hana Sugisaki, Ryô Yoshizawa","Action, Adventure, Fantasy",6.3
+344,Father of the Year,2018,94,Tyler Spindel,"David Spade, Nat Faxon, Joey Bragg",Comedy,5.2
+345,The Catcher Was a Spy,2018,94,Ben Lewin,"Paul Rudd, Pierfrancesco Favino, Tom Wilkinson","Biography, Drama, War",6.3
+346,Swiped,2018,93,Ann Deborah Fishman,"Kendall Ryan Sanders, Noah Centineo, Nathan Gamble","Comedy, Romance",2.8
+347,South Wind,2018,130,Milos Avramovic,"Milos Bikovic, Miodrag Radonjic, Dragan Bjelogrlic","Crime, Drama, Thriller",7.8
+348,London Fields,2018,118,Mathew Cullen,"Jason Isaacs, Theo James, Billy Bob Thornton","Crime, Mystery, Thriller",3.9
+349,Blackmail,2018,138,Abhinay Deo,"Irrfan Khan, Kirti Kulhari, Divya Dutta","Comedy, Drama, Thriller",7.1
+350,10x10,2018,88,Suzi Ewing,"Kelly Reilly, Luke Evans, Jill Winternitz","Drama, Mystery, Thriller",5.2
+351,UFO,2018,88,Ryan Eslinger,"Alex Sharp, Gillian Anderson, Ella Purnell","Drama, Mystery, Sci-Fi",6.2
+352,Sink or Swim,2018,121,Gilles Lellouche,"Mathieu Amalric, Guillaume Canet, Benoît Poelvoorde","Comedy, Drama, Sport",6.9
+353,A Christmas Prince: The Royal Wedding,2018,92,John Schultz,"Rose McIver, Ben Lamb, Alice Krige","Comedy, Drama, Romance",5.3
+354,Action Point,2018,85,Tim Kirkby,"Johnny Knoxville, Eleanor Worthington-Cox, Chris Pontius",Comedy,5.1
+355,Goodachari,2018,147,Sashi Kiran Tikka,"Adivi Sesh, Sobhita Dhulipala, Jagapathi Babu","Action, Thriller",7.8
+356,Champions,2018,124,Javier Fesser,"Javier Gutiérrez, Athenea Mata, Juan Margallo","Comedy, Drama, Family",7.2
+357,Transit,2018,101,Christian Petzold,"Franz Rogowski, Paula Beer, Godehard Giese","Drama, Sci-Fi",6.9
+358,I Still See You,2018,98,Scott Speer,"Bella Thorne, Richard Harmon, Dermot Mulroney","Fantasy, Horror, Mystery",5.8
+359,Asterix: The Secret of the Magic Potion,2018,87,"Alexandre Astier, Louis Clichy","Bernard Alane, Christian Clavier, Guillaume Briat","Animation, Adventure, Comedy",6.7
+360,Baaghi 2,2018,137,Ahmed Khan,"Jacqueline Fernandez, Disha Patani, Riteish Deshmukh","Action, Drama, Thriller",4.8
+361,Hearts Beat Loud,2018,97,Brett Haley,"Nick Offerman, Kiersey Clemons, Blythe Danner","Comedy, Drama, Music",6.9
+362,El Angel,2018,118,Luis Ortega,"Lorenzo Ferro, Cecilia Roth, Luis Gnecco","Biography, Crime, Drama",6.9
+363,The Holiday Calendar,2018,95,Bradley Walsh,"Kat Graham, Quincy Brown, Ethan Peck","Drama, Fantasy, Romance",5.7
+364,Mary Magdalene,2018,120,Garth Davis,"Rooney Mara, Joaquin Phoenix, Chiwetel Ejiofor","Biography, Drama, History",5.9
+365,Heavy Trip,2018,92,"Juuso Laatio, Jukka Vidgren","Johannes Holopainen, Samuli Jaskio, Antti Tuomas Heikkinen","Comedy, Music",7.0
+366,Ideal Home,2018,91,Andrew Fleming,"Steve Coogan, Paul Rudd, Jesse Luken","Comedy, Drama",6.4
+367,The Domestics,2018,95,Mike P. Nelson,"Kate Bosworth, Tyler Hoechlin, Sonoya Mizuno","Action, Horror, Sci-Fi",5.7
+368,A.I. Rising,2018,85,Lazar Bodroza,"Sebastian Cavazza, Stoya, Marusa Majer","Drama, Romance, Sci-Fi",4.9
+369,Woman at War,2018,101,Benedikt Erlingsson,"Halldóra Geirharðsdóttir, Jóhann Sigurðarson, Davíð Þór Jónsson","Adventure, Comedy, Drama",7.4
+370,The Isle,2018,96,Matthew Butler-Hart,"Conleth Hill, Alex Hassell, Fisayo Akinade","Fantasy, Mystery, Thriller",4.9
+371,A Twelve-Year Night,2018,122,Álvaro Brechner,"Antonio de la Torre, Chino Darín, Alfonso Tort","Adventure, Biography, Crime",7.5
+372,Taxi 5,2018,102,Franck Gastambide,"Franck Gastambide, Malik Bentalha, Bernard Farcy","Action, Comedy, Crime",4.6
+373,1/1,2018,85,Jeremy Phillips,"Lindsey Shaw, Judd Nelson, Dendrie Taylor",Drama,6.0
+374,Proud Mary,2018,89,Babak Najafi,"Taraji P. Henson, Billy Brown, Jahi Di'Allo Winston","Action, Crime, Drama",5.0
+375,The Resistance Banker,2018,123,Joram Lürsen,"Jacob Derwig, Barry Atsma, Fockeline Ouwerkerk","Biography, Drama, War",6.9
+376,Ash Is Purest White,2018,136,Jia Zhang-ke,"Tao Zhao, Fan Liao, Zheng Xu","Crime, Drama, Romance",7.0
+377,A Vigilante,2018,91,Sarah Daggar-Nickson,"Olivia Wilde, Morgan Spector, Kyle Catlett","Crime, Drama, Mystery",5.7
+378,Behind the Curve,2018,96,Daniel J. Clark,"Mark K. Sargent, Patti Sargent, Hannalore Gerling-Dunsmore",Documentary,6.5
+379,Dhadak,2018,138,Shashank Khaitan,"Janhvi Kapoor, Ishaan Khatter, Ashutosh Rana","Drama, Romance",4.6
+380,Kaala,2018,162,Pa. Ranjith,"Rajinikanth, Nana Patekar, Samuthirakani","Action, Crime, Drama",6.5
+381,Bhavesh Joshi Superhero,2018,154,Vikramaditya Motwane,"Harshvardhan Kapoor, Priyanshu Painyuli, Ashish Verma","Action, Drama",7.6
+382,The Little Stranger,2018,111,Lenny Abrahamson,"Domhnall Gleeson, Will Poulter, Ruth Wilson","Drama, Horror, Mystery",5.5
+383,Minding the Gap,2018,93,Bing Liu,"Kent Abernathy, Mengyue Bolen, Nina Bowgren","Documentary, Sport",8.0
+384,"Paul, Apostle of Christ",2018,108,Andrew Hyatt,"Jim Caviezel, James Faulkner, Olivier Martinez","Adventure, Biography, Drama",6.6
+385,Zoe,2018,104,Drake Doremus,"Ewan McGregor, Léa Seydoux, Theo James","Drama, Romance, Sci-Fi",6.1
+386,Possum,2018,85,Matthew Holness,"Sean Harris, Alun Armstrong, Andy Blithe","Drama, Horror, Mystery",5.8
+387,Irreplaceable You,2018,96,Stephanie Laing,"Gugu Mbatha-Raw, Michiel Huisman, Steve Coogan","Comedy, Drama, Romance",6.4
+388,Patient Zero,2018,93,Stefan Ruzowitzky,"Matt Smith, Natalie Dormer, John Bradley","Action, Drama, Horror",4.6
+389,Stranger in My Pocket,2018,95,Serra Yilmaz,"Belçim Bilgin, Bugra Gülsoy, Çaglar Çorumlu","Comedy, Drama",6.8
+390,On My Skin: The Last Seven Days of Stefano Cucchi,2018,100,Alessio Cremonini,"Alessandro Borghi, Massimiliano Tortora, Milvia Marigliano","Biography, Drama",7.3
+391,Brian Banks,2018,99,Tom Shadyac,"Aldis Hodge, Greg Kinnear, Sherri Shepherd","Biography, Drama, Sport",7.2
+392,Acrimony,2018,120,Tyler Perry,"Taraji P. Henson, Lyriq Bent, Crystle Stewart","Drama, Horror, Romance",5.9
+393,Cumali Ceber 2,2018,100,Kamil Çetin,"Halil Söyletmez, Serkan Sengül, Doga Konakoglu",Comedy,1.2
+394,Giant Little Ones,2018,93,Keith Behrman,"Josh Wiggins, Darren Mann, Taylor Hickson",Drama,7.2
+395,We Have Always Lived in the Castle,2018,95,Stacie Passon,"Taissa Farmiga, Alexandra Daddario, Crispin Glover","Drama, Horror, Mystery",5.6
+396,Master Z: The Ip Man Legacy,2018,107,Yuen Woo-Ping,"Jin Zhang, Dave Bautista, Yan Liu","Action, Biography, Crime",6.5
+397,2036 Origin Unknown,2018,94,Hasraf Dulull,"Katee Sackhoff, Ray Fearon, Julie Cox","Action, Sci-Fi, Thriller",4.3
+398,The Wind,2018,88,Emma Tammi,"Caitlin Gerard, Julia Goldani Telles, Ashley Zukerman","Drama, Horror, Mystery",5.6
+399,Aravindha Sametha,2018,162,Trivikram Srinivas,"N.T. Rama Rao Jr., Pooja Hegde, Jagapathi Babu","Action, Drama",7.3
+400,Time Freak,2018,104,Andrew Bowler,"Asa Butterfield, Sophie Turner, Skyler Gisondo","Comedy, Drama, Romance",5.8
+401,Constantine: City of Demons - The Movie,2018,90,Doug Murphy,"Matt Ryan, Laura Bailey, Robin Atkin Downes","Animation, Action, Fantasy",7.3
+402,Elizabeth Harvest,2018,108,Sebastian Gutierrez,"Abbey Lee, Ciarán Hinds, Carla Gugino","Horror, Sci-Fi, Thriller",5.8
+403,Nappily Ever After,2018,98,Haifaa Al-Mansour,"Sanaa Lathan, Ricky Whittle, Lyriq Bent","Comedy, Drama, Romance",6.4
+404,The VelociPastor,2018,75,Brendan Steere,"Gregory James Cohan, George Schewnzer, Janice Young","Action, Adventure, Comedy",5.1
+405,211,2018,86,York Alec Shackleton,"Nicolas Cage, Sophie Skelton, Michael Rainey Jr.","Action, Drama, Horror",4.4
+406,Teen Spirit,2018,93,Max Minghella,"Elle Fanning, Agnieszka Grochowska, Archie Madekwe","Drama, Music",6.1
+407,What Keeps You Alive,2018,98,Colin Minihan,"Hannah Emily Anderson, Brittany Allen, Martha MacIsaac","Horror, Thriller",5.7
+408,The Mercy,2018,112,James Marsh,"Colin Firth, Eleanor Stagg, Rachel Weisz","Adventure, Biography, Drama",6.0
+409,Along With the Gods: The Last 49 Days,2018,142,Kim Yong-hwa,"Ha Jung-woo, Ju Ji-hoon, Kim Hyang-gi","Action, Adventure, Drama",7.1
+410,Await Further Instructions,2018,91,Johnny Kevorkian,"Sam Gittins, Neerja Naik, Abigail Cruttenden","Horror, Mystery, Sci-Fi",4.9
+411,He's Out There,2018,89,Dennis Iliadis,"Yvonne Strahovski, Anna Pniowsky, Abigail Pniowsky","Horror, Thriller",5.3
+412,Lizzie,2018,105,Craig William Macneill,"Chloë Sevigny, Kristen Stewart, Jeff Perry","Biography, Crime, Drama",5.9
+413,Long Day's Journey Into Night,2018,138,Bi Gan,"Tang Wei, Jue Huang, Sylvia Chang","Drama, Mystery, Romance",7.1
+414,The Candidate,2018,132,Rodrigo Sorogoyen,"Antonio de la Torre, Mónica López, Josep Maria Pou","Drama, Mystery, Thriller",7.1
+415,The Little Mermaid,2018,85,"Blake Harris, Chris Bouchard","William Moseley, Poppy Drayton, Loreto Peralta","Adventure, Drama, Fantasy",4.3
+416,Sui Dhaaga: Made in India,2018,122,Sharat Katariya,"Anushka Sharma, Varun Dhawan, Raghubir Yadav","Comedy, Drama",6.8
+417,Robin Williams: Come Inside My Mind,2018,116,Marina Zenovich,"Robin Williams, Mark Rasmussen, Stan Wilson","Documentary, Biography, Comedy",7.9
+418,Maquia: When the Promised Flower Blooms,2018,115,"Masakazu Hashimoto, Jong Heo, Tadashi Hiramatsu","Manaka Iwami, Miyu Irino, Yôko Hikasa","Animation, Adventure, Drama",7.4
+419,Our House,2018,90,Anthony Scott Burns,"John Ralston, Thomas Mann, Percy Hynes White","Drama, Horror, Mystery",5.3
+420,Bloodline,2018,97,Henry Jacobson,"Seann William Scott, Mariela Garriga, Dale Dickey","Crime, Horror, Thriller",6.0
+421,Husband Material,2018,156,Anurag Kashyap,"Taapsee Pannu, Abhishek Bachchan, Vicky Kaushal","Comedy, Drama, Romance",6.8
+422,The Debt Collector,2018,95,Jesse V. Johnson,"David Will No, Michael Paré, Scott Adkins","Action, Comedy",5.9
+423,The Man Who Feels No Pain,2018,134,Vasan Bala,"Abhimanyu Dasani, Radhika Madan, Mahesh Manjrekar","Action, Comedy, Drama",7.3
+424,Love Per Square Foot,2018,133,Anand Tiwari,"Vicky Kaushal, Angira Dhar, Alankrita Sahai","Comedy, Romance",7.1
+425,The Biggest Little Farm,2018,91,John Chester,"John Chester, Molly Chester, Todd","Documentary, Family",8.0
+426,The Unthinkable,2018,129,Victor Danell,"Christoffer Nordenrot, Lisa Henni, Jesper Barkselius","Action, Romance, Sci-Fi",6.0
+427,Welcome Home,2018,97,George Ratliff,"Emily Ratajkowski, Aaron Paul, Riccardo Scamarcio","Drama, Horror, Mystery",5.2
+428,Mara,2018,98,Clive Tonge,"Olga Kurylenko, Craig Conway, Javier Botet","Crime, Horror, Mystery",5.1
+429,303,2018,145,Hans Weingartner,"Mala Emde, Anton Spieker, Arndt Schwering-Sohnrey","Comedy, Drama, Romance",7.5
+430,The Land of Steady Habits,2018,98,Nicole Holofcener,"Ben Mendelsohn, Natalie Gold, Thomas Mann","Comedy, Drama",6.2
+431,Arizona,2018,85,Jonathan Watson,"Danny McBride, Rosemarie DeWitt, Lolli Sorenson","Comedy, Thriller",5.8
+432,Sir,2018,99,Rohena Gera,"Tillotama Shome, Vivek Gomber, Geetanjali Kulkarni","Drama, Romance",7.7
+433,C/o Kancharapalem,2018,152,Venkatesh Maha,"Radha Bessy, Subba Rao Vepada, Praneeta Patnaik",Drama,8.8
+434,The Con is On,2018,95,James Oakley,"Dot Cosgrove, Uma Thurman, Tim Roth","Comedy, Crime",3.8
+435,Delirium,2018,96,Dennis Iliadis,"Topher Grace, Genesis Rodriguez, Patricia Clarkson","Horror, Thriller",5.7
+436,Piercing,2018,81,Nicolas Pesce,"Christopher Abbott, Laia Costa, Mia Wasikowska","Horror, Mystery, Thriller",5.5
+437,The Extraordinary Journey of the Fakir,2018,92,Ken Scott,"Dhanush, Bérénice Bejo, Erin Moriarty","Adventure, Comedy, Drama",6.8
+438,Driven,2018,113,Nick Hamm,"Jason Sudeikis, Lee Pace, Judy Greer","Biography, Comedy, Crime",6.4
+439,Puzzle,2018,103,Marc Turtletaub,"Kelly Macdonald, Irrfan Khan, David Denman","Drama, Mystery, Romance",6.7
+440,Ladies in Black,2018,109,Bruce Beresford,"Julia Ormond, Angourie Rice, Rachael Taylor","Comedy, Drama, Romance",6.8
+441,Hell House LLC II: The Abaddon Hotel,2018,89,Stephen Cognetti,"Vas Eli, Jillian Geurts, Joy Shatz","Horror, Mystery",5.4
+442,"Naa Peru Surya, Naa Illu India",2018,163,Vakkantham Vamsi,"Allu Arjun, Arjun Sarja, R. Sarathkumar","Action, Drama",6.7
+443,McQueen,2018,111,"Ian Bonhôte, Peter Ettedgui","Alexander McQueen, Joyce McQueen, John Hitchcock","Documentary, Biography",7.7
+444,An Elephant Sitting Still,2018,230,Bo Hu,"Zhang Yu, Yuchang Peng, Uvin Wang","Crime, Drama",7.8
+445,Distorted,2018,86,Rob W. King,"Christina Ricci, Brendan Fletcher, Vicellous Shannon","Crime, Mystery, Thriller",4.5
+446,By the Grace of God,2018,137,François Ozon,"Melvil Poupaud, Denis Ménochet, Swann Arlaud","Crime, Drama",7.2
+447,Support the Girls,2018,93,Andrew Bujalski,"Regina Hall, Haley Lu Richardson, Dylan Gelula","Comedy, Drama",6.4
+448,Dying to Survive,2018,117,Muye Wen,"Zheng Xu, Yiwei Zhou, Chuan-jun Wang","Comedy, Drama",7.8
+449,Her Smell,2018,136,Alex Ross Perry,"Elisabeth Moss, Cara Delevingne, Dan Stevens","Drama, Music",6.0
+450,How About Adolf?,2018,91,Sönke Wortmann,"Christoph Maria Herbst, Florian David Fitz, Caroline Peters",Comedy,7.0
+451,Looking Glass,2018,103,Tim Hunter,"Nicolas Cage, Robin Tunney, Marc Blucas","Mystery, Thriller",4.7
+452,"Ruben Brandt, Collector",2018,96,Milorad Krstic,"Iván Kamarás, Csaba Márton, Gabriella Hámori","Animation, Action, Crime",7.4
+453,Laila Majnu,2018,140,Sajid Ali,"Avinash Tiwary, Triptii Dimri, Sumit Kaul","Drama, Romance",7.6
+454,Reprisal,2018,89,Brian A. Miller,"Bruce Willis, Frank Grillo, Johnathon Schaech","Action, Drama, Thriller",4.3
+455,Ailecek Saskiniz,2018,113,Selçuk Aydemir,"Ahmet Kural, Murat Cemcir, Saadet Aksoy",Comedy,6.1
+456,Nobody's Fool,2018,110,Tyler Perry,"Tiffany Haddish, Tika Sumpter, Omari Hardwick","Comedy, Drama, Romance",5.0
+457,Operation Red Sea,2018,142,Dante Lam,"Yi Zhang, Johnny Huang, Hai-Qing","Action, Drama, Thriller",6.6
+458,American Woman,2018,111,Jake Scott,"Sienna Miller, Sky Ferreira, Kentucker Audley","Drama, Mystery",6.8
+459,The Other Side of the Wind,2018,122,Orson Welles,"John Huston, Oja Kodar, Peter Bogdanovich",Drama,6.7
+460,Lupt,2018,110,Prabhuraj,"Jaaved Jaaferi, Niki Walia, Vijay Raaz","Horror, Thriller",4.6
+461,Leto,2018,126,Kirill Serebrennikov,"Roman Bilyk, Irina Starshenbaum, Teo Yoo","Biography, Drama, History",7.3
+462,Between Worlds,2018,90,Maria Pulera,"Nicolas Cage, Franka Potente, Penelope Mitchell","Fantasy, Mystery, Thriller",3.9
+463,Cut Off,2018,132,Christian Alvart,"Moritz Bleibtreu, Jasna Fritzi Bauer, Lars Eidinger","Action, Crime, Horror",6.5
+464,Whitney,2018,120,Kevin Macdonald,"Whitney Houston, Ellen White, Michael Houston","Documentary, Biography, Drama",7.3
+465,Satyameva Jayate,2018,140,Milap Zaveri,"John Abraham, Manoj Bajpayee, Aisha Sharma","Action, Crime, Drama",5.7
+466,A Sniper's War,2018,83,Olya Schechter,Dejan Beric,"Documentary, War",3.5
+467,The Death & Life of John F. Donovan,2018,123,Xavier Dolan,"Kit Harington, Natalie Portman, Jacob Tremblay",Drama,6.1
+468,A Breath Away,2018,89,Daniel Roby,"Romain Duris, Olga Kurylenko, Fantine Harduin","Action, Drama, Mystery",5.9
+469,Good Game: The Beginning,2018,114,Umut Aral,"Mert Yazicioglu, Afra Saraçoglu, Orkun Isitmak","Comedy, Drama, Sport",4.7
+470,The Festival,2018,98,Iain Morris,"Joe Thomas, Hannah Tointon, Hammed Animashaun","Comedy, Music, Romance",5.8
+471,A Fortunate Man,2018,162,Bille August,"Esben Smed, Katrine Greis-Rosenthal, Benjamin Kitter","Drama, Romance",7.2
+472,Sheeple,2018,103,Houman Seyyedi,"Navid Mohammadzadeh, Farhad Aslani, Farid Sajjadi Hosseini","Crime, Drama, Thriller",7.6
+473,Active Measures,2018,109,Jack Bryan,"Vladimir Putin, Jeremy Bash, Nina Burleigh",Documentary,7.7
+474,My Masterpiece,2018,104,Gastón Duprat,"Andrea Acatto, Lucas Aranda, Raúl Arévalo","Comedy, Drama",7.1
+475,Dude,2018,97,Olivia Milch,"Lucy Hale, Kathryn Prescott, Alexandra Shipp","Comedy, Drama",5.1
+476,SuperFly,2018,116,Director X,"Trevor Jackson, Jason Mitchell, Lex Scott Davis","Action, Crime, Thriller",5.3
+477,Be With You,2018,132,Lee Jang-hoon,"So Ji-seob, Son Ye-jin, Ko Chang-seok","Drama, Fantasy, Romance",7.7
+478,MILF,2018,101,Axelle Laffont,"Virginie Ledoyen, Marie-Josée Croze, Axelle Laffont",Comedy,4.8
+479,Profile,2018,106,Timur Bekmambetov,"Valene Kane, Morgan Watkins, Christine Adams","Mystery, Thriller",6.7
+480,Black Water,2018,104,Pasha Patriki,"Jean-Claude Van Damme, Dolph Lundgren, Al Sapienza","Action, Drama, Thriller",4.7
+481,Dear Ex,2018,100,"Chih-Yen Hsu, Mag Hsu","Roy Chiu, Ying-Hsuan Hsieh, Spark Chen","Comedy, Drama, Romance",7.3
+482,Loro,2018,151,Paolo Sorrentino,"Toni Servillo, Elena Sofia Ricci, Riccardo Scamarcio","Biography, Drama",6.7
+483,To Die For,2018,109,Çagatay Tosun,"Burak Özçivit, Kerem Bürsin, Melike Ipek Yalova","Action, War",5.7
+484,102 Not Out,2018,102,Umesh Shukla,"Amitabh Bachchan, Vijay Raaz, Rishi Kapoor","Comedy, Drama",7.4
+485,Pari,2018,136,Prosit Roy,"Anushka Sharma, Parambrata Chattopadhyay, Rajat Kapoor","Fantasy, Horror, Mystery",6.6
+486,The Final Wish,2018,95,Timothy Woodward Jr.,"Lin Shaye, Michael Welch, Melissa Bolona",Horror,4.3
+487,Becoming Astrid,2018,123,Pernille Fischer Christensen,"Alba August, Maria Bonnevie, Trine Dyrholm","Biography, Drama, History",7.1
+488,Tell It to the Bees,2018,108,Annabel Jankel,"Billy Boyd, Gregor Selkirk, Anna Paquin","Drama, Romance",6.5
+489,Death of a Nation,2018,108,"Dinesh D'Souza, Bruce Schooley","Dinesh D'Souza, Victoria Chilap, Pavel Kríz","Documentary, History",4.1
+490,The Head Hunter,2018,72,Jordan Downey,"Christopher Rygh, Cora Kaufman, Aisha Ricketts","Fantasy, Horror",5.4
+491,Little Horror Movie,2018,84,Jérôme Cohen-Olivar,"Einar Kuusk, Rosine Young, Rebecca Ramon","Horror, Mystery",4.1
+492,100 Things,2018,111,Florian David Fitz,"Florian David Fitz, Matthias Schweighöfer, Miriam Stein","Comedy, Drama",6.3
+493,Sex Weather,2018,89,Jon Garcia,"Al'Jaleel McGhee, Amber Stonebraker, Alan Burrell","Comedy, Drama, Romance",4.5
+494,The Keeper,2018,120,Marcus H. Rosenmüller,"David Kross, Freya Mavor, John Henshaw","Biography, Drama, Romance",7.3
+495,Fast Color,2018,100,Julia Hart,"Gugu Mbatha-Raw, Lorraine Toussaint, Saniyya Sidney","Drama, Sci-Fi, Thriller",6.1
+496,The White Crow,2018,127,Ralph Fiennes,"Oleg Ivenko, Ralph Fiennes, Louis Hofmann","Biography, Drama",6.6
+497,Ashes in the Snow,2018,98,Marius A. Markevicius,"Bel Powley, Lisa Loven Kongsli, Martin Wallström","Drama, History, Romance",6.6
+498,Future World,2018,88,"James Franco, Bruce Thierry Cheung","James Franco, Suki Waterhouse, Jeff Wahlberg","Action, Adventure, Sci-Fi",3.3
+499,Chekka Chivantha Vaanam,2018,146,Mani Ratnam,"Arvind Swamy, Arun Vijay, Silambarasan TR","Action, Drama, Thriller",7.2
+500,The Bouncer,2018,94,Julien Leclercq,"Jean-Claude Van Damme, Sami Bouajila, Sveva Alviti","Action, Drama, Thriller",5.9
+501,Dead in a Week Or Your Money Back,2018,90,Tom Edmunds,"Tom Wilkinson, Aneurin Barnard, Marion Bailey","Comedy, Drama",6.3
+502,Glossary of Broken Dreams,2018,99,Johannes Grenzfurthner,"Johannes Grenzfurthner, Charlie Poulon, Daniel Hasibar","Animation, Comedy, Drama",5.7
+503,Blue Iguana,2018,100,Hadi Hajaig,"Sam Rockwell, Phoebe Fox, Ben Schwartz","Action, Comedy, Crime",5.6
+504,Operation Odessa,2018,92,Tiller Russell,"Ludwig Fainberg, Juan Almeida, Nelson Yester","Documentary, Crime",7.7
+505,The Breaker Upperers,2018,90,"Madeleine Sami, Jackie van Beek","Madeleine Sami, Jackie van Beek, James Rolleston",Comedy,5.9
+506,Blood Fest,2018,92,Owen Egerton,"Robbie Kay, Jacob Batalon, Seychelle Gabriel","Comedy, Horror",5.4
+507,The Wedding Guest,2018,96,Michael Winterbottom,"Dev Patel, Radhika Apte, Jim Sarbh","Action, Thriller",5.8
+508,The Warning,2018,92,Daniel Calparsoro,"Raúl Arévalo, Aura Garrido, Hugo Arbues","Crime, Drama, Fantasy",5.9
+509,Joseph,2018,138,M. Padmakumar,"Joju George, Athmeeya Rajan, Dileesh Pothan","Crime, Drama, Mystery",8.0
+510,Monster,2018,98,Anthony Mandler,"A$AP Rocky, John David Washington, Kelvin Harrison Jr.","Crime, Drama",6.5
+511,An Evening with Beverly Luff Linn,2018,108,Jim Hosking,"Aubrey Plaza, Jemaine Clement, Matt Berry","Comedy, Crime",5.8
+512,Checkered Ninja,2018,83,"Thorbjørn Christoffersen, Anders Matthesen","Alfred Bjerre Larsen, Emma Sehested Høeg, Anders Matthesen","Animation, Action, Adventure",7.1
+513,The Spy Gone North,2018,137,Yoon Jong-bin,"Hwang Jung-min, Lee Sung-min, Cho Jin-woong","Drama, Thriller",7.3
+514,Clergy,2018,133,Wojciech Smarzowski,"Arkadiusz Jakubik, Robert Wieckiewicz, Jacek Braciak",Drama,7.3
+515,Jonathan,2018,100,Bill Oliver,"Ansel Elgort, Suki Waterhouse, Patricia Clarkson","Drama, Mystery, Sci-Fi",5.9
+516,Status Update,2018,106,Scott Speer,"Ross Lynch, Olivia Holt, Harvey Guillén","Comedy, Fantasy, Romance",5.8
+517,Mia and the White Lion,2018,98,Gilles de Maistre,"Daniah De Villiers, Mélanie Laurent, Langley Kirkwood","Adventure, Drama, Family",6.5
+518,Bob Lazar: Area 51 & Flying Saucers,2018,97,Jeremy Kenyon Lockyer Corbell,"Bob Lazar, George Knapp, Jeremy Kenyon Lockyer Corbell",Documentary,5.6
+519,Bent,2018,96,Bobby Moresco,"Karl Urban, Sofía Vergara, Andy Garcia","Action, Crime, Drama",5.2
+520,You Might Be the Killer,2018,92,Brett Simmons,"Fran Kranz, Alyson Hannigan, Brittany S. Hall","Comedy, Horror, Mystery",5.9
+521,Thaanaa Serndha Koottam,2018,138,Vignesh Shivan,"Suriya, Keerthy Suresh, Karthik","Action, Comedy, Crime",6.3
+522,The Miracle Season,2018,101,Sean McNamara,"Helen Hunt, Erin Moriarty, William Hurt","Drama, Sport",6.5
+523,Psychokinesis,2018,101,Yeon Sang-ho,"Ryu Seung-ryong, Shim Eun-kyung, Park Jeong-min","Action, Comedy, Fantasy",5.9
+524,Imaikkaa Nodigal,2018,170,R. Ajay Gnanamuthu,"Nayanthara, Atharvaa Murali, Anurag Kashyap","Crime, Drama, Thriller",7.3
+525,Asylum of Fear,2018,79,Craig Deering,"Maurice Demus, Michael Medford, Callie Deering","Horror, Mystery, Thriller",3.4
+526,Batti Gul Meter Chalu,2018,161,Shree Narayan Singh,"Shahid Kapoor, Shraddha Kapoor, Divyendu Sharma",Drama,5.9
+527,Bad Seeds,2018,100,Kheiron,"Kheiron, Catherine Deneuve, André Dussollier",Comedy,7.3
+528,In This Gray Place,2018,101,R.D. Womack II,"Aleksander Ristic, Marcus Johns, Angela Nordeng","Drama, Romance, Thriller",4.4
+529,The Emperor of Paris,2018,120,Jean-François Richet,"Vincent Cassel, Patrick Chesnais, August Diehl","Adventure, Crime, History",6.3
+530,Attack on Titan: The Roar of Awakening,2018,120,Masashi Koizuka,"Yûki Kaji, Yui Ishikawa, Marina Inoue","Animation, Action, Fantasy",8.3
+531,The Great Battle,2018,136,Kwang-shik Kim,"Nam Joo-hyuk, Zo In-sung, Nazeeh Tarsha","Action, Drama, History",7.0
+532,Kickboxer: Retaliation,2018,110,Dimitri Logothetis,"Alain Moussi, Sara Malakul Lane, Maxime Savaria","Action, Drama",5.0
+533,In the Aisles,2018,125,Thomas Stuber,"Andreas Leupold, Franz Rogowski, Peter Kurth","Drama, Romance",6.9
+534,The Dark,2018,95,"Justin P. Lange, Klemens Hufnagl","Nadia Alexander, Toby Nichols, Karl Markovics","Drama, Fantasy, Horror",5.6
+535,St. Agatha,2018,103,Darren Lynn Bousman,"Carolyn Hennesy, Hannah Fierman, Courtney Halverson","Horror, Thriller",4.8
+536,Unstoppable,2018,116,Kim Min-Ho,"Ma Dong-seok, Song Ji-hyo, Kim Sung-oh","Action, Comedy, Crime",6.6
+537,25 km/h,2018,116,Markus Goller,"Lars Eidinger, Bjarne Mädel, Sandra Hüller","Adventure, Comedy, Drama",7.2
+538,Museo,2018,128,Alonso Ruizpalacios,"Gael García Bernal, Leonardo Ortizgris, Alfredo Castro","Crime, Drama",6.8
+539,Baazaar,2018,137,"Gauravv K. Chawla, Samuel Wilde","Radhika Apte, Saif Ali Khan, Chitrangda Singh","Crime, Drama, Thriller",6.5
+540,The Silent Revolution,2018,111,Lars Kraume,"Leonard Scheicher, Tom Gramenz, Lena Klenke","Drama, History",7.4
+541,The Axiom,2018,98,Nicholas Woods,"Hattie Smith, Zac Titus, Nicole Dambro","Fantasy, Horror, Mystery",4.7
+542,Leprechaun Returns,2018,92,Steven Kostanski,"Taylor Spreitler, Pepi Sonuga, Sai Bennett","Comedy, Fantasy, Horror",5.0
+543,Awe!,2018,150,Prasanth Varma,"Kajal Aggarwal, Nithya Menen, Srinivas Avasarala","Drama, Fantasy, Horror",7.6
+544,Diamond Dust,2018,162,Marwan Hamed,"Rosaline Elbay, Menna Shalabi, Asser Yassin","Crime, Drama, Mystery",7.9
+545,Backstabbing for Beginners,2018,108,Per Fly,"Theo James, Ben Kingsley, Belçim Bilgin","Drama, History, Mystery",6.3
+546,Clara,2018,105,Akash Sherman,"Patrick J. Adams, Troian Bellisario, Ennis Esmer","Drama, Sci-Fi",6.7
+547,Damsel,2018,113,"David Zellner, Nathan Zellner","Robert Pattinson, Mia Wasikowska, David Zellner","Comedy, Drama, Western",5.6
+548,The Happy Prince,2018,105,Rupert Everett,"Rupert Everett, Colin Firth, Emily Watson","Biography, Drama",6.3
+549,The Golem,2018,95,"Doron Paz, Yoav Paz","Hani Furstenberg, Ishai Golan, Kirill Cernyakov","Drama, Horror",5.5
+550,Sobibor,2018,118,Konstantin Khabensky,"Konstantin Khabensky, Christopher Lambert, Felice Jankell","Drama, History, Thriller",6.4
+551,Where Hands Touch,2018,122,Amma Asante,"Amandla Stenberg, Jack Sandle, Abbie Cornish","Drama, Romance, War",6.6
+552,City Hunter,2018,91,Philippe Lacheau,"Philippe Lacheau, Élodie Fontan, Tarek Boudali","Action, Comedy, Crime",6.5
+553,Non-Fiction,2018,108,Olivier Assayas,"Guillaume Canet, Juliette Binoche, Vincent Macaigne","Comedy, Drama, Romance",6.4
+554,The Plagues of Breslau,2018,110,Patryk Vega,"Malgorzata Kozuchowska, Daria Widawska, Katarzyna Bujakiewicz","Action, Crime, Mystery",6.0
+555,Illang: The Wolf Brigade,2018,139,Kim Jee-woon,"Gang Dong-won, Han Hyo-joo, Jung Woo-sung","Action, Drama, Sci-Fi",5.9
+556,Godzilla: City on the Edge of Battle,2018,101,"Hiroyuki Seshita, Kôbun Shizuno","Mamoru Miyano, Takahiro Sakurai, Kana Hanazawa","Animation, Action, Sci-Fi",5.8
+557,Your Son,2018,103,Miguel Ángel Vivas,"Jose Coronado, Ana Wagener, Asia Ortega",Drama,6.1
+558,Mutant Blast,2018,83,Fernando Alle,"Pedro Barão Dias, Maria Leite, João Vilas","Action, Comedy, Horror",5.6
+559,A Dark Place,2018,89,Simon Fellows,"Andrew Scott, Bronagh Waugh, Denise Gough","Mystery, Thriller",6.2
+560,Gwen,2018,84,William McGregor,"Eleanor Worthington-Cox, Jodie Innes, Kobna Holdbrook-Smith","Drama, History, Horror",5.7
+561,The Seven Deadly Sins: Prisoners of the Sky,2018,99,"Yasuto Nishikata, Noriyuki Abe","Yûki Kaji, Sora Amamiya, Misaki Kuno","Animation, Action, Adventure",7.0
+562,Keep an Eye Out,2018,73,Quentin Dupieux,"Benoît Poelvoorde, Grégoire Ludig, Marc Fraize",Comedy,6.7
+563,Irumbu Thirai,2018,160,P.S. Mithran,"Vishal, Samantha Ruth Prabhu, Arjun Sarja","Action, Crime, Thriller",7.6
+564,Us and Them,2018,120,Rene Liu,"Boran Jing, Dongyu Zhou, Zhuangzhuang Tian","Drama, Romance",7.4
+565,Knife + Heart,2018,102,Yann Gonzalez,"Vanessa Paradis, Nicolas Maury, Kate Moran","Drama, Horror, Mystery",6.2
+566,Shirkers,2018,97,Sandi Tan,"Jasmine Kin Kia Ng, Philip Cheah, Sophia Siddique Harvey",Documentary,7.3
+567,Sauvage/Wild,2018,99,Camille Vidal-Naquet,"Félix Maritaud, Farid-Eric Bernard, Nicolas Dibla",Drama,7.1
+568,Soorma,2018,131,Shaad Ali,"Diljit Dosanjh, Taapsee Pannu, Angad Bedi","Biography, Drama, Sport",7.3
+569,Generation Wealth,2018,105,Lauren Greenfield,"Lauren Greenfield, Bret Easton Ellis, Paris Cronin",Documentary,6.6
+570,Abhrahaminte Santhathikal,2018,131,Shaji Padoor,"Mammootty, Siddique, Renji Panicker","Action, Crime, Thriller",6.7
+571,Benji,2018,87,Brandon Camp,"Gabriel Bateman, Darby Camp, Kiele Sanchez","Crime, Drama, Family",6.3
+572,Back Roads,2018,101,Alex Pettyfer,"Alex Pettyfer, Jennifer Morrison, Nicola Peltz Beckham","Crime, Drama, Thriller",6.3
+573,Take Your Pills,2018,87,Alison Klayman,"Ariana, Delaney, Jasper Holt-Teza",Documentary,6.3
+574,Peterloo,2018,154,Mike Leigh,"Rory Kinnear, Maxine Peake, Neil Bell","Drama, History",6.5
+575,All Is True,2018,101,Kenneth Branagh,"Kenneth Branagh, Judi Dench, Ian McKellen","Biography, Drama, History",6.3
+576,Dog Days,2018,113,Ken Marino,"Nina Dobrev, Vanessa Hudgens, Adam Pally","Comedy, Drama, Romance",6.2
+577,Asako I & II,2018,119,Ryûsuke Hamaguchi,"Masahiro Higashide, Erika Karata, Sairi Itô","Drama, Romance",7.1
+578,Backtrace,2018,92,Brian A. Miller,"Ryan Guzman, Sylvester Stallone, Meadow Williams","Crime, Drama, Thriller",3.8
+579,Candy Jar,2018,92,Ben Shelton,"Jacob Latimore, Sami Gayle, Tom Bergeron","Comedy, Drama, Romance",5.8
+580,Charlie Says,2018,110,Mary Harron,"Hannah Murray, Matt Smith, Sosie Bacon","Biography, Crime, Drama",5.9
+581,Mission of Honor,2018,107,David Blair,"Iwan Rheon, Milo Gibson, Stefanie Martini","Action, Drama, War",5.9
+582,Mario,2018,124,Marcel Gisler,"Max Hubacher, Aaron Altaras, Jessy Moravec","Drama, Romance, Sport",7.4
+583,Parallel,2018,104,Isaac Ezban,"Aml Ameen, Martin Wallström, Georgia King","Drama, Mystery, Sci-Fi",5.8
+584,Njan Prakashan,2018,131,Sathyan Anthikad,"Fahadh Faasil, Sreenivasan, Nikhila Vimal","Comedy, Drama",7.7
+585,Open 24 Hours,2018,102,Padraig Reynolds,"Vanessa Grasse, Brendan Fletcher, Emily Tennant",Horror,5.5
+586,They'll Love Me When I'm Dead,2018,98,Morgan Neville,"Alan Cumming, Peter Bogdanovich, Oja Kodar","Documentary, Biography",7.4
+587,Why Don't You Just Die!,2018,99,Kirill Sokolov,"Alexander Kuznetsov, Vitaliy Khaev, Evgeniya Kregzhde","Comedy, Drama, Thriller",6.8
+588,Quincy,2018,124,"Alan Hicks, Rashida Jones","Quincy Jones, Rashida Jones, Kareem Abdul-Jabbar","Documentary, Biography",7.6
+589,The Witch in the Window,2018,77,Andy Mitton,"Arija Bareikis, Alex Draper, Charlie Tacker","Drama, Horror",5.7
+590,Perdida,2018,103,Alejandro Montiel,"Luisana Lopilato, Amaia Salamanca, Rafael Spregelburd","Crime, Drama, Mystery",5.7
+591,Rolling to You,2018,107,Franck Dubosc,"Franck Dubosc, Alexandra Lamy, Elsa Zylberstein","Comedy, Romance",6.5
+592,Loro 1,2018,104,Paolo Sorrentino,"Toni Servillo, Elena Sofia Ricci, Riccardo Scamarcio","Biography, Drama",6.7
+593,May the Devil Take You,2018,110,Timo Tjahjanto,"Chelsea Islan, Pevita Pearce, Ray Sahetapy","Horror, Mystery, Thriller",5.9
+594,Project Gutenberg,2018,130,Felix Chong,"Chow Yun-Fat, Aaron Kwok, Jingchu Zhang","Action, Crime, Mystery",6.8
+595,Hedefim Sensin,2018,113,Kivanç Baruönü,"Ata Demirer, Demet Akbag, Gonca Vuslateri",Comedy,6.2
+596,Nightmare Cinema,2018,119,"Alejandro Brugués, Joe Dante, Mick Garris","Mickey Rourke, Sarah Elizabeth Withers, Faly Rakotohavana","Comedy, Drama, Horror",5.5
+597,Aiyaary,2018,157,"Neeraj Pandey, Feroz Khan Bollybrothers","Sidharth Malhotra, Manoj Bajpayee, Rakul Preet Singh","Action, Crime, Drama",5.3
+598,The Gateway,2018,90,John V. Soto,"Jacqueline McKenzie, Shannon Berry, Myles Pollard",Sci-Fi,5.4
+599,Amateur,2018,96,Ryan Koo,"Michael Rainey Jr., Tekola Cornetet, Hanna Longo","Drama, Sport",5.9
+600,The Wolf House,2018,75,"Joaquín Cociña, Cristóbal León","Amalia Kassai, Rainer Krause, Karina Hyland","Animation, Drama, Horror",7.5
+601,Sudani from Nigeria,2018,123,Zakariya,"Soubin Shahir, Samuel Abiola Robinson, Savithri Sreedharan","Comedy, Drama, Sport",8.1
+602,Debi,2018,107,Anam Biswas,"Jaya Ahsan, Chanchal Chowdhury, Iresh Zaker","Drama, Horror, Mystery",7.7
+603,All About Me,2018,100,Caroline Link,"Julius Weckauf, Luise Heyer, Sönke Möhring","Biography, Comedy, Drama",7.3
+604,Animal World,2018,132,Yan Han,"Yifeng Li, Yunhe Yi, Bingkun Cao","Action, Fantasy, Sci-Fi",6.4
+605,Amazing Grace,2018,89,"Alan Elliott, Sydney Pollack","Aretha Franklin, James Cleveland, Alexander Hamilton","Documentary, Music",7.5
+606,Corbin Nash,2018,94,Ben Jagger,"Corey Feldman, Malcolm McDowell, Rutger Hauer","Action, Horror, Thriller",4.3
+607,Godzilla: The Planet Eater,2018,91,"Hiroyuki Seshita, Kôbun Shizuno","Mamoru Miyano, Takahiro Sakurai, Kana Hanazawa","Animation, Action, Adventure",5.1
+608,The Boat,2018,88,Winston Azzopardi,Joe Azzopardi,"Mystery, Thriller",5.7
+609,The Cake General,2018,101,"Filip Hammar, Fredrik Wikingsson","Mikael Persbrandt, Helena Bergström, Agnes Lindström Bolmgren","Comedy, Drama",6.7
+610,Believer,2018,123,Lee Hae-young,"Jung Ga-ram, Park Hae-joon, Jung Joon-won","Action, Crime, Thriller",6.6
+611,Beyond the Sky,2018,82,Fulvio Sestito,"Ryan Carnes, Jordan Hinson, Claude Duhamel","Mystery, Sci-Fi, Thriller",5.0
+612,Show Dogs,2018,92,Raja Gosnell,"Will Arnett, Ludacris, Natasha Lyonne","Adventure, Comedy, Crime",4.0
+613,Danger One,2018,101,Tom Oesch,"Tom Everett Scott, James Jurdi, Angélica Celaya","Action, Comedy, Crime",5.5
+614,Message Man,2018,91,Corey Pearson,"Paul O'Brien, Aji Santosa, Verdi Solaiman","Action, Crime, Thriller",5.9
+615,Vita & Virginia,2018,110,Chanya Button,"Gemma Arterton, Elizabeth Debicki, Isabella Rossellini","Biography, Drama, Romance",5.9
+616,Rampant,2018,121,Kim Sung-hoon,"Hyun Bin, Lee Sun-bin, Seo Ji-hye","Action, Drama, History",6.3
+617,Wolf,2018,111,"Can Emre, Cem Özüduru","Serkan Çayoglu, Murat Arkin, Emir Benderlioglu","Action, Thriller, War",6.7
+618,Antrum: The Deadliest Film Ever Made,2018,95,"David Amito, Michael Laicini","Nicole Tompkins, Rowan Smyth, Dan Istrate",Horror,4.9
+619,I'll Take Your Dead,2018,83,Chad Archibald,"Aidan Devine, Ava Preston, Jess Salgueiro",Horror,5.6
+620,The Awakening of Motti Wolkenbruch,2018,94,Michael Steiner,"Joel Basman, Noémie Schmidt, Udo Samel","Comedy, Drama",6.6
+621,Samson,2018,110,"Bruce Macdonald, Gabriel Sabloff","Taylor James, Billy Zane, Lindsay Wagner","Action, Drama",4.5
+622,The World Is Yours,2018,102,Romain Gavras,"Karim Leklou, Isabelle Adjani, Vincent Cassel","Comedy, Crime",6.3
+623,Donbass,2018,122,Sergey Loznitsa,"Tamara Yatsenko, Irina Zayarmiuk, Grigory Masliuk",Drama,6.6
+624,The Oath,2018,93,Ike Barinholtz,"Ike Barinholtz, Tiffany Haddish, Nora Dunn","Comedy, Thriller",5.7
+625,Oru Nalla Naal Paathu Solren,2018,149,P. Aarumugakumar,"Vijay Sethupathi, Gautham Karthik, Niharika Konidela",Comedy,5.7
+626,3 Faces,2018,100,Jafar Panahi,"Behnaz Jafari, Jafar Panahi, Marziyeh Rezaei",Drama,7.0
+627,Skate Kitchen,2018,106,Crystal Moselle,"Rachelle Vinberg, Dede Lovelace, Nina Moran",Drama,6.8
+628,Head Count,2018,90,Elle Callahan,"Isaac Jay, Jay Lee, Ashleigh Morghan","Horror, Mystery, Thriller",5.4
+629,Butterfly Kisses,2018,91,Erik Kristopher Myers,"Rachel Armiger, Reed DeLisle, Matt Lake","Horror, Mystery",5.9
+630,The Farm,2018,80,Hans Stjernswärd,"Nora Yessayan, Alec Gaylord, Ken Volok",Horror,3.7
+631,The Big Take,2018,83,Justin Daly,"James McCaffrey, Ebon Moss-Bachrach, Zoë Bell","Comedy, Thriller",5.2
+632,Monster Party,2018,89,Chris von Hoffmann,"Sam Strike, Virginia Gardner, Brandon Micheal Hall","Horror, Thriller",5.5
+633,Varathan,2018,130,Amal Neerad,"Fahadh Faasil, Aishwarya Lekshmi, Sharafudheen","Action, Drama, Thriller",7.5
+634,Step Sisters,2018,108,Charles Stone III,"Megalyn Echikunwoke, Eden Sher, Lyndon Smith",Comedy,5.5
+635,Air Strike,2018,96,Xiao Feng,"Ye Liu, Bruce Willis, Song Seung-heon","Action, Adventure, Drama",3.2
+636,Astral,2018,83,Chris Mul,"Frank Dillane, Damson Idris, Catherine Steadman","Drama, Horror, Sci-Fi",4.6
+637,What They Had,2018,101,Elizabeth Chomko,"Hilary Swank, Michael Shannon, Robert Forster",Drama,6.7
+638,The After Party,2018,120,Ian Edelman,"Harrison Holzer, Kyle, Jordan Rock","Comedy, Music",5.8
+639,The Standoff at Sparrow Creek,2018,88,Henry Dunham,"James Badge Dale, Chris Mulkey, Brian Geraghty","Crime, Drama, Thriller",6.1
+640,Revenger,2018,101,Lee Seung-won,"Je-Heon Choi, Park Chul-min, Kim Dae-hyun","Action, Crime, Thriller",5.7
+641,Glass Jaw,2018,98,Jeff Celentano,"Lee Kholafai, Korrina Rico, Jon Gries","Drama, Sport, Thriller",5.2
+642,Duck Butter,2018,93,Miguel Arteta,"Alia Shawkat, Drew Langer, Marc Maron","Comedy, Drama, Romance",5.2
+643,Holiday,2018,93,Isabella Eklöf,"Vic Carmen Sonne, Lai Yde, Thijs Römer","Crime, Drama",5.7
+644,Dominion,2018,120,Chris Delforce,"Joaquin Phoenix, Rooney Mara, Sia","Documentary, Horror",8.9
+645,God's Not Dead: A Light in Darkness,2018,105,Michael Mason,"Megan Alexander, Adeeja Rochele Anderson, Carrlyn Bathe",Drama,4.5
+646,Manto,2018,112,Nandita Das,"Nawazuddin Siddiqui, Rasika Dugal, Tahir Raj Bhasin","Biography, Drama",7.3
+647,Family is Family,2018,107,Dany Boon,"Dany Boon, Line Renaud, Laurence Arné",Comedy,5.8
+648,An Interview with God,2018,97,Perry Lang,"David Strathairn, Brenton Thwaites, Yael Grobglas","Drama, Mystery",5.8
+649,Gosnell: The Trial of America's Biggest Serial Killer,2018,93,Nick Searcy,"Michael Beach, Dean Cain, Janine Turner","Biography, Crime, Drama",6.5
+650,Return of the Hero,2018,90,Laurent Tirard,"Jean Dujardin, Mélanie Laurent, Noémie Merlant","Comedy, History",6.5
+651,Trouble Is My Business,2018,116,Tom Konkle,"Vernon Wells, Brittney Powell, Tom Konkle","Action, Adventure, Crime",4.4
+652,The Bromley Boys,2018,106,Steve M Kelly,"Brenock O'Connor, Jamie Foreman, Alan Davies",Comedy,6.2
+653,Çakallarla Dans 5,2018,102,Murat Seker,"Sevket Çoruh, Ilker Ayrik, Murat Akkoyunlu",Comedy,3.8
+654,For Good Old Times,2018,105,Eduard Galic,"Marko Petric, Karlo Mrksa, Zijad Gracic","Comedy, Drama",5.5
+655,Battle,2018,95,Katarina Launing,"Lisa Teige, Fabian Svegaard Tapia, Vebjørn Enger","Drama, Romance",5.9
+656,At First Light,2018,90,Jason Stone,"Stefanie Scott, Théodore Pellerin, Saïd Taghmaoui","Drama, Sci-Fi, Thriller",5.6
+657,Struggle: The Life and Lost Art of Szukalski,2018,115,Ireneusz Dobrowolski,"Stanislav Szukalski, Glenn Bray, Robert Williams","Documentary, Biography",7.9
+658,Sunset,2018,142,László Nemes,"Juli Jakab, Vlad Ivanov, Evelin Dobos","Drama, History",6.2
+659,Darc,2018,97,Julius R. Nasso,"Tony Schiena, Armand Assante, Kippei Shîna","Action, Thriller",5.8
+660,The Public,2018,119,Emilio Estevez,"Alec Baldwin, Taylor Schilling, Emilio Estevez",Drama,6.7
+661,We the Animals,2018,94,Jeremiah Zagar,"Evan Rosado, Raúl Castillo, Sheila Vand",Drama,6.9
+662,Pataakha,2018,134,Vishal Bhardwaj,"Sanya Malhotra, Radhika Madan, Sunil Grover","Action, Comedy, Drama",7.2
+663,Betrayed,2018,98,Harley Wallen,"Richard Tyson, John Savage, Billy Wirth","Action, Crime, Thriller",3.8
+664,The Conductor,2018,137,Maria Peters,"Christanne de Bruijn, Benjamin Wainwright, Scott Turner Schofield","Biography, Drama, History",7.3
+665,Puppet Master: The Littlest Reich,2018,90,"Sonny Laguna, Tate Steinsiek, Tommy Wiklund","Thomas Lennon, Jenny Pellicer, Nelson Franklin",Horror,5.4
+666,A Million Little Pieces,2018,113,Sam Taylor-Johnson,"Aaron Taylor-Johnson, Billy Bob Thornton, Odessa Young",Drama,6.3
+667,Alien Code,2018,101,Michael G. Cooney,"Kyle Gallner, Azura Skye, Mary McCormack","Mystery, Sci-Fi, Thriller",5.7
+668,Scorched Earth,2018,96,Peter Howitt,"Gina Carano, Ryan Robbins, John Hannah","Action, Drama, Thriller",4.4
+669,A Faithful Man,2018,75,Louis Garrel,"Louis Garrel, Laetitia Casta, Lily-Rose Depp","Comedy, Drama, Romance",6.2
+670,Little Forest,2018,103,Soon-rye Yim,"Kim Tae-ri, Jin Ki-joo, Ryu Jun-yeol",Drama,7.3
+671,6 Balloons,2018,74,Marja-Lewis Ryan,"Abbi Jacobson, Dave Franco, Charlotte Carel",Drama,5.9
+672,Happy Anniversary,2018,78,Jared Stern,"Noël Wells, Ben Schwartz, Rahul Kohli",Comedy,5.7
+673,Har Kisse Ke Hisse: Kaamyaab,2018,109,Hardik Mehta,"Sanjay Mishra, Deepak Dobriyal, Sarika Singh",Drama,7.7
+674,Ee Nagaraniki Emaindi,2018,122,Tharun Bhascker Dhaassyam,"Vishwak Sen, Sai Sushanth Reddy, Abhinav Gomatam","Comedy, Drama",8.0
+675,Malicious,2018,90,Michael Winnick,"Josh Stewart, Bojana Novakovic, Delroy Lindo","Horror, Thriller",5.0
+676,Patrick the Pug,2018,94,Mandie Fletcher,"Sam Fletcher, Beattie Edmondson, Rupert Holliday-Evans","Comedy, Family, Romance",5.9
+677,U Turn,2018,128,Pawan Kumar,"Samantha Ruth Prabhu, Aadhi, Bhoomika Chawla","Crime, Horror, Mystery",6.9
+678,Burn the Stage: The Movie,2018,84,Park Jun-soo,"RM, Jin, j-hope","Documentary, Music",8.4
+679,My Best Friend,2018,90,Martín Deus,"Ángelo Mutti Spinetta, Lautaro Rodríguez, Guillermo Pfening","Drama, Romance",6.8
+680,The Cleaning Lady,2018,90,Jon Knautz,"Alexis Kendra, Stelio Savante, Rachel Alig","Horror, Thriller",5.5
+681,Gun City,2018,126,Dani de la Torre,"Luis Tosar, Michelle Jenner, Vicente Romero","Action, Adventure, Crime",6.3
+682,The Fall of the American Empire,2018,127,Denys Arcand,"Alexandre Landry, Maripier Morin, Rémy Girard","Comedy, Crime, Drama",6.9
+683,Swimming with Men,2018,96,Oliver Parker,"Rob Brydon, Rupert Graves, Thomas Turgoose","Comedy, Drama, Sport",6.4
+684,The Devil's Doorway,2018,76,Aislinn Clarke,"Lalor Roddy, Ciaran Flynn, Helena Bereen",Horror,5.3
+685,Never Goin' Back,2018,85,Augustine Frizzell,"Maia Mitchell, Camila Morrone, Liz Cardenas","Comedy, Crime, Drama",6.1
+686,Primal Rage,2018,106,Patrick Magee,"Casey Gagliardi, Andrew Joseph Montgomery, Jameson Pazak","Action, Adventure, Horror",5.0
+687,The Legacy of a Whitetail Deer Hunter,2018,83,Jody Hill,"Josh Brolin, Danny McBride, Montana Jordan","Comedy, Drama",5.5
+688,A Man Called Ahok,2018,102,Putrama Tuta,"Daniel Mananta, Kin Wah Chew, Eric Febrian","Biography, Drama",8.1
+689,7 Guardians of the Tomb,2018,97,Kimble Rendall,"Bingbing Li, Kellan Lutz, Kelsey Grammer","Action, Adventure, Fantasy",4.4
+690,Superlopez,2018,108,Javier Ruiz Caldera,"Dani Rovira, Alexandra Jiménez, Julián López","Action, Comedy, Sci-Fi",5.4
+691,Ted - Show Me Love,2018,120,Hannes Holm,"Hanna Alström, Johan Hedenberg, Adam Pålsson","Biography, Drama, Music",7.0
+692,Duck Duck Goose,2018,91,Christopher Jenkins,"Jim Gaffigan, Zendaya, Lance Lim","Animation, Adventure, Comedy",5.8
+693,The Transcendents,2018,96,Derek Ahonen,"Savannah Welch, Kathy Valentine, William Leroy","Music, Mystery, Thriller",6.5
+694,Ronnie Coleman: The King,2018,93,Vlad Yudin,"Ronnie Coleman, Jay Cutler, Rich Gaspari",Documentary,7.0
+695,Sorry Angel,2018,132,Christophe Honoré,"Vincent Lacoste, Pierre Deladonchamps, Denis Podalydès","Comedy, Drama, Romance",6.8
+696,Braid,2018,82,Mitzi Peirone,"Madeline Brewer, Kurt Affair, Imogen Waterhouse","Crime, Horror, Mystery",5.3
+697,The Russian Bride,2018,101,Michael S. Ojeda,"Corbin Bernsen, Oksana Orlan, Kristina Pimenova","Horror, Thriller",5.2
+698,Centipede,2018,197,Abolhassan Davoodi,"Reza Attaran, Javad Ezati, Sara Bahrami","Comedy, Drama, War",6.0
+699,Madeline's Madeline,2018,93,Josephine Decker,"Helena Howard, Molly Parker, Miranda July",Drama,6.3
+700,The Negotiation,2018,114,Jong-suk Lee,"Son Ye-jin, Hyun Bin, Jang Young-nam","Action, Crime, Thriller",6.7
+701,Burden,2018,117,Andrew Heckler,"Garrett Hedlund, Andrea Riseborough, Forest Whitaker","Biography, Drama, History",6.7
+702,Taxiwala,2018,137,Rahul Sankrityan,"Vijay Deverakonda, Priyanka Jawalkar, Malvika Nair","Comedy, Horror, Thriller",6.8
+703,White Fang,2018,85,Alexandre Espigares,"Raphaël Personnaz, Virginie Efira, Dominique Pinon","Animation, Adventure, Drama",6.9
+704,The Trouble with You,2018,108,Pierre Salvadori,"Adèle Haenel, Pio Marmaï, Audrey Tautou","Comedy, Crime, Drama",6.2
+705,Little Woods,2018,105,Nia DaCosta,"Tessa Thompson, Lily James, Luke Kirby","Crime, Drama, Western",6.2
+706,A Perfect 14,2018,105,Giovanna Morales Vargas,"Elly Mayday, Laura Wells, Kerosene Deluxe",Documentary,5.7
+707,Teefa In Trouble,2018,155,Ahsan Rahim,"Jafiey, Ali Zafar, Maya Ali","Action, Comedy, Crime",7.0
+708,Penguin Highway,2018,117,Hiroyasu Ishida,"Kana Kita, Yû Aoi, Rie Kugimiya","Animation, Adventure, Family",7.1
+709,When Angels Sleep,2018,91,Gonzalo Bendala,"Julián Villagrán, Marian Álvarez, Ester Expósito","Adventure, Drama, Horror",5.5
+710,Matriarch,2018,91,Scott Vickers,"Charlie Blackwood, Julie Hannan, Scott Vickers","Horror, Thriller",5.2
+711,Speed Kills,2018,102,Jodi Scurfield,"John Travolta, Katheryn Winnick, Jennifer Esposito","Action, Crime, Drama",4.3
+712,The Basement,2018,88,"Brian M. Conley, Nathan Ives","Jackson Davis, Cayleb Long, Mischa Barton",Horror,4.0
+713,Odiyan,2018,167,V.A. Shrikumar Menon,"Mohanlal, Prakash Raj, Manju Warrier","Action, Drama, Fantasy",5.2
+714,Echo in the Canyon,2018,82,Andrew Slater,"The Byrds, The Beach Boys, Buffalo Springfield","Documentary, Music",7.0
+715,Boarding School,2018,111,Boaz Yakin,"Luke Prael, Samantha Mathis, David Aaron Baker","Horror, Mystery, Thriller",5.9
+716,Point of no Return,2018,90,Kevin Glynn,"Bernard Deegan, Jordan Coombes, Nick Dunning","Action, Adventure, Thriller",5.3
+717,Travel Mates 2,2018,116,Bedran Güzel,"Ibrahim Büyükak, Oguzhan Koç, Ezgi Eyüboglu",Comedy,5.8
+718,House of Hummingbird,2018,138,Kim Bo-ra,"Park Ji-hu, Kim Sae-byeok, Jeong In-gi",Drama,7.4
+719,R.I.P.,2018,120,Lijo Jose Pellissery,"Kainakary Thankaraj, Chemban Vinod Jose, Vinayakan","Comedy, Drama",8.2
+720,Summer '03,2018,95,Becca Gleason,"Joey King, Paul Scheer, Andrea Savage","Comedy, Drama, Romance",5.5
+721,Sunday's Illness,2018,113,Ramón Salazar,"Bárbara Lennie, Susi Sánchez, Greta Fernández",Drama,6.9
+722,Slice,2018,83,Austin Vesely,"Zazie Beetz, Chance the Rapper, Rae Gray","Comedy, Crime, Fantasy",4.5
+723,The Seagull,2018,98,Michael Mayer,"Annette Bening, Corey Stoll, Glenn Fleshler","Comedy, Drama, Romance",5.8
+724,Nekrotronic,2018,99,Kiah Roache-Turner,"Ben O'Toole, Monica Bellucci, Caroline Ford","Action, Comedy, Drama",5.6
+725,On Your Wedding Day,2018,110,Lee Seok-geun,"Park Bo-young, Kim Young-kwang, Jeon Bae-soo","Comedy, Drama, Romance",7.0
+726,Lady J,2018,109,Emmanuel Mouret,"Cécile de France, Edouard Baer, Alice Isaaz","Drama, Romance",6.8
+727,Charming,2018,85,Ross Venokur,"Demi Lovato, Wilmer Valderrama, Sia","Animation, Adventure, Comedy",5.6
+728,Gangsta,2018,125,"Adil El Arbi, Bilall Fallah","Dimitri 'Vegas' Thivaios, Paloma Aguilera Valdebenito, Eduardo Almeida","Crime, Thriller",6.5
+729,Dilan 1990,2018,110,"Pidi Baiq, Fajar Bustomi","Iqbaal Dhiafakhri Ramadhan, Vanesha Prescilla, Sissy Priscillia","Drama, Romance",7.0
+730,Do Women Have a Higher Sex Drive?,2018,70,"Jan-Willem Breure, Anouk Pluijm, Cheyenne Löhnen","Cheyenne Löhnen, Annine van der Meer, Dian Biemans",Documentary,5.6
+731,Come on My Son,2018,112,Bora Egemen,"Kivanç Tatlitug, Büsra Develi, Alihan Türkdemir",Drama,7.0
+732,Banana Split,2018,88,Benjamin Kasulke,"Hannah Marks, Liana Liberato, Dylan Sprouse",Comedy,6.2
+733,Door Lock,2018,102,Kwon Lee,"Kong Hyo-jin, Kim Ye-won, Kim Sung-oh","Horror, Mystery, Thriller",6.4
+734,The Drug King,2018,139,Min-ho Woo,"Song Kang-ho, Jo Jung-suk, Bae Doona","Action, Crime, Drama",6.2
+735,Kayhan,2018,105,Togan Gökbakar,"Sahan Gökbakar, Irfan Kangi, Gökçe Eyüboglu",Comedy,2.2
+736,A Kid Like Jake,2018,92,Silas Howard,"Claire Danes, Jim Parsons, Octavia Spencer",Drama,5.6
+737,The Joke Thief,2018,81,Frank D'Angelo,"Frank D'Angelo, Sugith Varughese, Linda Gale",Drama,6.4
+738,Robin Hood: The Rebellion,2018,92,Nicholas Winter,"Brian Blessed, Martyn Ford, Kristian Nairn","Action, Adventure, History",3.3
+739,Pledge,2018,77,Daniel Robbins,"Zachery Byrd, Phillip Andre Botello, Zack Weiner","Horror, Mystery, Thriller",5.4
+740,Yatra,2018,127,"Three Autumn Leaves, Mahi v Raghav","Mammootty, Nassar, Jagapathi Babu","Biography, Drama, History",7.6
+741,Bel Canto,2018,100,Paul Weitz,"Julianne Moore, Ken Watanabe, Sebastian Koch","Drama, Music, Romance",5.5
+742,"Cyrano, My Love",2018,110,Alexis Michalik,"Thomas Solivérès, Olivier Gourmet, Mathilde Seigner","Comedy, Drama, History",7.3
+743,An Hour to Kill,2018,96,Aaron K. Carter,"Mel Novak, Frankie Pozos, Aaron Guerrero","Action, Comedy, Horror",4.6
+744,Bros. on the Rocks,2018,95,Don Tjernagel,"Skott Green, Kim Groniga, Tim Groniga",Comedy,4.9
+745,Black Tide,2018,113,Erick Zonca,"Vincent Cassel, Romain Duris, Sandrine Kiberlain","Crime, Drama, Mystery",6.3
+746,Girls with Balls,2018,77,Olivier Afonso,"Artus, Manon Azem, Louise Blachère","Comedy, Horror",4.0
+747,Amazing China,2018,90,Tie Wei,Xi Jinping,Documentary,1.8
+748,The Fare,2018,82,D.C. Hamilton,"Gino Anthony Pesi, Brinna Kelly, Jason Stuart","Fantasy, Mystery, Romance",6.3
+749,Only You,2018,119,Harry Wootliff,"Laia Costa, Stuart Martin, Lisa McGrillis","Drama, Romance",6.7
+750,Kolamavu Kokila,2018,140,Nelson Dilipkumar,"Nayanthara, Saranya Ponvannan, Saravanan","Comedy, Crime, Drama",7.3
+751,Tholiprema,2018,137,Venky Atluri,"Varun Tej, Raashi Khanna, Priyadarshi Pulikonda",Romance,7.2
+752,Maari 2,2018,143,Balaji Mohan,"Dhanush, Kreshna, Sai Pallavi","Action, Comedy",5.7
+753,Benji the Dove,2018,88,Kevin Arbouet,"Gerald Jones, Blake Bergman, Eli Tokash","Adventure, Drama, Family",5.2
+754,Big Brother,2018,101,Ka-Wai Kam,"Donnie Yen, Joe Chen, Ming-Kit Lok","Action, Comedy, Drama",6.3
+755,Higher Power,2018,93,Matthew Charles Santoro,"Ron Eldard, Colm Feore, Jordan Hinson","Action, Adventure, Sci-Fi",4.4
+756,Blaze,2018,129,Ethan Hawke,"Ben Dickey, Alia Shawkat, Josh Hamilton","Biography, Drama, Music",6.6
+757,Solis,2018,92,Carl Strathie,"Steven Ogg, Alice Lowe, Sid Phoenix","Action, Adventure, Sci-Fi",4.4
+758,Nancy,2018,85,Christina Choe,"Andrea Riseborough, Ann Dowd, J. Smith-Cameron","Drama, Mystery, Thriller",6.2
+759,Pity,2018,97,Babis Makridis,"Yannis Drakopoulos, Evi Saoulidou, Makis Papadimitriou",Drama,6.7
+760,Redcon-1,2018,118,Chee Keong Cheung,"Oris Erhuero, Carlos Gallardo, Mark Strange","Action, Horror, Thriller",3.8
+761,Agnyaathavaasi: Prince in Exile,2018,158,Trivikram Srinivas,"Pawan Kalyan, Keerthy Suresh, Anu Emmanuel","Action, Drama",4.3
+762,Kanaa,2018,145,Arunraja Kamaraj,"Aishwarya Rajesh, Sathyaraj, Sivakarthikeyan","Drama, Sport",7.6
+763,Budapest,2018,102,Xavier Gens,"Manu Payet, Jonathan Cohen, Monsieur Poulpe",Comedy,5.5
+764,The Dead Center,2018,92,Billy Senese,"Shane Carruth, Poorna Jagannathan, Jeremy Childs","Horror, Mystery, Thriller",5.8
+765,Starfish,2018,101,A.T. White,"Virginia Gardner, Christina Masterson, Eric Beecroft","Drama, Horror, Sci-Fi",5.2
+766,Ice,2018,113,Oleg Trofim,"Alexander Petrov, Milos Bikovic, Mariya Aronova","Drama, Romance, Sport",6.8
+767,Wij,2018,100,Rene Eller,"Aimé Claeys, Tijmen Govaerts, Pauline Casteleyn",Drama,5.6
+768,River Runs Red,2018,94,Wes Miller,"Taye Diggs, John Cusack, George Lopez","Drama, Thriller",4.4
+769,The Pool,2018,91,Ping Lumpraploeng,"Theeradej Wongpuapan, Ratnamon Ratchiratham","Action, Drama, Horror",5.3
+770,All the Devil's Men,2018,99,Matthew Hope,"Milo Gibson, Sylvia Hoeks, Gbenga Akinnagbe","Action, Thriller",5.1
+771,Genius,2018,165,Anil Sharma,"Utkarsh Sharma, Ishita Chauhan, Mithun Chakraborty","Action, Thriller",5.1
+772,Studio 54,2018,98,Matt Tyrnauer,"Ian Schrager, Steve Rubell, Donald Rubell","Documentary, History, Music",7.0
+773,Lottery,2018,107,Mohammad Hossein Mahdavian,"Saed Soheili, Ziba Karamali, Hamid Farrokhnezhad","Drama, Romance, Thriller",5.6
+774,Bomb: A Love Story,2018,96,Payman Maadi,"Leila Hatami, Payman Maadi, Siamak Ansari","Drama, Romance, War",6.5
+775,Birthmarked,2018,90,Emanuel Hoss-Desmarais,"Matthew Goode, Toni Collette, Andreas Apergis",Comedy,5.7
+776,Amanda,2018,107,Mikhaël Hers,"Vincent Lacoste, Isaure Multrier, Stacy Martin",Drama,7.0
+777,Carmen & Lola,2018,103,Arantxa Echevarría,"Zaira Romero, Rosy Rodríguez, Moreno Borja","Drama, Romance",7.1
+778,Asher,2018,104,Michael Caton-Jones,"Ron Perlman, Famke Janssen, Jacqueline Bisset","Drama, Thriller",5.5
+779,Family,2018,85,Laura Steinel,"Taylor Schilling, Bryn Vale, Brian Tyree Henry",Comedy,6.4
+780,Vlad the Impaler,2018,121,Osman Kaya,"Cem Uçan, Erkan Petekkaya, Yetkin Dikinciler","Action, History, War",5.0
+781,Kaali,2018,131,Kiruthiga Udhayanidhi,"Vijay Antony, Sunaina Yella, Anjali","Action, Drama",8.1
+782,Beyond the Edge,2018,111,"Aleksandr Boguslavskiy, Francesco Cinquemani","Milos Bikovic, Antonio Banderas, Lyubov Aksyonova","Action, Adventure, Fantasy",4.5
+783,Qismat,2018,137,"Jagdeep Sidhu, Sagar","Ammy Virk, Sargun Mehta, Guggu Gill","Drama, Romance",8.1
+784,14 Cameras,2018,90,"Seth Fuller, Scott Hussion","Zach Dulin, Kodi Lane, Neville Archambault","Crime, Horror, Thriller",4.7
+785,And Breathe Normally,2018,95,Isold Uggadottir,"Kristín Þóra Haraldsdóttir, Babetida Sadjo, Patrik Nökkvi Pétursson",Drama,7.0
+786,Josie,2018,100,Eric England,"Sophie Turner, Dylan McDermott, Jack Kilmer","Drama, Thriller",5.2
+787,Unbroken: Path to Redemption,2018,98,Harold Cronk,"Samuel Hunt, Merritt Patterson, Bobby Campo","Biography, Drama, History",5.8
+788,Excursion,2018,85,Martin Grof,"Johnny Mindlin, Richard Canal, Sophie Wilson","Mystery, Sci-Fi, Thriller",4.7
+789,The Legend of Cocaine Island,2018,83,Theo Love,"Bo Butterworth, Bri Bryant, Edward Craig",Documentary,6.4
+790,Battle Drone,2018,93,Mitch Gould,"Sury Patel, Borislav Sarandev, Louis Mandylor","Action, Sci-Fi",4.9
+791,The Long Dumb Road,2018,90,Hannah Fidell,"Tony Revolori, David DeLao, Lora Martinez-Cunningham",Comedy,6.1
+792,The Tree of Blood,2018,130,Julio Medem,"Álvaro Cervantes, Úrsula Corberó, Patricia López Arnaiz",Drama,6.4
+793,Hanum & Rangga,2018,90,Benni Setiawan,"Acha Septriasa, Rio Dewanto, Arifin Putra","Drama, Romance",1.3
+794,Coldplay: A Head Full of Dreams,2018,115,Mat Whitecross,"Guy Berryman, Beyoncé, Jon Buckland","Documentary, Music",7.9
+795,Take the Ball Pass the Ball: The Making of the Greatest Team in the World,2018,109,Duncan McMath,"Éric Abidal, Dani Alves, Albert Benaiges","Documentary, Sport",7.9
+796,Family Blood,2018,92,Sonny Mallhi,"Vinessa Shaw, James Ransone, Colin Ford","Drama, Horror, Thriller",4.2
+797,Styx,2018,94,Wolfgang Fischer,"Susanne Wolff, Gedion Oduor Wekesa, Kelvin Mutuku Ndinda","Action, Crime, Drama",6.5
+798,RX 100,2018,153,Ajay Bhupathi,"Kartikeya Gummakonda, Payal Rajput, Ramki",Action,6.9
+799,Yardie,2018,101,Idris Elba,"Antwayne Eccleston, Fraser James, Aml Ameen","Crime, Drama",5.8
+800,Make Us Dream,2018,104,Sam Blair,"Steven Gerrard, Michael Owen, Steve Bruce","Documentary, Biography, Sport",7.9
+801,Last Seen in Idaho,2018,109,Eric Colley,"Hallie Shepherd, Casper Van Dien, Wes Ramsey","Action, Crime, Thriller",4.6
+802,BROS. Last Call,2018,92,Don Tjernagel,"Matt Lee Ingebritson, Rory Even, Chrys Williams",Comedy,3.5
+803,Bhaagamathie,2018,138,Ashok G.,"Unni Mukundan, Jayaram, Anushka Shetty","Horror, Thriller",6.9
+804,Hello Guru Prema Kosame,2018,140,Trinadha Rao Nakkina,"Ram Pothineni, Anupama Parameswaran, Pranitha Subhash","Comedy, Romance",7.1
+805,Yowis Ben,2018,99,"Fajar Nugros, Bayu Skak","Bayu Skak, Cut Meyriska, Brandon Salim","Comedy, Music, Romance",7.3
+806,Kaalakaandi,2018,112,Akshat Verma,"Saif Ali Khan, Asif Basra, Neil Bhoopalam","Comedy, Thriller",6.2
+807,There's No Place Like Home,2018,105,Gabriele Muccino,"Stefano Accorsi, Carolina Crescentini, Elena Cucci","Comedy, Drama, Romance",6.1
+808,Rafiki,2018,83,Wanuri Kahiu,"Samantha Mugatsia, Neville Misati, Nice Githinji","Drama, Romance",6.8
+809,Detective Chinatown 2,2018,121,Sicheng Chen,"Haoran Liu, Baoqiang Wang, Yang Xiao","Action, Comedy, Mystery",6.1
+810,The Steam Engines of Oz,2018,79,Sean Patrick O'Reilly,"Matthew Kevin Anderson, Ashleigh Ball, Elijah Dhavvan","Animation, Adventure, Family",3.9
+811,Sometimes Always Never,2018,91,Carl Hunter,"Bill Nighy, Sam Riley, Alice Lowe","Comedy, Drama, Mystery",6.3
+812,Belleville Cop,2018,111,Rachid Bouchareb,"Omar Sy, Luis Guzmán, Biyouna","Comedy, Crime",5.1
+813,Edge of Fear,2018,91,Bobby Roth,"Rockmond Dunbar, Zhu Zhu, Shen Lin",Thriller,4.5
+814,Quién te cantará,2018,125,Carlos Vermut,"Najwa Nimri, Eva Llorach, Carme Elias","Drama, Music, Mystery",6.9
+815,Solo,2018,91,Hugo Stuven,"Alain Hernández, Aura Garrido, Ben Temple","Adventure, Biography, Drama",5.0
+816,Modest Heroes,2018,53,"Yoshiyuki Momose, Takuya Okada, Akihiko Yamashita","Alex Cazares, Jessica DiCicco, Scarlett Estevez","Animation, Adventure, Family",6.6
+817,In a Relationship,2018,92,Sam Boyd,"Emma Roberts, Michael Angarano, Dree Hemingway","Comedy, Drama",5.5
+818,Paskal,2018,115,Adrian Teh,"Hairul Azreen, Ammar Alfian, Henley Hii","Action, Adventure, Drama",6.5
+819,The Heiresses,2018,98,Marcelo Martinessi,"Norma Codas, Margarita Irun, Ana Brun",Drama,6.6
+820,Big Legend,2018,89,Justin Lee,"Kevin Makely, Todd A. Robinson, Summer Spiro","Action, Adventure, Horror",4.7
+821,Ultra Low,2018,117,Nicholas Gyeney,"Lauren Holly, Yuji Okumoto, Nicholas Gyeney",Drama,5.6
+822,Bobby Robson: More Than a Manager,2018,104,"Gabriel Clarke, Torquil Jones","Gary Lineker, Pep Guardiola, Ronaldo","Documentary, Sport",8.1
+823,Kaybedenler Kulübü: Yolda,2018,96,Mehmet Ada Öztekin,"Nejat Isler, Yigit Özsener, Hande Dogandemir",Drama,5.6
+824,Beast of Burden,2018,89,Jesper Ganslandt,"Daniel Radcliffe, Grace Gummer, Pablo Schreiber","Action, Crime, Drama",3.6
+825,Tik Tik Tik,2018,130,Shakti Soundar Rajan,"Ravi Mohan, Nivetha Pethuraj, Aaron Aziz","Action, Adventure, Sci-Fi",5.8
+826,All About Nina,2018,97,Eva Vives,"Mary Elizabeth Winstead, Brodie Reed, Charlotte Newhouse",Drama,6.2
+827,Diamantino,2018,96,"Gabriel Abrantes, Daniel Schmidt","Carloto Cotta, Cleo Diára, Anabela Moreira","Comedy, Drama, Fantasy",6.3
+828,Killer Sofa,2018,81,Bernie Rao,"Jed Brophy, Jordan Rivers, Piimio Mei","Comedy, Fantasy, Horror",3.7
+829,"Remi, Nobody's Boy",2018,105,Antoine Blossier,"Daniel Auteuil, Maleaume Paquin, Virginie Ledoyen","Adventure, Drama, Family",7.1
+830,Jalebi,2018,112,"Pushpdeep Bhardwaj, Lal Mohan","Rhea Chakraborty, Varun Mitra, Digangana Suryavanshi","Drama, Romance",6.1
+831,Tea With the Dames,2018,84,Roger Michell,"Maggie Smith, Eileen Atkins, Judi Dench",Documentary,7.4
+832,School's Out,2018,104,Sébastien Marnier,"Laurent Lafitte, Emmanuelle Bercot, Luàna Bajrami","Drama, Mystery, Thriller",6.5
+833,Luz,2018,70,Tilman Singer,"Johannes Benecke, Jan Bluthardt, Kate Dervishi","Horror, Mystery, Thriller",5.4
+834,The Jurassic Games,2018,86,Ryan Bellgardt,"Ryan Merriman, Perrey Reeves, Adam Hampton","Action, Horror, Sci-Fi",3.9
+835,Nota,2018,145,Anand Shankar,"Vijay Deverakonda, Nassar, Sathyaraj",Drama,6.2
+836,Requiem for a Fighter,2018,87,Danny Patrick,"Kim Kold, Enn Reitel, Edie Newman",Drama,4.2
+837,Redbad,2018,160,Roel Reiné,"Gijs Naber, Lisa Smit, Huub Stapel","Action, Drama, History",5.5
+838,The Dawnseeker,2018,81,Tristan Price,"Audrey Rode, Alexander Kane, Jason Skeen","Action, Fantasy, Sci-Fi",2.9
+839,The Bleeding Edge,2018,99,Kirby Dick,"Jim Spencer, Jeanne Lenzer, Michael Carome",Documentary,7.6
+840,Time Share,2018,96,Sebastián Hofmann,"Luis Gerardo Méndez, Miguel Rodarte, RJ Mitte","Drama, Mystery, Thriller",5.9
+841,Detective Dee: The Four Heavenly Kings,2018,132,Hark Tsui,"Carina Lau, Mark Chao, Ethan Juan","Action, Adventure, Drama",6.3
+842,Pokémon the Movie: The Power of Us,2018,100,Tetsuo Yajima,"Sarah Natochenny, Haven Burton Paschall, Eddy Lee","Animation, Action, Adventure",6.3
+843,Bigger,2018,107,George Gallo,"Victoria Justice, Kevin Durand, DJ Qualls","Biography, Drama, Sport",6.4
+844,The Tribe,2018,90,Fernando Colomo,"Paco León, Carmen Machi, Maribel del Pino","Comedy, Music",5.8
+845,Hell Trip,2018,86,Patrick Garcia,"Clayton Boyd, Jay Anstey, Jonathan Boynton-Lee","Horror, Thriller",4.1
+846,Bayou Caviar,2018,111,Cuba Gooding Jr.,"Cuba Gooding Jr., Famke Janssen, Richard Dreyfuss","Crime, Mystery, Thriller",4.6
+847,The Image Book,2018,88,Jean-Luc Godard,"Jean-Luc Godard, Dimitri Basil, Jean-Pierre Gos","Documentary, Drama, Horror",6.2
+848,Deliha 2,2018,106,Gupse Özay,"Gupse Özay, Eda Ece, Aksel Bonfil",Comedy,4.7
+849,Living Among Us,2018,87,Brian A. Metcalf,"William Sadler, Thomas Ian Nicholas, James Russo","Comedy, Fantasy, Horror",5.3
+850,"Sarkari. Hi. Pra. Shale Kasaragodu, Koduge: Ramanna Rai",2018,147,Rishab Shetty,"Anant Nag, Ramesh Bhat, Mahendra",Drama,8.7
+851,Kafalar Karisik,2018,95,Yücel Yolcu,"Atakan Özyurt, Fatih Yasin, Bilal Hanci",Comedy,3.0
+852,The Accountant of Auschwitz,2018,80,Matthew Shoychet,"Oskar Gröning, Jeff Ansell, Hedy Bohm",Documentary,7.3
+853,Close Enemies,2018,111,David Oelhoffen,"Matthias Schoenaerts, Reda Kateb, Adel Bencherif","Drama, Thriller",6.4
+854,Luis and the Aliens,2018,86,"Christoph Lauenstein, Wolfgang Lauenstein, Seán McCormack","Callum Maloney, Dermot Magennis, Ian Coppinger","Animation, Adventure, Comedy",6.0
+855,The Hows of Us,2018,117,Cathy Garcia-Sampana,"Kathryn Bernardo, Daniel Padilla, Jean Garcia","Comedy, Drama, Romance",6.8
+856,Touch Me Not,2018,123,Adina Pintilie,"Laura Benson, Tómas Lemarquis, Christian Bayerlein",Drama,5.6
+857,The System,2018,92,Irin Daniels,"McMagic Cardenas, Reginald Kennedy, Owen Conway","Drama, Mystery, Thriller",4.4
+858,The Stolen Princess,2018,85,Oleh Malamuzh,"Nadezhda Dorofeeva, Aleksey Zavgorodniy, Yevhen Malukha","Animation, Comedy, Family",6.0
+859,The Factory,2018,109,Yuriy Bykov,"Ivan Yankovskiy, Elena Panova, Andrey Smolyakov","Crime, Drama, Thriller",6.7
+860,Soni,2018,97,Ivan Ayr,"Geetika Vidya Ohlyan, Saloni Batra, Vikas Shukla","Crime, Drama",7.1
+861,Sibel,2018,91,"Guillaume Giovanetti, Çagla Zencirci","Damla Sönmez, Erkan Kolçak Köstendil, Emin Gürsoy",Drama,6.8
+862,Kadaikutty Singam,2018,149,Pandiraj,"Karthi, Sathyaraj, Sayyeshaa Saigal","Action, Drama",6.8
+863,O.G.,2018,113,Madeleine Rotzler,"Jeffrey Wright, Theothus Carter, William Fichtner",Drama,6.2
+864,Loro 2,2018,100,Paolo Sorrentino,"Toni Servillo, Elena Sofia Ricci, Riccardo Scamarcio",Biography,7.0
+865,Not Cinderella's Type,2018,97,Brian Brough,"Paris Warner, Tim Flynn, Tanner Gillman","Drama, Romance",6.2
+866,Who,2018,153,Ajay Devaloka,"Shine Tom Chacko, Pearle Maaney, Shruthy Menon","Mystery, Sci-Fi",5.1
+867,The Freshmen,2018,92,Thomas Lilti,"Vincent Lacoste, William Lebghil, Michel Lerousseau","Comedy, Drama",6.6
+868,Swing Kids,2018,133,Kang Hyoung-chul,"Oh Jung-se, A.J. Simmons, Kim Min-jae","Drama, Musical, War",7.5
+869,Boundaries,2018,104,Shana Feste,"Vera Farmiga, Christopher Plummer, Lewis MacDougall","Comedy, Drama",5.8
+870,Seven in Heaven,2018,94,Chris Eigeman,"Travis Tope, Haley Ramm, Dylan Everett","Drama, Horror, Mystery",5.4
+871,Namaste England,2018,141,Vipul Amrutlal Shah,"Arjun Kapoor, Parineeti Chopra, Satish Kaushik","Comedy, Drama, Romance",2.1
+872,Baa Baaa Black Sheep,2018,103,Vishwas Paandya,"Anupam Kher, Annu Kapoor, Maniesh Paul","Action, Comedy, Crime",4.6
+873,Remember Us,2018,120,Çagan Irmak,"Altan Erkekli, Tolga Tekin, Özge Özberk",Drama,7.3
+874,Adanga Maru,2018,145,Karthik Thangavel,"Ravi Mohan, Raashi Khanna, Ponvannan","Action, Crime, Drama",7.1
+875,Jim Button and Luke the Engine Driver,2018,110,Dennis Gansel,"Henning Baum, Solomon Gordon, Annette Frier","Adventure, Family, Fantasy",6.3
+876,Inuyashiki,2018,127,Shinsuke Satô,"Noritake Kinashi, Takeru Satoh, Kanata Hongô","Action, Drama, Mystery",6.6
+877,The Delinquent Season,2018,103,Mark O'Rowe,"Laoise Murray, Catherine Walker, Nora Cooper","Drama, Romance",6.4
+878,An Impossible Love,2018,135,Catherine Corsini,"Virginie Efira, Niels Schneider, Jehnny Beth","Biography, Drama, Romance",7.0
+879,The Laws of Thermodynamics,2018,100,"Mateo Gil, Ana del Hoyo","Vito Sanz, Berta Vázquez, Chino Darín",Comedy,6.0
+880,Vishwaroopam 2,2018,145,Kamal Haasan,"Kamal Haasan, Rahul Bose, Shekhar Kapur","Action, Thriller",5.8
+881,The Toybox,2018,95,Tom Nagel,"Denise Richards, Mischa Barton, Jeff Denton",Horror,3.7
+882,Rossz versek,2018,97,Gábor Reisz,"Gábor Reisz, Katica Nagy, Zsolt Kovács","Comedy, Drama",7.5
+883,Hello Mr. Billionaire,2018,118,"Da-Mo Peng, Fei Yan","Teng Shen, Vivian Sung, Lun Ai",Comedy,6.1
+884,Koode,2018,155,Anjali Menon,"Prithviraj Sukumaran, Parvathy Thiruvothu, Nazriya Nazim","Drama, Fantasy",7.6
+885,Lifechanger,2018,84,Justin McConnell,"Lora Burke, Jack Foley, Elitsa Bako","Drama, Fantasy, Horror",5.4
+886,Monstrum,2018,105,Jong-ho Huh,"Kim Myung-min, Kim In-kwon, Lee Hyeri","Action, Fantasy, Horror",6.1
+887,JT LeRoy,2018,108,Justin Kelly,"Kristen Stewart, Laura Dern, Jim Sturgess","Biography, Drama",5.5
+888,Girls of the Sun,2018,115,Eva Husson,"Golshifteh Farahani, Emmanuelle Bercot, Zübeyde Bulut","Drama, War",6.5
+889,Eerie,2018,101,Mikhail Red,"Bea Alonzo, Charo Santos-Concio, Jake Cuenca","Horror, Mystery, Thriller",4.7
+890,Sara's Notebook,2018,115,Norberto López Amado,"Belén Rueda, Marian Álvarez, Iván Mendes","Adventure, Drama, Mystery",5.9
+891,Abnormal Attraction,2018,107,Michael Leavy,"Bruce Davison, Nathan Reid, Nicole Balsam","Adventure, Comedy, Fantasy",4.2
+892,Kayamkulam Kochunni,2018,152,Rosshan Andrrews,"Nivin Pauly, Mohanlal, Sunny Wayne","Action, Drama, History",6.8
+893,The Scythian,2018,105,Rustam Mosafir,"Aleksey Faddeev, Alexander Kuznetsov, Yuriy Tsurilo","Action, Drama, Fantasy",6.2
+894,The Grizzlies,2018,102,Miranda de Pencier,"Jack Anawak, Fred Bailey, Seth Burke","Biography, Drama, Sport",7.5
+895,Another Day of Life,2018,85,"Raúl de la Fuente, Damian Nenow","Artur Queiroz, Luis Alberto Ferreira, Carlota Machado","Animation, Biography",7.3
+896,Rojo,2018,109,Benjamín Naishtat,"Darío Grandinetti, Andrea Frigerio, Alfredo Castro","Drama, Mystery, Thriller",6.4
+897,Damascus Under Fire,2018,113,Ebrahim Hatamikia,"Babak Hamidian, Hadi Hejazifar, Pierre Dagher","Action, Drama, Thriller",5.4
+898,Trespassers,2018,88,Orson Oblowitz,"Angela Trimbur, Janel Parrish, Jonathan Howard","Crime, Horror, Thriller",4.9
+899,An Affair,2018,92,Henrik Martin Dahlsbakken,"Andrea Bræin Hovig, Tarjei Sandvik Moe, Anneke von der Lippe","Drama, Thriller",5.5
+900,Mug,2018,91,Malgorzata Szumowska,"Mateusz Kosciukiewicz, Agnieszka Podsiadlik, Malgorzata Gorol","Comedy, Drama",6.4
+901,Happy New Year,2018,102,Krisztina Goda,"Viktória Szávai, Béla Mészáros, Éva Bata","Comedy, Drama",7.0
+902,Meeting Gorbachev,2018,90,"Werner Herzog, André Singer","Mikhail Gorbachev, Werner Herzog, André Singer","Documentary, Biography, History",7.2
+903,Swinging Safari,2018,97,Stephan Elliott,"Guy Pearce, Kylie Minogue, Jesse Denyer","Comedy, Drama",5.6
+904,Jane Fonda in Five Acts,2018,133,Susan Lacy,"Jane Fonda, Richard Nixon, Robert Redford","Documentary, Biography",8.0
+905,Gangs of 18,2018,157,Shankar Ramakrishnan,"Mammootty, Prithviraj Sukumaran, Ashwin Gopinath","Action, Drama, Thriller",5.8
+906,The Rachel Divide,2018,100,Laura Brownson,"Rachel Dolezal, Franklin Dolezal, Izaiah Dolezal",Documentary,6.3
+907,Monsters and Men,2018,96,Reinaldo Marcus Green,"John David Washington, Anthony Ramos, Kelvin Harrison Jr.","Crime, Drama, Thriller",6.1
+908,Put Grandma in the Freezer,2018,100,"Giancarlo Fontana, Giuseppe Stasi","Fabio De Luigi, Miriam Leone, Lucia Ocone",Comedy,6.1
+909,In Safe Hands,2018,110,Jeanne Herry,"Sandrine Kiberlain, Gilles Lellouche, Élodie Bouchez",Drama,7.2
+910,Deadtectives,2018,92,Tony West,"Chris Geere, Tina Ivlev, David Newman","Comedy, Horror",5.9
+911,Head Full of Honey,2018,127,Til Schweiger,"Nick Nolte, Matt Dillon, Emily Mortimer","Comedy, Drama",5.6
+912,Shéhérazade,2018,109,Jean-Bernard Marlin,"Dylan Robert, Kenza Fortas, Idir Azougli","Drama, Romance, Thriller",7.1
+913,Colossal Youth,2018,98,R. Scott Leisk,"Troy Osterberg, Kimmy Caruso, Riker Lynch","Comedy, Drama, Romance",5.2
+914,Elvis Presley: The Searcher,2018,205,Thom Zimny,"Elvis Presley, Steve Allen, Ann-Margret","Documentary, Biography, History",7.7
+915,Twisted Pair,2018,89,Neil Breen,"Neil Breen, Sara Meritt, Siohbon Chevy Ebrahimi","Action, Drama, Sci-Fi",4.7
+916,The Ranger,2018,77,Jenn Wexler,"Chloë Levine, Jeremy Holm, Granit Lahu",Horror,5.1
+917,Mitron,2018,119,Nitin Kakkar,"Jackky Bhagnani, Kritika Kamra, Prateik Patil Babbar",Comedy,6.9
+918,Hidden Man,2018,137,Wen Jiang,"Eddie Peng, Fan Liao, Yun Zhou","Action, Crime, Drama",6.4
+919,Roll Red Roll,2018,80,Nancy Schwartzman,"Mark Cole, Anthony Craig, Rachel Dissell","Documentary, Crime",7.1
+920,Ekvtime: Man of God,2018,132,Nikoloz Khomasuridze,"Rezo Chkhikvishvili, Ana Tsereteli, Gogi Turkiashvili","Biography, Drama, History",7.3
+921,The Nightshifter,2018,110,Dennison Ramalho,"Daniel de Oliveira, Fabiula Nascimento, Bruno Bellarmino","Horror, Mystery, Thriller",6.2
+922,The Thinning: New World Order,2018,89,Michael J. Gallagher,"Logan Paul, Peyton List, Matthew Glave","Action, Drama, Horror",4.1
+923,Sgt. Stubby: An American Hero,2018,84,Richard Lanni,"Logan Lerman, Helena Bonham Carter, Gérard Depardieu","Animation, Adventure, Family",6.9
+924,The Trump Prophecy,2018,120,Stephan Schultze,"Chris Nelson, Paulette Todd, Karen Boles","Biography, Drama",1.5
+925,After Everything,2018,95,"Hannah Marks, Joey Power","Jeremy Allen White, Maika Monroe, DeRon Horton","Comedy, Drama, Romance",6.5
+926,Wasted Talent,2018,66,Steve Stanulis,"Lillo Brancato, Drea de Matteo, Steve Stanulis",Documentary,5.4
+927,Hurricane Bianca: From Russia with Hate,2018,85,Matt Kugelman,"Rachel Dratch, Sally Jessy Raphael, Jason Bellini",Comedy,4.8
+928,Empowered,2018,87,Santiago Segura,"Maribel Verdú, Diego Martín, Toni Acosta",Comedy,5.7
+929,Liz and the Blue Bird,2018,90,Naoko Yamada,"Atsumi Tanezaki, Nao Tôyama, Miyu Honda","Animation, Drama, Fantasy",7.2
+930,An Unexpected Love,2018,136,Juan Vera,"Ricardo Darín, Mercedes Morán, Claudia Fontán","Comedy, Romance",6.7
+931,The Witness,2018,111,Kyu-Jang Cho,"Lee Sung-min, Kim Sang-ho, Jin Kyung","Crime, Mystery, Thriller",6.5
+932,Consequences,2018,95,Darko Stante,"Matej Zemljic, Timon Sturbej, Gasper Markun",Drama,6.9
+933,Tel Aviv on Fire,2018,100,Sameh Zoabi,"Kais Nashif, Lubna Azabal, Yaniv Biton","Comedy, Drama, Romance",6.7
+934,Dark Figure of Crime,2018,110,Tae-Gyun Kim,"Kim Yoon-seok, Ju Ji-hoon, Jin Seon-kyu","Crime, Drama, Thriller",6.7
+935,Maiden,2018,97,Alex Holmes,"Frank Bough, John Chittenden, Bruno Du Bois","Documentary, Biography, Sport",7.8
+936,Breaking & Exiting,2018,78,Peter Facinelli,"Milo Gibson, Jordan Hinson, Adam Huber","Comedy, Drama",5.6
+937,I Am Losing Weight,2018,102,Alexey Nuzhny,"Evgeniy Kulik, Irina Gorbacheva, Roman Kurtsyn","Comedy, Drama, Romance",6.4
+938,The Lost Strait,2018,93,Bahram Tavakoli,"Javad Ezati, Hamid Reza Azarang, Amir Jadidi","Action, Drama, History",6.4
+939,Benjamin,2018,85,Simon Amstell,"Gabe Gilmour, Jack Rowan, Colin Morgan","Comedy, Drama, Romance",6.5
+940,Snapshots,2018,95,Melanie Mayron,"Piper Laurie, Brooke Adams, Emily Baldoni",Drama,7.0
+941,Come Sunday,2018,106,Joshua Marston,"Chiwetel Ejiofor, Gerard Catus, Allie McCulloch","Biography, Drama",6.0
+942,Deniz ve Günes,2018,96,Baris Denge,"Melisa Giz Cengiz, Yener Gürsoy, Aysen Inci",Drama,4.9
+943,1985,2018,85,Yen Tan,"Cory Michael Smith, Virginia Madsen, Michael Chiklis",Drama,7.2
+944,The Accused,2018,108,Gonzalo Tobal,"Lali Espósito, Emilio Vodanovich, Leonardo Sbaraglia","Crime, Drama, Thriller",6.0
+945,The Field Guide to Evil,2018,117,"Ashim Ahluwalia, Can Evrenol, Severin Fiala","Marlene Hauser, Luzia Oppermann, Karin Pauer",Horror,4.8
+946,Love Sonia,2018,122,Tabrez Noorani,"Abhishek Bharate, Riya Sisodia, Mrunal Thakur",Drama,7.4
+947,Pope Francis: A Man of His Word,2018,96,Wim Wenders,"Pope Francis, Ignazio Oliva, María Eufemia Goycoechea","Documentary, Biography",6.6
+948,Love Will Take Over,2018,140,Abhiraj Minawala,"Sammy Jonas Heaney, Aayush Sharma, Warina Hussain","Comedy, Drama, Music",3.4
+949,The Pagan King: The Battle of Death,2018,114,Aigars Grauba,"Edvin Endre, James Bloor, Dainis Grube","Action, Drama, History",6.0
+950,First Match,2018,102,Olivia Newman,"Elvire Emanuelle, Yahya Abdul-Mateen II, Colman Domingo","Drama, Sport",6.4
+951,My Foolish Heart,2018,83,Rolf van Eijk,"Steve Wall, Gijs Naber, Raymond Thiry",Drama,5.9
+952,Donnybrook,2018,101,Tim Sutton,"Michael Agee, Adam Bartley, Jamie Bell","Action, Drama, Thriller",5.4
+953,The Great Buster,2018,102,Peter Bogdanovich,"Peter Bogdanovich, Dick Cavett, Frank Capra","Documentary, Biography, Comedy",7.5
+954,Hope You Die Next Time:-),2018,96,Mihály Schwechtje,"Kristóf Vajda, Szilvia Herr, Csaba Polgár","Drama, Thriller",7.1
+955,Ramen Shop,2018,89,Eric Khoo,"Takumi Saitô, Seiko Matsuda, Mark Lee",Drama,6.8
+956,The Matchmaker's Playbook,2018,89,Tosca Musk,"Nick Bateman, Caitlin Carver, Tyler Johnson","Comedy, Romance",6.2
+957,Ulysses: A Dark Odyssey,2018,115,Federico Alotto,"Danny Glover, Udo Kier, Anamaria Marinca","Action, Crime, Drama",3.9
+958,Generation Iron 3,2018,95,Vlad Yudin,"Sheru Aangrish, Victor Baiden, Payam Bavili",Documentary,5.8
+959,Missing,2018,120,Mukul Abhyankar,"Manoj Bajpayee, Tabu, Annu Kapoor","Drama, Mystery, Thriller",5.8
+960,Radium Girls,2018,102,"Lydia Dean Pilcher, Ginny Mohler","Joey King, Abby Quinn, Cara Seymour","Drama, History",6.3
+961,Buñuel in the Labyrinth of the Turtles,2018,80,Salvador Simó,"Jorge Usón, Fernando Ramos, Luis Enrique de Tomás","Animation, Biography, Drama",7.1
+962,Squadron 303,2018,104,Denis Delic,"Piotr Adamczyk, Kirk Barker, Gabriela Calun","Drama, War",5.5
+963,Feminists: What Were They Thinking?,2018,86,Johanna Demetrakas,"Bella Abzug, Laurie Anderson, Phyllis Chesler",Documentary,7.1
+964,The Party's Just Beginning,2018,91,Karen Gillan,"Karen Gillan, Lee Pace, Matthew Beard","Comedy, Drama",6.1
+965,Daphne & Velma,2018,72,Suzi Yoonessi,"Sarah Jeffery, Sarah Gilman, Vanessa Marano","Action, Comedy, Crime",4.2
+966,Okko's Inn,2018,94,Kitarô Kôsaka,"Seiran Kobayashi, Nana Mizuki, Satsumi Matsuda","Animation, Adventure, Drama",7.1
+967,Ride,2018,79,Jeremy Ungar,"Bella Thorne, Jessie T. Usher, Will Brill","Crime, Horror, Thriller",4.6
+968,The Amityville Murders,2018,97,Daniel Farrands,"John Robinson, Chelsea Ricketts, Paul Ben-Victor",Horror,4.7
+969,Mulshi Pattern,2018,155,Pravin Tarde,"Sunil Abhyankar, Om Bhutkar, Geeta Chavan","Crime, Drama, Thriller",8.2
+970,Bungo Stray Dogs: Dead Apple,2018,92,Takuya Igarashi,"Brian Beacock, Ray Chase, Lucien Dodge","Animation, Mystery",7.3
+971,The Elephant Queen,2018,96,"Mark Deeble, Victoria Stone",Chiwetel Ejiofor,"Documentary, Family",7.8
+972,Ayka,2018,100,Sergei Dvortsevoy,"Samal Yeslyamova, Sergey Mazur, Zhipara Abdilaeva",Drama,7.1
+973,Farming,2018,101,Adewale Akinnuoye-Agbaje,"Leke Adebayo, Ademola Adedoyin, Adejola Adeyemi",Drama,6.2
+974,The New Romantic,2018,82,Carly Stone,"Jessica Barden, Hayley Law, Brett Dier","Comedy, Drama, Romance",5.8
+975,Love Jacked,2018,100,Alfons Adetuyi,"Amber Stevens West, Shamier Anderson, Keith David","Comedy, Romance",5.8
+976,Romina,2018,77,Diego Cohen,"Francisca Lozano, Arantza Ruiz, Oliver Nava","Horror, Thriller",2.3
+977,The Silence of Others,2018,96,"Robert Bahar, Almudena Carracedo","María Martín, Francisco Franco, Adolf Hitler",Documentary,8.0
+978,No Surrender,2018,114,Peter Mimi,"Amir Karara, Ghada Abdel Razek, Ahmed El Sakka","Action, Crime, History",5.6
+979,Yucatan,2018,129,Daniel Monzón,"Luis Tosar, Rodrigo de la Serna, Joan Pera","Adventure, Comedy",5.6
+980,Devadas,2018,159,Sriram Adittya,"Nagarjuna Akkineni, Nani, Aakanksha Singh","Action, Comedy, Drama",6.5
+981,Malevolence 3: Killer,2018,89,Stevan Mena,"Katie Gibson, Kevin McKelvey, Victoria Mena",Horror,4.6
+982,Sketch,2018,137,Vijay Chandar,"Vikram, Tamannaah Bhatia, Baburaj","Action, Thriller",5.6
+983,Fanney Khan,2018,130,Atul Manjrekar,"Aishwarya Rai Bachchan, Anil Kapoor, Rajkummar Rao","Comedy, Drama, Music",4.5
+984,The Third Wife,2018,96,Ash Mayfair,"Hong Chuong Nguyen, Long Le Vu, Nu Yên-Khê Tran",Drama,6.6
+985,Neerali,2018,128,Ajoy Varma,"Mohanlal, Suraj Venjaramoodu, Parvati Nair","Action, Adventure, Drama",4.5
+986,What We Left Behind: Looking Back at Star Trek: Deep Space Nine,2018,116,"Ira Steven Behr, David Zappone","Max Grodénchik, Andrew Robinson, Armin Shimerman","Documentary, Sci-Fi",8.2
+987,The School,2018,86,Storm Ashwood,"Milly Alcock, Megan Drury, Will McDonald","Horror, Thriller",4.0
+988,Pig,2018,104,Mani Haghighi,"Mohammad Hassan Madjooni, Leila Hatami, Leili Rashidi","Comedy, Crime, Drama",6.0
+989,Book of Monsters,2018,84,Stewart Sparke,"Lyndsey Craine, Michaela Longden, Lizzie Aaryn-Stanton","Action, Comedy, Horror",4.7
+990,The Black String,2018,93,Brian Hanson,"Frankie Muniz, Blake Webb, Chelsea Edmundson","Horror, Mystery, Thriller",5.3
+991,High Strung Free Dance,2018,103,Michael Damian,"Thomas Doherty, Harry Jarvis, Juliet Doherty","Music, Romance",6.8
+992,Yuli,2018,115,Icíar Bollaín,"Carlos Acosta, Santiago Alfonso, Keyvin Martínez","Biography, Drama, History",6.9
+993,At War,2018,113,Stéphane Brizé,"Vincent Lindon, Mélanie Rover, Jacques Borderie",Drama,7.0
+994,Deadly Still,2018,80,Anton Zenkovich,"Anastasiya Ukolova, Sofya Zayka, Sanjar Madi","Horror, Thriller",5.2
+995,Beyond White Space,2018,93,Ken Locsmandi,"Holt McCallany, Zulay Henao, Dave Sheridan","Sci-Fi, Thriller",4.5
+996,The Most Beautiful Girl in the World,2018,102,Aron Lehmann,"Aaron Hilmer, Rafael Schmauch, Luna Wedler","Comedy, Music, Romance",7.2
+997,The Ride,2018,98,Alex Ranarivelo,"Sasha Alexander, Christina Moore, Kathleen Wilhoite",Drama,7.2
+998,El-Badlah,2018,100,Mohamed Gamal El-Adl,"Tamer Hosny, Akram Hosny, Amina Khalil","Action, Comedy, Drama",5.3
