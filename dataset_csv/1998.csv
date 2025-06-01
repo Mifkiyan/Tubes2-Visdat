@@ -1,0 +1,984 @@
+ID,Name,Year,Duration,Directors,Actors,Genres,Rating
+1,Saving Private Ryan,1998,169,Steven Spielberg,"Tom Hanks, Matt Damon, Tom Sizemore","Drama, War",8.6
+2,The Truman Show,1998,103,Peter Weir,"Jim Carrey, Ed Harris, Laura Linney","Comedy, Drama",8.2
+3,American History X,1998,119,Tony Kaye,"Edward Norton, Edward Furlong, Beverly D'Angelo","Crime, Drama",8.5
+4,The Big Lebowski,1998,117,"Joel Coen, Ethan Coen","Jeff Bridges, John Goodman, Julianne Moore","Comedy, Crime",8.1
+5,"Lock, Stock and Two Smoking Barrels",1998,107,Guy Ritchie,"Jason Flemyng, Dexter Fletcher, Nick Moran","Comedy, Crime",8.1
+6,Armageddon,1998,151,Michael Bay,"Bruce Willis, Billy Bob Thornton, Ben Affleck","Action, Adventure, Sci-Fi",6.7
+7,There's Something About Mary,1998,119,"Bobby Farrelly, Peter Farrelly","Cameron Diaz, Matt Dillon, Ben Stiller","Comedy, Romance",7.1
+8,Mulan,1998,87,"Tony Bancroft, Barry Cook","Ming-Na Wen, Eddie Murphy, BD Wong","Animation, Adventure, Comedy",7.7
+9,A Bug's Life,1998,95,"John Lasseter, Andrew Stanton","Kevin Spacey, Dave Foley, Julia Louis-Dreyfus","Animation, Adventure, Comedy",7.2
+10,Blade,1998,120,Stephen Norrington,"Wesley Snipes, Stephen Dorff, Kris Kristofferson","Action, Horror, Sci-Fi",7.1
+11,Rush Hour,1998,98,Brett Ratner,"Jackie Chan, Chris Tucker, Ken Leung","Action, Comedy, Crime",7.0
+12,Fear and Loathing in Las Vegas,1998,118,Terry Gilliam,"Johnny Depp, Benicio Del Toro, Tobey Maguire","Adventure, Comedy, Drama",7.5
+13,Meet Joe Black,1998,178,Martin Brest,"Brad Pitt, Anthony Hopkins, Claire Forlani","Drama, Fantasy, Romance",7.2
+14,Enemy of the State,1998,132,Tony Scott,"Will Smith, Gene Hackman, Jon Voight","Action, Thriller",7.3
+15,Shakespeare in Love,1998,123,John Madden,"Gwyneth Paltrow, Joseph Fiennes, Geoffrey Rush","Comedy, Drama, History",7.1
+16,You've Got Mail,1998,119,Nora Ephron,"Tom Hanks, Meg Ryan, Greg Kinnear","Comedy, Drama, Romance",6.7
+17,Dark City,1998,100,Alex Proyas,"Rufus Sewell, Kiefer Sutherland, Jennifer Connelly","Fantasy, Mystery, Sci-Fi",7.6
+18,Run Lola Run,1998,80,Tom Tykwer,"Franka Potente, Moritz Bleibtreu, Herbert Knaup","Action, Crime, Thriller",7.6
+19,Godzilla,1998,139,Roland Emmerich,"Matthew Broderick, Jean Reno, Maria Pitillo","Action, Sci-Fi, Thriller",5.5
+20,The Thin Red Line,1998,170,Terrence Malick,"Jim Caviezel, Sean Penn, Nick Nolte","Drama, History, War",7.6
+21,The Mask of Zorro,1998,136,Martin Campbell,"Antonio Banderas, Anthony Hopkins, Catherine Zeta-Jones","Action, Adventure, Comedy",6.8
+22,Rushmore,1998,93,Wes Anderson,"Jason Schwartzman, Bill Murray, Olivia Williams","Comedy, Drama, Romance",7.6
+23,Ronin,1998,122,John Frankenheimer,"Robert De Niro, Jean Reno, Natascha McElhone","Action, Crime, Thriller",7.2
+24,Deep Impact,1998,120,Mimi Leder,"Robert Duvall, Téa Leoni, Elijah Wood","Action, Drama, Sci-Fi",6.3
+25,Pi,1998,84,Darren Aronofsky,"Sean Gullette, Mark Margolis, Ben Shenkman","Drama, Horror, Mystery",7.3
+26,The Waterboy,1998,90,Frank Coraci,"Adam Sandler, Kathy Bates, Henry Winkler","Comedy, Sport",6.2
+27,The Man in the Iron Mask,1998,132,Randall Wallace,"Leonardo DiCaprio, Jeremy Irons, John Malkovich","Action, Adventure, Drama",6.5
+28,Lethal Weapon 4,1998,127,Richard Donner,"Mel Gibson, Danny Glover, Joe Pesci","Action, Crime, Thriller",6.6
+29,The Wedding Singer,1998,97,Frank Coraci,"Adam Sandler, Drew Barrymore, Christine Taylor","Comedy, Music, Romance",6.9
+30,Antz,1998,83,"Eric Darnell, Tim Johnson, Lawrence Guterman","Woody Allen, Sharon Stone, Gene Hackman","Animation, Adventure, Comedy",6.5
+31,The Parent Trap,1998,128,Nancy Meyers,"Lindsay Lohan, Dennis Quaid, Natasha Richardson","Adventure, Comedy, Drama",6.7
+32,Rounders,1998,121,John Dahl,"Matt Damon, Edward Norton, Gretchen Mol","Crime, Drama",7.3
+33,The Negotiator,1998,140,F. Gary Gray,"Samuel L. Jackson, Kevin Spacey, David Morse","Action, Crime, Drama",7.3
+34,The Prince of Egypt,1998,99,"Brenda Chapman, Steve Hickner, Simon Wells","Val Kilmer, Ralph Fiennes, Michelle Pfeiffer","Animation, Adventure, Drama",7.2
+35,The Faculty,1998,104,Robert Rodriguez,"Jordana Brewster, Clea DuVall, Laura Harris","Horror, Mystery, Sci-Fi",6.6
+36,Pleasantville,1998,124,Gary Ross,"Tobey Maguire, Jeff Daniels, Joan Allen","Comedy, Drama, Fantasy",7.5
+37,Wild Things,1998,108,John McNaughton,"Kevin Bacon, Neve Campbell, Matt Dillon","Crime, Drama, Mystery",6.6
+38,City of Angels,1998,114,Brad Silberling,"Nicolas Cage, Meg Ryan, Andre Braugher","Drama, Fantasy, Romance",6.7
+39,Patch Adams,1998,115,Tom Shadyac,"Robin Williams, Daniel London, Monica Potter","Biography, Comedy, Drama",6.8
+40,U.S. Marshals,1998,131,Stuart Baird,"Tommy Lee Jones, Wesley Snipes, Robert Downey Jr.","Action, Crime, Thriller",6.6
+41,What Dreams May Come,1998,113,Vincent Ward,"Robin Williams, Cuba Gooding Jr., Annabella Sciorra","Drama, Fantasy, Romance",7.0
+42,Sphere,1998,134,Barry Levinson,"Dustin Hoffman, Sharon Stone, Samuel L. Jackson","Mystery, Sci-Fi, Thriller",6.1
+43,The X Files,1998,121,Rob Bowman,"David Duchovny, Gillian Anderson, John Neville","Drama, Mystery, Sci-Fi",7.0
+44,Small Soldiers,1998,110,Joe Dante,"Kirsten Dunst, Gregory Smith, David Cross","Action, Adventure, Comedy",6.3
+45,Elizabeth,1998,124,Shekhar Kapur,"Cate Blanchett, Liz Giles, Rod Culbertson","Biography, Drama, History",7.4
+46,Following,1998,69,Christopher Nolan,"Jeremy Theobald, Alex Haw, Lucy Russell","Crime, Mystery, Thriller",7.4
+47,Doctor Dolittle,1998,85,Betty Thomas,"Eddie Murphy, Peter Boyle, Ossie Davis","Comedy, Family, Fantasy",5.4
+48,Out of Sight,1998,123,Steven Soderbergh,"George Clooney, Jennifer Lopez, Ving Rhames","Comedy, Crime, Drama",7.0
+49,Practical Magic,1998,104,Griffin Dunne,"Sandra Bullock, Nicole Kidman, Stockard Channing","Comedy, Drama, Fantasy",6.3
+50,Fallen,1998,124,Gregory Hoblit,"Denzel Washington, John Goodman, Donald Sutherland","Action, Crime, Drama",7.0
+51,The Celebration,1998,101,Thomas Vinterberg,"Ulrich Thomsen, Henning Moritzen, Thomas Bo Larsen",Drama,8.0
+52,A Perfect Murder,1998,107,Andrew Davis,"Michael Douglas, Gwyneth Paltrow, Viggo Mortensen","Crime, Drama, Thriller",6.6
+53,Taxi,1998,89,Gérard Pirès,"Samy Naceri, Frédéric Diefenthal, Marion Cotillard","Action, Comedy, Crime",7.0
+54,Snake Eyes,1998,98,Brian De Palma,"Nicolas Cage, Gary Sinise, John Heard","Crime, Mystery, Thriller",6.1
+55,Six Days Seven Nights,1998,102,Ivan Reitman,"Harrison Ford, Anne Heche, David Schwimmer","Action, Adventure, Comedy",5.9
+56,Halloween H20: 20 Years Later,1998,86,Steve Miner,"Jamie Lee Curtis, Josh Hartnett, Adam Arkin","Horror, Thriller",5.8
+57,Ever After: A Cinderella Story,1998,121,Andy Tennant,"Drew Barrymore, Anjelica Huston, Dougray Scott","Drama, Romance",7.1
+58,I Still Know What You Did Last Summer,1998,100,Danny Cannon,"Jennifer Love Hewitt, Freddie Prinze Jr., Brandy Norwood","Horror, Mystery, Thriller",4.8
+59,Ringu,1998,96,Hideo Nakata,"Nanako Matsushima, Miki Nakatani, Yûko Takeuchi","Horror, Mystery",7.2
+60,Star Trek: Insurrection,1998,103,Jonathan Frakes,"Patrick Stewart, Jonathan Frakes, Brent Spiner","Action, Adventure, Sci-Fi",6.4
+61,The Siege,1998,116,Edward Zwick,"Denzel Washington, Bruce Willis, Annette Bening","Action, Thriller",6.4
+62,A Simple Plan,1998,121,Sam Raimi,"Bill Paxton, Billy Bob Thornton, Bridget Fonda","Crime, Drama, Thriller",7.5
+63,Mercury Rising,1998,111,Harold Becker,"Bruce Willis, Miko Hughes, Alec Baldwin","Action, Crime, Drama",6.1
+64,Stepmom,1998,125,Chris Columbus,"Julia Roberts, Susan Sarandon, Ed Harris","Comedy, Drama",6.8
+65,Happiness,1998,134,Todd Solondz,"Jane Adams, Jon Lovitz, Philip Seymour Hoffman","Comedy, Drama",7.7
+66,Lost in Space,1998,130,Stephen Hopkins,"Gary Oldman, William Hurt, Matt LeBlanc","Action, Adventure, Sci-Fi",5.2
+67,Urban Legend,1998,99,Jamie Blanks,"Jared Leto, Alicia Witt, Rebecca Gayheart","Horror, Mystery, Thriller",5.6
+68,Sliding Doors,1998,99,Peter Howitt,"Gwyneth Paltrow, John Hannah, John Lynch","Comedy, Drama, Fantasy",6.7
+69,The Legend of 1900,1998,169,Giuseppe Tornatore,"Tim Roth, Pruitt Taylor Vince, Mélanie Thierry","Drama, Music, Romance",8.0
+70,Half Baked,1998,82,Tamra Davis,"Dave Chappelle, Guillermo Diaz, Jim Breuer","Comedy, Crime",6.6
+71,BASEketball,1998,103,David Zucker,"Trey Parker, Matt Stone, Dian Bachar","Comedy, Sport",6.5
+72,Bride of Chucky,1998,89,Ronny Yu,"Jennifer Tilly, Brad Dourif, Katherine Heigl","Comedy, Horror, Thriller",5.6
+73,A Night at the Roxbury,1998,82,John Fortenberry,"Chris Kattan, Will Ferrell, Raquel Gardner","Comedy, Music, Romance",6.2
+74,Vampires,1998,108,John Carpenter,"James Woods, Daniel Baldwin, Sheryl Lee","Action, Horror, Thriller",6.1
+75,Buffalo '66,1998,110,Vincent Gallo,"Vincent Gallo, Christina Ricci, Ben Gazzara","Comedy, Drama, Romance",7.4
+76,Soldier,1998,99,Paul W.S. Anderson,"Kurt Russell, Jason Scott Lee, Jason Isaacs","Action, Drama, Sci-Fi",6.0
+77,Kuch Kuch Hota Hai,1998,185,Karan Johar,"Shah Rukh Khan, Kajol, Rani Mukerji","Comedy, Drama, Musical",7.5
+78,Great Expectations,1998,111,Alfonso Cuarón,"Ethan Hawke, Gwyneth Paltrow, Hank Azaria","Drama, Romance",6.8
+79,"Black Cat, White Cat",1998,127,Emir Kusturica,"Bajram Severdzan, Srdjan 'Zika' Todorovic, Branka Katic","Comedy, Crime, Romance",8.0
+80,Show Me Love,1998,89,Lukas Moodysson,"Alexandra Dahlström, Rebecka Liljeberg, Erica Carlson","Comedy, Drama, Romance",7.5
+81,Can't Hardly Wait,1998,100,"Harry Elfont, Deborah Kaplan","Jennifer Love Hewitt, Ethan Embry, Charlie Korsmo","Comedy, Romance",6.5
+82,He Got Game,1998,136,Spike Lee,"Denzel Washington, Milla Jovovich, Ray Allen","Drama, Sport",6.9
+83,Psycho,1998,105,Gus Van Sant,"Vince Vaughn, Anne Heche, Julianne Moore","Horror, Mystery, Thriller",4.6
+84,Very Bad Things,1998,100,Peter Berg,"Christian Slater, Daniel Stern, Cameron Diaz","Comedy, Crime, Thriller",6.3
+85,Pokémon: The First Movie - Mewtwo Strikes Back,1998,96,Kunihiko Yuyama,"Veronica Taylor, Rachael Lillis, Eric Stuart","Animation, Action, Adventure",6.3
+86,Central Station,1998,110,Walter Salles,"Fernanda Montenegro, Vinícius de Oliveira, Marília Pêra",Drama,8.0
+87,The Avengers,1998,89,Jeremiah S. Chechik,"Ralph Fiennes, Uma Thurman, Sean Connery","Action, Adventure, Sci-Fi",3.8
+88,Le Dîner de Cons,1998,80,Francis Veber,"Thierry Lhermitte, Jacques Villeret, Francis Huster",Comedy,7.6
+89,The Horse Whisperer,1998,169,Robert Redford,"Robert Redford, Kristin Scott Thomas, Sam Neill","Drama, Romance, Western",6.7
+90,Les Misérables,1998,134,Bille August,"Liam Neeson, Geoffrey Rush, Uma Thurman","Crime, Drama, Romance",7.4
+91,Who Am I?,1998,108,"Benny Chan, Jackie Chan","Jackie Chan, Michelle Ferre, Mirai Yamamoto","Action, Adventure, Comedy",6.8
+92,Jack Frost,1998,101,Troy Miller,"Michael Keaton, Kelly Preston, Joseph Cross","Comedy, Drama, Family",5.5
+93,Deep Rising,1998,106,Stephen Sommers,"Treat Williams, Famke Janssen, Anthony Heald","Action, Adventure, Horror",6.1
+94,Apt Pupil,1998,111,Bryan Singer,"Ian McKellen, Brad Renfro, Joshua Jackson","Crime, Drama, Thriller",6.7
+95,Velvet Goldmine,1998,123,Todd Haynes,"Ewan McGregor, Jonathan Rhys Meyers, Christian Bale","Drama, Music",6.9
+96,Hard Rain,1998,97,Mikael Salomon,"Morgan Freeman, Christian Slater, Randy Quaid","Action, Crime, Drama",5.9
+97,Babe: Pig in the City,1998,97,George Miller,"Magda Szubanski, Elizabeth Daily, Mickey Rooney","Adventure, Comedy, Drama",5.9
+98,Blues Brothers 2000,1998,123,John Landis,"Dan Aykroyd, John Goodman, Walter Levine","Action, Comedy, Crime",4.9
+99,54,1998,93,Mark Christopher,"Ryan Phillippe, Salma Hayek, Neve Campbell","Drama, Music",5.9
+100,The Red Violin,1998,130,François Girard,"Carlo Cecchi, Jean-Luc Bideau, Christoph Koncz","Drama, Music, Mystery",7.6
+101,The Idiots,1998,117,Lars von Trier,"Bodil Jørgensen, Jens Albinus, Anne Louise Hassing","Comedy, Drama",6.7
+102,SLC Punk!,1998,97,James Merendino,"Matthew Lillard, Michael A. Goorjian, Annabeth Gish","Comedy, Drama, Music",7.4
+103,Gods and Monsters,1998,105,Bill Condon,"Ian McKellen, Brendan Fraser, Lynn Redgrave","Biography, Drama",7.3
+104,Species II,1998,93,Peter Medak,"Natasha Henstridge, Michael Madsen, Marg Helgenberger","Action, Horror, Sci-Fi",4.5
+105,Dil Se..,1998,163,Mani Ratnam,"Shah Rukh Khan, Manisha Koirala, Preity G Zinta","Drama, Romance",7.5
+106,The Big Hit,1998,91,Kirk Wong,"Mark Wahlberg, Lou Diamond Phillips, Christina Applegate","Action, Comedy, Crime",6.1
+107,A Civil Action,1998,115,Steven Zaillian,"John Travolta, Robert Duvall, Kathleen Quinlan","Biography, Drama",6.6
+108,Mighty Joe Young,1998,114,Ron Underwood,"Bill Paxton, Charlize Theron, Rade Serbedzija","Action, Adventure, Family",5.7
+109,Hope Floats,1998,114,Forest Whitaker,"Sandra Bullock, Harry Connick Jr., Gena Rowlands","Drama, Romance",6.1
+110,Dirty Work,1998,82,Bob Saget,"Norm MacDonald, Jack Warden, Artie Lange",Comedy,6.4
+111,The Replacement Killers,1998,87,Antoine Fuqua,"Chow Yun-Fat, Mira Sorvino, Michael Rooker","Action, Crime, Thriller",6.1
+112,Primary Colors,1998,143,Mike Nichols,"John Travolta, Emma Thompson, Kathy Bates","Comedy, Drama",6.7
+113,Wrongfully Accused,1998,87,Pat Proft,"Leslie Nielsen, Richard Crenna, Kelly LeBrock","Action, Comedy, Thriller",6.1
+114,Celebrity,1998,113,Woody Allen,"Kenneth Branagh, Judy Davis, Leonardo DiCaprio","Comedy, Drama",6.3
+115,Waking Ned Devine,1998,91,Kirk Jones,"Ian Bannen, David Kelly, Fionnula Flanagan",Comedy,7.3
+116,Everything's Gonna Be Great,1998,107,Ömer Vargi,"Cem Yilmaz, Mazhar Alanson, Ceyda Düvenci","Comedy, Drama",8.1
+117,Bulworth,1998,108,Warren Beatty,"Warren Beatty, Halle Berry, Kimberly Deauna Adams","Comedy, Drama, Romance",6.8
+118,I Stand Alone,1998,93,Gaspar Noé,"Philippe Nahon, Blandine Lenoir, Frankie Pain","Crime, Drama, Thriller",7.3
+119,Legionnaire,1998,99,Peter MacDonald,"Jean-Claude Van Damme, Adewale Akinnuoye-Agbaje, Steven Berkoff","Action, Adventure, Drama",5.5
+120,Disturbing Behavior,1998,84,David Nutter,"James Marsden, Katie Holmes, Nick Stahl","Horror, Mystery, Sci-Fi",5.7
+121,Croupier,1998,94,Mike Hodges,"Clive Owen, Nick Reding, Nicholas Ball","Crime, Drama, Thriller",7.0
+122,Phantoms,1998,96,Joe Chappelle,"Peter O'Toole, Rose McGowan, Joanna Going","Horror, Sci-Fi, Thriller",5.4
+123,Simon Birch,1998,114,Mark Steven Johnson,"Ian Michael Smith, Joseph Mazzello, Ashley Judd","Comedy, Drama, Family",6.8
+124,The Object of My Affection,1998,111,Nicholas Hytner,"Jennifer Aniston, Paul Rudd, Kali Rocha","Comedy, Drama, Romance",6.0
+125,The Opposite of Sex,1998,105,Don Roos,"Christina Ricci, Martin Donovan, Lisa Kudrow","Comedy, Drama, Romance",6.4
+126,The Rugrats Movie,1998,79,"Igor Kovalyov, Norton Virgien","Elizabeth Daily, Christine Cavanaugh, Kath Soucie","Animation, Adventure, Comedy",5.9
+127,Holy Man,1998,114,Stephen Herek,"Eddie Murphy, Jeff Goldblum, Kelly Preston","Comedy, Drama",5.0
+128,Thursday,1998,87,Skip Woods,"Thomas Jane, Aaron Eckhart, Paulina Porizkova","Action, Comedy, Crime",7.1
+129,Playing by Heart,1998,121,Willard Carroll,"Gillian Anderson, Ellen Burstyn, Sean Connery","Comedy, Drama, Romance",6.9
+130,Lovers of the Arctic Circle,1998,112,Julio Medem,"Najwa Nimri, Fele Martínez, Nancho Novo","Drama, Mystery, Romance",7.6
+131,Dangerous Beauty,1998,111,Marshall Herskovitz,"Catherine McCormack, Rufus Sewell, Oliver Platt","Biography, Drama, Romance",7.1
+132,Quest for Camelot,1998,86,Frederik Du Chau,"Jessalyn Gilsig, Cary Elwes, Andrea Corr","Animation, Adventure, Comedy",6.3
+133,Desperate Measures,1998,100,Barbet Schroeder,"Michael Keaton, Andy Garcia, Brian Cox","Action, Crime, Drama",6.1
+134,Almost Heroes,1998,90,Christopher Guest,"Chris Farley, Matthew Perry, Bokeem Woodbine","Adventure, Comedy, Western",5.8
+135,Senseless,1998,93,Penelope Spheeris,"Marlon Wayans, David Spade, Brad Dourif","Comedy, Romance",6.0
+136,Satya,1998,170,Ram Gopal Varma,"J.D. Chakravarthi, Manoj Bajpayee, Urmila Matondkar","Action, Crime, Drama",8.2
+137,Little Voice,1998,97,Mark Herman,"Brenda Blethyn, Jane Horrocks, Michael Caine","Comedy, Drama, Music",7.0
+138,Knock Off,1998,91,Hark Tsui,"Jean-Claude Van Damme, Rob Schneider, Lela Rochon","Action, Crime, Thriller",4.9
+139,Paulie,1998,91,John Roberts,"Gena Rowlands, Tony Shalhoub, Cheech Marin","Adventure, Comedy, Drama",6.5
+140,On Board,1998,102,Serdar Akar,"Erkan Can, Haldun Boysan, Yildiray Sahinler","Crime, Drama",7.9
+141,Dead Man on Campus,1998,96,Alan Cohn,"Tom Everett Scott, Mark-Paul Gosselaar, Poppy Montgomery",Comedy,6.0
+142,Mafia!,1998,87,Jim Abrahams,"Jay Mohr, Christina Applegate, Lloyd Bridges","Comedy, Crime",5.5
+143,Return to Paradise,1998,111,Joseph Ruben,"Vince Vaughn, Anne Heche, Joaquin Phoenix","Drama, Romance, Thriller",6.9
+144,Zero Effect,1998,116,Jake Kasdan,"Bill Pullman, Ben Stiller, Ryan O'Neal","Comedy, Crime, Drama",6.9
+145,Pecker,1998,87,John Waters,"Edward Furlong, Christina Ricci, Bess Armstrong","Comedy, Drama",6.3
+146,Slums of Beverly Hills,1998,91,Tamara Jenkins,"Natasha Lyonne, Alan Arkin, Bryna Weiss","Comedy, Drama",6.7
+147,Eternity and a Day,1998,137,Theodoros Angelopoulos,"Bruno Ganz, Isabelle Renauld, Fabrizio Bentivoglio",Drama,7.9
+148,Get Real,1998,108,Simon Shore,"Ben Silverstone, Brad Gorton, Charlotte Brittain","Comedy, Drama, Romance",7.5
+149,Twilight,1998,94,Robert Benton,"Paul Newman, Susan Sarandon, Gene Hackman","Crime, Drama, Mystery",6.2
+150,The Last Days of Disco,1998,113,Whit Stillman,"Chloë Sevigny, Kate Beckinsale, Chris Eigeman","Comedy, Drama, Music",6.7
+151,After Life,1998,119,Hirokazu Koreeda,"Arata Iura, Erika Oda, Susumu Terajima","Drama, Fantasy",7.6
+152,The Mighty,1998,100,Peter Chelsom,"Kieran Culkin, Elden Henson, Sharon Stone","Comedy, Drama",7.2
+153,"Torrente, the Dumb Arm of the Law",1998,97,Santiago Segura,"Santiago Segura, Javier Cámara, Neus Asensi","Comedy, Crime",6.8
+154,Hush,1998,96,Jonathan Darby,"Jessica Lange, Gwyneth Paltrow, Johnathon Schaech","Drama, Thriller",5.5
+155,The Visitors II: The Corridors of Time,1998,118,Jean-Marie Poiré,"Christian Clavier, Jean Reno, Muriel Robin","Comedy, Fantasy",6.1
+156,The Patriot,1998,90,Dean Semler,"Steven Seagal, L.Q. Jones, Gailard Sartain","Action, Thriller",4.2
+157,Belly,1998,96,Hype Williams,"Nas, DMX, Taral Hicks","Crime, Drama",6.2
+158,The Barber of Siberia,1998,180,Nikita Mikhalkov,"Julia Ormond, Oleg Menshikov, Aleksey Petrenko","Comedy, Drama, History",7.6
+159,One True Thing,1998,127,Carl Franklin,"Meryl Streep, Renée Zellweger, William Hurt",Drama,6.9
+160,Smoke Signals,1998,89,Chris Eyre,"Adam Beach, Evan Adams, Irene Bedard","Comedy, Drama",7.2
+161,The Newton Boys,1998,122,Richard Linklater,"Matthew McConaughey, Ethan Hawke, Skeet Ulrich","Action, Crime, Drama",6.1
+162,I'll Be Home for Christmas,1998,86,Arlene Sanford,"Jonathan Taylor Thomas, Jessica Biel, Adam LaVorgna","Comedy, Family",5.6
+163,3 Ninjas: High Noon at Mega Mountain,1998,93,Sean McNamara,"Loni Anderson, Hulk Hogan, Jim Varney","Action, Adventure, Comedy",3.0
+164,Ghulam,1998,162,Vikram Bhatt,"Aamir Khan, Rani Mukerji, Rajit Kapoor","Action, Crime, Drama",7.2
+165,Clay Pigeons,1998,104,David Dobkin,"Joaquin Phoenix, Vince Vaughn, Janeane Garofalo","Comedy, Crime",6.6
+166,The Wounds,1998,103,Srdjan Dragojevic,"Dusan Pekic, Milan Maric, Dragan Bjelogrlic","Comedy, Crime, Drama",8.0
+167,The Gingerbread Man,1998,114,Robert Altman,"Kenneth Branagh, Embeth Davidtz, Robert Downey Jr.","Crime, Mystery, Thriller",5.7
+168,Savior,1998,103,Predrag Antonijevic,"Dennis Quaid, Nastassja Kinski, Pascal Rollin","Drama, War",7.2
+169,High Art,1998,101,Lisa Cholodenko,"Radha Mitchell, Ally Sheedy, Patricia Clarkson","Drama, Romance",6.6
+170,Kirikou and the Sorceress,1998,71,"Michel Ocelot, Raymond Burlet","Doudou Gueye Thiaw, Maimouna N'Diaye, Awa Sene Sarr","Animation, Adventure, Family",7.5
+171,Gunda,1998,129,Kanti Shah,"Mithun Chakraborty, Mukesh Rishi, Mohan Joshi","Action, Comedy, Crime",7.3
+172,The Odd Couple II,1998,97,Howard Deutch,"Jack Lemmon, Walter Matthau, Richard Riehle","Adventure, Comedy",6.4
+173,Hilary and Jackie,1998,121,Anand Tucker,"Emily Watson, Rachel Griffiths, James Frain","Biography, Drama, Music",7.3
+174,Hurlyburly,1998,122,Anthony Drazan,"Sean Penn, Kevin Spacey, Chazz Palminteri","Comedy, Drama",5.8
+175,Black Dog,1998,89,Kevin Hooks,"Patrick Swayze, Randy Travis, Meat Loaf","Action, Crime, Drama",5.5
+176,Last Night,1998,95,Don McKellar,"Don McKellar, Sandra Oh, Roberta Maxwell","Comedy, Drama, Romance",7.1
+177,Beloved,1998,172,Jonathan Demme,"Oprah Winfrey, Danny Glover, Yada Beener","Drama, History, Horror",6.1
+178,Train of Life,1998,103,Radu Mihaileanu,"Lionel Abelanski, Rufus, Clément Harari","Comedy, Drama, War",7.6
+179,A Murder of Crows,1998,102,Rowdy Herrington,"Cuba Gooding Jr., Tom Berenger, Marianne Jean-Baptiste","Action, Crime, Thriller",6.3
+180,Another Day in Paradise,1998,101,Larry Clark,"James Woods, Melanie Griffith, Vincent Kartheiser","Crime, Drama, Thriller",6.5
+181,The General,1998,124,John Boorman,"Brendan Gleeson, Adrian Dunbar, Sean McGinley","Biography, Crime, Drama",7.2
+182,Home Fries,1998,91,Dean Parisot,"Drew Barrymore, Luke Wilson, Catherine O'Hara","Comedy, Drama, Romance",5.1
+183,Still Crazy,1998,95,Brian Gibson,"Stephen Rea, Billy Connolly, Jimmy Nail","Comedy, Drama, Music",7.0
+184,My Name Is Joe,1998,105,Ken Loach,"Peter Mullan, Louise Goodall, Gary Lewis","Drama, Romance",7.4
+185,The Interview,1998,104,Craig Monahan,"Hugo Weaving, Tony Martin, Aaron Jeffery","Thriller, Crime, Drama",7.0
+186,Duplicate,1998,164,Mahesh Bhatt,"Shah Rukh Khan, Juhi Chawla, Sonali Bendre","Action, Comedy, Crime",5.6
+187,Phantasm IV: Oblivion,1998,90,Don Coscarelli,"A. Michael Baldwin, Reggie Bannister, Bill Thornbury","Fantasy, Horror, Sci-Fi",5.5
+188,Palmetto,1998,114,Volker Schlöndorff,"Woody Harrelson, Elisabeth Shue, Gina Gershon","Crime, Drama, Mystery",6.1
+189,Barking at the Stars,1998,95,Zdravko Sotra,"Dragan Micanovic, Natasa Tapuskovic, Nikola Simic","Comedy, Romance",8.6
+190,How Stella Got Her Groove Back,1998,124,Kevin Rodney Sullivan,"Angela Bassett, Taye Diggs, Whoopi Goldberg","Comedy, Drama, Romance",5.7
+191,Your Friends and Neighbors,1998,100,Neil LaBute,"Amy Brenneman, Aaron Eckhart, Ben Stiller","Comedy, Drama, Romance",6.3
+192,Major League: Back to the Minors,1998,100,John Warren,"Scott Bakula, Corbin Bernsen, Dennis Haysbert","Comedy, Sport",4.7
+193,Madeline,1998,88,Daisy von Scherler Mayer,"Frances McDormand, Nigel Hawthorne, Hatty Jones","Comedy, Family",6.0
+194,Six-String Samurai,1998,91,Lance Mungia,"Jeffrey Falcon, Justin McGuire, Kim De Angelo","Action, Adventure, Comedy",6.4
+195,Earth,1998,110,Deepa Mehta,"Aamir Khan, Nandita Das, Rahul Khanna","Drama, Romance, War",7.6
+196,Permanent Midnight,1998,88,David Veloz,"Ben Stiller, Maria Bello, Jay Paulson","Biography, Drama, Romance",6.2
+197,The Acid House,1998,111,Paul McGuigan,"Stephen McCole, Maurice Roëves, Garry Sweeney","Comedy, Drama",6.2
+198,Strangeland,1998,85,John Pieplow,"Kevin Gage, Elizabeth Peña, Dee Snider","Horror, Thriller",5.1
+199,The Players Club,1998,104,Ice Cube,"LisaRaye McCoy, Dick Anthony Williams, Judyann Elder","Comedy, Drama",5.8
+200,The Dreamlife of Angels,1998,113,Erick Zonca,"Élodie Bouchez, Natacha Régnier, Grégoire Colin",Drama,7.4
+201,Strike!,1998,97,Sarah Kernochan,"Kirsten Dunst, Lynn Redgrave, Gaby Hoffmann",Comedy,6.6
+202,Without Limits,1998,117,Robert Towne,"Billy Crudup, Donald Sutherland, Monica Potter","Biography, Drama, Sport",7.2
+203,23,1998,99,Hans-Christian Schmid,"August Diehl, Fabian Busch, Dieter Landuris","Drama, Thriller",7.2
+204,The Glass Agency,1998,114,Ebrahim Hatamikia,"Parviz Parastui, Reza Kianian, Habib Rezaei","Action, Drama, Romance",7.7
+205,Kurt & Courtney,1998,95,Nick Broomfield,"Courtney Love, Nick Broomfield, Kurt Cobain","Documentary, Biography, Crime",6.1
+206,My Giant,1998,103,Michael Lehmann,"Billy Crystal, Gheorghe Muresan, Kathleen Quinlan","Comedy, Drama",5.0
+207,Edge of Seventeen,1998,99,David Moreton,"Chris Stafford, Tina Holmes, Andersen Gabrych","Comedy, Drama, Romance",6.8
+208,Hideous Kinky,1998,98,Gillies MacKinnon,"Kate Winslet, Bella Riza, Saïd Taghmaoui","Adventure, Drama, Romance",6.0
+209,Dance with Me,1998,126,Randa Haines,"Vanessa Williams, Chayanne, Kris Kristofferson","Drama, Music, Romance",5.9
+210,New Rose Hotel,1998,93,Abel Ferrara,"Christopher Walken, Willem Dafoe, Asia Argento","Drama, Mystery, Sci-Fi",5.2
+211,Autumn Tale,1998,112,Éric Rohmer,"Marie Rivière, Béatrice Romand, Alain Libolt","Comedy, Drama, Romance",7.4
+212,The Curve,1998,91,Dan Rosen,"Matthew Lillard, Michael Vartan, Randall Batinkoff","Drama, Mystery, Romance",5.8
+213,The Last Broadcast,1998,86,"Stefan Avalos, Lance Weiler","David Beard, Lance Weiler, Stefan Avalos","Horror, Mystery",5.2
+214,The Emperor and the Assassin,1998,162,Kaige Chen,"Gong Li, Fengyi Zhang, Zhou Sun","Drama, History, Romance",7.2
+215,Krippendorf's Tribe,1998,94,Todd Holland,"Richard Dreyfuss, Jenna Elfman, Natasha Lyonne","Action, Adventure, Comedy",5.1
+216,The Quiet Family,1998,101,Kim Jee-woon,"Park In-hwan, Na Moon-hee, Song Kang-ho","Comedy, Crime, Horror",7.0
+217,Air Bud: Golden Receiver,1998,90,Richard Martin,"Kevin Zegers, Cynthia Stevenson, Tim Conway","Comedy, Family, Sport",4.5
+218,Immortality,1998,98,Po-Chih Leong,"Jude Law, Elina Löwensohn, Timothy Spall","Crime, Mystery, Romance",6.2
+219,Pyaar Kiya To Darna Kya,1998,162,Sohail Khan,"Salman Khan, Kajol, Arbaaz Khan","Action, Comedy, Drama",6.6
+220,The Last Days,1998,87,James Moll,"Bill Basch, Martin Basch, Randolph Braham","Documentary, War",7.9
+221,The Phantom of the Opera,1998,99,Dario Argento,"Julian Sands, Asia Argento, Andrea Di Stefano",Horror,4.3
+222,Short Sharp Shock,1998,99,Fatih Akin,"Mehmet Kurtulus, Aleksandar Jovanovic, Adam Bousdoukos","Crime, Drama, Thriller",7.1
+223,Cabaret Balkan,1998,102,Goran Paskaljevic,"Mira Banjac, Ivan Bekjarev, Aleksandar Bercek","Comedy, Drama",7.7
+224,Terror Firmer,1998,124,Lloyd Kaufman,"Will Keenan, Alyce LaTourelle, Lloyd Kaufman","Comedy, Horror",6.1
+225,That's Life,1998,108,"Aldo Baglio, Giacomo Poretti, Giovanni Storti","Aldo Baglio, Giovanni Storti, Giacomo Poretti","Comedy, Adventure",7.0
+226,Hitman,1998,104,Wei Tung,"Jet Li, Eric Tsang, Simon Yam","Action, Comedy, Crime",6.1
+227,Sitcom,1998,85,François Ozon,"Évelyne Dandry, François Marthouret, Marina de Van","Comedy, Drama, Romance",6.6
+228,Music from Another Room,1998,104,Charlie Peters,"Jude Law, Jennifer Tilly, Gretchen Mol","Comedy, Drama, Romance",6.3
+229,Kissing a Fool,1998,93,Doug Ellin,"David Schwimmer, Jason Lee, Mili Avital","Comedy, Romance",5.5
+230,The Impostors,1998,101,Stanley Tucci,"Oliver Platt, Stanley Tucci, Walker Jones",Comedy,6.5
+231,Ringmaster,1998,90,Neil Abramson,"Jerry Springer, Jaime Pressly, William McNamara",Comedy,3.4
+232,Besieged,1998,93,Bernardo Bertolucci,"Thandiwe Newton, David Thewlis, Claudio Santamaria","Drama, Romance",6.8
+233,Next Stop Wonderland,1998,104,Brad Anderson,"Hope Davis, Alan Gelfant, Philip Seymour Hoffman","Comedy, Drama, Romance",6.5
+234,Homegrown,1998,102,Stephen Gyllenhaal,"Billy Bob Thornton, Hank Azaria, Kelly Lynch","Comedy, Crime, Drama",5.7
+235,Living Out Loud,1998,100,Richard LaGravenese,"Holly Hunter, Danny DeVito, Queen Latifah","Comedy, Drama, Romance",6.5
+236,Tholi Prema,1998,146,A. Karunakaran,"Pawan Kalyan, Kirti Reddy, Vasuki","Drama, Romance",8.3
+237,West Beirut,1998,105,Ziad Doueiri,"Rami Doueiri, Naamar Sahli, Mohamad Chamas","Comedy, Drama, Romance",7.6
+238,Chûgoku no chôjin,1998,118,Takashi Miike,"Masahiro Motoki, Renji Ishibashi, Mako","Adventure, Comedy, Drama",7.4
+239,Frivolous Lola,1998,105,Tinto Brass,"Anna Ammirati, Patrick Mower, Max Parodi","Comedy, Romance",5.1
+240,The Very Thought of You,1998,88,Nick Hamm,"Joseph Fiennes, Monica Potter, Rufus Sewell","Comedy, Romance",6.4
+241,Wide Awake,1998,88,M. Night Shyamalan,"Joseph Cross, Timothy Reifsnyder, Dana Delany","Comedy, Drama, Family",5.8
+242,Head On,1998,104,Ana Kokkinos,"Alex Dimitriades, Elle Mandalis, Damien Fotiou","Drama, Romance",6.5
+243,Why Do Fools Fall in Love,1998,116,Gregory Nava,"Halle Berry, Vivica A. Fox, Lela Rochon","Biography, Drama, Music",6.4
+244,The Hi-Lo Country,1998,114,Stephen Frears,"Billy Crudup, Woody Harrelson, Patricia Arquette","Drama, Romance, Western",6.1
+245,Of Freaks and Men,1998,93,Aleksey Balabanov,"Sergey Makovetskiy, Dinara Drukarova, Anzhelika Nevolina","Comedy, Drama, History",6.9
+246,The Girl of Your Dreams,1998,121,Fernando Trueba,"Penélope Cruz, Antonio Resines, Jorge Sanz","Comedy, Drama",6.7
+247,The Hole,1998,95,Tsai Ming-liang,"Kuei-Mei Yang, Kang-sheng Lee, Miao Tien","Drama, Fantasy, Musical",7.4
+248,The Dentist 2,1998,100,Brian Yuzna,"Corbin Bernsen, Jillian McWhirter, Jeff Doucette","Horror, Thriller",4.8
+249,Phoenix,1998,107,Danny Cannon,"Ray Liotta, Anthony LaPaglia, Daniel Baldwin","Crime, Drama",6.3
+250,Bongwater,1998,97,Richard Sears,"Luke Wilson, Alicia Witt, Amy Locane","Comedy, Drama, Romance",5.1
+251,Goodbye Lover,1998,102,Roland Joffé,"Patricia Arquette, Dermot Mulroney, Mary-Louise Parker","Comedy, Crime, Mystery",5.6
+252,Hamilton,1998,127,Harald Zwart,"Peter Stormare, Lena Olin, Mark Hamill","Action, Adventure, Crime",5.8
+253,April Story,1998,67,Shunji Iwai,"Takako Matsu, Seiichi Tanabe, Kazuhiko Kato","Drama, Romance",7.1
+254,Firestorm,1998,89,Dean Semler,"Howie Long, Scott Glenn, William Forsythe","Action, Thriller",4.8
+255,The Miracle of P. Tinto,1998,106,Javier Fesser,"Luis Ciges, Janusz Ziemniak, Pablo Pinedo","Comedy, Fantasy",7.1
+256,Spriggan,1998,90,"Hirotsugu Kawasaki, Norihiko Sutô, Katsuhiro Ôtomo","Shôtarô Morikubo, Ryuji Aigase, Takehito Koyasu","Animation, Action, Adventure",6.5
+257,Flowers of Shanghai,1998,113,Hsiao-Hsien Hou,"Tony Leung Chiu-wai, Michiko Hada, Michelle Reis","Drama, Romance",7.3
+258,Lulu on the Bridge,1998,103,Paul Auster,"Harvey Keitel, Mira Sorvino, Richard Edson","Drama, Music, Mystery",6.2
+259,Judas Kiss,1998,98,Sebastian Gutierrez,"Alan Rickman, Emma Thompson, Carla Gugino","Crime, Drama, Thriller",6.1
+260,Spiral,1998,97,Jôji Iida,"Kôichi Satô, Miki Nakatani, Hinako Saeki","Drama, Fantasy, Horror",5.2
+261,Dancing at Lughnasa,1998,95,Pat O'Connor,"Meryl Streep, Michael Gambon, Gerard McSorley","Drama, Romance",6.3
+262,Three Palms for Two Punks and a Babe,1998,103,Radivoje Andric,"Srdjan 'Zika' Todorovic, Dubravka Mijatovic, Goran Radakovic",Comedy,7.6
+263,The Storm Riders,1998,128,Wai Keung Lau,"Aaron Kwok, Ekin Cheng, Shin'ichi Chiba","Action, Adventure, Fantasy",6.3
+264,Love Is the Devil: Study for a Portrait of Francis Bacon,1998,87,John Maybury,"Derek Jacobi, Daniel Craig, Tilda Swinton","Biography, Drama, Romance",6.5
+265,Peculiarities of the National Fishing,1998,94,Aleksandr Rogozhkin,"Aleksey Buldakov, Viktor Bychkov, Semyon Strugachyov",Comedy,7.2
+266,Jeans,1998,175,S. Shankar,"Prashanth, Aishwarya Rai Bachchan, Nassar","Comedy, Drama, Romance",6.5
+267,Christmas in August,1998,97,Hur Jin-ho,"Han Suk-kyu, Shim Eun-ha, Shin Goo","Drama, Romance",7.5
+268,Billy's Hollywood Screen Kiss,1998,92,Tommy O'Haver,"Sean Hayes, Brad Rowe, Armando Valdes-Kennedy","Comedy, Romance",6.6
+269,Xiu Xiu: The Sent-Down Girl,1998,99,Joan Chen,"Xiaolu Li, Lopsang, Zheng Qian",Drama,7.5
+270,April,1998,78,Nanni Moretti,"Nanni Moretti, Silvio Orlando, Silvia Nono","Biography, Comedy",6.9
+271,Pyaar To Hona Hi Tha,1998,156,Anees Bazmee,"Ajay Devgn, Kajol, Bijay Anand","Comedy, Drama, Romance",6.6
+272,August 32nd on Earth,1998,88,Denis Villeneuve,"Pascale Bussières, Alexis Martin, Serge Thériault","Drama, Romance",6.5
+273,Barney's Great Adventure,1998,76,Steve Gomer,"George Hearn, Shirley Douglas, Trevor Morgan","Adventure, Comedy, Drama",3.3
+274,Bade Miyan Chote Miyan,1998,140,David Dhawan,"Amitabh Bachchan, Govinda, Raveena Tandon","Action, Comedy, Musical",5.9
+275,Safe Men,1998,88,John Hamburg,"Sam Rockwell, Steve Zahn, Michael Lerner","Comedy, Crime",5.8
+276,Zakhm,1998,125,Mahesh Bhatt,"Ajay Devgn, Pooja Bhatt, Nagarjuna Akkineni",Drama,7.9
+277,B. Monkey,1998,92,Michael Radford,"Asia Argento, Jared Harris, Rupert Everett","Crime, Drama, Romance",5.9
+278,Tale of the Mummy,1998,88,Russell Mulcahy,"Jason Scott Lee, Louise Lombard, Sean Pertwee","Adventure, Fantasy, Horror",4.0
+279,Soldier,1998,156,"Abbas Alibhai Burmawalla, Mastan Alibhai Burmawalla","Bobby Deol, Preity G Zinta, Rakhee Gulzar","Action, Drama, Musical",6.3
+280,Whispering Corridors,1998,105,Ki-hyeong Park,"Kim Gyu-ri, Yun Ji-hye, Park Jin-hee","Drama, Horror, Mystery",5.9
+281,Bedrooms and Hallways,1998,92,Rose Troche,"Kevin McKidd, Julie Graham, Simon Callow","Comedy, Romance",6.6
+282,Wicked,1998,88,Michael Steinberg,"Louise Myrback, Julia Stiles, Chelsea Field",Thriller,5.3
+283,Die Hard Dracula,1998,88,Peter Horak,"Bruce Glover, Denny Sachen, Kerry Dustin","Comedy, Horror",1.8
+284,Dulhe Raja,1998,143,Harmesh Malhotra,"Govinda, Raveena Tandon, Kader Khan",Comedy,6.8
+285,Detective Conan: The Fourteenth Target,1998,99,Kenji Kodama,"Minami Takayama, Wakana Yamazaki, Akira Kamiya","Animation, Adventure, Crime",7.3
+286,Polish Wedding,1998,105,Theresa Connelly,"Claire Danes, Gabriel Byrne, Lena Olin","Comedy, Drama, Romance",5.5
+287,The Loss of Sexual Innocence,1998,106,Mike Figgis,"Julian Sands, Saffron Burrows, Stefano Dionisi",Drama,5.3
+288,Free Enterprise,1998,113,Robert Meyer Burnett,"Rafer Weigel, Eric McCormack, William Shatner","Comedy, Romance",6.7
+289,Bullet Ballet,1998,87,Shin'ya Tsukamoto,"Shin'ya Tsukamoto, Kirina Mano, Tatsuya Nakamura","Crime, Drama, Thriller",7.0
+290,Rudolph the Red-Nosed Reindeer: The Movie,1998,83,William R. Kowalchuk Jr.,"John Goodman, Bob Newhart, Debbie Reynolds","Animation, Adventure, Family",5.9
+291,Barrio,1998,94,Fernando León de Aranoa,"Críspulo Cabezas, Timy Benito, Eloi Yebra",Drama,7.1
+292,Meeting People Is Easy,1998,99,Grant Gee,"Radiohead, Thom Yorke, Jonny Greenwood","Documentary, Music",7.5
+293,Arrival II,1998,105,Kevin Tenney,"Patrick Muldoon, Jane Sibbett, Michael Sarrazin","Horror, Mystery, Sci-Fi",3.8
+294,All the Little Animals,1998,112,Jeremy Thomas,"John Hurt, Christian Bale, Daniel Benzali","Adventure, Drama, Thriller",6.7
+295,The Governess,1998,115,Sandra Goldbacher,"Minnie Driver, Tom Wilkinson, Florence Hoath","Drama, Romance",6.2
+296,Meet the Deedles,1998,93,Steve Boyum,"Paul Walker, Steve Van Wormer, A.J. Langer","Comedy, Family, Sport",4.1
+297,Jinnah,1998,110,Jamil Dehlavi,"Christopher Lee, Shireen Shah, James Curran","Biography, Drama, War",7.7
+298,I Want You,1998,87,Michael Winterbottom,"Rachel Weisz, Alessandro Nivola, Luka Petrusic","Crime, Drama, Music",6.0
+299,Free Money,1998,94,Yves Simoneau,"Marlon Brando, Donald Sutherland, Charlie Sheen","Comedy, Crime",5.0
+300,Girl,1998,99,Jonathan Kahn,"Dominique Swain, Sean Patrick Flanery, Summer Phoenix","Comedy, Drama, Music",5.7
+301,When One Falls in Love,1998,154,Deepak Sareen,"Salman Khan, Twinkle Khanna, Johny Lever","Comedy, Drama, Romance",5.9
+302,"A Cool, Dry Place",1998,97,John N. Smith,"Vince Vaughn, Monica Potter, Joey Lauren Adams",Drama,6.1
+303,Tango,1998,115,Carlos Saura,"Miguel Ángel Solá, Cecilia Narova, Mía Maestro","Drama, Musical",7.0
+304,Sour Grapes,1998,91,Larry David,"Steven Weber, Craig Bierko, Jack Burns",Comedy,5.8
+305,Under the Sun,1998,130,Colin Nutley,"Rolf Lassgård, Helena Bergström, Johan Widerberg","Drama, Romance",6.8
+306,Half a Chance,1998,109,Patrice Leconte,"Jean-Paul Belmondo, Alain Delon, Vanessa Paradis","Action, Adventure, Comedy",5.8
+307,Left Luggage,1998,100,Jeroen Krabbé,"Laura Fraser, Adam Monty, Isabella Rossellini",Drama,7.2
+308,Der Eisbär,1998,90,"Til Schweiger, Granz Henman","Til Schweiger, Karina Krawczyk, Benno Fürmann","Action, Thriller",6.5
+309,Upper Egyptian in the American University,1998,118,Saeed Hamed,"Mohamed Henedi, Mona Zaki, Ahmed El Sakka",Comedy,7.0
+310,A Price Above Rubies,1998,117,Boaz Yakin,"Renée Zellweger, Christopher Eccleston, Julianna Margulies","Drama, Romance",6.5
+311,Dark Harbor,1998,96,Adam Coleman Howard,"Alan Rickman, Polly Walker, Norman Reedus","Thriller, Drama",6.0
+312,Punjabi House,1998,146,"Meccartin, Raffi","Dileep, Mohini, Lal","Comedy, Drama, Romance",8.1
+313,Cousin Bette,1998,108,Des McAnuff,"Jessica Lange, Elisabeth Shue, Bob Hoskins","Comedy, Drama, Romance",6.2
+314,Wheels,1998,92,Djordje Milosavljevic,"Dragan Micanovic, Anica Dobra, Ljubisa Samardzic","Comedy, Drama, Thriller",7.5
+315,Hell's Kitchen,1998,95,Tony Cinciripini,"Rosanna Arquette, William Forsythe, Angelina Jolie","Crime, Drama",4.6
+316,As perimenoun oi gynaikes!,1998,87,Stavros Tsiolis,"Giannis Zouganelis, Argyris Bakirtzis, Sakis Boulas",Comedy,7.7
+317,Twice Upon a Yesterday,1998,91,Maria Ripoll,"Lena Headey, Douglas Henshall, Penélope Cruz","Comedy, Drama, Fantasy",6.1
+318,Ernest in the Army,1998,85,John R. Cherry III,"Jim Varney, Hayley Tyson, David Müller","Comedy, Family, War",4.4
+319,Bio-Zombie,1998,94,Wilson Yip,"Jordan Chan, Emotion Cheung, Sam Lee","Comedy, Horror, Sci-Fi",6.4
+320,The Apple,1998,86,Samira Makhmalbaf,"Massoumeh Naderi, Zahra Naderi, Ghorban Ali Naderi",Drama,7.2
+321,Ground Control,1998,93,Richard Howard,"Kiefer Sutherland, Robert Sean Leonard, Bruce McGill","Action, Adventure, Drama",5.7
+322,Denial,1998,93,Adam Rifkin,"Jonathan Silverman, Leah Lail, Patrick Dempsey","Comedy, Drama, Romance",5.3
+323,Samurai Fiction,1998,111,Hiroyuki Nakano,"Morio Kazama, Mitsuru Fukikoshi, Tomoyasu Hotei","Action, Adventure, Comedy",7.2
+324,Gundam Wing: The Movie - Endless Waltz,1998,90,"Yasunao Aoki, Nana Harada","Mark Hildreth, Scott McNeil, Kirby Morrow","Animation, Action, Drama",7.7
+325,The Theory of Flight,1998,101,Paul Greengrass,"Helena Bonham Carter, Kenneth Branagh, Gemma Jones","Comedy, Drama, Romance",6.5
+326,Place Vendôme,1998,117,Nicole Garcia,"Catherine Deneuve, Jean-Pierre Bacri, Emmanuelle Seigner","Crime, Drama",6.2
+327,L.A. Without a Map,1998,107,Mika Kaurismäki,"Tony Peers, Steve Huison, David Tennant","Comedy, Drama, Romance",6.0
+328,Safe House,1998,112,Eric Steven Stahl,"Patrick Stewart, Kimberly Williams-Paisley, Hector Elizondo","Drama, Thriller",6.8
+329,Priyamudan,1998,156,Vincent Selva,"Joseph Vijay, Kousalya, Nassar","Romance, Thriller",8.4
+330,A: Film by Upendra,1998,150,"Gurukiran, R Raghunath, Rajaram","Upendra, Chandini, Archana",Drama,8.7
+331,It's a Long Road,1998,118,Pantelis Voulgaris,"Thanasis Vengos, Giorgos Armenis, Dimitris Katalifos",Drama,7.9
+332,"Dancer, Texas Pop. 81",1998,97,Tim McCanlies,"Breckin Meyer, Peter Facinelli, Eddie Mills","Comedy, Drama, Family",6.7
+333,The Longest Nite,1998,84,"Tat-Chi Yau, Johnnie To","Ching-Wan Lau, Tony Leung Chiu-wai, Maggie Siu","Action, Crime, Mystery",7.2
+334,Desert Blue,1998,90,Morgan J. Freeman,"Casey Affleck, Brendan Sexton III, Kate Hudson",Drama,6.1
+335,Fögi Is a Bastard,1998,91,Marcel Gisler,"Frédéric Andrau, Vincent Branchet, Urs Peter Halter","Drama, Music, Romance",6.5
+336,Letters from a Killer,1998,104,David Carson,"Patrick Swayze, Kim Myers, Gia Carides","Crime, Drama, Mystery",5.4
+337,Radio Arrow,1998,112,Luciano Ligabue,"Stefano Accorsi, Luciano Federico, Alessio Modica",Drama,7.0
+338,A Soldier's Daughter Never Cries,1998,127,James Ivory,"Leelee Sobieski, Kris Kristofferson, Barbara Hershey",Drama,6.7
+339,Slam,1998,100,Marc Levin,"Saul Williams, Sonja Sohn, Bonz Malone",Drama,7.0
+340,Next Stop Paradise,1998,99,Lucian Pintilie,"Costel Cascaval, Dorina Chiriac, Gheorghe Visu","Crime, Drama, Romance",7.7
+341,Carnival of Souls,1998,87,Adam Grossman,"Bobbie Phillips, Shawnee Smith, Larry Miller","Drama, Horror, Mystery",3.2
+342,I Got the Hook Up,1998,93,Michael Martin,"Master P, Anthony Johnson, Gretchen Palmer","Comedy, Crime",4.1
+343,The Clown at Midnight,1998,91,Jean Pellerin,"Christopher Plummer, Margot Kidder, Sarah Lassez","Horror, Mystery, Thriller",4.4
+344,Operation Delta Force 3: Clear Target,1998,94,Mark Roper,"Jim Fitzpatrick, Bryan Genesse, Greg Collins",Action,4.7
+345,The Proposition,1998,110,Lesli Linka Glatter,"Kenneth Branagh, Madeleine Stowe, William Hurt","Drama, Romance",6.2
+346,Tarzan and the Lost City,1998,83,Carl Schenkel,"Casper Van Dien, Jane March, Steven Waddington","Action, Adventure, Family",4.0
+347,"Khrustalyov, My Car!",1998,147,Aleksei German,"Yuriy Tsurilo, Nina Ruslanova, Jüri Järvet Jr.","Comedy, Drama",7.3
+348,Major Saab,1998,165,Tinnu Anand,"Amitabh Bachchan, Ajay Devgn, Sonali Bendre","Action, Drama, Romance",5.3
+349,Boredom,1998,122,Cédric Kahn,"Charles Berling, Sophie Guillemin, Arielle Dombasle","Romance, Drama",6.0
+350,Shark Skin Man and Peach Hip Girl,1998,108,Katsuhito Ishii,"Tadanobu Asano, Sie Kohinata, Shingo Tsurumi","Mystery, Action, Thriller",6.7
+351,Dog Park,1998,91,Bruce McCulloch,"Natasha Henstridge, Luke Wilson, Kathleen Robertson","Comedy, Romance",5.2
+352,Woo,1998,84,Daisy von Scherler Mayer,"Jada Pinkett Smith, Tommy Davidson, Duane Martin","Comedy, Romance",4.2
+353,Bandhan,1998,154,"K. Muralimohana Rao, Rajesh Malik","Jackie Shroff, Salman Khan, Rambha","Action, Drama, Romance",4.8
+354,Dushman,1998,145,Tanuja Chandra,"Kajol, Sanjay Dutt, Ashutosh Rana","Action, Crime, Drama",6.8
+355,The Rose Seller,1998,116,Víctor Gaviria,"Leidy María 'Lady' Tabares, Marta Correa, Mileider Gil",Drama,7.4
+356,Finding Graceland,1998,106,David Winkler,"Harvey Keitel, Johnathon Schaech, Bridget Fonda","Biography, Drama",6.4
+357,The Land Girls,1998,111,David Leland,"Catherine McCormack, Rachel Weisz, Anna Friel","Drama, Romance, War",6.2
+358,No Looking Back,1998,96,Edward Burns,"Lauren Holly, Edward Burns, Jon Bon Jovi","Drama, Romance",5.9
+359,Welcome to Hollywood,1998,89,"Tony Markes, Adam Rifkin","Adam Rifkin, Jane Jenkins, Scott Wolf",Comedy,4.9
+360,Tomie,1998,95,Ataru Oikawa,"Miho Kanno, Mami Nakamura, Yoriko Dôguchi","Crime, Drama, Horror",5.3
+361,Divorcing Jack,1998,110,David Caffrey,"David Thewlis, Rachel Griffiths, Adam Black","Thriller, Comedy",6.7
+362,Love & Pop,1998,110,Hideaki Anno,"Tadanobu Asano, Mitsuru Fukikoshi, Megumi Hayashibara",Drama,7.4
+363,Basil,1998,113,Radha Bharadwaj,"Christian Slater, Jared Leto, Claire Forlani","Drama, Romance",5.8
+364,Postmortem,1998,105,Albert Pyun,"Charlie Sheen, Michael Halsey, Ivana Milicevic",Thriller,5.0
+365,The Minion,1998,95,Jean-Marc Piché,"Dolph Lundgren, Françoise Robertson, Roc Lafortune","Action, Fantasy, Horror",3.9
+366,Break Up,1998,100,Paul Marcus,"Kiefer Sutherland, Bridget Fonda, Hart Bochner","Crime, Mystery, Thriller",5.0
+367,The Book of Life,1998,63,Hal Hartley,"Martin Donovan, PJ Harvey, Dave Simonds","Comedy, Fantasy",6.5
+368,Body Count,1998,85,Robert Patton-Spruill,"David Caruso, Linda Fiorentino, John Leguizamo","Crime, Drama, Thriller",5.4
+369,The Grandfather,1998,151,José Luis Garci,"Fernando Fernán Gómez, Rafael Alonso, Cayetana Guillén Cuervo",Drama,7.3
+370,Final Cut,1998,93,"Dominic Anciano, Ray Burdis","Ray Winstone, Jude Law, Sadie Frost","Drama, Thriller",5.9
+371,Jerry and Tom,1998,97,Saul Rubinek,"Joe Mantegna, Sam Rockwell, Maury Chaykin","Comedy, Crime, Drama",6.5
+372,Birdcage Inn,1998,105,Kim Ki-duk,"Lee Ji-eun, Lee Hye-eun, Ahn Jae-mo",Drama,7.0
+373,Shadow of Doubt,1998,103,Randal Kleiser,"Melanie Griffith, Tom Berenger, Craig Sheffer","Mystery, Thriller",5.3
+374,The Terrorist,1998,95,Santosh Sivan,"Ayesha Dharker, K. Krishna, Sonu Sisupal",Drama,7.0
+375,Just the Ticket,1998,115,Richard Wenk,"Andy Garcia, Andie MacDowell, Richard Bradford","Comedy, Drama, Romance",5.6
+376,Those Who Love Me Can Take the Train,1998,122,Patrice Chéreau,"Pascal Greggory, Valeria Bruni Tedeschi, Charles Berling","Drama, Romance",6.3
+377,The Adventures of Sebastian Cole,1998,99,Tod Williams,"Adrian Grenier, Clark Gregg, Aleksa Palladino","Comedy, Drama",6.6
+378,Lucky and Zorba,1998,75,Enzo D'Alò,"Carlo Verdone, Antonio Albanese, Luis Sepúlveda","Animation, Comedy, Drama",7.2
+379,"Late August, Early September",1998,112,Olivier Assayas,"Mathieu Amalric, Virginie Ledoyen, François Cluzet","Drama, Romance",6.8
+380,Point Blank,1998,89,Matt Earl Beesley,"Mickey Rourke, Danny Trejo, Frederic Forrest","Action, Crime, Drama",4.3
+381,The Cruise,1998,76,Bennett Miller,Timothy 'Speed' Levitch,Documentary,7.6
+382,Sweepers,1998,96,Keoni Waxman,"Dolph Lundgren, Bruce Payne, Claire Stansfield","Action, Adventure, Drama",4.3
+383,Zimmer Feri,1998,97,Péter Tímár,"Gábor Reviczky, Judit Pogány, Vanda Kovács","Comedy, Crime",6.4
+384,Sombre,1998,112,Philippe Grandrieux,"Marc Barbé, Elina Löwensohn, Géraldine Voillat","Drama, Horror",5.9
+385,Monument Ave.,1998,93,Ted Demme,"Denis Leary, Ian Hart, Jason Barry","Crime, Drama, Thriller",6.6
+386,The Silence,1998,76,Mohsen Makhmalbaf,"Tahmineh Normatova, Nadereh Abdelahyeva, Goibibi Ziadolahyeva","Drama, Music",6.9
+387,Down in the Delta,1998,112,Maya Angelou,"Alfre Woodard, Al Freeman Jr., Mary Alice",Drama,6.9
+388,Montana,1998,96,Jennifer Leitzes,"Kyra Sedgwick, Stanley Tucci, Robin Tunney","Action, Comedy, Crime",6.1
+389,The Hornet,1998,107,Gorcin Stojanovic,"Sergej Trifunovic, Mirjana Jokovic, Dragan Jovanovic","Crime, Drama, Romance",7.2
+390,Susan's Plan,1998,89,John Landis,"Nastassja Kinski, Billy Zane, Michael Biehn","Comedy, Crime",5.2
+391,Alice and Martin,1998,124,André Téchiné,"Juliette Binoche, Alexis Loret, Mathieu Amalric","Drama, Romance",6.2
+392,China Gate,1998,175,Rajkumar Santoshi,"Om Puri, Amrish Puri, Naseeruddin Shah","Action, Adventure, Drama",6.6
+393,Shadow Builder,1998,120,Jamie Dixon,"Michael Rooker, Leslie Hope, Shawn Thompson","Action, Horror, Thriller",4.8
+394,The Velocity of Gary,1998,100,Dan Ireland,"Vincent D'Onofrio, Salma Hayek, Thomas Jane","Comedy, Drama, Romance",4.7
+395,The Revengers' Comedies,1998,86,Malcolm Mowbray,"Sam Neill, Helena Bonham Carter, Kristin Scott Thomas","Comedy, Romance",6.1
+396,Orphans,1998,101,Peter Mullan,"Douglas Henshall, Gary Lewis, Rosemarie Stevenson","Comedy, Drama",7.0
+397,This Is My Father,1998,119,Paul Quinn,"Aidan Quinn, James Caan, Jacob Tierney","Drama, Romance",6.9
+398,The Boys,1998,86,Rowan Woods,"David Wenham, Toni Collette, Lynette Curran","Crime, Drama",6.9
+399,Like It Is,1998,97,Paul Oremland,"Steve Bell, Dani Behr, Ian Rose","Drama, Romance, Sport",6.4
+400,The Flying Liftboy,1998,110,Ben Sombogaart,"Victor Löw, Elleke Vervat, Roxanne Stam","Adventure, Family",6.0
+401,20 Dates,1998,87,Myles Berkowitz,"Myles Berkowitz, Elisabeth Wagner, Richard Arlook","Biography, Comedy, Romance",5.6
+402,Party Monster,1998,57,"Fenton Bailey, Randy Barbato","Michael Alig, Gitsie, James St. James","Documentary, Biography",7.2
+403,The Pear Tree,1998,95,Dariush Mehrjui,"Homayoun Ershadi, Golshifteh Farahani, Mohammad Reza Shahbani Nouri","Drama, Romance",7.4
+404,Progeny,1998,98,Brian Yuzna,"Arnold Vosloo, Jillian McWhirter, Brad Dourif","Horror, Sci-Fi, Thriller",4.9
+405,Illuminata,1998,119,John Turturro,"Leo Bassi, Henri Béhar, Maurizio Benazzo","Drama, Romance",6.0
+406,The Decline of Western Civilization Part III,1998,86,Penelope Spheeris,"Flea, Keith Morris, Eyeball","Documentary, Music",7.2
+407,Summer in Bethlehem,1998,143,Sibi Malayil,"Mohanlal, Suresh Gopi, Jayaram","Comedy, Drama",7.8
+408,The Olsen Gang - Final Mission,1998,105,"Tom Hedegaard, Morten Arnfred","Ove Sprogøe, Morten Grunwald, Poul Bundgaard","Comedy, Crime, Family",5.2
+409,Don't Tell Anyone,1998,120,Francisco J. Lombardi,"Santiago Magill, Christian Meier, Lucía Jiménez",Drama,6.8
+410,L.E.T.H.A.L. Ladies: Return to Savage Beach,1998,98,Andy Sidaris,"Julie Strain, Rodrigo Obregón, Julie K. Smith","Action, Adventure",3.8
+411,The Eternal,1998,95,Michael Almereyda,"Rachel O'Rourke, Lois Smith, Alison Elliott",Horror,4.5
+412,Razor Blade Smile,1998,101,Jake West,"Eileen Daly, Christopher Adamson, Jonathan Coote",Horror,4.6
+413,No Code of Conduct,1998,90,Bret Michaels,"Charlie Sheen, Martin Sheen, Mark Dacascos","Action, Crime, Drama",4.7
+414,Class Trip,1998,96,Claude Miller,"Clément van den Bergh, Emmanuelle Bercot, Yves Verhoeven","Drama, Mystery",6.8
+415,Dr. Akagi,1998,129,Shôhei Imamura,"Akira Emoto, Kumiko Asô, Jacques Gamblin","Comedy, Drama, History",7.2
+416,Subspecies 4: Bloodstorm,1998,85,Ted Nicolaou,"Anders Hove, Denice Duff, Jonathon Morris","Fantasy, Horror",5.1
+417,The Godson,1998,100,Bob Hoge,"Rodney Dangerfield, Kevin McDonald, Dom DeLuise","Comedy, Crime",3.4
+418,Relax... It's Just Sex,1998,110,P.J. Castellaneta,"Mitchell Anderson, Jennifer Tilly, Terrence 'T.C.' Carson",Comedy,6.7
+419,Country of the Deaf,1998,105,Valeriy Todorovskiy,"Chulpan Khamatova, Dina Korzun, Maksim Sukhanov","Comedy, Crime, Drama",7.4
+420,The School of Flesh,1998,101,Benoît Jacquot,"Isabelle Huppert, Vincent Martinez, Vincent Lindon","Drama, Mystery, Romance",6.5
+421,Les Boys II,1998,120,Louis Saia,"Marc Messier, Rémy Girard, Patrick Huard","Comedy, Romance, Sport",6.2
+422,P.U.N.K.S.,1998,115,Sean McNamara,"Tim Redwine, Kenneth A. Brown, Patrick Renna","Comedy, Sci-Fi",4.7
+423,Bone Daddy,1998,90,Mario Azzopardi,"Rutger Hauer, Barbara Williams, R.H. Thomson","Crime, Horror, Thriller",5.3
+424,Kadhal Mannan,1998,135,Saran,"Ajith Kumar, Maanu, M.S. Viswanathan","Drama, Romance",7.1
+425,Serial Lover,1998,83,James Huth,"Michèle Laroque, Albert Dupontel, Elise Tielrooy","Comedy, Crime",6.7
+426,Kaathala Kaathala,1998,142,Singeetam Srinivasa Rao,"Kamal Haasan, Prabhu Deva, Soundarya","Comedy, Drama, Romance",7.4
+427,Chinthavishtayaya Shyamala,1998,158,Sreenivasan,"Sreenivasan, Sangeetha, Thilakan","Comedy, Drama",8.0
+428,From the Edge of the City,1998,94,Constantine Giannaris,"Stathis Papadopoulos, Costas Kotsianidis, Panagiotis Chartomatsidis","Crime, Drama",6.4
+429,The Nephew,1998,105,Eugene Brady,"Niall Toibin, Sinéad Cusack, Luke Griffin",Drama,6.5
+430,The Glassblower's Children,1998,110,Anders Grönros,"Lena Granhagen, Stellan Skarsgård, Pernilla August","Drama, Family",6.2
+431,Slappy and the Stinkers,1998,78,Barnet Kellman,"BD Wong, Bronson Pinchot, Jennifer Coolidge","Comedy, Family",5.1
+432,Claire Dolan,1998,95,Lodge Kerrigan,"Katrin Cartlidge, Vincent D'Onofrio, Colm Meaney",Drama,6.7
+433,The Polish Bride,1998,89,Karim Traïdia,"Jaap Spijkers, Monic Hendrickx, Rudi Falkenhagen","Drama, Romance",7.1
+434,Tokyo Eyes,1998,97,Jean-Pierre Limosin,"Shinji Takeda, Hinano Yoshikawa, Kaori Mizushima","Comedy, Thriller",6.6
+435,Ninaithen Vandhai,1998,150,K. Selva Bharathy,"Joseph Vijay, Charlie, Devayani","Drama, Romance",7.8
+436,The Last Contract,1998,114,Kjell Sundvall,"Mikael Persbrandt, Michael Kitchen, Pernilla August","Crime, Thriller",6.2
+437,A Hero Never Dies,1998,86,Johnnie To,"Leon Lai, Ching-Wan Lau, Fiona Leung","Action, Crime, Drama",7.0
+438,La cena,1998,126,Ettore Scola,"Fanny Ardant, Antonio Catania, Francesca d'Aloja","Comedy, Drama",6.9
+439,Hinterholz 8,1998,90,Harald Sicheritz,"Roland Düringer, Nina Proll, Rudolf Rohaczek",Comedy,6.9
+440,Shadrach,1998,88,Susanna Styron,"Martin Sheen, John Franklin Sawyer, Scott Terra",Drama,6.4
+441,Be There or Be Square,1998,103,Xiaogang Feng,"You Ge, Fan Xu, Bobby C. King","Comedy, Romance",7.2
+442,It All Came True,1998,94,Peter Yates,"James Spader, Polly Walker, Michael Caine","Comedy, Fantasy",5.7
+443,The Brandon Teena Story,1998,89,"Susan Muska, Gréta Olafsdóttir","Daphne, Reanna, Gina","Documentary, Biography",7.0
+444,One Tough Cop,1998,90,Bruno Barreto,"Stephen Baldwin, Chris Penn, Gina Gershon","Action, Crime",5.1
+445,Harikrishnans,1998,150,Fazil,"Mammootty, Mohanlal, Juhi Chawla","Comedy, Crime, Mystery",6.8
+446,The Scent of the Night,1998,105,Claudio Caligari,"Valerio Mastandrea, Marco Giallini, Giorgio Tirabassi","Crime, Drama, Thriller",6.9
+447,Keemat: They Are Back,1998,162,Sameer Malkan,"Akshay Kumar, Raveena Tandon, Saif Ali Khan","Action, Comedy, Drama",5.5
+448,The Lucky Guy,1998,100,Lik-Chi Lee,"Daniel Hiu Tung Chan, Joyce Chan, Kim-Wan Chan","Comedy, Drama, Romance",6.1
+449,Gideon,1998,102,Claudia Hoover,"Christopher Lambert, Charlton Heston, Carroll O'Connor","Comedy, Drama, Romance",6.5
+450,Kareeb,1998,145,Vidhu Vinod Chopra,"Bobby Deol, Shabana Raza, Abhay Chopra","Drama, Romance",6.5
+451,The Changed Man,1998,106,Mohamad Reza Honarmand,"Afsaneh Bayegan, Akbar Ghadami, Mohammad Reza Haghgoo","Comedy, Romance",5.9
+452,Gallo cedrone,1998,93,Carlo Verdone,"Carlo Verdone, Regina Orioli, Ines Nobili",Comedy,5.6
+453,L'ultimo capodanno,1998,109,Marco Risi,"Monica Bellucci, Francesca d'Aloja, Marco Giallini","Comedy, Drama",6.1
+454,Am I Beautiful?,1998,117,Doris Dörrie,"Marie Zielcke, Carla Weindler, Julian Messner","Comedy, Drama",6.4
+455,In God's Hands,1998,96,Zalman King,"Matt George, Matty Liu, Shane Dorian","Action, Drama, Sport",5.4
+456,Tommy and the Wildcat,1998,102,"Raimo O. Niemi, Ville Suhonen","Konsta Hietanen, Risto Tuorila, Jarmo Mäkinen","Adventure, Family, Drama",5.6
+457,Train Birds,1998,87,Peter Lichtefeld,"Joachim Król, Outi Mäenpää, Peter Lohmeyer","Comedy, Romance, Crime",7.3
+458,Beast Cops,1998,110,"Gordon Chan, Dante Lam","Anthony Chau-Sang Wong, Michael Wong, Stephanie Che","Action, Crime, Drama",6.8
+459,"Smile, the Photo Comes Out Better",1998,113,Sherif Arafa,"Ahmed Zaki, Sanaa Gameel, Laila Eloui","Comedy, Drama, Romance",7.1
+460,Gunshy,1998,100,Jeff Celentano,"Al Vicente, R. Lee Ermey, William Petersen","Crime, Drama",5.8
+461,Family Plan,1998,95,Fred Gerber,"Leslie Nielsen, Judge Reinhold, Eddie Bowz","Comedy, Family",4.8
+462,Kad mrtvi zapjevaju,1998,99,Krsto Papic,"Ivo Gregurevic, Ivica Vidovic, Mirjana Majurec","Comedy, Drama, War",7.6
+463,Tokyo Rampage,1998,98,Toshiaki Toyoda,"Chihara Junia, Onimaru, Akaji Maro","Action, Crime, Drama",6.5
+464,Divine Trash,1998,97,Steve Yeager,"John Waters, Pat Waters, John Waters Sr.",Documentary,7.7
+465,Southie,1998,95,John Shea,"Donnie Wahlberg, Rose McGowan, Anne Meara",Drama,5.4
+466,The Other Conquest,1998,105,Salvador Carrasco,"Damián Delgado, José Carlos Rodríguez, Elpidia Carrillo","Drama, History",6.6
+467,Blues Harp,1998,107,Takashi Miike,"Hiroyuki Ikeuchi, Seiichi Tanabe, Saori Sekino","Crime, Drama, Music",7.0
+468,Bug Buster,1998,93,Lorenzo Doumani,"Randy Quaid, Brenda Epperson, Katherine Heigl","Comedy, Horror, Sci-Fi",3.9
+469,Legend of the Mummy,1998,96,Jeffrey Obrow,"Louis Gossett Jr., Amy Locane, Eric Lutes","Thriller, Horror",3.0
+470,Paparazzi,1998,100,Neri Parenti,"Christian De Sica, Massimo Boldi, Diego Abatantuono",Comedy,4.1
+471,The Inheritors,1998,95,Stefan Ruzowitzky,"Simon Schwarz, Sophie Rois, Lars Rudolph","Drama, Mystery",7.3
+472,Expect the Unexpected,1998,87,"Tat-Chi Yau, Johnnie To","Simon Yam, Ching-Wan Lau, YoYo Mung","Action, Crime, Drama",7.1
+473,Webmaster,1998,102,Thomas Borch Nielsen,"Lars Bom, Puk Scharbau, Jørgen Kiil","Thriller, Sci-Fi",4.8
+474,Hav Plenty,1998,92,Christopher Scott Cherot,"Christopher Scott Cherot, Chenoa Maxwell, Hill Harper","Comedy, Romance",6.2
+475,"Blood, Guts, Bullets and Octane",1998,87,Joe Carnahan,"Mike Maas, Nick Fenske, Mark Priolo","Action, Comedy, Crime",5.3
+476,Rebirth of Mothra III,1998,99,Okihiro Yoneda,"Megumi Kobayashi, Misato Tate, Aki Hano","Action, Adventure, Fantasy",5.7
+477,In Heaven as It Is on Earth,1998,100,Jacek Bromski,"Jan Wieczorkowski, Krzysztof Dzierma, Andrzej Beja-Zaborski",Comedy,6.8
+478,Caught Up,1998,97,Darin Scott,"Bokeem Woodbine, Cynda Williams, Damon Saleem","Crime, Drama, Thriller",5.4
+479,Todd McFarlane's Spawn 2,1998,146,"Thomas A. Nelson, Mike Vosburg, Jennifer Yuh Nelson","Keith David, Richard Dysart, Dominique Jennings","Animation, Action, Adventure",8.2
+480,Little Tony,1998,95,Alex van Warmerdam,"Alex van Warmerdam, Annet Malherbe, Ariane Schluter","Comedy, Drama, Romance",6.9
+481,Milo,1998,91,Pascal Franchot,"Jennifer Jostyn, Antonio Fargas, Paula Cale",Horror,4.1
+482,Parting Shots,1998,99,Michael Winner,"Chris Rea, Felicity Kendal, John Cleese","Comedy, Crime, Romance",5.1
+483,Demons of War,1998,93,"Wladyslaw Pasikowski, Haider Rizvi","Boguslaw Linda, Zbigniew Zamachowski, Tadeusz Huk","Drama, War",6.3
+484,Johnny Skidmarks,1998,96,John Raffo,"Peter Gallagher, Frances McDormand, John Lithgow","Crime, Drama, Mystery",5.5
+485,Paparazzi,1998,111,Alain Berbérian,"Patrick Timsit, Vincent Lindon, Catherine Frot","Comedy, Romance",5.4
+486,Bimboland,1998,90,Ariel Zeitoun,"Judith Godrèche, Aure Atika, Gérard Depardieu","Comedy, Romance",4.7
+487,Beefcake,1998,91,Thom Fitzgerald,"Daniel MacIvor, Joshua Peace, Jack Griffin Mazeika",Drama,6.7
+488,Serpent's Path,1998,85,Kiyoshi Kurosawa,"Shô Aikawa, Teruyuki Kagawa, Yûrei Yanagi","Crime, Drama, Thriller",7.0
+489,Brown's Requiem,1998,104,Jason Freeland,"Michael Rooker, Big Daddy Wayne, Jack Wallace","Crime, Drama, Thriller",5.7
+490,The Power of Kangwon Province,1998,110,Hong Sang-soo,"Baek Jong-hak, Oh Yun-hong, Kim Yu-seok",Drama,6.9
+491,Sekal Has to Die,1998,109,Vladimír Michálek,"Olaf Lubaszenko, Boguslaw Linda, Jirí Bartoska",Drama,7.3
+492,Whatever,1998,112,Susan Skoog,"Liza Weil, Chad Morgan, Frederic Forrest",Drama,6.4
+493,Anarchy TV,1998,87,Jonathan Blank,"Jonathan Penner, Jessica Hecht, Matt Winston",Comedy,4.6
+494,The Lord's Lantern in Budapest,1998,103,Miklós Jancsó,"Zoltán Mucsi, Péter Scherer, József Szarvas","Comedy, Drama",6.7
+495,Bishonen,1998,111,Yonfan,"Stephen Fung, Daniel Wu, Shu Qi","Drama, Romance",6.7
+496,"God Said, 'Ha!'",1998,85,Julia Sweeney,"Julia Sweeney, Quentin Tarantino","Comedy, Drama",7.1
+497,The Ultimate Weapon,1998,110,"Jon Cassar, John Strong","Hulk Hogan, Carl Marotte, Cynthia Preston",Action,3.5
+498,Some Girl,1998,94,Rory Kelly,"Marissa Ribisi, Juliette Lewis, Michael Rapaport","Comedy, Drama, Romance",5.6
+499,Zona J,1998,96,Leonel Vieira,"Félix Fontoura, Nuria Madruga, Milton Spencer","Crime, Drama, Romance",6.4
+500,Zingo,1998,92,Christjan Wegner,"Björn Kjellman, Helena Af Sandeberg, Per Morberg",Comedy,5.7
+501,Secret Defense,1998,170,Jacques Rivette,"Sandrine Bonnaire, Jerzy Radziwilowicz, Grégoire Colin","Crime, Drama",7.0
+502,Outside Ozona,1998,100,J.S. Cardone,"Robert Forster, Kevin Pollak, Sherilyn Fenn","Drama, Thriller",6.0
+503,Up 'n' Under,1998,99,John Godber,"Gary Olsen, Richard Ridings, Samantha Womack","Comedy, Sport",5.6
+504,Among Giants,1998,93,Sam Miller,"Pete Postlethwaite, Rachel Griffiths, James Thornton","Comedy, Romance",5.9
+505,Bayside Shakedown,1998,119,Katsuyuki Motohiro,"Yûji Oda, Toshirô Yanagiba, Eri Fukatsu","Action, Comedy, Crime",6.3
+506,Il mio West,1998,87,Giovanni Veronesi,"Leonardo Pieraccioni, Harvey Keitel, David Bowie","Comedy, Drama, Western",4.5
+507,American Dragons,1998,95,Ralph Hemecker,"Michael Biehn, Park Joong-hoon, Cary-Hiroyuki Tagawa","Action, Crime",4.9
+508,Scar City,1998,100,Ken Sanzel,"Stephen Baldwin, Tia Carrere, Renée Estevez","Action, Thriller",5.1
+509,Hyderabad Blues,1998,85,Nagesh Kukunoor,"Nagesh Kukunoor, Rajshri Nair, Vikram Inamdar","Comedy, Drama, Romance",7.2
+510,Sudden Rain,1998,182,Basu Chatterjee,"Ferdous Ahmed, Priyanka Upendra, Sreelekha Mitra","Drama, Romance",8.1
+511,The Second Wife,1998,122,Ugo Chiti,"Maria Grazia Cucinotta, Lazar Ristovski, Giorgio Noè","Comedy, Romance",5.9
+512,Gang Land,1998,97,Randolph Kret,"Damon Jones, Dave Oren Ward, Davidlee Willson","Action, Crime, Drama",4.3
+513,The Lost World,1998,97,Bob Keen,"Patrick Bergin, Jayne Heitmeyer, Julian Casey","Adventure, Sci-Fi",3.9
+514,Siberia,1998,91,Robert Jan Westdijk,"Roeland Fernhout, Hugo Metsers, Vlatka Simac","Crime, Drama, Romance",6.4
+515,Frank Lloyd Wright,1998,146,"Ken Burns, Lynn Novick","Edward Herrmann, Philip Bosco, Julie Harris","Documentary, Biography, History",7.8
+516,American Cuisine,1998,92,Jean-Yves Pitoun,"Jason Lee, Eddy Mitchell, Irène Jacob",Comedy,6.1
+517,In All Innocence,1998,101,Pierre Jolivet,"Gérard Lanvin, Carole Bouquet, Virginie Ledoyen","Drama, Crime, Romance",6.2
+518,Black Angel Vol. 1,1998,107,Takashi Ishii,"Riona Hazuki, Reiko Takashima, Jinpachi Nezu","Action, Crime, Drama",5.9
+519,Love Scenes from Planet Earth,1998,89,Marc Rothemund,"Christoph Waltz, Heio von Stetten, Ann-Kathrin Kramer","Comedy, Romance",6.3
+520,Angel of the Night,1998,98,Shaky González,"Maria Stokholm, Mette Louise Holland, Tomas Villum Jensen","Comedy, Horror",4.1
+521,The Sender,1998,98,Richard Pepin,"Michael Madsen, R. Lee Ermey, Robert Vaughn","Action, Sci-Fi, Thriller",3.8
+522,Reach the Rock,1998,100,Bill Ryan,"William Sadler, Alessandro Nivola, Bruce Norris","Comedy, Drama",6.6
+523,Angaaray,1998,141,Mahesh Bhatt,"Akshay Kumar, Nagarjuna Akkineni, Pooja Bhatt","Action, Crime, Drama",5.2
+524,Jhooth Bole Kauwa Kaate,1998,148,Hrishikesh Mukherjee,"Anil Kapoor, Juhi Chawla, Amrish Puri","Comedy, Romance",5.7
+525,Talk of Angels,1998,96,Nick Hamm,"Polly Walker, Vincent Perez, Franco Nero","Drama, Romance, War",5.8
+526,Okraina,1998,95,Pyotr Lutsik,"Yuriy Dubrovin, Nikolay Olyalin, Aleksei Pushkin",Drama,7.7
+527,The New Swiss Family Robinson,1998,90,Stewart Raffill,"Jane Seymour, David Carradine, James Keach","Adventure, Family",4.9
+528,An Argentinian in New York,1998,95,Juan José Jusid,"Guillermo Francella, Natalia Oreiro, Diana Lamas","Comedy, Music",4.7
+529,Heaven,1998,103,Scott Reynolds,"Martin Donovan, Daniel Edwards, Richard Schiff","Crime, Thriller",6.5
+530,Rough Draft,1998,92,Joshua Wallace,"Gary Busey, Michael Madsen, Arnold Vosloo","Horror, Thriller",4.0
+531,Kiss the Sky,1998,107,Roger Young,"William Petersen, Gary Cole, Sheryl Lee","Drama, Romance",5.8
+532,Decampitated,1998,92,Matt Cunningham,"Amy Gordon, Mike Hart, Steve Ladden","Comedy, Horror",4.5
+533,Doraemon: Nobita's Great Adventure in the South Seas,1998,100,Tsutomu Shibayama,"Nobuyo Ôyama, Noriko Ohara, Mach Fumiake","Animation, Adventure, Comedy",7.1
+534,Ride,1998,90,Millicent Shelton,"Melissa De Sousa, John Witherspoon, Cedric The Entertainer",Comedy,4.4
+535,Johtaja Uuno Turhapuro - pisnismies,1998,102,Ere Kokkonen,"Vesa-Matti Loiri, Marjatta Raita, Santeri Kinnunen",Comedy,4.7
+536,I Woke Up Early the Day I Died,1998,90,Aris Iliopulos,"Billy Zane, Tippi Hedren, Ron Perlman","Comedy, Crime, Thriller",5.5
+537,Resurrection Man,1998,102,Marc Evans,"David Williamson, Stuart Townsend, Brenda Fricker","Crime, Drama, Thriller",5.3
+538,The Way We Laughed,1998,124,Gianni Amelio,"Francesco Giuffrida, Enrico Lo Verso, Fabrizio Gifuni",Drama,6.8
+539,St. Ives,1998,90,Harry Hook,"Jean-Marc Barr, Miranda Richardson, Richard E. Grant","Drama, Romance",6.5
+540,Around the Fire,1998,106,John Jacobsen,"Devon Sawa, Bill Smitrovich, Tara Reid",Drama,5.3
+541,Telling You,1998,94,Rob DeFranco,"Peter Facinelli, Jennifer Love Hewitt, Dash Mihok","Comedy, Drama, Romance",4.4
+542,Rogue Force,1998,89,Martin Kunert,"Michael Rooker, Robert Patrick, Diane DiLascio","Action, Thriller",5.5
+543,Young and Dangerous 5,1998,114,Wai Keung Lau,"Ekin Cheng, Shu Qi, Ka-Lok Chin","Action, Comedy, Crime",6.0
+544,Wajood,1998,180,N. Chandra,"Nana Patekar, Madhuri Dixit, Mukul Dev","Action, Crime, Drama",7.0
+545,Jaded,1998,95,Caryn Krooth,"Carla Gugino, Richard Bright, Robert Knepper",Drama,5.4
+546,"Solan, Ludvig og Gurin med reverompa",1998,76,"John M. Jacobsen, Nille Tystad","Toralv Maurstad, Grethe Kausland, Pia Borgli","Animation, Family, Adventure",6.0
+547,Watchers Reborn,1998,90,John Carl Buechler,"Mark Hamill, Lisa Wilcox, Stephen Macht","Horror, Sci-Fi",3.8
+548,"The Farm: Angola, USA",1998,88,"Liz Garbus, Wilbert Rideau, Jonathan Stack","Bernard Addison, Burl Cain, George Crawford",Documentary,7.5
+549,Nilaave Vaa,1998,0,A. Venkatesh,"Joseph Vijay, Suvalakshmi, Alphonsa",Action,7.4
+550,The Life and Times of Hank Greenberg,1998,90,Aviva Kempner,"Reeve Brenner, Hank Greenberg, Walter Matthau","Documentary, Biography, Sport",7.6
+551,The Octopus,1998,100,Guillaume Nicloux,"Jean-Pierre Darroussin, Clotilde Courau, Stéphane Boucher","Comedy, Crime, Thriller",6.4
+552,Man Is a Woman,1998,100,Jean-Jacques Zilbermann,"Antoine de Caunes, Elsa Zylberstein, Gad Elmaleh","Comedy, Music, Romance",6.1
+553,Broken Vessels,1998,90,Scott Ziehl,"Todd Field, Jason London, Roxana Zal",Drama,6.4
+554,Just a Little Harmless Sex,1998,98,Rick Rosenthal,"Alison Eastwood, Rachel Hunter, Lauren Hutton","Comedy, Romance",4.9
+555,Gharwali Baharwali,1998,138,David Dhawan,"Anil Kapoor, Raveena Tandon, Rambha",Comedy,4.6
+556,Midnight,1998,75,"Walter Salles, Daniela Thomas","Fernanda Torres, Luiz Carlos Vasconcelos, Matheus Nachtergaele","Crime, Drama",6.8
+557,I Zombie: The Chronicles of Pain,1998,79,Andrew Parkinson,"Giles Aspen, Ellen Softley, Dean Sipling","Drama, Horror",5.3
+558,What Rats Won't Do,1998,88,Alastair Reid,"James Frain, Natascha McElhone, Amy Phillips","Comedy, Romance",6.1
+559,T-Rex: Back to the Cretaceous,1998,45,Brett Leonard,"Peter Horton, Liz Stauber, Kari Coleman","Adventure, Family, Fantasy",4.8
+560,"Goodbye, 20th Century",1998,83,"Darko Mitrevski, Aleksandar Popovski","Lazar Ristovski, Nikola Ristanovski, Vlado Jovanovski","Adventure, Comedy, Fantasy",6.6
+561,Just One Time,1998,111,Lane Janger,"Lane Janger, Joelle Carter, Guillermo Diaz","Comedy, Drama, Romance",6.2
+562,The Wolves of Kromer,1998,82,Will Gould,"Boy George, James Layton, Lee Williams","Fantasy, Horror, Comedy",5.8
+563,Aunty No. 1,1998,160,Kirti Kumar,"Govinda, Raveena Tandon, Harish","Action, Comedy, Drama",4.4
+564,Jeanne and the Perfect Guy,1998,105,"Olivier Ducastel, Jacques Martineau","Virginie Ledoyen, Mathieu Demy, Jacques Bonnaffé","Drama, Musical, Romance",6.4
+565,The Conman,1998,107,Jing Wong,"Andy Lau, Athena Chu, Nick Cheung","Action, Comedy, Drama",6.0
+566,A Mother's Love,1998,90,Kamal Tabrizi,"Fatemah Motamed-Aria, Hossein Soleimani, Jamshid Esmailkhani","Drama, Family",6.9
+567,Déjà mort,1998,108,Olivier Dahan,"Romain Duris, Benoît Magimel, Zoé Félix","Crime, Drama",5.7
+568,Sanctuary,1998,104,Tibor Takács,"Mark Dacascos, Jaimz Woolvett, Kylie Travis","Action, Thriller",4.8
+569,Bunch of Five,1998,73,Erik Poppe,"Maikel Andressen Abou-Zelof, Jalal Zahedjekta, Sharjil Arshed","Crime, Drama",6.0
+570,Wildside,1998,95,Simon Staho,"Nikolaj Coster-Waldau, Mads Mikkelsen, Nukâka",Drama,6.4
+571,McCinsey's Island,1998,95,Sam Firstenberg,"Hulk Hogan, Grace Jones, Robert Vaughn","Action, Adventure, Comedy",3.3
+572,Sleepless Town,1998,122,Chi-Ngai Lee,"Takeshi Kaneshiro, Mirai Yamamoto, Kippei Shîna","Crime, Drama, Romance",6.9
+573,Recoil,1998,96,Art Camacho,"Gary Daniels, Gregory McKinney, Thomas Kopache",Action,5.3
+574,B.U.S.T.E.D,1998,97,Andrew Goth,"Rachel Shelley, Clint Dyer, David Baker","Crime, Drama",5.3
+575,Shattered Image,1998,102,Raúl Ruiz,"Anne Parillaud, William Baldwin, Lisanne Falk","Crime, Drama, Fantasy",4.8
+576,The Secret Laughter of Women,1998,99,Peter Schwabach,"Colin Firth, Nia Long, Dan Lett","Comedy, Drama, Romance",6.0
+577,Femalien 2,1998,92,Cybil Richards,"Venesa Talor, Bethany Lorraine, Josh Edwards","Romance, Sci-Fi",3.7
+578,Boogie Boy,1998,104,Craig Hamann,"Mark Dacascos, Emily Lloyd, Michael Peña","Crime, Thriller",5.0
+579,Shrieker,1998,72,David DeCoteau,"Tanya Dempsey, Jamie Gannon, Parry Shen",Horror,3.9
+580,The Wonderful Ice Cream Suit,1998,77,Stuart Gordon,"Joe Mantegna, Esai Morales, Edward James Olmos","Comedy, Family, Fantasy",6.2
+581,The Lesser Evil,1998,96,David Mackay,"Colm Feore, Tony Goldwyn, Arliss Howard","Drama, Thriller",6.5
+582,Striking Poses,1998,93,Gail Harvey,"Shannen Doherty, Joseph Griffin, Tamara Gorski",Thriller,4.9
+583,The First 9 1/2 Weeks,1998,100,Alex Wright,"Paul Mercurio, Clara Bellar, Malcolm McDowell","Drama, Thriller",3.4
+584,Too Smooth,1998,89,Dean Paraskevopoulos,"Dean Paraskevopoulos, Chris Hogan, Evan Glenn","Comedy, Romance",4.2
+585,The Landlady,1998,95,Robert Malenfant,"Talia Shire, Jack Coleman, Bruce Weitz","Horror, Thriller",4.6
+586,Buttcrack,1998,68,Jim Larsen,"Doug Ciskowski, Caleb Kreischer, Rob Hayward","Comedy, Horror",3.7
+587,A Very Unlucky Leprechaun,1998,89,Brian Kelly,"Warwick Davis, Danielle Lombardi, Stephanie Lombardi","Family, Fantasy",2.7
+588,The Lighthouse,1998,109,Eduardo Mignogna,"Ingrid Rubio, Jimena Barón, Florencia Bertotti",Drama,6.9
+589,Cha Cha Cha,1998,109,Antonio del Real,"Eduardo Noriega, Ana Álvarez, María Adánez","Comedy, Romance",6.0
+590,Eyes of the Spider,1998,83,Kiyoshi Kurosawa,"Shô Aikawa, Duncan, Ren Ôsugi","Crime, Drama, Thriller",6.6
+591,Restaurant,1998,107,Eric Bross,"Adrien Brody, Elise Neal, David Moscow",Drama,6.0
+592,Tomorrow Night,1998,87,Louis C.K.,"Jim Earl, Frank Senger, Todd Barry",Comedy,6.3
+593,Only Clouds Move the Stars,1998,98,Torun Lian,"Thea Sofie Rusten, Jan Tore Kristoffersen, Anneke von der Lippe","Drama, Family",6.8
+594,Mama ne goryuy,1998,83,Maksim Pezhemskiy,"Gosha Kutsenko, Evgeniy Sidikhin, Nikolay Chindyaykin","Comedy, Crime",6.8
+595,Barood,1998,159,Pramod Chakravorty,"Rakhee Gulzar, Akshay Kumar, Raveena Tandon","Action, Crime, Drama",4.3
+596,A Summer by the River,1998,85,Markku Pölönen,"Pertti Koivula, Simo Kontio, Esko Nikkari","Comedy, Drama",6.4
+597,Lautrec,1998,125,Roger Planchon,"Régis Royer, Elsa Zylberstein, Anémone","Biography, Comedy, Drama",6.6
+598,Suswagatham,1998,151,Srinivasa Rao Bhimaneni,"Devayani, Pawan Kalyan, Raghuvaran","Drama, Romance",7.1
+599,Anrakkî monkî,1998,106,Sabu,"Shin'ichi Tsutsumi, Hiroshi Shimizu, Akira Yamamoto","Action, Comedy, Crime",6.6
+600,Hi-Life,1998,82,Roger Hedden,"Campbell Scott, Daryl Hannah, Moira Kelly","Comedy, Romance",5.7
+601,Life Is to Whistle,1998,106,Fernando Pérez,"Luis Alberto García, Coralia Veloz, Claudia Rojas","Comedy, Drama, Music",6.5
+602,Girls' Night,1998,102,Nick Hurran,"Brenda Blethyn, Julie Walters, Sue Cleaver","Comedy, Drama, Romance",6.6
+603,Airborne,1998,91,Julian Grant,"Steve Guttenberg, Kim Coates, Torri Higginson","Action, Mystery, Thriller",3.2
+604,Alien Species,1998,92,Peter Maris,"Charles Napier, Hoke Howell, David Homb",Sci-Fi,2.6
+605,Black Thunder,1998,92,Rick Jacobson,"Michael Dudikoff, Richard Norton, Michael Cavanaugh","Action, Drama, Thriller",3.7
+606,"Simão, o Fantasma Trapalhão",1998,80,Paulo Aragão,"Angélica, Renato Aragão, Marcelo Augusto","Comedy, Family, Fantasy",3.4
+607,Ayal Kadha Ezhuthukayanu,1998,155,Kamal,"Mohanlal, Sreenivasan, Kousalya","Comedy, Drama, Romance",7.0
+608,A Fish in the Bathtub,1998,96,Joan Micklin Silver,"Jerry Stiller, Anne Meara, Mark Ruffalo",Comedy,6.1
+609,The Personals,1998,104,Kuo-Fu Chen,"Rene Liu, Wu Bai, Chen Chao-jung","Comedy, Drama, Romance",7.1
+610,The Naked Eye,1998,104,Vicente Aranda,"Laura Morante, Jose Coronado, Miguel Ángel García",Drama,4.8
+611,Chinese Torture Chamber Story 2,1998,93,Kin-Nam Cho,"Mark Ho-nam Cheng, Yolinda Yam, Wai-Kin Lam","Drama, Horror, Thriller",5.1
+612,The Tribe,1998,105,Stephen Poliakoff,"Joely Richardson, Jeremy Northam, Anna Friel",Drama,5.8
+613,Prem Aggan,1998,168,Feroz Khan,"Fardeen Khan, Meghna Kothari, Sameer Malhotra","Action, Drama, Romance",1.7
+614,The Misadventures of Margaret,1998,105,Brian Skeet,"Parker Posey, Jeremy Northam, Craig Chester","Comedy, Romance",5.1
+615,City of Glass,1998,111,Mabel Cheung,"Leon Lai, Shu Qi, Nicola Cheung","Drama, History, Romance",6.7
+616,At Sachem Farm,1998,106,John Huddles,"Minnie Driver, Nigel Hawthorne, Rufus Sewell",Drama,6.1
+617,Safety Patrol,1998,96,Savage Steve Holland,"Bug Hall, Lainie Kazan, Curtis Armstrong","Comedy, Family",4.3
+618,Urban Ghost Story,1998,82,Geneviève Jolliffe,"Jason Connery, Stephanie Buttle, Heather Ann Foster","Drama, Horror, Thriller",5.4
+619,Little Men,1998,98,Rodney Gibbons,"Kathleen Fee, Michael Caloz, Mariel Hemingway",Drama,6.3
+620,Doli Saja Ke Rakhna,1998,170,Priyadarshan,"Akshaye Khanna, Jyotika, Anupam Kher","Drama, Romance",6.4
+621,The Mutants,1998,113,Teresa Villaverde,"Ana Moreira, Alexandre Pinto, Nelson Varela",Drama,7.2
+622,Fiona,1998,85,Amos Kollek,"Anna Thomson, Felicia Maguire, Alyssa Mulhern",Drama,5.7
+623,Tumbling Doll of Flesh,1998,72,Tamakichi Anaru,"Kanako Ooba, Kikurin, Tamakichi Anaru",Horror,3.9
+624,A Letter from Death Row,1998,89,"Marvin Baker, Bret Michaels","Bret Michaels, Martin Sheen, Kristi Gibson","Crime, Drama, Mystery",3.7
+625,Whatever It Takes,1998,101,Brady MacKenzie,"Don Wilson, Andrew Dice Clay, Fred Williamson","Action, Crime",5.3
+626,Temmink: The Ultimate Fight,1998,90,Boris Paval Conen,"Jack Wouterse, Jacob Derwig, Herman Gilis","Action, Sci-Fi",6.5
+627,Date Wine,1998,110,Radwan El-Kashef,"Seif Abdelrahman, Manal Afifi, Hamdy Ahmed","Drama, Romance",8.2
+628,The Adopted Son,1998,81,Aktan Arym Kubat,"Mirlan Abdykalykov, Adir Abilkassimov, Mirlan Cinkozoev",Drama,6.9
+629,License to Live,1998,109,Kiyoshi Kurosawa,"Hidetoshi Nishijima, Shun Sugata, Lily","Drama, Comedy",6.9
+630,Praise,1998,98,John Curran,"Peter Fenton, Sacha Horler, Marta Dusseldorp",Drama,6.7
+631,Lucky People Center International,1998,85,"Erik Pauser, Johan Söderberg","Alexander Brenner, Djossou Dotche, Bruno Manser","Documentary, Music",8.0
+632,Dieu seul me voit,1998,120,Bruno Podalydès,"Denis Podalydès, Jeanne Balibar, Isabelle Candelier","Comedy, Romance",6.9
+633,With Friends Like These,1998,105,Philip Frank Messina,"Robert Costanzo, David Strathairn, Adam Arkin",Comedy,5.9
+634,Sweet Jane,1998,83,Joe Gayton,"Samantha Mathis, Barbara Pilavin, Kimberly Scott","Drama, Romance",6.9
+635,Bombay Boys,1998,105,Kaizad Gustad,"Naveen Andrews, Rahul Bose, Alexander Gifford","Comedy, Crime, Drama",6.3
+636,Viola Kisses Everybody,1998,93,Giovanni Veronesi,"Asia Argento, Massimo Ceccherini, Valerio Mastandrea","Adventure, Comedy",5.1
+637,Summer of the Monkeys,1998,101,Michael Anderson,"Michael Ontkean, Leslie Hope, Wilford Brimley","Adventure, Drama",6.1
+638,The Brylcreem Boys,1998,106,Terence Ryan,"Billy Campbell, Chris 'Kit' Ryan, Jean Butler","Drama, Romance, War",6.2
+639,Wind with the Gone,1998,90,Alejandro Agresti,"Vera Fogwill, Fabián Vena, Ángela Molina","Comedy, Drama",6.4
+640,Toto Who Lived Twice,1998,93,"Daniele Ciprì, Franco Maresco","Marcello Miranda, Carlo Giordano, Pietro Arciadiacono","Comedy, Drama",6.9
+641,Maharaja,1998,164,Anil Sharma,"Govinda, Manisha Koirala, Raj Babbar","Action, Adventure, Comedy",4.3
+642,That's the Way I Like It,1998,95,Glen Goei,"Adrian Pang, Medaline Tan, Pierre Png","Comedy, Drama, Music",6.8
+643,Cinderela Baiana,1998,85,Conrado Sanchez,"Carla Perez, Alexandre Pires, Perry Salles","Comedy, Drama, Family",1.9
+644,Cleopatra's Second Husband,1998,92,Jon Reiss,"Paul Hipp, Bitty Schram, Jonathan Penner",Drama,4.5
+645,Lenny Bruce: Swear to Tell the Truth,1998,100,Robert B. Weide,"Robert De Niro, Steve Allen, Honey Bruce Friedman","Documentary, Biography, Comedy",7.8
+646,Another Meltdown,1998,90,Wai-Lun Lam,"Wenzhuo Zhao, Shu Qi, Andrew Lien","Action, Thriller",5.3
+647,In the Flesh,1998,102,Ben Taylor,"Dane Ritter, Ed Corbin, Shimley Reynolds","Crime, Drama",5.7
+648,A los que aman,1998,97,Isabel Coixet,"Julio Núñez, Patxi Freytez, Olalla Moreno","Drama, Romance",6.1
+649,Killing Time,1998,88,Bharat Nalluri,"Craig Fairbrass, Nigel Leach, Kendra Torgan","Action, Crime, Thriller",5.1
+650,For Sale,1998,100,Laetitia Masson,"Sandrine Kiberlain, Sergio Castellitto, Jean-François Stévenin","Drama, Mystery, Romance",6.4
+651,Goodbye Tomorrow,1998,105,Reis Çelik,"Berhan Simsek, Tuncer Necmioglu, Tuncel Kurtiz","Biography, Drama, History",6.5
+652,Salaakhen,1998,165,Guddu Dhanoa,"Sunny Deol, Raveena Tandon, Manisha Koirala","Action, Drama",5.5
+653,Too Tired to Die,1998,97,Wonsuk Chin,"Rizwan Manji, Mira Sorvino, Bill Sage","Comedy, Drama, Fantasy",5.4
+654,Nico the Unicorn,1998,90,Graeme Campbell,"Kevin Zegers, Neige, Pierre Chagnon","Adventure, Family, Fantasy",5.6
+655,Art Museum by the Zoo,1998,108,Jeong-hyang Lee,"Shim Eun-ha, Lee Sung-jae, Ahn Sung-ki","Comedy, Romance",7.0
+656,Portland Street Blues,1998,114,Wai-Man Yip,"Sandra Ng, Kristy Yeung, Alex Fong","Crime, Drama",6.6
+657,Hasards ou coïncidences,1998,120,Claude Lelouch,"Alessandra Martines, Pierre Arditi, Marc Hollogne",Drama,6.5
+658,Deserter's Gold,1998,123,Janusz Majewski,"Marek Kondrat, Boguslaw Linda, Wiktor Zborowski","Action, Comedy, Family",4.8
+659,Barbaric Years,1998,111,Fernando Colomo,"Jordi Mollà, Ernesto Alterio, Hedy Burress","Adventure, Comedy, Drama",6.4
+660,An Affair,1998,108,Je-yong Lee,"Lee Jung-jae, Lee Mi-sook, Min Kim","Drama, Romance",6.8
+661,Rosie,1998,97,Patrice Toye,"Aranka Coppens, Sara de Roo, Dirk Roofthooft",Drama,7.3
+662,Ámbár tanár úr,1998,85,Róbert Koltai,"Judit Hernádi, Kata Dobó, Róbert Koltai","Romance, Comedy",4.5
+663,Leaf on a Pillow,1998,83,Garin Nugroho,"Sarah Azhari, Deni Christantra, Christine Hakim","Crime, Drama",7.7
+664,Lucinda's Spell,1998,105,Jon Jacobs,"Jon Jacobs, Christina Fulton, Shana Betz","Comedy, Drama, Fantasy",4.8
+665,Lolita 2000,1998,83,Cybil Richards,"Jacqueline Lovell, David Squires, Sky Nicholas",Sci-Fi,4.0
+666,Karisik Pizza,1998,94,Umur Turagay,"Olgun Simsek, Meltem Cumbul, Cem Özer","Comedy, Crime, Thriller",5.8
+667,Where's Marlowe?,1998,97,Daniel Pyne,"Miguel Ferrer, John Livingston, Yasiin Bey","Comedy, Mystery, Thriller",6.0
+668,Evasive Action,1998,91,Jerry P. Jacobs,"Dorian Harewood, Ray Wise, Roy Scheider","Action, Thriller",4.6
+669,The Stringer,1998,88,Pawel Pawlikowski,"Sergey Bodrov, Anna Friel, Vladimir Ilin","Action, Drama, Romance",6.2
+670,Divorce Iranian Style,1998,80,"Kim Longinotto, Ziba Mir-Hosseini",Joanna Rosenthall,Documentary,7.4
+671,The Incredible Adventures of Marco Polo,1998,97,George Erschbamer,"Don Diamont, Oliver Reed, Jack Palance",Adventure,4.7
+672,2 Seconds,1998,100,Manon Briand,"Charlotte Laurier, Dino Tavarone, Jonathan Bolduc","Comedy, Drama, Romance",6.6
+673,Shadow Run,1998,94,Geoffrey Reeve,"Michael Caine, James Fox, Matthew Pochin",Crime,4.3
+674,Choodalani Vundi,1998,148,Gunasekhar,"Chiranjeevi, Soundarya, Anjala Zaveri","Action, Drama, Musical",7.0
+675,Taxman,1998,104,Avi Nesher,"Joe Pantoliano, Wade Dominguez, Elizabeth Berkley","Action, Comedy, Crime",5.6
+676,Beings,1998,93,Paul Matthews,"Corbin Bernsen, Glynis Barber, Jameson Baltes","Adventure, Family, Fantasy",4.2
+677,The Real Macaw,1998,91,Mario Andreacchio,"Jamie Croft, Deborra-Lee Furness, Joe Petruzzi","Family, Adventure",5.4
+678,Young Thugs: Nostalgia,1998,94,Takashi Miike,"Takeshi Caesar, Setsuko Karasuma, Yûki Nagata","Comedy, Drama",7.1
+679,Don't Let Me Die on a Sunday,1998,86,Didier Le Pêcheur,"Élodie Bouchez, Jean-Marc Barr, Martin Petit-Guyot",Drama,5.2
+680,Naseeb,1998,138,Kirti Kumar,"Govinda, Mamta Kulkarni, Saeed Jaffrey","Comedy, Drama, Romance",5.3
+681,The Pandora Project,1998,89,"John Terlesky, Jim Wynorski","Daniel Baldwin, Erika Eleniak, Richard Tyson","Action, Thriller",3.7
+682,Shepherd,1998,86,Peter Hayman,"C. Thomas Howell, Roddy Piper, David Carradine","Action, Sci-Fi",2.9
+683,Hard,1998,102,John Huckert,"Noel Palomaria, Malcolm Moorman, Charles Lanyer","Crime, Drama, Thriller",5.8
+684,Three Businessmen,1998,80,Alex Cox,"Miguel Sandoval, Robert Wisdom, Alex Cox","Comedy, Drama",6.8
+685,Thugs,1998,83,Blake Calhoun,"Roald Martinsen, Stephen A. Elkins, Keith D. Allgeier",Comedy,3.6
+686,Standoff,1998,91,Andrew Chapman,"Robert Sean Leonard, Dennis Haysbert, Natasha Henstridge","Mystery, Thriller",5.1
+687,You Laugh,1998,99,"Paolo Taviani, Vittorio Taviani","Antonio Albanese, Giuseppe Cederna, Luca Zingaretti",Drama,6.7
+688,Evangelion: Death (True)²,1998,69,"Ken Andô, Hideaki Anno, Naoyasu Habu","Megumi Ogata, Kotono Mitsuishi, Megumi Hayashibara","Animation, Action, Drama",6.4
+689,Boleiros: Era Uma Vez o Futebol...,1998,93,Ugo Giorgetti,"Otávio Augusto, Adriano Stuart, André Abujamra","Comedy, Sport",7.3
+690,Confessions of a Sexist Pig,1998,91,Sandy Tung,"Edward Kerr, Traylor Howard, Lauren Graham",Comedy,4.9
+691,Bajo California: El límite del tiempo,1998,96,Carlos Bolado,"Damián Alcázar, Jesús Ochoa, Fernando Torre Lapham",Drama,7.4
+692,Extramarital,1998,91,Yael Russcol,"Traci Lords, Jeff Fahey, Brian Bloom","Drama, Mystery, Thriller",4.2
+693,Bela Donna,1998,111,Fábio Barreto,"Natasha Henstridge, Eduardo Moscovis, Sophie Ward","Drama, Romance",4.1
+694,Caresses,1998,94,Ventura Pons,"David Selvas, Laura Conejero, Julieta Serrano",Drama,6.4
+695,Don Juan,1998,104,Jacques Weber,"Jacques Weber, Michel Boujenah, Emmanuelle Béart","Comedy, Romance",4.8
+696,Anna Magdalena,1998,97,Chung-Man Yee,"Takeshi Kaneshiro, Aaron Kwok, Kelly Chen","Comedy, Fantasy, Music",6.3
+697,Bavagaru Bagunnara?,1998,154,Jayant Paranji,"Chiranjeevi, Rambha, Rachana Banerjee","Comedy, Drama, Romance",7.1
+698,The Treat,1998,94,Jonathan Gems,"Julie Delpy, Georgina Cates, Pamela Gidley","Comedy, Romance",4.2
+699,Andromedia,1998,109,Takashi Miike,"Hiroko Shimabukuro, Eriko Imai, Takako Uehara","Crime, Drama, Romance",4.7
+700,Restons groupés,1998,101,Jean-Paul Salomé,"Emma de Caunes, Judith Henry, Hubert Koundé",Comedy,5.2
+701,If I Die Before I Wake,1998,87,Brian Katkin,"Stephanie Jones, Muse Watson, Michael McCleery","Crime, Thriller",5.3
+702,Bloody Angels,1998,100,Karin Julsrud,"Reidar Sørensen, Jon Øigarden, Gaute Boris Skjegstad","Horror, Thriller",5.9
+703,"Pasti, pasti, pasticky",1998,124,Vera Chytilová,"Zuzana Stivínová, Miroslav Donutil, Tomás Hanák","Drama, Comedy",6.3
+704,Unnidathil Ennai Koduthen,1998,165,Vikraman,"Karthik, Ajith Kumar, Mouli",Drama,6.9
+705,I'm Losing You,1998,100,Bruce Wagner,"Frank Langella, Daniel von Bargen, Rosanna Arquette",Drama,5.0
+706,Armstrong,1998,99,Menahem Golan,"Kimberley Kates, Frank Zagarino, Charles Napier","Action, Thriller",3.8
+707,Animals with the Tollkeeper,1998,103,Michael Di Jiacomo,"Tim Roth, Mili Avital, Rod Steiger","Romance, Fantasy",6.7
+708,Butter,1998,101,Peter Gathings Bunche,"Shemar Moore, Nia Long, Ernie Hudson","Action, Thriller",4.3
+709,A True Mob Story,1998,112,Jing Wong,"Andy Lau, Gigi Leung, Suki Kwan","Action, Crime, Drama",6.3
+710,Lupin the 3rd: Crisis in Tokyo,1998,95,Toshiya Shinohara,"Megumi Hayashibara, Kan'ichi Kurita, Kiyoshi Kobayashi","Animation, Action, Comedy",7.1
+711,Pep Squad,1998,94,Steve Balderson,"Brooke Balderson, Amy Kelly, Jennifer Dreiling","Comedy, Crime, Horror",4.2
+712,The Longest Summer,1998,128,Fruit Chan,"Kenneth Bi, Fruit Chan, Sang Chan",Drama,7.2
+713,The Untold Story 2,1998,91,Yiu-Kuen Ng,"Paulyn Sun, Emotion Cheung, Anthony Chau-Sang Wong","Crime, Horror",5.7
+714,Kanmadam,1998,162,A.K. Lohithadas,"Mohanlal, Manju Warrier, Lal",Drama,7.3
+715,José Rizal,1998,178,Marilou Diaz-Abaya,"Cesar Montano, Joel Torre, Jaime Fabregas","Biography, Drama, History",7.6
+716,Modulations,1998,75,Iara Lee,"Arthur Baker, Afrika Bambaataa, Carl Cox","Documentary, Music",7.3
+717,The Little Girl Who Fell from the Tree,1998,112,Michael Bartlett,"Dominique Horwitz, Floriane Daniel, Julia Jäger",Thriller,7.7
+718,Lágrimas negras,1998,104,"Fernando Bauluz, Ricardo Franco","Ariadna Gil, Fele Martínez, Elena Anaya","Drama, Romance",6.2
+719,Owd Bob,1998,105,Rodney Gibbons,"James Cromwell, Colm Meaney, Jemima Rooper","Family, Drama",6.3
+720,The First Night of My Life,1998,82,Miguel Albaladejo,"Leonor Watling, Juanjo Martínez, Carlos Fuentes",Comedy,6.6
+721,Freedom Strike,1998,93,Jerry P. Jacobs,"Michael Dudikoff, Tone Loc, Felicity Waterman","Drama, Action",3.7
+722,The Butcher,1998,86,Aurelio Grimaldi,"Alba Parietti, Predrag 'Miki' Manojlovic, Lorenzo Majnoni",Drama,3.7
+723,The Tic Code,1998,91,Gary Winick,"Christopher Rodriguez Marquette, Polly Draper, Carol Kane",Drama,6.7
+724,Such a Long Journey,1998,113,Sturla Gunnarsson,"Roshan Seth, Soni Razdan, Om Puri",Drama,7.2
+725,Ögat,1998,114,Richard Hobert,"Lena Endre, Samuel Fröler, Camilla Lundén","Drama, Thriller",5.5
+726,Spin the Bottle,1998,83,Jamie Yerkes,"Heather Goldenhersh, Michael Conn, Jessica Faller","Comedy, Drama, Romance",6.0
+727,Second Chances,1998,107,James Fargo,"Tom Amandes, Isabel Glasser, Kelsey Mulrooney",Drama,6.5
+728,Falling Sky,1998,95,"Russ Brandt, Brian J. De Palma","Karen Allen, Brittany Murphy, Jeremy Jordan",Drama,5.8
+729,The Big Swap,1998,122,Niall Johnson,"Anthony Edridge, Sorcha Brooks, Richard Cherry","Drama, Romance",5.1
+730,Losing Control,1998,93,Julie Jordan,"Kira Reed, Doug Jeffery, Anneliza Scott","Mystery, Romance, Thriller",4.1
+731,Charades,1998,94,Stephen Eckelberry,"Robert Fields, Jack Scalia, James Wilder","Drama, Mystery",4.2
+732,Sex and Zen III,1998,95,Aman Chang,"King-Man Chik, Chun Chung, Yi Dung","Drama, Horror",5.3
+733,Lured Innocence,1998,99,Kikuo Kawasaki,"Dennis Hopper, Marley Shelton, Devon Gummersall","Drama, Thriller",4.9
+734,Young & Dangerous: The Prequel,1998,117,Wai Keung Lau,"Nicholas Tse, Sam Lee, Shu Qi","Crime, Drama",6.1
+735,The Atrocity Exhibition,1998,102,Jonathan Weiss,"Victor Slezak, Anna Juvander, Michael Kirby","Drama, Horror",5.4
+736,Mercedes,1998,86,Masud Kimiai,"Mohammad Reza Forutan, Marjan Shirmohammadi, Rambod Shekarabi",Drama,4.4
+737,City of the Rising Sun,1998,108,Sung Soo Kim,"Jung Woo-sung, Lee Jung-jae, Han Go-eun","Crime, Drama",6.6
+738,Klassik,1998,101,Georgiy Shengeliya,"Sergey Nikonenko, Juozas Budraitis, Aleksei Guskov","Action, Crime",6.7
+739,Madelief: Krassen in het tafelblad,1998,85,Ineke Houtman,"Madelief Verelst, Giulia Fleury, Rijk de Gooyer","Drama, Family",7.0
+740,Hijack,1998,94,Worth Keeter,"Jeff Fahey, Ernie Hudson, Beth Toussaint","Action, Thriller",4.1
+741,Crackers,1998,92,David Swann,"Warren Mitchell, Peter Rowsthorn, Susan Lyons",Comedy,6.3
+742,When the Light Comes,1998,115,Stijn Coninx,"Francesca Vanthielen, Joachim Król, Rick Engelkes","Adventure, Drama, Romance",6.4
+743,L'amico del cuore,1998,100,Vincenzo Salemme,"Vincenzo Salemme, Eva Herzigova, Carlo Buccirosso",Comedy,6.0
+744,The White Raven,1998,92,Andrew Stevens,"Ron Silver, Joanna Pacula, Roy Scheider","Action, Crime, Thriller",4.4
+745,Dance Me to My Song,1998,101,Rolf de Heer,"Heather Rose, Jo Kennedy, John Brumpton","Drama, Romance",7.1
+746,Land of the Free,1998,100,Jerry Jameson,"Jeff Speakman, William Shatner, Lisa Darr","Action, Thriller",4.6
+747,Titanic Town,1998,100,Roger Michell,"Julie Walters, Ciarán Hinds, Nuala O'Neill",Drama,6.5
+748,Dead Letter Office,1998,95,John Ruane,"Miranda Otto, George DelHoyo, Alicia Banit","Comedy, Drama, Romance",6.4
+749,Kraa! The Sea Monster,1998,69,"Aaron Osborne, Dave Parker","Michael Guerin, Jerry Lentz, Jon Simanton",Sci-Fi,3.5
+750,Endurance,1998,83,"Leslie Woodhead, Bud Greenspan","Haile Gebrselassie, Shawananness Gebrselassie, Yonas Zergaw","Biography, Drama, Sport",6.3
+751,Musketeers Forever,1998,99,Georges Chamchoum,"Michael Dudikoff, Sylvie Varakine, Lee Majors","Action, Adventure, Crime",4.1
+752,Talisman,1998,72,David DeCoteau,"Billy Parish, Walter Jones, Jason Adelman",Horror,3.7
+753,The Pass,1998,88,Kurt Voss,"William Forsythe, Michael McKean, Nancy Allen",Thriller,4.8
+754,The Thin Pink Line,1998,106,"Joe Dietl, Michael Irpino","Carrie Aizley, Jennifer Aniston, Layne Beamer",Comedy,3.5
+755,Nô,1998,85,Robert Lepage,"Anne-Marie Cadieux, Alexis Martin, Marie Gignac","Comedy, Drama",6.9
+756,The Last Leprechaun,1998,93,"David Lister, Moicontent","Veronica Hamel, Jack Scalia, David Warner","Adventure, Fantasy, Drama",3.9
+757,Golpe de estadio,1998,120,Sergio Cabrera,"Emma Suárez, Nicolás Montero, César Mora","Comedy, Romance, Sport",6.7
+758,À la place du coeur,1998,113,Robert Guédiguian,"Ariane Ascaride, Christine Brücher, Jean-Pierre Darroussin","Comedy, Drama, Romance",6.6
+759,Nightmare Street,1998,83,Colin Bucksey,"Sherilyn Fenn, Rena Sofer, Steve Harris","Drama, Mystery, Thriller",5.6
+760,Into My Heart,1998,97,"Sean K Smith, Anthony Stark","Rob Morrow, Claire Forlani, Jake Weber",Drama,5.9
+761,Spoiler,1998,90,Jeff Burr,"Gary Daniels, Meg Foster, Bryan Genesse","Action, Sci-Fi",4.2
+762,Mlode wilki 1/2,1998,95,Jaroslaw Zamojda,"Jaroslaw Jakimowicz, Anna Mucha, Pawel Delag",Action,3.8
+763,Dad Savage,1998,104,Betsan Morris Evans,"Patrick Stewart, Kevin McKidd, Helen McCrory","Crime, Thriller",5.8
+764,Beach Movie,1998,90,John Quinn,"Alex DeBoe, Gabrielle Anwar, Douglas Spain",Comedy,3.1
+765,A Brooklyn State of Mind,1998,89,Frank Rainone,"Vincent Spano, Maria Grazia Cucinotta, Danny Aiello","Action, Crime, Drama",5.6
+766,Trans,1998,80,Julian Goldberger,"Lynn Boyd, Jon Daugherty, Ryan Daugherty","Crime, Drama",5.8
+767,Pete's Meteor,1998,104,Joe O'Byrne,"Brenda Fricker, Alfred Molina, Mike Myers","Crime, Drama",4.6
+768,Zack and Reba,1998,91,Nicole Bettauer,"Brittany Murphy, Michael Jeter, Debbie Reynolds","Comedy, Romance",5.1
+769,Twist of Fate,1998,95,Max Fischer,"Mädchen Amick, Don Jordan, Chris Mulkey",Thriller,5.2
+770,Grandma and Her Ghosts,1998,84,Shaudi Wang,"Ta-Chi Chien, Chien-Yu Chuang, Dai-Wen Chuang","Animation, Comedy, Fantasy",7.5
+771,Detention,1998,86,Andy Anderson,"John S. Davies, Marsha Dietlein, Meason Wiley",Drama,6.6
+772,Scorpio One,1998,92,Worth Keeter,"Robert Carradine, Jeff Speakman, Robin Curtis",Sci-Fi,3.7
+773,Anthahpuram,1998,137,Krishna Vamsi,"Soundarya, Prakash Raj, Jagapathi Babu","Action, Drama, Thriller",7.8
+774,Life on Earth,1998,61,Abderrahmane Sissako,"Abderrahmane Sissako, Nana Baby, Mohamed Sissako","Comedy, Drama",6.8
+775,Sada,1998,132,Nobuhiko Ôbayashi,"Hitomi Kuroki, Tsurutarô Kataoka, Norihei Miki","Biography, Drama",6.8
+776,Night Train,1998,92,John Lynch,"John Hurt, Brenda Blethyn, Pauline Flanagan","Drama, Romance, Thriller",6.3
+777,Friendly Fire,1998,76,Beto Brant,"Leonardo Villar, Helio Lahal, Zécarlos Machado",Drama,7.2
+778,Revival of Evangelion,1998,159,"Hideaki Anno, Ken Andô, Naoyasu Habu","Megumi Ogata, Kotono Mitsuishi, Megumi Hayashibara","Animation, Action, Drama",7.7
+779,Oru Maravathoor Kanavu,1998,140,Lal Jose,"Mammootty, Biju Menon, Kalabhavan Mani","Comedy, Drama, Musical",6.9
+780,Art House,1998,93,Leigh Scott,"Dan O'Donahue, Chris Hardwick, Rebecca McFarland","Comedy, Drama",4.2
+781,La Cucaracha,1998,95,Jack Perez,"Eric Roberts, Joaquim de Almeida, Victor Rivers","Comedy, Crime, Drama",5.8
+782,Surrender Dorothy,1998,87,Kevin DiNovis,"Peter Pryor, Kevin DiNovis, Jason Centeno","Comedy, Drama, Romance",5.8
+783,Ikinai,1998,101,Hiroshi Shimizu,"Duncan, Nanako Ôkôchi, Toshinori Omi","Comedy, Drama",6.9
+784,Naked Lies,1998,93,Ralph E. Portillo,"Shannon Tweed, Fernando Allende, Jay Baker","Action, Crime, Drama",3.5
+785,Went to Coney Island on a Mission from God... Be Back by Five,1998,94,Richard Schenkman,"Jon Cryer, Rick Stear, Rafael Báez",Drama,5.8
+786,Anxiety,1998,110,Manoel de Oliveira,"Luís Miguel Cintra, José Pinto, Isabel Ruth",Drama,7.0
+787,White Lies,1998,106,Pierre Salvadori,"Marie Trintignant, Guillaume Depardieu, Jean-François Stévenin","Comedy, Crime",6.3
+788,Solo for Clarinet,1998,93,Nico Hofmann,"Götz George, Corinna Harfouch, Tim Bergmann","Crime, Romance, Thriller",6.0
+789,Operation Splitsville,1998,91,Lynn Hamrick,"David Berry, Jesse Littlejohn, Jeff Gendelman",Comedy,4.5
+790,Mensaka,1998,105,Salvador García Ruiz,"Gustavo Salmerón, Tristán Ulloa, Adrià Collado",Drama,6.4
+791,Crayon Shin-chan: Blitzkrieg! Pig's Hoof's Secret Mission,1998,99,Keiichi Hara,"Akiko Yajima, Keiji Fujiwara, Miki Narahashi","Animation, Adventure, Comedy",6.8
+792,Escape from Wildcat Canyon,1998,96,Marc F. Voizard,"Dennis Weaver, Michael Caloz, Peter Keleghan","Adventure, Family",5.7
+793,A Place Called Chiapas,1998,89,Nettie Wild,"Samuel Ruiz García, Rafael Sebastián Guillén Vicente",Documentary,7.4
+794,Campus,1998,126,Sönke Wortmann,"Heiner Lauterbach, Sandra Speichert, Axel Milberg",Comedy,5.1
+795,Prague Duet,1998,95,Roger L. Simon,"Gina Gershon, Rade Serbedzija, Patricia Hodge","Drama, Romance",6.1
+796,"Pimps Up, Ho's Down",1998,64,Brent Owens,"Bishop Don Magic Juan, Ice-T, Big Lex Lex",Documentary,5.8
+797,Enter the Eagles,1998,95,Corey Yuen,"Shannon Lee, Michael Wong, Anita Yuen","Action, Thriller",6.1
+798,A Little Bit of Soul,1998,84,Peter Duncan,"Geoffrey Rush, David Wenham, Frances O'Connor",Comedy,5.4
+799,Tulennielijä,1998,100,Pirjo Honkasalo,"Elina Hurme, Tiina Weckström, Elena Leeve",Drama,6.6
+800,The Giraffe,1998,103,"Dani Levy, Maria Schrader","Maria Schrader, Dani Levy, David Strathairn",Thriller,6.4
+801,Il signor Quindicipalle,1998,101,Francesco Nuti,"Francesco Nuti, Sabrina Ferilli, Novello Novelli","Comedy, Romance",5.1
+802,The Clandestine Marriage,1998,90,Christopher Miles,"Nigel Hawthorne, Joan Collins, Timothy Spall",Comedy,5.8
+803,Aval Varuvala,1998,145,Raj Kapoor,"Ajith Kumar, Simran, Sujatha","Romance, Thriller",6.2
+804,Nada en la nevera,1998,92,Álvaro Fernández Armero,"María Esteve, Coque Malla, Roberto Álvarez","Comedy, Romance",5.9
+805,Hotel Exotica,1998,88,Marcy Ronen,"Landon Hall, Dutch Flaherty, Ahmo Hight","Drama, Romance",4.4
+806,The Commissioner,1998,108,George Sluizer,"John Hurt, Rosana Pastor, Alice Krige","Drama, Thriller",6.1
+807,The Exotic Time Machine,1998,78,Felicia Sinclair,"Gabriella Hall, Joseph Daniels, Nikki Fritz",Sci-Fi,3.9
+808,Dahan,1998,145,Rituparno Ghosh,"Shakuntala Barua, Nirmal Kumar Chakraborty, Chandni",Drama,7.7
+809,Suryavamsam,1998,156,Srinivasa Rao Bhimaneni,"Venkatesh Daggubati, Meena, Sanghavi",Drama,7.0
+810,Dief!,1998,86,Marc Punt,"Axel Daeseleire, Suyin Aerts, Gaston Berghmans",Crime,6.1
+811,Hero Hindustani,1998,152,Aziz Sejawal,"Arshad Warsi, Namrata Shirodkar, Kader Khan","Action, Comedy, Drama",4.9
+812,Frogs for Snakes,1998,108,Amos Poe,"José Rafael Arango, Nicole Arlyn, David Cale","Comedy, Crime, Thriller",4.4
+813,The Trio,1998,93,Hermine Huntgeburth,"Götz George, Christian Redl, Jeanette Hain","Comedy, Crime, Romance",6.3
+814,Sieben Monde,1998,96,Peter Fratzscher,"Jan Josef Liefers, Marie Bäumer, Ulrich Mühe","Horror, Mystery",5.4
+815,Woundings,1998,102,Roberta Hanley,"Julie Cox, Sammi Davis, Emily Lloyd","Drama, Sci-Fi",3.8
+816,October 22,1998,94,Richard Schenkman,"Mark Boone Junior, Michael Paré, Ernie Hudson","Action, Drama, Thriller",6.1
+817,Tamanna,1998,127,Mahesh Bhatt,"Paresh Rawal, Pooja Bhatt, Sharad S. Kapoor",Drama,7.1
+818,Mehndi,1998,153,Hamid Ali,"Faraaz Khan, Rani Mukerji, Ushma Rathod",Drama,3.4
+819,Love Your Neighbour!,1998,94,Detlev Buck,"Lea Mornar, Heike Makatsch, Moritz Bleibtreu","Comedy, Drama, Romance",5.2
+820,Psycho Sisters,1998,112,"Pete Jacelone, Sal Longo, Gary Whitson","J.J. North, Theresa Lynn, Kris Burtt","Horror, Thriller",4.5
+821,Home Team,1998,91,Allan A. Goldstein,"Steve Guttenberg, Sophie Lorain, Ryan Slater","Comedy, Family, Sport",3.9
+822,Hot War,1998,93,Jingle Ma,"Ekin Cheng, Jordan Chan, Kelly Chen",Thriller,5.5
+823,Historia kina w Popielawach,1998,100,Jan Jakub Kolski,"Krzysztof Majchrzak, Bartosz Opania, Grazyna Blecka-Kolska","Drama, Fantasy, Romance",6.9
+824,Mookie,1998,87,Hervé Palud,"Éric Cantona, Jacques Villeret, Emiliano Suarez",Comedy,4.2
+825,Day of the Full Moon,1998,93,Karen Shakhnazarov,"Anna Germ, Andrey Panin, Elena Koreneva",Drama,6.6
+826,Big City Blues,1998,94,Clive Fleury,"Burt Reynolds, William Forsythe, Giancarlo Esposito","Action, Adventure, Comedy",3.3
+827,Sweet Nightmare,1998,96,Fernando Fragata,"Diogo Infante, Catarina Furtado, George Felner","Comedy, Romance",4.7
+828,Kai Rabe gegen die Vatikankiller,1998,92,Thomas Jahn,"Steffen Wink, Klaus J. Behrendt, Sandra Speichert",Comedy,5.1
+829,Ballistic Kiss,1998,92,Donnie Yen,"Donnie Yen, Annie Wu, Jimmy Ga Lok Wong","Action, Crime, Drama",5.3
+830,La Ciudad (the City),1998,88,David Riker,"Anthony Rivera, Joseph Rigano, Miguel Maldonado",Drama,7.3
+831,Ecco fatto,1998,90,Gabriele Muccino,"Giorgio Pasotti, Barbora Bobulova, Claudio Santamaria",Comedy,5.8
+832,Vinashak - Destroyer,1998,159,Ravi Dewan,"Suniel Shetty, Raveena Tandon, Danny Denzongpa","Action, Crime, Drama",5.4
+833,Sheer Passion,1998,93,John Quinn,"Jodie Fisher, Clayton Norcross, Lisa Boyle",Thriller,4.3
+834,Life in the Fast Lane,1998,92,Eleanor Gaver,"Fairuza Balk, Noah Taylor, Téa Leoni",Comedy,4.3
+835,La hora de los valientes,1998,120,Antonio Mercero,"Gabino Diego, Leonor Watling, Adriana Ozores","Drama, Romance, War",6.6
+836,Zonzon,1998,102,Laurent Bouhnik,"Pascal Greggory, Gaël Morel, Jamel Debbouze",Drama,5.6
+837,Hoods,1998,90,Mark Malone,"Joe Mantegna, Kevin Pollak, Joe Pantoliano","Comedy, Crime, Drama",4.9
+838,Buy Me an Eliot,1998,100,Dejan Zecevic,"Nikola Kojo, Ivana Mihic, Dragan Bjelogrlic",Comedy,4.7
+839,Provocateur,1998,103,Jim Donovan,"Jane March, Stephen Mendel, Lillo Brancato","Action, Drama, Thriller",4.9
+840,Regret to Inform,1998,72,Barbara Sonneborn,"Xuan Ngoc Nguyen, Barbara Sonneborn","Documentary, War",7.3
+841,Luminous Motion,1998,95,Bette Gordon,"Patrick Fitzgerald, Conn Horgan, Martin Alvin",Drama,5.4
+842,When Love Comes Along,1998,94,Garth Maxwell,"Rena Owen, Dean O'Gorman, Simon Prast","Drama, Music, Romance",6.0
+843,Radiance,1998,83,Rachel Perkins,"Deborah Mailman, Trisha Morton-Thomas, Rachael Maza",Drama,6.7
+844,Going to Kansas City,1998,97,Pekka Mandart,"Michael Ironside, Mikko Nousiainen, Melissa Galianos","Drama, Romance, Thriller",5.5
+845,Ganesh,1998,156,Tirupati Swamy,"Venkatesh Daggubati, Rambha, Madhoo","Action, Drama, Thriller",7.2
+846,Fait Accompli,1998,94,Andrzej Sekula,"Michael Madsen, Rosanna Arquette, Balthazar Getty",Thriller,3.6
+847,Hold You Tight,1998,99,Stanley Kwan,"Chingmy Yau, Sunny Chan, Eric Tsang","Drama, Romance",6.3
+848,Random Encounter,1998,90,Douglas Jackson,"Elizabeth Berkley, J.H. Wyman, Frank Schorpion","Thriller, Crime",4.7
+849,Raped by an Angel 2: The Uniform Fan,1998,89,Aman Chang,"Francis Ng, Athena Chu, Chun Chung","Action, Comedy, Horror",4.7
+850,Hanuman,1998,84,Fred Fougea,"Robert Cavanah, Tabu, Nathalie Auffret","Adventure, Family, Romance",5.8
+851,Louise Brooks: Looking for Lulu,1998,60,Hugh Munro Neely,"Louise Brooks, Shirley MacLaine, Dana Delany","Documentary, Biography",7.6
+852,Sorority House Vampires,1998,91,"Geoffrey de Valois, Eugene James","Kathy Presgrave, Penny Lynn, Eugenie Bondurant","Comedy, Horror",2.1
+853,In the Winter Dark,1998,92,James Bogle,"Brenda Blethyn, Ray Barrett, Richard Roxburgh","Drama, Horror, Mystery",5.9
+854,Premante Idera,1998,167,Jayant Paranji,"Venkatesh Daggubati, Preity G Zinta, Sivaji Raja","Romance, Drama",6.6
+855,Let's Talk About Sex,1998,82,Troy Byer,"Troy Byer, Paget Brewster, Randi Ingerman",Drama,3.8
+856,Starstruck,1998,90,John Enbom,"Jamie Kennedy, Loren Dean, Bridgette Wilson-Sampras",Drama,4.8
+857,Dead by Dawn,1998,91,James Salisbury,"Jodie Fisher, Shannon Tweed, Bill Ferrell","Drama, Mystery, Thriller",4.3
+858,The Gardener,1998,102,James D.R. Hickox,"Malcolm McDowell, Angie Everhart, Richard Grieco",Horror,3.7
+859,O.K. Garage,1998,90,Brandon Cole,"Lili Taylor, Charles Santy, Olek Krupa","Comedy, Drama, Crime",5.0
+860,What I Did for Love,1998,95,Jérôme Cornuau,"Ophélie Winter, Jean-Marc Barr, Raquel Welch",Comedy,3.9
+861,Boy Meets Girl,1998,102,Jerry Ciccoritti,"Sean Astin, Emily Hampshire, Kevin McDonald","Comedy, Fantasy, Romance",5.4
+862,Possums,1998,97,Max Burnett,"Mac Davis, Cynthia Sikes Yorkin, Greg Coolidge","Comedy, Drama, Sport",5.7
+863,Zor: Never Underestimate the Force,1998,157,Sangeeth Sivan,"Sunny Deol, Sushmita Sen, Milind Gunaji","Action, Crime, Drama",4.4
+864,Virtual Encounters 2,1998,83,Cybil Richards,"Ethan Hunt, John Roberts, Brandy Davis",Sci-Fi,4.2
+865,Tri muskarca Melite Zganjer,1998,97,Snjezana Tribuson,"Mirjana Rogina, Goran Navojec, Suzana Nikolic","Comedy, Romance",6.8
+866,Foolish Heart,1998,130,Hector Babenco,"Miguel Ángel Solá, Maria Luísa Mendonça, Walter Quiroz",Drama,6.4
+867,Finding North,1998,95,Tanya Wexler,"Wendy Makkena, John Benjamin Hickey, Jonathan Walker","Comedy, Drama, Romance",6.3
+868,Storefront Hitchcock,1998,77,Jonathan Demme,"Robyn Hitchcock, Deni Bonet, Tim Keegan","Documentary, Music",6.8
+869,Interlocked: Thrilled to Death,1998,93,Rick Jacobson,"Jeff Trachta, Schae Harrison, Sandra Dee Robinson",Thriller,4.1
+870,One Hell of a Guy,1998,97,James David Pasternak,"Rob Lowe, Michael York, Alexandra Powers","Comedy, Fantasy, Romance",4.2
+871,Pleasure (And Its Little Inconveniences),1998,100,Nicolas Boukhrief,"Mathieu Kassovitz, Vincent Cassel, Julie Gayet",Drama,5.0
+872,Claudine's Return,1998,91,Antonio Tibaldi,"Christina Applegate, Stefano Dionisi, Matt Clark","Drama, Romance, Mystery",3.9
+873,Captive,1998,92,Roger Cardinal,"Erika Eleniak, Michael Ironside, Catherine Colvey","Drama, Thriller",4.6
+874,Walking to the Waterline,1998,100,Matt Mulhern,"Hallie Foote, Matt Mulhern, Kara Silver",Drama,6.3
+875,"It's Your Turn, Laura",1998,91,Denise Filiatrault,"Ginette Reno, Pierrette Robitaille, Denise Dubois","Comedy, Drama",6.0
+876,The Real Howard Spitz,1998,102,Vadim Jean,"Kelsey Grammer, Genevieve Tessier, Joseph Rutten","Comedy, Family",5.6
+877,Surface to Air,1998,93,Rodney McDonald,"Michael Madsen, Chad McQueen, Melanie Shatner","Action, War",3.6
+878,Martian Successor Nadesico - The Motion Picture: Prince of Darkness,1998,87,Tatsuo Satô,"Jennifer Attaway, Cameron Bautsch, Marta Bechtol","Animation, Action, Drama",6.5
+879,El desvío,1998,103,Horacio Maldonado,"Pablo Echarri, Gastón Pauls, Federico D'Elía","Mystery, Drama",5.4
+880,Viol@,1998,90,Donatella Maiorca,"Stefania Rocca, Stefano Rota, Rossana Mortara","Drama, Thriller",5.2
+881,Harvest,1998,96,Stuart Burkin,"Arthur J. Nascarella, Stephen Earnhart, Evan Handler",Drama,4.6
+882,Sreekrishnapurathe Nakshathrathilakkam,1998,157,Rajasenan,"Innocent Vareed Thekkethala, Cochin Hanifa, Jagathy Sreekumar",Comedy,7.0
+883,Killer,1998,80,Darezhan Omirbayev,"Talgat Assetov, Roksana Abouova, Ye. Abdigaliyev","Action, Crime, Thriller",6.8
+884,So Close to Paradise,1998,93,Xiaoshuai Wang,"Tong Wang, Yu Shi, Tao Guo","Crime, Drama, Romance",6.5
+885,Sorcerers,1998,100,Albert Pyun,"Simon Clarke, Kenzie Phillips, Nathan Ferrier","Animation, Sci-Fi",5.3
+886,Chained Heat 3: Hell Mountain,1998,94,Mike Rohl,"Nicole Nieth, Bentley Mitchum, Sarah Douglas","Action, Drama, Horror",3.5
+887,Train to Pakistan,1998,111,Pamela Rooks,"Mohan Agashe, Nirmal Pandey, Rajit Kapoor","Drama, War",6.6
+888,Achanak,1998,160,Naresh Malhotra,"Govinda, Manisha Koirala, Farha Naaz","Action, Mystery, Thriller",4.2
+889,No More Baths,1998,93,Timothy J. Nelson,"Victoria Jackson, Garrett M. Brown, Sydney Walsh","Comedy, Drama, Family",5.4
+890,Sweety Barrett,1998,92,Stephen Bradley,"Brendan O'Carroll, Brendan Gleeson, Tony Rohr","Crime, Drama",6.3
+891,The Mighty Kong,1998,71,Art Scott,"Dudley Moore, Jodi Benson, Randy Hamilton","Animation, Adventure, Family",3.8
+892,Rusty: A Dog's Tale,1998,90,Shuki Levy,"Hal Holbrook, Rue McClanahan, Laraine Newman","Adventure, Comedy, Family",4.9
+893,A,1998,136,Tatsuya Mori,Hiroshi Araki,Documentary,6.8
+894,Under Heaven,1998,0,Meg Richman,"Joely Richardson, Aden Young, Molly Parker","Drama, Romance",6.0
+895,Perekryostok,1998,105,Dmitriy Astrakhan,"Leonid Yarmolnik, Anna Legchilova, Aleksandr Efremov","Comedy, Romance",6.2
+896,Johnny 316,1998,77,Erick Ifergan,"Vincent Gallo, Nina Brosh, Doron Eyal","Drama, Romance",6.3
+897,Love Kills,1998,97,Mario Van Peebles,"Mario Van Peebles, Lesley Ann Warren, Donovan Leitch Jr.","Comedy, Romance, Thriller",3.8
+898,In Quiet Night,1998,100,Jenny Bowen,"Claire Rankin, Julian McMahon, Alexandra Kyle","Drama, Thriller",5.6
+899,End of the Harvest,1998,53,Rich Christiano,"David A.R. White, Brad Heller, Lance Zitron",Drama,5.3
+900,The Versace Murder,1998,90,Menahem Golan,"Franco Nero, Steven Bauer, Shane Perdue","Crime, Drama",3.4
+901,Menino Maluquinho 2: A Aventura,1998,85,"Fernando Meirelles, Fabrizia Pinto","Fernando Alves Pinto, Pedro Bismark, Samuel Brandão",Family,5.1
+902,Kiss of a Stranger,1998,90,Sam Irvin,"Mariel Hemingway, Corbin Bernsen, Matt Battaglia","Romance, Thriller",4.7
+903,Hazaar Chaurasi Ki Maa,1998,186,Govind Nihalani,"Jaya Bachchan, Anupam Kher, Seema Biswas",Drama,7.5
+904,Appetite,1998,97,George Milton,"Ute Lemper, Trevor Eve, Christien Anholt","Thriller, Mystery",4.4
+905,To Be or Not to Be,1998,94,Kianoush Ayari,"Asal Badeei, Farhad Sharifi, Hossein Ilbeygi",Drama,7.0
+906,Drylongso,1998,86,Cauleen Smith,"Toby Smith, April Barnett, Will Power",Drama,6.7
+907,Implicated,1998,91,Irving Belateche,"William McNamara, Amy Locane, Frederic Forrest","Crime, Drama, Thriller",4.2
+908,Khaidi Garu,1998,150,Om Sai Prakash,"Mohan Babu, Laila",Action,8.6
+909,Georgica,1998,109,Sulev Keedus,"Evald Aavik, Mait Merekülski, Ülle Toming",Drama,7.0
+910,Un embrujo,1998,130,Carlos Carrera,"Blanca Guerra, Mario Zaragoza, Daniel Acuña","Drama, Romance",6.5
+911,Divine,1998,112,Arturo Ripstein,"Francisco Rabal, Katy Jurado, Edwarda Gurrola",Drama,6.4
+912,Angels in the Attic,1998,86,Eric Hendershot,"Clayton Taylor, Steven Losack, Dalin Christiansen",Family,6.0
+913,Cascadeur,1998,106,Hardy Martins,"Regula Grauwiller, Hardy Martins, Heiner Lauterbach","Action, Adventure",4.0
+914,Soundman,1998,105,Steven Ho,"Wayne Pére, Eliane Chappuis, William Forsythe","Comedy, Crime, Thriller",5.1
+915,Ganbatte ikimasshoi,1998,120,Itsumichi Isomura,"Rena Tanaka, Mami Shimizu, Wakana Chizaki","Drama, Sport",7.0
+916,Drei Herren,1998,90,Nikolaus Leytner,"Karl Merkatz, Karl Markovics, Ottfried Fischer",Comedy,6.9
+917,Mel,1998,97,Joey Travolta,"Ernest Borgnine, Julie Hagerty, Greg Evigan","Family, Fantasy",4.0
+918,Cohen vs. Rosi,1998,90,Daniel Barone,"Alfredo Alcón, Adrián Suar, Laura Novoa","Comedy, Crime, Romance",5.0
+919,The Day Silence Died,1998,108,Paolo Agazzi,"Darío Grandinetti, Gustavo Angarita, Elías Serrano","Comedy, Drama, Romance",7.1
+920,Baby Doom,1998,81,Peter Gren Larsen,"Peter Mygind, Camilla Bendix, Virgil Lange",Comedy,4.6
+921,Secret of the Andes,1998,95,Alejandro Azzano,"José Luis Alfonzo, Nancy Allen, Rodrigo Barrena","Adventure, Family, Fantasy",5.1
+922,Louise (Take 2),1998,115,Siegfried,"Élodie Bouchez, Roschdy Zem, Gérald Thomassin",Drama,6.6
+923,The Suspect,1998,109,Ringo Lam,"Eric Moo, Simon Yam, Louis Koo","Action, Crime, Thriller",6.3
+924,Club Wild Side,1998,101,Lawrence Lanoff,"Katherine Kirkpatrick, Matt Fling, James Horan","Drama, Romance",4.8
+925,2by4,1998,90,Jimmy Smallhorne,"Jimmy Smallhorne, Chris O'Neill, Bradley Fitts","Drama, Romance",5.3
+926,Presszó,1998,104,Tamás Sas,"Gábor Máté, Andrea Söptei, Andrea Fullajtár","Comedy, Drama",6.3
+927,Sundarakilladi,1998,151,Muralikrishnan T.,"Dileep, Shalini, Nedumudi Venu","Comedy, Romance",6.3
+928,Het 14e kippetje,1998,88,Hany Abu-Assad,"Antonie Kamerling, Thekla Reuten, Dirk Zeelenberg","Comedy, Drama, Romance",5.3
+929,Out of Control,1998,93,Richard Trevor,"Sean Young, Mark Camacho, Robert Lujan",Thriller,5.1
+930,Junket Whore,1998,57,Debbie Melnyk,"Lauren Hutton, Mark Pogachefsky, Hugh Grant",Documentary,4.4
+931,Love Fools,1998,88,Leif Magnusson,"Tomas von Brömssen, Anna Wallander, Mikael Persbrandt","Drama, Comedy",5.2
+932,Vigo,1998,106,Julien Temple,"James Frain, Romane Bohringer, Nicholas Barnes",Drama,6.1
+933,Clouds,1998,120,Fernando E. Solanas,"Eduardo Pavlovsky, Laura Novoa, Ângela Correa",Drama,6.5
+934,Amazing Women by the Sea,1998,104,Claes Olsson,"Marika Krook, Åsa Karlin, Nicke Lignell","Comedy, Drama",5.2
+935,The Survivor,1998,88,Nick Davis,"Xavier Declie, Richard Moll, Lisa Robin Kelly","Action, Sci-Fi, Thriller",3.5
+936,Side Streets,1998,116,Tony Gerber,"Shabana Azmi, Valeria Golino, Shashi Kapoor","Comedy, Drama",5.6
+937,Heaven or Vegas,1998,106,Gregory C. Haynes,"Richard Grieco, Yasmine Bleeth, Andy Romano",Drama,4.6
+938,Your Place or Mine,1998,100,James Yuen,"Tony Leung Chiu-wai, Alex Fong, Vivian Hsu","Comedy, Drama, Romance",6.4
+939,How to Be Single in Rio,1998,95,Rosane Svartman,"Lília Cabral, Rosana Garcia, Fernando Gabeira",Comedy,5.6
+940,Life of a Gigolo,1998,101,Leland Price,"Mark Ritter, Lauren Hays, Leslie Zemeckis","Drama, Romance",4.3
+941,The Secret Kingdom,1998,90,David Schmoeller,"Billy O'Sullivan, Andrew Ducote, Samantha Tabak","Adventure, Sci-Fi",4.7
+942,Les kidnappeurs,1998,102,Graham Guit,"Melvil Poupaud, Élodie Bouchez, Romain Duris","Action, Comedy, Crime",5.3
+943,L'albero delle pere,1998,105,Francesca Archibugi,"Valeria Golino, Niccolò Senni, Francesca Di Giovanni",Drama,6.7
+944,Neji-shiki,1998,87,Teruo Ishii,"Tadanobu Asano, Miki Fujitani, Yûko Fujimori",Drama,5.9
+945,The May Lady,1998,88,Rakhshan Banietemad,"Golab Adineh, Minoo Farshchi, Mani Kasraian",Drama,6.4
+946,Michael Kael contre la World News Company,1998,90,Christophe Smith,"Benoît Delépine, Marine Delterme, Victoria Principal",Comedy,4.4
+947,Uyirode Uyiraha,1998,150,Sushma Ahuja,"Ajith Kumar, Richa Ahuja Badami, Sharad Babu",Drama,4.6
+948,Sleepwalker,1998,103,Fernando Spiner,"Eusebio Poncela, Sofía Viruboff, Lorenzo Quinteros","Drama, Sci-Fi",6.4
+949,Nazis: The Occult Conspiracy,1998,104,"Tracy Atkinson, Joan Baran","Malcolm McDowell, Michael Kater, Peter Padfield",Documentary,7.1
+950,You Can Thank Me Later,1998,110,Shimon Dotan,"Ellen Burstyn, Geneviève Bujold, Amanda Plummer","Comedy, Drama",5.4
+951,"Two Women, Two Men",1998,93,Vivian Naefe,"Heino Ferch, Aglaia Szyszkowitz, Gedeon Burkhard",Comedy,6.5
+952,Money No Enough,1998,98,T.L. Tay,"Jack Neo, Mark Lee, Henry Thia",Comedy,6.2
+953,Lithivm,1998,127,David Flamholc,"Agnieszka Koson, Fredrik Dolk, Johan Widerberg",Thriller,2.6
+954,Swasthik,1998,140,Upendra,"Vaijanath Biradar, Hulivana Gangadharaiah, Negro Johnny","Action, Crime, Thriller",8.1
+955,Aavida Maa Aavide,1998,153,"Satyanarayana, E.V.V. Satyanarayana","Nagarjuna Akkineni, Tabu, Heera Rajgopal","Comedy, Romance",6.2
+956,A Place Called Truth,1998,94,Rafael Eisenman,"Audie England, Chris Browning, Brion James",Drama,3.5
+957,Sled kraja na sveta,1998,112,Ivan Nichev,"Stefan Danailov, Katerina Didaskalou, Vassil Mihajlov","Comedy, Drama, Romance",7.1
+958,Ne poslat li nam... gontsa?,1998,99,Valeri Chikov,"Mikhail Evdokimov, Lev Durov, Sasha Komkov","Adventure, Comedy, Drama",6.2
+959,Eko Eko Azarak: Misa the Dark Angel,1998,95,Katsuhito Ueno,"Hinako Saeki, Ayaka Nanami, Missy Bolden",Horror,4.9
+960,Gülün Bittigi Yer,1998,95,Ismail Günes,"Cüneyt Arkin, Tolga Tibet, Yagmur Kasifoglu",Drama,6.7
+961,Sapatos Pretos,1998,95,João Canijo,"Ana Bustorff, Vítor Norte, João Reis","Crime, Drama, Thriller",5.6
+962,The Face of Alexandre Dumas: The Man in the Iron Mask,1998,85,William Richert,"Edward Albert, Dana Barron, Timothy Bottoms",Adventure,4.7
+963,Timeless Romance,1998,95,"David Lai, Jeffrey Lau","Tony Leung Chiu-wai, Theresa Lee, Tats Lau","Comedy, Fantasy, Romance",6.4
+964,Albert,1998,80,Jørn Faurschou,"Morten Gundel, Sebastian Jessen, Stephania Potalivo","Adventure, Family",5.1
+965,Notes of Love,1998,87,Mimmo Calopresti,"Valeria Bruni Tedeschi, Fabrizio Bentivoglio, Gérard Depardieu","Romance, Comedy",6.7
+966,Inside Club Wild Side,1998,99,Lawrence Lanoff,"Jason Schnuit, Brande Roderick, Monique Parent","Drama, Romance",4.6
+967,Treason,1998,104,"José Henrique Fonseca, Arthur Fontes, Cláudio Torres","Tuca Andrada, Alexandre Borges, Pedro Cardoso",Drama,7.2
+968,Shanghai Affairs,1998,90,Donnie Yen,"Donnie Yen, Athena Chu, Rongguang Yu","Action, Drama, Romance",5.7
+969,Fast Food,1998,99,Stewart Sugg,"Douglas Henshall, Emily Woof, Miles Anderson","Action, Comedy",4.4
+970,Return with Honor,1998,101,"Freida Lee Mock, Terry Sanders","Everett Alvarez Jr., Ron Bliss, Fred Cherry",Documentary,8.2
+971,The Geisha House,1998,113,Kinji Fukasaku,"Maki Miyamoto, Sumiko Fuji, Kaho Minami",Drama,7.0
+972,The Soul Guardians,1998,98,K.C. Park,"Ahn Sung-ki, Shin Hyeon-jun, Choo Sang-mi","Action, Horror, Thriller",4.6
+973,Le clone,1998,90,Fabio Conversi,"Elie Semoun, Dieudonné, Smadi Wolfman",Comedy,3.4
+974,La primera noche,1998,100,Alejandro Gamboa,"Florencio Almazán, Judith Arciniega, Marta Aura",Drama,5.2
+975,Spark,1998,103,Garret Williams,"Terrence Howard, Nicole Ari Parker, Brendan Sexton III","Drama, Thriller",5.5
+976,Takhti,1998,100,Behruz Afkhami,"Fariborz Arabnia, Niki Karimi, Mohammad Reza Sharifinia","Biography, Drama, Mystery",5.2
+977,Some Nudity Required,1998,82,"Johanna Demetrakas, Odette Springer","Edward Albert, Samuel Z. Arkoff, Lisa Boyle",Documentary,5.4
+978,Gringuito,1998,100,Sergio M. Castilla,"Sebastián Pérez, Mateo Iribarren, Catalina Guerra",Drama,6.3
+979,Delivered,1998,93,Guy Ferland,"Ron Eldard, David Strickland, Leslie Stefanson","Comedy, Drama, Thriller",5.6
+980,Chandralekha,1998,151,Krishna Vamsi,"Nagarjuna Akkineni, Ramya Krishnan, Isha Koppikar","Comedy, Romance",6.6
+981,"Frau Rettich, die Czerni und ich",1998,95,Markus Imboden,"Iris Berben, Martina Gedeck, Jeanette Hain",Comedy,6.3
+982,"God, Sex & Apple Pie",1998,97,Paul Leaf,"Greg Wrangler, Penelope Crabtree, Mark S. Porro","Comedy, Drama, Romance",4.3
+983,Vice Academy Part 6,1998,89,Rick Sloane,"Elizabeth Kaitan, Raelyn Saalman, John Henry Richardson","Comedy, Crime",3.8

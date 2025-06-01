@@ -1,0 +1,986 @@
+ID,Name,Year,Duration,Directors,Actors,Genres,Rating
+1,Fargo,1996,98,"Joel Coen, Ethan Coen","William H. Macy, Frances McDormand, Steve Buscemi","Crime, Drama, Thriller",8.1
+2,Trainspotting,1996,93,Danny Boyle,"Ewan McGregor, Ewen Bremner, Jonny Lee Miller",Drama,8.1
+3,Independence Day,1996,145,Roland Emmerich,"Will Smith, Bill Pullman, Jeff Goldblum","Action, Adventure, Sci-Fi",7.0
+4,Mission: Impossible,1996,110,Brian De Palma,"Tom Cruise, Jon Voight, Emmanuelle Béart","Action, Adventure, Thriller",7.2
+5,Scream,1996,111,Wes Craven,"Neve Campbell, Courteney Cox, David Arquette","Horror, Mystery",7.4
+6,The Rock,1996,136,Michael Bay,"Sean Connery, Nicolas Cage, Ed Harris","Action, Adventure, Thriller",7.4
+7,From Dusk Till Dawn,1996,108,Robert Rodriguez,"Harvey Keitel, George Clooney, Juliette Lewis","Action, Crime, Horror",7.2
+8,Jerry Maguire,1996,139,Cameron Crowe,"Tom Cruise, Cuba Gooding Jr., Renée Zellweger","Comedy, Drama, Romance",7.3
+9,Happy Gilmore,1996,92,Dennis Dugan,"Adam Sandler, Christopher McDonald, Julie Bowen","Comedy, Sport",7.0
+10,Primal Fear,1996,129,Gregory Hoblit,"Richard Gere, Laura Linney, Edward Norton","Crime, Drama, Mystery",7.7
+11,Mars Attacks!,1996,106,Tim Burton,"Jack Nicholson, Pierce Brosnan, Sarah Jessica Parker","Comedy, Sci-Fi",6.4
+12,Romeo + Juliet,1996,120,Baz Luhrmann,"Leonardo DiCaprio, Claire Danes, John Leguizamo","Drama, Romance",6.7
+13,Sleepers,1996,147,Barry Levinson,"Robert De Niro, Kevin Bacon, Brad Pitt","Crime, Drama, Thriller",7.5
+14,Twister,1996,113,Jan de Bont,"Helen Hunt, Bill Paxton, Jami Gertz","Action, Adventure, Thriller",6.6
+15,Space Jam,1996,88,Joe Pytka,"Michael Jordan, Wayne Knight, Theresa Randle","Animation, Adventure, Comedy",6.5
+16,The English Patient,1996,162,Anthony Minghella,"Ralph Fiennes, Juliette Binoche, Willem Dafoe","Drama, Romance, War",7.4
+17,A Time to Kill,1996,149,Joel Schumacher,"Matthew McConaughey, Sandra Bullock, Samuel L. Jackson","Crime, Drama, Thriller",7.5
+18,Matilda,1996,98,Danny DeVito,"Danny DeVito, Rhea Perlman, Mara Wilson","Comedy, Family, Fantasy",7.0
+19,The Cable Guy,1996,96,Ben Stiller,"Jim Carrey, Matthew Broderick, Leslie Mann","Comedy, Drama, Thriller",6.1
+20,The Hunchback of Notre Dame,1996,91,"Gary Trousdale, Kirk Wise","Demi Moore, Jason Alexander, Mary Kay Bergman","Animation, Drama, Family",7.0
+21,Ransom,1996,121,Ron Howard,"Mel Gibson, Gary Sinise, Rene Russo","Action, Crime, Drama",6.7
+22,Star Trek: First Contact,1996,111,Jonathan Frakes,"Patrick Stewart, Jonathan Frakes, Brent Spiner","Action, Adventure, Drama",7.6
+23,The Nutty Professor,1996,95,Tom Shadyac,"Eddie Murphy, Jada Pinkett Smith, James Coburn","Comedy, Romance, Sci-Fi",5.7
+24,Jingle All the Way,1996,89,Brian Levant,"Arnold Schwarzenegger, Sinbad, Phil Hartman","Adventure, Comedy, Family",5.8
+25,Eraser,1996,115,Chuck Russell,"Arnold Schwarzenegger, Vanessa Williams, James Caan","Action, Crime, Thriller",6.2
+26,101 Dalmatians,1996,103,Stephen Herek,"Glenn Close, Jeff Daniels, Joely Richardson","Adventure, Comedy, Crime",5.8
+27,The Craft,1996,101,Andrew Fleming,"Robin Tunney, Fairuza Balk, Neve Campbell","Drama, Fantasy, Horror",6.5
+28,The Birdcage,1996,117,Mike Nichols,"Robin Williams, Nathan Lane, Gene Hackman",Comedy,7.2
+29,Broken Arrow,1996,108,John Woo,"John Travolta, Christian Slater, Samantha Mathis","Action, Adventure, Thriller",6.1
+30,DragonHeart,1996,103,Rob Cohen,"Dennis Quaid, Sean Connery, Dina Meyer","Action, Adventure, Fantasy",6.4
+31,The People vs. Larry Flynt,1996,130,Milos Forman,"Woody Harrelson, Courtney Love, Edward Norton","Biography, Drama",7.3
+32,Sling Blade,1996,135,Billy Bob Thornton,"Billy Bob Thornton, Dwight Yoakam, J.T. Walsh",Drama,8.0
+33,The Frighteners,1996,110,Peter Jackson,"Michael J. Fox, Trini Alvarado, Peter Dobson","Comedy, Drama, Fantasy",7.1
+34,Kingpin,1996,114,"Bobby Farrelly, Peter Farrelly","Woody Harrelson, Randy Quaid, Bill Murray","Comedy, Sport",6.9
+35,Swingers,1996,96,Doug Liman,"Vince Vaughn, Heather Graham, Jon Favreau","Comedy, Drama",7.2
+36,The Long Kiss Goodnight,1996,121,Renny Harlin,"Geena Davis, Samuel L. Jackson, Yvonne Zima","Action, Crime, Drama",6.8
+37,Phenomenon,1996,123,Jon Turteltaub,"John Travolta, Kyra Sedgwick, Forest Whitaker","Drama, Fantasy, Romance",6.4
+38,Bottle Rocket,1996,91,Wes Anderson,"Luke Wilson, Owen Wilson, Ned Dowd","Comedy, Crime, Drama",6.9
+39,Escape from L.A.,1996,101,John Carpenter,"Kurt Russell, Steve Buscemi, Stacy Keach","Action, Adventure, Sci-Fi",5.7
+40,Daylight,1996,114,Rob Cohen,"Sylvester Stallone, Amy Brenneman, Viggo Mortensen","Action, Adventure, Drama",6.0
+41,James and the Giant Peach,1996,79,Henry Selick,"Paul Terry, Joanna Lumley, Pete Postlethwaite","Animation, Adventure, Family",6.7
+42,That Thing You Do!,1996,108,Tom Hanks,"Tom Hanks, Liv Tyler, Charlize Theron","Comedy, Drama, Music",7.0
+43,Breaking the Waves,1996,153,Lars von Trier,"Emily Watson, Stellan Skarsgård, Katrin Cartlidge",Drama,7.8
+44,The Bandit,1996,128,Yavuz Turgul,"Sener Sen, Ugur Yücel, Sermin Hürmeriç","Crime, Drama",8.1
+45,Crash,1996,100,David Cronenberg,"James Spader, Holly Hunter, Elias Koteas",Drama,6.4
+46,The Ghost and the Darkness,1996,110,Stephen Hopkins,"Michael Douglas, Val Kilmer, Tom Wilkinson","Adventure, Drama, Thriller",6.8
+47,Jack,1996,113,Francis Ford Coppola,"Robin Williams, Diane Lane, Brian Kerwin","Comedy, Drama, Fantasy",5.8
+48,Don't Be a Menace to South Central While Drinking Your Juice in the Hood,1996,89,Paris Barclay,"Shawn Wayans, Marlon Wayans, Keenen Ivory Wayans","Comedy, Crime",6.5
+49,Bound,1996,109,"Lana Wachowski, Lilly Wachowski","Jennifer Tilly, Gina Gershon, Joe Pantoliano","Crime, Thriller",7.3
+50,Executive Decision,1996,133,Stuart Baird,"Kurt Russell, Halle Berry, Steven Seagal","Action, Adventure, Thriller",6.5
+51,Last Man Standing,1996,101,Walter Hill,"Bruce Willis, Bruce Dern, William Sanderson","Action, Crime, Drama",6.4
+52,Courage Under Fire,1996,116,Edward Zwick,"Denzel Washington, Meg Ryan, Lou Diamond Phillips","Action, Drama, Mystery",6.6
+53,Beavis and Butt-Head Do America,1996,81,"Geoffrey Johnson, Mike Judge, Mike de Seve","Mike Judge, Bruce Willis, Demi Moore","Animation, Adventure, Comedy",6.8
+54,Fear,1996,97,James Foley,"Mark Wahlberg, Reese Witherspoon, William Petersen","Drama, Thriller",6.2
+55,Chain Reaction,1996,107,Andrew Davis,"Keanu Reeves, Morgan Freeman, Rachel Weisz","Action, Drama, Sci-Fi",5.7
+56,Shine,1996,105,Scott Hicks,"Geoffrey Rush, Armin Mueller-Stahl, Justin Braine","Biography, Drama, Music",7.6
+57,Hard Eight,1996,101,Paul Thomas Anderson,"Philip Baker Hall, John C. Reilly, Gwyneth Paltrow","Crime, Drama",7.1
+58,The First Wives Club,1996,103,Hugh Wilson,"Goldie Hawn, Bette Midler, Diane Keaton",Comedy,6.5
+59,Tin Cup,1996,135,Ron Shelton,"Kevin Costner, Rene Russo, Don Johnson","Comedy, Drama, Romance",6.4
+60,The Fan,1996,116,Tony Scott,"Robert De Niro, Wesley Snipes, Ellen Barkin","Action, Drama, Sport",5.9
+61,Striptease,1996,115,Andrew Bergman,"Demi Moore, Burt Reynolds, Armand Assante","Comedy, Crime, Drama",4.6
+62,Secrets & Lies,1996,136,Mike Leigh,"Timothy Spall, Brenda Blethyn, Phyllis Logan","Comedy, Drama",8.0
+63,One Fine Day,1996,108,Michael Hoffman,"Michelle Pfeiffer, George Clooney, Mae Whitman","Comedy, Drama, Romance",6.5
+64,Pusher,1996,110,Nicolas Winding Refn,"Kim Bodnia, Zlatko Buric, Laura Drasbæk","Crime, Thriller",7.3
+65,Michael,1996,105,Nora Ephron,"John Travolta, Andie MacDowell, William Hurt","Comedy, Drama, Fantasy",5.7
+66,Black Sheep,1996,87,Penelope Spheeris,"Chris Farley, David Spade, Tim Matheson",Comedy,6.2
+67,Thesis,1996,125,Alejandro Amenábar,"Ana Torrent, Fele Martínez, Eduardo Noriega","Crime, Horror, Mystery",7.4
+68,Emma,1996,120,Douglas McGrath,"Gwyneth Paltrow, James Cosmo, Greta Scacchi","Comedy, Drama, Romance",6.6
+69,Spy Hard,1996,81,Rick Friedberg,"Leslie Nielsen, Nicollette Sheridan, Charles Durning","Action, Comedy",5.3
+70,The Crucible,1996,124,Nicholas Hytner,"Daniel Day-Lewis, Winona Ryder, Paul Scofield","Drama, History",6.8
+71,Bulletproof,1996,84,Ernest R. Dickerson,"Damon Wayans, Adam Sandler, James Caan","Action, Comedy, Crime",5.8
+72,Hamlet,1996,242,Kenneth Branagh,"Kenneth Branagh, Julie Christie, Derek Jacobi",Drama,7.7
+73,Everyone Says I Love You,1996,101,Woody Allen,"Woody Allen, Goldie Hawn, Julia Roberts","Comedy, Musical, Romance",6.7
+74,The Arrival,1996,115,David Twohy,"Charlie Sheen, Lindsay Crouse, Richard Schiff","Mystery, Sci-Fi, Thriller",6.2
+75,Evita,1996,135,Alan Parker,"Madonna, Jonathan Pryce, Antonio Banderas","Biography, Drama, History",6.3
+76,The Island of Dr. Moreau,1996,96,"John Frankenheimer, Richard Stanley","David Thewlis, Marlon Brando, Val Kilmer","Horror, Sci-Fi, Thriller",4.6
+77,The Phantom,1996,100,Simon Wincer,"Billy Zane, Kristy Swanson, Treat Williams","Action, Adventure, Comedy",5.1
+78,Multiplicity,1996,117,Harold Ramis,"Michael Keaton, Andie MacDowell, Zack Duhame","Comedy, Romance, Sci-Fi",6.1
+79,Beautiful Girls,1996,112,Ted Demme,"Matt Dillon, Timothy Hutton, Noah Emmerich","Comedy, Drama, Romance",7.1
+80,Thinner,1996,93,Tom Holland,"Robert John Burke, Joe Mantegna, Lucinda Jenney","Fantasy, Horror",5.8
+81,Michael Collins,1996,133,Neil Jordan,"Liam Neeson, Aidan Quinn, Julia Roberts","Biography, Drama, History",7.1
+82,Lone Star,1996,135,John Sayles,"Chris Cooper, Elizabeth Peña, Stephen Mendillo","Drama, Mystery, Western",7.4
+83,Freeway,1996,104,Matthew Bright,"Reese Witherspoon, Kiefer Sutherland, Bokeem Woodbine","Crime, Drama, Thriller",6.8
+84,Barb Wire,1996,98,David Hogan,"Pamela Anderson, Amir AboulEla, Adriana Alexander","Action, Sci-Fi",3.6
+85,Waiting for Guffman,1996,84,Christopher Guest,"Christopher Guest, Fred Willard, Catherine O'Hara",Comedy,7.4
+86,Stealing Beauty,1996,118,Bernardo Bertolucci,"Jeremy Irons, Liv Tyler, Carlo Cecchi","Drama, Mystery, Romance",6.5
+87,Marvin's Room,1996,98,Jerry Zaks,"Meryl Streep, Leonardo DiCaprio, Diane Keaton",Drama,6.7
+88,Bio-Dome,1996,88,Jason Bloom,"Pauly Shore, Stephen Baldwin, William Atherton",Comedy,4.4
+89,The Truth About Cats & Dogs,1996,97,Michael Lehmann,"Uma Thurman, Janeane Garofalo, Ben Chaplin","Comedy, Romance",6.3
+90,D3: The Mighty Ducks,1996,104,Robert Lieberman,"Emilio Estevez, Jeffrey Nordling, David Selby","Action, Comedy, Drama",5.5
+91,The Quest,1996,95,Jean-Claude Van Damme,"Jean-Claude Van Damme, Roger Moore, James Remar","Action, Adventure, Drama",5.6
+92,Down Periscope,1996,92,David S. Ward,"Kelsey Grammer, Lauren Holly, Rob Schneider",Comedy,6.2
+93,Fly Away Home,1996,107,Carroll Ballard,"Jeff Daniels, Anna Paquin, Dana Delany","Adventure, Drama, Family",6.9
+94,Muppet Treasure Island,1996,99,Brian Henson,"Tim Curry, Billy Connolly, Jennifer Saunders","Action, Adventure, Comedy",6.9
+95,Beautiful Thing,1996,90,Hettie Macdonald,"Glen Berry, Linda Henry, Scott Neal","Comedy, Drama, Romance",7.6
+96,White Squall,1996,129,Ridley Scott,"Jeff Bridges, Caroline Goodall, John Savage","Adventure, Drama",6.6
+97,Kazaam,1996,93,Paul Michael Glaser,"Shaquille O'Neal, Francis Capra, Ally Walker","Comedy, Family, Fantasy",3.1
+98,Hellraiser: Bloodline,1996,85,Kevin Yagher,"Bruce Ramsay, Valentina Vargas, Doug Bradley","Horror, Sci-Fi",5.1
+99,Maximum Risk,1996,101,Ringo Lam,"Jean-Claude Van Damme, Natasha Henstridge, Jean-Hugues Anglade","Action, Crime, Thriller",5.6
+100,Sgt. Bilko,1996,94,Jonathan Lynn,"Steve Martin, Dan Aykroyd, Phil Hartman",Comedy,5.8
+101,The Mirror Has Two Faces,1996,126,Barbra Streisand,"Barbra Streisand, Jeff Bridges, Lauren Bacall","Comedy, Drama, Romance",6.6
+102,Big Night,1996,109,"Campbell Scott, Stanley Tucci","Tony Shalhoub, Stanley Tucci, Marc Anthony","Drama, Romance",7.3
+103,First Strike,1996,107,Stanley Tong,"Jackie Chan, Jackson Lou, Annie Wu","Action, Adventure, Comedy",6.6
+104,City Hall,1996,111,Harold Becker,"Al Pacino, John Cusack, Bridget Fonda","Crime, Drama, Mystery",6.2
+105,Basquiat,1996,107,Julian Schnabel,"Jeffrey Wright, Michael Wincott, Benicio Del Toro","Biography, Drama",6.9
+106,The Crow: City of Angels,1996,84,Tim Pope,"Vincent Perez, Mia Kirshner, Richard Brooks","Action, Crime, Fantasy",4.6
+107,2 Days in the Valley,1996,104,John Herzfeld,"Teri Hatcher, Jeff Daniels, Danny Aiello","Comedy, Crime, Thriller",6.5
+108,The Glimmer Man,1996,91,John Gray,"Steven Seagal, Keenen Ivory Wayans, Bob Gunton","Action, Comedy, Crime",5.4
+109,Brassed Off,1996,108,Mark Herman,"Pete Postlethwaite, Tara Fitzgerald, Ewan McGregor","Comedy, Drama, Music",7.2
+110,Extreme Measures,1996,118,Michael Apted,"Hugh Grant, Gene Hackman, Sarah Jessica Parker","Crime, Drama, Mystery",6.2
+111,Eye for an Eye,1996,101,John Schlesinger,"Sally Field, Kiefer Sutherland, Ed Harris","Crime, Drama, Thriller",6.2
+112,The Juror,1996,118,Brian Gibson,"Demi Moore, Alec Baldwin, Joseph Gordon-Levitt","Crime, Drama, Thriller",5.7
+113,Flirting with Disaster,1996,92,David O. Russell,"Ben Stiller, Patricia Arquette, Téa Leoni",Comedy,6.7
+114,Mulholland Falls,1996,107,Lee Tamahori,"Nick Nolte, Melanie Griffith, Jennifer Connelly","Crime, Drama, Mystery",6.3
+115,When We Were Kings,1996,88,Leon Gast,"Muhammad Ali, George Foreman, Don King","Documentary, Sport",7.9
+116,Set It Off,1996,123,F. Gary Gray,"Jada Pinkett Smith, Queen Latifah, Vivica A. Fox","Action, Crime, Drama",6.9
+117,Mystery Science Theater 3000: The Movie,1996,73,Jim Mallon,"Trace Beaulieu, Michael J. Nelson, Jim Mallon","Comedy, Drama, Fantasy",7.1
+118,She's the One,1996,96,Edward Burns,"Edward Burns, Jennifer Aniston, John Mahoney","Comedy, Drama, Romance",6.0
+119,Paradise Lost: The Child Murders at Robin Hood Hills,1996,150,"Joe Berlinger, Bruce Sinofsky","Tony Brooks, Diana Davis, Terry Wood","Documentary, Crime",8.2
+120,"Pretty Village, Pretty Flame",1996,115,Srdjan Dragojevic,"Dragan Bjelogrlic, Nikola Kojo, Dragan Maksimovic","Drama, History, War",8.6
+121,Trees Lounge,1996,95,Steve Buscemi,"Steve Buscemi, Carol Kane, Mark Boone Junior","Comedy, Drama",7.1
+122,The Substitute,1996,114,Robert Mandel,"Tom Berenger, Raymond Cruz, William Forsythe","Action, Crime, Drama",6.1
+123,Homeward Bound II: Lost in San Francisco,1996,88,David R. Ellis,"Michael J. Fox, Sally Field, Ralph Waite","Adventure, Comedy, Family",5.9
+124,The Chamber,1996,113,James Foley,"Chris O'Donnell, Gene Hackman, Faye Dunaway","Crime, Drama, Thriller",6.0
+125,Kolya,1996,111,Jan Sverák,"Zdenek Sverák, Andrey Khalimon, Libuse Safránková","Comedy, Drama, Music",7.7
+126,The Apartment,1996,116,Gilles Mimouni,"Romane Bohringer, Vincent Cassel, Jean-Philippe Écoffey","Drama, Mystery, Romance",7.3
+127,Bordello of Blood,1996,87,Gilbert Adler,"Dennis Miller, Erika Eleniak, Angie Everhart","Comedy, Fantasy, Horror",5.4
+128,My Fellow Americans,1996,101,Peter Segal,"Jack Lemmon, James Garner, Dan Aykroyd","Adventure, Comedy",6.5
+129,Mary Reilly,1996,108,Stephen Frears,"Julia Roberts, John Malkovich, George Cole","Drama, Horror, Romance",5.8
+130,Diabolique,1996,107,Jeremiah S. Chechik,"Sharon Stone, Isabelle Adjani, Chazz Palminteri","Drama, Horror, Mystery",5.5
+131,Up Close & Personal,1996,124,Jon Avnet,"Robert Redford, Michelle Pfeiffer, Stockard Channing","Drama, Romance",6.1
+132,Indian,1996,185,S. Shankar,"Kamal Haasan, Sukanya, Manisha Koirala","Action, Drama, Musical",8.1
+133,Joe's Apartment,1996,80,John Payson,"Jerry O'Connell, Megan Ward, Billy West","Comedy, Fantasy, Musical",5.5
+134,High School High,1996,86,Hart Bochner,"Jon Lovitz, Tia Carrere, Louise Fletcher","Comedy, Crime, Romance",5.6
+135,The Preacher's Wife,1996,123,Penny Marshall,"Denzel Washington, Whitney Houston, Courtney B. Vance","Comedy, Drama, Fantasy",5.7
+136,Dunston Checks In,1996,88,Ken Kwapis,"Jason Alexander, Faye Dunaway, Eric Lloyd","Adventure, Comedy, Family",5.4
+137,The Portrait of a Lady,1996,144,Jane Campion,"Nicole Kidman, John Malkovich, Barbara Hershey","Drama, Romance",6.2
+138,Black Mask,1996,99,Daniel Lee,"Jet Li, Ching-Wan Lau, Karen Mok","Action, Adventure, Comedy",6.0
+139,Ghosts of Mississippi,1996,130,Rob Reiner,"Alec Baldwin, James Woods, Whoopi Goldberg","Drama, History",6.7
+140,A Very Brady Sequel,1996,90,Arlene Sanford,"Shelley Long, Gary Cole, Tim Matheson",Comedy,5.9
+141,Shall We Dance?,1996,136,Masayuki Suô,"Kôji Yakusho, Tamiyo Kusakari, Naoto Takenaka","Comedy, Drama, Music",7.7
+142,Flipper,1996,95,Alan Shapiro,"Paul Hogan, Elijah Wood, Jonathan Banks","Adventure, Crime, Drama",5.3
+143,First Kid,1996,101,David Mickey Evans,"Sinbad, Brock Pierce, Blake Boyd","Comedy, Family",5.3
+144,Microcosmos,1996,80,"Claude Nuridsany, Marie Pérennou","Kristin Scott Thomas, Jacques Perrin",Documentary,7.9
+145,Harriet the Spy,1996,100,Bronwen Hughes,"Michelle Trachtenberg, Rosie O'Donnell, Gregory Smith","Comedy, Drama, Family",6.0
+146,Feeling Minnesota,1996,99,Steven Baigelman,"Keanu Reeves, Vincent D'Onofrio, Cameron Diaz","Comedy, Crime, Drama",5.4
+147,The Pallbearer,1996,98,Matt Reeves,"David Schwimmer, Gwyneth Paltrow, Michael Rapaport","Comedy, Romance",5.0
+148,Somersault in a Coffin,1996,76,Dervis Zaim,"Ahmet Ugurlu, Tuncel Kurtiz, Aysen Aydemir",Drama,7.6
+149,Eddie,1996,100,Steve Rash,"Whoopi Goldberg, Frank Langella, Dennis Farina","Comedy, Sport",5.2
+150,Kama Sutra: A Tale of Love,1996,114,Mira Nair,"Naveen Andrews, Sarita Choudhury, Indira Varma","Crime, Drama, History",6.0
+151,Jude,1996,123,Michael Winterbottom,"Christopher Eccleston, Kate Winslet, Liam Cunningham","Drama, Romance",6.9
+152,SubUrbia,1996,121,Richard Linklater,"Giovanni Ribisi, Steve Zahn, Jayce Bartok","Comedy, Drama",6.7
+153,Blood and Wine,1996,101,Bob Rafelson,"Jack Nicholson, Michael Caine, Stephen Dorff","Crime, Drama, Thriller",6.0
+154,The Dentist,1996,92,Brian Yuzna,"Corbin Bernsen, Linda Hoffman, Michael Stadvec","Horror, Thriller",5.4
+155,A Summer's Tale,1996,113,Éric Rohmer,"Melvil Poupaud, Amanda Langlet, Gwenaëlle Simon","Comedy, Drama, Romance",7.6
+156,The Great White Hype,1996,91,Reginald Hudlin,"Samuel L. Jackson, Jeff Goldblum, Damon Wayans","Comedy, Sport",5.5
+157,Before and After,1996,108,Barbet Schroeder,"Meryl Streep, Liam Neeson, Edward Furlong","Crime, Drama, Mystery",6.1
+158,Celtic Pride,1996,91,Tom DeCerchio,"Damon Wayans, Daniel Stern, Dan Aykroyd","Comedy, Sport",5.3
+159,Jane Eyre,1996,112,Franco Zeffirelli,"William Hurt, Charlotte Gainsbourg, Anna Paquin","Drama, Romance",6.8
+160,The Eighth Day,1996,118,Jaco Van Dormael,"Daniel Auteuil, Pascal Duquenne, Miou-Miou","Comedy, Drama",7.5
+161,The God of Cookery,1996,95,"Stephen Chow, Lik-Chi Lee","Stephen Chow, Karen Mok, Vincent Kok","Action, Comedy, Fantasy",7.2
+162,Irma Vep,1996,99,Olivier Assayas,"Maggie Cheung, Jean-Pierre Léaud, Nathalie Richard","Comedy, Drama",7.0
+163,Fled,1996,98,Kevin Hooks,"Laurence Fishburne, Stephen Baldwin, Will Patton","Action, Adventure, Comedy",5.4
+164,Foxfire,1996,102,Annette Haywood-Carter,"Hedy Burress, Angelina Jolie, Jenny Lewis","Drama, Romance",6.1
+165,Drifting Clouds,1996,95,Aki Kaurismäki,"Kati Outinen, Kari Väänänen, Elina Salo","Comedy, Drama",7.6
+166,The Hunters,1996,113,Kjell Sundvall,"Rolf Lassgård, Lennart Jähkel, Jarmo Mäkinen","Crime, Thriller",7.0
+167,Santa with Muscles,1996,97,John Murlowski,"Hulk Hogan, Don Stark, Robin Curtis",Comedy,2.6
+168,The Funeral,1996,99,Abel Ferrara,"Christopher Walken, Chris Penn, Annabella Sciorra","Crime, Drama",6.6
+169,Kids in the Hall: Brain Candy,1996,89,Kelly Makin,"Dave Foley, Bruce McCulloch, Kevin McDonald",Comedy,6.9
+170,The Stendhal Syndrome,1996,113,Dario Argento,"Asia Argento, Thomas Kretschmann, Marco Leonardi","Horror, Mystery, Thriller",6.0
+171,House Arrest,1996,108,Harry Winer,"Jamie Lee Curtis, Kevin Pollak, Kyle Howard","Comedy, Family",5.8
+172,Citizen Ruth,1996,106,Alexander Payne,"Laura Dern, Swoosie Kurtz, Mary Kay Place","Comedy, Drama",7.0
+173,The Associate,1996,114,Donald Petrie,"Whoopi Goldberg, Dianne Wiest, Eli Wallach",Comedy,6.2
+174,In Love and War,1996,113,Richard Attenborough,"Sandra Bullock, Chris O'Donnell, Mackenzie Astin","Biography, Drama, Romance",5.9
+175,Space Truckers,1996,95,Stuart Gordon,"Tim Loane, Ian Beattie, Olwen Fouéré","Adventure, Comedy, Sci-Fi",5.4
+176,Bullet,1996,96,Julien Temple,"Mickey Rourke, Frank Senger, Adrien Brody","Action, Crime, Drama",6.4
+177,Night Falls on Manhattan,1996,113,Sidney Lumet,"Andy Garcia, Richard Dreyfuss, Lena Olin","Crime, Drama, Mystery",6.6
+178,Bad Moon,1996,80,Eric Red,"Mariel Hemingway, Michael Paré, Mason Gamble","Horror, Thriller",5.8
+179,Ed,1996,94,Bill Couturié,"Matt LeBlanc, Jayne Brook, Gene Ross","Comedy, Family, Sport",2.8
+180,Bed of Roses,1996,87,Michael Goldenberg,"Christian Slater, Mary Stuart Masterson, Pamela Adlon","Drama, Romance",6.1
+181,Mrs. Winterbourne,1996,105,Richard Benjamin,"Shirley MacLaine, Ricki Lake, Brendan Fraser","Comedy, Drama, Romance",6.2
+182,Raja Hindustani,1996,177,Dharmesh Darshan,"Aamir Khan, Karisma Kapoor, Suresh Oberoi","Action, Comedy, Drama",6.1
+183,Albino Alligator,1996,94,Kevin Spacey,"Matt Dillon, Faye Dunaway, Gary Sinise","Crime, Drama, Thriller",6.1
+184,The Promise,1996,90,"Jean-Pierre Dardenne, Luc Dardenne","Jérémie Renier, Olivier Gourmet, Assita Ouedraogo",Drama,7.7
+185,Looking for Richard,1996,111,Al Pacino,"Al Pacino, Alec Baldwin, Kevin Spacey","Documentary, Drama",7.3
+186,Head Above Water,1996,92,Jim Wilson,"Harvey Keitel, Cameron Diaz, Craig Sheffer","Comedy, Thriller",6.0
+187,Comrades: Almost a Love Story,1996,118,Peter Ho-Sun Chan,"Maggie Cheung, Leon Lai, Eric Tsang","Drama, Romance",8.1
+188,Ridicule,1996,102,Patrice Leconte,"Charles Berling, Jean Rochefort, Fanny Ardant","Comedy, Drama, History",7.3
+189,The Trigger Effect,1996,94,David Koepp,"Kyle MacLachlan, Elisabeth Shue, Dermot Mulroney","Drama, Thriller",5.7
+190,Larger Than Life,1996,93,Howard Franklin,"Bill Murray, Matthew McConaughey, Jerry Adler","Comedy, Family",5.6
+191,The Daytrippers,1996,87,Greg Mottola,"Hope Davis, Stanley Tucci, Parker Posey","Comedy, Drama",7.0
+192,Surviving Picasso,1996,125,James Ivory,"Anthony Hopkins, Natascha McElhone, Julianne Moore","Biography, Drama, Romance",6.3
+193,The Spitfire Grill,1996,117,Lee David Zlotoff,"Alison Elliott, Ellen Burstyn, Marcia Gay Harden",Drama,7.0
+194,The Stupids,1996,94,John Landis,"Tom Arnold, Jessica Lundy, Bug Hall","Adventure, Comedy",4.3
+195,Poove Unakkaga,1996,150,Vikraman,"Joseph Vijay, Sangeetha, Anju Aravind","Comedy, Drama, Romance",8.6
+196,I Shot Andy Warhol,1996,103,Mary Harron,"Lili Taylor, Jared Harris, Martha Plimpton","Biography, Drama",6.6
+197,Bogus,1996,110,Norman Jewison,"Whoopi Goldberg, Gérard Depardieu, Haley Joel Osment","Comedy, Family, Fantasy",5.4
+198,Mother,1996,104,Albert Brooks,"Albert Brooks, Debbie Reynolds, Paul Collins","Comedy, Drama",6.9
+199,Tromeo and Juliet,1996,107,Lloyd Kaufman,"Jane Jensen, Will Keenan, Valentine Miele","Comedy, Romance",6.0
+200,Kids Return,1996,107,Takeshi Kitano,"Ken Kaneko, Masanobu Andô, Leo Morimoto","Crime, Drama, Sport",7.4
+201,All Dogs Go to Heaven 2,1996,82,"Larry Leker, Paul Sabella","Charlie Sheen, Sheena Easton, Dom DeLuise","Animation, Adventure, Family",5.5
+202,Girl 6,1996,108,Spike Lee,"Theresa Randle, Isaiah Washington, Spike Lee","Comedy, Drama",5.3
+203,Twelfth Night,1996,134,Trevor Nunn,"Helena Bonham Carter, Richard E. Grant, Imogen Stubbs","Comedy, Drama, Romance",7.1
+204,Two If by Sea,1996,96,Bill Bennett,"Sandra Bullock, Denis Leary, Stephen Dillane","Comedy, Crime, Romance",5.3
+205,Fire,1996,104,Deepa Mehta,"Shabana Azmi, Nandita Das, Karishma Jhalani","Crime, Drama, Romance",7.1
+206,The Adventures of Pinocchio,1996,96,Steve Barron,"Martin Landau, Jonathan Taylor Thomas, Geneviève Bujold","Adventure, Drama, Family",5.2
+207,Khiladiyon Ka Khiladi,1996,162,Umesh Mehra,"Akshay Kumar, Rekha, Raveena Tandon","Action, Crime, Drama",6.0
+208,Box of Moonlight,1996,112,Tom DiCillo,"John Turturro, Sam Rockwell, Catherine Keener","Comedy, Drama",7.1
+209,Get on the Bus,1996,120,Spike Lee,"Ossie Davis, Charles S. Dutton, Andre Braugher","Adventure, Drama, History",6.9
+210,Schizopolis,1996,96,Steven Soderbergh,"Steven Soderbergh, Scott Allen, Betsy Brantley","Comedy, Fantasy, Mystery",6.7
+211,Unforgettable,1996,117,John Dahl,"Ray Liotta, Linda Fiorentino, Peter Coyote","Drama, Mystery, Sci-Fi",6.0
+212,Alaska,1996,109,Fraser C. Heston,"Thora Birch, Vincent Kartheiser, Dirk Benedict","Adventure, Drama, Family",5.8
+213,Heaven's Prisoners,1996,132,Phil Joanou,"Alec Baldwin, Kelly Lynch, Mary Stuart Masterson","Drama, Mystery, Thriller",5.8
+214,The Cyclone,1996,93,Leonardo Pieraccioni,"Leonardo Pieraccioni, Lorena Forteza, Barbara Enrichi","Comedy, Romance",6.8
+215,The Green Planet,1996,99,Coline Serreau,"Coline Serreau, Vincent Lindon, Samuel Tasinaje","Comedy, Sci-Fi",7.1
+216,Mother Night,1996,114,Keith Gordon,"Nick Nolte, Sheryl Lee, Tony Robinow","Drama, Romance, War",7.1
+217,Curdled,1996,88,Reb Braddock,"William Baldwin, Angela Jones, Bruce Ramsay","Comedy, Crime, Thriller",5.9
+218,Big Bully,1996,90,Steve Miner,"Rick Moranis, Tom Arnold, Julianne Phillips","Comedy, Thriller",4.8
+219,A Thin Line Between Love and Hate,1996,108,Martin Lawrence,"Martin Lawrence, Lynn Whitfield, Regina King","Comedy, Crime, Drama",5.6
+220,Family Resemblances,1996,110,Cédric Klapisch,"Jean-Pierre Bacri, Jean-Pierre Darroussin, Catherine Frot","Comedy, Drama",7.4
+221,Kansas City,1996,116,Robert Altman,"Jennifer Jason Leigh, Miranda Richardson, Harry Belafonte","Crime, Drama, Music",6.3
+222,Carpool,1996,89,Arthur Hiller,"Tom Arnold, David Paymer, Rhea Perlman",Comedy,5.0
+223,Mr. Wrong,1996,96,Nick Castle,"Ellen DeGeneres, Bill Pullman, Joan Cusack",Comedy,3.8
+224,The Sunchaser,1996,122,Michael Cimino,"Woody Harrelson, Jon Seda, Anne Bancroft","Crime, Drama",6.1
+225,Leily Is with Me,1996,95,Kamal Tabrizi,"Parviz Parastui, Mahmoud Azizi, Maziar Lorestani","Adventure, Comedy, Drama",7.5
+226,The Evening Star,1996,129,Robert Harling,"Shirley MacLaine, Bill Paxton, Juliette Lewis","Comedy, Drama, Romance",5.9
+227,To Gillian on Her 37th Birthday,1996,93,Michael Pressman,"Peter Gallagher, Michelle Pfeiffer, Claire Danes","Drama, Fantasy, Romance",5.8
+228,Ebola Syndrome,1996,98,Herman Yau,"Anthony Chau-Sang Wong, Yeung-Ming Wan, Shing Fui-On","Comedy, Crime, Horror",6.5
+229,Loch Ness,1996,101,John Henderson,"Ted Danson, Joely Richardson, Ian Holm","Adventure, Drama, Fantasy",5.5
+230,The Jaguar,1996,100,Francis Veber,"Jean Reno, Patrick Bruel, Danny Trejo","Adventure, Comedy",6.0
+231,The Van,1996,100,Stephen Frears,"Colm Meaney, Donal O'Kelly, Ger Ryan","Comedy, Drama",6.7
+232,Bastard Out of Carolina,1996,98,Anjelica Huston,"Jennifer Jason Leigh, Ron Eldard, Glenne Headly",Drama,7.3
+233,Forbidden City Cop,1996,89,"Stephen Chow, Vincent Kok","Stephen Chow, Carina Lau, Carman Lee","Action, Comedy, Fantasy",6.9
+234,Ponette,1996,97,Jacques Doillon,"Victoire Thivisol, Delphine Schiltz, Matiaz Bureau Caton",Drama,7.5
+235,Prisoner of the Mountains,1996,99,Sergei Bodrov,"Oleg Menshikov, Sergey Bodrov, Susanna Mekhraliyeva","Drama, War",7.5
+236,Khamoshi the Musical,1996,160,Sanjay Leela Bhansali,"Manisha Koirala, Nana Patekar, Salman Khan","Drama, Musical, Romance",7.4
+237,Kaalapani,1996,178,Priyadarshan,"Mohanlal, Amrish Puri, Prabhu","Action, Drama, History",8.5
+238,Last Dance,1996,103,Bruce Beresford,"Sharon Stone, Rob Morrow, Randy Quaid","Drama, Thriller",5.7
+239,A Moment of Innocence,1996,78,Mohsen Makhmalbaf,"Mirhadi Tayebi, Mohsen Makhmalbaf, Ali Bakhsi","Comedy, Drama",7.7
+240,Beyond Silence,1996,109,Caroline Link,"Sylvie Testud, Tatjana Trieb, Howie Seago","Drama, Music",7.4
+241,Swallowtail Butterfly,1996,148,Shunji Iwai,"Hiroshi Mikami, Chara, Ayumi Ito","Crime, Drama",7.5
+242,Silent Trigger,1996,93,Russell Mulcahy,"Dolph Lundgren, Gina Bellman, Conrad Dunn","Action, Drama, Thriller",5.3
+243,Solo,1996,94,Norberto Barba,"Mario Van Peebles, William Sadler, Barry Corbin","Action, Sci-Fi, Thriller",4.1
+244,Moll Flanders,1996,123,Pen Densham,"Robin Wright, Morgan Freeman, Stockard Channing","Drama, Romance",6.4
+245,A Family Thing,1996,109,Richard Pearce,"Robert Duvall, James Earl Jones, Michael Beach","Comedy, Drama",7.1
+246,Ghatak: Lethal,1996,158,Rajkumar Santoshi,"Sunny Deol, Meenakshi Sheshadri, Danny Denzongpa","Action, Drama",7.5
+247,If Lucy Fell,1996,92,Eric Schaeffer,"Sarah Jessica Parker, Eric Schaeffer, Ben Stiller","Comedy, Romance",4.9
+248,Dear God,1996,112,Garry Marshall,"Greg Kinnear, Laurie Metcalf, Maria Pitillo",Comedy,5.5
+249,The Whole Wide World,1996,111,Dan Ireland,"Vincent D'Onofrio, Renée Zellweger, Ann Wedgeworth","Biography, Drama, Romance",7.0
+250,The Watermelon Woman,1996,85,Cheryl Dunye,"Cheryl Dunye, Guinevere Turner, Valarie Walker","Comedy, Drama, Romance",7.1
+251,Bloodsport 2,1996,90,"Alan Mehrez, Philip Tan","Daniel Bernhardt, James Hong, Pat Morita","Action, Sport",4.8
+252,Grace of My Heart,1996,116,Allison Anders,"Illeana Douglas, John Turturro, Sissy Boyd","Comedy, Drama, Music",6.7
+253,Bernie,1996,87,Albert Dupontel,"Claude Perron, Albert Dupontel, Roland Blanche","Comedy, Drama",7.1
+254,Walking and Talking,1996,86,Nicole Holofcener,"Catherine Keener, Anne Heche, Amy Braverman","Comedy, Drama, Romance",6.7
+255,American Buffalo,1996,88,Michael Corrente,"Dustin Hoffman, Dennis Franz, Sean Nelson",Drama,5.8
+256,Earth,1996,125,Julio Medem,"Carmelo Gómez, Emma Suárez, Karra Elejalde","Drama, Fantasy, Romance",7.3
+257,Kissed,1996,78,Lynne Stopkewich,"Molly Parker, Peter Outerbridge, Jay Brazeau","Drama, Romance",6.4
+258,Fudoh: The New Generation,1996,98,Takashi Miike,"Shôsuke Tanihara, Miho Nomoto, Tamaki Kenmochi","Action, Comedy, Crime",7.0
+259,Istanbul Beneath My Wings,1996,119,Mustafa Altioklar,"Ege Aydan, Beatriz Rico, Okan Bayülgen","Adventure, Drama, History",7.0
+260,Adrenalin: Fear the Rush,1996,77,Albert Pyun,"Christopher Lambert, Natasha Henstridge, Norbert Weisser","Action, Sci-Fi, Thriller",3.8
+261,Shiloh,1996,93,Dale Rosenbloom,"Blake Heron, Michael Moriarty, Scott Wilson","Drama, Family",6.3
+262,Boys,1996,86,Stacy Cochran,"Winona Ryder, Lukas Haas, John C. Reilly","Drama, Mystery, Romance",4.9
+263,Gabbeh,1996,75,Mohsen Makhmalbaf,"Shaghayeh Djodat, Hossein Moharami, Rogheih Moharami","Drama, Mystery, Romance",6.9
+264,Conspirators of Pleasure,1996,85,Jan Svankmajer,"Petr Meissel, Gabriela Wilhelmová, Barbora Hrzánová","Comedy, Drama",7.3
+265,Mad Dog Time,1996,93,Larry Bishop,"Michael J. Pollard, Henry Silva, Gabriel Byrne","Comedy, Crime, Drama",5.4
+266,When the Cat's Away,1996,91,Cédric Klapisch,"Garance Clavel, Zinedine Soualem, Renée Le Calm","Comedy, Romance",6.9
+267,Carla's Song,1996,127,Ken Loach,"Robert Carlyle, Oyanka Cabezas, Scott Glenn","Drama, Romance, War",6.7
+268,The Rich Man's Wife,1996,95,Amy Holden Jones,"Halle Berry, Christopher McDonald, Peter Greene","Drama, Thriller",5.3
+269,Killer Condom,1996,107,Martin Walz,"Udo Samel, Peter Lohmeyer, Iris Berben","Comedy, Horror, Romance",5.4
+270,Mr. Toad's Wild Ride,1996,88,Terry Jones,"Steve Coogan, Eric Idle, Terry Jones","Adventure, Comedy, Family",6.2
+271,Werner: Eat My Dust!!!,1996,85,"Udo Beissel, Michael Schaack","Monty Arnold, Klaus Büchner, Andi Feldmann","Action, Sci-Fi, Animation",5.6
+272,Race the Sun,1996,100,Charles T. Kanganis,"Halle Berry, Jim Belushi, Bill Hunter","Adventure, Comedy, Drama",5.4
+273,A Self-Made Hero,1996,107,Jacques Audiard,"Mathieu Kassovitz, Anouk Grinberg, Sandrine Kiberlain","Comedy, Drama",7.2
+274,Omega Doom,1996,84,Albert Pyun,"Rutger Hauer, Shannon Whirry, Norbert Weisser","Drama, Sci-Fi, Thriller",4.0
+275,Chaahat,1996,151,Mahesh Bhatt,"Naseeruddin Shah, Shah Rukh Khan, Pooja Bhatt","Drama, Romance",5.5
+276,Gamera 2: Attack of the Legion,1996,99,Shûsuke Kaneko,"Toshiyuki Nagashima, Miki Mizuno, Tamotsu Ishibashi","Action, Drama, Fantasy",7.0
+277,It's My Party,1996,110,Randal Kleiser,"Eric Roberts, Gregory Harrison, Margaret Cho","Drama, Romance",7.1
+278,Crossworlds,1996,91,Krishna Rao,"Rutger Hauer, Josh Charles, Stuart Wilson","Action, Comedy, Sci-Fi",5.3
+279,Hype!,1996,84,Doug Pray,"7 Year Bitch, Valerie M. Agnew, Carrie Akre","Documentary, History, Music",7.5
+280,Dragon Ball: The Path to Power,1996,80,Shigeyasu Yamauchi,"Masako Nozawa, Hiromi Tsuru, Naoki Tatsuta","Animation, Action, Adventure",7.2
+281,Avvai Shanmugi,1996,161,K.S. Ravikumar,"Kamal Haasan, Meena, Gemini Ganesan","Comedy, Drama, Musical",7.9
+282,Some Mother's Son,1996,112,Terry George,"Helen Mirren, Fionnula Flanagan, Aidan Gillen","Drama, History",7.2
+283,Dream for an Insomniac,1996,90,Tiffanie DeBartolo,"Ione Skye, Jennifer Aniston, Mackenzie Astin","Romance, Comedy, Drama",5.9
+284,Forest Warrior,1996,93,Aaron Norris,"Chuck Norris, Terry Kiser, Max Gail","Action, Adventure, Comedy",3.7
+285,How the War Started on My Island,1996,97,Vinko Bresan,"Vlatko Dulic, Ljubomir Kerekes, Ivan Brkic","Comedy, Drama, War",7.8
+286,Lilies,1996,95,John Greyson,"Ian D. Clark, Marcel Sabourin, Aubert Pallascio","Crime, Drama, Fantasy",7.3
+287,"I Love You, I Love You Not",1996,88,Billy Hopkins,"Jeanne Moreau, Claire Danes, Jude Law","Drama, Romance",5.3
+288,Head of the Family,1996,82,Charles Band,"Blake Adams, Jacqueline Lovell, Bob Schott","Comedy, Horror",5.3
+289,X,1996,100,Rintarô,"Tomokazu Seki, Junko Iwao, Ken Narita","Animation, Action, Fantasy",6.1
+290,Hard Core Logo,1996,92,Bruce McDonald,"Hugh Dillon, Callum Keith Rennie, John Pyper-Ferguson","Comedy, Drama, Music",7.2
+291,Female Perversions,1996,120,Susan Streitfeld,"Tilda Swinton, Amy Madigan, Karen Sillas","Drama, Fantasy, Thriller",5.3
+292,Mojave Moon,1996,95,Kevin Dowling,"Danny Aiello, Anne Archer, Michael Biehn","Comedy, Romance, Thriller",5.2
+293,Jeet,1996,180,Raj Kanwar,"Sunny Deol, Karisma Kapoor, Salman Khan","Action, Romance",5.9
+294,English Babu Desi Mem,1996,170,Praveen Nischol,"Shah Rukh Khan, Sonali Bendre, Rajeshwari","Comedy, Drama, Musical",4.6
+295,Puddle Cruiser,1996,102,Jay Chandrasekhar,"Jay Chandrasekhar, Kevin Heffernan, Steve Lemme","Comedy, Drama, Romance",5.5
+296,The Ogre,1996,118,Volker Schlöndorff,"John Malkovich, Armin Mueller-Stahl, Gottfried John",Drama,6.8
+297,The Secret Agent,1996,95,Christopher Hampton,"Bob Hoskins, Patricia Arquette, Gérard Depardieu","Drama, Thriller",5.6
+298,The War at Home,1996,123,Emilio Estevez,"Emilio Estevez, Kathy Bates, Martin Sheen",Drama,6.9
+299,Dipu Number 2,1996,154,Morshedul Islam,"Arun Saha, Shubashish, Bulbul Ahmed","Adventure, Family",8.9
+300,Normal Life,1996,101,John McNaughton,"Ashley Judd, Luke Perry, Bruce A. Young","Crime, Drama",6.2
+301,When Saturday Comes,1996,98,Maria Giese,"Sean Bean, Emily Lloyd, Pete Postlethwaite","Drama, Sport",6.0
+302,Gray's Anatomy,1996,80,Steven Soderbergh,"Spalding Gray, Mike McLaughlin, Melissa Robertson","Comedy, Drama",6.8
+303,Captain Conan,1996,129,Bertrand Tavernier,"Philippe Torreton, Samuel Le Bihan, Bernard Le Coq","Drama, War",7.2
+304,Pinocchio's Revenge,1996,96,Kevin Tenney,"Candace McKenzie, Lewis Van Bergen, Ivan Gueron","Fantasy, Horror, Mystery",4.1
+305,Maachis,1996,160,Gulzar,"Om Puri, Tabu, Chandrachur Singh","Action, Crime, Drama",7.7
+306,Vasantha Vaasal,1996,132,M.R.,"Chaplin Balu, Mansoor Ali Khan, Kovai Sarala","Action, Romance",8.4
+307,Picnic,1996,68,Shunji Iwai,"Chara, Tadanobu Asano, Koichi Hashizume","Drama, Fantasy",7.1
+308,A Couch in New York,1996,108,Chantal Akerman,"Juliette Binoche, William Hurt, Stephanie Buttle","Comedy, Romance",5.9
+309,Kadhal Kottai,1996,167,Ahathian,"Ajith Kumar, Devayani, Heera Rajgopal","Drama, Romance",7.6
+310,Children of the Revolution,1996,101,Peter Duncan,"Judy Davis, Sam Neill, F. Murray Abraham","Comedy, Drama, Romance",6.3
+311,Unhook the Stars,1996,103,Nick Cassavetes,"Gena Rowlands, Marisa Tomei, Gérard Depardieu","Drama, Romance",6.5
+312,The Rolling Stones Rock and Roll Circus,1996,65,Michael Lindsay-Hogg,"Ian Anderson, Glenn Cornick, Clive Bunker","Documentary, Music",7.6
+313,Naked Blood,1996,76,Hisayasu Satô,"Misa Aika, Yumika Hayashi, Mika Kirihara","Drama, Horror, Sci-Fi",6.1
+314,Faithful,1996,91,Paul Mazursky,"Cher, Chazz Palminteri, Ryan O'Neal","Comedy, Crime, Drama",5.7
+315,Thieves,1996,117,André Téchiné,"Catherine Deneuve, Daniel Auteuil, Laurence Côte","Crime, Drama, Romance",6.7
+316,Cosi,1996,100,Mark Joffe,"Ben Mendelsohn, Barry Otto, Toni Collette","Comedy, Drama, Music",6.6
+317,Manny & Lo,1996,88,Lisa Krueger,"Scarlett Johansson, Aleksa Palladino, Mary Kay Place","Comedy, Drama",6.6
+318,Moebius,1996,88,Gustavo Mosquera R.,"Guillermo Angelelli, Roberto Carnaghi, Annabella Levy","Mystery, Sci-Fi, Thriller",6.7
+319,Freedomfighters,1996,125,Vicente Aranda,"Ana Belén, Victoria Abril, Ariadna Gil","Drama, History, War",6.9
+320,Deep Crimson,1996,114,Arturo Ripstein,"Regina Orozco, Daniel Giménez Cacho, Sherlyn","Crime, Drama, Romance",7.2
+321,Young and Dangerous,1996,97,Wai Keung Lau,"Ekin Cheng, Jordan Chan, Gigi Lai","Action, Crime, Thriller",7.0
+322,Dr. Wai in the Scripture with No Words,1996,91,Siu-Tung Ching,"Jet Li, Rosamund Kwan, Takeshi Kaneshiro","Action, Adventure, Comedy",5.7
+323,The Dress,1996,103,Alex van Warmerdam,"Henri Garcin, Ingeborg Elzevier, Alexander Elmecky","Comedy, Drama",6.9
+324,Love and Other Catastrophes,1996,78,Emma-Kate Croghan,"Frances O'Connor, Alice Garner, Matt Day","Comedy, Romance",6.4
+325,Carnosaur 3: Primal Species,1996,80,Jonathan Winfrey,"Rob Camilletti, Stephen Lee, Cyril O'Reilly","Action, Horror, Sci-Fi",3.2
+326,Original Gangstas,1996,99,"Larry Cohen, Fred Williamson","Fred Williamson, Jim Brown, Pam Grier","Action, Crime, Drama",5.7
+327,Dating the Enemy,1996,97,Megan Simpson Huberman,"Claudia Karvan, Guy Pearce, Matt Day","Comedy, Fantasy, Romance",6.3
+328,Hollow Point,1996,102,Sidney J. Furie,"Thomas Ian Griffith, Tia Carrere, John Lithgow","Action, Comedy, Crime",5.7
+329,Different for Girls,1996,92,Richard Spence,"Steven Mackintosh, Rupert Graves, Miriam Margolyes","Comedy, Drama, Romance",7.0
+330,Temptress Moon,1996,130,Kaige Chen,"Leslie Cheung, Gong Li, Kevin Lin","Drama, Romance",6.6
+331,Infinity,1996,119,Matthew Broderick,"Matthew Broderick, Patricia Arquette, Jeffrey Force","Biography, Drama",6.2
+332,The Last Days of Frankie the Fly,1996,96,Peter Markle,"Dennis Hopper, Daryl Hannah, Michael Madsen","Comedy, Crime, Drama",5.4
+333,"Goodbye South, Goodbye",1996,116,Hsiao-Hsien Hou,"King Jieh-Wen, Kuei-Ying Hsu, Annie Shizuka Inoh","Crime, Drama",7.2
+334,Army,1996,153,Raam Shetty,"Sridevi, Shah Rukh Khan, Harish","Action, Drama",4.4
+335,Winter Bay,1996,98,Harald Hamrell,"David Tainton, Lina Englund, Martin Iliou","Crime, Drama, Romance",5.0
+336,The Last of the High Kings,1996,103,David Keating,"Catherine O'Hara, Jared Leto, Christina Ricci","Comedy, Drama",6.1
+337,Pédale douce,1996,100,Gabriel Aghion,"Patrick Timsit, Fanny Ardant, Richard Berry",Comedy,5.8
+338,Diljale,1996,159,Harry Baweja,"Ajay Devgn, Sonali Bendre, Amrish Puri","Action, Drama, Romance",5.8
+339,Asphalt Tango,1996,100,Nae Caranfil,"Charlotte Rampling, Mircea Diaconu, Florin Calinescu",Comedy,8.0
+340,The Double Lottie,1996,93,Kiumars Poorahmad,"Khosro Shakibai, Afsaneh Bayegan, Parvindokht Yazdanian","Drama, Family, Musical",6.6
+341,Naked Souls,1996,85,Lyndon Chubbuck,"Brian Krause, Pamela Anderson, David Warner","Sci-Fi, Thriller",3.3
+342,Sabotage,1996,99,Tibor Takács,"Mark Dacascos, Carrie-Anne Moss, Tony Todd","Action, Drama, Thriller",5.8
+343,Nénette and Boni,1996,103,Claire Denis,"Grégoire Colin, Alice Houri, Jacques Nolot",Drama,6.9
+344,Sunset Park,1996,99,Steve Gomer,"Rhea Perlman, Fredro Starr, Carol Kane","Drama, Sport",5.9
+345,No Way Home,1996,99,Buddy Giovinazzo,"Tim Roth, Deborah Kara Unger, James Russo","Crime, Drama, Thriller",6.7
+346,I'm Not Rappaport,1996,135,Herb Gardner,"Walter Matthau, Ossie Davis, Amy Irving","Comedy, Drama",6.5
+347,Crocodile,1996,102,Kim Ki-duk,"Cho Jae-hyun, Jae-Hong Ahn, Jeon Moo-song",Drama,6.6
+348,Mahjong,1996,121,Edward Yang,"Tsung Sheng Tang, Chang Chen, Lawrence Ko","Comedy, Drama",7.4
+349,Johns,1996,96,Scott Silver,"David Arquette, Lukas Haas, Tony Epper","Drama, Romance",6.3
+350,Little Witches,1996,90,Jane Simpson,"Mimi Rose, Sheeri Rappaport, Jennifer Rubin","Horror, Thriller",4.0
+351,El amor perjudica seriamente la salud,1996,117,Manuel Gómez Pereira,"Ana Belén, Juanjo Puigcorbé, Gabino Diego","Comedy, Romance",6.5
+352,My Man,1996,99,Bertrand Blier,"Anouk Grinberg, Gérard Lanvin, Valeria Bruni Tedeschi","Comedy, Drama, Romance",6.2
+353,Szamanka,1996,110,Andrzej Zulawski,"Boguslaw Linda, Iwona Petry, Piotr Machalica","Drama, Horror, Mystery",5.8
+354,Lilla Jönssonligan och cornflakeskuppen,1996,90,Christjan Wegner,"Kalle Eriksson, Jonathan Flumee, Fredrik Glimskär","Comedy, Family",4.9
+355,Saajan Chale Sasural,1996,134,David Dhawan,"Govinda, Karisma Kapoor, Tabu","Comedy, Drama",5.9
+356,Caught,1996,110,Robert M. Young,"Edward James Olmos, Maria Conchita Alonso, Arie Verveen","Drama, Thriller",6.5
+357,Carried Away,1996,109,Bruno Barreto,"Dennis Hopper, Amy Irving, Amy Locane","Drama, Romance",6.3
+358,My Sex Life... or How I Got Into an Argument,1996,178,Arnaud Desplechin,"Mathieu Amalric, Emmanuelle Devos, Emmanuel Salinger","Comedy, Drama, Romance",6.7
+359,Hamsun,1996,159,Jan Troell,"Max von Sydow, Ghita Nørby, Anette Hoff","Biography, Drama, War",7.2
+360,The Father,1996,91,Majid Majidi,"Mohammad Kasebi, Parivash Nazarieh, Hassan Sadeghi",Drama,7.4
+361,Day of the Warrior,1996,96,Andy Sidaris,"Kevin Light, Cristian Letelier, Julie Strain","Action, Adventure, Thriller",3.8
+362,Love Serenade,1996,101,Shirley Barrett,"Miranda Otto, Rebecca Frith, George Shevtsov","Comedy, Crime, Drama",6.7
+363,Jailbirds,1996,96,Detlev Buck,"Til Schweiger, Detlev Buck, Leander Haußmann","Comedy, Crime, Drama",5.9
+364,The Leading Man,1996,100,John Duigan,"Jon Bon Jovi, Anna Galiena, Lambert Wilson","Drama, Romance, Thriller",5.6
+365,Things I Never Told You,1996,93,Isabel Coixet,"Andrew McCarthy, Lili Taylor, Peggy West","Comedy, Drama, Romance",6.7
+366,Three Lives and Only One Death,1996,123,Raúl Ruiz,"Marcello Mastroianni, Anna Galiena, Marisa Paredes","Comedy, Crime, Fantasy",6.8
+367,Bambola,1996,92,Bigas Luna,"Valeria Marini, Jorge Perugorría, Stefano Dionisi","Drama, Romance",4.4
+368,Rebirth of Mothra,1996,104,Okihiro Yoneda,"Megumi Kobayashi, Sayaka Yamaguchi, Aki Hano","Action, Adventure, Family",5.8
+369,Familia,1996,98,Fernando León de Aranoa,"Juan Luis Galiardo, Amparo Muñoz, Ágata Lys","Comedy, Drama",7.2
+370,Jerusalem,1996,168,Bille August,"Maria Bonnevie, Ulf Friberg, Pernilla August",Drama,6.9
+371,Tu Chor Main Sipahi,1996,153,Guddu Dhanoa,"Akshay Kumar, Saif Ali Khan, Tabu","Action, Comedy, Drama",5.1
+372,The Grave,1996,90,Jonas Pate,"Craig Sheffer, Gabrielle Anwar, Josh Charles","Crime, Thriller",5.7
+373,I'm Crazy About Iris Blond,1996,110,Carlo Verdone,"Carlo Verdone, Claudia Gerini, Andréa Ferréol","Comedy, Romance",6.2
+374,Love Is All There Is,1996,105,"Joseph Bologna, Renée Taylor","Lainie Kazan, Paul Sorvino, Barbara Carrera","Comedy, Romance",5.0
+375,Regular Guys,1996,102,Rolf Silber,"Christoph M. Ohrt, Carin C. Tietze, Tim Bergmann","Comedy, Crime, Romance",6.8
+376,Drawing Flies,1996,76,"Matthew Gissing, Malcolm Ingram","Jason Lee, Renée Humphrey, Jason Mewes",Comedy,5.2
+377,Hustler White,1996,79,"Rick Castro, Bruce LaBruce","Tony Ward, Bruce LaBruce, Kevin P. Scott","Drama, Romance",5.8
+378,Beaumarchais the Scoundrel,1996,116,Édouard Molinaro,"Fabrice Luchini, Manuel Blanc, Sandrine Kiberlain","Comedy, History, Romance",6.7
+379,Tenchi the Movie - Tenchi Muyo in Love,1996,95,Hiroshi Negishi,"Matt K. Miller, Megumi Hayashibara, Yuri Amano","Animation, Adventure, Comedy",7.1
+380,Getting Away with Murder,1996,91,Harvey Miller,"Jack Lemmon, Dan Aykroyd, Lily Tomlin",Comedy,4.7
+381,Hitler,1996,153,Siddique,"Mammootty, Mukesh, Shobana","Action, Comedy, Drama",7.3
+382,The Secret Agent Club,1996,90,John Murlowski,"Hulk Hogan, Matthew McCurley, Lesley-Anne Down","Action, Comedy, Family",3.4
+383,Yeh Majhdhaar,1996,139,Esmayeel Shroff,"Salman Khan, Manisha Koirala, Rahul Roy","Drama, Romance",5.1
+384,Killers,1996,96,Mike Mendez,"Dave Larsen, David Gunn, Burke Morgan","Horror, Mystery, Thriller",5.3
+385,North Star,1996,88,Nils Gaup,"James Caan, Christopher Lambert, Catherine McCormack","Action, Adventure, Crime",4.9
+386,The Boys Club,1996,91,John Fawcett,"Chris Penn, Dominic Zamprogna, Stuart Stone","Adventure, Crime, Drama",6.2
+387,Killer Tongue,1996,98,Alberto Sciamma,"Melinda Clarke, Jason Durr, Mapi Galán","Comedy, Sci-Fi, Horror",4.5
+388,"Henry: Portrait of a Serial Killer, Part 2",1996,84,Chuck Parello,"Penelope Milford, Neil Giuntoli, Mike Houlihan","Crime, Horror, Thriller",5.0
+389,Fantozzi - Il ritorno,1996,97,Neri Parenti,"Paolo Villaggio, Milena Vukotic, Gigi Reder",Comedy,5.3
+390,The Biggest Heroes,1996,90,Thomas Vinterberg,"Thomas Bo Larsen, Ulrich Thomsen, Mia Maria Back","Comedy, Drama",6.6
+391,One Man's Justice,1996,100,"Kurt Wimmer, Kurt Anderson","Brian Bosworth, Bruce Payne, Jeff Kober","Action, Thriller",5.3
+392,Young and Dangerous 2,1996,101,Wai Keung Lau,"Ekin Cheng, Jordan Chan, Chingmy Yau","Action, Crime",6.6
+393,Young and Dangerous 3,1996,98,Wai Keung Lau,"Ekin Cheng, Jordan Chan, Gigi Lai","Action, Drama",6.6
+394,The Other Side of Sunday,1996,103,Berit Nesheim,"Marie Theisen, Hildegun Riise, Bjørn Sundquist","Comedy, Drama",6.9
+395,Sapoot,1996,158,Jagdish A. Sharma,"Akshay Kumar, Suniel Shetty, Karisma Kapoor","Action, Crime, Drama",5.2
+396,The Day a Pig Fell Into the Well,1996,115,Hong Sang-soo,"Park Choong-seon, Kim Eui-sung, Jo Eun Sook","Drama, Romance",6.6
+397,Le plus beau métier du monde,1996,105,Gérard Lauzier,"Gérard Depardieu, Michèle Laroque, Souad Amidou","Comedy, Drama",5.8
+398,"East Palace, West Palace",1996,90,Yuan Zhang,"Si Han, Jun Hu, Jing Ye",Drama,6.4
+399,Beyond Hypothermia,1996,90,"Jeong-il Choi, Ki-bong Du, Patrick Leung","Chien-Lien Wu, Ching-Wan Lau, Han Jae-seok","Action, Romance, Thriller",6.7
+400,Ferie d'agosto,1996,106,Paolo Virzì,"Silvio Orlando, Sabrina Ferilli, Ennio Fantastichini","Comedy, Drama",6.7
+401,Feeders,1996,69,"Jon McBride, John Polonia, Mark Polonia","Jon McBride, John Polonia, Sebastian Barran","Drama, Horror, Sci-Fi",2.6
+402,Grim,1996,86,Paul Matthews,"Emmanuel Xuereb, Jack Chancer, Peter Tregloan",Horror,2.4
+403,The Ex,1996,87,Mark L. Lester,"Yancy Butler, Nick Mancuso, Suzy Amis",Thriller,5.2
+404,The Twilight of the Golds,1996,92,Ross Kagan Marks,"Garry Marshall, Faye Dunaway, Jill Bernstein","Drama, Romance",6.4
+405,For Ever Mozart,1996,84,Jean-Luc Godard,"Madeleine Assas, Ghalya Lacroix, Bérangère Allaux","Comedy, Drama, War",6.1
+406,The Conquest,1996,109,Gábor Koltay,"Franco Nero, Géza Tordy, Imre Sinkovits","Action, Drama, History",2.6
+407,El Noom fi el Asal,1996,177,"Sherif Arafa, Ali Idris","Adel Emam, Dalal Abdulaziz, Ahmed Akl",Drama,6.4
+408,Jakten på nyresteinen,1996,91,Vibeke Idsøe,"Torbjörn T. Jensen, Jenny Skavlan, Benjamin Helstad","Adventure, Family, Sci-Fi",5.6
+409,Black Jack: The Movie,1996,90,Osamu Dezaki,"Hiroshi Fujioka, Kirk Thornton, Akio Ôtsuka","Animation, Drama, Thriller",6.7
+410,Hollow Reed,1996,104,Angela Pope,"Sam Bould, Martin Donovan, Ian Hart","Drama, Romance",7.2
+411,Rubber's Lover,1996,91,Shozin Fukui,"Nao, Norimizu Ameya, Yôta Kawase","Horror, Sci-Fi",6.3
+412,Ripe,1996,92,Mo Ogrodnik,"Monica Keena, Daisy Eagan, Gordon Currie","Drama, Romance",4.7
+413,Femalien,1996,89,Cybil Richards,"Jacqueline Lovell, Matt Shue, Kurt Sinclair","Romance, Sci-Fi",4.6
+414,Devil's Island,1996,99,Friðrik Þór Friðriksson,"Baltasar Kormákur, Gísli Halldórsson, Sigurveig Jónsdóttir","Comedy, Drama",7.1
+415,Les grands ducs,1996,85,Patrice Leconte,"Jean-Pierre Marielle, Philippe Noiret, Jean Rochefort",Comedy,5.9
+416,Tieta of Agreste,1996,140,Carlos Diegues,"Sonia Braga, Marília Pêra, Chico Anysio","Comedy, Drama, Romance",6.5
+417,The Dog in the Manger,1996,119,Pilar Miró,"Emma Suárez, Carmelo Gómez, Fernando Conde","Comedy, Romance",6.8
+418,Phat Beach,1996,89,Doug Ellin,"Jermaine Hopkins, Brian Hooks, Claudia Kaleem",Comedy,4.0
+419,The Delta,1996,85,Ira Sachs,"Shayne Gray, Thang Chan, Rachel Zan Huss",Drama,5.5
+420,Papi Gudia,1996,130,Lawrence D'Souza,"Avinash Wadhawan, Karisma Kapoor, Tinnu Anand","Horror, Thriller",2.6
+421,A spasso nel tempo,1996,94,Carlo Vanzina,"Christian De Sica, Massimo Boldi, Dean Jones","Adventure, Comedy, Sci-Fi",4.3
+422,Truants,1996,115,Nikos Grammatikos,"Nikos Georgakis, Giorgos Evgenikos, Vangelis Mourikis",Drama,7.9
+423,Big Bullet,1996,91,Benny Chan,"Ching-Wan Lau, Jordan Chan, Tat-Ming Cheung","Action, Crime, Thriller",6.7
+424,Sworn to Justice,1996,97,Paul Maslak,"Cynthia Rothrock, Tony Lo Bianco, Kurt McKinney","Action, Drama, Thriller",5.0
+425,Electra,1996,87,Julian Grant,"Shannon Tweed, Joe Tabb, Sten Eirik","Action, Sci-Fi, Thriller",3.3
+426,Killer Barbys,1996,87,Jesús Franco,"Santiago Segura, Mariangela Giordano, Aldo Sambrell",Horror,3.7
+427,Azhakiya Ravanan,1996,120,Kamal,"Mammootty, Sreenivasan, Bhanupriya","Comedy, Drama",7.4
+428,Danger Zone,1996,92,Allan Eastman,"Billy Zane, Robert Downey Jr., Cary-Hiroyuki Tagawa","Action, Drama",4.4
+429,The Cold Light of Day,1996,101,Rudolf van den Berg,"Richard E. Grant, Lynsey Baxter, Perdita Weeks","Drama, Thriller",6.2
+430,Supermarket Woman,1996,127,Jûzô Itami,"Nobuko Miyamoto, Masahiko Tsugawa, Ryûnosuke Kaneda","Comedy, Romance",7.3
+431,Death in Granada,1996,114,Marcos Zurinaga,"Andy Garcia, Esai Morales, Naim Thomas","Biography, Drama, Mystery",6.1
+432,Red Ribbon Blues,1996,97,Charles Winkler,"Paul Mercurio, Debi Mazar, RuPaul","Comedy, Drama",4.2
+433,Viva Erotica,1996,99,"Derek Tung-Sing Yee, Chi-Leung Lo","Leslie Cheung, Karen Mok, Shu Qi","Comedy, Drama",6.7
+434,Nasser 56,1996,142,Mohammad Fadel,"Ahmed Zaki, Fardous Abdel Hamid, Hassan Hosny","Biography, Drama, History",6.6
+435,Shanghai Grand,1996,96,Man Kit Poon,"Leslie Cheung, Andy Lau, Jing Ning","Action, Crime, Thriller",6.6
+436,Cosmos,1996,99,"Jennifer Alleyn, Manon Briand, Marie-Julie Dallaire","Marie-Hélène Montpetit, Pascal Contamine, France Castel","Comedy, Drama",6.4
+437,Taxi,1996,112,Carlos Saura,"Ingrid Rubio, Carlos Fuentes, Ágata Lys","Crime, Drama, Romance",6.4
+438,The Winner,1996,92,Alex Cox,"Rebecca De Mornay, Vincent D'Onofrio, Richard Edson","Comedy, Crime, Thriller",4.7
+439,Arcane Sorcerer,1996,96,Pupi Avati,"Carlo Cecchi, Stefano Dionisi, Arnaldo Ninchi",Horror,6.7
+440,Nobody's Business,1996,60,Alan Berliner,"Alan Berliner, Oscar Berliner","Documentary, Biography",8.0
+441,Abbuzze! Der Badesalz Film,1996,95,Roland Willaert,"Gerd Knebel, Henni Nachtsheim, Martin Armknecht",Comedy,6.5
+442,Non-Stop,1996,82,Sabu,"Tomorô Taguchi, Diamond Yukai, Shin'ichi Tsutsumi","Comedy, Action, Crime",6.8
+443,Santa Claws,1996,83,John A. Russo,"Debbie Rochon, Grant Kramer, John Mowod",Horror,3.1
+444,Idiot Box,1996,83,David Caesar,"Ben Mendelsohn, Jeremy Sims, John Polson","Comedy, Crime, Drama",6.4
+445,A Summer in La Goulette,1996,89,Férid Boughedir,"Sonia Mankaï, Ava Cohen-Jonathan, Sarah Pariente","Comedy, Drama",6.3
+446,Crimetime,1996,118,George Sluizer,"Stephen Baldwin, Pete Postlethwaite, Sadie Frost","Crime, Drama, Horror",4.6
+447,Chronicle of a Disappearance,1996,88,Elia Suleiman,"Elia Suleiman, Nazira Suleiman, Fouad Sleiman",Drama,7.0
+448,La Celestina,1996,92,Gerardo Vera,"Penélope Cruz, Terele Pávez, Juan Diego Botto",Drama,5.2
+449,Will It Snow for Christmas?,1996,90,Sandrine Veysset,"Dominique Reymond, Daniel Duval, Jessica Martinez",Drama,7.0
+450,Full Speed,1996,85,Gaël Morel,"Élodie Bouchez, Stéphane Rideau, Pascal Cervo","Drama, Romance",6.2
+451,August,1996,94,Anthony Hopkins,"Anthony Hopkins, Leslie Phillips, Kate Burton","Comedy, Drama, Romance",5.8
+452,Agni Sakshi,1996,142,Partho Ghosh,"Jackie Shroff, Nana Patekar, Manisha Koirala","Drama, Musical, Romance",6.2
+453,Das Superweib,1996,86,Sönke Wortmann,"Veronica Ferres, Joachim Król, Richy Müller",Comedy,4.3
+454,Alive and Kicking,1996,98,Nancy Meckler,"Jason Flemyng, Antony Sher, Dorothy Tutin","Comedy, Drama, Romance",6.5
+455,Persons Unknown,1996,99,George Hickenlooper,"Joe Mantegna, Kelly Lynch, Naomi Watts","Action, Thriller",5.3
+456,Ecstasy,1996,93,Mariano Barroso,"Javier Bardem, Federico Luppi, Silvia Munt",Drama,6.5
+457,Iron Monkey 2,1996,92,"Lu-Chiang Chao, Lan Jing","Donnie Yen, Billy Chow, Wu Ma",Action,4.6
+458,Shootfighter II,1996,91,Paul Ziller,"Bolo Yeung, William Zabka, Michael Bernardo",Action,4.8
+459,Night Hunter,1996,86,Rick Jacobson,"Don Wilson, Melanie Smith, Nicholas Guest","Action, Drama, Horror",3.9
+460,Hugo: The Movie Star,1996,68,"Stefan Fjeldmark, Jørgen Lerdam, Flemming Quist Møller","Kaya Brüel, Jesper Klein, Søs Egelind","Animation, Family, Musical",5.4
+461,Intimate Relations,1996,105,Philip Goodhew,"Julie Walters, Rupert Graves, Matthew Walker","Comedy, Drama",6.2
+462,Fetishes,1996,84,Nick Broomfield,"Mistress Beatrice, Nick Broomfield, Mistress Catherine",Documentary,6.1
+463,A Chef in Love,1996,100,Nana Dzhordzhadze,"Pierre Richard, Nino Kirtadze, Micheline Presle","Comedy, Romance",6.6
+464,Rollergator,1996,83,Donald G. Jackson,"Sandra Shuker, Joe Estevez, Conrad Brooks",Family,1.3
+465,Tykho Moon,1996,102,Enki Bilal,"Julie Delpy, Johan Leysen, Michel Piccoli",Sci-Fi,5.9
+466,Girls Town,1996,90,Jim McKay,"Lili Taylor, Bruklin Harris, Anna Grace","Comedy, Drama",6.4
+467,Cannes Man,1996,88,"Richard Martini, Susan Shapiro","François Petit, Robert Hockley, Luana Anders","Comedy, Drama",5.1
+468,Ninne Pelladatha,1996,146,Krishna Vamsi,"Nagarjuna Akkineni, Tabu, Chalapathi Rao","Romance, Comedy, Drama",7.7
+469,Animal Love,1996,120,Ulrich Seidl,"Ernst Schönmann, Franz Holzschuh, Erich Wögerer",Documentary,6.9
+470,An Occasional Hell,1996,93,Salomé Breziner,"Tom Berenger, Valeria Golino, Kari Wuhrer","Drama, Mystery, Thriller",4.9
+471,Att stjäla en tjuv,1996,93,Clas Lindberg,"Robert Gustafsson, Tova Magnusson, Sif Ruud","Comedy, Crime, Romance",4.3
+472,Underworld,1996,95,Roger Christian,"Denis Leary, Joe Mantegna, Annabella Sciorra","Comedy, Thriller",4.7
+473,The Good Life,1996,107,David Trueba,"Fernando Ramallo, Lucía Jiménez, Luis Cuenca","Comedy, Drama",6.6
+474,Fantôme avec chauffeur,1996,78,Gérard Oury,"Philippe Noiret, Gérard Jugnot, Jean-Luc Bideau","Adventure, Comedy, Fantasy",5.0
+475,The Money Masters,1996,210,William T. Still,William T. Still,Documentary,8.6
+476,Saint Clara,1996,85,"Ari Folman, Ori Sivan","Lucy Dubinchik, Halil Elohev, Johnny Peterson","Drama, Fantasy, Romance",6.9
+477,Daddy's Girl,1996,95,Martin Kitrosser,"William Katt, Michele Greene, Roxana Zal","Drama, Horror, Thriller",4.8
+478,Akkada Ammayi Ikkada Abbayi,1996,159,E.V.V. Satyanarayana,"Pawan Kalyan, Supriya Yarlagadda, Sarath Babu","Action, Romance",5.2
+479,Haru,1996,118,Yoshimitsu Morita,"Eri Fukatsu, Seiyô Uchino, Sei Hiraizumi","Drama, Romance",7.5
+480,Dushman Duniya Ka,1996,153,"Mehmood, Tabrez Hashmi","Laila, Mehmood, Manzoor Ali",Drama,3.3
+481,Doraemon: Nobita and the Galaxy Super-express,1996,97,Tsutomu Shibayama,"Nobuyo Ôyama, Noriko Ohara, Kazuya Tatekabe","Animation, Action, Adventure",7.0
+482,Dark Breed,1996,104,Richard Pepin,"Jack Scalia, Cindy Ambuehl, Jonathan Banks","Action, Horror, Sci-Fi",4.3
+483,"Love, etc.",1996,105,Marion Vernoux,"Charlotte Gainsbourg, Yvan Attal, Charles Berling","Comedy, Drama, Romance",6.2
+484,Tai Chi II,1996,96,"Hsin-Yen Chang, Yuen Woo-Ping","Jing Wu, Christy Chung, Mark Ho-nam Cheng","Action, Comedy, Romance",6.9
+485,Tiger Claws II,1996,92,J. Stephen Maunder,"Jalal Merhi, Bolo Yeung, Cynthia Rothrock",Action,4.9
+486,Oblivion 2: Backlash,1996,83,Sam Irvin,"Richard Joseph Paul, Jackie Swanson, Andrew Divoff","Adventure, Comedy, Sci-Fi",4.9
+487,"Hommes, femmes, mode d'emploi",1996,122,Claude Lelouch,"Fabrice Luchini, Bernard Tapie, Alessandra Martines","Comedy, Drama",6.1
+488,Broken English,1996,92,Gregor Nicholas,"Aleksandra Vujcic, Julian Arahanga, Rade Serbedzija","Drama, Romance",6.4
+489,American Strays,1996,97,Michael Covert,"Scott Plank, Melora Walters, John Savage","Action, Comedy",5.2
+490,Wasted!,1996,104,Aryan Kaganof,"Fem van der Elzen, Tygo Gernandt, Thom Hoffman","Romance, Drama",5.6
+491,The Emperor's Shadow,1996,130,Xiaowen Zhou,"Wen Jiang, You Ge, Qing Xu","Drama, History",6.9
+492,Lifeform,1996,90,Mark H. Baker,"Cotter Smith, Deirdre O'Connell, Robert Wisdom","Sci-Fi, Thriller",4.8
+493,Seven Servants,1996,88,"Stefan Jonas, Daryush Shokof","Anthony Quinn, David Warner, Sonja Kirchberger","Drama, Romance",6.4
+494,White Tiger,1996,93,Richard Martin,"Mig Macario, Kelly Benson, Frank Cassini",Action,5.2
+495,Kalle Blomkvist - Mästerdetektiven lever farligt,1996,81,Göran Carmback,"Malte Forsberg, Josefin Årling, Totte Steneby","Family, Adventure, Mystery",6.0
+496,Lupin III: Dead or Alive,1996,95,"Monkey Punch, Jun Kawagoe","Kan'ichi Kurita, Kiyoshi Kobayashi, Makio Inoue","Animation, Action, Adventure",6.8
+497,Too Late,1996,106,Lucian Pintilie,"Razvan Vasilescu, Cecilia Bârbora, Victor Rebengiuc","Drama, Thriller",7.7
+498,Jack Frusciante Has Left the Band,1996,100,Enza Negroni,"Stefano Accorsi, Violante Placido, Alessandro Zamattio","Drama, Romance",5.8
+499,Telo bez duse,1996,94,Wiktor Grodecki,"Vaclav Cernogursky, David, Jarda",Documentary,6.7
+500,Karmina,1996,110,Gabriel Pelletier,"Isabelle Cyr, Robert Brouillette, Yves Pelletier","Comedy, Horror, Romance",6.6
+501,Hotel de Love,1996,96,Craig Rosenberg,"Aden Young, Saffron Burrows, Simon Bossell","Comedy, Drama, Romance",6.0
+502,"Aquí llega Condemor, el pecador de la pradera",1996,90,Álvaro Sáenz de Heredia,"Chiquito de la Calzada, Bigote Arrocet, Sol Abad","Comedy, Musical, Western",2.9
+503,Lost and Found,1996,109,Chi-Ngai Lee,"Takeshi Kaneshiro, Kelly Chen, Michael Wong","Drama, Romance",7.2
+504,Fast Money,1996,93,Alex Wright,"Yancy Butler, Matt McCoy, John Ashton","Action, Crime, Romance",5.7
+505,Jaan,1996,170,Raj Kanwar,"Ajay Devgn, Twinkle Khanna, Amrish Puri","Action, Drama, Romance",4.3
+506,Virus,1996,87,Allan A. Goldstein,"Brian Bosworth, Leah Pinsent, David Fox","Action, Thriller",3.1
+507,Marquis de Sade,1996,93,Gwyneth Gibby,"Nick Mancuso, Janet Gunn, John Rhys-Davies","Drama, History",4.3
+508,Don't Look Up,1996,74,Hideo Nakata,"Yûrei Yanagi, Yasuyo Shirashima, Kei Ishibashi","Fantasy, Horror",6.2
+509,The Substance of Fire,1996,97,Daniel J. Sullivan,"Tony Goldwyn, Benjamin Ungar, Timothy Hutton",Drama,6.0
+510,The Legend of Galgameth,1996,110,Sean McNamara,"Devin Oatway, Sean McNamara, Stephen Macht","Adventure, Family, Fantasy",6.0
+511,Few of Us,1996,105,Sharunas Bartas,"Alex Descas, Yekaterina Golubeva, Piotr Kishteev",Drama,7.1
+512,"Más que amor, frenesí",1996,101,"Alfonso Albacete, Miguel Bardem, David Menkes","Nancho Novo, Cayetana Guillén Cuervo, Ingrid Rubio","Comedy, Drama, Thriller",5.5
+513,Project Grizzly,1996,72,Peter Lynch,"Troy Hurtubise, Peter Gzowski",Documentary,6.4
+514,Exit in Red,1996,97,Yurek Bogayevicz,"Mickey Rourke, Annabel Schofield, Anthony Michael Hall","Thriller, Drama, Romance",4.2
+515,Elective Affinities,1996,98,"Paolo Taviani, Vittorio Taviani","Isabelle Huppert, Fabrizio Bentivoglio, Jean-Hugues Anglade","Comedy, Drama, Romance",6.1
+516,Bandwagon,1996,103,John Schultz,"Kevin Corrigan, Steve Parlavecchio, Lee Holmes","Comedy, Music",7.0
+517,Stella Does Tricks,1996,99,Coky Giedroyc,"Kelly Macdonald, James Bolam, Hans Matheson",Drama,6.3
+518,Loafer,1996,160,David Dhawan,"Anil Kapoor, Juhi Chawla, Kulbhushan Kharbanda","Action, Comedy, Romance",5.1
+519,Hercule & Sherlock,1996,95,Jeannot Szwarc,"Christopher Lambert, Richard Anconina, Philippine Leroy-Beaulieu","Comedy, Crime",4.5
+520,Alien Visitor,1996,92,Rolf de Heer,"Ullie Birve, Syd Brisbane, Alethea McGrath","Drama, Sci-Fi",5.7
+521,God of Gamblers 3: The Early Stage,1996,110,Jing Wong,"Leon Lai, Anita Yuen, Jordan Chan","Action, Drama",6.2
+522,The Sweeper,1996,90,Joseph Merhi,"C. Thomas Howell, Jeff Fahey, Ed Lauter","Action, Drama, Thriller",5.1
+523,The Disappearance of Finbar,1996,105,Sue Clayton,"Luke Griffin, Jonathan Rhys Meyers, Sean Lawlor","Drama, Mystery",6.3
+524,"Who's the Woman, Who's the Man",1996,110,Peter Ho-Sun Chan,"Leslie Cheung, Anita Mui, Anita Yuen","Comedy, Drama, Romance",6.5
+525,Ayn Rand: A Sense of Life,1996,145,Michael Paxton,"Sharon Gless, Michael S. Berliner, Harry Binswanger","Documentary, Biography",6.5
+526,The White Lioness,1996,103,Pelle Berglund,"Rolf Lassgård, Charlotte Sieling, Cecilia Zwick-Nash","Crime, Mystery, Thriller",5.7
+527,Baksha Rahasya,1996,98,Sandip Ray,"Sabyasachi Chakrabarty, Rabi Ghosh, Saswata Chatterjee","Adventure, Mystery, Thriller",7.2
+528,Precious Find,1996,90,Philippe Mora,"Rutger Hauer, Joan Chen, Harold Pruett","Adventure, Sci-Fi, Western",3.7
+529,How the Toys Saved Christmas,1996,78,Enzo D'Alò,"Dario Fo, Mary Tyler Moore, Lella Costa","Animation, Adventure, Family",6.5
+530,Mørkeleg,1996,90,Martin Schmidt,"Line Kruse, Christian Grønvall, Mari-Anne Jespersen",Horror,4.8
+531,Bitter Sugar,1996,75,Leon Ichaso,"René Lavan, Mayte Vilán, Miguel Gutiérrez","Drama, Romance",7.0
+532,Monopol,1996,106,Claes Eriksson,"Knut Agnred, Kerstin Granlund, Peter Rangmar",Comedy,5.9
+533,Organ,1996,110,Kei Fujiwara,"Kei Fujiwara, Kimihiko Hasegawa, Natsuyo Kanahama","Action, Drama, Horror",5.3
+534,Daraar,1996,105,"Abbas Alibhai Burmawalla, Mastan Alibhai Burmawalla","Rishi Kapoor, Juhi Chawla, Arbaaz Khan","Action, Drama, Romance",5.3
+535,The Bruce,1996,107,"Bob Carruthers, David McWhinnie","Sandy Welch, Brian Blessed, Michael Van Wijk","Biography, Drama, History",4.6
+536,Terminal Justice,1996,94,Rick King,"Lorenzo Lamas, Chris Sarandon, Peter Coyote","Action, Sci-Fi, Thriller",4.5
+537,Kadhal Desam,1996,158,Kathir,"Vineeth, Abbas, Tabu","Comedy, Drama, Romance",6.7
+538,La bouche de Jean-Pierre,1996,52,Lucile Hadzihalilovic,"Sandra Sammartino, Denise Aron-Schropfer, Michel Trillot",Drama,6.6
+539,Everything Must Go,1996,105,Jan Verheyen,"Stany Crets, Peter Van den Begin, Bart De Pauw","Comedy, Drama",6.8
+540,Late Bloomers,1996,107,Julia Dyer,"Connie Nelson, Dee Hennigan, Gary Mitchell Carter","Comedy, Drama, Romance",5.9
+541,Sånt är livet,1996,131,Colin Nutley,"Helena Bergström, Lena Nyman, Sverre Anker Ousdal","Drama, Comedy",4.6
+542,Selva,1996,119,A. Venkatesh,"Joseph Vijay, Rajan P. Dev, Jayachitra","Action, Romance",7.2
+543,"Goodbye, Father",1996,85,Luís Filipe Rocha,"Afonso Pimentel, João Lagarto, Laura Soveral",Drama,7.0
+544,Kureyon Shin-chan: Hendârando no daibôken,1996,93,Mitsuru Hongô,"Akiko Yajima, Miki Narahashi, Keiji Fujiwara","Animation, Adventure, Comedy",7.0
+545,Mum Kokulu Kadinlar,1996,89,Irfan Tözüm,"Halil Ergün, Selma Güneri, Sevtap Parman",Drama,4.7
+546,Message to Love: The Isle of Wight Festival,1996,127,Murray Lerner,"Ian Anderson, Joan Baez, Martin Barre","Documentary, History, Music",7.6
+547,Sticks & Stones,1996,95,Neil Tolkin,"Justin Isfeld, Max Goldblatt, Chauncey Leopardi","Drama, Sport",6.2
+548,The Quiet Room,1996,92,Rolf de Heer,"Celine O'Leary, Chloe Ferguson, Paul Blackwell",Drama,6.7
+549,Guy,1996,94,Michael Lindsay-Hogg,"Vincent D'Onofrio, Hope Davis, Kimber Riddle",Drama,6.1
+550,Petticoat Planet,1996,78,David DeCoteau,"Elizabeth Kaitan, Troy Vincent, Lesli Kay","Comedy, Romance, Sci-Fi",2.9
+551,Perfect Love,1996,110,Catherine Breillat,"Isabelle Renauld, Francis Renaud, Laura Saglio","Drama, Romance",6.2
+552,Hard Men,1996,86,J.K. Amalou,"Layla Aldridge, Victoria Bensted, Ross Boatman","Comedy, Crime",5.8
+553,Riot,1996,94,Joseph Merhi,"Gary Daniels, Sugar Ray Leonard, Paige Rowland","Action, Crime, Thriller",5.4
+554,Huntress: Spirit of the Night,1996,86,Mark Manos,"Jenna Bodnar, George Alexandru, Virgil Andriescu","Fantasy, Horror, Mystery",4.0
+555,The Silencers,1996,103,Richard Pepin,"Jack Scalia, Dennis Christopher, Carlos Lauchu","Action, Sci-Fi",4.8
+556,Tere Mere Sapne,1996,146,Joy Augustine,"Chandrachur Singh, Arshad Warsi, Priya Gill","Action, Comedy, Drama",6.2
+557,Clubbed to Death (Lola),1996,90,Yolande Zauberman,"Élodie Bouchez, Roschdy Zem, Béatrice Dalle",Drama,5.5
+558,Lucas me quería a mí,1996,87,"Dunia Ayaso, Félix Sabroso","Jordi Mollà, Pepón Nieto, Roberto Correcher","Comedy, Mystery",5.6
+559,Masseuse,1996,93,Fred Olen Ray,"Griffin Drew, Tim Abell, Monique Parent",Drama,3.5
+560,My Entire Life,1996,112,Nadia Tass,"Colin Friels, Jacqueline McKenzie, Kenneth Radley",Comedy,6.6
+561,Good Luck,1996,92,Richard LaBrie,"Gregory Hines, Vincent D'Onofrio, James Earl Jones","Comedy, Drama",6.1
+562,Darklands,1996,86,Julian Richards,"Craig Fairbrass, Rowena King, Jon Finch","Drama, Horror, Thriller",4.8
+563,Entertaining Angels: The Dorothy Day Story,1996,110,Michael Ray Rhodes,"Moira Kelly, Martin Sheen, Lenny von Dohlen","Biography, Drama, Romance",6.2
+564,Victory,1996,99,Mark Peploe,"Willem Dafoe, Sam Neill, Irène Jacob","Adventure, Drama, Romance",6.2
+565,Timelock,1996,96,Robert Munic,"Maryam d'Abo, Arye Gross, Jeffrey Meek","Action, Sci-Fi",3.2
+566,De zeemeerman,1996,111,Frank Herrebout,"Daniël Boissevain, Gonny Gaakeer, Angelique de Bruijne","Comedy, Fantasy, Romance",2.9
+567,Frankenstein and Me,1996,91,Robert Tinnell,"Jamieson Boulanger, Ricky Mabe, Polly Shannon","Comedy, Family, Fantasy",4.9
+568,Eva Peron: The True Story,1996,120,Juan Carlos Desanzo,"Esther Goris, Víctor Laplace, Cristina Banegas","Biography, Drama, History",6.7
+569,Playback,1996,92,Oley Sassone,"Shannon Whirry, Tawny Kitaen, Charles Grant","Drama, Thriller",4.2
+570,Specimen,1996,85,John Bradshaw,"Mark-Paul Gosselaar, Douglas O'Keeffe, Ingrid Kavelaars",Sci-Fi,4.1
+571,Ullathai Allitha,1996,149,Sundar C.,"Goundamani, Karthik, Rambha",Comedy,7.7
+572,"Delphine 1, Yvan 0",1996,91,Dominique Farrugia,"Julie Gayet, Serge Hazanavicius, Alain Chabat","Comedy, Romance",5.2
+573,Savage,1996,99,Avi Nesher,"Olivier Gruner, Jennifer Grant, Kario Salem","Action, Sci-Fi, Thriller",4.1
+574,Hit Me,1996,125,Steven Shainberg,"Elias Koteas, Laure Marsac, Jay Leggett","Crime, Drama, Thriller",5.4
+575,Mary Jane's Not a Virgin Anymore,1996,98,Sarah Jacobson,"Lisa Gerstein, Chris Enright, Greg Cruikshank","Comedy, Drama, Romance",6.0
+576,Cilantro y perejil,1996,90,Rafael Montero,"Arcelia Ramírez, Demián Bichir, Germán Dehesa","Comedy, Romance",6.3
+577,Baile Perfumado,1996,93,"Paulo Caldas, Lírio Ferreira","Duda Mamberti, Luiz Carlos Vasconcelos, Aramis Trindade","Drama, Western",7.2
+578,Slayers Return,1996,61,"Hiroshi Watanabe, Kunihiko Yuyama","Megumi Hayashibara, Maria Kawamura, Akiko Hiramatsu","Animation, Comedy, Fantasy",6.9
+579,Wedding Bell Blues,1996,102,Dana Lustig,"Illeana Douglas, Paulina Porizkova, Julie Warner","Comedy, Romance",5.1
+580,Repligator,1996,86,Bret McCormick,"Gunnar Hansen, Keith Kjornes, Randy Clower","Action, Comedy, Sci-Fi",3.0
+581,The Stunt Woman,1996,95,Ann Hui,"Michelle Yeoh, Sammo Kam-Bo Hung, Wai-Kwong Lo","Action, Drama",6.1
+582,Illtown,1996,103,Nick Gomez,"Michael Rapaport, Lili Taylor, Adam Trese","Crime, Drama",5.5
+583,Autumn Sun,1996,110,Eduardo Mignogna,"Norma Aleandro, Federico Luppi, Jorge Luz","Comedy, Drama, Romance",7.3
+584,Panna Nikt,1996,98,Andrzej Wajda,"Anna Wielgucka, Anna Mucha, Anna Powierza",Drama,5.9
+585,Robo Warriors,1996,93,Ian Barry,"James Remar, Kyle Howard, James Tolkan","Action, Adventure, Sci-Fi",4.7
+586,The Feast,1996,84,Masud Kimiai,"Fariborz Arabnia, Behzad Khodaveisi, Parsa Pirouzfar","Action, Drama",5.4
+587,Buenos Aires Vice Verse,1996,122,Alejandro Agresti,"Vera Fogwill, Nicolás Pauls, Fernán Mirás","Comedy, Drama",6.9
+588,PremGranth,1996,156,Rajeev Kapoor,"Shammi Kapoor, Rishi Kapoor, Madhuri Dixit","Action, Drama, Musical",5.0
+589,Shadow Play,1996,111,Martine Dugowson,"Helena Bonham Carter, Romane Bohringer, Marie Trintignant","Comedy, Romance",5.8
+590,A Petal,1996,101,Jang Sun-woo,"Lee Jung-hyun, Moon Sung-keun, Lee Yeong-ran","Drama, History",7.0
+591,Des nouvelles du bon Dieu,1996,100,Didier Le Pêcheur,"Marie Trintignant, Maria de Medeiros, Christian Charmetant",Comedy,7.1
+592,Lea,1996,100,Ivan Fíla,"Lenka Vlasáková, Christian Redl, Hanna Schygulla","Drama, Romance",7.2
+593,Small Time,1996,60,Shane Meadows,"Mat Hand, Dena Smiles, Shane Meadows","Comedy, Drama",5.7
+594,Halo,1996,92,Santosh Sivan,"Benaf Dadachandji, Rajkumar Santoshi, Sahil Choujar","Drama, Family",8.3
+595,Cavafy,1996,85,Yannis Smaragdis,"Dimitris Katalifos, Vasilis Diamantopoulos, Magia Lymberopoulou","Biography, Drama",5.7
+596,Lethal Tender,1996,90,John Bradshaw,"Jeff Fahey, Kim Coates, Carrie-Anne Moss","Action, Thriller",4.6
+597,Private Confessions,1996,135,Liv Ullmann,"Pernilla August, Max von Sydow, Samuel Fröler","Biography, Drama",7.2
+598,Friend of the Family II,1996,83,Fred Olen Ray,"Paul Michael Robinson, Shauna O'Brien, Jenna Bodnar",Drama,4.4
+599,Gonin 2,1996,108,Takashi Ishii,"Ken Ogata, Shinobu Ôtake, Kimiko Yo","Action, Crime, Thriller",6.2
+600,Far Harbor,1996,99,John Huddles,"Edward Atterton, Jennifer Connelly, Dan Futterman",Drama,4.6
+601,Little Soldiers,1996,105,Gunnam Gangaraju,"Kavya, Aditya Y.S., Sudhakar","Family, Musical, Comedy",8.0
+602,The Christmas Party,1996,84,Jari Halonen,"Jorma Tommila, Antti Reini, Rauno Juvonen",Comedy,6.9
+603,Ed's Next Move,1996,88,John Walsh,"Matt Ross, Catherine Curtin, Timothy Pilato","Romance, Comedy",6.3
+604,Blue Eyed,1996,90,Bertram Verhaag,"Jane Elliott, Martin Luther King",Documentary,8.3
+605,Polygraph,1996,92,Robert Lepage,"Patrick Goyette, Marie Brassard, Peter Stormare",Crime,6.9
+606,Fallait pas!...,1996,95,Gérard Jugnot,"Michèle Laroque, Gérard Jugnot, François Morel",Comedy,5.3
+607,Krishna,1996,156,"S. Deepak, Deepak S. Shivdasani","Suniel Shetty, Karisma Kapoor, Shakti Kapoor","Action, Drama, Romance",5.3
+608,Somebody Is Waiting,1996,90,Martin Donovan,"Gabriel Byrne, Nastassja Kinski, Johnny Whitworth",Drama,6.1
+609,Ooru naito rongu 3 saishû-shô,1996,76,Katsuya Matsumura,"Yûjin Kitagawa, Ryôka Yuzuki, Tomorô Taguchi",Horror,5.4
+610,True Blue,1996,118,Ferdinand Fairfax,"Johan Leysen, Dominic West, Dylan Baker","Drama, Sport",6.2
+611,The Barber of Rio,1996,105,Giovanni Veronesi,"Diego Abatantuono, Rocco Papaleo, Giuseppe Oristanio",Comedy,6.0
+612,Edie & Pen,1996,96,Matthew Irmas,"Stockard Channing, Jennifer Tilly, Scott Glenn","Comedy, Romance",5.6
+613,Ramayanam,1996,160,Gunasekhar,"N.T. Rama Rao Jr., Smitha Madhav, Swathi","Drama, History",7.5
+614,Space Marines,1996,95,John Weidner,"Billy Wirth, Cady Huffman, John Pyper-Ferguson","Action, Sci-Fi",3.7
+615,Sacred Silence,1996,114,Antonio Capuano,"Fabrizio Bentivoglio, Emanuele Gargiulo, Tonino Taiuti","Crime, Drama",6.3
+616,Zarkorr! The Invader,1996,80,"Aaron Osborne, Michael Deak","Franklin A. Vallette, Don Yanan, Peter Looney",Sci-Fi,3.7
+617,Village of Dreams,1996,112,Yôichi Higashi,"Mieko Harada, Keigo Matsuyama, Shogo Matsuyama","Drama, Family, Fantasy",6.8
+618,The Line King: The Al Hirschfeld Story,1996,86,Susan Warms Dryfoos,"Julie Andrews, Lauren Bacall, Carol Channing","Documentary, Biography",7.3
+619,Intlo Illalu Vantintlo Priyuralu,1996,147,E.V.V. Satyanarayana,"Venkatesh Daggubati, Soundarya, Vineetha","Comedy, Family",7.1
+620,Green Plaid Shirt,1996,87,Richard Natale,"Gregory Phelan, Kevin Spirtas, Richard Israel","Drama, Romance",5.6
+621,Orion's Key,1996,99,Mark Roper,"Frank Zagarino, Todd Jensen, Jennifer MacDonald","Action, Sci-Fi",3.6
+622,Voices Through Time,1996,86,Franco Piavoli,"Patrizio Girardi, Emanuela Cobelli, Laura Carnevali",Drama,7.9
+623,Tiger Heart,1996,90,Georges Chamchoum,"Ted Jan Roberts, Carol Potter, Jennifer Lyons","Action, Adventure, Comedy",4.2
+624,O orgasmos tis ageladas,1996,90,Olga Malea,"Irini Balta, Natalia Stylianou, Eleni Gerasimidou",Comedy,4.6
+625,Boyfriends,1996,81,"Tom Hunsinger, Neil Hunter","James Dreyfus, Mark Sands, Andrew Ableson","Comedy, Drama",5.7
+626,Juloratoriet,1996,124,Kjell-Åke Andersson,"Peter Haber, Johan Widerberg, Henrik Linnros",Drama,5.9
+627,The Last Big Thing,1996,98,Dan Zukovic,"Dan Zukovic, Susan Heimbeinder, Mark Ruffalo","Comedy, Drama",6.4
+628,The Lumière Brothers' First Films,1996,61,Bertrand Tavernier,"Mrs. Auguste Lumiere, Antoine Lumière, Auguste Lumière","Documentary, History",8.1
+629,Bloodfist VIII: Trained to Kill,1996,85,Rick Jacobson,"Don Wilson, John Patrick White, Jillian McWhirter",Action,4.4
+630,The Gingko Bed,1996,88,Kang Je-kyu,"Han Suk-kyu, Shim Hye-jin, Jin Hee-kyung","Action, Fantasy, Horror",5.5
+631,Mr. Bechara,1996,140,Bhagyaraj,"Anil Kapoor, Sridevi, Nagarjuna Akkineni","Comedy, Drama",5.4
+632,Balance of Power,1996,92,Rick Bennett,"Billy Blanks, Mako, Lisa Jai","Action, Drama",4.7
+633,Terminal Rush,1996,94,Damian Lee,"Don Wilson, Michael Anderson Jr., Roddy Piper","Action, Drama, Thriller",3.7
+634,Mask of Death,1996,89,David Mitchell,"Lorenzo Lamas, Rae Dawn Chong, Billy Dee Williams","Action, Crime, Thriller",4.5
+635,Rakshak,1996,164,Ashok Honda,"Suniel Shetty, Karisma Kapoor, Sonali Bendre","Action, Thriller",5.1
+636,Sudden Manhattan,1996,80,Adrienne Shelly,"Adrienne Shelly, Tim Guinee, Roger Rees","Comedy, Drama, Fantasy",6.1
+637,No Contest II,1996,86,Paul Lynch,"Lance Henriksen, Shannon Tweed, Bruce Payne","Action, Crime, Drama",4.3
+638,Fatal Frames,1996,125,Al Festa,"Stefania Stella, Rick Gianasi, David Warbeck","Horror, Mystery",4.0
+639,Past Perfect,1996,92,Jonathan Heap,"Eric Roberts, Laurie Holden, Nick Mancuso","Action, Drama, Sci-Fi",4.9
+640,Mandela,1996,118,"Angus Gibson, Jo Menell","Winnie Mandela, Nelson Mandela, Patrick Shai","Documentary, Biography, History",7.0
+641,"The Typewriter, the Rifle & the Movie Camera",1996,55,Adam Simon,"Samuel Fuller, Tim Robbins, Jim Jarmusch","Documentary, Biography",7.9
+642,Slodko gorzki,1996,90,Wladyslaw Pasikowski,"Rafal Mohr, Rafal Olbrychski, Anita Werner","Drama, Romance",5.1
+643,A Midsummer Night's Dream,1996,105,Adrian Noble,"Lindsay Duncan, Alex Jennings, Desmond Barrit","Comedy, Romance",6.2
+644,Invasion of Privacy,1996,91,Anthony Hickox,"Mili Avital, Johnathon Schaech, Naomi Campbell","Drama, Thriller",4.9
+645,Who Killed Pixote?,1996,116,José Joffily,"Cassiano Carneiro, Luciana Rigueira, Joana Fomm","Biography, Drama",6.7
+646,Minoo Watch Tower,1996,82,Ebrahim Hatamikia,"Niki Karimi, Ali Mosaffa, Mohammad Reza Sharifinia","Drama, War",5.5
+647,Bwana,1996,81,Imanol Uribe,"Andrés Pajares, María Barranco, Emilio Buale","Comedy, Drama",5.7
+648,Brujas,1996,87,Álvaro Fernández Armero,"Penélope Cruz, Ana Álvarez, Beatriz Carvajal",Drama,5.6
+649,Freebird: The Movie,1996,101,Jeff G. Waxman,"Allen Collins, Steve Gaines, Billy Powell",Documentary,8.2
+650,Book of Swords,1996,84,Peter Allen,"Ho-Sung Pak, Liesl Lombardo, Richard Divizio","Action, Drama, Fantasy",4.1
+651,Is Raat Ki Subah Nahin,1996,131,Sudhir Mishra,"Murad Ali, Tarun Kumar Chatterjee, Tara Deshpande","Crime, Thriller",6.9
+652,Amnesia,1996,88,Kurt Voss,"Nicholas Walker, Dara Tomanovich, Sally Kirkland",Thriller,4.4
+653,Portland,1996,103,Niels Arden Oplev,"Anders W. Berthelsen, Michael Muller, Ulrich Thomsen","Crime, Drama",5.8
+654,Butch Camp,1996,101,Alessandro De Gaetano,"Judy Tenuta, Paul Denniston, Jason Teresi",Comedy,5.1
+655,Sweet Angel Mine,1996,88,Curtis Radclyffe,"John Dunsworth, Oliver Milburn, Mike Crimp",Thriller,5.8
+656,White Wolves II: Legend of the Wild,1996,83,Terence H. Winkless,"Elizabeth Berkley, Ele Keats, Jeremy London","Adventure, Family",5.5
+657,Brigands,1996,129,Otar Iosseliani,"Amiran Amiranashvili, Davit Gogibedashvili, Giorgi Tsintsadze","Comedy, Drama",7.0
+658,Babe Watch: Forbidden Parody,1996,93,Rick Sloane,"Raelyn Saalman, Tane McClure, Ashlie Rhey",Comedy,3.0
+659,Dead Girl,1996,104,Adam Coleman Howard,"Anne Parillaud, Adam Coleman Howard, Amanda Plummer",Comedy,4.2
+660,Under the Skin,1996,112,Francisco J. Lombardi,"José Luis Ruiz Barahona, Ana Risueño, Diego Bertie","Crime, Drama, Romance",6.9
+661,Cwal,1996,104,Krzysztof Zanussi,"Maja Komorowska, Bartosz Obuchowicz, Karolina Wajda","Comedy, Drama, History",6.6
+662,Marked Man,1996,94,Marc F. Voizard,"Roddy Piper, Jane Wheeler, Miles O'Keeffe","Action, Crime, Drama",5.2
+663,Brilliant Lies,1996,88,Richard Franklin,"Gia Carides, Anthony LaPaglia, Zoe Carides",Drama,6.0
+664,Sweet Evil,1996,96,René Eram,"Seiko Matsuda, Bridgette Wilson-Sampras, Peter Boyle",Thriller,4.9
+665,Eden,1996,106,Howard Goldberg,"Joanna Going, Dylan Walsh, Sean Patrick Flanery",Drama,5.7
+666,The Empty Mirror,1996,118,Barry J. Hershey,"Norman Rodway, Camilla Søeberg, Peter Michael Goetz","Drama, History, War",5.7
+667,The Slit,1996,75,Christoph Schlingensief,"Udo Kier, Kitten Natividad, Joachim Tomaschewsky",Comedy,5.6
+668,Party,1996,95,Manoel de Oliveira,"Michel Piccoli, Irene Papas, Leonor Silveira","Comedy, Drama",6.4
+669,Listen,1996,101,Gavin Wilding,"Brooke Langton, Sarah Buxton, Gordon Currie","Mystery, Thriller",4.7
+670,Wake Up Love,1996,98,Eliseo Subiela,"Juan Leyrado, Darío Grandinetti, Soledad Silveyra","Comedy, Romance",6.8
+671,Como Nascem os Anjos,1996,100,Murilo Salles,"Priscila Assum, Silvio Guindane, Larry Pine",Drama,7.0
+672,Oedipus Mayor,1996,100,Jorge Alí Triana,"Jorge Perugorría, Ángela Molina, Francisco Rabal","Drama, War",6.0
+673,Rajkumar,1996,146,"Pankaj Parashar, Jaidev Chakraborty","Naseeruddin Shah, Anil Kapoor, Madhuri Dixit","Drama, Family, Fantasy",3.7
+674,Dastak,1996,141,Mahesh Bhatt,"Sushmita Sen, Mukul Dev, Sharad S. Kapoor","Drama, Romance",4.8
+675,Camping Cosmos,1996,88,Jan Bucquoy,"Jean-Henri Compère, Fanny Hanciaux, Lolo Ferrari","Comedy, Fantasy, Romance",5.6
+676,Les caprices d'un fleuve,1996,109,Bernard Giraudeau,"Bernard Giraudeau, Richard Bohringer, Thierry Frémont","Adventure, Drama",6.7
+677,Virtual Encounters,1996,84,Cybil Richards,"Elizabeth Kaitan, Taylor St. Clair, Rob Lee","Drama, Sci-Fi",4.1
+678,Eko Eko Azarak II: Birth of the Wizard,1996,83,Shimako Sato,"Kimika Yoshino, Wataru Shihôdô, Chieko Shiratori",Horror,5.7
+679,Oriental Elegy,1996,45,Aleksandr Sokurov,Aleksandr Sokurov,Drama,7.3
+680,Malena es un nombre de tango,1996,109,Gerardo Herrero,"Ariadna Gil, Marta Belaustegui, Carlos López","Drama, Romance",6.0
+681,Tales of Erotica,1996,170,"Bob Rafelson, Ken Russell, Susan Seidelman","Jim Staley, Jim Staley, Mira Sorvino","Drama, Comedy",4.5
+682,Dying to Go Home,1996,102,"Carlos da Silva, George Sluizer","Diogo Infante, Maria d'Aires, Huub Stapel",Comedy,6.8
+683,Vaanmathi,1996,147,Ahathian,"Ajith Kumar, Swathi, Vadivukkarasi","Romance, Drama",5.6
+684,As You Want Me,1996,100,Carmine Amoroso,"Enrico Lo Verso, Vincent Cassel, Monica Bellucci","Comedy, Drama",5.8
+685,Dinosaur Valley Girls,1996,94,Donald F. Glut,"Jeff Rector, William Marshall, Griffin Drew","Action, Adventure, Comedy",3.3
+686,The Big Squeeze,1996,98,Marcus DeLeon,"Lara Flynn Boyle, Danny Nucci, Peter Dobson","Comedy, Crime, Drama",5.0
+687,Joe's So Mean to Josephine,1996,89,Peter Wellington,"Eric Thal, Sarah Polley, Don McKellar","Crime, Drama, Romance",6.1
+688,Trojan Eddie,1996,105,Gillies MacKinnon,"Stephen Rea, Richard Harris, Stuart Townsend","Crime, Drama, Romance",6.1
+689,L'homme idéal,1996,110,George Mihalka,"Marie-Lise Pilote, Roy Dupuis, Macha Grenon","Comedy, Romance",6.1
+690,Lilian's Story,1996,94,Jerzy Domaradzki,"Ruth Cracknell, Barry Otto, Toni Collette",Drama,6.2
+691,Bag of Rice,1996,80,Mohammad Ali Talebi,"Masume Eskandari, Jairan Abadzade, Shirin Bina","Drama, Family",7.2
+692,Chhote Sarkar,1996,151,Vimal Kumar,"Govinda, Shilpa Shetty Kundra, Aruna Irani","Comedy, Romance, Thriller",4.8
+693,The Little Death,1996,91,Jan Verheyen,"Brent David Fraser, Pamela Gidley, J.T. Walsh","Crime, Drama, Thriller",4.7
+694,Dead Tides,1996,100,Serge Rodnunsky,"Roddy Piper, Tawny Kitaen, Trevor Goddard","Action, Drama, Thriller",4.3
+695,New Kimagure Orange Road: Summer's Beginning,1996,100,"Tatsuya Ishihara, Kunihiko Yuyama","Jessica Calvello, Marcie Corder, Meredith J. Dahl","Animation, Adventure, Comedy",7.4
+696,A három testör Afrikában,1996,84,István Bujtor,"Gábor Koncz, Zoltán Rátóti, Béla Stenczer","Adventure, Comedy, Romance",5.3
+697,Power 98,1996,89,Jaime Hellman,"Eric Roberts, Lisa Thornhill, Jason Gedrick","Action, Mystery, Thriller",4.5
+698,Isiklar Sönmesin,1996,80,Reis Çelik,"Berhan Simsek, Tarik Tarcan, Sermin Karaali",Drama,5.6
+699,Jung,1996,146,Rama Rao Tatineni,"Mithun Chakraborty, Ajay Devgn, Rambha","Action, Crime, Drama",4.5
+700,All of them Witches,1996,100,Daniel Gruener,"Susana Zabaleta, Alejandro Tommasi, Ricardo Blume","Horror, Mystery, Thriller",6.3
+701,Where Truth Lies,1996,97,William H. Molina,"John Savage, Kim Cattrall, Malcolm McDowell","Drama, Mystery, Thriller",4.1
+702,Vesna Goes Fast,1996,92,Carlo Mazzacurati,"Tereza Groszmannová, Antonio Albanese, Silvio Orlando",Drama,6.3
+703,Septej,1996,82,David Ondricek,"Tatiana Dyková, Jan P. Muchow, Jan Cechticky",Romance,6.3
+704,A Step Toward Tomorrow,1996,93,Deborah Reinisch,"Judith Light, Tom Irwin, Christopher Reeve",Drama,6.8
+705,Aldri mer 13!,1996,77,Sirin Eide,"Sofie Cappelen, Martine Karlsen, Anne Krigsvoll","Drama, Family",5.2
+706,Profile for Murder,1996,95,David Winning,"Lance Henriksen, Jason Nash, Joan Severance","Drama, Thriller",5.0
+707,Workaholic,1996,90,Sharon von Wietersheim,"Christiane Paul, Tobias Moretti, Ralf Bauer","Comedy, Romance",4.6
+708,Helpless,1996,80,Shinji Aoyama,"Tadanobu Asano, Ken Mitsuishi, Yôichirô Saitô",Crime,6.2
+709,Szamba,1996,100,Róbert Koltai,"László Görög, Róbert Koltai, Éva Kerekes","Comedy, Drama",6.1
+710,Floating Life,1996,95,Clara Law,"Annette Shun Wah, Annie Yip, Anthony Brandon Wong","Comedy, Drama",6.9
+711,Father's Day,1996,96,Sherry Hormann,"Herbert Knaup, Corinna Harfouch, Richy Müller","Comedy, Romance",6.0
+712,Hi Cousin!,1996,98,Merzak Allouache,"Gad Elmaleh, Messaoud Hattau, Magaly Berdy",Comedy,5.8
+713,Ringer,1996,106,Carlo Gustaff,"Shannon Whirry, Timothy Bottoms, Maud Adams","Drama, Thriller",4.5
+714,The Proposition,1996,99,Strathford Hamilton,"Theresa Russell, Patrick Bergin, Richard Lynch","Adventure, Drama, Romance",4.8
+715,My Friend Joe,1996,101,Chris Bould,"Schuyler Fisk, John Cleere, Stephen McHattie","Drama, Family",6.6
+716,Dead Heart,1996,104,Nick Parsons,"Bryan Brown, Ernie Dingo, Angie Milliken","Drama, Mystery, Thriller",6.6
+717,The Legend of Gator Face,1996,99,Vic Sarin,"John White, Dan Warry-Smith, Charlotte Sullivan","Adventure, Comedy, Family",4.8
+718,Ilona llega con la lluvia,1996,111,Sergio Cabrera,"Margarita Rosa de Francisco, Imanol Arias, Pastora Vega",Drama,6.9
+719,Forgotten Light,1996,105,Vladimír Michálek,"Bolek Polívka, Veronika Zilková, Petr Kavan",Drama,7.2
+720,One Good Turn,1996,90,Tony Randel,"James Remar, Lenny von Dohlen, Suzy Amis",Thriller,5.2
+721,Fake,1996,60,Iku Suzuki,"Yôsuke Akimoto, Masashi Ebara, Gary Gillett","Animation, Comedy, Crime",6.3
+722,Bugged,1996,82,Ronald K. Armstrong,"Priscilla K. Basque, Ronald K. Armstrong, Jeff Lee","Comedy, Horror, Sci-Fi",4.1
+723,Salt Water Moose,1996,93,Stuart Margolin,"Johnny Morina, Katharine Isabelle, Timothy Dalton","Drama, Family",5.8
+724,Countdown,1996,90,Keoni Waxman,"Yûki Amami, Lori Petty, Jason London","Crime, Mystery, Thriller",3.9
+725,Captain Nuke and the Bomber Boys,1996,90,Charles Gale,"Joe Mantegna, Martin Sheen, Joanna Pacula","Comedy, Thriller",4.6
+726,Satan Returns,1996,95,Wai-Lun Lam,"Chingmy Yau, Francis Ng, Donnie Yen","Action, Horror",4.9
+727,Frozen,1996,99,Xiaoshuai Wang,"Hongsheng Jia, Xiaoqing Ma, Yu Bai",Drama,6.5
+728,Les 2 papas et la maman,1996,90,"Jean-Marc Longval, Smaïn","Smaïn, Arielle Dombasle, Antoine de Caunes",Comedy,3.2
+729,Shaman,1996,100,Bartabas,"Spartak Fedotov, Igor Gotesman",Adventure,7.1
+730,Traveling Companion,1996,104,Peter Del Monte,"Michel Piccoli, Asia Argento, Lino Capolicchio",Drama,6.9
+731,Der Bockerer 2,1996,95,Franz Antel,"Karl Merkatz, Caroline Vasicek, Alexander Wussow","Comedy, Drama",6.7
+732,Zone 39,1996,95,John Tatoulis,"Peter Phelps, Carolyn Bock, William Zappa",Sci-Fi,4.6
+733,Diary of a Seducer,1996,95,Danièle Dubroux,"Chiara Mastroianni, Melvil Poupaud, Hubert Saint-Macary","Comedy, Crime, Drama",6.8
+734,The Glass Cage,1996,96,Michael Schroeder,"Horacio Anthony, Fred Asparagus, Collin Bernsen","Drama, Thriller",4.1
+735,Alien Abduction: Intimate Secrets,1996,90,Lucian S. Diamonde,"Darcy DeMoss, Meredyth Holmes, Pía Reyes","Horror, Sci-Fi",3.5
+736,Passage à l'acte,1996,105,Francis Girod,"Daniel Auteuil, Patrick Timsit, Anne Parillaud",Thriller,5.8
+737,Silent Night,1996,83,Dani Levy,"Maria Schrader, Mark Schlichter, Jürgen Vogel","Drama, Romance",6.2
+738,Dangerous Dowry,1996,100,Dennis Satin,"Katja Riemann, Hannes Jaenicke, Heinz Hoenig","Action, Romance",5.9
+739,Sleeping Man,1996,103,Kôhei Oguri,"Christine Hakim, Jun Hamamura, Tokie Hidari",Drama,7.1
+740,First Option,1996,90,Gordon Chan,"Michael Wong, Gigi Leung, Damian Lau","Action, Drama",5.8
+741,Calvary,1996,93,Zvonimir Maycug,"Miran Javorovic, Dubravko Sidor, Vedrana Likan","Drama, Romance, Thriller",6.8
+742,"Cinco Dias, Cinco Noites",1996,100,José Fonseca e Costa,"Paulo Pires, Sinde Filipe, Vítor Norte",Drama,6.6
+743,Cassiopeia,1996,80,Clóvis Vieira,"Osmar Prado, Jonas Mello, Aldo César","Family, Adventure, Animation",6.8
+744,The Size of Watermelons,1996,88,Kari Skogland,"Paul Rudd, Donal Logue, Ione Skye","Comedy, Music",5.3
+745,The Disappearance of Kevin Johnson,1996,105,Francis Megahy,"Pierce Brosnan, James Coburn, Dudley Moore",Comedy,5.3
+746,A Perfect Candidate,1996,105,"R.J. Cutler, David Van Taylor","Don Baker, Mark Goodin, Mark Merritt",Documentary,7.3
+747,Tri-Star,1996,106,Hark Tsui,"Leslie Cheung, Anita Yuen, Ching-Wan Lau","Comedy, Crime, Romance",6.1
+748,Sztracsatella,1996,100,András Kern,"András Kern, Enikõ Eszenyi, Dorottya Udvaros","Comedy, Drama, Romance",5.9
+749,The Nymph,1996,110,Lina Wertmüller,"Stefania Sandrelli, Raoul Bova, Lucia Cara","Drama, Romance",5.8
+750,God's Lonely Man,1996,98,Francis von Zerneck,"Michael Wyle, Jamie Walters, Kyle Kelley",Drama,6.4
+751,Warhead,1996,96,Mark Roper,"Frank Zagarino, Joe Lara, Elizabeth Giordano","Action, Thriller",4.2
+752,Magic in the Mirror,1996,85,Ted Nicolaou,"Jamie Renée Smith, Kevin Wixted, Saxon Trainor","Adventure, Comedy, Family",5.5
+753,Más allá del jardín,1996,90,Pedro Olea,"Concha Velasco, Fernando Guillén, Manuel Bandera","Comedy, Drama",5.9
+754,Gallivant,1996,100,Andrew Kotting,"Andrew Kotting, Eden Kotting, Benji Ming",Documentary,6.9
+755,Bastard Brood,1996,100,Tonie Marshall,"Anémone, Nathalie Baye, François Cluzet","Comedy, Drama",6.1
+756,Pterodactyl Woman from Beverly Hills,1996,97,Philippe Mora,"Jonathan Ball, Cabiria Cardinale, Holley Chant",Comedy,4.6
+757,Judge & Jury,1996,98,John Eyres,"David Keith, Martin Kove, Thomas Ian Nicholas","Action, Horror, Thriller",4.1
+758,Himmat,1996,138,"Sunil Sharma, Anand","Naseeruddin Shah, Sunny Deol, Tabu","Action, Comedy, Drama",4.5
+759,Ajay,1996,146,Suneel Darshan,"Sunny Deol, Karisma Kapoor, Reena Roy","Action, Drama, Romance",4.1
+760,Downhill Willie,1996,90,David Mitchell,"Keith Coogan, Lochlyn Munro, Staci Keanan","Action, Comedy, Sport",4.6
+761,Bubbles Galore,1996,94,Cynthia Roberts,"Nina Hartley, Tracy Wright, Daniel MacIvor",Comedy,3.2
+762,Small Time,1996,96,Jeffrey Reiner,"Glenn Plummer, Patrick Cupo, Ernie Reyes Jr.","Comedy, Crime",6.0
+763,Alone in the Woods,1996,92,John Putch,"Daniel McVicar, Laraine Newman, Sarah Bibb","Comedy, Crime, Family",4.3
+764,Street Corner Justice,1996,102,Charles Bail,"Marc Singer, Steve Railsback, Kim Lankford",Action,4.8
+765,Just for Laughs!,1996,100,Lucas Belvaux,"Ornella Muti, Jean-Pierre Léaud, Antoine Chappey","Comedy, Drama, Romance",6.4
+766,Ladykiller,1996,83,Terence H. Winkless,"Ben Gazzara, Alex McArthur, Stephen Davies",Thriller,4.9
+767,The Blue Collar Worker and the Hairdresser in a Whirl of Sex and Politics,1996,101,Lina Wertmüller,"Tullio Solenghi, Gene Gnocchi, Veronica Pivetti",Comedy,5.6
+768,Ondt blod,1996,90,Carsten Fromberg,"Thomas Bo Larsen, Jens Okking, Anders Nyborg",Drama,6.2
+769,A Moment of Romance III,1996,95,Johnnie To,"Andy Lau, Chien-Lien Wu, Alex Fong","Drama, Romance, War",5.6
+770,Deyyam,1996,86,Ram Gopal Varma,"J.D. Chakravarthi, Jayasudha, Maheshwari",Horror,6.4
+771,Dream Master: The Erotic Invader,1996,86,Jackie Garth,"Lisa Boyle, Patrick Ahern, Kristen Elizabeth","Mystery, Sci-Fi, Thriller",4.6
+772,The Real Thing,1996,89,James Merendino,"James Russo, Jeremy Piven, Fabrizio Bentivoglio","Action, Crime",5.0
+773,Il cielo è sempre più blu,1996,110,Antonello Grimaldi,"Asia Argento, Luca Barbareschi, Margherita Buy",Drama,5.6
+774,The Proprietor,1996,113,Ismail Merchant,"Jeanne Moreau, Sean Young, Sam Waterston",Drama,5.7
+775,The Chain,1996,96,Luca Bercovici,"Luca Bercovici, Gary Busey, Dennis Caparas","Action, Drama, Thriller",4.4
+776,Depraved,1996,95,Rogelio Lobato,"Anthony Guzman, Seidy Lopez, Barbara Niven","Drama, Thriller",3.6
+777,My Uncle the Alien,1996,91,Henri Charr,"Hailey Foster, Josh Paddock, Sherwin Ace Ross","Family, Fantasy, Sci-Fi",2.8
+778,"Angelo, Frédo et Roméo",1996,82,Pierre Plante,"Benoît Brière, Martin Drainville, Luc Guérin",Comedy,1.7
+779,Damien's Seed,1996,90,Edward Holzman,"Matthew Sullivan, Leslie Zemeckis, Jacqueline Lovell","Horror, Mystery",4.9
+780,Childhood's End,1996,115,Jeff Lipsky,"Cameron Foord, Heather Gottlieb, Sam Trammell","Comedy, Drama, Romance",4.6
+781,Sallapam,1996,141,Sundardas,"Dileep, Manju Warrier, Manoj K. Jayan","Drama, Musical, Romance",6.5
+782,Blood Money,1996,90,John Shepphird,"James Brolin, Billy Drago, Dean Tarrolly","Crime, Mystery, Thriller",3.2
+783,Panic Mechanic,1996,102,David Lister,"Leon Schuster, Frantz Dobrowsky, Tolla van der Merwe",Comedy,6.0
+784,Firestorm,1996,90,John Shepphird,"John Savage, Bentley Mitchum, Sherrie Rose","Action, Sci-Fi, Thriller",3.4
+785,Kalloori Vaasal,1996,135,Pavithran,"Ajith Kumar, Prashanth, Pooja Bhatt","Comedy, Romance",4.8
+786,Papa Kahte Hain,1996,143,Mahesh Bhatt,"Anupam Kher, Mayuri Kango, Mayuri Kango",Comedy,4.9
+787,Cadillac Ranch,1996,100,Lisa Gottlieb,"Jim Metzler, Joe Stevens, Bill Wise","Comedy, Drama",5.2
+788,The Elevator,1996,90,"Arthur Borman, Nigel Dick, Rafal Zielinski","Martin Landau, Gabriel Bologna, Gretchen Becker","Comedy, Drama",4.4
+789,Blind Date,1996,90,Theo van Gogh,"Renée Fokker, Peer Mascini, Roeland Fernhout",Drama,6.6
+790,Justine: Seduction of Innocence,1996,94,Lev L. Spiro,"Daneen Boone, Timothy Di Pri, Kimberly Rowe","Drama, Romance",3.8
+791,Goodbye in Chicago,1996,80,Zoran Calic,"Velimir 'Bata' Zivojinovic, Nikola Simic, Lidija Vukicevic","Comedy, Crime",4.4
+792,Hindsight,1996,97,John T. Bone,"Ken Steadman, Cyndi Pass, Kathy Shower",Drama,4.9
+793,When the Bullet Hits the Bone,1996,82,Damian Lee,"Jeff Wincott, Michelle Johnson, Douglas O'Keeffe",Action,4.2
+794,Nammoora Mandaara Hoove,1996,168,Sunil Kumar Desai,"Shivarajkumar, Ramesh Aravind, Prema","Drama, Romance",8.0
+795,Sworn Enemies,1996,101,Shimon Dotan,"Michael Paré, Macha Grenon, Peter Greene","Action, Adventure",4.3
+796,The Delicate Art of the Rifle,1996,93,Dante Harper,"Gabrielle Greigo, Shannon Gelobter, Joy Gewalt","Comedy, Drama, Mystery",7.0
+797,Vice Academy 5,1996,89,Rick Sloane,"Elizabeth Kaitan, Raelyn Saalman, Jayne Hamil","Comedy, Crime, Sci-Fi",3.8
+798,Hide and Seek,1996,63,Su Friedrich,"Chelsea Holland, Ariel Mara, Linzy Taylor","Documentary, Drama",7.2
+799,Skin and Bone,1996,110,Everett Lewis,"Barry Wyatt, Alan Boyce, Nicole Dillenberg","Comedy, Drama",5.1
+800,American Job,1996,95,Chris Smith,"Randy Russell, Matt Collier, Ed English",Drama,7.3
+801,Stage Door,1996,87,Kei Shu,"Josephine Siao, Anita Yuen, Daniel Hiu Tung Chan","Comedy, Drama",7.0
+802,Yöjuna,1996,86,Arto Lehkamo,"Santeri Kinnunen, Vera Kiiskinen, Minna Soisalo","Mystery, Thriller",5.4
+803,Watch Me Fly,1996,80,Vibeke Gad,"Stephanie Leon, Laura Christensen, Pernille Højmark",Drama,5.8
+804,Blondes Have More Guns,1996,90,George Merriweather,"Michael McGaharn, Elizabeth Key, Richard Neil","Comedy, Thriller",4.4
+805,The Prince,1996,140,Suresh Krishna,"Mohanlal, Girish Karnad, Prema","Action, Thriller",4.4
+806,Gry uliczne,1996,100,Krzysztof Krauze,"Redbad Klynstra, Robert Gonera, Grazyna Wolszczak","Crime, Drama, Mystery",6.2
+807,"Privet, duralei!",1996,112,Eldar Ryazanov,"Boris Shcherbakov, Tatyana Drubich, Vyacheslav Polunin","Comedy, Romance",5.3
+808,Follow Me Home,1996,100,Peter Bratt,"Alfre Woodard, Jesse Borrego, Salma Hayek",Drama,6.7
+809,Dil Tera Diwana,1996,139,Lawrence D'Souza,"Saif Ali Khan, Twinkle Khanna, Shatrughan Sinha","Action, Comedy, Drama",4.6
+810,Polymorph,1996,86,J.R. Bookwalter,"James L. Edwards, Ariauna Albright, Tom Hoover","Action, Horror, Sci-Fi",4.0
+811,Rockabilly Vampire,1996,90,Lee Bennett Sobel,"Stephen Blackehart, Paul Stevenson, Margaret Lancaster",Comedy,3.8
+812,Va' dove ti porta il cuore,1996,110,Cristina Comencini,"Virna Lisi, Margherita Buy, Galatea Ranzi","Drama, Romance",5.4
+813,Over the Wire,1996,88,Fred Olen Ray,"Landon Hall, David Christensen, Shauna O'Brien","Drama, Thriller",4.1
+814,Cheyenne,1996,0,Dimitri Logothetis,"Gary Hudson, Bobbie Phillips, Bo Svenson",Western,4.7
+815,Saint-Ex,1996,82,Anand Tucker,"Bruno Ganz, Miranda Richardson, Janet McTeer","Biography, Drama, Fantasy",5.0
+816,Street Angels,1996,91,Billy Hin-Shing Tang,"Chingmy Yau, Michael Tao, Shu Qi","Action, Comedy, Crime",5.4
+817,Sardari Begum,1996,116,Shyam Benegal,"Amrish Puri, Kirron Kher, Smriti Mishra",Drama,7.2
+818,Ee Puzhayum Kadannu,1996,139,Kamal,"Dileep, Manju Warrier, Biju Menon","Drama, Romance, Thriller",6.8
+819,Baby Face Nelson,1996,93,Scott P. Levy,"C. Thomas Howell, Lisa Zane, Doug Wert","Action, Crime, Drama",5.1
+820,Wirus,1996,90,Jan Kidawa-Blonski,"Michal Banach, Marek Barbasiewicz, Jaroslaw Boberek","Action, Thriller",2.9
+821,Dark Secrets,1996,91,John T. Bone,"Justin Carroll, Chanda, Tom Crowl","Drama, Thriller",4.5
+822,The Lord Protector,1996,101,Ryan Carroll,"Olivia Hussey, Patrick Cassidy, Ron Hale","Action, Adventure, Fantasy",3.7
+823,Tu nombre envenena mis sueños,1996,118,Pilar Miró,"Carmelo Gómez, Emma Suárez, Ángel de Andrés López","Drama, Romance, Thriller",6.1
+824,Body of Influence 2,1996,87,Brian J. Smith,"Jodie Fisher, Daniel D. Anderson, Jonathan Goldstein","Drama, Thriller",3.7
+825,Dragon from Shaolin,1996,89,Sai Hung Fung,"Biao Yuen, Vivian Hsu, Kara Ying Hung Wai","Action, Adventure, Comedy",5.5
+826,The Making of the Mahatma,1996,144,Shyam Benegal,"Rajit Kapoor, Pallavi Joshi, Keith Stevenson","Biography, Drama, History",7.1
+827,Drömprinsen - Filmen om Em,1996,107,Ella Lemhagen,"Jenny Lindroth, Pia Johansson, Tomas Norström","Drama, Romance",4.9
+828,"Matías, juez de línea",1996,94,"Santiago Aguilar, Luis Guridi","Carlos de Gabriel, Ramón Barea, Alicia Sánchez","Comedy, Sport",4.9
+829,Everything Relative,1996,110,Sharon Pollack,"Monica Bell, Carol Schneider, Ellen McLaughlin",Drama,5.4
+830,Cresceranno i carciofi a Mimongo,1996,80,Fulvio Ottaviano,"Daniele Liotti, Francesca Schiavo, Valerio Mastandrea",Comedy,6.5
+831,Akwarium,1996,145,Antoni Krauze,"Janusz Gajos, Yuri Smolsky, Witold Pyrkosz",Action,6.7
+832,Land in Between,1996,78,Matteo Garrone,"Pascal, Barbara, Tina",Drama,6.6
+833,Punctul zero,1996,89,Sergiu Nicolaescu,"Darby Hinton, Kathleen Kinmont, Brian McNamara",Drama,4.0
+834,Unforgotten: Twenty-Five Years After Willowbrook,1996,57,Jack Fisher,"Danny Aiello, Geraldo Rivera, Maria Caceres",Documentary,6.5
+835,[Focus],1996,73,Satoshi Isaka,"Tadanobu Asano, Keiko Unno, Akira Hirai","Comedy, Crime, Drama",6.9
+836,Door III,1996,89,Kiyoshi Kurosawa,"Minako Tanaka, Akihiro Nakazawa, Rinko Mayumi","Horror, Sci-Fi, Thriller",6.1
+837,The Girl in the Basement,1996,113,Shayne Worcester,"Kyle Rankin, Mary Skinner, Muriel Kenderdine","Drama, Horror, Thriller",4.3
+838,Mr. Romeo,1996,162,K.S. Ravi,"Prabhu Deva, Shilpa Shetty Kundra, Madhoo","Action, Comedy, Romance",5.4
+839,Vaska Easoff,1996,85,Péter Gothár,"Maksim Sergeev, Evgeniy Sidikhin, Valentina Kasyanova",Comedy,6.6
+840,Hysteria,1996,120,Adel Adeeb,"Sami El-Adl, Adel Adeeb, Hagag Abdel Azim","Comedy, Drama, Musical",6.6
+841,All of a Sudden,1996,97,Herman Yau,"Simon Yam, Irene Wan, Alfred Cheung","Crime, Romance, Thriller",6.1
+842,Coyote Summer,1996,93,Matias Alvarez,"Vinessa Shaw, Adam Beach, Bruce Weitz","Action, Adventure",5.6
+843,The Pupil,1996,92,Olivier Schatzky,"Vincent Cassel, Caspar Salmon, Caroline Cellier",Drama,5.9
+844,To Have & to Hold,1996,99,John Hillcoat,"Tchéky Karyo, Rachel Griffiths, Steve Jacobs","Mystery, Romance, Thriller",5.6
+845,Fistful of Flies,1996,85,Monica Pellizzari,"Dina Panozzo, John Lucantonio, Anna Volska","Drama, Thriller",6.5
+846,Vackert väder,1996,105,David Flamholc,"Mischa Moszkowicz, Stina Beck, Jonte Halldén","Comedy, Drama, Romance",5.2
+847,Bolse vita,1996,97,Ibolya Fekete,"Yuri Fomichev, Igor Chernevich, Aleksey Serebryakov",Drama,7.0
+848,Celluloide,1996,110,Carlo Lizzani,"Giancarlo Giannini, Massimo Ghini, Anna Falchi","Drama, History",6.5
+849,Pon un hombre en tu vida,1996,87,Eva Lesmes,"Cristina Marcos, Toni Cantó, Pere Ponce",Comedy,5.7
+850,The Bloody Child,1996,85,Nina Menkes,"Russ Little, Tinka Menkes, Robert Muller","Crime, Drama",5.0
+851,Kalyana Sougandhikam,1996,138,Vinayan,"Dileep, Divyaa Unni, Jagadish","Comedy, Drama, Romance",6.1
+852,La lupa,1996,95,Gabriele Lavia,"Monica Guerritore, Giancarlo Giannini, Michele Placido",Drama,4.8
+853,Milk & Money,1996,86,Michael Bergmann,"Robert Petkoff, Harsh Nayyar, Sarah Winkler","Comedy, Romance",5.0
+854,That's Cunning! Shijo saidai no sakusen,1996,99,Hiroshi Sugawara,"Tatsuya Yamaguchi, Namie Amuro, Sadatora Araki",Comedy,6.4
+855,Never Too Late,1996,96,Giles Walker,"Olympia Dukakis, Jean Lapointe, Jan Rubes","Drama, Comedy",5.6
+856,Fotos,1996,93,Elio Quiroga,"Gustavo Salmerón, Mercedes Ortega, Miguel Molina","Crime, Drama, Horror",5.4
+857,Tiré à part,1996,85,Bernard Rapp,"Terence Stamp, Daniel Mesguich, Maria de Medeiros","Thriller, Drama",6.5
+858,Joyeux Calvaire,1996,89,Denys Arcand,"Lorne Brass, Gaston Lepage, Benoît Brière",Drama,7.0
+859,Das Zauberbuch,1996,80,Václav Vorlícek,"Mahulena Bocanová, Tina Ruland, Rudolf Hrusínský","Comedy, Family, Fantasy",5.8
+860,Journey to Chazzabeh,1996,84,Rasool Mollagholi Poor,"Habib Allahyari, Farhad Aslani, Habib Dehghan Nasab",War,5.7
+861,Fox Hunt,1996,95,Michael Berns,"Andrew Bowen, Robia Scott, Timothy Bottoms","Action, Comedy",5.0
+862,Decak iz Junkovca,1996,95,Dejan Zecevic,"Radomir Belacevic, Nadja Bobic, Marko M. Dabovic","Documentary, Comedy, Mystery",8.5
+863,Le coeur fantôme,1996,87,Philippe Garrel,"Luis Rego, Aurélia Alcaïs, Maurice Garrel",Drama,7.0
+864,Heat After Dark,1996,50,Ryûhei Kitamura,"Shigeru Izumiya, Toshiyuki Kitami, Masami Miyata","Action, Crime",5.7
+865,Sahasa Veerudu Sagara Kanya,1996,139,K. Raghavendra Rao,"Venkatesh Daggubati, Shilpa Shetty Kundra, Malasri","Action, Adventure, Fantasy",5.8
+866,Papà dice messa,1996,100,Renato Pozzetto,"Renato Pozzetto, Teo Teocoli, Felice Andreasi",Comedy,5.2
+867,The Naked Detective,1996,84,Ernest G. Sauer,"J.B. Gardiner, Julia Parton, Gregory Tracy",Comedy,4.8
+868,The Undercover Kid,1996,80,Linda Shayne,"Bradley Pierce, Melora Hardin, Nicolas Surovy",Family,4.1
+869,Fede tider,1996,55,Peter Bay,"Ken Vedsegaard, Sofie Gråbøl, Martin Brygmann",Comedy,6.1
+870,África,1996,95,Alfonso Ungría,"Imanol Arias, Julie Carmen, Zoe Berriatúa",Drama,5.6
+871,Como un relámpago,1996,105,Miguel Hermoso,"Santiago Ramos, Assumpta Serna, Eloy Azorín",Drama,6.5
+872,Hungry for You,1996,92,Dimitri Logothetis,"Michael Phenicie, Rochelle Swanson, Gary Wood","Sci-Fi, Thriller",3.4
+873,Reggie's Prayer,1996,94,Paul McKellips,"Cylk Cozart, Allan Creel, Emilio Delgado","Drama, Sport",4.6
+874,The Last Home Run,1996,93,Bob Gosse,"Tom Guiry, Danielle Comerford, Jonathan Flax","Family, Fantasy, Sport",5.5
+875,Dharma Chakram,1996,144,Suresh Krishna,"Venkatesh Daggubati, Ramya Krishnan, Prema",Drama,7.0
+876,Our Yard,1996,101,Mikael Dovlatyan,"Hrant Tokhatyan, Ashot Ghazaryan, Armen Khostikyan","Comedy, Musical",8.2
+877,Fourbi,1996,114,Alain Tanner,"Karin Viard, Jean-Quentin Châtelain, Cécile Tanner",Drama,6.2
+878,Revizor,1996,100,Sergey Gazarov,"Nikita Mikhalkov, Marina Neyolova, Anna Mikhalkova",Comedy,6.2
+879,Horrible High Heels,1996,97,"Wei-An Chen, Cheng Chow, Tsiang-Pang Mao","Hsiao-Lao Lin, Shing Fui-On, Dick Wei",Crime,4.4
+880,Cyberella: Forbidden Passions,1996,87,Jackie Garth,"Debra K. Beatty, Marshall Hilliard, Rebecca Taylor","Drama, Fantasy, Romance",4.2
+881,Anna Oz,1996,98,Eric Rochant,"Charlotte Gainsbourg, Gérard Lanvin, Sami Bouajila","Drama, Mystery, Thriller",6.0
+882,The Snow Queen's Revenge,1996,64,Martin Gates,"Julia McKenzie, Patrick Barlow, Ellie Beaven",Animation,5.2
+883,Mutant Man,1996,77,Suzanne DeLaurentiis,"Sulva von Woltor, Susan Levin, Jonathan Nurkiewicz","Horror, Comedy",2.8
+884,Screwed,1996,85,Alexander Crawford,"Al Goldstein, Michael J. Anderson, David Aaron Clark",Documentary,5.9
+885,Festival,1996,108,Im Kwon-taek,"Byeong-kyeong Ahn, Lee Eol, Kim Gyung-ae","Comedy, Drama",7.3
+886,Spirit Lost,1996,90,Neema Barnette,"James Avery, Deacon Dawson, Yvonne Erickson","Drama, Horror",4.3
+887,Twisted,1996,100,Seth Michael Donsky,"Ray Aranha, Keivyn McNeill Grayes, Elise Ballard",Drama,4.7
+888,Dragon Fury II,1996,100,Bryan Michael Stoller,"Robert Chapin, Mike Norris, Walter O'Neil","Action, Sci-Fi",5.9
+889,American Tigers,1996,95,David Worth,"Sam J. Jones, Cynthia Rothrock, Donald Gibb",Action,4.1
+890,Gulabi,1996,138,Krishna Vamsi,"J.D. Chakravarthi, Maheshwari, Brahmaji","Action, Romance",7.1
+891,Out of the Present,1996,96,Andrei Ujica,"Anatoli Arzebarski, Sergei Krikalev, Helen Sharman",Documentary,7.0
+892,Sister Island,1996,109,Avery Crounse,"Kathleen York, Karen Black, Ed Nelson",Drama,6.8
+893,Cachito,1996,95,Enrique Urbizu,"Jorge Perugorría, Sancho Gracia, Amara Carmona","Adventure, Drama, Crime",5.4
+894,Vite strozzate,1996,108,Ricky Tognazzi,"Vincent Lindon, Sabrina Ferilli, Luca Zingaretti","Crime, Drama",5.6
+895,Devaraagam,1996,144,Bharathan,"Arvind Swamy, Sridevi, Nedumudi Venu","Drama, Romance",7.0
+896,El último viaje de Robert Rylands,1996,102,Gracia Querejeta,"Lalita Ahmed, Kenneth Colley, Karl Collins",Drama,6.0
+897,Indraprastham,1996,137,K.K. Haridas,"Mammootty, Simran, Devan","Crime, Thriller",5.1
+898,Picado fino,1996,80,Esteban Sapir,"Belén Blanco, Marcela Guerty, Facundo Luengo",Drama,7.0
+899,Born to Kill,1996,110,Hyeon-su Jang,"Jung Woo-sung, Shim Eun-ha, Jo Kyeong-hwan","Action, Romance",5.2
+900,Feel 100%,1996,97,Joe Ma,"Ekin Cheng, Sammi Cheng, Gigi Leung","Comedy, Romance",6.2
+901,Swapna Lokathe Balabhaskaran,1996,130,Rajasenan,"Jayaram, Annie, Dileep","Comedy, Drama, Romance",5.8
+902,Fareb,1996,147,Vikram Bhatt,"Faraaz Khan, Suman Ranganath, Ashok Lath","Action, Crime, Drama",4.8
+903,Dead of Night,1996,95,Kristoffer Tabori,"John Enos III, Kathleen Kinmont, Robert Knepper",Horror,4.3
+904,Starlight,1996,100,Jonathon Kay,"Rae Dawn Chong, Billy Wirth, Willie Nelson",Sci-Fi,2.3
+905,The Little Cat,1996,80,Ivan Popov,"Andrei Kuznetsov, Lyudmila Arinina, Aleksey Voytyuk","Adventure, Family",7.1
+906,Le cri de la soie,1996,110,Yvon Marciano,"Sergio Castellitto, Marie Trintignant, Anémone","Drama, Romance",6.7
+907,Flipping,1996,102,Gene Mitchell,"David Amos, David Proval, Gene Mitchell","Crime, Drama",4.2
+908,Paris Was a Woman,1996,75,Greta Schiller,"Juliet Stevenson, Maureen All, Gillian Hanna",Documentary,7.3
+909,Same River Twice,1996,103,Scott Featherstone,"Robert Curtis Brown, John Putch, Shea Farrell",Drama,5.5
+910,Mind Rage,1996,90,Mark Allen Michaels,"Tamara Clatterbuck, Michael Rogue, Charles Hallahan",Thriller,4.0
+911,Loser,1996,80,Kirk Harris,"Kirk Harris, Jonathon Chaus, Norman Saleet",Drama,4.2
+912,Wu shan yun yu,1996,96,Ming Zhang,"Xiu Jiang, Bing Li, Shengguo Wang","Comedy, Drama",7.0
+913,Toad Warrior,1996,80,"Donald G. Jackson, Scott Shaw","Scott Shaw, Joe Estevez, Conrad Brooks","Action, Sci-Fi",1.9
+914,Color of a Brisk and Leaping Day,1996,87,Christopher Munch,"Peter Alexander, Jeri Arredondo, Henry Gibson",Drama,6.2
+915,Akropol,1996,125,Pantelis Voulgaris,"Lefteris Voyatzis, Stavros Paravas, Konstantinos Tzoumas","Musical, Drama",6.3
+916,The Imp,1996,96,Kai-Ming Lai,"Diana Pang, Mark Ho-nam Cheng, Emiko Ishizuka",Horror,4.5
+917,Last Resort,1996,86,Lyman Dayton,"Davino Buzzotta, Stephanie Dicker, Justin Walker","Action, Adventure, Drama",4.8
+918,Reasons of the Heart,1996,96,Rick Jacobson,"Terry Farrell, Jim Davidson, Mimi Kennedy",Romance,5.9
+919,Demon in the Bottle,1996,85,Randall William Cook,"Ashley Tesoro, Michael Malota, Rahi Azizi","Adventure, Family, Fantasy",5.2
+920,Mischievous,1996,97,Mike Sedan,"Doug Jeffery, Jennifer Burton, Christopher Abraham",Thriller,4.3
+921,Segurista,1996,111,Tikoy Aguiluz,"Michelle Aldana, Gary Estrada, Ruby Moreno",Drama,6.4
+922,Army Daze,1996,85,Keng Sen Ong,"Sheikh Haikel, David Yong, Adrian Lim",Comedy,6.0
+923,Rokovye yaytsa,1996,119,Sergei Lomkin,"Oleg Yankovskiy, Andrey Tolubeev, Nina Usatova","Comedy, Sci-Fi",4.7
+924,Somebody Up There Likes Me,1996,108,Patrick Leung,"Aaron Kwok, Carman Lee, Sammo Kam-Bo Hung","Action, Drama",6.1
+925,The Days Without Lei Feng,1996,100,"Ning Kang, Xianhe Lei","Peiqi Liu, Chunli Song, Xin Liu","Biography, Drama",6.3
+926,Spellbreaker: Secret of the Leprechauns,1996,85,Ted Nicolaou,"Gregory Smith, Madeleine Potter, Godfrey James","Family, Fantasy, Horror",4.4
+927,Snitch,1996,97,Keith Markinson,"William McNamara, Biff Manard, Rich Willis","Action, Crime",4.7
+928,The Leopard Son,1996,87,Hugo Van Lawick,John Gielgud,Documentary,7.4
+929,The Macabre Pair of Shorts,1996,76,Scott Mabbutt,"Rick Benattar, David Boreanaz, Patrick Bradley","Comedy, Horror",3.6
+930,Layin' Low,1996,96,Danny Leiner,"Jeremy Piven, Louise Lasser, Edie Falco",Comedy,5.0
+931,Total Force,1996,93,Steven Kaman,"Timothy Bottoms, Rustam Branaman, J.D. Rifkin","Action, Sci-Fi, Thriller",2.6
+932,Overkill,1996,88,Dean Raphael Ferrandini,"Aaron Norris, Michael Nouri, Kenneth Moskow","Action, Thriller",4.5
+933,Lowball,1996,99,Demian Lichtenstein,"Peter Greene, Erik Schrody, Luis Moro","Action, Crime, Drama",4.9
+934,How to Meet the Lucky Stars,1996,112,Frankie Chan,"Sammo Kam-Bo Hung, Eric Tsang, Michael Kiu Wai Miu",Comedy,5.3
+935,Tramway to Malvarrosa,1996,107,José Luis García Sánchez,"Liberto Rabal, Jorge Merino, Sergio Villanueva","Comedy, Drama",5.8
+936,Wildly Available,1996,92,Michael Nolin,"Kristoffer Tabori, Jennifer Sommerfeld, Jane Kaczmarek",Drama,3.9
+937,Night Shade,1996,96,Fred Olen Ray,"Tim Abell, Cory Lane, Tane McClure",Horror,3.7
+938,Parklands,1996,51,Kathryn Millard,"Cate Blanchett, Tony Martin, Carmel Johnson",Drama,5.5
+939,Shadow of a Scream,1996,88,Howard McCain,"Timothy Busfield, Athena Massey, David Chokachi","Action, Thriller",4.4
+940,Brittle Glory,1996,84,Stewart Schill,"Tony Curtis, Arye Gross, Ally Walker","Comedy, Drama",5.4
+941,Bob's Weekend,1996,93,Jevon O'Neill,"Bruce Jones, Mark Goodier, James Chambers","Comedy, Drama, Romance",5.4
+942,The Escort,1996,92,Denis Langlois,"Paul-Antoine Taillefer, Eric Cabana, Robin Aubert",Comedy,5.3
+943,Justine: In the Heat of Passion,1996,89,David Cove,"Daneen Boone, Timothy Di Pri, Kimberly Rowe","Adventure, Romance",4.1
+944,Subterfuge,1996,95,Herb Freed,"Matt McColm, Amanda Pays, Jason Gould","Action, Drama",4.1
+945,Amanda,1996,83,Bobby Roth,"Kieran Culkin, Dennis Haysbert, Alice Krige","Drama, Family",5.3
+946,Swann,1996,96,Anna Benson Gyles,"Brenda Fricker, Miranda Richardson, Michael Ontkean","Drama, Romance",5.1
+947,Walnut Creek,1996,103,Edward Holzman,"Kate Rodger, Rochelle Swanson, David Christensen","Drama, Romance, Thriller",3.8
+948,Amsterdam Global Village,1996,245,Johan van der Keuken,Julika Marijn,Documentary,7.4
+949,Wana,1996,106,Kaizô Hayashi,"Masatoshi Nagase, Yui Natsukawa, Tomoko Yamaguchi","Drama, Mystery",6.7
+950,Minor Mappillai,1996,148,V.C. Guhanathan,"Ajith Kumar, Ranjith, Rajkumar",Comedy,4.8
+951,Love Birds,1996,160,P. Vasu,"Apache Indian, Prabhu Deva, Aachi Manorama",Romance,5.1
+952,Kisses on the Forehead,1996,95,Carlos Galettini,"Leonardo Sbaraglia, China Zorrilla, Claudio García Satur",Drama,6.2
+953,Absolute Aggression,1996,91,J. Christian Ingvordsen,"Robert Davi, Kayle Watson, Terry Anderson","Action, Sci-Fi, Thriller",3.3
+954,Bal Bramhachari,1996,163,"Prakash Mehra, Dinesh Mahadev, Bindu Shukla","Puru Rajkumar, Karisma Kapoor, Deepak Tijori","Action, Drama",3.5
+955,Painted Hero,1996,105,Terry Benedict,"Dwight Yoakam, Michelle Joyner, Kiersten Warren","Drama, Thriller",5.4
+956,Self-Portrait with a Lover,1996,83,Radoslaw Piwowarski,"Miroslaw Baka, Tomasz Bednarek, Waldemar Blaszczyk","Drama, Romance",5.8
+957,Double-Blind,1996,76,"Sophie Calle, Greg Shephard","Sophie Calle, Greg Shephard","Documentary, Biography, Romance",7.1
+958,Encore,1996,96,Pascal Bonitzer,"Jackie Berroyer, Valeria Bruni Tedeschi, Natacha Régnier","Comedy, Romance, Drama",6.0
+959,Never Ever,1996,110,Charles Finch,"Sandrine Bonnaire, Jane March, Charles Finch",Drama,4.5
+960,Never Met Picasso,1996,101,Stephen Kijak,"Alexis Arquette, Georgia Ragsdale, Margot Kidder","Comedy, Drama, Romance",5.6
+961,Ek Tha Raja,1996,150,Dayal Nihalani,"Aditya Pancholi, Suniel Shetty, Saif Ali Khan","Action, Thriller",4.0
+962,John Henrik Clarke: A Great and Mighty Walk,1996,90,St. Clair Bourne,"John Henrik Clarke, Cheikh Anta Diop, Marcus Garvey","Documentary, Biography",7.7
+963,Adhirindhi Alludu,1996,140,E.V.V. Satyanarayana,"Annapurna, Mohan Babu, Brahmanandam",Drama,8.6
+964,La mia generazione,1996,95,Wilma Labate,"Claudio Amendola, Silvio Orlando, Francesca Neri",Drama,6.6
+965,Afarit el-Asfalt,1996,120,Osama Fawzy,"Mahmoud Hemida, Salwa Khattab, Abdalla Mahmoud","Action, Drama, Thriller",6.8
+966,Showgirl Murders,1996,82,Dave Payne,"Maria Ford, Jeffrey Douglas, Matt Preston","Action, Thriller",3.8
+967,Pelli Sandadi,1996,129,K. Raghavendra Rao,"Srikanth, Meka Srikanth, Ravali","Musical, Romance",6.9
+968,Red Persimmon,1996,168,Toon Wang,"Shu Tao, Chun Shih, Chuan Wang","Drama, History",7.8
+969,Samounistuvanje,1996,97,Erbil Altanay,"Jovica Mihajlovski, Katerina Kocevska, Oliver Mitkovski",Comedy,7.6
+970,The Bible and Gun Club,1996,87,Daniel J. Harris,"Andy Kallok, Don Yanan, Sue Ozeran","Comedy, Drama",7.0
+971,Kaliveedu,1996,126,Sibi Malayil,"Jayaram, Manju Warrier, Vani Viswanath","Comedy, Drama",6.1
+972,Drømmen om kaptein Sabeltanns rike,1996,67,Terje Formoe,"Fredrik Hognerud Træland, Sverre Haagensen, Terje Formoe","Adventure, Family",5.7
+973,Playing Dangerous 2,1996,97,Lawrence Lanoff,"Mikey LeBeau, Richard Gilliland, David Kriegel","Action, Comedy, Crime",3.8
+974,Evil Obsession,1996,95,Richard W. Munchkin,"Corey Feldman, Kimberly Stevens, Mark Derwin",Thriller,3.8
+975,Entre Pancho Villa y una mujer desnuda,1996,87,"Sabina Berman, Isabelle Tardán","Diana Bracho, Arturo Ríos, Jesús Ochoa","Comedy, Fantasy, History",6.4
+976,War of the Under World,1996,97,Herman Yau,"Tony Leung Chiu-wai, Jordan Chan, Carman Lee","Action, Crime",6.1
+977,Senrei,1996,93,Kenichi Yoshihara,"Rie Imamura, Lisa Akikawa, Mie Yoshida","Crime, Drama, Horror",5.4
+978,Breathing Room,1996,90,Jon Sherman,"Susan Floyd, Dan Futterman, Joanna Chang","Comedy, Romance",4.9
+979,Silent Lies,1996,88,Peter Kiwitt,"Elizabeth Anne Allen, Dana Daurey, Michael Harris","Crime, Drama",6.7
+980,Penniless Hearts,1996,103,Giuseppe Piccioni,"Giulio Scarpati, Gene Gnocchi, Margherita Buy","Comedy, Romance",6.2
+981,Blind Romance,1996,99,Long-Cheung Tam,"Chingmy Yau, Tony Leung Chiu-wai, Dennis Chan","Comedy, Drama, Romance",6.6
+982,Whirlpool of Passion,1996,125,Stojan Stojcic,"Maja Stojanovic, Rade Serbedzija, Meto Jovanovski",Drama,5.4
+983,Dilliwala Rajakumaran,1996,132,Rajasenan,"Jayaram, Manju Warrier, Kalabhavan Mani","Comedy, Drama",6.0
+984,O Guarani,1996,91,Norma Bengell,"Marcio Garcia, Tatiana Issa, Glória Pires","Drama, Romance",4.5
+985,Sélect Hôtel,1996,85,Laurent Bouhnik,"Julie Gayet, Jean-Michel Fête, Serge Blumental",Drama,6.4

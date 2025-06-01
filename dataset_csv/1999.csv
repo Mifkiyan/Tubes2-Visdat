@@ -1,0 +1,988 @@
+ID,Name,Year,Duration,Directors,Actors,Genres,Rating
+1,Fight Club,1999,139,David Fincher,"Brad Pitt, Edward Norton, Meat Loaf","Crime, Drama, Thriller",8.8
+2,The Matrix,1999,136,"Lana Wachowski, Lilly Wachowski","Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss","Action, Sci-Fi",8.7
+3,The Green Mile,1999,189,Frank Darabont,"Tom Hanks, Michael Clarke Duncan, David Morse","Crime, Drama, Fantasy",8.6
+4,American Beauty,1999,122,Sam Mendes,"Kevin Spacey, Annette Bening, Thora Birch",Drama,8.3
+5,The Sixth Sense,1999,107,M. Night Shyamalan,"Bruce Willis, Haley Joel Osment, Toni Collette","Drama, Mystery, Thriller",8.2
+6,Star Wars: Episode I - The Phantom Menace,1999,136,George Lucas,"Ewan McGregor, Liam Neeson, Natalie Portman","Action, Adventure, Fantasy",6.5
+7,Toy Story 2,1999,92,"John Lasseter, Ash Brannon, Lee Unkrich","Tom Hanks, Tim Allen, Joan Cusack","Animation, Adventure, Comedy",7.9
+8,The Mummy,1999,124,Stephen Sommers,"Brendan Fraser, Rachel Weisz, John Hannah","Action, Adventure, Fantasy",7.1
+9,American Pie,1999,95,Paul Weitz,"Jason Biggs, Chris Klein, Thomas Ian Nicholas",Comedy,7.0
+10,10 Things I Hate About You,1999,97,Gil Junger,"Heath Ledger, Julia Stiles, Joseph Gordon-Levitt","Comedy, Drama, Romance",7.4
+11,Eyes Wide Shut,1999,159,Stanley Kubrick,"Tom Cruise, Nicole Kidman, Todd Field","Drama, Mystery, Thriller",7.5
+12,Sleepy Hollow,1999,105,Tim Burton,"Johnny Depp, Christina Ricci, Miranda Richardson","Fantasy, Horror, Mystery",7.3
+13,Notting Hill,1999,124,Roger Michell,"Hugh Grant, Julia Roberts, Richard McCabe","Comedy, Drama, Romance",7.2
+14,Being John Malkovich,1999,113,Spike Jonze,"John Cusack, Cameron Diaz, Catherine Keener","Comedy, Drama, Fantasy",7.7
+15,Magnolia,1999,188,Paul Thomas Anderson,"Tom Cruise, Jason Robards, Julianne Moore",Drama,8.0
+16,The Blair Witch Project,1999,81,"Daniel Myrick, Eduardo Sánchez","Heather Donahue, Michael C. Williams, Joshua Leonard","Horror, Mystery",6.5
+17,Office Space,1999,89,Mike Judge,"Ron Livingston, Jennifer Aniston, David Herman",Comedy,7.6
+18,The Talented Mr. Ripley,1999,139,Anthony Minghella,"Matt Damon, Gwyneth Paltrow, Jude Law","Crime, Drama, Thriller",7.4
+19,Tarzan,1999,88,"Chris Buck, Kevin Lima","Tony Goldwyn, Minnie Driver, Brian Blessed","Animation, Adventure, Comedy",7.3
+20,The Boondock Saints,1999,108,Troy Duffy,"Willem Dafoe, Sean Patrick Flanery, Norman Reedus","Action, Crime, Thriller",7.6
+21,Austin Powers: The Spy Who Shagged Me,1999,95,Jay Roach,"Mike Myers, Heather Graham, Michael York","Action, Adventure, Comedy",6.7
+22,The Iron Giant,1999,86,Brad Bird,"Eli Marienthal, Harry Connick Jr., Jennifer Aniston","Animation, Action, Adventure",8.1
+23,Big Daddy,1999,93,Dennis Dugan,"Adam Sandler, Joey Lauren Adams, Jon Stewart","Comedy, Drama",6.4
+24,Dogma,1999,130,Kevin Smith,"Ben Affleck, Matt Damon, Linda Fiorentino","Adventure, Comedy, Drama",7.3
+25,"Girl, Interrupted",1999,127,James Mangold,"Winona Ryder, Angelina Jolie, Clea DuVall","Biography, Drama",7.3
+26,"South Park: Bigger, Longer & Uncut",1999,81,Trey Parker,"Trey Parker, Matt Stone, Mary Kay Bergman","Animation, Comedy, Fantasy",7.7
+27,The World Is Not Enough,1999,128,Michael Apted,"Pierce Brosnan, Sophie Marceau, Robert Carlyle","Action, Adventure, Thriller",6.4
+28,Cruel Intentions,1999,97,Roger Kumble,"Sarah Michelle Gellar, Ryan Phillippe, Reese Witherspoon","Drama, Romance",6.8
+29,The Ninth Gate,1999,133,Roman Polanski,"Johnny Depp, Frank Langella, Lena Olin","Mystery, Thriller",6.7
+30,The Bone Collector,1999,118,Phillip Noyce,"Denzel Washington, Angelina Jolie, Queen Latifah","Crime, Drama, Mystery",6.7
+31,The Insider,1999,157,Michael Mann,"Russell Crowe, Al Pacino, Christopher Plummer","Biography, Drama, History",7.8
+32,Galaxy Quest,1999,102,Dean Parisot,"Tim Allen, Sigourney Weaver, Alan Rickman","Adventure, Comedy, Sci-Fi",7.4
+33,Three Kings,1999,114,David O. Russell,"George Clooney, Mark Wahlberg, Ice Cube","Action, Adventure, Comedy",7.1
+34,The Virgin Suicides,1999,97,Sofia Coppola,"Kirsten Dunst, Josh Hartnett, James Woods","Drama, Romance",7.2
+35,Wild Wild West,1999,106,Barry Sonnenfeld,"Will Smith, Kevin Kline, Kenneth Branagh","Action, Comedy, Sci-Fi",4.9
+36,Analyze This,1999,103,Harold Ramis,"Robert De Niro, Billy Crystal, Lisa Kudrow","Comedy, Crime",6.7
+37,Stuart Little,1999,84,Rob Minkoff,"Michael J. Fox, Geena Davis, Hugh Laurie","Adventure, Comedy, Family",6.0
+38,Payback,1999,100,Brian Helgeland,"Mel Gibson, Gregg Henry, Maria Bello","Action, Crime, Drama",7.1
+39,Deep Blue Sea,1999,105,Renny Harlin,"Thomas Jane, Saffron Burrows, Samuel L. Jackson","Action, Adventure, Sci-Fi",5.9
+40,8MM,1999,123,Joel Schumacher,"Nicolas Cage, Joaquin Phoenix, James Gandolfini","Crime, Drama, Mystery",6.6
+41,Man on the Moon,1999,118,Milos Forman,"Jim Carrey, Danny DeVito, Gerry Becker","Biography, Comedy, Drama",7.4
+42,The 13th Warrior,1999,102,John McTiernan,"Antonio Banderas, Diane Venora, Dennis Storhøi","Action, Adventure, History",6.6
+43,Any Given Sunday,1999,162,Oliver Stone,"Al Pacino, Dennis Quaid, Cameron Diaz","Drama, Sport",6.9
+44,Bicentennial Man,1999,132,Chris Columbus,"Robin Williams, Embeth Davidtz, Sam Neill","Drama, Romance, Sci-Fi",6.9
+45,Entrapment,1999,113,Jon Amiel,"Sean Connery, Catherine Zeta-Jones, Ving Rhames","Action, Crime, Romance",6.3
+46,End of Days,1999,122,Peter Hyams,"Arnold Schwarzenegger, Gabriel Byrne, Robin Tunney","Action, Fantasy, Horror",5.8
+47,eXistenZ,1999,97,David Cronenberg,"Jude Law, Jennifer Jason Leigh, Ian Holm","Horror, Mystery, Sci-Fi",6.8
+48,Election,1999,103,Alexander Payne,"Matthew Broderick, Reese Witherspoon, Loren Nelson","Comedy, Romance",7.2
+49,Runaway Bride,1999,116,Garry Marshall,"Julia Roberts, Richard Gere, Joan Cusack","Comedy, Romance",5.6
+50,She's All That,1999,95,Robert Iscove,"Freddie Prinze Jr., Rachael Leigh Cook, Matthew Lillard","Comedy, Romance",5.9
+51,The Cider House Rules,1999,126,Lasse Hallström,"Tobey Maguire, Charlize Theron, Michael Caine","Drama, Romance",7.4
+52,All About My Mother,1999,101,Pedro Almodóvar,"Cecilia Roth, Marisa Paredes, Candela Peña","Comedy, Drama, Romance",7.8
+53,Boys Don't Cry,1999,118,Kimberly Peirce,"Hilary Swank, Chloë Sevigny, Peter Sarsgaard","Biography, Crime, Drama",7.5
+54,The Hurricane,1999,146,Norman Jewison,"Denzel Washington, Vicellous Shannon, Deborah Kara Unger","Biography, Drama, Sport",7.6
+55,The Straight Story,1999,112,David Lynch,"Richard Farnsworth, Sissy Spacek, Jane Galloway Heitz","Biography, Drama",8.0
+56,The Thomas Crown Affair,1999,113,John McTiernan,"Pierce Brosnan, Rene Russo, Denis Leary","Crime, Romance, Thriller",6.9
+57,October Sky,1999,108,Joe Johnston,"Jake Gyllenhaal, Chris Cooper, Laura Dern","Biography, Drama, Family",7.8
+58,Ghost Dog: The Way of the Samurai,1999,116,Jim Jarmusch,"Forest Whitaker, Henry Silva, John Tormey","Crime, Drama",7.5
+59,Never Been Kissed,1999,107,Raja Gosnell,"Drew Barrymore, David Arquette, Michael Vartan","Comedy, Drama, Romance",6.0
+60,Double Jeopardy,1999,105,Bruce Beresford,"Ashley Judd, Tommy Lee Jones, Bruce Greenwood","Crime, Drama, Mystery",6.5
+61,Audition,1999,115,Takashi Miike,"Ryô Ishibashi, Eihi Shiina, Tetsu Sawaki","Drama, Horror, Mystery",7.1
+62,Arlington Road,1999,117,Mark Pellington,"Jeff Bridges, Tim Robbins, Joan Cusack","Action, Crime, Drama",7.2
+63,Blue Streak,1999,93,Les Mayfield,"Martin Lawrence, Luke Wilson, Peter Greene","Action, Comedy, Crime",6.4
+64,Stir of Echoes,1999,99,David Koepp,"Kevin Bacon, Zachary David Cope, Kathryn Erbe","Horror, Mystery, Thriller",6.9
+65,Deuce Bigalow: Male Gigolo,1999,88,Mike Mitchell,"Rob Schneider, William Forsythe, Eddie Griffin","Comedy, Romance",5.7
+66,The Haunting,1999,113,Jan de Bont,"Liam Neeson, Catherine Zeta-Jones, Owen Wilson","Fantasy, Horror, Mystery",5.0
+67,The Thirteenth Floor,1999,100,Josef Rusnak,"Craig Bierko, Gretchen Mol, Armin Mueller-Stahl","Mystery, Sci-Fi, Thriller",7.0
+68,Bringing Out the Dead,1999,121,Martin Scorsese,"Nicolas Cage, Patricia Arquette, John Goodman","Drama, Thriller",6.9
+69,Go,1999,102,Doug Liman,"Sarah Polley, Jay Mohr, Scott Wolf","Comedy, Crime",7.2
+70,Bowfinger,1999,97,Frank Oz,"Steve Martin, Eddie Murphy, Heather Graham",Comedy,6.5
+71,Stigmata,1999,103,Rupert Wainwright,"Patricia Arquette, Gabriel Byrne, Jonathan Pryce","Horror, Mystery",6.2
+72,Blast from the Past,1999,112,Hugh Wilson,"Brendan Fraser, Alicia Silverstone, Christopher Walken","Comedy, Drama, Romance",6.7
+73,Mystery Men,1999,121,Kinka Usher,"Ben Stiller, Janeane Garofalo, William H. Macy","Action, Comedy, Fantasy",6.1
+74,The Messenger: The Story of Joan of Arc,1999,148,Luc Besson,"Milla Jovovich, John Malkovich, Rab Affleck","Adventure, Biography, Drama",6.4
+75,Lake Placid,1999,82,Steve Miner,"Bridget Fonda, Bill Pullman, Oliver Platt","Action, Comedy, Horror",5.8
+76,The General's Daughter,1999,116,Simon West,"John Travolta, Madeleine Stowe, James Cromwell","Crime, Drama, Mystery",6.4
+77,House on Haunted Hill,1999,93,William Malone,"Geoffrey Rush, Famke Janssen, Taye Diggs","Horror, Mystery, Thriller",5.6
+78,The Astronaut's Wife,1999,109,Rand Ravich,"Charlize Theron, Johnny Depp, Joe Morton","Drama, Sci-Fi, Thriller",5.4
+79,Life,1999,108,Ted Demme,"Eddie Murphy, Martin Lawrence, Obba Babatundé","Comedy, Crime, Drama",6.8
+80,Inspector Gadget,1999,78,David Kellogg,"Matthew Broderick, Rupert Everett, Joely Fisher","Action, Adventure, Comedy",4.2
+81,Varsity Blues,1999,106,Brian Robbins,"James Van Der Beek, Jon Voight, Paul Walker","Comedy, Drama, Romance",6.5
+82,Idle Hands,1999,92,Rodman Flender,"Devon Sawa, Seth Green, Elden Henson","Comedy, Fantasy, Horror",6.3
+83,But I'm a Cheerleader,1999,85,Jamie Babbit,"Natasha Lyonne, Clea DuVall, Michelle Williams","Comedy, Drama, Romance",6.8
+84,Asterix and Obelix vs. Caesar,1999,109,Claude Zidi,"Christian Clavier, Gérard Depardieu, Roberto Benigni","Adventure, Comedy, Family",6.0
+85,Edtv,1999,122,Ron Howard,"Matthew McConaughey, Jenna Elfman, Geoffrey Blake","Comedy, Drama",6.1
+86,Ravenous,1999,101,Antonia Bird,"Guy Pearce, Robert Carlyle, David Arquette","Adventure, Drama, Horror",6.9
+87,Drop Dead Gorgeous,1999,97,Michael Patrick Jann,"Kirsten Dunst, Denise Richards, Ellen Barkin","Comedy, Romance, Thriller",6.7
+88,Summer of Sam,1999,142,Spike Lee,"John Leguizamo, Adrien Brody, Mira Sorvino","Crime, Drama, Romance",6.7
+89,Fantasia 2000,1999,75,"James Algar, Gaëtan Brizzi, Paul Brizzi","James Levine, Steve Martin, Itzhak Perlman","Animation, Family, Fantasy",7.1
+90,Detroit Rock City,1999,95,Adam Rifkin,"Edward Furlong, Giuseppe Andrews, James DeBello","Adventure, Comedy, Music",6.8
+91,Message in a Bottle,1999,126,Luis Mandoki,"Kevin Costner, Robin Wright, Paul Newman","Drama, Romance",6.3
+92,True Crime,1999,127,Clint Eastwood,"Clint Eastwood, Isaiah Washington, LisaGay Hamilton","Crime, Drama, Mystery",6.6
+93,Anna and the King,1999,148,Andy Tennant,"Jodie Foster, Chow Yun-Fat, Bai Ling","Drama, History, Romance",6.7
+94,For Love of the Game,1999,137,Sam Raimi,"Kevin Costner, Kelly Preston, John C. Reilly","Drama, Romance, Sport",6.6
+95,Mickey Blue Eyes,1999,102,"Kelly Makin, Carl Gottlieb","Hugh Grant, Jeanne Tripplehorn, James Caan","Comedy, Crime, Romance",5.9
+96,Sweet and Lowdown,1999,95,Woody Allen,"Sean Penn, Samantha Morton, Woody Allen","Comedy, Drama, Music",7.2
+97,Forces of Nature,1999,105,Bronwen Hughes,"Sandra Bullock, Ben Affleck, Maura Tierney","Comedy, Romance",5.5
+98,The Limey,1999,89,Steven Soderbergh,"Terence Stamp, Peter Fonda, Lesley Ann Warren","Crime, Drama, Mystery",6.9
+99,Instinct,1999,126,Jon Turteltaub,"Anthony Hopkins, Cuba Gooding Jr., Donald Sutherland","Drama, Thriller",6.5
+100,Universal Soldier: The Return,1999,83,Mic Rodgers,"Jean-Claude Van Damme, Bill Goldberg, Heidi Schanz","Action, Sci-Fi",4.2
+101,Pushing Tin,1999,124,Mike Newell,"John Cusack, Billy Bob Thornton, Cate Blanchett","Comedy, Drama, Romance",6.0
+102,Virus,1999,99,John Bruno,"Jamie Lee Curtis, Donald Sutherland, William Baldwin","Action, Horror, Sci-Fi",5.1
+103,Jawbreaker,1999,86,Darren Stein,"Rose McGowan, Rebecca Gayheart, Julie Benz","Comedy, Crime, Thriller",5.7
+104,"Mystery, Alaska",1999,119,Jay Roach,"Russell Crowe, Burt Reynolds, Hank Azaria","Comedy, Drama, Sport",6.7
+105,Human Traffic,1999,99,Justin Kerrigan,"John Simm, Lorraine Pilkington, Shaun Parkes","Comedy, Music",7.1
+106,Baby Geniuses,1999,97,Bob Clark,"Kathleen Turner, Christopher Lloyd, Kim Cattrall","Comedy, Crime, Family",2.6
+107,Sarfarosh,1999,174,John Mathew Matthan,"Aamir Khan, Naseeruddin Shah, Sonali Bendre","Action, Crime, Drama",8.1
+108,A Midsummer Night's Dream,1999,116,Michael Hoffman,"Kevin Kline, Michelle Pfeiffer, Rupert Everett","Comedy, Fantasy, Romance",6.4
+109,Mansfield Park,1999,112,Patricia Rozema,"Frances O'Connor, Jonny Lee Miller, Alessandro Nivola","Comedy, Drama, Romance",7.0
+110,The Story of Us,1999,95,Rob Reiner,"Bruce Willis, Michelle Pfeiffer, Colleen Rennison","Comedy, Drama, Romance",6.0
+111,Pokémon the Movie 2000,1999,99,Kunihiko Yuyama,"Veronica Taylor, Rica Matsumoto, Ikue Ôtani","Animation, Action, Adventure",6.1
+112,The End of the Affair,1999,102,Neil Jordan,"Ralph Fiennes, Julianne Moore, Stephen Rea","Drama, Mystery, Romance",7.0
+113,Random Hearts,1999,133,Sydney Pollack,"Harrison Ford, Kristin Scott Thomas, Charles S. Dutton","Drama, Mystery, Romance",5.4
+114,Brokedown Palace,1999,100,Jonathan Kaplan,"Claire Danes, Kate Beckinsale, Bill Pullman","Drama, Mystery, Thriller",6.4
+115,Angela's Ashes,1999,145,Alan Parker,"Emily Watson, Robert Carlyle, Joe Breen","Biography, Drama",7.3
+116,In China They Eat Dogs,1999,91,Lasse Spang Olsen,"Kim Bodnia, Dejan Cukic, Nikolaj Lie Kaas","Action, Comedy, Crime",7.3
+117,Kikujiro,1999,122,Takeshi Kitano,"Takeshi Kitano, Yusuke Sekiguchi, Kayoko Kishimoto","Drama, Comedy",7.7
+118,The Deep End of the Ocean,1999,106,Ulu Grosbard,"Michelle Pfeiffer, Treat Williams, Whoopi Goldberg",Drama,6.3
+119,Teaching Mrs. Tingle,1999,96,Kevin Williamson,"Helen Mirren, Marisa Coughlan, Katie Holmes","Comedy, Thriller",5.3
+120,Dick,1999,94,Andrew Fleming,"Kirsten Dunst, Michelle Williams, Dan Hedaya",Comedy,6.2
+121,Drive Me Crazy,1999,91,John Schultz,"Melissa Joan Hart, Adrian Grenier, Stephen Collins","Comedy, Drama, Romance",5.8
+122,Titus,1999,162,Julie Taymor,"Anthony Hopkins, Jessica Lange, Osheen Jones","Drama, History, Thriller",7.0
+123,Buena Vista Social Club,1999,105,Wim Wenders,"Compay Segundo, Ibrahim Ferrer, Rubén González","Documentary, Music",7.6
+124,Muppets from Space,1999,87,Tim Hill,"Dave Goelz, Steve Whitmire, Bill Barretta","Adventure, Comedy, Family",6.2
+125,Baadshah,1999,175,"Abbas Alibhai Burmawalla, Mastan Alibhai Burmawalla","Shah Rukh Khan, Twinkle Khanna, Amrish Puri","Action, Comedy, Crime",6.9
+126,Superstar,1999,81,Bruce McCulloch,"Molly Shannon, Will Ferrell, Elaine Hendrix","Comedy, Romance",5.2
+127,Flawless,1999,112,Joel Schumacher,"Robert De Niro, Philip Seymour Hoffman, Barry Miller","Crime, Drama",6.4
+128,Three to Tango,1999,98,Damon Santostefano,"Neve Campbell, Matthew Perry, Dylan McDermott","Comedy, Romance",6.0
+129,American Movie,1999,107,Chris Smith,"Mark Borchardt, Mike Schank, Tom Schimmels","Documentary, Comedy",7.8
+130,East Is East,1999,96,Damien O'Donnell,"Om Puri, Linda Bassett, Jordan Routledge","Comedy, Drama",6.9
+131,Straight from the Heart,1999,188,Sanjay Leela Bhansali,"Aishwarya Rai Bachchan, Salman Khan, Ajay Devgn","Comedy, Drama, Musical",7.4
+132,Jin-Roh: The Wolf Brigade,1999,102,"Kenji Kamiyama, Hiroyuki Okiura","Michael Dobson, Yoshikazu Fujiki, Sumi Mutoh","Animation, Drama, Sci-Fi",7.3
+133,The Corruptor,1999,110,James Foley,"Chow Yun-Fat, Mark Wahlberg, Ric Young","Action, Crime, Thriller",6.1
+134,The Bachelor,1999,101,Gary Sinyor,"Chris O'Donnell, Renée Zellweger, Artie Lange","Comedy, Romance",5.1
+135,Anywhere But Here,1999,114,Wayne Wang,"Susan Sarandon, Natalie Portman, Hart Bochner","Comedy, Drama",6.2
+136,The Color of Paradise,1999,90,Majid Majidi,"Hossein Mahjoub, Mohsen Ramezani, Salameh Feyzi","Drama, Family",8.1
+137,The Rage: Carrie 2,1999,104,"Katt Shea, Robert Mandel","Emily Bergl, Jason London, Dylan Bruno","Drama, Horror, Sci-Fi",4.8
+138,Jakob the Liar,1999,120,Peter Kassovitz,"Robin Williams, Hannah Taylor Gordon, Éva Igó","Comedy, Drama, War",6.5
+139,Wing Commander,1999,100,Chris Roberts,"Freddie Prinze Jr., Matthew Lillard, Saffron Burrows","Action, Adventure, Sci-Fi",4.3
+140,An Ideal Husband,1999,97,Oliver Parker,"Rupert Everett, Julianne Moore, Peter Vaughan","Comedy, Romance",6.8
+141,My Neighbors the Yamadas,1999,104,Isao Takahata,"Yukiji Asaoka, Tôru Masuoka, Masako Araki","Animation, Comedy, Family",7.1
+142,Beau Travail,1999,92,Claire Denis,"Denis Lavant, Michel Subor, Grégoire Colin","Drama, War",7.3
+143,200 Cigarettes,1999,101,Risa Bramon Garcia,"Ben Affleck, Casey Affleck, Dave Chappelle","Comedy, Drama, Romance",6.0
+144,Eye of the Beholder,1999,109,Stephan Elliott,"Ewan McGregor, Ashley Judd, Patrick Bergin","Drama, Mystery, Thriller",5.0
+145,Rosetta,1999,95,"Jean-Pierre Dardenne, Luc Dardenne","Émilie Dequenne, Fabrizio Rongione, Anne Yernaux",Drama,7.4
+146,Sunshine,1999,181,István Szabó,"Ralph Fiennes, Rosemary Harris, Rachel Weisz","Drama, History, Romance",7.4
+147,Holy Smoke,1999,115,Jane Campion,"Kate Winslet, Harvey Keitel, Julie Hamilton","Comedy, Drama",5.9
+148,Cherry Falls,1999,92,Geoffrey Wright,"Brittany Murphy, Jay Mohr, Michael Biehn","Horror, Mystery, Thriller",5.3
+149,Vaastav: The Reality,1999,145,Mahesh Manjrekar,"Sanjay Dutt, Namrata Shirodkar, Sanjay Narvekar","Action, Crime, Drama",8.0
+150,The Out-of-Towners,1999,90,Sam Weisman,"Steve Martin, Goldie Hawn, John Cleese",Comedy,5.5
+151,Ring 2,1999,95,Hideo Nakata,"Miki Nakatani, Hitomi Satô, Kyôko Fukada","Horror, Mystery, Sci-Fi",5.9
+152,Simply Irresistible,1999,96,Mark Tarlov,"Sarah Michelle Gellar, Sean Patrick Flanery, Patricia Clarkson","Comedy, Drama, Fantasy",5.2
+153,The Big Kahuna,1999,90,John Swanbeck,"Kevin Spacey, Danny DeVito, Peter Facinelli","Drama, Comedy",6.5
+154,Ride with the Devil,1999,138,Ang Lee,"Tobey Maguire, Skeet Ulrich, Jewel","Drama, Romance, War",6.7
+155,At First Sight,1999,128,Irwin Winkler,"Val Kilmer, Mira Sorvino, Kelly McGillis","Drama, Romance",6.0
+156,My Favorite Martian,1999,94,Donald Petrie,"Christopher Lloyd, Jeff Daniels, Elizabeth Hurley","Comedy, Family, Sci-Fi",5.1
+157,Snow Falling on Cedars,1999,127,Scott Hicks,"Ethan Hawke, Max von Sydow, Yûki Kudô","Drama, Mystery, Romance",6.7
+158,Tea with Mussolini,1999,117,Franco Zeffirelli,"Maggie Smith, Judi Dench, Joan Plowright","Comedy, Drama, War",6.9
+159,Girl on the Bridge,1999,90,Patrice Leconte,"Vanessa Paradis, Daniel Auteuil, Frédéric Pfluger","Comedy, Drama, Romance",7.5
+160,Gorgeous,1999,121,Vincent Kok,"Jackie Chan, Shu Qi, Tony Leung Chiu-wai","Action, Comedy, Romance",6.0
+161,The Road Home,1999,89,Yimou Zhang,"Ziyi Zhang, Honglei Sun, Hao Zheng","Drama, Romance",7.7
+162,Cookie's Fortune,1999,118,Robert Altman,"Glenn Close, Julianne Moore, Liv Tyler","Comedy, Drama",6.8
+163,Two Hands,1999,103,Gregor Jordan,"Heath Ledger, Bryan Brown, David Field","Comedy, Crime, Thriller",7.1
+164,In Dreams,1999,100,Neil Jordan,"Annette Bening, Robert Downey Jr., Katie Sagona","Drama, Fantasy, Horror",5.5
+165,Topsy-Turvy,1999,160,Mike Leigh,"Jim Broadbent, Allan Corduner, Dexter Fletcher","Biography, Comedy, Drama",7.3
+166,Music of the Heart,1999,124,Wes Craven,"Meryl Streep, Cloris Leachman, Henry Dinhofer","Drama, Music",6.7
+167,The Other Sister,1999,129,Garry Marshall,"Juliette Lewis, Diane Keaton, Giovanni Ribisi","Comedy, Drama, Romance",6.4
+168,The Wind Will Carry Us,1999,118,Abbas Kiarostami,"Behzad Dorani, Noghre Asadi, Roushan Karam Elmi",Drama,7.4
+169,Beowulf,1999,95,Graham Baker,"Christopher Lambert, Rhona Mitra, Oliver Cotton","Action, Adventure, Fantasy",4.1
+170,Romance,1999,84,Catherine Breillat,"Caroline Ducey, Sagamore Stévenin, François Berléand","Drama, Romance",5.2
+171,My Best Fiend,1999,95,Werner Herzog,"Werner Herzog, Klaus Kinski, Claudia Cardinale","Documentary, Biography",7.8
+172,Play It to the Bone,1999,124,Ron Shelton,"Woody Harrelson, Antonio Banderas, Lolita Davidovich","Comedy, Drama, Sport",5.5
+173,Ratcatcher,1999,94,Lynne Ramsay,"Tommy Flanagan, Mandy Matthews, William Eadie",Drama,7.5
+174,The Best Man,1999,120,Malcolm D. Lee,"Taye Diggs, Nia Long, Morris Chestnut","Comedy, Drama, Romance",6.7
+175,Bats,1999,91,Louis Morneau,"Lou Diamond Phillips, Dina Meyer, Bob Gunton","Horror, Sci-Fi, Thriller",4.1
+176,Peppermint Candy,1999,129,Lee Chang-dong,"Sul Kyung-gu, Kim Yeo-jin, Moon So-ri",Drama,7.6
+177,The War Zone,1999,98,Tim Roth,"Ray Winstone, Annabelle Apsion, Kate Ashfield","Drama, Thriller",7.2
+178,Dudley Do-Right,1999,77,Hugh Wilson,"Brendan Fraser, Sarah Jessica Parker, Alfred Molina","Comedy, Family, Romance",3.9
+179,Resurrection,1999,108,Russell Mulcahy,"Christopher Lambert, Mike Anscombe, Jeff J.J. Authors","Crime, Drama, Horror",6.1
+180,The Muse,1999,97,Albert Brooks,"Albert Brooks, Sharon Stone, Andie MacDowell",Comedy,5.7
+181,Inferno,1999,95,John G. Avildsen,"Jean-Claude Van Damme, Pat Morita, Danny Trejo","Action, Comedy, Drama",5.2
+182,Bang Boom Bang - Ein todsicheres Ding,1999,110,Peter Thorwarth,"Oliver Korittke, Markus Knüfken, Ralf Richter","Action, Comedy, Crime",7.5
+183,Rogue Trader,1999,101,James Dearden,"Ewan McGregor, Anna Friel, Cristian Solimeno","Crime, Drama, History",6.4
+184,Guest House Paradiso,1999,89,Adrian Edmondson,"Rik Mayall, Adrian Edmondson, Bill Nighy","Comedy, Thriller",6.1
+185,The Wood,1999,106,Rick Famuyiwa,"Elayn J. Taylor, Omar Epps, Richard T. Jones","Comedy, Drama, Romance",7.0
+186,Plunkett & Macleane,1999,99,Jake Scott,"Robert Carlyle, Jonny Lee Miller, Iain Robertson","Action, Adventure, Comedy",6.3
+187,"Happy, Texas",1999,98,Mark Illsley,"Jeremy Northam, Steve Zahn, William H. Macy","Action, Comedy, Crime",6.3
+188,Hum Saath-Saath Hain,1999,177,Sooraj R. Barjatya,"Mohnish Behl, Salman Khan, Saif Ali Khan","Drama, Musical",6.3
+189,Propaganda,1999,120,Sinan Çetin,"Metin Akpinar, Kemal Sunal, Meltem Cumbul","Drama, History",7.1
+190,Butterfly,1999,96,José Luis Cuerda,"Manuel Lozano, Fernando Fernán Gómez, Uxía Blanco","Drama, War",7.6
+191,Chill Factor,1999,102,Hugh Johnson,"Cuba Gooding Jr., Skeet Ulrich, Peter Firth","Action, Adventure, Comedy",5.2
+192,Godzilla 2000,1999,99,Takao Okawara,"Takehiro Murata, Hiroshi Abe, Naomi Nishida","Action, Adventure, Drama",6.0
+193,The Mod Squad,1999,92,Scott Silver,"Claire Danes, Omar Epps, Giovanni Ribisi","Action, Crime, Thriller",4.3
+194,Bleeder,1999,98,Nicolas Winding Refn,"Kim Bodnia, Mads Mikkelsen, Rikke Louise Andersson","Crime, Drama",6.8
+195,Trick,1999,89,Jim Fall,"Christian Campbell, John Paul Pitoc, Brad Beyer","Comedy, Music, Romance",7.2
+196,Cradle Will Rock,1999,132,Tim Robbins,"Hank Azaria, Rubén Blades, Joan Cusack",Drama,6.8
+197,Mumford,1999,112,Lawrence Kasdan,"Loren Dean, Hope Davis, Jason Lee","Comedy, Drama",6.8
+198,Beyond the Mat,1999,102,Barry W. Blaustein,"Terry Funk, Mick Foley, Jake Roberts","Documentary, Biography, Sport",7.6
+199,Not One Less,1999,106,Yimou Zhang,"Minzhi Wei, Huike Zhang, Zhenda Tian",Drama,7.7
+200,The Winslow Boy,1999,104,David Mamet,"Rebecca Pidgeon, Jeremy Northam, Nigel Hawthorne","Drama, Romance",7.3
+201,Outside Providence,1999,96,Michael Corrente,"Shawn Hatosy, Amy Smart, Alec Baldwin","Comedy, Drama, Romance",6.4
+202,A Walk on the Moon,1999,107,Tony Goldwyn,"Diane Lane, Viggo Mortensen, Bobby Boriello","Drama, Romance",6.6
+203,In Bed with Santa,1999,95,Kjell Sundvall,"Katarina Ewerlöf, Peter Haber, Jessica Zandén",Comedy,6.9
+204,Mudhalvan,1999,169,S. Shankar,"Arjun Sarja, Manisha Koirala, Raghuvaran","Action, Drama, Thriller",8.4
+205,Better Than Chocolate,1999,101,Anne Wheeler,"Wendy Crewson, Karyn Dwyer, Christina Cox","Comedy, Drama, Romance",6.1
+206,Shiri,1999,125,Kang Je-kyu,"Han Suk-kyu, Choi Min-sik, Yunjin Kim","Action, Thriller",6.5
+207,Dead or Alive,1999,105,Takashi Miike,"Shô Aikawa, Riki Takeuchi, Renji Ishibashi","Action, Crime, Drama",6.7
+208,Gloomy Sunday,1999,112,Rolf Schübel,"Joachim Król, Erika Marozsán, Stefano Dionisi","Romance, Drama",7.8
+209,Onegin,1999,106,Martha Fiennes,"Ralph Fiennes, Liv Tyler, Toby Stephens","Drama, Romance",6.8
+210,Felicia's Journey,1999,116,Atom Egoyan,"Bob Hoskins, Arsinée Khanjian, Elaine Cassidy","Drama, Thriller",7.0
+211,Breakfast of Champions,1999,110,Alan Rudolph,"Bruce Willis, Nick Nolte, Albert Finney",Comedy,4.5
+212,Best Laid Plans,1999,92,Mike Barker,"Alessandro Nivola, Reese Witherspoon, Josh Brolin","Crime, Drama, Thriller",6.1
+213,Padaiyappa,1999,181,K.S. Ravikumar,"Shivaji Ganesan, Rajinikanth, Ramya Krishnan","Action, Comedy, Drama",8.2
+214,King of Comedy,1999,89,"Stephen Chow, Lik-Chi Lee","Stephen Chow, Karen Mok, Cecilia Cheung","Comedy, Drama, Romance",7.2
+215,Taboo,1999,100,Nagisa Ôshima,"Takeshi Kitano, Ryûhei Matsuda, Shinji Takeda","Drama, History, Thriller",6.8
+216,Mifune,1999,98,Søren Kragh-Jacobsen,"Iben Hjejle, Anders W. Berthelsen, Jesper Asholt","Romance, Comedy, Drama",7.1
+217,Julien Donkey-Boy,1999,94,Harmony Korine,"Ewen Bremner, Brian Fisk, Chloë Sevigny","Comedy, Drama",6.7
+218,The Nameless,1999,102,Jaume Balagueró,"Emma Vilarasau, Karra Elejalde, Tristán Ulloa","Drama, Horror, Mystery",5.8
+219,Kahpe Bizans,1999,97,Gani Müjde,"Mehmet Ali Erbil, Cem Davran, Aysegül Aldinç","Comedy, History",5.9
+220,Jesus' Son,1999,107,Alison Maclean,"Billy Crudup, Robert Michael Kelly, Torben Brooks",Drama,6.9
+221,Crazy in Alabama,1999,111,Antonio Banderas,"Melanie Griffith, David Morse, Lucas Black","Comedy, Crime, Drama",6.2
+222,The Minus Man,1999,111,Hampton Fancher,"Owen Wilson, Sheryl Crow, Dwight Yoakam","Crime, Drama, Mystery",6.0
+223,Herod's Law,1999,123,Luis Estrada,"Damián Alcázar, Pedro Armendáriz Jr., Delia Casanova","Comedy, Crime, Drama",7.8
+224,Foolish,1999,84,Dave Meyers,"Eddie Griffin, Master P, Amie Petersen","Comedy, Drama",4.9
+225,Sun Alley,1999,101,Leander Haußmann,"Alexander Scheer, Alexander Beyer, Robert Stadlober","Comedy, Drama, Romance",6.8
+226,In Too Deep,1999,95,Michael Rymer,"Lloyd Adams, Philip Akin, Anna Carolina Arias","Crime, Drama, Thriller",6.2
+227,Simon Sez,1999,85,Kevin Alyn Elders,"Dennis Rodman, Dane Cook, John Pinette","Action, Comedy",2.7
+228,Liberty Heights,1999,127,Barry Levinson,"Adrien Brody, Bebe Neuwirth, Joe Mantegna","Comedy, Drama, Music",7.0
+229,Aimee & Jaguar,1999,125,Max Färberböck,"Maria Schrader, Juliane Köhler, Johanna Wokalek","Biography, Drama, Romance",7.2
+230,Clouds of May,1999,130,Nuri Bilge Ceylan,"Emin Ceylan, Muzaffer Özdemir, Fatma Ceylan",Drama,7.3
+231,Lost & Found,1999,100,Jeff Pollack,"David Spade, Sophie Marceau, Ever Carradine","Comedy, Romance",5.1
+232,Thulladha Manamum Thullum,1999,170,Ezhil,"Joseph Vijay, Simran, Dhamu","Drama, Romance",8.3
+233,Running Out of Time,1999,93,Johnnie To,"Andy Lau, Ching-Wan Lau, YoYo Mung","Action, Crime, Drama",7.3
+234,Biwi No. 1,1999,159,David Dhawan,"Karisma Kapoor, Salman Khan, Anil Kapoor","Comedy, Drama, Romance",5.7
+235,The Mating Habits of the Earthbound Human,1999,88,Jeff Abugov,"David Hyde Pierce, Mackenzie Astin, Carmen Electra","Comedy, Sci-Fi",6.3
+236,Cosy Dens,1999,115,Jan Hrebejk,"Michael Beran, Miroslav Donutil, Simona Stasová","Comedy, Drama",8.1
+237,Limbo,1999,126,John Sayles,"David Strathairn, Mary Elizabeth Mastrantonio, Vanessa Martinez","Adventure, Drama, Thriller",7.0
+238,One Day in September,1999,94,Kevin Macdonald,"Michael Douglas, Ankie Spitzer, Jamal Al Gashey","Documentary, History, Sport",7.8
+239,The Mission,1999,84,Johnnie To,"Anthony Chau-Sang Wong, Francis Ng, Jackie Chung-yin Lui","Action, Crime",7.5
+240,Gloria,1999,108,Sidney Lumet,"Sharon Stone, Jean-Luke Figueroa, Jeremy Northam","Crime, Drama, Thriller",5.2
+241,A Room for Romeo Brass,1999,90,Shane Meadows,"Martin Arrowsmith, Dave Blant, Darren Campbell","Comedy, Drama",7.5
+242,Taal,1999,179,Subhash Ghai,"Akshaye Khanna, Anil Kapoor, Aishwarya Rai Bachchan","Drama, Musical, Romance",6.6
+243,Black & White,1999,98,James Toback,"Ben Stiller, Allan Houston, Claudia Schiffer","Crime, Drama, Music",5.0
+244,Mann - Soul's Heart,1999,160,Indra Kumar,"Aamir Khan, Manisha Koirala, Sharmila Tagore","Drama, Romance",6.2
+245,Sangharsh,1999,127,Tanuja Chandra,"Preity G Zinta, Akshay Kumar, Ashutosh Rana","Action, Crime, Drama",6.7
+246,"Mr. Death: The Rise and Fall of Fred A. Leuchter, Jr.",1999,91,Errol Morris,"Fred A. Leuchter Jr., Robert Jan Van Pelt, David Irving","Documentary, Biography",7.5
+247,Himalaya,1999,108,"Eric Valli, Michel Debats","Thilen Lhondup, Gurgon Kyap, Lhakpa Tsamchoe",Drama,7.4
+248,The 4th Floor,1999,90,Josh Klausner,"Juliette Lewis, William Hurt, Shelley Duvall","Mystery, Thriller",5.8
+249,An Affair of Love,1999,80,Frédéric Fonteyne,"Nathalie Baye, Sergi López, Jacques Viala","Drama, Romance",6.9
+250,With Fire and Sword,1999,175,Jerzy Hoffman,"Izabella Scorupco, Michal Zebrowski, Aleksandr Domogarov","Adventure, Drama, History",7.0
+251,Body Shots,1999,106,Michael Cristofer,"Joe Basile, Scott Burkholder, Liz Coke",Drama,4.9
+252,Love Stinks,1999,94,Jeff Franklin,"French Stewart, Bridgette Wilson-Sampras, Bill Bellamy",Comedy,5.7
+253,Häjyt,1999,105,Aleksi Mäkelä,"Samuli Edelmann, Juha Veijonen, Teemu Lehtilä","Action, Crime, Drama",7.1
+254,Kaun?,1999,90,Ram Gopal Varma,"Urmila Matondkar, Manoj Bajpayee, Sushant Singh","Horror, Mystery, Thriller",7.8
+255,The Omega Code,1999,100,Robert Marcarelli,"Casper Van Dien, Michael York, Catherine Oxenberg","Action, Adventure, Fantasy",3.5
+256,Pola X,1999,134,Leos Carax,"Guillaume Depardieu, Yekaterina Golubeva, Catherine Deneuve","Drama, Romance",5.7
+257,The Rifleman of the Voroshilov Regiment,1999,95,Stanislav Govorukhin,"Mikhail Ulyanov, Anna Sinyakina, Aleksandr Porokhovshchikov","Crime, Drama",7.4
+258,The One and Only,1999,106,Susanne Bier,"Sidse Babett Knudsen, Niels Olsen, Søs Egelind","Comedy, Romance",6.9
+259,Twin Falls Idaho,1999,111,Michael Polish,"Michael Polish, Mark Polish, Michele Hicks",Drama,7.1
+260,Humanité,1999,141,Bruno Dumont,"Emmanuel Schotté, Séverine Caneele, Philippe Tullier","Drama, Mystery",6.8
+261,East/West,1999,121,Régis Wargnier,"Oleg Menshikov, Sandrine Bonnaire, Catherine Deneuve","Adventure, Drama, History",7.4
+262,Gigantic,1999,80,Sebastian Schipper,"Frank Giering, Florian Lukas, Antoine Monot","Comedy, Drama",7.6
+263,Hello Brother,1999,139,Sohail Khan,"Salman Khan, Rani Mukerji, Arbaaz Khan","Action, Comedy, Fantasy",4.7
+264,Oxygen,1999,92,Richard Shepard,"Maura Tierney, Adrien Brody, James Naughton","Action, Crime, Drama",6.0
+265,Killer 2,1999,127,Juliusz Machulski,"Cezary Pazura, Malgorzata Kozuchowska, Janusz Rewinski","Comedy, Crime",6.7
+266,A Map of the World,1999,125,Scott Elliott,"Sigourney Weaver, Julianne Moore, Dara Perlmutter",Drama,6.5
+267,The Love Letter,1999,88,Peter Ho-Sun Chan,"Kate Capshaw, Tom Everett Scott, Tom Selleck","Comedy, Drama, Romance",5.5
+268,The Third Page,1999,92,Zeki Demirkubuz,"Ruhi Sari, Basak Köklükaya, Erol Babaoglu",Drama,7.3
+269,After the Rain,1999,91,Takashi Koizumi,"Akira Terao, Yoshiko Miyazaki, Shirô Mifune",Drama,7.6
+270,Criminal Lovers,1999,96,François Ozon,"Natacha Régnier, Jérémie Renier, Predrag 'Miki' Manojlovic","Crime, Drama, Horror",6.4
+271,Attack the Gas Station,1999,113,Sang-Jin Kim,"Lee Sung-jae, Yu Oh-seong, Kang Seong-jin","Comedy, Crime",6.9
+272,Rukajärven tie,1999,123,Olli Saarela,"Peter Franzén, Irina Björklund, Kari Heiskanen","War, Drama",6.7
+273,The Trench,1999,98,William Boyd,"Paul Nicholls, Daniel Craig, Julian Rhind-Tutt","Drama, History, War",5.9
+274,Venus Beauty Institute,1999,105,Tonie Marshall,"Nathalie Baye, Bulle Ogier, Samuel Le Bihan","Comedy, Drama, Romance",6.3
+275,The King and I,1999,88,Richard Rich,"Miranda Richardson, Martin Vidnovic, Christiane Noll","Animation, Family, Fantasy",4.4
+276,Noll tolerans,1999,108,Anders Nilsson,"Jakob Eklund, Peter Andersson, Marie Richardson","Action, Crime, Thriller",6.5
+277,Vaalee,1999,158,S.J. Suryah,"Ajith Kumar, Simran, Jyotika","Romance, Thriller",8.0
+278,Held Up,1999,89,Steve Rash,"Jamie Foxx, Nia Long, Barry Corbin",Comedy,5.2
+279,Sooryavansham,1999,168,"E.V.V. Satyanarayana, Pranavanand","Amitabh Bachchan, Soundarya, Jayasudha","Action, Drama",6.4
+280,Shower,1999,92,Yang Zhang,"Jiayi Du, Zheng Fang, Bing He","Comedy, Drama",7.5
+281,Wonderland,1999,108,Michael Winterbottom,"Shirley Henderson, Gina McKee, Molly Parker",Drama,7.1
+282,8 ½ Women,1999,118,Peter Greenaway,"John Standing, Matthew Delamere, Vivian Wu","Comedy, Drama",5.6
+283,Grey Owl,1999,118,Richard Attenborough,"Pierce Brosnan, Stewart Bick, Vlasta Vrana","Biography, Drama, Western",6.0
+284,Inconveniente,1999,107,Lauren B. Hellerstein,"George Katt, Forman Ellers, Marianne Savell",Drama,7.5
+285,Shool,1999,138,Eeshwar Nivas,"Manoj Bajpayee, Raveena Tandon, Sayaji Shinde","Action, Crime, Drama",7.7
+286,Trailer Park Boys,1999,67,Mike Clattenburg,"John Paul Tremblay, Robb Wells, Lucy Decoutere",Comedy,7.9
+287,A Madonna in Laleli,1999,82,Kudret Sabanci,"Güven Kiraç, Istar Gökseven, Cengiz Küçükayvaz","Crime, Drama, Thriller",6.9
+288,The Debt,1999,106,Krzysztof Krauze,"Robert Gonera, Jacek Borcuch, Andrzej Chyra","Drama, Crime, Thriller",7.8
+289,Light It Up,1999,99,Craig Bolotin,"Usher, Forest Whitaker, Rosario Dawson","Drama, Thriller",6.0
+290,Wild Zero,1999,98,Tetsuro Takeuchi,"Guitar Wolf, Drum Wolf, Bass Wolf","Comedy, Horror, Music",6.3
+291,Solas,1999,101,Benito Zambrano,"María Galiana, Ana Fernández, Carlos Álvarez-Nóvoa",Drama,7.5
+292,Upendra,1999,138,Upendra,"Upendra, Raveena Tandon, Prema","Drama, Thriller",8.8
+293,The Health Journey,1999,105,Lasse Åberg,"Lasse Åberg, Anna Norberg, Jon Skolmen",Comedy,4.3
+294,Safe Sex,1999,100,"Thanasis Papathanasiou, Michalis Reppas","Mina Adamaki, Alexandros Antonopoulos, Kostas Grekas",Comedy,6.6
+295,A Run for Money,1999,100,Reha Erdem,"Taner Birsel, Bennu Yildirimlar, Zuhal Gencer",Drama,7.5
+296,The Adventures of Elmo in Grouchland,1999,73,Gary Halvorson,"Kevin Clash, Mandy Patinkin, Vanessa Williams","Adventure, Comedy, Family",5.8
+297,The Knife,1999,135,Miroslav Lekic,"Zarko Lausevic, Bojana Maljevic, Aleksandar Bercek",Drama,8.5
+298,Haseena Maan Jaayegi,1999,147,David Dhawan,"Sanjay Dutt, Govinda, Karisma Kapoor","Action, Comedy, Romance",6.3
+299,What Becomes of the Broken Hearted?,1999,108,Ian Mune,"Temuera Morrison, Rena Owen, Clint Eruera","Crime, Drama, Thriller",6.3
+300,Komodo,1999,90,Michael Lantieri,"Jill Hennessy, Billy Burke, Kevin Zegers","Adventure, Horror, Sci-Fi",4.2
+301,Pan Tadeusz,1999,147,Andrzej Wajda,"Boguslaw Linda, Daniel Olbrychski, Grazyna Szapolowska","Drama, History, Romance",6.1
+302,Dying of Laughter,1999,113,Álex de la Iglesia,"Santiago Segura, El Gran Wyoming, Álex Angulo","Comedy, Drama",6.5
+303,Simpatico,1999,106,Matthew Warchus,"Nick Nolte, Jeff Bridges, Sharon Stone","Comedy, Crime, Drama",4.7
+304,Splendor,1999,93,Gregg Araki,"Kathleen Robertson, Johnathon Schaech, Matt Keeslar","Comedy, Romance",6.0
+305,Memento Mori,1999,97,"Kyu-dong Min, Kim Tae-yong","Kim Gyu-ri, Park Yejin, Lee Yeong-jin","Horror, Romance, Drama",6.3
+306,Tumbleweeds,1999,102,Gavin O'Connor,"Janet McTeer, Kimberly J. Brown, Jay O. Sanders","Comedy, Drama",6.7
+307,"The Same Love, the Same Rain",1999,113,Juan José Campanella,"Ricardo Darín, Soledad Villamil, Ulises Dumont","Comedy, Drama, Romance",7.2
+308,Freeway II: Confessions of a Trickbaby,1999,97,Matthew Bright,"Natasha Lyonne, María Celedonio, David Alan Grier","Comedy, Crime, Drama",5.4
+309,The Legend of the Titanic,1999,84,"Orlando Corradi, Kim Jun Ok","Gregory Snegoff, Francis Pardeilhan, Jane Alexander","Animation, Drama, Family",1.4
+310,Thammudu,1999,160,P.A. Arun Prasad,"Preeti Jhangiani, Aditi Govitrikar, Achyuth","Action, Drama, Sport",7.9
+311,The Third Miracle,1999,119,Agnieszka Holland,"Sofia Polanska, Pavol Simon, Ivan Lukac",Drama,6.5
+312,Doug's 1st Movie,1999,77,Maurice Joyce,"Thomas Lyons, Fred Newman, Chris Phillips","Animation, Adventure, Comedy",4.9
+313,Grass,1999,80,Ron Mann,"Woody Harrelson, Harry J. Anslinger, George Bush","Documentary, History",7.2
+314,My Voyage to Italy,1999,246,Martin Scorsese,Martin Scorsese,Documentary,8.2
+315,The Green Elephant,1999,90,Svetlana Baskova,"Sergey Pakhomov, Vladimir Epifantsev, Aleksandr Maslaev","Comedy, Horror, Thriller",5.3
+316,Gamera 3: Revenge of Iris,1999,108,Shûsuke Kaneko,"Shinobu Nakayama, Ai Maeda, Yukijirô Hotaru","Action, Drama, Fantasy",7.1
+317,The Cup,1999,93,Khyentse Norbu,"Orgyen Tobgyal, Neten Chokling, Jamyang Lodro","Comedy, Sport",6.9
+318,Detective Conan: The Last Wizard of the Century,1999,99,"Kenji Kodama, Yasuichirô Yamamoto","Minami Takayama, Wakana Yamazaki, Akira Kamiya","Animation, Adventure, Crime",7.5
+319,Three Seasons,1999,104,Tony Bui,"Ngoc Hiep Nguyen, Ngoc Minh, Phat Trieu Hoang",Drama,7.2
+320,Luna Papa,1999,107,Bakhtyar Khudojnazarov,"Chulpan Khamatova, Moritz Bleibtreu, Ato Mukhamedzhanov","Comedy, Drama",7.2
+321,Adult Behavior,1999,91,"Felix Herngren, Fredrik Lindström","Felix Herngren, Karin Bjurström, Cecilia Ljung",Comedy,6.2
+322,Hitman's Run,1999,93,Mark L. Lester,"Eric Roberts, Esteban Powell, C. Thomas Howell","Action, Crime",4.3
+323,Harem Suare,1999,109,Ferzan Özpetek,"Marie Gillain, Alex Descas, Lucia Bosè","Drama, History",6.1
+324,Molly,1999,102,John Duigan,"Elisabeth Shue, Aaron Eckhart, Jill Hennessy","Comedy, Drama, Romance",5.7
+325,Juha,1999,78,Aki Kaurismäki,"Sakari Kuosmanen, Kati Outinen, André Wilms","Comedy, Drama, Romance",6.8
+326,The Children of the Marshland,1999,115,Jean Becker,"Jacques Villeret, Jacques Gamblin, André Dussollier","Comedy, Drama",7.4
+327,My Life So Far,1999,98,Hugh Hudson,"Colin Firth, Rosemary Harris, Irène Jacob","Biography, Comedy, Drama",6.5
+328,Tell Me Something,1999,118,Yun-hyeon Jang,"Han Suk-kyu, Shim Eun-ha, Jang Hang-seon","Crime, Mystery, Thriller",6.4
+329,"Sexo, pudor y lágrimas",1999,109,Antonio Serrano,"Demián Bichir, Susana Zabaleta, Víctor Huggo Martin","Comedy, Drama",6.5
+330,The Five Senses,1999,106,Jeremy Podeswa,"Molly Parker, Gabrielle Rose, Elize Frances Stolk","Comedy, Drama, Music",6.7
+331,Between Your Legs,1999,115,Manuel Gómez Pereira,"Victoria Abril, Javier Bardem, Carmelo Gómez","Drama, Mystery, Romance",6.2
+332,Jaanwar,1999,172,Suneel Darshan,"Akshay Kumar, Karisma Kapoor, Shilpa Shetty Kundra","Action, Crime, Drama",5.9
+333,Joe the King,1999,93,Frank Whaley,"Noah Fleiss, Karen Young, Camryn Manheim","Crime, Drama",6.7
+334,Virtual Sexuality,1999,92,Nick Hurran,"Laura Fraser, Rupert Penry-Jones, Luke de Lacey","Comedy, Drama, Romance",5.1
+335,Bridge of Dragons,1999,92,Isaac Florentine,"Dolph Lundgren, Cary-Hiroyuki Tagawa, Valerie Chow","Action, Romance, Sci-Fi",4.7
+336,Sethu,1999,130,Bala,"Vikram, Abitha, Sivakumar","Action, Drama, Romance",8.1
+337,Gemini,1999,84,Shin'ya Tsukamoto,"Masahiro Motoki, Ryô, Yasutaka Tsutsui","Drama, Fantasy, Horror",6.8
+338,It All Starts Today,1999,117,Bertrand Tavernier,"Philippe Torreton, Maria Pitarresi, Nadia Kaci",Drama,7.4
+339,Kærlighed ved første hik,1999,85,Tomas Villum Jensen,"Robert Hansen, Sofie Lassen-Kahlke, Sebastian Jessen",Comedy,6.1
+340,The Sex Monster,1999,97,Mike Binder,"Mariel Hemingway, Mike Binder, Renée Humphrey",Comedy,5.1
+341,Garage Olimpo,1999,98,Marco Bechis,"Antonella Costa, Carlos Echevarría, Enrique Piñeyro",Drama,7.3
+342,Thick as Thieves,1999,93,Scott Sanders,"Mark Adair-Rios, Khandi Alexander, Erich Anderson","Crime, Drama, Thriller",5.8
+343,Human Resources,1999,100,Laurent Cantet,"Jalil Lespert, Jean-Claude Vallod, Chantal Barré","Comedy, Drama",7.3
+344,The Confession,1999,114,David Hugh Jones,"Ben Kingsley, Amy Irving, Ryan Marsini","Drama, Thriller",6.0
+345,Marcel Proust's Time Regained,1999,169,Raúl Ruiz,"Catherine Deneuve, Emmanuelle Béart, Vincent Perez","Drama, Romance, War",6.7
+346,Werner - Volles Rooäää!!!,1999,77,Gerhard Hahn,"Klaus Büchner, Rötger Feldmann, Thomas Struck","Action, Comedy, Animation",5.3
+347,Deterrence,1999,104,Rod Lurie,"Kevin Pollak, Timothy Hutton, Sheryl Lee Ralph","Drama, Thriller",6.4
+348,"Tsatsiki, Mum and the Policeman",1999,91,Ella Lemhagen,"Samuel Haus, Alexandra Rapaport, Jacob Ericksson","Drama, Family",6.0
+349,Forever Mine,1999,115,Paul Schrader,"Joseph Fiennes, Ray Liotta, Gretchen Mol","Crime, Drama, Romance",5.3
+350,Tuvalu,1999,101,Veit Helmer,"Denis Lavant, Chulpan Khamatova, Philippe Clay","Comedy, Drama, Romance",7.3
+351,Guinevere,1999,104,Audrey Wells,"Sarah Polley, Stephen Rea, Jean Smart","Drama, Romance",5.9
+352,A Long Hot Summer,1999,100,Perttu Leppä,"Unto Helo, Hanna-Mari Karhinen, Mikko Hakola","Comedy, Music",7.0
+353,The Underground Comedy Movie,1999,88,Vince Offer,"Barbara Snellenburg, Rebekah Chaney, Gloria Sperling",Comedy,2.0
+354,Srabon Megher Din,1999,150,Humayun Ahmed,"Meher Afroz Shaon, Mukti, Zahid Hasan","Drama, Romance",8.6
+355,Little Crumb,1999,119,Maria Peters,"Ruud Feltkamp, Yannick van de Velde, Mitchell Redmond","Drama, Family",6.5
+356,Do Not Disturb,1999,94,Dick Maas,"William Hurt, Jennifer Tilly, Francesca Brown","Action, Comedy, Thriller",4.9
+357,Kolobos,1999,87,"Daniel Liatowitsch, David Todd Ocvirk","Amy Weber, Donny Terranova, Nichole Pelerine","Horror, Mystery, Thriller",5.1
+358,Smiling Fish & Goat on Fire,1999,90,Kevin Jordan,"Derick Martini, Steven Martini, Amy Hathaway","Comedy, Romance",7.4
+359,The Big Tease,1999,86,Kevin Allen,"Craig Ferguson, Chris Langham, David Rasche",Comedy,6.1
+360,Captain Pantoja and the Special Services,1999,137,Francisco J. Lombardi,"Angie Cepeda, Salvador del Solar, Mónica Sánchez","Comedy, Drama",7.0
+361,Me Myself I,1999,104,Pip Karmel,"Rachel Griffiths, David Roberts, Sandy Winton","Comedy, Romance",6.6
+362,Moloch,1999,108,Aleksandr Sokurov,"Elena Rufanova, Eva Mattes, Leonid Mozgovoy",Drama,6.7
+363,Nobody Knows Anybody,1999,108,Mateo Gil,"Eduardo Noriega, Jordi Mollà, Natalia Verbeke","Drama, Thriller",5.9
+364,The Color of Lies,1999,113,Claude Chabrol,"Sandrine Bonnaire, Jacques Gamblin, Antoine de Caunes","Comedy, Crime, Drama",6.6
+365,The Suburbans,1999,81,Donal Lardner Ward,"Donal Lardner Ward, Tony Guma, Craig Bierko","Comedy, Drama",4.2
+366,Beautiful People,1999,107,Jasmin Dizdar,"Thomas Goodridge, Faruk Pruti, Tony Peters","Comedy, Drama, War",6.7
+367,The Ring Virus,1999,108,Dong-bin Kim,"Shin Eun-kyung, Seung-Hyun Lee, Jung Jin-young",Horror,5.8
+368,International Khiladi,1999,175,Umesh Mehra,"Akshay Kumar, Twinkle Khanna, Rajat Bedi","Action, Crime, Drama",4.8
+369,Turbulence 2: Fear of Flying,1999,101,David Mackay,"Craig Sheffer, Tom Berenger, Jennifer Beals","Action, Thriller",4.3
+370,Gen-X Cops,1999,114,Benny Chan,"Nicholas Tse, Stephen Fung, Sam Lee","Action, Comedy, Crime",5.8
+371,6ixtynin9,1999,118,"Pen-Ek Ratanaruang, Tom Pen-Ek Ratanaruang","Tasanawalai Ongartittichai, Black Phomtong, Lalita Panyopas","Comedy, Crime, Thriller",7.2
+372,Paperback Hero,1999,96,Antony J. Bowman,"Claudia Karvan, Hugh Jackman, Angie Milliken","Comedy, Romance",6.4
+373,Entropy,1999,104,Phil Joanou,"Stephen Dorff, Judith Godrèche, Kelly Macdonald","Comedy, Drama, Romance",6.2
+374,American Pimp,1999,87,"Albert Hughes, Allen Hughes","John S. Dickson, Antonio Fargas, Heidi Fleiss",Documentary,6.6
+375,Vägen ut,1999,108,Daniel Lind Lagerlöf,"Björn Kjellman, Viveka Seldahl, Peter Haber","Comedy, Drama",6.4
+376,Hammam fi Amistirdam,1999,134,Saeed Hamed,"Mohamed Henedi, Ahmed El Sakka, Yousef Ismail","Comedy, Drama",6.5
+377,Goya in Bordeaux,1999,100,Carlos Saura,"Francisco Rabal, Jose Coronado, Dafne Fernández","Biography, Drama, War",6.6
+378,Happy End,1999,100,Jung Ji-woo,"Choi Min-sik, Jeon Do-yeon, Ju Jin-mo","Crime, Drama, Romance",6.7
+379,Nowhere to Hide,1999,112,Lee Myung-se,"Park Joong-hoon, Ahn Sung-ki, Jang Dong-gun","Action, Crime, Thriller",6.4
+380,Aboud on the Boarder,1999,105,Sherif Arafa,"Alaa Waley El Din, Ghada Adel, Karim Abdel Aziz",Comedy,6.6
+381,Agnes Browne,1999,92,Anjelica Huston,"Anjelica Huston, Marion O'Dwyer, Niall O'Shea","Comedy, Drama, Romance",6.5
+382,Charisma,1999,104,Kiyoshi Kurosawa,"Kôji Yakusho, Hiroyuki Ikeuchi, Ren Ôsugi","Drama, Mystery",6.8
+383,Amarkalam,1999,148,Saran,"Ajith Kumar, Shalini, Raghuvaran","Action, Drama, Romance",7.3
+384,The Lost Son,1999,102,Chris Menges,"Daniel Auteuil, Nastassja Kinski, Katrin Cartlidge","Crime, Drama, Romance",6.4
+385,A Man Called Hero,1999,116,Wai Keung Lau,"Ekin Cheng, Shu Qi, Kristy Yeung","Action, Adventure, Drama",5.7
+386,Raja Kumarudu,1999,130,K. Raghavendra Rao,"Mahesh Babu, Preity G Zinta, Prakash Raj","Comedy, Drama, Romance",6.6
+387,My Teacher's Wife,1999,89,Bruce Leddy,"Jason London, Alexondra Lee, Zak Orth","Comedy, Romance",5.5
+388,Land of Fear,1999,142,Daoud Abdel Sayed,"Ahmed Zaki, Farah, Hamdy Gheith","Crime, Drama, Thriller",8.2
+389,Jaanam Samjha Karo,1999,153,Andaleeb Sultanpuri,"Salman Khan, Urmila Matondkar, Jaspal Bhatti","Drama, Romance",4.8
+390,Marsal,1999,97,Vinko Bresan,"Drazen Kuhn, Linda Begonja, Ilija Ivezic",Comedy,7.2
+391,Whiteboyz,1999,92,Marc Levin,"Danny Hoch, Dash Mihok, Mark Webber","Comedy, Drama",5.4
+392,Children of the Century,1999,135,Diane Kurys,"Juliette Binoche, Benoît Magimel, Stefano Dionisi","Biography, Drama, Romance",6.5
+393,Vanaprastham,1999,119,Shaji N. Karun,"Mohanlal, Suhasini, Mattanoor Shankara Marar",Drama,8.1
+394,Kadosh,1999,110,Amos Gitai,"Yaël Abecassis, Yoram Hattab, Meital Berdah","Comedy, Drama",6.9
+395,Aa Ab Laut Chalen,1999,177,Rishi Kapoor,"Rajesh Khanna, Akshaye Khanna, Aishwarya Rai Bachchan","Musical, Romance, Drama",5.4
+396,Sofies verden,1999,113,Erik Gustavson,"Silje Storstein, Tomas von Brömssen, Andrine Sæther","Drama, Fantasy, History",5.8
+397,Nang Nak,1999,100,Nonzee Nimibutr,"Inthira Charoenpura, Winai Kraibutr, Manit Meekaewjaroen","Action, Horror, Romance",6.5
+398,Speedway Junky,1999,105,Nickolas Perry,"Richard Balin, Jaime Bergman, Jesse Bradford","Crime, Drama, Romance",6.0
+399,Reptile 2001,1999,99,Hyung-rae Shim,"Richard Livingston, Harrison Young, Eric Briant Wells","Action, Fantasy, Sci-Fi",2.7
+400,All the Rage,1999,99,James D. Stern,"Joan Allen, Jeff Daniels, Robert Forster","Comedy, Drama",5.5
+401,Coming Soon,1999,96,Colette Burson,"Bonnie Root, Gaby Hoffmann, Tricia Vessey","Comedy, Romance",4.4
+402,Revolutionary Girl Utena: The Movie,1999,100,"Kunihiko Ikuhara, Shingo Kaneko, Katsushi Sakurabi","Tomoko Kawakami, Yuriko Fuchizaki, Leah Applebaum","Animation, Action, Adventure",7.2
+403,Silvia Prieto,1999,92,Martín Rejtman,"Rosario Bléfari, Valeria Bertuccelli, Vicentico","Comedy, Drama",6.8
+404,Made Men,1999,91,Louis Morneau,"Jim Belushi, Michael Beach, Timothy Dalton","Action, Comedy, Thriller",5.9
+405,Journey to the Sun,1999,104,Yesim Ustaoglu,"Nazmi Kirik, Newroz Baz, Mizgin Kapazan",Drama,7.0
+406,Cardcaptor Sakura: The Movie,1999,80,Morio Asaka,"Sakura Tange, Aya Hisakawa, Junko Iwao","Animation, Adventure, Comedy",7.2
+407,Postmen in the Mountains,1999,93,Jianqi Huo,"Rujun Teng, Ye Liu, Hao Chen",Drama,7.8
+408,The Log,1999,106,Danièle Thompson,"Sabine Azéma, Emmanuelle Béart, Charlotte Gainsbourg","Comedy, Drama",6.3
+409,The Miracle Maker,1999,90,"Derek W. Hayes, Stanislav Sokolov","Ralph Fiennes, Michael Bryant, Julie Christie","Animation, Biography, Drama",7.1
+410,New Waterford Girl,1999,97,Allan Moyle,"Liane Balaban, Tara Spencer-Nairn, Mary Walsh",Comedy,6.8
+411,Ley Lines,1999,105,Takashi Miike,"Kazuki Kitamura, Tomorô Taguchi, Dan Li","Crime, Drama, Thriller",6.9
+412,Hum Aapke Dil Mein Rehte Hain,1999,168,Satish Kaushik,"Anil Kapoor, Kajol, Anupam Kher","Drama, Romance",5.5
+413,Diamonds,1999,91,John Asher,"Kirk Douglas, Lauren Bacall, Dan Aykroyd","Comedy, Mystery",5.4
+414,Only You,1999,150,Ahathian,"Sanjay Kapoor, Priya Gill, Sushmita Sen","Romance, Drama",6.2
+415,Pups,1999,99,Ash Baron-Cohen,"Mischa Barton, Cameron Van Hoy, Burt Reynolds","Action, Crime, Drama",6.1
+416,Blood Dolls,1999,84,Charles Band,"Kristopher Logan, Debra Mayer, William Paul Burns","Comedy, Horror",4.5
+417,The Tricky Master,1999,91,Jing Wong,"Stephen Chow, Nick Cheung, Jing Wong","Action, Comedy",5.9
+418,The Bumblebee Flies Anyway,1999,95,Martin Duffy,"Janet Paparazzo, Elijah Wood, Janeane Garofalo","Drama, Romance",6.1
+419,Kachche Dhaage,1999,144,Milan Luthria,"Ajay Devgn, Saif Ali Khan, Manisha Koirala","Action, Drama, Thriller",6.0
+420,Soccer Dog: The Movie,1999,98,Tony Giglio,"James Marshall, Olivia d'Abo, Jeremy Foley","Comedy, Family, Sport",3.2
+421,Second Skin,1999,100,Gerardo Vera,"Javier Bardem, Jordi Mollà, Ariadna Gil","Drama, Romance",6.3
+422,Two Women,1999,95,Tahmineh Milani,"Niki Karimi, Merila Zare'i, Mohammad Reza Forutan","Drama, Romance",6.7
+423,Maybe,1999,109,Cédric Klapisch,"Jean-Paul Belmondo, Romain Duris, Géraldine Pailhas","Comedy, Drama, Sci-Fi",5.8
+424,This Year's Love,1999,108,David Kane,"Kathy Burke, Jennifer Ehle, Ian Hart","Drama, Romance, Comedy",6.3
+425,Storm Catcher,1999,95,Anthony Hickox,"Dolph Lundgren, Mystro Clark, Jon Pennell","Action, Thriller",4.1
+426,Aarzoo,1999,175,Lawrence D'Souza,"Madhuri Dixit, Akshay Kumar, Saif Ali Khan","Action, Drama, Romance",5.0
+427,But Forever in My Mind,1999,88,Gabriele Muccino,"Silvio Muccino, Giuseppe Sanfelice, Giulia Louise Steigerwalt",Comedy,6.3
+428,Friends & Lovers,1999,103,George Haas,"Stephen Baldwin, Danny Nucci, George Newbern","Comedy, Drama, Romance",4.4
+429,American Virgin,1999,88,Jean-Pierre Marois,"Mark Adair-Rios, Jason Bercy, Brian Bloom",Comedy,3.5
+430,Wisconsin Death Trip,1999,76,James Marsh,"Ian Holm, Jeffrey Golden, Jo Vukelich","Biography, Crime, Drama",6.6
+431,Mrs. Salkim's Diamonds,1999,120,Tomris Giritlioglu,"Hülya Avsar, Zuhal Olcay, Kamran Usluer","Drama, History",6.6
+432,Miss Julie,1999,103,Mike Figgis,"Saffron Burrows, Peter Mullan, Maria Doyle Kennedy",Drama,6.1
+433,My Brother the Pig,1999,92,Erik Fleming,"Scarlett Johansson, Eva Mendes, Judge Reinhold","Comedy, Family, Fantasy",4.2
+434,Just Looking,1999,97,Jason Alexander,"Richard V. Licata, Marcell Rosenblatt, Ryan Merriman","Comedy, Drama",6.6
+435,Diplomatic Siege,1999,90,Gustavo Graef Marino,"Peter Weller, Daryl Hannah, Tom Berenger","Action, Thriller",3.9
+436,Seven Girlfriends,1999,99,Paul Lazarus,"Laura Leighton, Tim Daly, Olivia d'Abo","Comedy, Romance",5.7
+437,Solomon & Gaenor,1999,105,Paul Morrison,"Ioan Gruffudd, Nia Roberts, Sue Jones-Davies","Drama, Romance",6.8
+438,Red,1999,89,Fereydoun Jeyrani,"Hediyeh Tehrani, Mohammad Reza Forutan, Kamand Amirsoleimani","Crime, Drama, Thriller",6.4
+439,Molokai,1999,113,Paul Cox,"David Wenham, Kate Ceberano, Jan Decleir","Biography, Drama",6.9
+440,Spring Forward,1999,110,Tom Gilroy,"Campbell Scott, Ned Beatty, Liev Schreiber",Drama,7.5
+441,Tube Tales,1999,84,"Gaby Dellal, Stephen Hopkins, Bob Hoskins","Jason Flemyng, Dexter Fletcher, Kelly Macdonald",Drama,6.1
+442,Angel's Dance,1999,99,David L. Corley,"Jim Belushi, Sheryl Lee, Kyle Chandler","Action, Comedy, Crime",6.1
+443,Minsara Kanna,1999,165,K.S. Ravikumar,"Joseph Vijay, Rambha, Khushbu Sundar","Drama, Romance",7.0
+444,The Breaks,1999,86,Eric Meza,"Anthony Anderson, Isaiah Barnes, Max Becker",Comedy,6.1
+445,Rockford,1999,102,Nagesh Kukunoor,"Rohan Dey, Jayant Kripalani, Nandita Das","Comedy, Drama",7.4
+446,Genghis Blues,1999,88,Roko Belic,"Richard Feynman, B.B. King, Kongar-ol Ondar","Documentary, Music",7.8
+447,Airspeed,1999,81,Robert Tinnell,"Elisha Cuthbert, Bronwen Booth, Joe Mantegna","Action, Adventure, Drama",3.7
+448,Trippin',1999,94,David Raynr,"Deon Richmond, Donald Faison, Guy Torry",Comedy,5.3
+449,The Match,1999,95,Mick Davis,"Max Beesley, Richard E. Grant, James Cosmo","Comedy, Romance, Sport",6.2
+450,Bloodsport: The Dark Kumite,1999,100,Elvis Restaino,"Daniel Bernhardt, Ivan Ivanov, Lisa Stothard","Action, Romance",2.8
+451,The Railroad Man,1999,112,Yasuo Furuhata,"Ken Takakura, Shinobu Ôtake, Ryôko Hirosue",Drama,7.1
+452,Lola and Billy the Kid,1999,93,Kutlug Ataman,"Gandi Mukli, Baki Davrak, Erdal Yildiz","Drama, Romance",6.9
+453,One Man's Hero,1999,121,Lance Hool,"Tom Berenger, Joaquim de Almeida, Daniela Romo","Action, Drama, History",6.0
+454,Rites of Passage,1999,95,Victor Salva,"Jason Behr, Dean Stockwell, James Remar","Crime, Drama, Mystery",5.9
+455,Enlightenment Guaranteed,1999,109,Doris Dörrie,"Uwe Ochsenknecht, Gustav-Peter Wöhler, Petra Zieser","Drama, Comedy",7.2
+456,The White River Kid,1999,99,Arne Glimcher,"Bob Hoskins, Antonio Banderas, Ellen Barkin","Action, Comedy",4.7
+457,Walking Across Egypt,1999,100,Arthur Allan Seidelman,"Forrest, Ellen Burstyn, Judge Reinhold","Comedy, Crime, Drama",7.2
+458,The Killer Eye,1999,72,David DeCoteau,"Jacqueline Lovell, Jonathan Norman, Nanette Bianchi","Comedy, Horror, Sci-Fi",2.9
+459,Dil Kya Kare,1999,158,Prakash Jha,"Ajay Devgn, Mahima Chaudhry, Kajol","Drama, Musical, Romance",5.1
+460,Bade Dilwala,1999,146,Shakeel Noorani,"Suniel Shetty, Priya Gill, Paresh Rawal","Comedy, Drama, Romance",3.7
+461,Les convoyeurs attendent,1999,94,Benoît Mariage,"Benoît Poelvoorde, Morgane Simon, Bouli Lanners","Comedy, Drama",6.8
+462,The Escort,1999,100,Michel Blanc,"Daniel Auteuil, Julie Wilson Nimmo, Luisa Bradshaw-White",Drama,6.2
+463,Sicily!,1999,66,"Danièle Huillet, Jean-Marie Straub","Gianni Buscarino, Vittorio Vigneri, Angela Nugara",Drama,6.8
+464,Models,1999,118,Ulrich Seidl,"Viviane Bartsch, Tanja Petrovsky, Lisa Grossmann",Drama,6.5
+465,Lighthouse,1999,95,Simon Hunter,"James Purefoy, Rachel Shelley, Christopher Adamson","Horror, Thriller",4.8
+466,Manolito Gafotas,1999,89,Miguel Albaladejo,"David Sánchez del Rey, Adriana Ozores, Roberto Álvarez","Comedy, Family",6.2
+467,The Opportunists,1999,90,Myles Connell,"Christopher Walken, Peter McDonald, Anne Pitoniak","Comedy, Crime, Drama",5.7
+468,Siam Sunset,1999,91,John Polson,"Linus Roache, Danielle Cormack, Ian Bliss","Adventure, Comedy, Romance",6.4
+469,Christmas Vacation 2000,1999,110,Carlo Vanzina,"Massimo Boldi, Christian De Sica, Megan Gale","Comedy, Romance",4.4
+470,Dillagi,1999,188,Sunny Deol,"Sunny Deol, Bobby Deol, Urmila Matondkar","Drama, Musical, Romance",5.3
+471,Tifosi,1999,120,Neri Parenti,"Massimo Boldi, Christian De Sica, Diego Abatantuono",Comedy,5.0
+472,No One Writes to the Colonel,1999,122,Arturo Ripstein,"Fernando Luján, Marisa Paredes, Salma Hayek",Drama,6.6
+473,Jaime,1999,111,António-Pedro Vasconcelos,"Saúl Fonseca, Fernanda Serrano, Joaquim Leitão",Drama,7.0
+474,Whatever Happened to Harold Smith?,1999,95,Peter Hewitt,"Tom Courtenay, Michael Legge, Laura Fraser",Comedy,6.4
+475,Fluke,1999,86,Maciej Dutkiewicz,"Agnieszka Krukówna, Maciej Stuhr, Janusz Gajos","Comedy, Crime",6.0
+476,Man of the Century,1999,77,Adam Abraham,"Gibson Frazier, Cara Buono, Ian Edwards","Comedy, Romance",7.0
+477,The Runner,1999,94,Ron Moler,"Ron Eldard, John Goodman, Joe Mantegna","Crime, Drama, Thriller",5.5
+478,Corrupt,1999,69,Albert Pyun,"Silkk the Shocker, Ice-T, Tarsha Nicole Jones","Action, Crime, Drama",2.5
+479,Crane World,1999,90,Pablo Trapero,"Luis Margani, Daniel Valenzuela, Adriana Aizemberg","Comedy, Drama",7.0
+480,Bolivia,1999,75,Israel Adrián Caetano,"Freddy Flores, Rosa Sánchez, Oscar Bertea",Drama,7.2
+481,Fantozzi 2000 - La clonazione,1999,100,Domenico Saverni,"Paolo Villaggio, Milena Vukotic, Anna Mazzamauro",Comedy,4.5
+482,The Debt Collector,1999,109,Anthony Neilson,"Billy Connolly, Ken Stott, Francesca Annis","Action, Crime, Thriller",6.6
+483,The Red Ribbon,1999,110,Ebrahim Hatamikia,"Azita Hajian, Reza Kianian, Parviz Parastui","Drama, War",7.1
+484,A Slipping-Down Life,1999,109,Toni Kalem,"Lili Taylor, Guy Pearce, Irma P. Hall","Drama, Music, Romance",6.1
+485,All the Moron's Men,1999,109,Paolo Costella,"Carlo Taranto, Marco Santin, Giorgio Gherarducci",Comedy,5.8
+486,GTO: The Movie,1999,108,Masayuki Suzuki,"Takashi Sorimachi, Norika Fujiwara, Rena Tanaka","Comedy, Drama",6.6
+487,True Heart,1999,92,Catherine Cyran,"Kirsten Dunst, Zachery Ty Bryan, August Schellenberg","Adventure, Drama, Family",5.1
+488,Fly Me to Polaris,1999,96,Jingle Ma,"Richie Jen, Cecilia Cheung, William Wing Hong So","Drama, Fantasy, Romance",7.1
+489,Scarfies,1999,94,Robert Sarkies,"Willa O'Neill, Neill Rea, Ashleigh Seagar","Action, Comedy, Thriller",6.3
+490,Chutney Popcorn,1999,92,Nisha Ganatra,"Nisha Ganatra, Jill Hennessy, Sakina Jaffrey","Comedy, Drama",5.8
+491,Undercover Angel,1999,91,Bryan Michael Stoller,"Yasmine Bleeth, Dean Winters, Emily Mae Young","Comedy, Drama",6.5
+492,Arjun Pandit,1999,150,Rahul Rawail,"Sunny Deol, Juhi Chawla, Saurabh Shukla","Action, Crime, Drama",5.4
+493,Buddy Boy,1999,105,Mark Hanlon,"Aidan Gillen, Emmanuelle Seigner, Susan Tyrrell","Drama, Thriller",6.3
+494,The Creator,1999,90,Albert Dupontel,"Claude Perron, Albert Dupontel, Philippe Uchan",Comedy,6.8
+495,I epithesi tou gigantiaiou mousaka,1999,99,Panos H. Koutras,"Giannis Angelakis, Hristos Mantakas, Myriam Vourou","Comedy, Sci-Fi",4.7
+496,Two Ninas,1999,88,Neil Turitz,"Amanda Peet, Ron Livingston, Bray Poor","Romance, Comedy",6.1
+497,Suckers,1999,87,Roger Nygard,"Joe Yannetty, Jake Johannsen, Daniel Benzali",Comedy,6.4
+498,The Harmonium in My Memory,1999,116,Young-jae Lee,"Lee Byung-hun, Lee Dae-yeon, Jeon Do-yeon","Drama, Romance",7.2
+499,Revelation,1999,98,André van Heerden,"Jeff Fahey, Nick Mancuso, Tony Nappo","Action, Drama, Sci-Fi",4.8
+500,André Hazes: Zij Gelooft in Mij,1999,86,John Appel,"André Hazes, Jos Brink, André Hazes","Documentary, Drama",7.3
+501,The Other,1999,105,Youssef Chahine,"Hanan Turk, Hani Salama, Nabila Ebeid","Drama, Romance",6.0
+502,Set Me Free,1999,94,Léa Pool,"Karine Vanasse, Pascale Bussières, Predrag 'Miki' Manojlovic","Drama, Romance",6.9
+503,The Idiot Returns,1999,99,Sasa Gedeon,"Pavel Liska, Anna Geislerová, Tatiana Dyková","Romance, Comedy, Drama",7.2
+504,Nothing About Robert,1999,107,Pascal Bonitzer,"Fabrice Luchini, Sandrine Kiberlain, Valentina Cervi","Comedy, Drama",6.3
+505,Friends,1999,150,Siddique,"Jayaram, Mukesh, Sreenivasan","Comedy, Drama",7.6
+506,Judy Berlin,1999,93,Eric Mendelsohn,"Barbara Barrie, Bob Dishy, Edie Falco","Comedy, Drama",6.9
+507,Annaluise & Anton,1999,107,Caroline Link,"Elea Geissler, Max Felder, Juliane Köhler","Family, Comedy, Drama",7.0
+508,Stealth Fighter,1999,88,Jim Wynorski,"Ice-T, Costas Mandylor, Erika Eleniak","Action, Drama, Thriller",3.4
+509,Mast,1999,153,Ram Gopal Varma,"Aftab Shivdasani, Urmila Matondkar, Dalip Tahil","Comedy, Musical, Romance",5.4
+510,Elvis Gratton II: Miracle à Memphis,1999,105,Pierre Falardeau,"Julien Poulin, Yves Trudel, Barry Blake","Comedy, Music",5.9
+511,El corazón del guerrero,1999,110,Daniel Monzón,"Fernando Ramallo, Neus Asensi, Joel Joan","Adventure, Drama, Fantasy",5.5
+512,The White Suit,1999,90,Lazar Ristovski,"Lazar Ristovski, Radmila Shegoleva, Dragan Nikolic","Comedy, Drama, Romance",5.8
+513,Late Show,1999,111,Helmut Dietl,"Thomas Gottschalk, Harald Schmidt, Veronica Ferres",Comedy,5.6
+514,"Farewell, Home Sweet Home",1999,118,Otar Iosseliani,"Niko Tarielashvili, Lily Lavina, Philippe Bas","Comedy, Drama",7.1
+515,Top of the Food Chain,1999,99,John Paizs,"Robert Bockstael, Lorry Ayers, Ron Gabriel","Comedy, Horror, Sci-Fi",6.2
+516,Instrument,1999,115,Jem Cohen,"Brendan Canty, Joe Lally, Ian MacKaye",Documentary,7.9
+517,Beautiful Mother,1999,102,Gabriel Aghion,"Catherine Deneuve, Vincent Lindon, Mathilde Seigner",Comedy,5.5
+518,Shiloh 2: Shiloh Season,1999,96,Sandy Tung,"Zachary Browne, Scott Wilson, Michael Moriarty","Drama, Family, Thriller",6.0
+519,Volaverunt,1999,90,Bigas Luna,"Aitana Sánchez-Gijón, Penélope Cruz, Jordi Mollà","Drama, Thriller",5.7
+520,Flowers from Another World,1999,108,Icíar Bollaín,"José Sancho, Luis Tosar, Lissete Mejía","Comedy, Drama",6.7
+521,Peppermint,1999,105,Costas Kapakas,"Georges Corraface, Ageliki Spiliopoulou, Anny Loulou","Comedy, Drama, Family",6.8
+522,The Fear: Resurrection,1999,87,Chris Angel,"Gordon Currie, Stacy Grant, Phillip Rhys Chaudhary",Horror,3.2
+523,The Fish in Love,1999,90,Leonardo Pieraccioni,"Leonardo Pieraccioni, Yamila Diaz, Paolo Hendel",Comedy,5.2
+524,Moonlight Whispers,1999,100,Akihiko Shiota,"Kenji Mizuhashi, Tsugumi, Kôta Kusano","Drama, Romance",6.9
+525,A Dog of Flanders,1999,100,Kevin Brodie,"Jack Warden, Jeremy James Kissner, Jesse James","Family, Drama",6.2
+526,Samarasimha Reddy,1999,148,Gopal B.,"Nandamuri Balakrishna, Simran, Anjala Zaveri","Action, Drama",7.4
+527,The Sentimental Teaser,1999,87,Cristián Galaz,"Roberto Artiagoitía, Daniel Muñoz, Lorene Prieto","Comedy, Drama",6.6
+528,Cremaster 2,1999,79,Matthew Barney,"Norman Mailer, Matthew Barney, Anonymous",Drama,6.4
+529,Screw Loose,1999,85,Ezio Greggio,"Ezio Greggio, Mel Brooks, Julie Condra","Comedy, Romance",4.2
+530,The Girl Next Door,1999,82,Christine Fugate,"Stacy Valentine, Jack Gallagher, Russell Hampshire",Documentary,6.0
+531,Hippolyt,1999,93,"Barna Kabay, Katalin Petényi","Károly Eperjes, Róbert Koltai, Judit Pogány",Comedy,4.6
+532,New World Disorder,1999,94,Richard Spence,"Rutger Hauer, Tara Fitzgerald, Andrew McCarthy",Action,4.4
+533,Interceptor Force,1999,97,Phillip J. Roth,"Olivier Gruner, Brad Dourif, Ernie Hudson","Action, Drama, Sci-Fi",3.8
+534,Sorry Baby,1999,95,Xiaogang Feng,"You Ge, Chien-Lien Wu, Biao Fu","Comedy, Drama",6.8
+535,Strange Planet,1999,96,Emma-Kate Croghan,"Claudia Karvan, Naomi Watts, Alice Garner","Comedy, Romance",5.6
+536,Choke,1999,98,Robert Raphael Goodman,"Dale Cook, Wayne Emons, Gerard Gordeau","Documentary, Sport",7.4
+537,The Item,1999,100,Dan Clark,"DawnMarie Ferrara, Dan Clark, Dave Pressler","Action, Comedy, Crime",2.7
+538,Dreaming of Joseph Lees,1999,92,Eric Styles,"Rupert Graves, Samantha Morton, Nicholas Woodeson","Drama, Romance",6.3
+539,The Last September,1999,103,Deborah Warner,"Michael Gambon, Tom Hickey, Keeley Hawes","Drama, History, Romance",6.0
+540,Adrenaline Drive,1999,112,Shinobu Yaguchi,"Masanobu Andô, Hikari Ishida, Chikara Ishikura","Comedy, Crime, Romance",6.9
+541,Orfeu,1999,110,Carlos Diegues,"Toni Garrido, Patrícia França, Murilo Benício","Crime, Drama, Music",5.5
+542,"Ratas, ratones, rateros",1999,107,Sebastián Cordero,"Carlos Valencia, Marco Bustos, Cristina Dávila","Action, Crime, Drama",7.3
+543,Hemlock,1999,84,Behruz Afkhami,"Fariborz Arabnia, Hediyeh Tehrani, Mohammad Saleh Ala",Drama,6.6
+544,Todd McFarlane's Spawn 3: The Ultimate Battle,1999,140,"Chuck Patton, Brad Rader, Mike Vosburg","Keith David, Richard Dysart, Dominique Jennings","Animation, Action, Drama",8.2
+545,Lotus Lantern,1999,85,Guang Xi Chang,"Wen Jiang, Fan Xu, Jing Ning","Animation, Action, Adventure",6.8
+546,Tom's Midnight Garden,1999,107,Willard Carroll,"Nigel Le Vaillant, Marlene Sidaway, Serena Gordon","Adventure, Family, Fantasy",6.5
+547,Khoobsurat,1999,149,Sanjay Chhel,"Sanjay Dutt, Urmila Matondkar, Om Puri","Action, Comedy, Romance",5.3
+548,Sugar Town,1999,92,"Allison Anders, Kurt Voss","Jade Gordon, John Taylor, Michael Des Barres","Comedy, Music",6.0
+549,No Vacancy,1999,84,Marius Vaysberg,"Olek Krupa, Lolita Davidovich, Timothy Olyphant","Comedy, Drama, Romance",4.7
+550,Spy Games,1999,95,Ilkka Järvi-Laturi,"Bill Pullman, Irène Jacob, Bruno Kirby","Action, Comedy, Romance",4.5
+551,"Le ciel, les oiseaux,... et ta mère!",1999,90,Djamel Bensalah,"Jamel Debbouze, Stéphane Soo Mongo, Lorànt Deutsch",Comedy,5.1
+552,To Walk with Lions,1999,108,Carl Schultz,"Richard Harris, John Michie, Kerry Fox","Adventure, Biography, Drama",6.7
+553,The Little Girl Who Sold the Sun,1999,45,Djibril Diop Mambéty,"Moussa Baldé, Lissa Balera, Aminata Fall","Drama, Family",7.4
+554,The Intruder,1999,94,David Bailey,"Charlotte Gainsbourg, Charles Edwin Powell, Nastassja Kinski","Drama, Mystery, Romance",4.8
+555,Sunburn,1999,89,Nelson Hume,"Paloma Baeza, Cillian Murphy, Barry Ward","Comedy, Drama",6.4
+556,Quasimodo d'El Paris,1999,100,Patrick Timsit,"Patrick Timsit, Richard Berry, Mélanie Thierry","Comedy, Crime",5.2
+557,Velocity Trap,1999,86,Phillip J. Roth,"Olivier Gruner, Alicia Coppola, Ken Olandt","Action, Sci-Fi",4.5
+558,Bullets Over Summer,1999,92,Wilson Yip,"Francis Ng, Louis Koo, Helena Law","Action, Crime, Drama",6.7
+559,With or Without You,1999,93,Michael Winterbottom,"Christopher Eccleston, Dervla Kirwan, Yvan Attal","Drama, Romance",6.1
+560,Thilyki etaireia,1999,104,Nicos Perakis,"Maria Georgiadou, Smaragda Diamandidou, Sofi Zanninou","Comedy, Romance",5.0
+561,Whatever,1999,120,Philippe Harel,"Philippe Harel, José Garcia, Philippe Bianco",Drama,6.9
+562,The Girl in the Sneakers,1999,110,Rasoul Sadrameli,"Pegah Ahangarani, Majid Hajizadeh, Akram Mohammadi","Drama, Family",6.2
+563,Blokpost,1999,85,Aleksandr Rogozhkin,"Roman Romantsov, Kirill Ulyanov, Ivan Kuzmin","Drama, Romance, War",7.2
+564,The New Adventures of Pinocchio,1999,94,Michael Anderson,"Martin Landau, Udo Kier, Gabriel Thomson","Adventure, Family, Fantasy",5.0
+565,I Will Survive,1999,102,"Alfonso Albacete, David Menkes","Emma Suárez, Juan Diego Botto, Mirta Ibarra","Comedy, Drama, Romance",6.2
+566,Final Voyage,1999,95,Jim Wynorski,"Dylan Walsh, Ice-T, Erika Eleniak","Action, Drama, Thriller",3.7
+567,Nichts als die Wahrheit,1999,128,Roland Suso Richter,"Kai Wiesinger, Götz George, Karoline Eichhorn","Crime, Drama, Thriller",7.3
+568,The Protagonists,1999,92,Luca Guadagnino,"Tilda Swinton, Fabrizia Sacchi, Andrew Tiernan","Crime, Thriller",5.3
+569,Violent Shit III: Infantry of Doom,1999,85,Andreas Schnaas,"Andreas Schnaas, Marc Trinkhaus, Steve Aquilina","Action, Horror",4.1
+570,Shikoku,1999,100,Shunichi Nagasaki,"Yui Natsukawa, Michitaka Tsutsui, Chiaki Kuriyama","Drama, Horror, Mystery",5.6
+571,"Simon, the Magician",1999,100,Ildikó Enyedi,"Péter Andorai, Julie Delarme, Péter Halász",Drama,7.1
+572,Hot Wax Zombies on Wheels,1999,82,Michael Roush,"Jill Miller, Gwen Somers, Trevor Lovell","Comedy, Horror",3.2
+573,Pourquoi pas moi?,1999,96,Stéphane Giusti,"Amira Casar, Julie Gayet, Bruno Putzulu","Comedy, Romance",6.3
+574,Kadhalar Dinam,1999,147,Kathir,"Kunal, Sonali Bendre, Nassar","Drama, Musical, Romance",6.6
+575,Flypaper,1999,108,Klaus Hoch,"Craig Sheffer, Robert Loggia, Sadie Frost","Comedy, Crime",5.2
+576,Asansör,1999,89,Mustafa Altioklar,"Mustafa Ugurlu, Arzu Yanardag, Demet Sener",Drama,4.6
+577,Women Talking Dirty,1999,97,Coky Giedroyc,"Helena Bonham Carter, Gina McKee, Eileen Atkins","Comedy, Romance",6.0
+578,News from a Personal War,1999,57,"Kátia Lund, João Moreira Salles","Nilton Cerqueira, Carlos Luis Gregório, Paulo Lins",Documentary,8.2
+579,Tail Lights Fade,1999,87,Malcolm Ingram,"Jaimz Woolvett, Breckin Meyer, Jake Busey","Action, Comedy, Drama",4.7
+580,In the Woods,1999,80,Lynn Drzick,"DJ Perry, Aimee Tenaglia, Tim Jeffrey",Horror,2.3
+581,Woman Wanted,1999,110,Kiefer Sutherland,"Holly Hunter, Kiefer Sutherland, Michael Moriarty","Drama, Romance",5.4
+582,The Pornographer,1999,89,Doug Atchison,"Michael DeGood, Craig Wasson, Monique Parent",Drama,5.3
+583,The Source,1999,88,Chuck Workman,"Johnny Depp, John Turturro, Dennis Hopper","Documentary, Biography, History",7.2
+584,The Man-Eater,1999,80,Aurelio Grimaldi,"Loredana Cannata, Arturo Paglia, Pascal Persiano","Comedy, Drama",4.3
+585,Daag: The Fire,1999,152,Raj Kanwar,"Sanjay Dutt, Chandrachur Singh, Mahima Chaudhry","Action, Drama, Thriller",5.0
+586,The Lake,1999,91,Hans Åke Gabrielsson,"Regina Lund, Mats Rudal, Björn Gedda","Thriller, Mystery",4.7
+587,The Big Brass Ring,1999,104,George Hickenlooper,"William Hurt, Nigel Hawthorne, Miranda Richardson",Drama,5.3
+588,A Texas Funeral,1999,98,William Blake Herron,"Quinton Jones, Robert Patrick, Jane Adams","Comedy, Drama, Fantasy",6.2
+589,The Naked Man,1999,98,J. Todd Anderson,"Michael Rapaport, Michael Jeter, John Carroll Lynch","Comedy, Drama, Sport",5.1
+590,Olsenbandens siste stikk,1999,90,Knut Bohwim,"Arve Opsahl, Sverre Holm, Aud Schønemann","Comedy, Family",5.3
+591,Ajlawju,1999,87,Marek Koterski,"Cezary Pazura, Katarzyna Figura, Zbigniew Buczkowski","Comedy, Drama, Romance",5.5
+592,Cetverored,1999,123,Jakov Sedlar,"Ivan Marevich, Ena Begovic, Goran Navojec","Drama, History, War",4.1
+593,La maladie de Sachs,1999,107,Michel Deville,"Albert Dupontel, Valérie Dréville, Dominique Reymond",Drama,7.2
+594,Possessed,1999,99,Anders Rønnow Klarlund,"Ole Lemmeke, Kirsti Eline Torhaug, Ole Ernst","Drama, Fantasy, Horror",6.1
+595,Not of This World,1999,100,Giuseppe Piccioni,"Margherita Buy, Silvio Orlando, Carolina Freschi",Drama,7.2
+596,Kimberly,1999,110,Frederic Golchan,"Veronica Alicino, Gabrielle Anwar, Willow Anwar","Comedy, Romance",5.1
+597,Oi! Warning,1999,90,"Ben Reding, Dominik Reding","Sascha Backhaus, Simon Goerts, Sandra Borgmann",Drama,6.1
+598,New Blood,1999,98,Michael Hurst,"John Hurt, Nick Moran, Carrie-Anne Moss","Action, Thriller",5.3
+599,Guardami,1999,95,Davide Ferrario,"Elisabetta Cavallotti, Stefania Orsola Garello, Flavio Insinna","Biography, Drama",5.5
+600,Raja,1999,175,Muppalaneni Siva,"Venkatesh Daggubati, Soundarya, Abbas",Family,7.7
+601,Castle Ra-Tim-Bum,1999,108,Cao Hamburger,"Diego Kozievitch, Rosi Campos, Sérgio Mamberti","Adventure, Comedy, Family",6.3
+602,Himitsu,1999,119,Yôjirô Takita,"Ryôko Hirosue, Kaoru Kobayashi, Ken Kaneko","Drama, Fantasy",6.8
+603,"6:3, avagy játszd újra Tutti",1999,94,Péter Tímár,"Károly Eperjes, Kriszta Szalay, Tamás Cseh",Comedy,5.7
+604,Endrendrum Kadhal,1999,150,Manoj Bhatnagar,"Joseph Vijay, Anju, Bhanupriya","Drama, Romance",7.2
+605,Ma petite entreprise,1999,96,Pierre Jolivet,"Vincent Lindon, François Berléand, Roschdy Zem","Comedy, Drama",6.4
+606,Kulkuri ja joutsen,1999,117,Timo Koivusalo,"Tapio Liinoja, Martti Suosalo, Heikki Nousiainen","Biography, Drama, Music",6.6
+607,The Spousals of God,1999,150,João César Monteiro,"Rita Durão, João César Monteiro, Joana Azevedo",Comedy,7.2
+608,Presence of Mind,1999,94,Antoni Aloy,"Sadie Frost, Lauren Bacall, Ella Jones","Drama, Horror, Thriller",5.3
+609,Fever,1999,92,Alex Winter,"Henry Thomas, David O'Hara, Teri Hatcher","Drama, Mystery, Thriller",5.5
+610,Operation Simoon,1999,88,Wladyslaw Pasikowski,"Marek Kondrat, Boguslaw Linda, Olaf Lubaszenko","Action, Drama",5.3
+611,Tenchi Forever!: The Movie,1999,95,Hiroshi Negishi,"Masami Kikuchi, Ai Orikasa, Yuri Amano","Animation, Adventure, Comedy",7.1
+612,The Letter,1999,107,Manoel de Oliveira,"Chiara Mastroianni, Pedro Abrunhosa, Antoine Chappey","Drama, Music",6.2
+613,Meet Prince Charming,1999,94,Brett Parker,"Tia Carrere, David Charvet, Nia Vardalos","Drama, Romance",4.9
+614,Tempting Heart,1999,115,Sylvia Chang,"Takeshi Kaneshiro, Gigi Leung, Karen Mok","Drama, Romance",7.1
+615,I'll Remember April,1999,90,Bob Clark,"Pat Morita, Trevor Morgan, Pam Dawber","Drama, Family, War",6.3
+616,Nenjinile,1999,122,S.A. Chandrashekhar,"Devan, Isha Koppikar, Raali","Action, Crime, Drama",6.9
+617,Dementia,1999,86,Zeph E. Daniel,"Marisol Padilla Sánchez, Patricia Bursiel, Matt Schulze","Horror, Thriller",4.3
+618,Anari No. 1,1999,169,Kuku Kohli,"Govinda, Raveena Tandon, Simran",Comedy,5.1
+619,The Corndog Man,1999,83,Andrew Shea,"Noble Willingham, Jim Holmes, David Steen",Drama,7.1
+620,One More Kiss,1999,97,Vadim Jean,"Valerie Edmond, Gerard Butler, Valerie Gogan","Drama, Romance",5.7
+621,Nós Que Aqui Estamos por Vós Esperamos,1999,73,Marcelo Masagão,Franz Reichelt,Documentary,8.1
+622,Kohram,1999,150,Mehul Kumar,"Amitabh Bachchan, Nana Patekar, Tabu","Action, Comedy, Drama",5.4
+623,Európa expressz,1999,114,Csaba Horváth,"András Stohl, Kata Dobó, Iván Kamarás","Action, Adventure, Thriller",3.4
+624,Mauvaises fréquentations,1999,98,Jean-Pierre Améris,"Maud Forget, Lou Doillon, Robinson Stévenin","Drama, Romance",6.5
+625,Phone Sex,1999,92,Jose Javier Reyes,"Ara Mina, Lee Robin Salazar, Mark Angelo Wilson","Drama, Thriller",6.1
+626,Victim,1999,104,Ringo Lam,"Tony Ka Fai Leung, Ching-Wan Lau, Amy Kwok","Crime, Horror, Mystery",6.5
+627,Kennedy et moi,1999,86,Sam Karmann,"Jean-Pierre Bacri, Nicole Garcia, Patrick Chesnais",Comedy,6.6
+628,The Florentine,1999,104,Nick Stagliano,"Jeremy Davies, Virginia Madsen, Luke Perry","Comedy, Drama",5.6
+629,Running Free,1999,81,Sergei Bodrov,"Chase Moore, Maria Geelbooi, Arie Verveen","Adventure, Drama, Family",5.4
+630,Let the Devil Wear Black,1999,89,Stacy Title,"Jonathan Penner, Randall Batinkoff, Norman Reedus","Crime, Drama, Thriller",5.0
+631,Lovers,1999,100,Jean-Marc Barr,"Élodie Bouchez, Sergej Trifunovic, Madeleine Barr",Drama,6.2
+632,Straight Shooter,1999,88,Thomas Bohn,"Dennis Hopper, Heino Ferch, Katja Flint","Crime, Drama, Thriller",5.0
+633,The Delivery,1999,105,Roel Reiné,"Fedja van Huêt, Frederick Stuart, Aurélie Meriel","Action, Adventure, Comedy",5.1
+634,Uninvited Guest,1999,116,Timothy Wayne Folsome,"Mekhi Phifer, Mari Morrow, Mel Jackson","Drama, Thriller",5.1
+635,Lal Baadshah,1999,180,K.C. Bokadia,"Amitabh Bachchan, Manisha Koirala, Shilpa Shetty Kundra","Action, Crime, Drama",3.3
+636,Niram,1999,151,Kamal,"Kunchacko Boban, Shalini, Lalu Alex","Comedy, Musical, Romance",7.1
+637,Zulmi,1999,129,Kuku Kohli,"Akshay Kumar, Twinkle Khanna, Aruna Irani","Action, Drama",4.2
+638,Saimin,1999,110,Masayuki Ochiai,"Gorô Inagaki, Miho Kanno, Takeshi Masu","Fantasy, Horror, Thriller",6.1
+639,Get Bruce,1999,82,Andrew J. Kuehn,"Whoopi Goldberg, Bette Midler, Robin Williams",Documentary,6.2
+640,Furia,1999,90,Alexandre Aja,"Stanislas Merhar, Marion Cotillard, Wadeck Stanczak","Drama, Romance, Sci-Fi",5.3
+641,The Einstein of Sex,1999,100,Rosa von Praunheim,"Kai Schumann, Friedel von Wangenheim, Ben Becker","Biography, Drama, History",6.2
+642,La Dilettante,1999,118,Pascal Thomas,"Catherine Frot, Sébastien Cotterot, Barbara Schulz",Comedy,6.4
+643,The New Eve,1999,94,Catherine Corsini,"Karin Viard, Pierre-Loup Rajot, Catherine Frot","Comedy, Drama, Romance",6.0
+644,Treehouse Hostage,1999,91,Sean McNamara,"Jim Varney, Joey Zimmerman, Todd Bosley","Adventure, Comedy, Crime",5.2
+645,Night Wind,1999,95,Philippe Garrel,"Catherine Deneuve, Daniel Duval, Xavier Beauvois",Drama,6.2
+646,Durusma,1999,101,Yalçin Yelence,"Meltem Cumbul, Zafer Algöz, Güven Kiraç","Family, Comedy, Romance",5.7
+647,Night Shapes,1999,101,Andreas Dresen,"Meriam Abbas, Dominique Horwitz, Oliver Breite","Comedy, Drama",7.4
+648,The Woman Chaser,1999,90,Robinson Devor,"Patrick Warburton, Eugene Roche, Ron Morgan",Comedy,7.0
+649,Kate's Addiction,1999,90,Eric DelaBarre,"Kari Wuhrer, Farrah Forke, Matthew Porretta",Thriller,4.2
+650,Away with Words,1999,90,Christopher Doyle,"Tadanobu Asano, Georgina Hobson, Christa Hughes",Drama,6.4
+651,The Moment After,1999,89,Wes Llewellyn,"Julie Link, Mike Wilson, David A.R. White","Action, Drama, Sci-Fi",4.4
+652,Veendum Chila Veettukaryangal,1999,150,Sathyan Anthikad,"Jayaram, Thilakan, Samyuktha Varma","Comedy, Drama, Romance",7.7
+653,Man Woman Film,1999,95,Cameron Pearson,"Steve Abee, Lee Arenberg, Matt Baxter",Comedy,2.3
+654,The Cherry Orchard,1999,141,Michael Cacoyannis,"Charlotte Rampling, Alan Bates, Tushka Bergen",Drama,6.4
+655,Purple Storm,1999,112,Teddy Chan,"Daniel Wu, Kwok-Leung Kam, Emil Chau","Action, Crime, Thriller",6.2
+656,Avalanche,1999,96,Steve Kroschel,"Thomas Ian Griffith, Caroleen Feeney, R. Lee Ermey","Action, Thriller",4.3
+657,Thakshak,1999,163,Govind Nihalani,"Ajay Devgn, Tabu, Amrish Puri","Action, Crime, Drama",6.0
+658,Le petit voleur,1999,100,Erick Zonca,"Nicolas Duvauchelle, Yann Trégouët, Jean-Jérôme Esposito","Crime, Drama",7.0
+659,Erskineville Kings,1999,90,Alan White,"Marty Denniss, Hugh Jackman, Andrew Wholley",Drama,6.2
+660,Heart,1999,85,Charles McDougall,"Saskia Reeves, Christopher Eccleston, Kate Hardie","Drama, Thriller",6.4
+661,Thicker Than Water,1999,91,Richard Cummings Jr.,"Mack 10, Fat Joe, Ice Cube",Drama,4.7
+662,Ice from the Sun,1999,120,Eric Stanze,"D.J. Vivona, Ramona Midgett, Angela Zimmerly","Fantasy, Horror",4.2
+663,Cold Harvest,1999,89,Isaac Florentine,"Gary Daniels, Bryan Genesse, Barbara Crampton","Action, Sci-Fi",5.3
+664,Embrace the Darkness,1999,93,Kelley Cauthen,"Madison Clark, Angelia High, Kevin Spirtas","Drama, Horror",3.4
+665,Hindustan Ki Kasam,1999,146,Veeru Devgan,"Amitabh Bachchan, Ajay Devgn, Manisha Koirala","Action, Drama",3.5
+666,Teenage Space Vampires,1999,83,Martin Wood,"Robin Dunne, Mac Fyfe, James Kee","Action, Sci-Fi",2.8
+667,The Devil and Ms. D,1999,101,Bernd Eichinger,"Til Schweiger, Corinna Harfouch, Thomas Heinze","Comedy, Crime",5.5
+668,Dead End,1999,95,Iren Koster,"William Snow, Victoria Hill, Matthew Dyktynski","Crime, Drama, Horror",5.1
+669,Freak Talks About Sex,1999,90,Paul Todisco,"Steve Zahn, Josh Hamilton, David Kinney",Comedy,5.9
+670,In Her Defense,1999,97,Sidney J. Furie,"Marlee Matlin, Daniel Pilon, Michael Dudikoff","Drama, Thriller, Romance",5.3
+671,Five Aces,1999,95,David Michael O'Neill,"Charlie Sheen, Christopher McDonald, David Sherrill","Comedy, Drama",5.1
+672,Poovellam Kettuppar,1999,148,Vasanth,"Suriya, Jyotika, Vijayakumar","Comedy, Romance",6.5
+673,Desecration,1999,88,Dante Tomaselli,"Irma St. Paule, Christie Sanford, Danny Lopes","Drama, Horror",4.3
+674,G:MT Greenwich Mean Time,1999,117,John Strickland,"Steve John Shepherd, Ben Waters, Alec Newman","Drama, Music, Crime",6.6
+675,Little Cheung,1999,118,Fruit Chan,"Yuet-Ming Yiu, Wai-Fan Mak, Yuet-Man Mak",Drama,7.4
+676,Kill the Man,1999,88,"Tom Booker, Jon Kean","Luke Wilson, Joshua Malina, Paula Devicq","Romance, Comedy",5.0
+677,Mr. Rice's Secret,1999,113,Nicholas Kendall,"David Bowie, Bill Switzer, Teryl Rothery","Drama, Family, Fantasy",5.8
+678,After Stonewall,1999,88,John Scagliotti,"Craig Rodwell, Melissa Etheridge, Mike Carney","Documentary, Biography, History",7.5
+679,The Basket,1999,105,Rich Cowan,"Peter Coyote, Karen Allen, Robert Burke",Drama,6.4
+680,Grizzly Falls,1999,94,Stewart Raffill,"Richard Harris, Chantel Dick, Trevor Lowden","Adventure, Drama",5.9
+681,Kartoos,1999,124,"Mahesh Bhatt, Ken Ghosh","Sanjay Dutt, Jackie Shroff, Manisha Koirala","Action, Thriller",5.1
+682,Salsa and Love,1999,100,Joyce Buñuel,"Christianne Gout, Vincent Lecoeur, Catherine Samie","Comedy, Drama, Music",6.2
+683,Treasure Island,1999,94,Peter Rowe,"Sarah Holland, Pax Lohan, Anthony Booth","Adventure, Family",5.2
+684,Wirey Spindell,1999,101,Eric Schaeffer,"Eric Schaeffer, Eric Mabius, Devin Matthews",Comedy,5.2
+685,If You Only Knew,1999,107,David Snedeker,"Johnathon Schaech, Alison Eastwood, James Le Gros","Comedy, Romance",5.5
+686,The Ugliest Woman in the World,1999,108,Miguel Bardem,"Elia Galera, Roberto Álvarez, Javivi","Comedy, Crime, Sci-Fi",5.0
+687,Funny Valentines,1999,108,Julie Dash,"Alfre Woodard, Loretta Devine, CCH Pounder",Drama,7.5
+688,Gregory's Two Girls,1999,116,Bill Forsyth,"Carly McKinnon, John Gordon Sinclair, John Murtagh",Comedy,5.1
+689,Hogi Pyaar Ki Jeet,1999,180,P. Vasu,"Ajay Devgn, Shabana Raza, Arshad Warsi","Action, Comedy, Drama",4.5
+690,Kiss Toledo Goodbye,1999,96,Lyndon Chubbuck,"Michael Rapaport, Christopher Walken, Robert Forster","Comedy, Thriller",4.7
+691,The Book of Stars,1999,111,Michael Miner,"Mary Stuart Masterson, Jena Malone, Karl Geary",Drama,6.8
+692,Lapin kullan kimallus,1999,158,Åke Lindman,"Vesa Vierikko, Pirkka-Pekka Petelius, Lasse Pöysti","Drama, History",5.9
+693,Celos,1999,105,Vicente Aranda,"Aitana Sánchez-Gijón, Daniel Giménez Cacho, María Botto","Drama, Thriller",6.1
+694,Murdercycle,1999,90,Thomas L. Callaway,"Charles Wesley, Cassandra Ellis, Robert Donavan","Action, Sci-Fi",3.4
+695,The Bridge,1999,95,"Frédéric Auburtin, Gérard Depardieu","Carole Bouquet, Gérard Depardieu, Charles Berling","Drama, Romance",6.3
+696,Let It Snow,1999,90,Adam Marcus,"Kipp Marcus, Bernadette Peters, Alice Dylan","Comedy, Romance",5.5
+697,If... Dog... Rabbit,1999,108,Matthew Modine,"Matthew Modine, David Keith, John Hurt","Crime, Drama, Thriller",5.4
+698,Two Shades of Blue,1999,103,James D. Deck,"Rachel Hunter, Marlee Matlin, Gary Busey",Thriller,3.8
+699,Shades,1999,93,Erik Van Looy,"Mickey Rourke, Gene Bervoets, Andrew Howard","Drama, Comedy",5.2
+700,Luminarias,1999,100,José Luis Valenzuela,"Evelina Fernández, Scott Bakula, Cheech Marin","Comedy, Romance",5.3
+701,Seventeen Years,1999,90,Yuan Zhang,"Lin Liu, Bingbing Li, Yeding Li",Drama,7.0
+702,Ladies Room,1999,90,Gabriella Cristiani,"Molly Parker, Veronica Ferres, Lorraine Bracco","Comedy, Drama",4.6
+703,Game Day,1999,106,Steve Klein,"Richard Lewis, Sean Squire, Gerry Becker","Comedy, Drama, Sport",5.4
+704,Y2K,1999,106,Richard Pepin,"Louis Gossett Jr., Jaimz Woolvett, Ed O'Ross","Action, Thriller",4.2
+705,Simon Magus,1999,101,Ben Hopkins,"Noah Taylor, Stuart Townsend, Embeth Davidtz","Mystery, Fantasy, Romance",6.9
+706,The Haunting of Hell House,1999,90,Mitch Marcus,"Michael York, Andrew Bowen, Jason Cottle","Horror, Thriller",4.3
+707,Red Team,1999,90,Jeremy Haft,"Patrick Muldoon, Cathy Moriarty, Tim Thomerson","Action, Crime, Thriller",4.5
+708,Pettson & Findus - Katten och gubbens år,1999,75,Albert Hanan Kaminski,"Tommy Karlsen, Kalle Lundberg, Tord Peterson","Animation, Adventure, Family",6.5
+709,Table for One,1999,110,Ron Senkowski,"Rebecca De Mornay, Michael Rooker, Mark Rolston","Drama, Thriller",5.2
+710,Ustaad,1999,165,Sibi Malayil,"Mohanlal, Divyaa Unni, Indraja","Action, Drama, Thriller",6.4
+711,The Conmen in Vegas,1999,93,Jing Wong,"Pak-Cheung Chan, Nick Cheung, Andy Lau",Comedy,5.5
+712,Babar: King of the Elephants,1999,80,Raymond Jafelice,"Philip Williams, Wayne Robson, Ellen-Ray Hennessy","Family, Animation",6.0
+713,The Craic,1999,86,Ted Emery,"Jimeoin, Alan McKee, Colin Hay",Comedy,5.6
+714,Let's Mambo!,1999,95,Lucio Pellegrini,"Luca Bizzarri, Paolo Kessisoglu, Luciana Littizzetto",Comedy,6.3
+715,Convergence,1999,93,Gavin Wilding,"Cynthia Preston, Adrian Paul, Christopher Lloyd","Mystery, Thriller",4.2
+716,The Dream Catcher,1999,99,Ed Radtke,"Maurice Compte, Paddy Connor, Jeanne Heaton",Drama,6.8
+717,All My Loved Ones,1999,91,Matej Minac,"Rupert Graves, Josef Abrhám, Jirí Bartoska","Drama, War",7.3
+718,Nordrand,1999,103,Barbara Albert,"Nina Proll, Edita Malovcic, Astrit Alihajdaraj",Drama,7.1
+719,Moonlight Express,1999,101,Daniel Lee,"Leslie Cheung, Takako Tokiwa, Yuka Hoshino","Crime, Drama, Romance",6.2
+720,Bye Bye Blue Bird,1999,97,Katrin Ottarsdóttir,"Hildigunn Eyðfinsdóttir, Sigri Mitra Gaïni, Johan Dalsgaard","Comedy, Drama",6.4
+721,Keep It Quiet,1999,105,Benoît Jacquot,"Fabrice Luchini, Isabelle Huppert, Vincent Lindon",Drama,6.0
+722,Vivid,1999,84,Evan Georgiades,"Stephen Shellen, Kari Wuhrer, Ilene Kristen","Drama, Romance",4.2
+723,Beresina or The Last Days of Switzerland,1999,108,Daniel Schmid,"Elena Panova, Geraldine Chaplin, Martin Benrath",Comedy,6.6
+724,Tiger Claws III,1999,95,J. Stephen Maunder,"Jalal Merhi, Cynthia Rothrock, Loren Avedon","Action, Fantasy",4.0
+725,Metade Fumaca,1999,101,Kam-Hung Yip,"Eric Tsang, Nicholas Tse, Shu Qi","Drama, Romance",7.0
+726,Forbidden Sins,1999,93,Robert Angelo,"Michael A. Licata, Kirstin Pierce, Corbin Timbrook","Crime, Drama, Thriller",4.1
+727,París Tombuctú,1999,113,Luis García Berlanga,"Michel Piccoli, Concha Velasco, Amparo Soler Leal","Comedy, Drama",5.5
+728,Yana's Friends,1999,90,Arik Kaplun,"Evelyn Kaplun, Nir Levy, Shmil Ben Ari","Comedy, Drama, Romance",7.1
+729,The Legend of Speed,1999,109,Wai Keung Lau,"Ekin Cheng, Cecilia Cheung, Danny Kwok-Kwan Chan","Action, Thriller",6.0
+730,Comme un poisson hors de l'eau,1999,90,Hervé Hadmar,"Tchéky Karyo, Monica Bellucci, Dominique Pinon","Comedy, Crime, Thriller",5.7
+731,Madeline: Lost in Paris,1999,74,"Stan Phillips, Marija Miletic Dail","Lauren Bacall, Jason Alexander, Garry Chalk","Animation, Adventure, Comedy",6.1
+732,Hum Tum Pe Marte Hain,1999,165,Nabh Kumar 'Raju',"Govinda, Urmila Matondkar, Dimple Kapadia","Action, Comedy, Drama",5.0
+733,Ammajan,1999,145,Kazi Hayat,"Shabnam, Manna, Mousumi","Action, Crime, Drama",7.9
+734,Trafic d'influence,1999,95,Dominique Farrugia,"Thierry Lhermitte, Gérard Jugnot, Aure Atika",Comedy,4.5
+735,In a Savage Land,1999,115,Bill Bennett,"Rufus Sewell, Martin Donovan, Maya Stange","Adventure, Drama",6.1
+736,Alegría,1999,94,Franco Dragone,"René Bazinet, Frank Langella, Mako","Drama, Romance, Fantasy",6.6
+737,Le derrière,1999,102,Valérie Lemercier,"Valérie Lemercier, Claude Rich, Dieudonné",Comedy,5.7
+738,The Duke,1999,88,Philip Spink,"John Neville, James Doohan, Courtnee Draper","Comedy, Drama, Family",4.4
+739,The Nanny,1999,106,Marco Bellocchio,"Fabrizio Bentivoglio, Valeria Bruni Tedeschi, Maya Sansa",Drama,6.7
+740,Nice Guys Sleep Alone,1999,92,Stu Pollard,"Michael Greene, Sean O'Bryan, Susannah Cranage","Romance, Comedy",5.7
+741,Goosed,1999,95,Aleta Chappelle,"Jennifer Tilly, Danielle Harris, Joan Rivers",Comedy,4.3
+742,Little Saints,1999,105,Alejandro Springall,"Dolores Heredia, Demián Bichir, Alberto Estrella","Comedy, Drama",6.6
+743,The Last Seduction II,1999,96,Terry Marcel,"Joseph Pilato, David Gilliam, Joan Severance","Crime, Drama, Thriller",4.2
+744,Darkness Falls,1999,90,Gerry Lively,"Sherilyn Fenn, Ray Winstone, Tim Dutton","Drama, Thriller",5.5
+745,Wildflowers,1999,93,Melissa Painter,"Clea DuVall, Daryl Hannah, Tomas Arana",Drama,5.5
+746,A Fit of Rage,1999,70,Aluizio Abranches,"Alexandre Borges, Júlia Lemmertz, Ruth de Souza",Drama,5.2
+747,Soft Fruit,1999,101,Christina Andreef,"Jeanie Drynan, Linal Haft, Russell Dykstra","Comedy, Drama",6.6
+748,Jezus is een Palestijn,1999,110,Lodewijk Crijns,"Hans Teeuwen, Kim van Kooten, Dijn Blom",Comedy,6.3
+749,The Life Before This,1999,92,Jerry Ciccoritti,"Catherine O'Hara, Joe Pantoliano, Sarah Polley","Action, Crime, Drama",6.0
+750,Touch Me in the Morning,1999,80,Giuseppe Andrews,"Bill Nowlin, Giuseppe Andrews, Ruth Estes","Comedy, Drama",6.9
+751,Faeries,1999,90,Gary Hurst,"Kate Winslet, Jeremy Irons, Dougray Scott","Animation, Adventure, Family",5.4
+752,Manuelita,1999,86,Manuel García Ferré,"Pelusa Suero, Rosario Sánchez Almada, Enrique Conlazo","Animation, Adventure, Comedy",5.3
+753,Scorpio Nights 2,1999,96,Erik Matti,"Albert Martinez, Joyce Jimenez, Daisy Reyes",Drama,5.4
+754,Sonic Impact,1999,94,Rodney McDonald,"James Russo, Ice-T, Michael Harris","Action, Thriller",4.2
+755,Sherdil,1999,97,"Gita Mallik, David Flamholc","Rebecka Liljeberg, Hanna Alström, Sebastian Hulthén",Family,3.9
+756,A Monkey's Tale,1999,76,Jean-François Laguionie,"Matt Hill, Sally Ann Marsh, John Hurt","Animation, Adventure, Family",5.8
+757,Veronica 2030,1999,70,Gary Graver,"Julia Ann Tavella, Joseph Roth, Everett Rodd","Romance, Sci-Fi",3.9
+758,Owls' Castle,1999,138,Masahiro Shinoda,"Kiichi Nakai, Mayu Tsuruta, Riona Hazuki","Action, Drama",6.1
+759,The Black House,1999,118,Yoshimitsu Morita,"Seiyô Uchino, Shinobu Ôtake, Masahiko Nishimura","Comedy, Drama, Horror",6.2
+760,Xuxa Requebra,1999,84,Tizuka Yamasaki,"Xuxa, Daniel, Marcia de Oliveira","Comedy, Crime, Drama",2.1
+761,The Awakening of Gabriella,1999,93,Carlton McRae,"Susan Featherly, Mark Ritter, Jeannie Millar",Drama,4.7
+762,Me and Will,1999,101,"Melissa Behr, Sherrie Rose","Sherrie Rose, Jason Hall, Bret Domrose",Drama,5.1
+763,Delta Force One: The Lost Patrol,1999,93,Joseph Zito,"Gary Daniels, Mike Norris, Bentley Mitchum",Action,2.8
+764,One Piece!,1999,75,"Takuji Suzuki, Shinobu Yaguchi","Travis Mullenix, Satoru Jitsunashi, Jason C. Kane",Comedy,8.4
+765,Cotton Mary,1999,124,"Ismail Merchant, Madhur Jaffrey","Greta Scacchi, Madhur Jaffrey, James Wilby",Drama,5.3
+766,Where a Good Man Goes,1999,90,Johnnie To,"Ching-Wan Lau, Ruby Wong, Yiu-Cheung Lai","Action, Drama, Thriller",6.7
+767,Out in Fifty,1999,103,"Bojesse Christopher, Scott Anthony Leet","Mickey Rourke, Scott Anthony Leet, Bojesse Christopher","Action, Crime, Drama",3.8
+768,The Key to Sex,1999,86,John Quinn,"Maria Ford, Scott Carson, Jeannie Millar","Comedy, Drama, Romance",4.9
+769,No Trains No Planes,1999,105,Jos Stelling,"Dirk van Dijck, Kees Prins, Peer Mascini",Drama,7.3
+770,The Spring Gathering,1999,178,Dimos Avdeliodis,"Angeliki Malanti, Angelos Pantelaras, Takis Agoris","Adventure, Comedy, Drama",7.6
+771,Phantom: The Submarine,1999,110,Byung-chun Min,"Choi Min-soo, Jung Woo-sung, Sul Kyung-gu","Action, Thriller",5.6
+772,Unruly,1999,100,Philippe Bérenger,"Vincent Cassel, Enrico Lo Verso, Richard Bohringer","Crime, Drama",4.6
+773,Hu Tu Tu,1999,172,Gulzar,"Nana Patekar, Suniel Shetty, Tabu",Drama,6.4
+774,Love & Rage,1999,100,Cathal Black,"Greta Scacchi, Daniel Craig, Stephen Dillane",Drama,5.1
+775,The Witness Files,1999,95,Douglas Jackson,"Yancy Butler, David Nerman, Barry Flatman","Action, Crime, Drama",5.4
+776,Story of a Bad Boy,1999,85,Tom Donaghy,"Jeremy Hollingworth, Christian Camargo, Stephen Lang","Comedy, Drama, Music",5.2
+777,Willow and Wind,1999,81,Mohammad Ali Talebi,"Hadi Alipour, Amir Janfada, Majid Alipour","Drama, Family",7.7
+778,Mauá - O Imperador e o Rei,1999,135,Sergio Rezende,"Paulo Betti, Malu Mader, Othon Bastos",Drama,7.0
+779,Fanny and Elvis,1999,111,Kay Mellor,"Kerry Fox, Ray Winstone, Ben Daniels",Comedy,6.2
+780,The Coroner,1999,74,"Juan Mas, Alan Smithee","Jane Longenecker, Dean St. Louis, Christine Burke",Horror,2.8
+781,Love and Action in Chicago,1999,91,Dwayne Johnson-Cochran,"Courtney B. Vance, Regina King, Kathleen Turner","Action, Comedy, Drama",4.9
+782,Shergar,1999,95,Dennis C. Lewiston,"Alan Barker, Billy Boyle, Stephen Brennan","Crime, Drama, Romance",5.4
+783,Hit and Runway,1999,108,Christopher Livingston,"Michael Parducci, Peter Jacobson, Judy Prescott","Comedy, Drama, Romance",6.5
+784,The Big Day,1999,88,Ian McCrudden,"Julianna Margulies, Ivan Sergei, Nancy Banks",Comedy,4.2
+785,The Learning Curve,1999,113,Eric Schwab,"Carmine Giovinazzo, Norbert Weisser, Monet Mazur","Crime, Drama, Thriller",5.1
+786,Atatürk: Founder of Modern Turkey,1999,52,Tarquin Olivier,"Mustafa Kemal Atatürk, Nigel Hawthorne","Documentary, Biography",8.7
+787,Lucignolo,1999,90,Massimo Ceccherini,"Massimo Ceccherini, Claudia Gerini, Alessandro Paci",Comedy,5.3
+788,Megham,1999,150,Priyadarshan,"Mammootty, Dileep, Priya Gill","Comedy, Romance",6.8
+789,The Silencer,1999,92,Robert Lee,"Michael Dudikoff, Brennan Elliott, Terence Kelly",Action,5.0
+790,Catfish in Black Bean Sauce,1999,119,Chi Muoi Lo,"Chi Muoi Lo, Sanaa Lathan, Paul Winfield","Comedy, Drama",6.6
+791,White Valentine,1999,101,Yun-ho Yang,"Park Shin-yang, Jun Ji-hyun, Jeon Moo-song",Romance,5.9
+792,Baci e abbracci,1999,104,Paolo Virzì,"Francesco Paolantoni, Massimo Gambacciani, Piero Gremigni",Comedy,6.5
+793,The Joyriders,1999,100,Bradley Battersby,"Martin Landau, Kris Kristofferson, Shawn Hatosy","Crime, Drama",5.9
+794,Third World Cop,1999,98,Chris Browne,"Paul Campbell, Mark Danvers, Carl Bradshaw","Action, Drama, Thriller",6.1
+795,Red Dust,1999,105,Zrinko Ogresta,"Josip Kuchan, Marko Matanovic, Ivo Gregurevic","Action, Crime, Drama",6.6
+796,Asini,1999,103,Antonello Grimaldi,"Claudio Bisio, Giovanna Mezzogiorno, Fabio De Luigi",Comedy,5.8
+797,Post Mortem,1999,92,Louis Bélanger,"Gabriel Arcand, Sylvie Moreau, Hélène Loiselle","Crime, Drama, Romance",7.2
+798,Gêmeas,1999,75,Andrucha Waddington,"Fernanda Torres, Evandro Mesquita, Francisco Cuoco","Drama, Horror, Romance",7.1
+799,You're Dead...,1999,98,Andy Hurst,"John Hurt, Claire Skinner, Rhys Ifans",Thriller,5.6
+800,The All New Adventures of Laurel & Hardy in 'For Love or Mummy',1999,85,"John R. Cherry III, Larry Harmon","Bronson Pinchot, Gailard Sartain, F. Murray Abraham",Comedy,3.9
+801,Pirates of the Plain,1999,93,"John R. Cherry III, Moicontent","Tim Curry, Seth Adkins, Jeff Pillars","Adventure, Family, Fantasy",5.7
+802,Her Married Lover,1999,92,Roxanne Messina Captor,"Roxana Zal, Perry King, Daniel Benzali","Crime, Romance, Thriller",5.2
+803,Khochu v tyurmu,1999,94,Alla Surikova,"Vladimir Ilin, Natalya Gundareva, Alla Kliouka",Comedy,6.2
+804,Giving It Up,1999,90,Christopher Kublan,"Mark Feuerstein, Amy Redford, Dabney Coleman","Comedy, Romance",4.2
+805,La fame e la sete,1999,94,Antonio Albanese,"Antonio Albanese, Lorenza Indovina, Aisha Cerami",Comedy,6.1
+806,Running Red,1999,92,Jerry P. Jacobs,"Jeff Speakman, Angie Everhart, Stanley Kamel","Action, Drama, Thriller",4.9
+807,Natural Selection,1999,91,Mark Lambert Bristol,"Michael Bowen, David Carradine, Darren E. Burrows","Comedy, Thriller, Horror",5.3
+808,Web of Seduction,1999,95,Blain Brown,"Lauren Hays, Eric Acsell, Tracy Ryan","Drama, Mystery, Thriller",4.9
+809,Can't Be Heaven,1999,94,Richard Friedman,"Bryan Burke, Diane Ladd, Ralph Macchio","Comedy, Drama, Family",5.6
+810,Beloved/Friend,1999,87,Ventura Pons,"Josep Maria Pou, Rosa Maria Sardà, Mario Gas","Drama, Romance",6.4
+811,Amn Dawla,1999,114,Nader Galal,"Nadia El Gendy, Mahmoud Hemida, Yaser Galal","Action, Drama",3.8
+812,Asunder,1999,101,Tim Reid,"Blair Underwood, Debbi Morgan, Michael Beach","Drama, Romance, Thriller",5.2
+813,Paradise Mall,1999,114,Friedemann Fromm,"Ken Duken, Heiner Lauterbach, Franka Potente","Drama, Action",5.6
+814,Century of the Dragon,1999,90,Clarence Fok,"Andy Lau, Louis Koo, Patrick Tam","Action, Crime",6.3
+815,Lisboa,1999,97,Antonio Hernández,"Sergi López, Carmen Maura, Federico Luppi","Crime, Thriller",6.7
+816,Rajaji,1999,150,Vimal Kumar,"Govinda, Raveena Tandon, Satish Kaushik","Comedy, Romance",4.9
+817,Gone with the Fish,1999,114,Lotte Svendsen,"Sofie Stougaard, Henrik Lykkegaard, Michelle Bjørn-Andersen","Comedy, Drama",6.1
+818,You or Me,1999,98,Tamás Sas,"Gabriella Gubás, Attila Király, Viktor Bodó","Musical, Romance, Comedy",5.3
+819,American Hollow,1999,90,Rory Kennedy,"Bascum Bowling, Clint Bowling, Edgar Bowling",Documentary,7.6
+820,The 24 Hour Woman,1999,93,Nancy Savoca,"Rosie Perez, Marianne Jean-Baptiste, Patti LuPone",Comedy,5.3
+821,Pyaar Koi Khel Nahin,1999,165,Subhash Sehgal,"Sunny Deol, Mahima Chaudhry, Apurva Agnihotri","Drama, Romance, Thriller",3.7
+822,On the Ropes,1999,94,"Nanette Burstein, Brett Morgen","Sam Doumit, Martin Goldman, Harry Keitt","Documentary, Drama, Sport",7.3
+823,Based on the Novel,1999,88,Eddy Terstall,"Dirk Zeelenberg, Nadja Hüpscher, Femke Lakerveld","Comedy, Drama",6.5
+824,Total Stranger,1999,94,Joe Cacaci,"Lindsay Crouse, Zoe McLellan, Dan Lauria","Drama, Thriller",5.5
+825,When Justice Fails,1999,91,Allan A. Goldstein,"Jeff Fahey, Carl Marotte, Marlee Matlin","Drama, Mystery, Thriller",4.6
+826,I'll Take You There,1999,93,Adrienne Shelly,"Ally Sheedy, Reg Rogers, Pamela Gray","Comedy, Drama, Romance",6.5
+827,Children of the Stork,1999,80,Tony Gatlif,"Romain Duris, Rona Hartner, Ouassini Embarek","Adventure, Comedy, Crime",6.4
+828,The First of May,1999,111,Paul Sirmons,"Julie Harris, Dan Byrd, Mickey Rooney","Drama, Family, Sport",6.9
+829,"See You in Hell, My Darling",1999,110,Nikos Nikolaidis,"Vicky Harris, Valeria Hristodoulidou, Paschalis Tsarouhas","Crime, Horror, Thriller",6.1
+830,Pros & Cons,1999,104,Boris Damast,"Darren McGavin, Larry Miller, David Rasche","Comedy, Crime",5.3
+831,Mama,1999,100,Denis Evstigneev,"Nonna Mordyukova, Vladimir Mashkov, Oleg Menshikov","Comedy, Drama, Music",6.4
+832,Wojaczek,1999,90,Lech Majewski,"Krzysztof Siwczyk, Dominika Ostalowska, Andrzej Mastalerz","Biography, Drama",6.9
+833,Barren Illusion,1999,95,Kiyoshi Kurosawa,"Shinji Aoyama, Shirô Atami, Shingo Ichizawa","Drama, Romance, Sci-Fi",6.5
+834,Anthropophagous 2000,1999,80,Andreas Schnaas,"Oliver Sauer, Cornelia De Pablos, Andreas Stoek","Horror, Thriller",3.5
+835,Pizza King,1999,103,Ole Christian Madsen,"Ali Kazim, Janus Nabil Bakrawi, Isam Subeihi","Crime, Drama",5.4
+836,Les parasites,1999,90,Philippe de Chauveron,"Lionel Abelanski, Oulage Abour, Sabine Bail","Comedy, Drama",5.6
+837,Ragdoll,1999,90,Ted Nicolaou,"Russell Richardson, Jennia Fredrique Aponte, Tarnell Poindexter","Fantasy, Horror",3.7
+838,Getting to Know You,1999,96,Lisanne Skyler,"Heather Matarazzo, Zach Braff, David Aaron Baker","Comedy, Drama",6.9
+839,Fallout,1999,90,Rodney McDonald,"Daniel Baldwin, Frank Zagarino, Teri Ann Linn","Action, Sci-Fi",3.6
+840,Blue Ridge Fall,1999,100,James Rowe,"Peter Facinelli, Jay R. Ferguson, Rodney Eastman","Crime, Drama",5.4
+841,Cuando vuelvas a mi lado,1999,97,Gracia Querejeta,"Mercedes Sampietro, Julieta Serrano, Marta Belaustegui",Drama,6.8
+842,Better Living Through Circuitry,1999,85,Jon Reiss,"Moby, Lord T. Byron, McGuinnes","Documentary, Music",7.0
+843,Cold Hearts,1999,98,Robert A. Masciantonio,"Marisa Ryan, Rob Floyd, Amy Jo Johnson","Thriller, Horror",4.6
+844,Battle Cries,1999,110,Sólveig Anspach,"Karin Viard, Laurent Lucas, Julien Cottereau",Drama,7.3
+845,The Real McCoy,1999,94,Pekka Lehto,"Andy McCoy, Angela Nicoletti, Dave Lindholm","Biography, Music",5.6
+846,The Secret Life of Girls,1999,90,Holly Goldberg Sloan,"Linda Hamilton, Eugene Levy, Majandra Delfino","Comedy, Drama",5.3
+847,Los lobos de Washington,1999,94,Mariano Barroso,"Javier Bardem, Eduard Fernández, José Sancho","Action, Thriller",5.8
+848,Prawo ojca,1999,97,Marek Kondrat,"Marek Kondrat, Nina Roguz, Malgorzata Foremniak","Action, Drama, Thriller",5.9
+849,Desperate But Not Serious,1999,94,Bill Fishman,"Christine Taylor, Paget Brewster, Claudia Schiffer",Comedy,4.0
+850,Rollercoaster,1999,88,Scott Smith,"Brendan Fletcher, Birkett Turton, Crystal Bublé",Drama,6.1
+851,I Like to Play Games Too,1999,96,Edward Holzman,"Maria Ford, Bobby Johnston, Kim Sill","Drama, Romance, Thriller",4.9
+852,Monsoon,1999,96,Jag Mundhra,"Richard Tyson, Helen Brodie, Doug Jeffery","Drama, Romance",3.6
+853,"Augustin, King of Kung-Fu",1999,89,Anne Fontaine,"Jean-Chrétien Sibertin-Blanc, Maggie Cheung, Darry Cowl",Comedy,6.4
+854,Stonebrook,1999,90,Byron W. Thompson,"Seth Green, Zoe McLellan, Brad Rowe","Drama, Thriller",5.1
+855,Little Brothers,1999,92,Jacques Doillon,"Stéphanie Touly, Iliès Sefraoui, Mustapha Goumane","Comedy, Drama",6.4
+856,Dazzle,1999,88,David Lister,"Maxwell Caulfield, Charlotte Savage, Dale Cutts","Comedy, Drama, Family",5.4
+857,No Tomorrow,1999,99,Master P,"Gary Busey, Gary Daniels, Master P","Action, Thriller",3.9
+858,C'est quoi la vie?,1999,115,François Dupeyron,"Éric Caravaca, Jacques Dufilho, Jean-Pierre Darroussin",Drama,7.1
+859,Wanted,1999,90,Harald Sicheritz,"Alfred Dorfer, John Phillip Law, Thomas Koziol",Fantasy,6.8
+860,Deal of a Lifetime,1999,94,Paul Levine,"Jennifer Rubin, Ashley Buccille, Michael A. Goorjian","Comedy, Fantasy, Romance",4.8
+861,I diakritiki goiteia ton arsenikon,1999,90,Olga Malea,"Natalia Dragoumi, Leda Matsaggou, Natalia Stylianou","Comedy, Romance",3.4
+862,Sheida,1999,100,Kamal Tabrizi,"Leila Hatami, Parsa Pirouzfar, Behzad Farahani","Drama, Romance, War",6.3
+863,Je règle mon pas sur le pas de mon père,1999,88,Rémi Waterhouse,"Jean Yanne, Guillaume Canet, Laurence Côte",Comedy,6.5
+864,Loving Jezebel,1999,87,Kwyn Bader,"Hill Harper, Laurel Holloman, David Moscow","Comedy, Romance",5.4
+865,Warat,1999,108,Joel Lamangan,"Jomari Yllana, Joyce Jimenez, Joko Diaz","Action, Drama",5.3
+866,Hidden Agenda,1999,101,Iain Paterson,"Kevin Dillon, Andrea Roth, J.T. Walsh","Action, Crime, Mystery",4.6
+867,Bagnomaria,1999,90,Giorgio Panariello,"Giorgio Panariello, Gianna Giachetti, Manuela Arcuri",Comedy,4.7
+868,The Last Marshal,1999,102,Mike Kirton,"Scott Glenn, Constance Marie, Randall Batinkoff","Action, Thriller",5.2
+869,Alien Blood,1999,80,Jon Sorensen,"Francesca Manning, Rebecca Stirling, Glyn Whiteside","Fantasy, Horror, Sci-Fi",2.2
+870,Durango Kids,1999,102,Ashton Root,"Larry Drake, Curtis Williams, Brendon Ryan Barrett","Family, Fantasy, Western",4.9
+871,Animal Attraction: Carnal Desires,1999,87,Eric Gibson,"Tamara Landry, Steven Ginsburg, Susan Featherly","Drama, Romance",4.3
+872,Operation Delta Force 4: Deep Fault,1999,96,Mark Roper,"Greg Collins, Joe Lara, Justin Williams",Action,3.8
+873,Desert Thunder,1999,90,Jim Wynorski,"Tim Abell, Daniel Baldwin, Ari Barak","Action, Drama",3.8
+874,Kill by Inches,1999,80,"Diane Doniol-Valcroze, Arthur K. Flam","Emmanuel Salinger, Myriam Cyr, John Marcus Powell","Horror, Thriller, Fantasy",5.4
+875,M/Other,1999,147,Nobuhiro Suwa,"Tomokazu Miura, Makiko Watanabe, Ryudai Takahashi",Drama,7.1
+876,Don't Go Breaking My Heart,1999,95,Willi Patterson,"Jenny Seagrove, Anthony Edwards, Charles Dance","Comedy, Romance, Sport",5.4
+877,A Twist of Faith,1999,90,Chris Angel,"Andrew McCarthy, Michael Ironside, Matthew Laurance","Drama, Thriller",4.4
+878,A Reasonable Man,1999,103,Gavin Hood,"Gavin Hood, Nigel Hawthorne, Janine Eser","Crime, Drama, Mystery",6.5
+879,Esa maldita costilla,1999,93,Juan José Jusid,"Luis Brandoni, Susana Giménez, Rossy de Palma",Comedy,4.2
+880,Franck Spadone,1999,85,Richard Bean,"Stanislas Merhar, Monica Bellucci, Carlo Brandt",Thriller,4.3
+881,The Magnetist's Fifth Winter,1999,123,Morten Henriksen,"Rolf Lassgård, Ole Lemmeke, Johanna Sällström","Drama, Romance",6.5
+882,Elephant Juice,1999,86,Sam Miller,"Emmanuelle Béart, Sean Gallagher, Daniel Lapaine","Drama, Romance",4.8
+883,The Hi-Line,1999,95,Ron Judkins,"Ryan Alosio, Tantoo Cardinal, Rachael Leigh Cook",Drama,6.0
+884,Pathram,1999,187,Joshiy,"Suresh Gopi, Manju Warrier, N.F. Varghese","Action, Thriller",7.1
+885,Misery Harbour,1999,100,Nils Gaup,"Nikolaj Coster-Waldau, Stuart Graham, Anneke von der Lippe",Drama,6.1
+886,Zoando na TV,1999,90,José Alvarenga Jr.,"Angélica, Marcio Garcia, Danielle Winits","Comedy, Family, Fantasy",4.2
+887,Idle Running,1999,90,Janez Burger,"Jan Cvitkovic, Natasa Burger, Janez Rus","Comedy, Drama",7.5
+888,Black Angel Vol. 2,1999,105,Takashi Ishii,"Yûki Amami, Takeshi Yamato, Reiko Kataoka","Action, Drama, Crime",6.2
+889,Cherry,1999,90,"Jon Glascoe, Joseph Pierson","Shalom Harlow, Jake Weber, Isaach De Bankolé","Comedy, Romance",5.4
+890,Sneham Kosam,1999,169,K.S. Ravikumar,"Chiranjeevi, Meena, Vijayakumar","Action, Drama",6.4
+891,Big Helium Dog,1999,89,Brian Lynch,"Matt Kawczynski, Michael Linstroth, Kevin Smith",Comedy,5.7
+892,Alma mía,1999,105,Daniel Barone,"Araceli González, Pablo Echarri, Héctor Bidonde","Comedy, Romance",5.6
+893,The Secret Pact,1999,94,Rodney Gibbons,"Rider Strong, Adam Frost, Lisa Zane",Thriller,5.5
+894,St. Pauli Nacht,1999,95,Sönke Wortmann,"Ill-Young Kim, Armin Rohde, Maruschka Detmers",Drama,6.1
+895,Rembrandt,1999,103,Charles Matton,"Klaus Maria Brandauer, Romane Bohringer, Jean Rochefort","Biography, Drama, History",6.2
+896,Advice from a Caterpillar,1999,90,Don Scardino,"Patrick Breen, Andy Dick, Alice Drummond","Comedy, Drama, Romance",5.3
+897,Nee Varuvai Ena,1999,159,Rajakumaran,"Parthiban Radhakrishnan, Ajith Kumar, Devayani",Romance,6.5
+898,Tequila Body Shots,1999,97,Tony Shyu,"Joey Lawrence, Dru Mouser, Nathan Anderson","Comedy, Horror, Thriller",3.5
+899,Dill Scallion,1999,91,Jordan Brady,"Billy Burke, Lauren Graham, Kathy Griffin","Comedy, Music",6.3
+900,Los Enchiladas!,1999,75,Mitch Hedberg,"Mitch Hedberg, Jana Johnson, Brian Malow",Comedy,5.7
+901,Ferdinando and Carolina,1999,102,Lina Wertmüller,"Sergio Assisi, Gabriella Pession, Nicole Grimaudo","Comedy, History",6.0
+902,Swing,1999,97,Nick Mead,"Hugo Speer, Lisa Stansfield, Paul Usher","Comedy, Music, Romance",6.1
+903,Trash,1999,95,Mark Anthony Galluzzo,"Jeremy Sisto, Eric Michael Cole, Jaime Pressly","Biography, Drama",5.4
+904,24 Nights,1999,97,Kieran Turner,"Kevin Isola, Aida Turturro, Stephen Mailer","Comedy, Drama, Romance",6.3
+905,Dödlig drift,1999,105,Rolf Börjlind,"Mikael Persbrandt, Stefan Sauk, Andrea Vagn Jensen",Thriller,5.3
+906,Amore a prima vista,1999,89,Vincenzo Salemme,"Vincenzo Salemme, Maurizio Casagrande, Carlo Buccirosso",Comedy,6.2
+907,The New Girlfriend,1999,83,Julie Money,"Linda Cropper, Anna Lise Phillips, Jeff Truman","Crime, Drama, Thriller",5.5
+908,Bobby G. Can't Swim,1999,89,John-Luke Montias,"John-Luke Montias, Susan Mitchell, Vincent Vega","Comedy, Crime, Drama",6.5
+909,Bhopal Express,1999,100,Mahesh Mathai,"Kay Kay Menon, Nethra Raghuraman, Zeenat Aman",Drama,7.4
+910,Karnaval,1999,88,Thomas Vincent,"Sylvie Testud, Amar Ben Abdallah, Clovis Cornillac",Drama,6.9
+911,8 ½ $,1999,95,Grigoriy Konstantinopolskiy,"Ivan Okhlobystin, Fedor Bondarchuk, Olesya Potashinskaya",Comedy,6.3
+912,Pretty Devils,1999,95,Serge Meynard,"Olivia Bonamy, Audrey Tautou, Axelle Ade-Pasdeloup","Comedy, Drama",6.0
+913,The Sky Is Falling,1999,105,Florrie Laurence,"Dedee Pfeiffer, Laura Leighton, Teri Garr","Comedy, Drama",6.2
+914,Z pekla stestí,1999,111,Zdenek Troska,"Michaela Kuklová, Miroslav Simunek, Daniel Hulka","Adventure, Family",4.6
+915,Raw Nerve,1999,105,Avi Nesher,"Mario Van Peebles, Nicollette Sheridan, Zach Galligan","Crime, Thriller",4.7
+916,Golfballs!,1999,86,Steve Procko,"Greg Longenhagen, Todd Allen Durkin, Christy Tummond","Comedy, Romance, Sport",3.9
+917,O Trapalhão e a Luz Azul,1999,80,"Paulo Aragão, Alexandre Boury","Renato Aragão, André Segatti, Christine Fernandes","Comedy, Family",3.4
+918,Hans Staden,1999,92,Luís Alberto Pereira,"Carlos Evelyn, Ariana Messias, Darci Figueiredo","Biography, Drama, History",6.6
+919,Starry Night,1999,101,Paul Davids,"Abbott Alexander, Lisa Waltz, Lou Wagner",Comedy,4.2
+920,The Specialist,1999,128,Eyal Sivan,"Adolf Eichmann, Gideon Hausner, Gabriel Bach",Documentary,7.3
+921,G2,1999,92,Nick Rotundo,"Daniel Bernhardt, Meeka Schiro, Bing Shen","Action, Adventure, Fantasy",3.0
+922,My Sweet Killer,1999,78,Justin Dossetti,"Kirk Harris, Jack Rubio, Clifton Collins Jr.","Drama, Horror, Thriller",4.0
+923,Voyages,1999,115,Emmanuel Finkiel,"Shulamit Adar, Liliane Rovère, Esther Gorintin",Drama,7.2
+924,Mad Cows,1999,90,Sara Sugarman,"Anna Friel, Joanna Lumley, Anna Massey",Comedy,3.9
+925,Eylül Firtinasi,1999,100,Atif Yilmaz,"Tarik Akan, Zara Yilmaz, Kutay Özcan",Drama,6.1
+926,A Wake in Providence,1999,92,Rosario Roveto Jr.,"Vincent Pagano, Victoria Rowell, Adrienne Barbeau",Comedy,5.4
+927,The Anto War,1999,98,Riccardo Milani,"Flavio Pistilli, Federico Di Flauro, Paolo Setta",Comedy,6.6
+928,Escape Velocity,1999,100,Lloyd A. Simandl,"Wendy Crewson, Patrick Bergin, Peter Outerbridge","Action, Sci-Fi, Thriller",3.7
+929,Pippi's Adventures on the South Seas,1999,70,Paul Riley,"Börje Ahlstedt, Leif Andrée, Anders Beckman","Animation, Family",4.4
+930,Une pour toutes,1999,120,Claude Lelouch,"Jean-Pierre Marielle, Anne Parillaud, Alessandra Martines","Comedy, Romance",4.9
+931,Jacob Two Two Meets the Hooded Fang,1999,96,George Bloomfield,"Gary Busey, Mark McKinney, Miranda Richardson","Family, Fantasy",4.4
+932,Doraemon: Nobita Drifts in the Universe,1999,93,Tsutomu Shibayama,"Nobuyo Ôyama, Noriko Ohara, Kazuya Tatekabe","Animation, Action, Adventure",6.6
+933,Faces of Gore,1999,89,Todd Tjersland,"Steve Sheppard, Todd Tjersland","Documentary, Horror",3.4
+934,Silicon Towers,1999,87,Serge Rodnunsky,"Daniel Baldwin, Jonathan Quint, Al Sapienza","Action, Drama, Thriller",3.4
+935,Dead Silent,1999,95,Roger Cardinal,"Rob Lowe, Catherine Mary Stewart, Arlen Aguayo Stewart",Thriller,4.8
+936,The Criminal,1999,99,Julian Simpson,"Steven Mackintosh, Bernard Hill, Eddie Izzard","Action, Drama",5.4
+937,Buenos Aires Zero Degree: The Making of Happy Together,1999,59,"Pun Leung Kwan, Amos Lee","Chang Chen, Leslie Cheung, Wong Kar-Wai","Documentary, Drama",7.2
+938,Janice Beard,1999,81,Clare Kilner,"Eileen Walsh, Rhys Ifans, Patsy Kensit",Comedy,6.0
+939,A Love Divided,1999,98,Syd Macartney,"Peter Caffrey, Brendan Conroy, Orla Brady","Biography, Drama, Romance",6.9
+940,Requiem for Murder,1999,95,Douglas Jackson,"Molly Ringwald, Christopher Heyerdahl, Lynne Adams",Thriller,4.8
+941,Dunav most,1999,55,Ivan Andonov,"Yoanna Boukovska, Petar Popyordanov, Stefka Yanorova",Drama,6.4
+942,Le fils du Français,1999,107,Gérard Lauzier,"Josiane Balasko, Fanny Ardant, Thierry Frémont","Adventure, Comedy, Family",5.1
+943,Dear Claudia,1999,92,Chris Cudlipp,"Bryan Brown, Aleksandra Vujcic, Deborah Mailman","Adventure, Comedy, Romance",5.5
+944,Helden wie wir,1999,93,Sebastian Peterson,"Daniel Borgwardt, Xenia Snagowski, Adrian Heidenreich",Comedy,6.2
+945,Hote Hote Pyar Hogaya,1999,140,Firoz Irani,"Kajol, Atul Agnihotri, Jackie Shroff","Romance, Action, Crime",4.4
+946,Salaryman Kintaro,1999,110,Takashi Miike,"Katsunori Takahashi, Noriko Aota, Kanako Enomoto","Animation, Crime, Drama",5.6
+947,Body Weapon,1999,91,Aman Chang,"Wenzhuo Zhao, Angie Cheong, Stephen Au","Action, Crime, Thriller",4.1
+948,Oriundi,1999,97,Ricardo Bravo,"Anthony Quinn, Paulo Betti, Letícia Spiller","Drama, Fantasy, Romance",6.6
+949,Rock 'n' Roll Frankenstein,1999,88,Brian O'Hara,"Graig Guggenheim, Jayson Spence, Barry Feterman","Comedy, Horror",4.2
+950,The Death Triangle,1999,140,Sergiu Nicolaescu,"Florin Aionitoaei, George Alexandru, Mircea Badea","Action, War",6.7
+951,Row Your Boat,1999,106,Sollace Mitchell,"Jon Bon Jovi, Bai Ling, William Forsythe","Drama, Crime, Romance",5.3
+952,Shapeshifter,1999,95,Philippe Browning,"Paul Alexander Nolan, Bill MacDonald, Catherine Blythe","Adventure, Family, Fantasy",2.9
+953,Captain Jack,1999,90,Robert Young,"Bob Hoskins, Sadie Frost, Gemma Jones",Drama,6.1
+954,Four Days,1999,92,Curtis Wehrfritz,"Kevin Zegers, Lolita Davidovich, William Forsythe",Drama,5.5
+955,Fallen Angels Paradise,1999,79,Osama Fawzy,"Mahmoud Hemida, Lebleba, Caroline Khalil","Comedy, Drama",7.0
+956,Japanese Hell,1999,102,Teruo Ishii,"Mutsumi Fujita, Hisayoshi Hirayama, Michiko Maeda",Horror,4.7
+957,Periyanna,1999,148,S.A. Chandrashekhar,"Vijayakanth, Meena, Suriya","Action, Drama, Romance",4.7
+958,Die Häupter meiner Lieben,1999,90,Hans-Günther Bücking,"Heike Makatsch, Christiane Paul, Andrea Eckert","Comedy, Crime",5.4
+959,Judgment Day: The Ellie Nesler Story,1999,90,Stephen Tolkin,"Christine Lahti, Mary Kay Place, Andrew Ducote","Drama, Thriller",6.7
+960,Sokkotanssi,1999,90,Matti Ijäs,"Martti Suosalo, Walter Gröhn, Mikko Vanhala","Comedy, Drama, Family",6.7
+961,Ristumine peateega,1999,68,Arko Okk,"Andrus Vaarik, Piret Kalda, Jaan Tätte","Comedy, Drama",6.9
+962,"Rakkaudella, Maire",1999,101,Veikko Aaltonen,"Eeva Litmanen, Minna Haapkylä, Matti Onnismaa","Drama, Thriller",6.6
+963,Gunfighter,1999,94,Christopher Coppola,"Robert Carradine, Martin Sheen, George Nix",Western,3.5
+964,The Prince and the Surfer,1999,89,"Arye Gross, Gregory Gieras","Sean Kellman, Robert Englund, Vincent Schiavelli","Comedy, Family, Fantasy",4.1
+965,Där regnbågen slutar,1999,111,Richard Hobert,"Göran Stangertz, Camilla Lundén, Pernilla August","Drama, Musical",5.2
+966,La bomba,1999,96,Giulio Base,"Alessandro Gassmann, Rocco Papaleo, Enrico Brignano",Comedy,5.7
+967,The Annihilation of Fish,1999,108,Charles Burnett,"Lynn Redgrave, James Earl Jones, Tommy Redmond Hicks",Romance,7.3
+968,The Closed Doors,1999,107,Atef Hetata,"Mahmoud Hemida, Sawsan Badr, Ahmed Azmi",Drama,6.7
+969,Bloodthirsty,1999,98,Jeff Frey,"Monique Parent, Leslie Danon, Matt Bailey","Horror, Thriller",3.7
+970,Empty Days,1999,105,Marion Vernoux,"Valeria Bruni Tedeschi, Patrick Dell'Isola, Sergi López","Drama, Romance",6.8
+971,The Settlement,1999,101,Mark Steilen,"John C. Reilly, William Fichtner, Kelly McGillis",Comedy,5.9
+972,Matroni and Me,1999,101,Jean-Philippe Duval,"Alexis Martin, Pierre Lebeau, Guylaine Tremblay","Comedy, Crime",6.5
+973,A Good Baby,1999,87,Katherine Dieckmann,"Henry Thomas, David Strathairn, Cara Seymour",Drama,6.9
+974,San chuen lo see,1999,85,Hung-Wah Leung,"Gabriel Harrison, Francis Ng, Gigi Lai",Horror,4.9
+975,Harlem Aria,1999,100,William Jennings,"Damon Wayans, Gabriel Casseus, Christian Camargo",Drama,5.9
+976,Blinker,1999,90,Filip Van Neyghem,"Joren Seldeslachts, Melissa Gorduyn, Benny Claessens","Family, Mystery",6.0
+977,The Auteur Theory,1999,77,Evan Oppenheimer,"Alan Cox, Sean Gunn, Daniel Cantor","Comedy, Mystery, Thriller",4.9
+978,Fading Memories,1999,98,Enrique Gabriel,"Federico Luppi, Mercedes Sampietro, Elena Anaya",Drama,6.7
+979,Shandra: The Jungle Girl,1999,74,Cybil Richards,"Lisa Throw, Mia Zottoli, Drake Tatum",Adventure,3.0
+980,Lover's Grief Over the Yellow River,1999,105,Xiaoning Feng,"Jing Ning, Paul Kersey, Xinjun Wang","Drama, War",6.3
+981,Kanzen-naru shiiku,1999,96,Ben Wada,"Naoto Takenaka, Hijiri Kojima, Kazuki Kitamura",Drama,5.7
+982,Kitayskiy serviz,1999,98,Vitaliy Moskalenko,"Oleg Yankovskiy, Anna Samokhina, Vladimir Menshov",Comedy,6.2
+983,Restraining Order,1999,95,Lee H. Katzin,"Eric Roberts, Hannes Jaenicke, Tatjana Patitz","Action, Thriller",4.4
+984,Dealer,1999,74,Thomas Arslan,"Tamer Yigit, Idil Üner, Birol Ünel","Crime, Drama",6.3
+985,Anantha Poongathe,1999,154,Raj Kapoor,"Karthik, Ajith Kumar, Meena",Romance,6.3
+986,Under Hellgate Bridge,1999,90,Michael Sergio,"Michael Rodrick, Jonathan LaPaglia, Frank Vincent","Crime, Drama, Thriller",4.6
+987,The Weekend,1999,97,Brian Skeet,"Gena Rowlands, Deborah Kara Unger, Brooke Shields",Drama,6.2

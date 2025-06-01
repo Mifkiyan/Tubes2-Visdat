@@ -1,0 +1,988 @@
+ID,Name,Year,Duration,Directors,Actors,Genres,Rating
+1,Titanic,1997,194,James Cameron,"Leonardo DiCaprio, Kate Winslet, Billy Zane","Drama, Romance",7.9
+2,Good Will Hunting,1997,126,Gus Van Sant,"Robin Williams, Matt Damon, Ben Affleck","Drama, Romance",8.3
+3,Life Is Beautiful,1997,116,Roberto Benigni,"Roberto Benigni, Nicoletta Braschi, Giorgio Cantarini","Comedy, Drama, Romance",8.6
+4,L.A. Confidential,1997,138,Curtis Hanson,"Kevin Spacey, Russell Crowe, Guy Pearce","Crime, Drama, Mystery",8.2
+5,Men in Black,1997,98,Barry Sonnenfeld,"Tommy Lee Jones, Will Smith, Linda Fiorentino","Action, Adventure, Comedy",7.3
+6,The Fifth Element,1997,126,Luc Besson,"Bruce Willis, Milla Jovovich, Gary Oldman","Action, Adventure, Sci-Fi",7.6
+7,Princess Mononoke,1997,133,Hayao Miyazaki,"Yôji Matsuda, Yuriko Ishida, Yûko Tanaka","Animation, Adventure, Fantasy",8.3
+8,The Lost World: Jurassic Park,1997,129,Steven Spielberg,"Jeff Goldblum, Julianne Moore, Pete Postlethwaite","Action, Adventure, Sci-Fi",6.6
+9,The Game,1997,129,David Fincher,"Michael Douglas, Deborah Kara Unger, Sean Penn","Drama, Mystery, Thriller",7.7
+10,The Devil's Advocate,1997,144,Taylor Hackford,"Keanu Reeves, Al Pacino, Charlize Theron","Drama, Fantasy, Mystery",7.5
+11,Face/Off,1997,138,John Woo,"John Travolta, Nicolas Cage, Joan Allen","Action, Crime, Sci-Fi",7.3
+12,Jackie Brown,1997,154,Quentin Tarantino,"Pam Grier, Samuel L. Jackson, Robert Forster","Crime, Drama, Thriller",7.5
+13,Liar Liar,1997,86,Tom Shadyac,"Jim Carrey, Maura Tierney, Amanda Donohoe","Comedy, Fantasy",6.9
+14,Donnie Brasco,1997,127,Mike Newell,"Al Pacino, Johnny Depp, Michael Madsen","Biography, Crime, Drama",7.7
+15,Gattaca,1997,106,Andrew Niccol,"Ethan Hawke, Uma Thurman, Jude Law","Drama, Sci-Fi, Thriller",7.7
+16,Starship Troopers,1997,129,Paul Verhoeven,"Casper Van Dien, Denise Richards, Dina Meyer","Action, Adventure, Sci-Fi",7.3
+17,Con Air,1997,115,Simon West,"Nicolas Cage, John Cusack, John Malkovich","Action, Crime, Thriller",6.9
+18,As Good as It Gets,1997,139,James L. Brooks,"Jack Nicholson, Helen Hunt, Greg Kinnear","Comedy, Drama, Romance",7.7
+19,Contact,1997,150,Robert Zemeckis,"Jodie Foster, Matthew McConaughey, Tom Skerritt","Drama, Mystery, Sci-Fi",7.5
+20,Boogie Nights,1997,155,Paul Thomas Anderson,"Mark Wahlberg, Julianne Moore, Burt Reynolds",Drama,7.9
+21,Alien: Resurrection,1997,109,Jean-Pierre Jeunet,"Sigourney Weaver, Winona Ryder, Dominique Pinon","Action, Horror, Sci-Fi",6.2
+22,Batman & Robin,1997,125,Joel Schumacher,"Arnold Schwarzenegger, George Clooney, Chris O'Donnell","Action, Sci-Fi",3.8
+23,Hercules,1997,93,"Ron Clements, John Musker","Tate Donovan, Susan Egan, James Woods","Animation, Action, Adventure",7.3
+24,Austin Powers: International Man of Mystery,1997,89,Jay Roach,"Mike Myers, Elizabeth Hurley, Michael York","Adventure, Comedy",7.0
+25,Cube,1997,90,Vincenzo Natali,"Nicole de Boer, Maurice Dean Wint, David Hewlett","Horror, Mystery, Sci-Fi",7.1
+26,Scream 2,1997,120,Wes Craven,"Neve Campbell, Courteney Cox, David Arquette","Horror, Mystery",6.3
+27,Air Force One,1997,124,Wolfgang Petersen,"Harrison Ford, Gary Oldman, Glenn Close","Action, Crime, Drama",6.5
+28,Tomorrow Never Dies,1997,119,Roger Spottiswoode,"Pierce Brosnan, Jonathan Pryce, Michelle Yeoh","Action, Adventure, Thriller",6.5
+29,Event Horizon,1997,96,Paul W.S. Anderson,"Laurence Fishburne, Sam Neill, Kathleen Quinlan","Horror, Sci-Fi, Thriller",6.6
+30,I Know What You Did Last Summer,1997,101,Jim Gillespie,"Jennifer Love Hewitt, Sarah Michelle Gellar, Anne Heche","Horror, Mystery",5.8
+31,Lost Highway,1997,134,David Lynch,"Bill Pullman, Patricia Arquette, John Roselius","Drama, Mystery, Thriller",7.6
+32,Seven Years in Tibet,1997,136,Jean-Jacques Annaud,"Brad Pitt, David Thewlis, BD Wong","Adventure, Biography, Drama",7.1
+33,My Best Friend's Wedding,1997,105,P.J. Hogan,"Julia Roberts, Dermot Mulroney, Cameron Diaz","Comedy, Drama, Romance",6.4
+34,Chasing Amy,1997,113,Kevin Smith,"Ben Affleck, Joey Lauren Adams, Ethan Suplee","Comedy, Drama, Romance",7.2
+35,Anastasia,1997,94,"Don Bluth, Gary Goldman","Meg Ryan, John Cusack, Christopher Lloyd","Animation, Adventure, Drama",7.1
+36,Home Alone 3,1997,102,Raja Gosnell,"Alex D. Linz, Olek Krupa, Rya Kihlstedt","Action, Comedy, Crime",4.6
+37,The Jackal,1997,124,Michael Caton-Jones,"Bruce Willis, Richard Gere, Sidney Poitier","Action, Crime, Drama",6.4
+38,The Full Monty,1997,91,Peter Cattaneo,"Robert Carlyle, Tom Wilkinson, Mark Addy","Comedy, Drama",7.2
+39,Anaconda,1997,89,Luis Llosa,"Jon Voight, Jennifer Lopez, Eric Stoltz","Action, Adventure, Horror",4.9
+40,Bean,1997,89,Mel Smith,"Rowan Atkinson, Peter MacNicol, John Mills","Adventure, Comedy, Family",6.5
+41,Cop Land,1997,105,James Mangold,"Sylvester Stallone, Harvey Keitel, Ray Liotta","Crime, Drama, Thriller",7.0
+42,Conspiracy Theory,1997,135,Richard Donner,"Mel Gibson, Julia Roberts, Patrick Stewart","Action, Drama, Mystery",6.7
+43,Perfect Blue,1997,81,Satoshi Kon,"Junko Iwao, Rica Matsumoto, Shinpachi Tsuji","Animation, Crime, Drama",8.0
+44,Dante's Peak,1997,108,Roger Donaldson,"Pierce Brosnan, Linda Hamilton, Jamie Renée Smith","Action, Adventure, Thriller",6.1
+45,Grosse Pointe Blank,1997,107,George Armitage,"John Cusack, Minnie Driver, Dan Aykroyd","Action, Comedy, Crime",7.3
+46,Flubber,1997,93,Les Mayfield,"Robin Williams, Marcia Gay Harden, Christopher McDonald","Comedy, Family, Sci-Fi",5.3
+47,Kiss the Girls,1997,115,Gary Fleder,"Morgan Freeman, Ashley Judd, Cary Elwes","Crime, Drama, Mystery",6.6
+48,Wag the Dog,1997,97,Barry Levinson,"Dustin Hoffman, Robert De Niro, Anne Heche","Comedy, Drama",7.1
+49,G.I. Jane,1997,125,Ridley Scott,"Demi Moore, Viggo Mortensen, Anne Bancroft","Action, Drama, War",6.0
+50,Funny Games,1997,108,Michael Haneke,"Susanne Lothar, Ulrich Mühe, Arno Frisch","Crime, Drama, Thriller",7.5
+51,Speed 2: Cruise Control,1997,121,Jan de Bont,"Sandra Bullock, Jason Patric, Willem Dafoe","Action, Adventure, Crime",4.0
+52,George of the Jungle,1997,92,Sam Weisman,"Brendan Fraser, Leslie Mann, Thomas Haden Church","Action, Adventure, Comedy",5.6
+53,The Rainmaker,1997,135,Francis Ford Coppola,"Matt Damon, Danny DeVito, Claire Danes","Crime, Drama, Thriller",7.2
+54,Children of Heaven,1997,89,Majid Majidi,"Reza Naji, Amir Farrokh Hashemian, Bahare Seddiqi","Drama, Family, Sport",8.2
+55,Amistad,1997,155,Steven Spielberg,"Djimon Hounsou, Matthew McConaughey, Anthony Hopkins","Biography, Drama, History",7.3
+56,Volcano,1997,104,Mick Jackson,"Tommy Lee Jones, Anne Heche, Gaby Hoffmann","Action, Drama, Sci-Fi",5.6
+57,The Edge,1997,117,Lee Tamahori,"Anthony Hopkins, Alec Baldwin, Elle Macpherson","Action, Adventure, Drama",7.0
+58,The Postman,1997,177,Kevin Costner,"Kevin Costner, Will Patton, Larenz Tate","Action, Adventure, Drama",6.1
+59,The Saint,1997,116,Phillip Noyce,"Val Kilmer, Elisabeth Shue, Rade Serbedzija","Action, Adventure, Romance",6.2
+60,Open Your Eyes,1997,119,Alejandro Amenábar,"Eduardo Noriega, Penélope Cruz, Chete Lera","Drama, Mystery, Sci-Fi",7.7
+61,The Devil's Own,1997,111,Alan J. Pakula,"Harrison Ford, Brad Pitt, Margaret Colin","Action, Crime, Drama",6.2
+62,Spawn,1997,96,Mark A.Z. Dippé,"Michael Jai White, John Leguizamo, Martin Sheen","Action, Crime, Drama",5.2
+63,Lolita,1997,137,Adrian Lyne,"Jeremy Irons, Dominique Swain, Melanie Griffith","Drama, Romance",6.8
+64,Neon Genesis Evangelion: The End of Evangelion,1997,87,"Hideaki Anno, Kazuya Tsurumaki","Megumi Ogata, Megumi Hayashibara, Yûko Miyamura","Animation, Action, Drama",8.1
+65,Breakdown,1997,93,Jonathan Mostow,"Kurt Russell, J.T. Walsh, Kathleen Quinlan","Action, Crime, Drama",7.0
+66,The Peacemaker,1997,124,Mimi Leder,"George Clooney, Nicole Kidman, Marcel Iures","Action, Drama, Thriller",6.0
+67,Absolute Power,1997,121,Clint Eastwood,"Clint Eastwood, Gene Hackman, Ed Harris","Action, Crime, Drama",6.7
+68,Mousehunt,1997,98,Gore Verbinski,"Nathan Lane, Lee Evans, Vicki Lewis",Comedy,6.5
+69,The Ice Storm,1997,112,Ang Lee,"Kevin Kline, Joan Allen, William Cain",Drama,7.3
+70,Mortal Kombat: Annihilation,1997,95,John R. Leonetti,"Robin Shou, Talisa Soto, James Remar","Action, Adventure, Fantasy",3.6
+71,Mimic,1997,105,Guillermo del Toro,"Mira Sorvino, Jeremy Northam, Alexander Goodwin","Horror, Sci-Fi",6.0
+72,U Turn,1997,125,Oliver Stone,"Sean Penn, Jennifer Lopez, Nick Nolte","Crime, Drama, Thriller",6.7
+73,Romy and Michele's High School Reunion,1997,92,David Mirkin,"Mira Sorvino, Lisa Kudrow, Janeane Garofalo",Comedy,6.4
+74,Vegas Vacation,1997,93,Stephen Kessler,"Chevy Chase, Beverly D'Angelo, Randy Quaid",Comedy,5.9
+75,Nothing to Lose,1997,98,Steve Oedekerk,"Martin Lawrence, Tim Robbins, John C. McGinley","Action, Adventure, Comedy",6.7
+76,Deconstructing Harry,1997,96,Woody Allen,"Woody Allen, Judy Davis, Julia Louis-Dreyfus",Comedy,7.3
+77,In & Out,1997,90,Frank Oz,"Kevin Kline, Joan Cusack, Tom Selleck","Comedy, Romance",6.4
+78,Beverly Hills Ninja,1997,88,Dennis Dugan,"Chris Farley, Nicollette Sheridan, Robin Shou","Action, Comedy",5.6
+79,Midnight in the Garden of Good and Evil,1997,155,Clint Eastwood,"John Cusack, Kevin Spacey, Jack Thompson","Crime, Drama, Mystery",6.6
+80,Fools Rush In,1997,109,Andy Tennant,"Matthew Perry, Salma Hayek, Jon Tenney","Comedy, Drama, Romance",6.1
+81,Gummo,1997,89,Harmony Korine,"Nick Sutton, Jacob Sewell, Lara Tosh","Comedy, Drama",6.6
+82,Taste of Cherry,1997,95,Abbas Kiarostami,"Homayoun Ershadi, Abdolhosein Bagheri, Afshin Khorshid Bakhtiari",Drama,7.7
+83,Private Parts,1997,109,Betty Thomas,"Howard Stern, Mary McCormack, Robin Quivers","Biography, Comedy, Drama",6.9
+84,Orgazmo,1997,94,Trey Parker,"Trey Parker, Dian Bachar, Robyn Lynne Raab",Comedy,6.1
+85,Spice World,1997,93,Bob Spiers,"Mel B, Emma Bunton, Melanie C","Comedy, Family, Music",3.7
+86,Double Team,1997,93,Hark Tsui,"Jean-Claude Van Damme, Dennis Rodman, Mickey Rourke","Action, Comedy, Sci-Fi",4.8
+87,A Life Less Ordinary,1997,103,Danny Boyle,"Cameron Diaz, Ewan McGregor, Holly Hunter","Comedy, Crime, Fantasy",6.3
+88,The Sweet Hereafter,1997,112,Atom Egoyan,"Ian Holm, Sarah Polley, Caerthan Banks",Drama,7.4
+89,Happy Together,1997,96,Wong Kar-Wai,"Leslie Cheung, Tony Leung Chiu-wai, Chang Chen","Drama, Romance",7.7
+90,The Man Who Knew Too Little,1997,94,Jon Amiel,"Bill Murray, Joanne Whalley, Peter Gallagher","Comedy, Crime, Drama",6.6
+91,Knockin' on Heaven's Door,1997,87,Thomas Jahn,"Til Schweiger, Jan Josef Liefers, Thierry van Werveke","Action, Crime, Comedy",7.8
+92,Good Burger,1997,95,Brian Robbins,"Kel Mitchell, Kenan Thompson, Sinbad","Comedy, Family",5.8
+93,Live Flesh,1997,103,Pedro Almodóvar,"Liberto Rabal, Francesca Neri, Javier Bardem",Drama,7.3
+94,Black Hawk Down,1997,57,Chris Mills,"Mike Goodale, Shawn Nelson, Dale Sizemore",Documentary,7.9
+95,Fireworks,1997,103,Takeshi Kitano,"Takeshi Kitano, Kayoko Kishimoto, Ren Ôsugi","Crime, Drama, Romance",7.7
+96,Murder at 1600,1997,107,Dwight H. Little,"Wesley Snipes, Diane Lane, Daniel Benzali","Action, Crime, Drama",6.1
+97,Selena,1997,127,Gregory Nava,"Jennifer Lopez, Edward James Olmos, Jon Seda","Biography, Drama, Music",6.9
+98,Money Talks,1997,97,Brett Ratner,"Charlie Sheen, Chris Tucker, Heather Locklear","Action, Comedy, Crime",6.2
+99,The Relic,1997,110,Peter Hyams,"Penelope Ann Miller, Tom Sizemore, Linda Hunt","Horror, Mystery, Sci-Fi",5.8
+100,Kundun,1997,134,Martin Scorsese,"Tenzin Thuthob Tsarong, Gyurme Tethong, Tulku Jamyang Kunga Tenzin","Biography, Drama, History",7.0
+101,Cure,1997,111,Kiyoshi Kurosawa,"Masato Hagiwara, Kôji Yakusho, Tsuyoshi Ujiki","Crime, Horror, Mystery",7.5
+102,Mr. Nice Guy,1997,88,Sammo Kam-Bo Hung,"Jackie Chan, Richard Norton, Miki Lee","Action, Adventure, Comedy",6.2
+103,Metro,1997,117,Thomas Carter,"Eddie Murphy, Michael Rapaport, Kim Miyori","Action, Comedy, Crime",5.6
+104,Suicide Kings,1997,106,Peter O'Fallon,"Christopher Walken, Denis Leary, Sean Patrick Flanery","Comedy, Crime, Drama",6.9
+105,An American Werewolf in Paris,1997,98,Anthony Waller,"Tom Everett Scott, Julie Delpy, Vince Vieluf","Comedy, Fantasy, Horror",5.1
+106,Wishmaster,1997,90,Robert Kurtzman,"Tammy Lauren, Andrew Divoff, Angus Scrimm","Fantasy, Horror",5.8
+107,Brother,1997,99,Aleksey Balabanov,"Sergey Bodrov, Viktor Sukhorukov, Svetlana Pismichenko","Crime, Drama, Thriller",7.8
+108,The Spanish Prisoner,1997,110,David Mamet,"Steve Martin, Ben Gazzara, Campbell Scott","Drama, Mystery, Thriller",7.1
+109,Jungle 2 Jungle,1997,105,John Pasquin,"Tim Allen, Martin Short, JoBeth Williams","Comedy, Family",5.2
+110,Addicted to Love,1997,100,Griffin Dunne,"Meg Ryan, Matthew Broderick, Kelly Preston","Comedy, Romance",6.1
+111,One Eight Seven,1997,119,Kevin Reynolds,"Samuel L. Jackson, John Heard, Kelly Rowan","Drama, Thriller",6.6
+112,Fierce Creatures,1997,93,"Robert Young, Fred Schepisi","John Cleese, Jamie Lee Curtis, Kevin Kline",Comedy,6.4
+113,Dil To Pagal Hai,1997,180,Yash Chopra,"Shah Rukh Khan, Madhuri Dixit, Karisma Kapoor","Comedy, Drama, Musical",7.0
+114,The Borrowers,1997,89,Peter Hewitt,"John Goodman, Jim Broadbent, Mark Williams","Adventure, Comedy, Family",5.9
+115,The Boxer,1997,113,Jim Sheridan,"Daniel Day-Lewis, Emily Watson, Daragh Donnelly","Drama, Romance, Sport",7.0
+116,Nightwatch,1997,101,Ole Bornedal,"Ewan McGregor, Nick Nolte, Anais Evans","Drama, Horror, Thriller",6.2
+117,Picture Perfect,1997,101,Glenn Gordon Caron,"Jennifer Aniston, Jay Mohr, Kevin Bacon","Comedy, Drama, Romance",5.5
+118,Mad City,1997,115,Costa-Gavras,"John Travolta, Dustin Hoffman, Alan Alda","Crime, Drama, Thriller",6.3
+119,Innocence,1997,110,Zeki Demirkubuz,"Güven Kiraç, Haluk Bilginer, Derya Alabora",Drama,8.1
+120,Affliction,1997,114,Paul Schrader,"Nick Nolte, Sissy Spacek, James Coburn","Drama, Mystery, Thriller",6.9
+121,Air Bud,1997,98,Charles Martin Smith,"Michael Jeter, Kevin Zegers, Wendy Makkena","Comedy, Drama, Family",5.3
+122,Fire Down Below,1997,105,Félix Enríquez Alcalá,"Steven Seagal, Kris Kristofferson, Marg Helgenberger","Action, Drama, Thriller",5.1
+123,Dobermann,1997,103,Jan Kounen,"Vincent Cassel, Tchéky Karyo, Monica Bellucci","Action, Comedy, Crime",6.5
+124,Red Corner,1997,122,Jon Avnet,"Richard Gere, Bai Ling, Bradley Whitford","Crime, Drama, Thriller",6.3
+125,Wilde,1997,118,Brian Gilbert,"Stephen Fry, Jude Law, Vanessa Redgrave","Biography, Drama, Romance",6.9
+126,Border,1997,176,J.P. Dutta,"Sunny Deol, Suniel Shetty, Akshaye Khanna","Action, Drama, History",7.9
+127,The Castle,1997,85,Rob Sitch,"Michael Caton, Anne Tenney, Stephen Curry","Comedy, Drama",7.6
+128,Gridlock'd,1997,91,Vondie Curtis-Hall,"Tupac Shakur, Tim Roth, Thandiwe Newton","Comedy, Crime, Drama",6.9
+129,Fathers' Day,1997,98,Ivan Reitman,"Robin Williams, Billy Crystal, Julia Louis-Dreyfus","Comedy, Romance",5.3
+130,Pardes,1997,191,Subhash Ghai,"Shah Rukh Khan, Mahima Chaudhry, Amrish Puri","Drama, Musical, Romance",6.9
+131,Mr. Magoo,1997,87,Stanley Tong,"Leslie Nielsen, Kelly Lynch, Matt Keeslar","Adventure, Comedy, Family",4.1
+132,Neon Genesis Evangelion: Death & Rebirth,1997,101,"Hideaki Anno, Ken Andô, Naoyasu Habu","Megumi Ogata, Megumi Hayashibara, Yûko Miyamura","Animation, Action, Drama",7.2
+133,Insomnia,1997,96,Erik Skjoldbjærg,"Stellan Skarsgård, Sverre Anker Ousdal, Maria Mathiesen","Crime, Mystery, Thriller",7.2
+134,Mrs. Brown,1997,101,John Madden,"Judi Dench, Billy Connolly, Geoffrey Palmer","Biography, Drama, History",7.2
+135,Switchback,1997,118,Jeb Stuart,"Danny Glover, Dennis Quaid, Claudia Stedelin","Crime, Mystery, Thriller",6.4
+136,Smilla's Sense of Snow,1997,121,Bille August,"Julia Ormond, Jens Jørgen Fleischer, Agga Olsen","Crime, Drama, Mystery",6.3
+137,Steel,1997,97,Kenneth Johnson,"Shaquille O'Neal, Annabeth Gish, Judd Nelson","Action, Adventure, Crime",3.0
+138,The Apostle,1997,134,Robert Duvall,"Robert Duvall, Todd Allen, Paul Bagget",Drama,7.1
+139,Inventing the Abbotts,1997,110,Pat O'Connor,"Liv Tyler, Jennifer Connelly, Joaquin Phoenix","Drama, Romance",6.4
+140,Yes Boss,1997,163,Aziz Mirza,"Shah Rukh Khan, Juhi Chawla, Aditya Pancholi","Comedy, Drama, Musical",6.7
+141,Excess Baggage,1997,101,Marco Brambilla,"Alicia Silverstone, Benicio Del Toro, Christopher Walken","Action, Comedy, Crime",5.4
+142,In the Company of Men,1997,97,Neil LaBute,"Aaron Eckhart, Matt Malloy, Stacy Edwards","Comedy, Drama",7.1
+143,Chachi 420,1997,155,Kamal Haasan,"Kamal Haasan, Amrish Puri, Om Puri","Comedy, Drama, Musical",7.4
+144,Robinson Crusoe,1997,105,"Rod Hardy, George Miller","Pierce Brosnan, William Takaku, Polly Walker","Adventure, Drama",6.0
+145,The Wings of the Dove,1997,102,Iain Softley,"Helena Bonham Carter, Linus Roache, Alex Jennings","Drama, Romance",7.1
+146,Hoodlum,1997,130,Bill Duke,"Laurence Fishburne, Tim Roth, Vanessa Williams","Crime, Drama",6.3
+147,Turbulence,1997,100,Robert Butler,"Ray Liotta, Lauren Holly, Brendan Gleeson","Action, Thriller",5.0
+148,The Night Flier,1997,97,Mark Pavia,"Miguel Ferrer, Julie Entwisle, Dan Monahan","Fantasy, Horror, Mystery",6.0
+149,For Richer or Poorer,1997,115,Bryan Spicer,"Tim Allen, Kirstie Alley, Jay O. Sanders","Comedy, Romance",5.8
+150,Cholera Street,1997,120,Mustafa Altioklar,"Okan Bayülgen, Müjde Ar, Savas Dinçel","Crime, Drama, Romance",7.6
+151,Ishq,1997,161,Indra Kumar,"Aamir Khan, Ajay Devgn, Juhi Chawla","Action, Comedy, Drama",6.8
+152,Eve's Bayou,1997,108,Kasi Lemmons,"Samuel L. Jackson, Jurnee Smollett, Meagan Good",Drama,7.2
+153,Three Men and a Leg,1997,100,"Aldo Baglio, Giacomo Poretti, Giovanni Storti","Aldo Baglio, Giovanni Storti, Giacomo Poretti",Comedy,7.7
+154,Fever Pitch,1997,102,David Evans,"Colin Firth, Ruth Gemmell, Luke Aikman","Comedy, Drama, Romance",6.7
+155,Snow White: A Tale of Terror,1997,100,Michael Cohn,"Sigourney Weaver, Sam Neill, Gil Bellows","Adventure, Fantasy, Horror",6.1
+156,The Butcher Boy,1997,110,Neil Jordan,"Stephen Rea, Fiona Shaw, Eamonn Owens","Comedy, Drama",7.1
+157,Character,1997,122,Mike van Diem,"Pavlik Jansen op de Haar, Jan Decleir, Fedja van Huêt","Crime, Drama, Mystery",7.7
+158,8 Heads in a Duffel Bag,1997,95,Tom Schulman,"Joe Pesci, Andy Comeau, Kristy Swanson","Adventure, Comedy, Crime",5.4
+159,Nowhere,1997,82,Gregg Araki,"James Duval, Rachel True, Nathan Bexton","Comedy, Drama, Sci-Fi",6.5
+160,The Brave,1997,123,Johnny Depp,"Johnny Depp, Marlon Brando, Marshall Bell",Drama,6.1
+161,Free Willy 3: The Rescue,1997,86,Sam Pillsbury,"Jason James Richter, August Schellenberg, Annie Corley","Adventure, Drama, Family",4.7
+162,Gone Fishin',1997,94,Christopher Cain,"Joe Pesci, Danny Glover, Rosanna Arquette","Comedy, Crime",4.8
+163,RocketMan,1997,95,Stuart Gillard,"Harland Williams, Jessica Lundy, William Sadler","Comedy, Family, Sci-Fi",5.9
+164,Gang Related,1997,111,Jim Kouf,"Jim Belushi, Tupac Shakur, Lela Rochon","Action, Crime, Drama",6.4
+165,Nil by Mouth,1997,128,Gary Oldman,"Ray Winstone, Kathy Burke, Charlie Creed-Miles",Drama,7.3
+166,Perdita Durango,1997,129,Álex de la Iglesia,"Rosie Perez, Javier Bardem, Harley Cross","Action, Crime, Horror",6.3
+167,The Assignment,1997,115,Christian Duguay,"Aidan Quinn, Donald Sutherland, Ben Kingsley","Action, Crime, Thriller",6.8
+168,Koyla,1997,166,Rakesh Roshan,"Shah Rukh Khan, Madhuri Dixit, Amrish Puri","Action, Drama, Musical",6.2
+169,The Beautician and the Beast,1997,105,Ken Kwapis,"Fran Drescher, Timothy Dalton, Ian McNeice","Comedy, Romance",5.5
+170,Turbo: A Power Rangers Movie,1997,99,"Shuki Levy, David Winning","Jason David Frank, Catherine Sutherland, Hilary Shepard","Action, Adventure, Family",3.7
+171,Booty Call,1997,79,Jeff Pollack,"Jamie Foxx, Tommy Davidson, Vivica A. Fox","Comedy, Romance",5.5
+172,Out to Sea,1997,106,Martha Coolidge,"Jack Lemmon, Walter Matthau, Dyan Cannon","Comedy, Romance",6.1
+173,The Pest,1997,84,Paul Miller,"John Leguizamo, Jeffrey Jones, Edoardo Ballerini",Comedy,4.8
+174,How to Be a Player,1997,93,Lionel C. Martin,"Bill Bellamy, Natalie Desselle Reid, Lark Voorhies",Comedy,5.3
+175,Soul Food,1997,115,George Tillman Jr.,"Vanessa Williams, Vivica A. Fox, Nia Long","Comedy, Drama",7.0
+176,Rosewood,1997,140,John Singleton,"Jon Voight, Ving Rhames, Don Cheadle","Action, Drama, History",7.2
+177,Ma vie en rose,1997,88,Alain Berliner,"Georges Du Fresne, Michèle Laroque, Jean-Philippe Écoffey",Drama,7.5
+178,The House of Yes,1997,85,Mark Waters,"Parker Posey, Josh Hamilton, Tori Spelling","Comedy, Drama, Thriller",6.6
+179,Bent,1997,105,Sean Mathias,"Lothaire Bluteau, Clive Owen, Mick Jagger","Drama, History, Romance",7.1
+180,Kull: The Conqueror,1997,95,John Nicolella,"Kevin Sorbo, Tia Carrere, Thomas Ian Griffith","Action, Adventure, Fantasy",4.9
+181,Lawn Dogs,1997,101,John Duigan,"Sam Rockwell, Kathleen Quinlan, Mischa Barton",Drama,7.4
+182,Cats Don't Dance,1997,75,Mark Dindal,"Scott Bakula, Jasmine Guy, Natalie Cole","Animation, Comedy, Family",6.9
+183,She's So Lovely,1997,100,Nick Cassavetes,"Sean Penn, Robin Wright, John Travolta","Drama, Romance",5.9
+184,Two Girls and a Guy,1997,84,James Toback,"Robert Downey Jr., Heather Graham, Natasha Gregson Wagner",Drama,5.5
+185,The Crazy Stranger,1997,102,Tony Gatlif,"Romain Duris, Rona Hartner, Izidor Serban","Comedy, Drama, Music",7.6
+186,Wild America,1997,106,William Dear,"Jonathan Taylor Thomas, Devon Sawa, Scott Bairstow","Action, Adventure, Comedy",6.4
+187,Kiler,1997,104,Juliusz Machulski,"Cezary Pazura, Malgorzata Kozuchowska, Jerzy Stuhr","Action, Comedy, Crime",7.5
+188,Playing God,1997,94,Andy Wilson,"David Duchovny, Timothy Hutton, Angelina Jolie","Crime, Drama, Thriller",5.6
+189,The Big One,1997,91,Michael Moore,"Michael Moore, Elaine Bly, Dan Burns","Documentary, Comedy, Crime",7.1
+190,Henry Fool,1997,137,Hal Hartley,"Thomas Jay Ryan, James Urbaniak, Parker Posey","Comedy, Drama",7.1
+191,Welcome to Sarajevo,1997,103,Michael Winterbottom,"Stephen Dillane, Woody Harrelson, Marisa Tomei","Drama, War",6.7
+192,Trial and Error,1997,98,Jonathan Lynn,"Michael Richards, Jeff Daniels, Charlize Theron","Comedy, Romance",5.8
+193,Shooting Fish,1997,103,Stefan Schwartz,"Dan Futterman, Stuart Townsend, Kate Beckinsale","Comedy, Crime, Romance",6.5
+194,Prefontaine,1997,106,Steve James,"Jared Leto, R. Lee Ermey, Ed O'Neill","Biography, Drama, Romance",6.8
+195,Iruvar,1997,140,Mani Ratnam,"Mohanlal, Aishwarya Rai Bachchan, Prakash Raj","Biography, Drama",8.4
+196,Ulee's Gold,1997,113,Victor Nunez,"Peter Fonda, Patricia Richardson, Christine Dunford",Drama,7.0
+197,Steam: The Turkish Bath,1997,94,Ferzan Özpetek,"Alessandro Gassmann, Francesca d'Aloja, Carlo Cecchi","Drama, Romance",6.8
+198,Deceiver,1997,106,"Jonas Pate, Josh Pate","Tim Roth, Chris Penn, Michael Rooker","Crime, Drama, Mystery",6.4
+199,Judwaa,1997,138,David Dhawan,"Salman Khan, Karisma Kapoor, Rambha","Action, Comedy, Drama",6.2
+200,One Night Stand,1997,102,Mike Figgis,"Wesley Snipes, Nastassja Kinski, Kyle MacLachlan","Drama, Romance",5.9
+201,Oscar and Lucinda,1997,132,Gillian Armstrong,"Ralph Fiennes, Cate Blanchett, Ciarán Hinds","Drama, Romance",6.5
+202,Nirvana,1997,113,Gabriele Salvatores,"Christopher Lambert, Diego Abatantuono, Sergio Rubini","Action, Drama, Sci-Fi",6.1
+203,McHale's Navy,1997,108,Bryan Spicer,"Tom Arnold, Dean Stockwell, Ernest Borgnine","Action, Comedy",4.6
+204,Drive,1997,100,Steve Wang,"Mark Dacascos, Kadeem Hardison, John Pyper-Ferguson","Action, Adventure, Comedy",6.6
+205,Clockwatchers,1997,96,Jill Sprecher,"Toni Collette, Parker Posey, Lisa Kudrow","Comedy, Drama",6.6
+206,Little Dieter Needs to Fly,1997,80,Werner Herzog,"Dieter Dengler, Werner Herzog, Eugene Deatrick","Documentary, Biography, Drama",8.0
+207,Retroactive,1997,91,Louis Morneau,"Jim Belushi, Kylie Travis, Shannon Whirry","Action, Crime, Drama",6.2
+208,The Small Town,1997,85,Nuri Bilge Ceylan,"Mehmet Emin Toprak, Havva Saglam, Cihat Bütün",Drama,7.0
+209,Mr. & Mrs. Khiladi,1997,133,David Dhawan,"Akshay Kumar, Juhi Chawla, Paresh Rawal","Comedy, Drama, Romance",6.3
+210,City of Industry,1997,97,John Irvin,"Harvey Keitel, Stephen Dorff, Timothy Hutton","Crime, Drama, Thriller",6.1
+211,Trojan War,1997,85,George Huang,"Will Friedle, Jennifer Love Hewitt, Marley Shelton","Comedy, Romance",5.7
+212,The Eel,1997,117,Shôhei Imamura,"Kôji Yakusho, Misa Shimizu, Mitsuko Baishô","Comedy, Drama",7.3
+213,Chairman of the Board,1997,95,Alex Zamm,"Scott 'Carrot Top' Thompson, Courtney Thorne-Smith, Larry Miller",Comedy,2.3
+214,Twin Town,1997,99,Kevin Allen,"Llyr Ifans, Rhys Ifans, Dorien Thomas","Comedy, Drama",6.7
+215,The Sixth Man,1997,107,Randall Miller,"Marlon Wayans, Kadeem Hardison, David Paymer","Comedy, Drama, Fantasy",5.7
+216,Most Wanted,1997,99,David Hogan,"Keenen Ivory Wayans, Jon Voight, Robert Kotecki","Action, Thriller",5.6
+217,FairyTale: A True Story,1997,99,Charles Sturridge,"Paul McGann, Florence Hoath, Elizabeth Earl","Drama, Family, Fantasy",6.5
+218,Career Girls,1997,83,Mike Leigh,"Katrin Cartlidge, Lynda Steadman, Kate Byers","Comedy, Drama",7.1
+219,Anna Karenina,1997,108,Bernard Rose,"Sophie Marceau, Sean Bean, Alfred Molina","Drama, Romance",6.3
+220,Paradise Road,1997,122,Bruce Beresford,"Glenn Close, Frances McDormand, Pauline Collins","Drama, History, War",6.8
+221,B*A*P*S,1997,91,Robert Townsend,"Halle Berry, Natalie Desselle Reid, Martin Landau",Comedy,4.8
+222,The MatchMaker,1997,97,Mark Joffe,"Janeane Garofalo, David O'Hara, Milo O'Shea","Comedy, Romance",6.5
+223,A Simple Wish,1997,89,Michael Ritchie,"Martin Short, Mara Wilson, Robert Pastorelli","Comedy, Family, Fantasy",5.3
+224,Four Days in September,1997,110,Bruno Barreto,"Alan Arkin, Pedro Cardoso, Fernanda Torres","Action, Drama, History",7.4
+225,A Thousand Acres,1997,105,Jocelyn Moorhouse,"Michelle Pfeiffer, Jessica Lange, Jennifer Jason Leigh",Drama,6.1
+226,Love Jones,1997,109,Theodore Witcher,"Larenz Tate, Nia Long, Isaiah Washington","Comedy, Drama, Romance",7.3
+227,Gupt: The Hidden Truth,1997,173,Rajiv Rai,"Bobby Deol, Kajol, Manisha Koirala","Action, Crime, Mystery",7.3
+228,The Thief,1997,96,Pavel Chukhray,"Vladimir Mashkov, Yekaterina Rednikova, Mikhail Filipchuk","Crime, Drama",7.6
+229,Campfire Tales,1997,88,"Matt Cooper, Martin Kunert, David Semel","James Marsden, Amy Smart, Frederick Lawrence","Horror, Mystery",5.8
+230,The End of Violence,1997,122,Wim Wenders,"Traci Lind, Rosalind Chao, Bill Pullman","Drama, Thriller",5.6
+231,"Truth or Consequences, N.M.",1997,106,Kiefer Sutherland,"Kiefer Sutherland, Kim Dickens, Vincent Gallo","Action, Crime, Drama",6.3
+232,Kadhalukku Mariyadhai,1997,165,Fazil,"Joseph Vijay, Shalini, Charlie","Drama, Romance",8.2
+233,Shadow Conspiracy,1997,103,George P. Cosmatos,"Charlie Sheen, Donald Sutherland, Linda Hamilton","Action, Thriller",4.9
+234,Airbag,1997,124,Juanma Bajo Ulloa,"Karra Elejalde, Fernando Guillén Cuervo, Alberto San Juan","Action, Comedy, Crime",6.7
+235,Would I Lie to You?,1997,100,Thomas Gilou,"Richard Anconina, Richard Bohringer, Amira Casar","Comedy, Romance",6.4
+236,Trekkies,1997,86,Roger Nygard,"Denise Crosby, Frank D'Amico, Barbara Adams","Documentary, Comedy",6.9
+237,That Darn Cat,1997,89,Bob Spiers,"Christina Ricci, Doug E. Doug, Dean Jones","Action, Comedy, Crime",4.7
+238,Didier,1997,105,Alain Chabat,"Elliot, Caroline Cellier, Jean-Pierre Bacri","Comedy, Fantasy, Sport",6.3
+239,Mean Guns,1997,110,Albert Pyun,"Christopher Lambert, Ice-T, Michael Halsey","Action, Crime, Thriller",5.4
+240,Firelight,1997,103,William Nicholson,"Sophie Marceau, Stephen Dillane, Dominique Belcourt","Drama, Romance",7.2
+241,Face,1997,105,Antonia Bird,"Robert Carlyle, Ray Winstone, Steve Sweeney","Crime, Drama, Thriller",6.6
+242,Poison Ivy: The New Seduction,1997,95,Kurt Voss,"Jaime Pressly, Megan Edwards, Michael Des Barres","Drama, Thriller",4.8
+243,Martín (Hache),1997,123,Adolfo Aristarain,"Federico Luppi, Juan Diego Botto, Eusebio Poncela",Drama,7.6
+244,Another 9½ Weeks,1997,105,Anne Goursaud,"Mickey Rourke, Agathe de La Fontaine, Angie Everhart","Drama, Romance",3.0
+245,Winter Sleepers,1997,122,Tom Tykwer,"Ulrich Matthes, Marie-Lou Sellem, Floriane Daniel","Drama, Romance, Thriller",7.1
+246,Leave It to Beaver,1997,84,Andy Cadiff,"Christopher McDonald, Janine Turner, Cameron Finley","Comedy, Family",5.2
+247,Same Old Song,1997,120,Alain Resnais,"Pierre Arditi, Sabine Azéma, Jean-Pierre Bacri","Comedy, Drama, Musical",7.3
+248,Le pari,1997,100,"Didier Bourdon, Bernard Campan","Didier Bourdon, Bernard Campan, Isabelle Ferron",Comedy,6.3
+249,Once Upon a Time in China and America,1997,102,Sammo Kam-Bo Hung,"Jet Li, Rosamund Kwan, Xiong Xinxin","Action, Adventure, History",6.3
+250,The Real Blonde,1997,105,Tom DiCillo,"Matthew Modine, Catherine Keener, Daryl Hannah","Comedy, Drama, Romance",6.0
+251,Mrs Dalloway,1997,97,Marleen Gorris,"Vanessa Redgrave, Natascha McElhone, Michael Kitchen","Drama, Romance",6.5
+252,Mother and Son,1997,73,Aleksandr Sokurov,"Aleksei Ananishnov, Gudrun Geyer",Drama,7.3
+253,Leila,1997,102,Dariush Mehrjui,"Leila Hatami, Ali Mosaffa, Jamileh Sheikhi","Drama, Family, Romance",7.5
+254,Love and Death on Long Island,1997,93,Richard Kwietniowski,"John Hurt, Jason Priestley, Fiona Loewi","Comedy, Drama",6.9
+255,Incognito,1997,108,John Badham,"Jason Patric, Irène Jacob, Thomas Lockyer","Crime, Romance, Thriller",6.4
+256,Detective Conan: The Time Bombed Skyscraper,1997,94,Kenji Kodama,"Minami Takayama, Kappei Yamaguchi, Wakana Yamazaki","Animation, Adventure, Crime",7.4
+257,Hardboiled Egg,1997,100,Paolo Virzì,"Edoardo Gabbriellini, Malcolm Lunghi, Regina Orioli","Comedy, Drama",7.3
+258,That Old Feeling,1997,105,Carl Reiner,"Bette Midler, Dennis Farina, Paula Marshall","Comedy, Romance",6.1
+259,The Wrong Guy,1997,92,David Steinberg,"Dave Foley, David Anthony Higgins, Jennifer Tilly","Comedy, Thriller",6.8
+260,Plump Fiction,1997,82,Bob Koherr,"Tommy Davidson, Julie Brown, Paul Dinello","Comedy, Crime",2.7
+261,"Fast, Cheap & Out of Control",1997,80,Errol Morris,"Dave Hoover, George Mendonça, Rodney Brooks",Documentary,7.1
+262,Kleines Arschloch,1997,82,"Michael Schaack, Veit Vollmer","Ilona Schulz, Helge Schneider, Arne Elsholtz","Animation, Comedy",5.8
+263,Kummeli Kultakuume,1997,96,Matti Grönberg,"Heikki Hela, Heikki Silvennoinen, Timo Kahilainen","Adventure, Comedy",7.2
+264,On Guard,1997,128,Philippe de Broca,"Daniel Auteuil, Fabrice Luchini, Vincent Perez","Adventure, Drama",6.9
+265,Meet Wally Sparks,1997,105,Peter Baldwin,"Rodney Dangerfield, Debi Mazar, David Ogden Stiers",Comedy,5.2
+266,Afterglow,1997,119,Alan Rudolph,"Nick Nolte, Julie Christie, Lara Flynn Boyle","Comedy, Drama, Romance",6.0
+267,Aaram Thamburan,1997,163,Shaji Kailas,"Mohanlal, Manju Warrier, Narendra Prasad","Action, Drama, Romance",8.1
+268,Masterminds,1997,106,Roger Christian,"Patrick Stewart, Vincent Kartheiser, Brenda Fricker","Action, Comedy, Thriller",5.2
+269,The Winter Guest,1997,108,Alan Rickman,"Phyllida Law, Emma Thompson, Sheila Reid",Drama,6.8
+270,Washington Square,1997,115,Agnieszka Holland,"Jennifer Jason Leigh, Albert Finney, Maggie Smith","Drama, Romance",6.6
+271,An Alan Smithee Film: Burn Hollywood Burn,1997,86,Arthur Hiller,"Ryan O'Neal, Coolio, Chuck D",Comedy,3.5
+272,Waco: The Rules of Engagement,1997,165,William Gazecki,"Dan Gifford, Jim Cavanaugh, Dick DeGuerin","Documentary, History",7.8
+273,Love! Valour! Compassion!,1997,108,Joe Mantello,"Jason Alexander, Stephen Spinella, Stephen Bogardus","Comedy, Drama, Romance",7.0
+274,Metroland,1997,101,Philip Saville,"Christian Bale, Lee Ross, Emily Watson","Comedy, Drama",6.3
+275,Guru,1997,136,Rajiv Anchal,"Mohanlal, Suresh Gopi, Madhupal","Drama, Fantasy",8.5
+276,4 Little Girls,1997,102,Spike Lee,"Maxine McNair, Walter Cronkite, Chris McNair","Documentary, History",7.8
+277,Swept from the Sea,1997,115,Beeban Kidron,"Rachel Weisz, Vincent Perez, Ian McKellen","Drama, Mystery, Romance",6.7
+278,Warriors of Virtue,1997,101,Ronny Yu,"Angus Macfadyen, Mario Yedidia, Marley Shelton","Action, Adventure, Fantasy",4.7
+279,Chinese Box,1997,99,Wayne Wang,"Jeremy Irons, Gong Li, Maggie Cheung","Drama, Romance",6.2
+280,The Harmonists,1997,115,Joseph Vilsmaier,"Ben Becker, Heino Ferch, Ulrich Noethen","Biography, Drama, Music",7.2
+281,The Life of Jesus,1997,96,Bruno Dumont,"David Douche, Marjorie Cottreel, Kader Chaatouf","Drama, Romance",7.0
+282,Eight Days a Week,1997,92,Michael Davis,"Joshua Schaefer, Keri Russell, RD Robb","Comedy, Romance",6.0
+283,Hero No. 1,1997,134,David Dhawan,"Govinda, Karisma Kapoor, Kader Khan","Comedy, Drama, Musical",6.3
+284,Pickpocket,1997,110,Jia Zhang-ke,"Hongwei Wang, Hongjian Hao, Baitao Zuo",Drama,7.4
+285,For Roseanna,1997,98,Paul Weiland,"Jean Reno, Mercedes Ruehl, Polly Walker","Comedy, Romance, Drama",7.1
+286,Ballermann 6,1997,95,"Gernot Roll, Tom Gerhardt","Tom Gerhardt, Hilmi Sözer, Diana Frank",Comedy,5.1
+287,Still Breathing,1997,109,James F. Robinson,"Brendan Fraser, Joanna Going, Lou Rawls","Comedy, Drama, Fantasy",6.4
+288,All Over Me,1997,86,Alex Sichel,"Alison Folland, Tara Subkoff, Cole Hauser","Crime, Drama, Romance",6.4
+289,The River,1997,115,Tsai Ming-liang,"Miao Tien, Kang-sheng Lee, Yi-ching Lu","Drama, Romance",7.2
+290,Adam & Eva,1997,100,"Måns Herngren, Hannes Holm","Björn Kjellman, Josefin Nilsson, Tintin Anderzon","Comedy, Drama, Romance",6.1
+291,The Manson Family,1997,95,Jim Van Bebber,"Marcelo Games, Marc Pitman, Leslie Orr","Crime, Drama, History",5.5
+292,Love Today,1997,151,Balasekaran,"Joseph Vijay, Suvalakshmi, Raasi","Drama, Romance",8.6
+293,Bandits,1997,110,Katja von Garnier,"Katja Riemann, Jasmin Tabatabai, Nicolette Krebitz","Drama, Music",6.4
+294,Destiny,1997,135,Youssef Chahine,"Nour El-Sherif, Laila Eloui, Mahmoud Hemida","Comedy, Drama, History",7.1
+295,Zeus and Roxanne,1997,98,George Miller,"Steve Guttenberg, Kathleen Quinlan, Arnold Vosloo","Adventure, Comedy, Family",5.3
+296,The Mirror,1997,95,Jafar Panahi,"Mina Mohammad Khani, Mohtaram Shirzad, Rajab Mojdehi",Drama,7.5
+297,Made in Hong Kong,1997,109,Fruit Chan,"Sam Lee, Neiky Hui-Chi Yim, Wenders Li","Comedy, Crime, Drama",7.5
+298,Star Kid,1997,101,Manny Coto,"Joseph Mazzello, Joey Simmrin, Alex Daniels","Adventure, Family, Sci-Fi",5.3
+299,Breaking Up,1997,90,Robert Greenwald,"Russell Crowe, Salma Hayek, Abraham Alvarez","Comedy, Drama, Romance",4.7
+300,The Swindle,1997,101,Claude Chabrol,"Isabelle Huppert, Michel Serrault, François Cluzet","Comedy, Crime, Thriller",6.5
+301,The Ugly,1997,93,Scott Reynolds,"Paolo Rotondo, Paul Glover, Chris Graham","Drama, Horror, Thriller",6.0
+302,Best Men,1997,90,Tamra Davis,"Dean Cain, Andy Dick, Sean Patrick Flanery","Action, Comedy, Crime",5.5
+303,All Stars,1997,115,Jean van de Velde,"Danny de Munk, Antonie Kamerling, Daniël Boissevain","Comedy, Drama, Sport",7.1
+304,Bleeders,1997,89,Peter Svatek,"Gillian Ferrabee, Pascal Gruselle, Roy Dupuis",Horror,4.3
+305,The Hanging Garden,1997,91,Thom Fitzgerald,"Chris Leavins, Kerry Fox, Ian Parsons","Drama, Romance",6.8
+306,Deewana Mastana,1997,140,David Dhawan,"Anil Kapoor, Govinda, Juhi Chawla","Comedy, Romance",6.7
+307,Digging to China,1997,98,Timothy Hutton,"Evan Rachel Wood, Kevin Bacon, Mary Stuart Masterson",Drama,6.7
+308,Virasat,1997,165,Priyadarshan,"Anil Kapoor, Tabu, Pooja Batra","Action, Drama, Musical",7.4
+309,"Pizza, Beer, and Cigarettes",1997,92,"Israel Adrián Caetano, Bruno Stagnaro","Héctor Anglada, Jorge Sesán, Pamela Jordán","Crime, Drama",7.0
+310,'Til There Was You,1997,113,Scott Winant,"Jeanne Tripplehorn, Dylan McDermott, John Plumpis","Comedy, Romance",4.8
+311,Touch,1997,96,Paul Schrader,"Bridget Fonda, Christopher Walken, Skeet Ulrich","Comedy, Drama, Romance",5.6
+312,Bliss,1997,103,Lance Young,"Craig Sheffer, Terence Stamp, Sheryl Lee","Drama, Romance",6.0
+313,Judaai,1997,167,Raj Kanwar,"Anil Kapoor, Sridevi, Urmila Matondkar","Comedy, Drama, Romance",6.1
+314,Rainy Dog,1997,95,Takashi Miike,"Shô Aikawa, Li-Wei Chang, Shih Chang","Crime, Drama",7.0
+315,The Blackout,1997,98,Abel Ferrara,"Matthew Modine, Claudia Schiffer, Béatrice Dalle","Drama, Mystery, Thriller",5.4
+316,Rurouni Kenshin: The Movie,1997,90,Tsuji Hajiki,"Mayo Suzukaze, Shanon Weaver, Miki Fujitani","Animation, Action, Drama",7.3
+317,Sara,1997,110,Maciej Slesicki,"Boguslaw Linda, Agnieszka Wlodarczyk, Cezary Pazura","Action, Crime, Drama",6.5
+318,The Peacekeeper,1997,98,Frédéric Forestier,"Dolph Lundgren, Michael Sarrazin, Montel Williams",Action,5.0
+319,Photographing Fairies,1997,106,Nick Willing,"Toby Stephens, Emily Woof, Ben Kingsley","Drama, Fantasy, Mystery",6.7
+320,Full Tilt Boogie,1997,97,Sarah Kelly,"Rick Stribling, Ken Bondy, Amy Minda Cohen",Documentary,6.6
+321,Men with Guns,1997,127,John Sayles,"Federico Luppi, Damián Delgado, Dan Rivera González","Adventure, Drama",7.6
+322,Buddy,1997,84,Caroline Thompson,"Rene Russo, Robbie Coltrane, Alan Cumming","Adventure, Comedy, Drama",4.8
+323,Lucky Star,1997,110,Ricardo Franco,"Antonio Resines, Maribel Verdú, Jordi Mollà",Drama,7.0
+324,A miniszter félrelép,1997,105,"András Kern, Róbert Koltai","András Kern, Róbert Koltai, Sándor Gáspár",Comedy,6.7
+325,Fakin' Da Funk,1997,89,Timothy A. Chey,"Ernie Hudson, Pam Grier, Margaret Cho",Comedy,7.2
+326,Arunachalam,1997,165,Sundar C.,"Rajinikanth, Soundarya, Rambha","Action, Comedy, Drama",7.5
+327,TwentyFourSeven,1997,96,Shane Meadows,"Bob Hoskins, Danny Nussbaum, Toby","Comedy, Drama, Romance",7.0
+328,The Myth of Fingerprints,1997,93,Bart Freundlich,"Julianne Moore, Roy Scheider, Noah Wyle","Comedy, Drama, Romance",6.0
+329,Nerukku Ner,1997,178,Vasanth,"Joseph Vijay, Suriya, Kousalya","Action, Drama, Romance",7.4
+330,Mr. Jealousy,1997,103,Noah Baumbach,"Eric Stoltz, Annabella Sciorra, Chris Eigeman","Comedy, Romance",6.3
+331,The Wax Mask,1997,98,Sergio Stivaletti,"Robert Hossein, Romina Mondello, Riccardo Serventi Longhi",Horror,5.8
+332,Danes Without a Clue,1997,79,Kasper Wedendahl,"Timm Vladimir, Gordon Kennedy, Berte Fischer-Hansen",Comedy,1.6
+333,Hands on a Hardbody: The Documentary,1997,98,S.R. Bindler,"Sid Allen, Brent Baskin, Greg Cox","Documentary, Comedy, Drama",7.6
+334,Prince Valiant,1997,91,Anthony Hickox,"Stephen Moyer, Katherine Heigl, Thomas Kretschmann","Adventure, Fantasy, Romance",5.1
+335,Behind the Lines,1997,96,Gillies MacKinnon,"Jonathan Pryce, James Wilby, Jonny Lee Miller","Biography, Drama, History",7.0
+336,The Last Time I Committed Suicide,1997,92,Stephen Kay,"Thomas Jane, Keanu Reeves, Adrien Brody","Biography, Drama, Romance",5.4
+337,Telling Lies in America,1997,101,Guy Ferland,"Kevin Bacon, Brad Renfro, Maximilian Schell","Drama, Music",6.2
+338,The Tango Lesson,1997,100,Sally Potter,"Sally Potter, Pablo Verón, Morgane Maugran","Drama, Music, Romance",6.7
+339,The Perfect Circle,1997,110,Ademir Kenovic,"Mustafa Nadarevic, Almedin Leleta, Almir Podgorica","Drama, War",8.1
+340,Glam,1997,92,Josh Evans,"William McNamara, Frank Whaley, Natasha Gregson Wagner",Drama,2.8
+341,Office Killer,1997,82,Cindy Sherman,"Florina Rodov, Jason Brill, Eddie Malavarca","Comedy, Crime, Horror",5.2
+342,Rossini,1997,114,Helmut Dietl,"Götz George, Mario Adorf, Heiner Lauterbach",Comedy,6.4
+343,See the Sea,1997,52,François Ozon,"Sasha Hails, Marina de Van, Samantha","Drama, Thriller",6.8
+344,Traveller,1997,101,Jack N. Green,"Bill Paxton, Mark Wahlberg, Julianna Margulies","Crime, Drama, Romance",6.1
+345,Keep Cool,1997,93,Yimou Zhang,"Wen Jiang, Baotian Li, Ying Qu",Comedy,7.2
+346,I Went Down,1997,107,Paddy Breathnach,"Brendan Gleeson, Peter McDonald, Antoine Byrne","Action, Comedy, Crime",6.7
+347,Csinibaba,1997,100,Péter Tímár,"János Gálvölgyi, Sándor Almási, Anita Tóth","Comedy, Musical, Romance",7.4
+348,Critical Care,1997,107,Sidney Lumet,"James Spader, Kyra Sedgwick, Helen Mirren","Comedy, Drama",5.9
+349,Green Fish,1997,111,Lee Chang-dong,"Han Suk-kyu, Shim Hye-jin, Moon Sung-keun","Crime, Drama",7.0
+350,Heaven's Burning,1997,99,Craig Lahiff,"Russell Crowe, Yûki Kudô, Kenji Isomura","Action, Crime, Drama",5.7
+351,Rage,1997,97,Slobodan Skerlic,"Lazar Ristovski, Nikola Djuricko, Nebojsa Glogovac",Action,7.0
+352,Little Boy Blue,1997,105,Antonio Tibaldi,"Ryan Phillippe, Nastassja Kinski, John Savage",Drama,6.2
+353,Wild Man Blues,1997,105,Barbara Kopple,"Woody Allen, Letty Aronson, Soon-Yi Previn","Documentary, Music, Romance",6.9
+354,Les Boys,1997,107,Louis Saia,"Marc Messier, Rémy Girard, Patrick Huard","Comedy, Drama, Sport",6.7
+355,Going All the Way,1997,103,Mark Pellington,"Jeremy Davies, Ben Affleck, Amy Locane","Comedy, Drama, Romance",5.7
+356,Assassin(s),1997,128,Mathieu Kassovitz,"Michel Serrault, Mathieu Kassovitz, Mehdi Benoufa","Crime, Drama",6.4
+357,Artemisia,1997,98,Agnès Merlet,"Valentina Cervi, Michel Serrault, Predrag 'Miki' Manojlovic","Biography, Drama, History",6.7
+358,I Married a Strange Person!,1997,75,Bill Plympton,"Charis Michelsen, Tom Larson, Richard Spore","Animation, Comedy, Drama",6.9
+359,"Welcome Back, Mr. McDonald",1997,103,Kôki Mitani,"Toshiaki Karasawa, Kyôka Suzuki, Masahiko Nishimura",Comedy,7.7
+360,The Locusts,1997,124,John Patrick Kelley,"Kate Capshaw, Jeremy Davies, Vince Vaughn",Drama,6.1
+361,Fall,1997,90,Eric Schaeffer,"Eric Schaeffer, Amanda De Cadenet, Rudolf Martin","Drama, Romance",5.7
+362,Welcome to Woop Woop,1997,106,Stephan Elliott,"Johnathon Schaech, Rod Taylor, Susie Porter","Adventure, Comedy, Fantasy",5.7
+363,Junk Mail,1997,83,Pål Sletaune,"Robert Skjærstad, Andrine Sæther, Per Egil Aske","Comedy, Thriller",6.7
+364,Hugo Pool,1997,92,Robert Downey Sr.,"Alyssa Milano, Mark Boone Junior, Malcolm McDowell","Comedy, Romance",5.0
+365,"Kiss Me, Guido",1997,86,Tony Vitale,"Nick Scotti, Anthony Barrile, Anthony DeSando",Comedy,6.0
+366,Hikers,1997,95,Philippe Harel,"Benoît Poelvoorde, Karin Viard, Géraldine Pailhas","Comedy, Romance",5.9
+367,The Island on Bird Street,1997,107,Søren Kragh-Jacobsen,"Patrick Bergin, Jordan Kiziuk, Jack Warden","Biography, Drama, War",7.1
+368,Chicago Cab,1997,96,"Mary Cybulski, John Tintori","Paul Dillon, Tim Gamble, Olivia Trevino","Comedy, Drama",6.4
+369,Secrets of the Heart,1997,105,Montxo Armendáriz,"Carmelo Gómez, Charo López, Silvia Munt",Drama,7.0
+370,Bad Day on the Block,1997,88,Craig R. Baxley,"Charlie Sheen, Mare Winningham, David Andrews","Drama, Thriller",5.3
+371,Little Ghost,1997,90,Linda Shayne,"Kristina Wayborn, Jim Fitzpatrick, Sally Kirkland","Family, Fantasy",6.0
+372,Dangerous Ground,1997,95,Darrell Roodt,"Ice Cube, Elizabeth Hurley, Thokozani Nkosi","Action, Crime, Drama",4.5
+373,Postman Blues,1997,110,Sabu,"Shin'ichi Tsutsumi, Keisuke Horibe, Ren Ôsugi","Action, Comedy, Crime",7.4
+374,Life is All You Get,1997,115,Wolfgang Becker,"Jürgen Vogel, Christiane Paul, Ricky Tomlinson","Comedy, Drama",7.2
+375,Praxis Dr. Hasenbein,1997,94,Helge Schneider,"Helge Schneider, Peter Berling, Andreas Kunze",Comedy,6.8
+376,Year of the Horse,1997,106,Jim Jarmusch,"Neil Young, Jim Jarmusch, Ralph Molina","Documentary, Music",6.6
+377,Annamayya,1997,150,K. Raghavendra Rao,"Nagarjuna Akkineni, Suman, Bhanupriya","Biography, Drama, History",8.0
+378,Dream with the Fishes,1997,97,Finn Taylor,"David Arquette, Brad Hunt, Cathy Moriarty","Comedy, Drama",6.9
+379,Ziddi,1997,170,Guddu Dhanoa,"Sunny Deol, Raveena Tandon, Anupam Kher","Action, Drama",5.9
+380,The Truce,1997,125,Francesco Rosi,"John Turturro, Rade Serbedzija, Massimo Ghini","Drama, War",6.6
+381,Joyride,1997,93,Quinton Peeples,"Tobey Maguire, Amy Hathaway, Wilson Cruz","Comedy, Crime, Drama",5.0
+382,Keys to Tulsa,1997,113,Leslie Greif,"Eric Stoltz, James Spader, Deborah Kara Unger","Crime, Drama, Thriller",5.2
+383,The Education of Little Tree,1997,112,Richard Friedenberg,"James Cromwell, Joseph Ashton, Tantoo Cardinal",Drama,7.1
+384,The Serpent's Kiss,1997,104,Philippe Rousselot,"Ewan McGregor, Greta Scacchi, Pete Postlethwaite","Comedy, Drama, Romance",5.6
+385,Premutos: The Fallen Angel,1997,106,Olaf Ittenbach,"André Stryi, Christopher Stacey, Ella Wellmann","Comedy, Horror",5.5
+386,Bones,1997,94,Pedro Costa,"Vanda Duarte, Nuno Vaz, Mariya Lipkina",Drama,6.8
+387,The Dream Factory,1997,90,Xiaogang Feng,"You Ge, Xiaogang Feng, Pei Liu",Comedy,7.3
+388,Ashes of Paradise,1997,116,Marcelo Piñeyro,"Héctor Alterio, Cecilia Roth, Leonardo Sbaraglia","Crime, Drama, Mystery",7.4
+389,Strays,1997,105,Vin Diesel,"Vin Diesel, Joey Dedio, T.K. Kirkland","Crime, Drama",5.4
+390,Buttoners,1997,102,Petr Zelenka,"Pavel Zajicek, Jan Haubert, Seisuke Tsukahara",Comedy,7.3
+391,Running Time,1997,70,Josh Becker,"Bruce Campbell, Jeremy Roberts, Anita Barone","Crime, Thriller",6.8
+392,Lawyer Lawyer,1997,85,Joe Ma,"Stephen Chow, Eric Kot, Chingmy Yau","Comedy, Drama, History",6.2
+393,Defying Gravity,1997,92,John Keitel,"Daniel Chilson, Niklaus Lange, Don Handfield","Drama, Romance, Sport",6.5
+394,Blast,1997,105,Albert Pyun,"Linden Ashby, Andrew Divoff, Kimberly Warren",Action,4.3
+395,It's in the Water,1997,100,Kelli Herd,"Keri Jo Chapman, Teresa Garrett, Derrick Sanders","Comedy, Romance",6.1
+396,Marius and Jeannette,1997,105,Robert Guédiguian,"Ariane Ascaride, Gérard Meylan, Pascale Roberts","Comedy, Drama, Romance",6.9
+397,Pippi Longstocking,1997,75,"Michael Schaack, Clive A. Smith","Catherine O'Hara, Dave Thomas, Melissa Altro","Animation, Adventure, Comedy",5.3
+398,Commandments,1997,88,Daniel Taplitz,"Aidan Quinn, Courteney Cox, Anthony LaPaglia","Comedy, Drama, Romance",5.5
+399,Sick,1997,90,Kirby Dick,"Bob Flanagan, Sheree Rose, Kathe Burkhart",Documentary,7.5
+400,I Think I Do,1997,90,Brian Sloan,"Alexis Arquette, Christian Maelen, Luna Lauren Velez","Comedy, Romance",6.6
+401,"Niagara, Niagara",1997,93,Bob Gosse,"Robin Tunney, Henry Thomas, Michael Parks","Drama, Romance",6.8
+402,Six Ways to Sunday,1997,97,Adam Bernstein,"Norman Reedus, Debbie Harry, Adrien Brody","Comedy, Crime, Drama",6.1
+403,The Eighteenth Angel,1997,95,William Bindley,"Christopher McDonald, Rachael Leigh Cook, Stanley Tucci","Horror, Mystery, Thriller",4.8
+404,My Son the Fanatic,1997,87,Udayan Prasad,"Om Puri, Rachel Griffiths, Akbar Kurtha","Comedy, Drama, Romance",6.8
+405,Julian Po,1997,84,Alan Wade,"Christian Slater, Robin Tunney, Michael Parks","Comedy, Drama",5.9
+406,Under the Skin,1997,82,Carine Adler,"Samantha Morton, Claire Rushbrook, Rita Tushingham",Drama,6.5
+407,Nattbuss 807,1997,106,David Flamholc,"Jonte Halldén, Christian Moscoso, Jenny Lindroth","Crime, Drama",4.8
+408,A Witch's Way of Love,1997,102,René Manzor,"Vanessa Paradis, Gil Bellows, Jean Reno","Adventure, Comedy, Fantasy",5.1
+409,Svensson Svensson - Filmen,1997,81,Björn Gunnarsson,"Suzanne Reuter, Allan Svensson, Chelsie Bell Dickson",Comedy,5.4
+410,American Perfekt,1997,100,Paul Chart,"Amanda Plummer, Robert Forster, David Thewlis","Crime, Drama, Thriller",5.9
+411,A Merry War,1997,101,Robert Bierman,"Richard E. Grant, Helena Bonham Carter, Julian Wadham","Comedy, Drama, Romance",6.3
+412,Tic Tac,1997,96,Daniel Alfredson,"Oliver Loftéen, Tuva Novotny, Jacob Nordenson","Drama, Thriller",6.7
+413,Suzaku,1997,95,Naomi Kawase,"Jun Kunimura, Machiko Ono, Sachiko Izumi",Drama,7.3
+414,Marquise,1997,120,Véra Belmont,"Sophie Marceau, Bernard Giraudeau, Lambert Wilson","Comedy, Drama, History",5.9
+415,A Smile Like Yours,1997,98,Keith Samples,"Greg Kinnear, Lauren Holly, Joan Cusack","Comedy, Romance",4.8
+416,Once More,1997,160,S.A. Chandrashekhar,"Shivaji Ganesan, Joseph Vijay, Simran","Comedy, Drama, Romance",6.8
+417,Sue,1997,91,Amos Kollek,"Anna Thomson, Matthew Powers, Tahnee Welch",Drama,7.1
+418,Lucie Aubrac,1997,115,Claude Berri,"Carole Bouquet, Daniel Auteuil, Patrice Chéreau","Biography, Drama, War",6.6
+419,Unmarried Couples: A Comedy That Will Break You Up,1997,90,Peter Dalle,"Lena Endre, Suzanne Reuter, Peter Dalle","Comedy, Drama, Romance",5.8
+420,Aflatoon,1997,153,Guddu Dhanoa,"Akshay Kumar, Urmila Matondkar, Anupam Kher","Action, Comedy, Crime",4.6
+421,The Chambermaid on the Titanic,1997,101,Bigas Luna,"Olivier Martinez, Romane Bohringer, Aitana Sánchez-Gijón","Drama, Romance",6.6
+422,Kiss or Kill,1997,96,Bill Bennett,"Matt Day, Frances O'Connor, Tiffany Peters","Crime, Drama, Thriller",6.3
+423,Redline,1997,97,Tibor Takács,"Rutger Hauer, Mark Dacascos, Yvonne Sciò","Action, Sci-Fi",4.7
+424,Hideous!,1997,82,Charles Band,"Michael Citriniti, Rhonda Griffin, Mel Johnson Jr.","Comedy, Horror",4.8
+425,Das erste Semester,1997,95,Uwe Boll,"Christian Kahrmann, Yutah Lorenz, Radost Bokel",Comedy,2.0
+426,Wishful Thinking,1997,93,Adam Park,"Drew Barrymore, Jennifer Beals, Desiree Casado","Comedy, Romance",4.9
+427,Deadly Instincts,1997,90,Paul Matthews,"Todd Jensen, Samantha Womack, Oliver Tobias","Horror, Sci-Fi",3.2
+428,"This World, Then the Fireworks",1997,100,Michael Oblowitz,"Billy Zane, Gina Gershon, Christian Durango","Crime, Drama",5.2
+429,Minsaara Kanavu,1997,153,Rajiv Menon,"Arvind Swamy, Prabhu Deva, Kajol","Comedy, Drama, Romance",6.7
+430,Chandralekha,1997,172,Priyadarshan,"Mohanlal, Sukanya, Pooja Batra","Comedy, Romance",7.6
+431,Fireworks,1997,100,Leonardo Pieraccioni,"Leonardo Pieraccioni, Vanessa Lorenzo, Massimo Ceccherini","Comedy, Romance",5.9
+432,Preaching to the Perverted,1997,100,Stuart Urban,"Guinevere Turner, Christien Anholt, Tom Bell","Comedy, Drama",5.8
+433,Full Alert,1997,99,Ringo Lam,"Ching-Wan Lau, Francis Ng, Amanda Lee","Action, Crime, Thriller",6.8
+434,Ghulam-E-Musthafa,1997,162,Partho Ghosh,"Nana Patekar, Raveena Tandon, Paresh Rawal","Action, Crime, Drama",6.7
+435,Eye of God,1997,84,Tim Blake Nelson,"Mary Kay Place, Nick Stahl, Chris Freihofer","Crime, Drama",7.3
+436,Mandragora,1997,126,Wiktor Grodecki,"Miroslav Caslavka, David Svec, Pavel Skrípal",Drama,6.6
+437,Lilla Jönssonligan på styva linan,1997,104,Christjan Wegner,"Kalle Eriksson, Jonathan Flumee, Fredrik Glimskär",Family,4.4
+438,Sprung,1997,105,Rusty Cundieff,"Tisha Campbell, Rusty Cundieff, Paula Jai Parker","Comedy, Romance",5.1
+439,Hurricane Streets,1997,86,Morgan J. Freeman,"Brendan Sexton III, Shawn Elliott, Antoine McLean","Crime, Drama, Romance",6.3
+440,The Long Way Home,1997,120,Mark Jonathan Harris,"Morgan Freeman, Israel Lau, Livia Shacter","Documentary, History, War",7.6
+441,Parasite Eve,1997,120,Masayuki Ochiai,"Hiroshi Mikami, Riona Hazuki, Tomoko Nakajima","Drama, Horror, Romance",5.7
+442,Rebirth of Mothra II,1997,97,Kunio Miyoshi,"Megumi Kobayashi, Sayaka Yamaguchi, Aki Hano","Action, Fantasy, Sci-Fi",5.1
+443,Below Utopia,1997,88,Kurt Voss,"Alyssa Milano, Justin Theroux, Ice-T","Drama, Thriller",4.9
+444,Yeshwant,1997,145,Anil Mattoo,"Nana Patekar, Madhoo, Atul Agnihotri","Action, Crime, Drama",7.2
+445,The Shadow Men,1997,95,Timothy Bond,"Eric Roberts, Sherilyn Fenn, Dean Stockwell","Action, Sci-Fi, Thriller",4.5
+446,Daud: Fun on the Run,1997,180,Ram Gopal Varma,"Sanjay Dutt, Urmila Matondkar, Paresh Rawal","Action, Adventure, Comedy",5.9
+447,"All's Well, Ends Well 1997",1997,90,Alfred Cheung,"Stephen Chow, Raymond Pak-Ming Wong, Roy Chiao","Comedy, Family",6.2
+448,Outsider,1997,100,Andrej Kosak,"Davor Janjic, Zijah Sokolovic, Nina Ivanic",Drama,8.0
+449,Auzaar,1997,127,Sohail Khan,"Salman Khan, Sanjay Kapoor, Shilpa Shetty Kundra","Action, Drama, Musical",4.6
+450,The Second Jungle Book: Mowgli & Baloo,1997,88,Dee McLachlan,"Jamie Williams, Billy Campbell, Roddy McDowall","Adventure, Comedy, Drama",4.5
+451,The Soong Sisters,1997,145,Mabel Cheung,"Maggie Cheung, Michelle Yeoh, Vivian Wu","Drama, History, Romance",6.9
+452,Blackrock,1997,103,Steven Vidler,"Laurence Breuls, Linda Cropper, Simon Lyndon","Drama, Thriller",6.0
+453,Day and Night,1997,108,Bernard-Henri Lévy,"Alain Delon, Lauren Bacall, Arielle Dombasle",Drama,1.9
+454,Executive Target,1997,100,Joseph Merhi,"Michael Madsen, Roy Scheider, Keith David","Action, Adventure, Crime",4.6
+455,Dry Cleaning,1997,93,Anne Fontaine,"Miou-Miou, Charles Berling, Stanislas Merhar",Drama,6.8
+456,Le cousin,1997,112,Alain Corneau,"Patrick Timsit, Alain Chabat, Samuel Le Bihan","Drama, Thriller",6.6
+457,Western,1997,124,Manuel Poirier,"Sergi López, Sacha Bourdo, Élisabeth Vitali","Comedy, Romance",6.7
+458,Stiff Upper Lips,1997,94,Gary Sinyor,"David Artus, Kevin Furlong, Nicholas Selby",Comedy,6.2
+459,Little City,1997,90,Roberto Benabib,"Jon Bon Jovi, Penelope Ann Miller, Joe Bellan","Comedy, Romance",5.8
+460,Some Birds Can't Fly,1997,90,Petar Lalovic,"Velimir 'Bata' Zivojinovic, Ivana Surdic, Neda Arneric",Drama,8.0
+461,Stag,1997,91,Gavin Wilding,"John Stockwell, Mario Van Peebles, Jerry Stiller","Action, Drama, Thriller",5.6
+462,Behind Enemy Lines,1997,89,Mark Griffiths,"Thomas Ian Griffith, Chris Mulkey, Mark Carlton","Action, Thriller",4.2
+463,Cold Around the Heart,1997,96,John Ridley,"David Caruso, Kelly Lynch, Stacey Dash","Crime, Drama, Thriller",5.1
+464,Black Circle Boys,1997,101,Matthew Carnahan,"Scott Bairstow, Eric Mabius, Tara Subkoff","Drama, Horror, Thriller",4.8
+465,Kicked in the Head,1997,87,Matthew Harrison,"Kevin Corrigan, Linda Fiorentino, Michael Rapaport","Comedy, Crime, Drama",4.5
+466,Just Write,1997,102,Andrew Gallerani,"Sherilyn Fenn, Jeremy Piven, JoBeth Williams","Comedy, Romance",6.1
+467,Aberration,1997,93,Tim Boxell,"Pamela Gidley, Simon Bossell, Valeriy Nikolaev","Horror, Sci-Fi",4.6
+468,Labyrinth of Dreams,1997,90,Gakuryû Ishii,"Rena Komine, Tadanobu Asano, Kotomi Kyôno","Mystery, Romance, Thriller",7.3
+469,Sztos,1997,86,Olaf Lubaszenko,"Jan Nowicki, Cezary Pazura, Monika Ambroziak","Action, Comedy",6.5
+470,Bandyta,1997,102,Maciej Dejczer,"Til Schweiger, Polly Walker, Pete Postlethwaite",Drama,6.4
+471,Star Maps,1997,86,Miguel Arteta,"Douglas Spain, Efrain Figueroa, Kandeyce Jorden","Comedy, Drama",5.6
+472,A Better Place,1997,87,Vincent Pereira,"Eion Bailey, Robert DiPatri, Joseph Cassese",Drama,6.8
+473,The Alarmist,1997,92,Evan Dunsky,"David Arquette, Stanley Tucci, Kate Capshaw",Comedy,5.2
+474,Too Many Ways to Be No. 1,1997,90,Ka-Fai Wai,"Ching-Wan Lau, Carman Lee, Francis Ng","Action, Comedy, Crime",7.4
+475,Backroads,1997,105,Emilio Martínez Lázaro,"Antonio Resines, Fernando Ramallo, Maribel Verdú","Drama, Romance",6.1
+476,...Aur Pyaar Ho Gaya,1997,147,Rahul Rawail,"Bobby Deol, Aishwarya Rai Bachchan, Shammi Kapoor","Comedy, Drama, Musical",4.6
+477,Top of the World,1997,99,Sidney J. Furie,"Peter Weller, Dennis Hopper, Tia Carrere","Action, Thriller",4.6
+478,Twilight of the Ice Nymphs,1997,91,Guy Maddin,"Pascale Bussières, Shelley Duvall, Frank Gorshin","Fantasy, Mystery, Romance",5.8
+479,The Pharmacist,1997,108,Rainer Kaufmann,"Katja Riemann, Jürgen Vogel, Richy Müller","Comedy, Crime, Drama",5.9
+480,Strategic Command,1997,90,Rick Jacobson,"Michael Dudikoff, Paul Winfield, Richard Norton","Action, Drama, Thriller",4.2
+481,Bloodmoon,1997,102,Siu-Hung Leung,"Gary Daniels, Chuck Jeffreys, Frank Gorshin","Action, Thriller",5.8
+482,Young and Dangerous 1997,1997,106,Wai Keung Lau,"Ekin Cheng, Jordan Chan, Michael Tse",Crime,6.4
+483,Two Orphan Vampires,1997,107,Jean Rollin,"Alexandra Pic, Isabelle Teboul, Natalie Perrey","Drama, Fantasy, Horror",5.1
+484,9 millimeter,1997,100,Peter Lindmark,"Paolo Roberto, Rebecca Facey, Steve Aalam","Crime, Drama",3.1
+485,Habitat,1997,120,Rene Daalder,"Balthazar Getty, Tchéky Karyo, Alice Krige",Sci-Fi,4.7
+486,Highball,1997,110,Noah Baumbach,"Justine Bateman, Noah Baumbach, Peter Bogdanovich","Comedy, Drama",5.5
+487,The Maker,1997,98,Tim Hunter,"Matthew Modine, Mary-Louise Parker, Jonathan Rhys Meyers","Action, Crime, Drama",5.5
+488,Level Five,1997,106,Chris Marker,"Catherine Belkhodja, Kenji Tokitsu, Nagisa Ôshima","Documentary, Romance, War",7.0
+489,We All Fall Down,1997,98,Davide Ferrario,"Valerio Mastandrea, Caterina Caselli, Benedetta Mazzini",Comedy,7.2
+490,Déjà Vu,1997,117,Henry Jaglom,"Victoria Foyt, Stephen Dillane, Vanessa Redgrave","Drama, Romance",6.7
+491,Genealogies of a Crime,1997,103,Raúl Ruiz,"Catherine Deneuve, Michel Piccoli, Melvil Poupaud","Crime, Drama, Thriller",6.4
+492,Valkanizater,1997,97,Sotiris Goritsas,"Gerasimos Skiadaresis, Stelios Mainas, Katharina Zapatka",Comedy,6.8
+493,Wild Animals,1997,105,Kim Ki-duk,"Cho Jae-hyun, Jang Dong-jik, Ryun Jang","Comedy, Crime, Drama",6.1
+494,Passion in the Desert,1997,91,Lavinia Currier,"Ben Daniels, Michel Piccoli, Paul M. Meston","Adventure, Drama",6.3
+495,Insaaf: The Final Justice,1997,155,Dayal Nihalani,"Akshay Kumar, Shilpa Shetty Kundra, Paresh Rawal","Action, Comedy, Drama",3.8
+496,Rhyme & Reason,1997,90,Peter Spirer,"B-Real, Kurtis Blow, Da Brat","Documentary, Music",7.4
+497,Living in Peril,1997,93,Jack Ersgard,"Rob Lowe, Jim Belushi, Dean Stockwell","Comedy, Drama, Thriller",5.3
+498,The Necro Files,1997,72,Matt Jaissle,"Isaac Cooper, Steve Sheppard, Gary Browning","Action, Comedy, Horror",4.0
+499,Sairaan kaunis maailma,1997,96,Jarmo Lampela,"Joonas Bragge, Arttu Kapulainen, Pihla Penttinen",Drama,5.9
+500,Island of Greed,1997,126,Michael Mak,"Andy Lau, Tony Ka Fai Leung, Paulyn Sun","Action, Crime",6.5
+501,Quatre garçons pleins d'avenir,1997,90,Jean-Paul Lilienfeld,"Olivier Brocheriou, Stéphan Guérin-Tillié, Olivier Sitruk",Comedy,6.1
+502,RPM,1997,91,Ian Sharp,"David Arquette, Emmanuelle Seigner, Famke Janssen",Comedy,3.6
+503,Reine & Mimmi i fjällen!,1997,98,Magnus Skogsberg,"Bertram Heribertson, Ing-Marie Carlsson, Sanna Ekman",Comedy,2.7
+504,Crayon Shin-chan: Pursuit of the Balls of Darkness,1997,100,Keiichi Hara,"Akiko Yajima, Miki Narahashi, Keiji Fujiwara","Animation, Action, Adventure",6.9
+505,The Creeps,1997,75,Charles Band,"Rhonda Griffin, Justin Lauer, Bill Moynihan","Comedy, Fantasy, Horror",4.3
+506,Lifeline,1997,108,Johnnie To,"Ching-Wan Lau, Alex Fong, Carman Lee",Drama,6.6
+507,A Chinese Ghost Story: The Tsui Hark Animation,1997,84,Andrew Chan,"Don Brown, Jordan Chan, Sylvia Chang","Animation, Adventure, Fantasy",6.5
+508,Bakhit wa Adeela 2,1997,120,Nader Galal,"Adel Emam, Sherine, Sa'eed Saleh",Comedy,5.2
+509,Ma 6-T va crack-er,1997,105,Jean-François Richet,"Arco Descat C., Jean-Marie Robert, Malik Zeggou","Crime, Drama",5.7
+510,Voyage to the Beginning of the World,1997,91,Manoel de Oliveira,"Marcello Mastroianni, Jean-Yves Gautier, Leonor Silveira","Biography, Drama",7.0
+511,Tri istorii,1997,105,Kira Muratova,"Sergey Makovetskiy, Leonid Kushnir, Zhan Daniel","Comedy, Crime",7.1
+512,The Only Thrill,1997,103,Peter Masterson,"Diane Keaton, Sam Shepard, Diane Lane","Drama, Romance",6.0
+513,Hero,1997,97,Corey Yuen,"Takeshi Kaneshiro, Biao Yuen, Jessica Hester Hsuan","Action, Drama",6.3
+514,Dark Planet,1997,99,Albert Magnoli,"Paul Mercurio, Harley Jane Kozak, Michael York","Mystery, Sci-Fi",3.4
+515,Paws,1997,83,Karl Zwicky,"Billy Connolly, Nathan Cavaleri, Myriam Emilie Francois","Adventure, Family, Fantasy",4.7
+516,Szczesliwego Nowego Jorku,1997,95,Janusz Zaorski,"Boguslaw Linda, Zbigniew Zamachowski, Janusz Gajos","Comedy, Drama",6.1
+517,T.N.T.,1997,90,Robert Radler,"Olivier Gruner, Randy Travis, Rebecca Staab",Action,3.6
+518,The Battle of Canudos,1997,170,Sergio Rezende,"José Wilker, Cláudia Abreu, Paulo Betti","Drama, History, War",6.9
+519,Amy,1997,104,Nadia Tass,"Alana De Roma, Rachel Griffiths, Ben Mendelsohn","Drama, Music",6.6
+520,Pitch,1997,81,"Kenny Hotz, Spencer Rice","Kenny Hotz, Spencer Rice, Samuel Z. Arkoff",Documentary,6.5
+521,Les démons de Jésus,1997,117,Bernie Bonvoisin,"Thierry Frémont, Nadia Farès, Patrick Bouchitey",Comedy,6.8
+522,Bounce Ko Gals,1997,110,Masato Harada,"Hitomi Satô, Yasue Satô, Yukiko Okamoto",Drama,7.1
+523,Arlette,1997,100,Claude Zidi,"Josiane Balasko, Christopher Lambert, Ennio Fantastichini","Comedy, Crime, Romance",5.2
+524,Men Seeking Women,1997,92,Jim Milio,"Grant Shaud, Maureen Teefy, Anthony Palermo",Comedy,3.9
+525,Lost Paradise,1997,119,Yoshimitsu Morita,"Kôji Yakusho, Hitomi Kuroki, Akira Terao","Drama, Romance",6.6
+526,The Journey: Absolution,1997,94,David DeCoteau,"Mario Lopez, Nick Spano, Damon Sharpe",Sci-Fi,2.5
+527,The Shooter,1997,91,Fred Olen Ray,"Michael Dudikoff, Randy Travis, Valerie Wildman","Drama, Western",5.1
+528,Cremaster 5,1997,55,Matthew Barney,"Ursula Andress, Matthew Barney, Joanne Rha","Musical, Drama",6.3
+529,Truth or Dare,1997,77,Christina Olofson,"Tove Edfeldt, Anna Gabrielsson, Alexandra Dahlström","Family, Drama",5.2
+530,Floating,1997,90,William Roth,"Norman Reedus, Chad Lowe, Will Lyman","Drama, Romance",6.4
+531,The Banned Woman,1997,100,Philippe Harel,"Isabelle Carré, Philippe Harel, Nathalie Conio","Drama, Romance",7.2
+532,The Dog of Flanders,1997,93,Yoshio Kuroda,"Makoto Tsumura, Sakura Tange, Shinobu Adachi","Animation, Drama, Family",7.7
+533,Adavilo Anna,1997,150,Gopal B.,"Mohan Babu, Tanikella Bharani, Brahmanandam","Action, Drama",4.4
+534,Legend of the Wolf,1997,94,Donnie Yen,"Donnie Yen, Carman Lee, Dayo Wong","Action, Drama",5.8
+535,Loved,1997,109,Erin Dignam,"Robin Wright, William Hurt, Sean Penn","Drama, Thriller",4.7
+536,Wounded,1997,96,Richard Martin,"Mädchen Amick, Graham Greene, Adrian Pasdar","Action, Crime, Thriller",5.5
+537,Bájecná léta pod psa,1997,109,Petr Nikolaev,"Ondrej Vetchý, Libuse Safránková, Vladimír Javorský",Comedy,7.1
+538,Die Musterknaben,1997,91,Ralf Huettner,"Jürgen Tarrach, Oliver Korittke, Ellen Ten Damme","Comedy, Crime, Drama",7.1
+539,U2: PopMart Live from Mexico City,1997,127,David Mallet,"Bono, Adam Clayton, The Edge","Documentary, Music",8.3
+540,The Rage,1997,93,Sidney J. Furie,"Lorenzo Lamas, Kristen Cloke, Gary Busey","Action, Thriller",4.6
+541,The Woodlanders,1997,98,Phil Agland,"Emily Woof, Rufus Sewell, Cal MacAninch","Drama, Romance",6.2
+542,No. 3,1997,108,Neung-han Song,"Han Suk-kyu, Lee Mi-yeon, Choi Min-sik","Action, Comedy, Crime",6.4
+543,High Voltage,1997,95,Isaac Florentine,"Antonio Sabato Jr., Shannon Lee, William Zabka","Action, Crime, Thriller",4.5
+544,Hameshaa,1997,141,Sanjay Gupta,"Saif Ali Khan, Kajol, Aditya Pancholi","Action, Drama, Romance",5.1
+545,Aniyathi Pravu,1997,150,Fazil,"Kunchacko Boban, Shalini, Harisree Ashokan","Drama, Romance",7.3
+546,Lewis & Clark & George,1997,82,Rod McCall,"Rose McGowan, Dan Gunther, Brian Taylor","Comedy, Crime, Thriller",5.2
+547,The Wedding Party,1997,91,Cherie Nowlan,"Richard Roxburgh, Cate Blanchett, Frances O'Connor","Comedy, Drama, Romance",5.8
+548,Tenchi the Movie 2: The Daughter of Darkness,1997,95,Satoshi Kimura,"Masami Kikuchi, Ai Orikasa, Yumi Takada","Animation, Comedy, Fantasy",6.8
+549,Double Tap,1997,91,Greg Yaitanes,"Stephen Rea, Heather Locklear, Peter Greene","Action, Crime, Drama",5.1
+550,A Scorpion's Journey,1997,118,Ömer Kavur,"Mehmet Aslantug, Sahika Tekand, Tuncel Kurtiz","Drama, Mystery, Romance",7.1
+551,Beat,1997,115,Sung Soo Kim,"Jung Woo-sung, Ko So-young, Lim Chang-jung","Action, Crime, Drama",6.7
+552,Lahoo Ke Do Rang,1997,172,Mehul Kumar,"Naseeruddin Shah, Akshay Kumar, Karisma Kapoor","Action, Drama",4.1
+553,Kichiku dai enkai,1997,100,Kazuyoshi Kumakiri,"Shigeru Bokuda, Sumiko Mikami, Shunsuke Sawada","Drama, Horror",5.4
+554,Sunday,1997,91,Jonathan Nossiter,"David Suchet, Lisa Harrow, Jared Harris","Drama, Romance",6.7
+555,Ørnens øje,1997,91,Peter Flinth,"Nijas Ørnbak-Fjeldmose, Lasse Baunkilde, Lars Lohmann","Action, Drama, Family",6.2
+556,The Nurse,1997,94,Robert Malenfant,"Lisa Zane, Janet Gunn, John Stockwell","Drama, Horror, Thriller",4.7
+557,Broadway Damage,1997,111,Victor Mignatti,"Mara Hobel, Michael Lucas, Hugh Panaro","Comedy, Drama, Musical",6.6
+558,Hit & Run,1997,95,David Blyth,"David Keith, Art MacDonald, Elaine Martyn",Thriller,4.1
+559,The Informant,1997,105,Jim McBride,"Anthony Brophy, Cary Elwes, Timothy Dalton","Drama, Thriller",6.3
+560,Sympathy Seeker,1997,82,Vladimir Mashkov,"Elena Shevchenko, Nikolay Fomenko, Valentin Gaft","Comedy, Romance",6.9
+561,After Sex,1997,97,Brigitte Roüan,"Brigitte Roüan, Patrick Chesnais, Boris Terral","Drama, Romance",5.7
+562,Sweethearts,1997,83,Aleks Horvat,"Janeane Garofalo, Mitch Rouse, Margaret Cho","Comedy, Drama",6.1
+563,Balkan Rules,1997,116,Darko Bajic,"Branislav Lecic, Lazar Ristovski, Ana Sofrenovic",Drama,6.9
+564,No Budget Story,1997,87,Renos Haralambidis,"Renos Haralambidis, Yannis Bostantzoglou, Dimitra Papadima",Comedy,6.7
+565,Tarazu,1997,144,Vimal Kumar,"Akshay Kumar, Sonali Bendre, Mohnish Behl","Action, Crime, Drama",4.1
+566,Lapitch the Little Shoemaker,1997,75,Milan Blazekovic,"Ivan Gudeljevic, Maja Rozman, Tarik Filipovic","Animation, Adventure, Drama",7.2
+567,Inferno,1997,87,Fred Olen Ray,"Don Wilson, Evan Lurie, Deepti Bhatnagar",Action,4.1
+568,Murder in Mind,1997,88,Andrew Morahan,"Nigel Hawthorne, Mary-Louise Parker, Jimmy Smits","Drama, Thriller, Crime",5.2
+569,Tren de sombras,1997,88,José Luis Guerín,"Juliette Gautier, Ivon Orvain, Anne Céline Auche",Drama,7.3
+570,Dancehall Queen,1997,98,"Rick Elgood, Don Letts","Audrey Reid, Carl Davis, Paul Campbell",Drama,6.7
+571,The House,1997,120,Sharunas Bartas,"Francisco Nascimento, Valeria Bruni Tedeschi, Alex Descas",Drama,7.0
+572,Wild Flowers,1997,85,Niels Gråbøl,"Sixten Tobias Kai Nielsen, Ditte Gråbøl, Niels Olsen","Comedy, Drama",5.6
+573,Babes in Toyland,1997,74,"Toby Bluth, Charles Grosvenor, Paul Sabella","Charles Nelson Reilly, Lacey Chabert, Joseph Ashton","Animation, Comedy, Family",4.8
+574,PNYC: Portishead - Roseland New York,1997,93,Dick Carruthers,"Portishead, Geoff Barrow, Beth Gibbons","Documentary, Music",8.9
+575,Night Vision,1997,97,Gil Bettman,"Fred Williamson, Cynthia Rothrock, Robert Forster","Crime, Drama, Thriller",4.1
+576,The Exotic House of Wax,1997,85,Cybil Richards,"Blake Pickett, Jacqueline Lovell, Everett Rodd","Comedy, Fantasy, Mystery",3.7
+577,Under ytan,1997,103,Daniel Fridell,"Johanna Sällström, Tove Appelqvist, Mikael Persbrandt","Crime, Drama",6.1
+578,Uomo d'acqua dolce,1997,90,Antonio Albanese,"Antonio Albanese, Valeria Milillo, Antonio Petrocelli",Comedy,6.4
+579,Daava,1997,145,Sunil Agnihotri,"Naseeruddin Shah, Akshay Kumar, Raveena Tandon","Action, Drama, Romance",4.1
+580,Joey,1997,96,Ian Barry,"Jamie Croft, Rebecca Gibney, Alex McKenna","Family, Adventure, Comedy",4.8
+581,Road Ends,1997,96,Rick King,"Dennis Hopper, Peter Coyote, Chris Sarandon","Action, Crime, Drama",5.1
+582,Barbara,1997,143,Nils Malmros,"Anneke von der Lippe, Helene Egelund, Trond Høvik",Drama,6.1
+583,A Gun for Jennifer,1997,91,Todd Morris,"Deborah Twiss, Benja K. Thomas, Rene Alberta","Crime, Drama, Thriller",5.8
+584,Laserhawk,1997,99,Jean Pellerin,"Jason James Richter, Melissa Galianos, Gordon Currie","Action, Adventure, Sci-Fi",4.0
+585,Raja Ki Ayegi Baraat,1997,158,Ashok Gaekwad,"Rani Mukerji, Shadaab Khan, Gulshan Grover","Drama, Romance",3.6
+586,Loha,1997,160,Kanti Shah,"Dharmendra, Mithun Chakraborty, Mohan Joshi",Action,5.2
+587,Twilight of the Dark Master,1997,50,Akiyuki Shinbô,"Andrew Philpot, Toshihiko Seki, Masuo Amada","Animation, Fantasy, Horror",5.5
+588,Killers,1997,83,David Michael Latt,"Kim Little, Paul Logan, Scott Carson","Action, Horror, Thriller",2.3
+589,The Odd One Dies,1997,89,"Tat-Chi Yau, Johnnie To","Takeshi Kaneshiro, Carman Lee, Chi-Shing Chiu","Crime, Drama",6.6
+590,Marie Baie des Anges,1997,90,Manuel Pradal,"Vahina Giocante, Frédéric Malgras, Nicolas Welbers","Drama, Romance",5.9
+591,A spasso nel tempo - L'avventura continua,1997,95,Carlo Vanzina,"Massimo Boldi, Christian De Sica, Marco Messeri","Adventure, Comedy, Sci-Fi",4.1
+592,Gypsy Magic,1997,126,Stole Popov,"Predrag 'Miki' Manojlovic, Antony Zaki, Katina Ivanova","Comedy, Drama",8.0
+593,Driftwood,1997,100,Ronan O'Leary,"James Spader, Anne Brochet, Barry McGovern","Drama, Thriller",5.4
+594,Nihavend Mucize,1997,94,Atif Yilmaz,"Türkan Soray, Haluk Bilginer, Lale Mansur","Comedy, Fantasy",4.6
+595,The Opium War,1997,153,Jin Xie,"Guoan Bao, Liankun Lin, Sihung Lung","Action, Drama, History",6.5
+596,Little Book of Love,1997,91,Sandra Werneck,"Andrea Beltrão, Daniel Dantas, Tony Ramos","Comedy, Romance",6.8
+597,Intimates,1997,117,Chi Leung 'Jacob' Cheung,"Carina Lau, Charlie Yeung, Ah-Lei Gua","Drama, Romance",7.4
+598,Stargames,1997,90,Greydon Clark,"Trevor Clark, Travis Clark, Darby Hinton",Sci-Fi,1.6
+599,The Westing Game,1997,95,Terence H. Winkless,"Ray Walston, Ashley Peldon, Diane Ladd","Family, Horror, Mystery",5.3
+600,Bednaya Sasha,1997,95,Tigran Keosayan,"Aleksandr Zbruev, Vera Glagoleva, Yuliya Chernova","Adventure, Comedy, Family",6.7
+601,Lelam,1997,180,"Joshiy, Krishna Kumar K.K","Suresh Gopi, M.G. Soman, Siddique","Action, Thriller",7.4
+602,Lotrando a Zubejda,1997,106,Karel Smyczek,"Jirí Strach, Barbora Seidlová, Pavel Zednícek","Comedy, Family, Fantasy",7.2
+603,Gokulamlo Seetha,1997,140,Muthyala Subbaiah,"Pawan Kalyan, Raasi, Kota Srinivasa Rao","Drama, Romance",5.7
+604,99.9,1997,110,Agustí Villaronga,"María Barranco, Terele Pávez, Ruth Gabriel","Horror, Mystery, Thriller",5.7
+605,Mohabbat,1997,151,Reema Rakesh Nath,"Madhuri Dixit, Sanjay Kapoor, Akshaye Khanna","Drama, Romance",4.9
+606,Hannibal & Jerry,1997,75,"Steen Rasmussen, Michael Wikke","Jonathan Kvium, Paprika Steen, Martin Brygmann","Comedy, Family, Musical",6.2
+607,Time Under Fire,1997,92,"Scott P. Levy, Tripp Reed","Jeff Fahey, Richard Tyson, Jack Coleman","Action, Sci-Fi",3.6
+608,Suryavamsam,1997,156,Vikraman,"R. Sarathkumar, Devayani, Radhika Sarathkumar","Comedy, Drama, Family",7.8
+609,Who the Hell Is Juliette?,1997,91,Carlos Marcovich,"Yuliet Ortega, Fabiola Quiroz, Jorge Quiroz","Documentary, Music",6.8
+610,Eighteen Springs,1997,126,Ann Hui,"Leon Lai, Chien-Lien Wu, Anita Mui","Drama, Romance",6.8
+611,Ravager,1997,92,James D. Deck,"Bruce Payne, Yancy Butler, Juliet Landau","Horror, Sci-Fi",4.2
+612,The Curse of Inferno,1997,87,John Warren,"Pauly Shore, Janine Turner, Ned Beatty","Comedy, Crime, Drama",4.2
+613,Scorned 2,1997,98,Rodney McDonald,"Tane McClure, Andrew Stevens, Myles O'Brien","Drama, Thriller",3.9
+614,Dead Men Can't Dance,1997,97,"Stephen Milburn Anderson, Hubert de La Bouillerie","Michael Biehn, Mark Edward Anderson, Adrian Paul","Action, Drama",4.4
+615,Barracuda,1997,94,Philippe Haïm,"Jean Rochefort, Guillaume Canet, Claire Keim","Drama, Thriller",6.6
+616,Kickboxing Academy,1997,84,Richard Gabai,"Chyler Leigh, David Everett, Christopher Khayman Lee","Action, Comedy, Sport",2.3
+617,Bring Me the Head of Mavis Davis,1997,100,John Henderson,"Daniel Abineri, Danny Aiello, Justin Avoth","Comedy, Crime, Music",5.2
+618,Tender Flesh,1997,93,Jesús Franco,"Lina Romay, Monique Parent, Aldo Sambrell","Comedy, Horror",3.8
+619,Casualties,1997,85,Alex Graves,"Caroline Goodall, Mark Harmon, Michael Beach","Drama, Thriller",5.3
+620,Mars,1997,91,Jon Hess,"Olivier Gruner, Shari Belafonte, Gabriel Dell Jr.","Action, Sci-Fi",3.9
+621,Love Stories,1997,87,Jerzy Stuhr,"Jerzy Stuhr, Dominika Ostalowska, Irina Alfyorova","Romance, Comedy",7.0
+622,14 Days to Life,1997,105,Roland Suso Richter,"Kai Wiesinger, Michael Mendl, Katharina Meinecke",Thriller,6.5
+623,Bhoothakkannadi,1997,115,A.K. Lohithadas,"Mammootty, Sreelakshmi, Cherthala Lalitha",Drama,7.9
+624,The Ride,1997,101,Michael O. Sajbel,"Michael Biehn, Brock Pierce, Charles Young","Drama, Family, Sport",6.5
+625,An American Vampire Story,1997,99,Luis Esteban,"Trevor Lissauer, Johnny Venokur, Adam West","Comedy, Horror",2.7
+626,Darkdrive,1997,88,Phillip J. Roth,"Gian-Carlo Scandiuzzi, Claire Stansfield, Nick Eldredge","Action, Sci-Fi",3.2
+627,The Bad Pack,1997,91,Brent Huff,"Robert Davi, Roddy Piper, Ralf Moeller",Action,4.3
+628,K,1997,135,Alexandre Arcady,"Patrick Bruel, Isabella Ferrari, Marthe Keller","Crime, Thriller",6.2
+629,Jungle Emperor Leo,1997,99,Yoshio Takeuchi,"Masane Tsukayama, Chieko Baishô, Kyoko Tsuruno","Animation, Adventure",6.5
+630,O Noviço Rebelde,1997,91,Tizuka Yamasaki,"Renato Aragão, Dedé Santana, Tony Ramos","Comedy, Family, Romance",4.1
+631,The Night Caller,1997,91,Robert Malenfant,"Shanna Reed, Tracy Nelson, Mary Crosby","Crime, Drama, Horror",5.3
+632,The Apocalypse,1997,96,Hubert de La Bouillerie,"Sandra Bernhard, Cameron Dye, Frank Zagarino","Action, Sci-Fi",3.1
+633,Football Stories,1997,87,Andrés Wood,"Armando Cavieres, Nora Escobar, Fernando Gallardo","Drama, Sport",6.7
+634,The Wiggles Movie,1997,83,Dean Covell,"Murray Cook, Jeff Fatt, Greg Page","Adventure, Comedy, Family",6.3
+635,Trail of a Serial Killer,1997,89,Damian Lee,"Audrey Lupke, Jennifer Dale, Elizabeth Smith","Crime, Drama, Mystery",4.5
+636,Downtown Torpedoes,1997,103,Teddy Chan,"Takeshi Kaneshiro, Jordan Chan, Charlie Yeung","Action, Crime, Thriller",5.9
+637,Virtual Weapon,1997,90,Antonio Margheriti,"Terence Hill, Marvelous Marvin Hagler, Giselle Blondet","Comedy, Crime, Sci-Fi",4.4
+638,The Contact,1997,105,Yun-hyeon Jang,"Han Suk-kyu, Jeon Do-yeon, Choo Sang-mi",Romance,6.8
+639,Prime Suspects,1997,90,James A. MacPherson,"Judith Stout, David Gordon, Charles Merlis","Action, Thriller",5.0
+640,Conceiving Ada,1997,85,Lynn Hershman Leeson,"Tilda Swinton, Francesca Faridany, Timothy Leary","Drama, Fantasy, Sci-Fi",5.0
+641,Hangor Nodi Grenade,1997,113,Chashi Nazrul Islam,"Suchorita, Sohel Rana, Aruna Biswas","Drama, War",8.6
+642,The Secret Garden,1997,85,Shinobu Yaguchi,"Naomi Nishida, Gô Rijû, Takako Katô","Comedy, Crime",7.0
+643,The Collector,1997,98,Auli Mantila,"Leea Klemola, Elina Hurme, Rea Mauranen","Drama, Thriller",6.8
+644,Amor de hombre,1997,88,"Yolanda García Serrano, Juan Luis Iborra","Loles León, Andrea Occhipinti, Pedro Mari Sánchez","Comedy, Drama, Romance",6.3
+645,Tentação,1997,115,Joaquim Leitão,"Joaquim de Almeida, Cristina Câmara, Diogo Infante","Drama, Romance",6.1
+646,Bhai,1997,147,Deepak S. Shivdasani,"Suniel Shetty, Pooja Batra, Sonali Bendre","Action, Drama",5.3
+647,Under the Lighthouse Dancing,1997,94,Graeme Rattigan,"Aden Gillett, Jack Thompson, Jacqueline McKenzie",Drama,5.7
+648,Leather Jacket Love Story,1997,85,David DeCoteau,"Sean Tataryn, Christopher Bradley, Geoff Moody","Comedy, Drama, Romance",6.3
+649,The Death Sentence: Mrityu Dand,1997,150,Prakash Jha,"Shabana Azmi, Madhuri Dixit, Ayub Khan","Action, Drama",7.1
+650,Total Reality,1997,100,Phillip J. Roth,"David Bradley, Ely Pouget, Thomas Kretschmann","Action, Sci-Fi",4.4
+651,Héroïnes,1997,115,Gérard Krawczyk,"Virginie Ledoyen, Maïdi Roth, Marc Duret","Drama, Music",5.6
+652,Brácula. Condemor II,1997,87,Álvaro Sáenz de Heredia,"Chiquito de la Calzada, Bigote Arrocet, Nadiuska","Comedy, Horror, Musical",3.5
+653,Isle of Darkness,1997,83,Trygve Allister Diesen,"Sofie Gråbøl, Paul-Ottar Haga, Sina Langfeldt","Horror, Thriller, Mystery",5.0
+654,Sparkler,1997,96,Darren Stein,"Park Overall, Veronica Cartwright, Don Harvey","Comedy, Drama",5.5
+655,"I Love You, Don't Touch Me!",1997,86,Julie Davis,"Marla Schaffel, Mitchell Whitfield, Michael Harris","Comedy, Romance",5.2
+656,Steel Sharks,1997,94,Rodney McDonald,"Gary Busey, Billy Dee Williams, Billy Warlock",Action,4.2
+657,Oesje!,1997,89,Ludo Cox,"Chris van den Durpel, Geena Lisa, Jaak Van Assche",Comedy,5.2
+658,Asylum,1997,90,James Seale,"Robert Patrick, Karl Bury, Tom Poster","Drama, Horror, Thriller",4.9
+659,The Mad Phoenix,1997,110,Clifton Ko,"Kwan-Ho Tse, Louisa So, Chan-Leung Poon","Biography, Comedy, Drama",8.1
+660,The Prince of Homburg,1997,85,Marco Bellocchio,"Andrea Di Stefano, Barbora Bobulova, Toni Bertorelli","Drama, History, Romance",6.6
+661,Soltan,1997,90,Masud Kimiai,"Fariborz Arabnia, Hediyeh Tehrani, Hassan Joharchi","Crime, Drama, Romance",5.2
+662,Super Speedway,1997,50,Stephen Low,"Paul Newman, Richard Garneau, Jim Paulson","Documentary, Action, Sport",7.2
+663,The Sticky Fingers of Time,1997,81,Hilary Brougher,"Terumi Matthews, Nicole Zaray, Belinda Becker",Sci-Fi,6.1
+664,The Oyster and the Wind,1997,112,Walter Lima Jr.,"Lima Duarte, Fernando Torres, Leandra Leal","Fantasy, Drama",7.2
+665,Dogtown,1997,99,George Hickenlooper,"Rory Cochrane, David Shackelford, Trevor St. John","Drama, Romance",5.6
+666,The Blood Oranges,1997,93,Philip Haas,"Charles Dance, Colin Lane, Sheryl Lee",Drama,4.6
+667,Upyr,1997,72,Sergey Vinokurov,"Aleksey Serebryakov, Nikolay Lavrov, Igor Shibanov","Action, Crime, Horror",6.5
+668,Boys Life 2,1997,74,"Mark Christopher, Tom DeCerchio, Tom Donaghy","Michael Saucedo, Justin Urich, Travis Sher",Drama,6.5
+669,Hufters & Hofdames,1997,91,Eddy Terstall,"Marc van Uchelen, Arthur De Boer, Daan Ekkel","Comedy, Romance",6.8
+670,Convict 762,1997,97,Luca Bercovici,"Shannon Sturges, Michole Briana White, Charlie Spradling","Action, Horror, Mystery",3.3
+671,Lovelife,1997,96,Jon Harmon Feldman,"Saffron Burrows, Bruce Davison, Sherilyn Fenn","Comedy, Drama",5.6
+672,Eating Schoolgirls: Osaka Telephone Club,1997,60,Naoyuki Tomomatsu,"Yuuki Fujita, Michiru Katô, Kozue Aoki",Horror,4.3
+673,The Invader,1997,93,Mark Rosman,"Sean Young, Ben Cross, Daniel Baldwin","Action, Sci-Fi, Thriller",4.1
+674,Touch Me,1997,107,H. Gordon Boos,"Amanda Peet, Michael Vartan, Peter Facinelli","Drama, Romance",5.9
+675,Cops,1997,95,"Jorge Nisco, Daniel Barone","Carlos Calvo, Adrián Suar, Rodolfo Ranni","Action, Comedy, Crime",4.8
+676,Nevada,1997,108,Gary Tieche,"Amy Brenneman, Ben Browder, James Wilder",Drama,5.3
+677,Kick of Death,1997,95,David Avallone,"Laura Shin, David Heavener, George D. Amoroso","Action, Crime, Adventure",5.7
+678,All the Rage,1997,105,Roland Tec,"Will Cook, Ben Robbins, Daniel Olsen","Comedy, Drama, Romance",5.1
+679,Les palmes de M. Schutz,1997,106,Claude Pinoteau,"Isabelle Huppert, Philippe Noiret, Charles Berling","Biography, Comedy, Drama",6.8
+680,Credo,1997,87,Susanne Bier,"Sofie Gråbøl, Ellen Hillingsø, Sverre Anker Ousdal",Thriller,4.3
+681,Lesser Prophets,1997,92,William DeVizia,"John Turturro, Scott Glenn, Jimmy Smits","Crime, Drama",5.4
+682,Misbegotten,1997,95,Mark L. Lester,"Kevin Dillon, Nick Mancuso, Lysette Anthony",Thriller,4.3
+683,Grind,1997,96,Chris Kentis,"Billy Crudup, Adrienne Shelly, Paul Schulze","Drama, Romance",5.4
+684,Marcello Mastroianni: I Remember,1997,198,Anna Maria Tatò,"Marcello Mastroianni, Renato Berta, Manoel de Oliveira","Documentary, Biography",7.8
+685,Quiet Days in Hollywood,1997,91,Josef Rusnak,"Hilary Swank, Peter Dobson, Daryl Mitchell","Comedy, Drama",4.4
+686,2103: The Deadly Wake,1997,100,G. Philip Jackson,"Malcolm McDowell, Michael Paré, Heidi von Palleske","Drama, Sci-Fi, Thriller",3.2
+687,Mrityudaata,1997,158,Mehul Kumar,"Amitabh Bachchan, Dimple Kapadia, Karisma Kapoor","Action, Drama, Musical",2.8
+688,Heads or Tails,1997,104,Claude Fournier,"Roy Dupuis, Patrick Huard, Charlotte Laurier",Comedy,5.9
+689,Slayers Great,1997,60,"Hiroshi Watanabe, Kunihiko Yuyama","Megumi Hayashibara, Maria Kawamura, Kikuko Inoue","Animation, Action, Adventure",6.9
+690,Trading Favors,1997,103,Sondra Locke,"Rosanna Arquette, George Dzundza, Devon Gummersall","Crime, Drama",5.1
+691,Back in Business,1997,93,Philippe Mora,"Brian Bosworth, Joe Torry, Dara Tomanovich","Action, Adventure",4.4
+692,Bad Manners,1997,88,Jonathan Kaufer,"David Strathairn, Bonnie Bedelia, Saul Rubinek","Comedy, Drama, Romance",6.4
+693,Anondo Osru,1997,138,Shibli Sadique,"Salman Shah, Shabnur, Kanchi","Crime, Drama",8.2
+694,Let's Get Lost,1997,96,Jonas Elmer,"Sidse Babett Knudsen, Bjarne Henriksen, Nicolaj Kopernikus",Drama,6.8
+695,Hellblock 13,1999,90,Paul Talbot,"Gunnar Hansen, Debbie Rochon, Jon Miller","Horror, Thriller",4.1
+696,The Best Man,1997,101,Pupi Avati,"Diego Abatantuono, Inés Sastre, Dario Cantarelli","Comedy, Drama",6.1
+697,The Gambler,1997,97,Károly Makk,"Michael Gambon, Jodhi May, Polly Walker","Biography, Drama, Romance",6.3
+698,Love Walked In,1997,95,Juan José Campanella,"Denis Leary, Terence Stamp, Aitana Sánchez-Gijón","Drama, Thriller",5.3
+699,The Haunted Sea,1997,73,Dan Golden,"Krista Allen, Don Stroud, Duane Whitaker","Action, Horror",3.3
+700,Clubhouse Detectives,1997,85,Eric Hendershot,"Michael Ballam, Michael Galeota, Jimmy Galeota","Adventure, Family, Mystery",6.6
+701,The Well,1997,101,Samantha Lang,"Pamela Rabe, Miranda Otto, Paul Chubb",Drama,6.1
+702,Proper Attire Required,1997,93,Philippe Lioret,"Jacques Gamblin, Zabou Breitman, Elsa Zylberstein","Comedy, Crime",6.2
+703,Men,1997,92,Zoe Clarke-Williams,"Sean Young, John Heard, Dylan Walsh",Drama,5.1
+704,Eat Your Heart Out,1997,94,Felix O. Adlon,"Christian Oliver, Pamela Adlon, Laura San Giacomo","Comedy, Drama",5.5
+705,Kalle Blomkvist och Rasmus,1997,78,Göran Carmback,"Totte Steneby, Josefin Årling, Malte Forsberg","Family, Crime",5.7
+706,Belly Up,1997,90,Beto Brant,"Chico Díaz, Murilo Benício, Wolney de Assis","Crime, Drama",7.0
+707,Young Thugs: Innocent Blood,1997,108,Takashi Miike,"Takeshi Caesar, Seiji Chihara, Noriko Eguchi","Action, Comedy, Drama",6.5
+708,Cupid,1997,95,Doug Campbell,"Zach Galligan, Ashley Laurence, Mary Crosby","Horror, Thriller",4.1
+709,Die 120 Tage von Bottrop,1997,60,"Christoph Schlingensief, Monique Tissot","Margit Carstensen, Irm Hermann, Volker Spengler",Comedy,6.0
+710,In Praise of Older Women,1997,105,Manuel Lombardero,"Juan Diego Botto, Miguel Ángel García, Faye Dunaway","Drama, Romance, War",6.2
+711,Vääpeli Körmy ja kahtesti laukeava,1997,103,Ere Kokkonen,"Heikki Kinnunen, Tom Pöysti, Vesa Vierikko","Comedy, War",4.2
+712,Intruder,1997,87,Kan-Cheung Tsang,"Moses Chan, Yiu-Cheung Lai, Man-Wai Wong",Horror,6.3
+713,Hostile Intent,1997,90,Jonathan Heap,"Rob Lowe, Sofia Shinas, James Kidnie","Action, Thriller",4.2
+714,Bloodletting,1997,89,Matthew Jason Walsh,"Ariauna Albright, James L. Edwards, Nina Angeloff","Comedy, Horror",4.6
+715,The Climb,1997,98,Bob Swaim,"John Hurt, Gregory Smith, David Strathairn",Drama,6.7
+716,Troublesome Night,1997,98,"Wai-Man Cheng, Long-Cheung Tam, Herman Yau","Simon Lui, Louis Koo, Allen Ting","Comedy, Horror",5.8
+717,Dinner at Fred's,1997,93,Shawn Thompson,"Gil Bellows, Parker Posey, Kevin McDonald",Comedy,5.9
+718,A Brother's Kiss,1997,92,Seth Zvi Rosenfeld,"Nick Chinlund, Michael Raynor, Justin Pierce",Drama,6.0
+719,Little Bigfoot,1997,96,Art Camacho,"Ross Malinger, P.J. Soles, Kenneth Tigar",Family,3.2
+720,City of God,1997,87,Víctor González,"Mabel Dai, Gustavo Domínguez, Omar Fanucci",Drama,8.0
+721,Moonbase,1997,89,Paolo Mazzucato,"Scott Plank, Jocelyn Seagrave, Robert O'Reilly","Action, Sci-Fi",3.8
+722,Seventh Heaven,1997,88,Benoît Jacquot,"Sandrine Kiberlain, Vincent Lindon, François Berléand",Drama,6.5
+723,Bimbo Movie Bash,1997,80,"Mike Mendez, Dave Parker","Ian Abercrombie, Adrienne Barbeau, Michelle Bauer","Comedy, Horror, Sci-Fi",3.2
+724,Menno's Mind,1997,95,Jon Kroll,"Billy Campbell, Stephanie Romanov, Corbin Bernsen","Sci-Fi, Thriller",4.4
+725,Hitler,1997,152,Muthyala Subbaiah,"Chiranjeevi, Rajendra Prasad, Rambha","Action, Drama",6.4
+726,The Deli,1997,99,John A. Gallagher,"Matt Keeslar, Brian Vincent, Jack O'Connell","Comedy, Drama",5.5
+727,A Friend of the Deceased,1997,100,"Leonid Boyko, Vyacheslav Krishtofovich","Tetyana Kryvytska Stang Lund, Aleksandr Lazarev, Anzhelika Nevolina","Comedy, Crime, Drama",6.9
+728,The Sun Sisters,1997,92,Jeannot Szwarc,"Marie-Anne Chazel, Thierry Lhermitte, Clémentine Célarié",Comedy,3.6
+729,The Break,1997,96,Robert Dornhelm,"Stephen Rea, Alfred Molina, Rosana Pastor","Drama, Romance, Thriller",5.8
+730,The Source of Snakes,1997,87,Nikolay Lebedev,"Ekaterina Guseva, Olga Ostroumova, Evgeniy Mironov","Drama, Horror, Mystery",6.6
+731,Palabi Kothae,1997,158,Shahidul Islam Khokon,"Humayun Faridi, Shabana, Suborna Mustafa","Comedy, Drama",8.0
+732,Elisa Before the End of the World,1997,80,Juan Antonio de la Riva,"Sherlyn, Imanol, Rubén Rojo Aura",Drama,6.9
+733,Topless Women Talk About Their Lives,1997,87,Harry Sinclair,"Danielle Cormack, Joel Tobeck, Ian Hughes","Drama, Comedy",6.7
+734,Comanche Territory,1997,88,Gerardo Herrero,"Imanol Arias, Carmelo Gómez, Cecilia Dopazo","Drama, War",6.4
+735,Robinson in Space,1997,82,Patrick Keiller,Paul Scofield,Documentary,7.1
+736,Hacks,1997,93,Gary Rosen,"Stephen Rea, Illeana Douglas, John Ritter","Mystery, Comedy",4.7
+737,Doraemon: Nobita and the Spiral City,1997,99,Tsutomu Shibayama,"Nobuyo Ôyama, Noriko Ohara, Kazuya Tatekabe","Animation, Adventure, Comedy",6.5
+738,Obsession,1997,105,Peter Sehr,"Heike Makatsch, Charles Berling, Daniel Craig","Drama, Music, Romance",5.1
+739,The Undertaker's Wedding,1997,89,John Bradshaw,"Adrien Brody, Jeff Wincott, Kari Wuhrer","Comedy, Crime",5.2
+740,Gudgudee,1997,138,Basu Chatterjee,"Anupam Kher, Pratibha Sinha, Jugal Hansraj","Musical, Romance",3.8
+741,Bad Movie,1997,144,Jang Sun-woo,"Seul-ki Hang, Kyeong-won Park, Jae-kyeong Lee","Crime, Drama",6.4
+742,Pressure Point,1997,97,David Giancola,"Don Mogavero, Steve Railsback, Larry Linville","Action, Drama, Thriller",2.7
+743,Ratchakan,1997,154,Praveenkanth,"Nagarjuna Akkineni, Sushmita Sen, Girish Karnad","Action, Romance",6.3
+744,River Made to Drown In,1997,98,James Merendino,"Richard Chamberlain, Michael Imperioli, Ute Lemper",Drama,5.6
+745,This Is the Sea,1997,100,Mary McGuckian,"Samantha Morton, Ross McDade, Richard Harris","Drama, Romance",6.1
+746,Lifebreath,1997,90,P.J. Posner,"Luke Perry, Francie Swift, Gia Carides","Drama, Thriller, Romance",5.4
+747,Death on a Full Moon Day,1997,74,Prasanna Vithanage,"Joe Abeywickrama, Nayana Hettiarachchi, Kumara Karunananda","Drama, War",7.7
+748,Red River Valley,1997,115,Xiaoning Feng,"Jing Ning, Bing Shao, Zhen Ying","Drama, History, Romance",6.7
+749,Against the Law,1997,90,Jim Wynorski,"Nancy Allen, Richard Grieco, Nick Mancuso","Action, Crime, Thriller",4.3
+750,Tranceformer - A Portrait of Lars von Trier,1997,52,"Stig Björkman, Fredrik von Krusenstjerna","Lars von Trier, Inger Høst Trier, Ulf Trier","Documentary, Biography",6.8
+751,The Man in Selya's Life,1997,96,Carlos Siguion-Reyna,"Rosanna Roces, Ricky Davao, Gardo Versoza",Drama,6.7
+752,Allyson Is Watching,1997,90,Robert Kubilos,"Caroline Ambrose, James Horan, David Andriole",Drama,4.8
+753,Maslin Beach,1997,80,Wayne Groom,"Michael Allen, Eliza Lovell, Leylah Love","Comedy, Drama, Romance",4.6
+754,Santa Fe,1997,97,Andrew Shea,"Tina Majorino, Gary Cole, Sheila Kelley","Comedy, Drama",5.0
+755,Address Unknown,1997,92,Shawn Levy,"Kyle Howard, Johna Stewart-Bowden, Patrick Renna","Adventure, Family, Mystery",5.9
+756,Long Twilight,1997,70,Attila Janisch,"Mari Törőcsik, Imre Csuja, András Fekete",Drama,7.2
+757,"Chile, the Obstinate Memory",1997,59,Patricio Guzmán,"Patricio Guzmán, Vincent Davy, Hortensia Allende",Documentary,7.8
+758,Kitchen Party,1997,92,Gary Burns,"Scott Speedman, Tygh Runyan, John Payne",Comedy,6.2
+759,First Love: Litter on the Breeze,1997,99,Eric Kot,"Calvin Choy, Takeshi Kaneshiro, Vincent Kok","Comedy, Drama, Romance",6.8
+760,James Dean: Race with Destiny,1997,94,Mardi Rustam,"Casper Van Dien, Carrie Mitchum, Diane Ladd","Biography, Drama",4.6
+761,Auguri professore,1997,105,Riccardo Milani,"Silvio Orlando, Claudia Pandolfi, Duilio Del Prete",Comedy,6.7
+762,Future Fear,1997,77,Lewis Baumander,"Jeff Wincott, Maria Ford, Stacy Keach","Action, Sci-Fi",2.7
+763,Changing Habits,1997,95,Lynn Roth,"Moira Kelly, Taylor Negron, Teri Garr","Comedy, Drama, Romance",5.8
+764,Itihaas,1997,154,Raj Kanwar,"Ajay Devgn, Twinkle Khanna, Amrish Puri","Action, Drama, Romance",3.6
+765,Orbis Pictus,1997,107,Martin Sulík,"Dorota Nvotová, Emília Vásáryová, Frantisek Kovár","Drama, Fantasy",7.2
+766,Across the Lake,1997,102,Antonio Mitrikeski,"Agnieszka Wagner, Nikola Ristanovski, Marija Atanasovska","Drama, Romance",7.1
+767,Superman,1997,150,"Meccartin, Raffi","Jayaram, Shobana, Jagadish","Comedy, Thriller",6.8
+768,XXL,1997,95,Ariel Zeitoun,"Michel Boujenah, Gérard Depardieu, Elsa Zylberstein","Comedy, Romance",4.1
+769,"First Love, Last Rites",1997,94,Jesse Peretz,"Natasha Gregson Wagner, Giovanni Ribisi, Robert John Burke","Drama, Romance",5.5
+770,The Designated Mourner,1997,94,David Hare,"Mike Nichols, Miranda Richardson, David de Keyser",Drama,6.3
+771,Master,1997,126,Suresh Krishna,"Chiranjeevi, Sakshi Shivanand, Puneet Issar","Action, Drama",6.8
+772,"A Gun, a Car, a Blonde",1997,107,Stefani Ames,"Jim Metzler, Andrea Thompson, Kay Lenz","Drama, Thriller",5.2
+773,Hysteria,1997,103,Rene Daalder,"Patrick McGoohan, Amanda Plummer, Michael Maloney","Drama, Sci-Fi, Thriller",5.1
+774,The Good Life,1997,95,"Alan Mehrez, Barry Samson","Frank Stallone, Dennis Hopper, Peter Dobson","Comedy, Crime",4.6
+775,Little Bird,1997,100,Carlos Saura,"Alejandro Martínez, Dafne Fernández, Francisco Rabal",Drama,6.5
+776,Sorceress II: The Temptress,1997,82,Richard Styles,"Julie Strain, Greg Wrangler, Sandahl Bergman","Fantasy, Horror, Thriller",3.8
+777,An Ambiguous Report About the End of the World,1997,154,Juraj Jakubisko,"Deana Horváthová, Milan Bahúl, Joachim Kemmer","Fantasy, Mystery",6.9
+778,Down to Hell,1997,47,Ryûhei Kitamura,"Masami Miyata, Kohji Gotoh, Yoshihiro Okamoto",Horror,5.5
+779,Panarea,1997,100,Giuseppe Moccia,"Alessia Merz, Andrea Livio, Alessandro Mascali",Comedy,2.6
+780,Lover Girl,1997,87,"Lisa Addario, Joe Syracuse","Tara Subkoff, Sandra Bernhard, Kristy Swanson","Comedy, Drama",5.1
+781,Anaganaga Oka Roju,1997,119,Ram Gopal Varma,"J.D. Chakravarthi, Urmila Matondkar, Brahmanandam","Action, Comedy, Drama",7.2
+782,Run for Your Life,1997,116,Richard Hobert,"Camilla Lundén, Göran Stangertz, Lena Endre","Drama, Thriller",5.7
+783,I Am Keiko,1997,61,Sion Sono,"Keiko Suzuki, Eiichi Uchida",Drama,6.3
+784,The Fearless Four,1997,89,"Michael Coldewey, Eberhard Junkersdorf, Jürgen Richter","Mario Adorf, Hartmut Engler, Bernd Schramm","Animation, Adventure, Comedy",5.8
+785,Tangos Are for Two,1997,93,Jaime Chávarri,"Darío Grandinetti, Aitana Sánchez-Gijón, Juan Echanove","Drama, Music, Romance",6.8
+786,Looking for Lola,1997,99,Boaz Davidson,"Mark Kassen, Ara Celi, Adam Biesk",Comedy,5.2
+787,Nocne graffiti,1997,94,Maciej Dutkiewicz,"Marek Kondrat, Kasia Kowalska, Katarzyna Skrzynecka","Action, Drama, Thriller",5.2
+788,Woman in Witness Protection,1997,131,Jûzô Itami,"Nobuko Miyamoto, Masahiko Nishimura, Yuji Murata","Comedy, Crime, Drama",7.2
+789,Question of Luck,1997,92,Rafael Moleón,"Anna Galiena, Eduardo Noriega, Marta Belaustegui","Crime, Drama, Thriller",6.1
+790,Squeeze,1997,102,Robert Patton-Spruill,"Tyrone Burton, Eddie Cutanda, Phuong Duong","Crime, Drama, Thriller",5.9
+791,The Witman Boys,1997,93,János Szász,"Alpár Fogarasi, Szabolcs Gergely, Maia Morgenstern","Drama, Thriller",6.7
+792,My Brother's Gun,1997,93,Ray Loriga,"Daniel González, Nico Bidasolo, Andrés Gertrúdix","Crime, Drama, Romance",5.4
+793,Teach Me Tonight,1997,92,Rick Blaine,"Judy Thompson, Kim Yates, Jack Becker","Mystery, Romance, Thriller",4.2
+794,Illicit Dreams 2,1997,85,Fred Olen Ray,"Tim Abell, Tane McClure, Cory Lane","Drama, Mystery, Thriller",3.7
+795,Doing Time for Patsy Cline,1997,95,Chris Kennedy,"Richard Roxburgh, Miranda Otto, Matt Day","Comedy, Drama",6.2
+796,Motel Cactus,1997,91,Ki-Yong Park,"Lee Mi-yeon, Jin Hee-kyung, Jung Woo-sung","Comedy, Drama, Romance",5.1
+797,For Hire,1997,96,Jean Pellerin,"Rob Lowe, Joe Mantegna, Bronwen Booth",Thriller,5.4
+798,Le déménagement,1997,90,Olivier Doran,"Dany Boon, Emmanuelle Devos, Sami Bouajila",Comedy,4.7
+799,Champions,1997,99,Peter Gathings Bunche,"Louis Mandylor, Danny Trejo, Ken Shamrock",Action,3.9
+800,Exception to the Rule,1997,98,David Winning,"Sean Young, Kim Cattrall, Eric McCormack","Crime, Drama, Thriller",4.7
+801,Sexual Roulette,1997,87,Gary Graver,"Tane McClure, Tim Abell, Gabriella Hall","Drama, Romance",4.1
+802,Blessed Are Those Who Thirst,1997,113,Carl Jørgen Kiønig,"Kjersti Elvik, Gjertrud L. Jynge, Lasse Kolsrud","Crime, Horror, Thriller",5.9
+803,Varnapakittu,1997,137,I.V. Sasi,"Mohanlal, Meena, Divyaa Unni","Action, Drama, Romance",5.9
+804,Strawberry Estates,1997,100,Ron Bonk,"Lisa Chelenza, Chrissy Frick, Bob Fullenbaum","Comedy, Horror",2.6
+805,Unmade Beds,1997,95,Nicholas Barker,"Aimee Copp, Michael De Stefano, Brenda Monte","Comedy, Drama",6.6
+806,Who's the Caboose?,1997,94,Sam Seder,"Alex Ferrer, Sarah Silverman, Sam Seder",Comedy,5.7
+807,The Play of God,1997,130,Jayaraj,"Suresh Gopi, Lal, Manju Warrier",Drama,7.8
+808,Spicy Love Soup,1997,109,Yang Zhang,"Xuebing Wang, Chuan Chao, Emil Chau","Drama, Romance",7.0
+809,Vice Girls,1997,83,Richard Gabai,"Lana Clarkson, Liat Goodson, Kimberley Roberts","Action, Crime, Drama",3.7
+810,Body Armor,1997,95,Jack Gill,"Matt McColm, Annabel Schofield, Ron Perlman",Action,4.2
+811,1999,1997,92,Nick Davis,"Dan Futterman, Allyson Downey, Jennifer Garner","Comedy, Drama",4.6
+812,Sindhooram,1997,144,Krishna Vamsi,"Brahmaji, Ravi Teja, Sanghavi","Action, Drama, Romance",7.5
+813,Bloodsuckers,1997,85,Ulli Lommel,"Michelle Bonfils, Peter Sean Maloney, Ulli Lommel",Horror,2.1
+814,Fruit Is Swelling,1997,90,Man-Kei Chin,"Hau-Ngok Chan, Chun Chung, Stephanie Fong","Comedy, Fantasy, Romance",5.7
+815,Double Take,1997,86,Mark L. Lester,"Craig Sheffer, Brigitte Bako, Costas Mandylor",Thriller,4.7
+816,Latin Boys Go to Hell,1997,71,Ela Troyano,"Irwin Ossa, John Bryant, Jenifer Lee Simard","Comedy, Drama, Crime",5.1
+817,Slaves to the Underground,1997,93,Kristine Peterson,"Molly Gross, Jason Bortz, Marisa Ryan","Comedy, Drama, Music",5.1
+818,The Silver Screen: Color Me Lavender,1997,100,Mark Rappaport,"Dan Butler, Don Ameche, Johnny Arthur","Documentary, History",6.4
+819,Sawdust Tales,1997,87,Baris Pirhasan,"Hugh O'Conor, Julia Brendler, Károly Eperjes",Drama,6.6
+820,Vicious Circles,1997,90,Sandy Whitelaw,"Ben Gazzara, Jerome Davis, Carolyn Lowery","Drama, Thriller",4.8
+821,Crackerjack 2,1997,96,Robert Lee,"Judge Reinhold, Carol Alt, Michael Sarrazin",Action,3.6
+822,Junior Mandrake,1997,130,Ramasimhan,"Jagadish, Rajan P. Dev, Jagathy Sreekumar","Comedy, Fantasy",7.1
+823,El tiempo de la felicidad,1997,102,Manuel Iborra,"Verónica Forqué, Antonio Resines, Pepón Nieto","Comedy, Drama",6.4
+824,Armageddon,1997,117,Gordon Chan,"Andy Lau, Michelle Reis, Anthony Chau-Sang Wong","Fantasy, Action, Comedy",4.6
+825,O Homem Nu,1997,78,Hugo Carvana,"Claudio Marzo, Lúcia Veríssimo, Daniel Dantas",Comedy,6.0
+826,Annie's Garden,1997,97,Anthony Barnao,"Keith Coulouris, Yancy Butler, Charlotte Chatton","Drama, Thriller",4.8
+827,Memorias del ángel caído,1997,90,"David Alonso, Fernando Cámara","Santiago Ramos, José Luis López Vázquez, Emilio Gutiérrez Caba","Drama, Horror, Mystery",5.9
+828,Fred,1997,84,Pierre Jolivet,"Vincent Lindon, Clotilde Courau, François Berléand","Crime, Drama, Thriller",6.2
+829,Krishnagudiyil Oru Pranayakalathu,1997,155,Kamal,"Jayaram, Manju Warrier, Biju Menon","Comedy, Drama",6.8
+830,Merchant of Death,1997,96,Yossi Wein,"Michael Paré, Linda Hoffman, John Simon Jones","Action, Drama",4.1
+831,The Killing Jar,1997,101,Evan Crooke,"Brett Cullen, Tamlyn Tomita, Wes Studi","Drama, Horror, Mystery",4.5
+832,Gaston's War,1997,120,Robbe De Hert,"Werner De Smedt, Mapi Galán, Stuart Laing","Drama, History, Romance",6.3
+833,¿De qué se ríen las mujeres?,1997,109,Joaquín Oristrell,"Verónica Forqué, Candela Peña, Adriana Ozores","Comedy, Romance",5.3
+834,Tokyo biyori,1997,121,Naoto Takenaka,"Naoto Takenaka, Miho Nakayama, Nobuyoshi Araki","Biography, Drama",6.8
+835,Preminchukundam Raa,1997,151,Jayant Paranji,"Venkatesh Daggubati, Anjala Zaveri, Babu Mohan","Action, Romance",7.2
+836,Elles,1997,115,Luís Galvão Teles,"Miou-Miou, Carmen Maura, Marthe Keller","Drama, Romance, Comedy",6.5
+837,Los Locos,1997,99,Jean-Marc Vallée,"Mario Van Peebles, Rene Auberjonois, Tom Dorfmeister","Drama, Western",4.8
+838,Aar Ya Paar,1997,180,Ketan Mehta,"Jackie Shroff, Deepa Sahi, Ritu Shivpuri","Crime, Drama, Thriller",6.2
+839,Amrutha Varshini,1997,147,Dinesh Babu,"Ramesh Aravind, Sarath Babu, Mimicry Dayanand","Drama, Romance",8.7
+840,Born Bad,1997,88,Jeff Yonis,"James Remar, Corey Feldman, Justin Walker","Crime, Drama",5.2
+841,Punishment Committe,1997,97,Ali Hatami,"Jamshid Mashayekhi, Ali Nasirian, Mohamad Ali Keshavarz","Action, History, Mystery",7.6
+842,The Planet of Junior Brown,1997,91,Clement Virgo,"Martin Villafana, Lynn Whitfield, Rainbow Sun Francks",Drama,6.2
+843,The Peeping Tom,1997,91,Kai-Ming Lai,"Jade Leung, Mark Ho-nam Cheng, Michael Tse","Crime, Horror, Thriller",5.6
+844,Murmur of Youth,1997,106,Cheng-sheng Lin,"Rene Liu, Jing Tseng, Chin-Hsin Tsai",Drama,6.9
+845,Song of Hiawatha,1997,120,Jeffrey Shore,"Graham Greene, Litefoot, Irene Bedard","Adventure, Drama",5.8
+846,Goodbye America,1997,116,Thierry Notz,"Wolfgang Bodison, Corin Nemec, John Newton","Action, Drama, Romance",5.1
+847,Bikini Summer III: South Beach Heat,1997,87,Ken Blakey,"Heather Elizabeth Parkhurst, Tonya Goodson, Tiffany Turner",Comedy,2.9
+848,Banarasi Babu,1997,126,David Dhawan,"Govinda, Ramya Krishnan, Kader Khan",Comedy,4.2
+849,Macon County Jail,1997,92,Victoria Muspratt,"Ally Sheedy, David Carradine, Charles Napier","Crime, Thriller",4.4
+850,Acts of Betrayal,1997,90,Jack Ersgard,"Maria Conchita Alonso, Matt McColm, Muse Watson","Action, Thriller",4.6
+851,Die Salzmänner von Tibet,1997,108,Ulrike Koch,"Margen, Pargen, Zopon",Documentary,7.4
+852,Tinseltown,1997,85,Tony Spiridakis,"Arye Gross, Joe Pantoliano, Ron Perlman","Comedy, Crime, Drama",4.7
+853,Dang Bireley's and the Young Gangsters,1997,110,Nonzee Nimibutr,"Jesdaporn Pholdee, Noppachai Muttaweevong, Champagne X","Action, Biography, Crime",7.4
+854,Pervirella,1997,92,Alex Chandon,"Emily Booth, Ron Drand, Shend","Adventure, Comedy",4.2
+855,Public Housing,1997,200,Frederick Wiseman,Helen Finner,Documentary,7.9
+856,Ed Mort,1997,102,Alain Fresnot,"Paulo Betti, Cláudia Abreu, Otávio Augusto",Comedy,6.1
+857,Maximum Security,1997,78,Fred Olen Ray,"Paul Michael Robinson, John Lazar, Landon Hall","Action, Crime",3.0
+858,Off the Menu: The Last Days of Chasen's,1997,90,"Shari Springer Berman, Robert Pulcini","Raymond Bilbool, Ronald Clint, Tommy Gallagher","Documentary, History",6.8
+859,Fun Bar Karaoke,1997,103,Pen-Ek Ratanaruang,"Fay Atsawet, Phaibunkiat Khiaogao, Ray MacDonald","Comedy, Crime",6.5
+860,Collector Garu,1997,142,Gopal B.,"Babu Mohan, Mohan Babu, Brahmanandam","Action, Comedy, Drama",5.5
+861,Last Lives,1997,92,Worth Keeter,"C. Thomas Howell, Jennifer Rubin, Billy Wirth","Action, Sci-Fi, Thriller",3.7
+862,Falling Fire,1997,98,Daniel D'Or,"Michael Paré, Heidi von Palleske, Mackenzie Gray",Sci-Fi,4.0
+863,Bikini Hotel,1997,95,Jeff Frey,"J.J. North, Kareem Elseify, Tim Lovestedt",Comedy,3.3
+864,Hijacking Hollywood,1997,91,Neil Mandt,"Henry Thomas, Scott Thompson, Mark Metcalf",Comedy,5.0
+865,David Searching,1997,101,Leslie L. Smith,"Anthony Rapp, Camryn Manheim, Julie Halston","Drama, Romance",5.8
+866,Three Summer Days,1997,90,Mirjana Vukomanovic,"Mirjana Jokovic, Slavko Stimac, Srdjan 'Zika' Todorovic",Drama,6.1
+867,Trio,1997,100,Park Chan-wook,"Jeong Seon-kyeong, Lee Kyoung-young, Kim Min-jong","Comedy, Crime",4.9
+868,Little Miracles,1997,106,Eliseo Subiela,"Héctor Alterio, Antonio Birabent, Mónica Galán",Drama,6.6
+869,Red Meat,1997,95,Allison Burnett,"Lara Flynn Boyle, James Frain, Dee Freeman",Drama,5.2
+870,Esmeralda Comes by Night,1997,103,Jaime Humberto Hermosillo,"María Rojo, Claudio Obregón, Martha Navarro","Comedy, Romance",6.3
+871,Mutual Needs,1997,94,Robert Angelo,"Eric Scott Woods, Tricia Lee Pascoe, Karl Bury","Drama, Thriller",4.5
+872,The Price of Kissing,1997,93,Vince DiPersio,"Pauley Perrette, Leon, Nicole Eggert","Drama, Romance",4.5
+873,True Love and Chaos,1997,97,Stavros Kazantzidis,"Miranda Otto, Naveen Andrews, Noah Taylor",Drama,5.7
+874,"Love, Math and Sex",1997,100,Charlotte Silvera,"Julie Delarme, Georges Corraface, Marie-Christine Barrault",Drama,5.9
+875,Dusting Cliff 7,1997,93,William H. Molina,"Nancy Allen, Lance Henriksen, Scott Lincoln","Action, Crime, Drama",3.9
+876,Al límite,1997,90,Eduardo Campoy,"Juanjo Puigcorbé, Lydia Bosch, Béatrice Dalle",Thriller,4.9
+877,Kiss & Tell,1997,96,Jordan Alan,"Richmond Arquette, Lewis Arquette, Peter Greene","Comedy, Drama",4.3
+878,Rui Ka Bojh,1997,117,Subhash Agrawal,"V.M. Badola, Pankaj Kapur, Reema Lagoo",Drama,8.1
+879,Bombshell,1997,98,Paul Wynne,"Henry Thomas, Mädchen Amick, Frank Whaley","Sci-Fi, Thriller",3.9
+880,Dead Innocent,1997,91,Sara Botsford,"Geneviève Bujold, Nancy Beatty, Emily Hampshire","Horror, Thriller",5.2
+881,Raigyo,1997,75,Takahisa Zeze,"Moe Sakura, Takeshi Itô, Takuji Suzuki",Drama,5.6
+882,The Bachelor,1997,120,Nikos Panayotopoulos,"Stratos George o'Glou, Karyofyllia Karabeti, Akis Sakellariou","Drama, Romance",5.8
+883,The Night That Never Happened,1997,95,James Wvinner,"Lisa Boyle, Joshua D. Comen, Scott Coppola",Drama,4.3
+884,Earth Minus Zero,1997,81,Joey Travolta,"Pat Morita, Marcia Strassman, Brock Pierce","Comedy, Family, Sci-Fi",2.7
+885,Men with Guns,1997,89,Kari Skogland,"Donal Logue, Gregory Sporleder, Callum Keith Rennie","Action, Crime, Drama",5.2
+886,Black Dawn,1997,102,John De Bello,"Lobo Sebastian, Antonio Ramos, Tony Colitti","Action, Drama",4.1
+887,Once We Were Strangers,1997,96,Emanuele Crialese,"Vincenzo Amato, Jessica Whitney Gould, Anjalee Deshpande","Comedy, Romance",6.4
+888,Hallaq Hoosh,1997,111,Mohamed Abdelaziz,"Laila Eloui, Mohamed Henedi, Alaa Waley El Din","Comedy, Drama",5.7
+889,Pater Familias,1997,99,Nicos Perakis,"Renos Haralambidis, Katerina Bei, Alkis Panagiotidis","Comedy, Crime",5.2
+890,There Once Was a Cop II: Major Maisner Strikes Again!,1997,80,Jaroslav Soukup,"Ladislav Potmesil, Jaroslav Sypal, Ivan Gübel",Comedy,3.0
+891,One,1997,102,Tony Barbieri,"Jason Cairns, Kane Picoy, Autumn Macintosh",Drama,6.2
+892,Downtime,1997,90,Bharat Nalluri,"Paul McGann, Susan Lynch, Tom Georgeson","Romance, Thriller",4.5
+893,Rika barn leka bäst,1997,97,Carin Mannheimer,"Lena B. Nilsson, Ulla Svedin, Gerd Hegnell",Comedy,5.1
+894,The Corporate Ladder,1997,112,Nick Vallelonga,"Robert R. Shafer, Kathleen Kinmont, Talisa Soto","Action, Thriller",4.8
+895,Paljas,1997,135,Katinka Heyns,"Marius Weyers, Aletta Bezuidenhout, Ian Roberts",Drama,7.4
+896,Les mille merveilles de l'univers,1997,90,Jean-Michel Roux,"Tchéky Karyo, Julie Delpy, Chick Ortega","Drama, Sci-Fi",5.2
+897,Diana & Me,1997,98,David Parker,"Toni Collette, Dominic West, Malcolm Kennard","Comedy, Romance",5.3
+898,The Sore Losers,1997,89,John Michael McCarthy,"Jack Yarber, Kerine Elkins, Mike Maker","Action, Sci-Fi",4.8
+899,Spaceman,1997,88,Scott Dikkers,"David Ghilardi, Deborah King, Brian Stack","Comedy, Sci-Fi",5.7
+900,Jag är din krigare,1997,96,Stefan Jarl,"Robin Milldoff, John Belindo, Jan Malmsjö","Adventure, Drama, Family",5.6
+901,The Girl Gets Moe,1997,102,James Bruce,"Tony Danza, Elizabeth Barondes, Rustam Branaman","Action, Drama",4.6
+902,Babes' Petrol,1997,85,Peter F. Bringmann,"Wigald Boning, Axel Milberg, Franka Potente",Comedy,2.7
+903,Banzai,1997,83,Carlo Vanzina,"Paolo Villaggio, Francesco De Rosa, Francesca Romana Coluzzi",Comedy,4.1
+904,Madam Savant,1997,89,Mike Marvin,"Kira Reed, Nichole McAuley, Jeff Rector","Drama, Romance, Thriller",4.2
+905,Mojo,1997,90,Jez Butterworth,"Ian Hart, Ewen Bremner, Aidan Gillen",Drama,5.4
+906,Bouge!,1997,99,Jérôme Cornuau,"Ambre Boukebza, Patrick Forster-Delmas, Ophélie Winter","Comedy, Drama, Music",2.3
+907,Dancing on the Moon,1997,87,Kit Hood,"Natalie Vansier, Michael Yarmush, Elisha Cuthbert","Drama, Family",6.0
+908,For All: Springboard to Victory,1997,95,"Buza Ferraz, Luiz Carlos Lacerda","Betty Faria, José Wilker, Paulo Gorgulho","Comedy, Romance, War",6.3
+909,Minu Leninid,1997,99,Hardi Volmer,"Üllar Saaremäe, Viktor Sukhorukov, Andrus Vaarik","Comedy, History",6.2
+910,Magenta,1997,91,Gregory C. Haynes,"Julian McMahon, Alison Storry, Marklen Kennedy","Thriller, Drama",4.6
+911,Strip Search,1997,90,Rod Hewitt,"Michael Paré, Caroline Néron, Pam Grier","Action, Drama",3.9
+912,Onibi,1997,101,Rokuro Mochizuki,"Yoshio Harada, Reiko Kataoka, Shô Aikawa","Crime, Drama, Thriller",6.7
+913,Macbeth,1997,129,Jeremy Freeston,"Jason Connery, Helen Baxendale, Graham McTavish",Drama,5.2
+914,The Good Bad Guy,1997,110,Ezio Greggio,"Ezio Greggio, Jessica Lundy, Rudy De Luca",Comedy,4.5
+915,Shopping for Fangs,1997,90,"Quentin Lee, Justin Lin","Radmar Agana Jao, Jeanne Chinn, Clint Jung",Drama,5.9
+916,Colin Fitz Lives!,1997,91,Robert Bella,"John C. McGinley, Matt McGrath, William H. Macy",Comedy,5.4
+917,"Doing Time, Doing Vipassana",1997,52,"Eilona Ariel, Ayelet Menahemi",Kiran Bedi,Documentary,8.2
+918,I'm Watching You,1997,92,Blain Brown,"LoriDawn Messuri, Jacqueline Lovell, Andre Wilson","Crime, Drama, Thriller",5.0
+919,An American Affair,1997,92,Sebastian Shah,"Corbin Bernsen, Jayne Heitmeyer, Maryam d'Abo",Drama,3.5
+920,Le bassin de J.W.,1997,125,João César Monteiro,"Hugues Quester, Pierre Clémenti, Joana Azevedo",Comedy,5.8
+921,12 Storeys,1997,100,Eric Khoo,"Jack Neo, Peter Boon Koh, Yi Fong Quan","Comedy, Drama",6.7
+922,Amerikanka,1997,90,Dmitriy Meskhiev,"Natalya Danilova, Nina Usatova, Viktor Bychkov",Romance,6.9
+923,Stranger in the House,1997,94,Rodney Gibbons,"Michele Greene, Bruce Dinsmore, Steve Railsback",Thriller,5.3
+924,Dilemma,1997,83,"Eric Larsen, Eric Louzil","C. Thomas Howell, Sofia Shinas, Danny Trejo","Action, Drama",3.5
+925,Il viaggio della sposa,1997,102,Sergio Rubini,"Sergio Rubini, Giovanna Mezzogiorno, Carlo Mucari",Comedy,6.9
+926,Den sidste viking,1997,88,Jesper W. Nielsen,"Holger Thaarup, René Hansen, Moa Lagercrantz","Action, Drama",5.3
+927,Mommy's Day,1997,88,Max Allan Collins,"Patty McCormack, Rachel Lemieux, Paul Petersen","Horror, Mystery, Thriller",4.7
+928,Vildängel,1997,95,Christer Engberg,"Björn Andersson, Sara Arnia, Dick Ask","Drama, Musical",5.9
+929,Jefftowne,1997,59,Daniel Kraus,"Dave, Kim Davis, Marcus Dunstan",Documentary,5.9
+930,In Dark Places,1997,96,James C.E. Burke,"Joan Severance, Bryan Kestner, John Vargas","Drama, Thriller",4.5
+931,Licensed to Kill,1997,76,Arthur Dong,"Donald Aldrich, Corey Burley, Raymond Childs",Documentary,7.0
+932,Nick and Jane,1997,93,Richard Mauro,"Dana Wheeler-Nicholson, James McCaffrey, John Dossett","Comedy, Romance",5.4
+933,The First to Go,1997,100,John L. Jacobs,"Zach Galligan, Corin Nemec, Kurt Deutsch","Comedy, Romance",4.5
+934,Happy-Go-Lucky,1997,73,Tetsuya Nakashima,"Hidaka Yoshitomo, Nagi Noriko, Maki Ishikawa",Drama,7.0
+935,The Car,1997,133,Rajasenan,"Jayaram, Janardanan, Sreelakshmi",Comedy,5.8
+936,The Price of Desire,1997,102,Paul Thomas,"Kira Reed, Dan Frank, Barry Sattels","Drama, Thriller",5.3
+937,Tano da morire,1997,80,Roberta Torre,"Ciccio Guarino, Enzo Paglino, Mimma De Rosalia","Drama, Musical",6.4
+938,Wild Games,1997,90,Benoît Lamy,"Richard Bohringer, Ute Lemper, Papa Wemba",Drama,6.3
+939,Life According to Muriel,1997,98,Eduardo Milewicz,"Soledad Villamil, Inés Estévez, Jorge Perugorría",Drama,6.7
+940,My Brother's War,1997,84,James Brolin,"Jennie Garth, James Brolin, Patrick Foy","Action, Thriller",4.9
+941,Don't Play the Fool...,1997,98,Valeri Chikov,"Mikhail Evdokimov, Valeriy Zolotukhin, Sergei Agapitov","Adventure, Comedy, Crime",6.6
+942,Confessions of a Lap Dancer,1997,96,Mike Sedan,"Blake Pickett, James Patrick Keefe, Amy Lindsay",Drama,4.7
+943,Sleeping Dogs,1997,90,Micheal Bafaro,"Scott McNeil, C. Thomas Howell, Heather Hanson",Sci-Fi,3.5
+944,East Side Story,1997,78,Dana Ranga,"Margarita Andrushkovich, Chris Doerk, Erich Gusko","Documentary, Music",7.2
+945,They Call Me Joy,1997,105,Carlos Siguion-Reyna,"Rosanna Roces, John Arcilla, Isabel Granada",Drama,6.6
+946,Sunes familie,1997,85,Hans Kristensen,"Jarl Friis-Mikkelsen, Henrik Lykkegaard, Erni Arneson","Family, Comedy",4.2
+947,Carolina Low,1997,101,Nick Searcy,"Sean Bridgers, Christopher Berry, Nick Searcy",Drama,6.2
+948,"Policarpo Quaresma, Herói do Brasil",1997,123,Paulo Thiago,"Paulo José, Giulia Gam, Chico Díaz",Comedy,6.3
+949,Bleak Future,1997,73,B. Scott O'Malley,"Frank Kowal III, Brad Rockhold, Wendie Newcomb","Action, Comedy, Horror",5.5
+950,Kitchen,1997,124,Ho Yim,"Jordan Chan, Yasuko Tomita, Kar-Ying Law","Drama, Romance",6.8
+951,Výchova dívek v Cechách,1997,112,Petr Koliha,"Ondrej Pavelka, Anna Geislerová, Vilma Cibulková","Comedy, Romance",6.2
+952,Soul in the Hole,1997,98,Danielle Gardner,"Kenny Jones, Ronnet Jones, Ronald Kelly","Documentary, Sport",7.0
+953,Ms. Bear,1997,102,Paul Ziller,"Ed Begley Jr., Shaun Johnston, Kaitlyn Burke","Adventure, Family",5.6
+954,Cat's Eye,1997,91,Kaizô Hayashi,"Yuki Uchida, Izumi Inamori, Norika Fujiwara","Action, Comedy",4.3
+955,Bach Cello Suite #4: Sarabande,1997,56,Atom Egoyan,"Lori Singer, Yo-Yo Ma, Don McKellar","Drama, Music",7.0
+956,Green,1997,88,Karl T. Hirsch,"Hyrum Patterson, Matt Gallagher, Dana Millican",Comedy,5.4
+957,I Hate Love,1997,130,Laurence Ferreira Barbosa,"Jeanne Balibar, Jean-Quentin Châtelain, Laurent Lucas","Comedy, Drama",6.7
+958,The Underground,1997,92,Cole S. McKay,"Jeff Fahey, Gregory Scott Cummins, Willie C. Carpenter","Action, Crime, Drama",4.8
+959,2/Duo,1997,90,Nobuhiro Suwa,"Eri Yu, Miyuki Yamamoto, Hidetoshi Nishijima",Drama,6.9
+960,Liktendzirnas,1997,104,Janis Streics,"Ivars Kalnins, Arturs Skrastins, Agnese Zeltina","Drama, Fantasy",7.2
+961,Laws of Deception,1997,98,Joey Travolta,"C. Thomas Howell, Amber Smith, Brian Austin Green",Drama,4.5
+962,Things I Left in Havana,1997,110,Manuel Gutiérrez Aragón,"Jorge Perugorría, Violeta Rodríguez, Kiti Mánver","Comedy, Drama, Romance",5.9
+963,Yellow,1997,90,Chris Chan Lee,"Michael Chung, Burt Bulos, John Cho","Comedy, Drama, Romance",6.0
+964,Buud Yam,1997,97,Gaston Kaboré,"Jean-Claude Bamogo, Abderramane Boufacha, Alassane Dakissaga","Drama, Family",6.5
+965,The Ugly Duckling,1997,81,"David Elvin, Martin Gates, Libby Simon","Peter Bayliss, Michael Bell, Jon David Bush","Animation, Adventure, Family",6.3
+966,Hombres complicados,1998,87,Dominique Deruddere,"Josse De Pauw, Dirk Roofthooft, Hilde Van Mieghem",Drama,6.6
+967,Audition,1997,104,Gyeong-min Lee,"Ji-heon Im, Cheong-suk Park, Seong-su Heo",Comedy,6.9
+968,Expect to Die,1997,88,Jalal Merhi,"Jalal Merhi, David Bradley, Evan Lurie","Action, Crime, Sci-Fi",3.7
+969,Love & Confusions,1997,105,Patrick Braoudé,"Patrick Braoudé, Kristin Scott Thomas, Valeria Bruni Tedeschi",Comedy,4.5
+970,Count Me Out,1997,78,Ari Kristinsson,"Bergþóra Aradóttir, Freydís Kristófersdóttir, Edda Heidrún Backman","Comedy, Drama, Family",6.2
+971,Le acrobate,1997,123,Silvio Soldini,"Licia Maglietta, Valeria Golino, Angela Marraffa","Drama, Romance",6.9
+972,Always Say Goodbye,1997,98,Joshua Beckett,"Joshua Beckett, Katherine LaNasa, Paige Allen","Comedy, Romance",5.0
+973,Academy Boyz,1997,90,Dennis Cooper,"Justin Whalin, Jeffrey D. Sams, Donald Faison",Drama,6.9
+974,Suspicious Minds,1997,95,Alain Zaloum,"Patrick Bergin, Jayne Heitmeyer, Vittorio Rossi",Thriller,4.5
+975,Raasi,1997,143,Murali Appas,"Ajith Kumar, Rambha, Prakash Raj","Drama, Family",4.7
+976,Matusalem II: le dernier des Beauchesne,1997,98,Roger Cantin,"Marc Labrèche, Marie-France Monette, Steve Gendron","Adventure, Family, Fantasy",5.3
+977,Kayla,1997,96,Nicholas Kendall,"Tod Fennell, Henry Czerny, Bronwen Booth","Drama, Family",6.2
+978,Selma & Johanna - En roadmovie,1997,91,Ingela Magner,"Kjell Bergqvist, Jakob Eklund, Grete Havnesköld",Family,4.8
+979,Aastha: In the Prison of Spring,1997,132,Basu Bhattacharya,"Rekha, Om Puri, Dinesh Thakur",Drama,6.4
+980,Mauvais genre,1997,90,Laurent Bénégui,"Jacques Gamblin, Elina Löwensohn, Monica Bellucci",Comedy,5.2
+981,Mystery Monsters,1997,81,Charles Band,"Ashley Tesoro, Tim Redwine, Daniel Hartley","Family, Fantasy, Sci-Fi",4.2
+982,Moon Over Tao: Makaraga,1997,96,Keita Amemiya,"Toshiyuki Nagashima, Hiroshi Abe, Yûko Moriyama","Action, Fantasy",6.1
+983,Afula Express,1997,95,Julie Shles,"Zvika Hadar, Esti Zakheim, Aryeh Moskona","Comedy, Drama, Romance",6.8
+984,Oral Mathram,1997,135,Sathyan Anthikad,"Mammootty, Shruti, Thilakan",Drama,6.2
+985,Blossi/810551,1997,82,Júlíus Kemp,"Páll Banine, Þóra Dungal, Finni Johannsson","Comedy, Drama",4.5
+986,Dogstar,1997,83,Sophie Dia Pegrum,"Jon Jacobs, J.C. Brandy, Gabriel Jewel","Drama, Romance",6.3
+987,Sudden Fury,1997,102,Darren Ward,"Chris Barfoot, Antony Dobson, Stuart Farrell","Action, Drama",4.6

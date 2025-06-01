@@ -1,0 +1,988 @@
+ID,Name,Year,Duration,Directors,Actors,Genres,Rating
+1,Se7en,1995,127,David Fincher,"Morgan Freeman, Brad Pitt, Kevin Spacey","Crime, Drama, Mystery",8.6
+2,The Usual Suspects,1995,106,Bryan Singer,"Kevin Spacey, Gabriel Byrne, Chazz Palminteri","Crime, Drama, Mystery",8.5
+3,Braveheart,1995,178,Mel Gibson,"Mel Gibson, Sophie Marceau, Patrick McGoohan","Biography, Drama, War",8.3
+4,Toy Story,1995,81,John Lasseter,"Tom Hanks, Tim Allen, Don Rickles","Animation, Adventure, Comedy",8.3
+5,Heat,1995,170,Michael Mann,"Al Pacino, Robert De Niro, Val Kilmer","Action, Crime, Drama",8.3
+6,12 Monkeys,1995,129,Terry Gilliam,"Bruce Willis, Madeleine Stowe, Brad Pitt","Mystery, Sci-Fi, Thriller",8.0
+7,Casino,1995,178,Martin Scorsese,"Robert De Niro, Sharon Stone, Joe Pesci","Crime, Drama",8.2
+8,Die Hard with a Vengeance,1995,128,John McTiernan,"Bruce Willis, Jeremy Irons, Samuel L. Jackson","Action, Adventure, Thriller",7.6
+9,Jumanji,1995,104,Joe Johnston,"Robin Williams, Kirsten Dunst, Bonnie Hunt","Adventure, Comedy, Family",7.1
+10,Before Sunrise,1995,101,Richard Linklater,"Ethan Hawke, Julie Delpy, Andrea Eckert","Comedy, Drama, Romance",8.1
+11,Apollo 13,1995,140,Ron Howard,"Tom Hanks, Bill Paxton, Kevin Bacon","Adventure, Drama, History",7.7
+12,Bad Boys,1995,119,Michael Bay,"Will Smith, Martin Lawrence, Lisa Boyle","Action, Comedy, Crime",6.8
+13,GoldenEye,1995,130,Martin Campbell,"Pierce Brosnan, Sean Bean, Izabella Scorupco","Action, Adventure, Thriller",7.2
+14,Batman Forever,1995,121,Joel Schumacher,"Val Kilmer, Tommy Lee Jones, Jim Carrey","Action, Adventure",5.4
+15,Clueless,1995,97,Amy Heckerling,"Alicia Silverstone, Stacey Dash, Brittany Murphy","Comedy, Romance",6.9
+16,Ace Ventura: When Nature Calls,1995,90,Steve Oedekerk,"Jim Carrey, Ian McNeice, Simon Callow","Adventure, Comedy, Crime",6.4
+17,Waterworld,1995,135,Kevin Reynolds,"Kevin Costner, Jeanne Tripplehorn, Dennis Hopper","Action, Adventure, Sci-Fi",6.3
+18,La haine,1995,98,Mathieu Kassovitz,"Vincent Cassel, Hubert Koundé, Saïd Taghmaoui","Crime, Drama",8.1
+19,Pocahontas,1995,81,"Mike Gabriel, Eric Goldberg","Mel Gibson, Linda Hunt, Christian Bale","Animation, Adventure, Drama",6.7
+20,Desperado,1995,104,Robert Rodriguez,"Antonio Banderas, Salma Hayek, Joaquim de Almeida","Action, Crime, Drama",7.1
+21,Ghost in the Shell,1995,83,Mamoru Oshii,"Atsuko Tanaka, Iemasa Kayumi, Akio Ôtsuka","Animation, Action, Crime",7.9
+22,Billy Madison,1995,89,Tamra Davis,"Adam Sandler, Darren McGavin, Bridgette Wilson-Sampras",Comedy,6.4
+23,Casper,1995,100,Brad Silberling,"Bill Pullman, Christina Ricci, Cathy Moriarty","Comedy, Family, Fantasy",6.2
+24,Outbreak,1995,127,Wolfgang Petersen,"Dustin Hoffman, Rene Russo, Morgan Freeman","Action, Drama, Thriller",6.6
+25,Leaving Las Vegas,1995,111,Mike Figgis,"Nicolas Cage, Elisabeth Shue, Julian Sands","Drama, Romance",7.5
+26,Babe,1995,91,Chris Noonan,"James Cromwell, Magda Szubanski, Christine Cavanaugh","Comedy, Drama, Family",6.9
+27,Mallrats,1995,94,Kevin Smith,"Shannen Doherty, Jeremy London, Jason Lee","Comedy, Romance",7.0
+28,Sense and Sensibility,1995,136,Ang Lee,"Emma Thompson, Kate Winslet, James Fleet","Drama, Romance",7.7
+29,Friday,1995,91,F. Gary Gray,"Ice Cube, Chris Tucker, Nia Long","Comedy, Drama",7.2
+30,Crimson Tide,1995,116,Tony Scott,"Gene Hackman, Denzel Washington, Matt Craven","Action, Drama, Thriller",7.4
+31,Judge Dredd,1995,96,Danny Cannon,"Sylvester Stallone, Armand Assante, Rob Schneider","Action, Crime, Sci-Fi",5.6
+32,Mortal Kombat,1995,101,Paul W.S. Anderson,"Christopher Lambert, Robin Shou, Linden Ashby","Action, Adventure, Fantasy",5.8
+33,The Basketball Diaries,1995,102,Scott Kalvert,"Leonardo DiCaprio, Lorraine Bracco, Marilyn Sokol","Biography, Crime, Drama",7.3
+34,While You Were Sleeping,1995,103,Jon Turteltaub,"Sandra Bullock, Bill Pullman, Peter Gallagher","Comedy, Drama, Romance",6.8
+35,Four Rooms,1995,98,"Allison Anders, Alexandre Rockwell, Robert Rodriguez","Tim Roth, Antonio Banderas, Sammi Davis",Comedy,6.7
+36,The Quick and the Dead,1995,108,Sam Raimi,"Sharon Stone, Gene Hackman, Russell Crowe","Action, Drama, Romance",6.5
+37,Dead Man,1995,121,Jim Jarmusch,"Johnny Depp, Gary Farmer, Crispin Glover","Adventure, Drama, Western",7.5
+38,Dead Man Walking,1995,122,Tim Robbins,"Susan Sarandon, Sean Penn, Robert Prosky","Crime, Drama",7.5
+39,Tommy Boy,1995,97,Peter Segal,"Chris Farley, David Spade, Brian Dennehy","Adventure, Comedy",7.1
+40,Get Shorty,1995,105,Barry Sonnenfeld,"Gene Hackman, Rene Russo, Danny DeVito","Comedy, Crime, Thriller",6.9
+41,The Bridges of Madison County,1995,135,Clint Eastwood,"Clint Eastwood, Meryl Streep, Annie Corley","Drama, Romance",7.6
+42,Assassins,1995,133,Richard Donner,"Sylvester Stallone, Antonio Banderas, Julianne Moore","Action, Crime, Thriller",6.3
+43,Species,1995,108,Roger Donaldson,"Natasha Henstridge, Michael Madsen, Ben Kingsley","Action, Horror, Sci-Fi",5.9
+44,Kids,1995,91,Larry Clark,"Leo Fitzpatrick, Justin Pierce, Chloë Sevigny",Drama,7.0
+45,Strange Days,1995,145,Kathryn Bigelow,"Ralph Fiennes, Angela Bassett, Juliette Lewis","Crime, Drama, Sci-Fi",7.2
+46,First Knight,1995,134,Jerry Zucker,"Sean Connery, Richard Gere, Julia Ormond","Action, Adventure, Drama",6.0
+47,Dilwale Dulhania Le Jayenge,1995,181,Aditya Chopra,"Shah Rukh Khan, Kajol, Amrish Puri","Drama, Romance",8.0
+48,Johnny Mnemonic,1995,96,Robert Longo,"Keanu Reeves, Dolph Lundgren, Dina Meyer","Action, Drama, Sci-Fi",5.6
+49,Whisper of the Heart,1995,111,Yoshifumi Kondô,"Yoko Honna, Issei Takahashi, Takashi Tachibana","Animation, Drama, Family",7.8
+50,Showgirls,1995,128,Paul Verhoeven,"Elizabeth Berkley, Kyle MacLachlan, Gina Gershon",Drama,5.1
+51,Hackers,1995,105,Iain Softley,"Jonny Lee Miller, Angelina Jolie, Jesse Bradford","Crime, Drama, Romance",6.2
+52,The Net,1995,114,Irwin Winkler,"Sandra Bullock, Jeremy Northam, Dennis Miller","Action, Crime, Drama",6.0
+53,The City of Lost Children,1995,112,"Marc Caro, Jean-Pierre Jeunet","Ron Perlman, Daniel Emilfork, Judith Vittet","Adventure, Drama, Fantasy",7.4
+54,Copycat,1995,123,Jon Amiel,"Sigourney Weaver, Holly Hunter, Dermot Mulroney","Drama, Mystery, Thriller",6.6
+55,A Goofy Movie,1995,78,Kevin Lima,"Bill Farmer, Jason Marsden, Jim Cummings","Animation, Adventure, Comedy",6.9
+56,Empire Records,1995,90,Allan Moyle,"Anthony LaPaglia, Debi Mazar, Maxwell Caulfield","Comedy, Drama, Music",6.7
+57,Underground,1995,167,Emir Kusturica,"Predrag 'Miki' Manojlovic, Lazar Ristovski, Mirjana Jokovic","Comedy, Drama, Fantasy",8.0
+58,The American President,1995,114,Rob Reiner,"Michael Douglas, Annette Bening, Martin Sheen","Comedy, Drama, Romance",6.8
+59,Dangerous Minds,1995,99,John N. Smith,"Michelle Pfeiffer, George Dzundza, Courtney B. Vance","Biography, Drama",6.5
+60,To Die For,1995,106,Gus Van Sant,"Nicole Kidman, Matt Dillon, Joaquin Phoenix","Comedy, Crime, Drama",6.8
+61,Fallen Angels,1995,99,Wong Kar-Wai,"Leon Lai, Michelle Reis, Takeshi Kaneshiro","Comedy, Crime, Drama",7.5
+62,French Kiss,1995,111,Lawrence Kasdan,"Meg Ryan, Kevin Kline, Timothy Hutton","Comedy, Drama, Romance",6.6
+63,Under Siege 2: Dark Territory,1995,100,Geoff Murphy,"Steven Seagal, Eric Bogosian, Everett McGill","Action, Adventure, Thriller",5.6
+64,Dolores Claiborne,1995,132,Taylor Hackford,"Kathy Bates, Jennifer Jason Leigh, Christopher Plummer","Crime, Drama, Mystery",7.4
+65,Congo,1995,109,Frank Marshall,"Laura Linney, Tim Curry, Dylan Walsh","Action, Adventure, Mystery",5.3
+66,Balto,1995,78,Simon Wells,"Kevin Bacon, Bob Hoskins, Bridget Fonda","Animation, Adventure, Drama",7.1
+67,Rumble in the Bronx,1995,87,Stanley Tong,"Jackie Chan, Anita Mui, Françoise Yip","Action, Comedy, Crime",6.8
+68,Rob Roy,1995,139,Michael Caton-Jones,"Liam Neeson, Jessica Lange, John Hurt","Adventure, Biography, Drama",6.9
+69,Dracula: Dead and Loving It,1995,88,Mel Brooks,"Leslie Nielsen, Mel Brooks, Peter MacNicol","Comedy, Fantasy, Horror",5.8
+70,Nick of Time,1995,89,John Badham,"Johnny Depp, Christopher Walken, Courtney Chase","Action, Crime, Drama",6.3
+71,Sabrina,1995,127,Sydney Pollack,"Harrison Ford, Julia Ormond, Greg Kinnear","Comedy, Drama, Romance",6.3
+72,Halloween: The Curse of Michael Myers,1995,87,Joe Chappelle,"Donald Pleasence, Paul Rudd, Marianne Hagan","Horror, Thriller",4.7
+73,Money Train,1995,110,Joseph Ruben,"Wesley Snipes, Woody Harrelson, Jennifer Lopez","Action, Comedy, Crime",5.7
+74,Mighty Aphrodite,1995,95,Woody Allen,"Woody Allen, Mira Sorvino, Pamela Blair","Comedy, Fantasy, Romance",7.0
+75,Father of the Bride Part II,1995,106,Charles Shyer,"Steve Martin, Diane Keaton, Martin Short","Comedy, Family, Romance",6.1
+76,Mr. Holland's Opus,1995,144,Stephen Herek,"Richard Dreyfuss, Glenne Headly, Jay Thomas","Drama, Music",7.3
+77,Major Payne,1995,95,Nick Castle,"Damon Wayans, Michael Ironside, Bam Bam Bigelow","Adventure, Comedy, Family",6.3
+78,Nine Months,1995,103,Chris Columbus,"Hugh Grant, Julianne Moore, Tom Arnold","Comedy, Romance",5.5
+79,Smoke,1995,112,Wayne Wang,"Harvey Keitel, William Hurt, Giancarlo Esposito","Comedy, Drama",7.4
+80,"To Wong Foo, Thanks for Everything! Julie Newmar",1995,109,Beeban Kidron,"Wesley Snipes, Patrick Swayze, John Leguizamo","Comedy, Drama",6.8
+81,Welcome to the Dollhouse,1995,88,Todd Solondz,"Heather Matarazzo, Christina Brucato, Victoria Davis","Comedy, Drama",7.3
+82,Sudden Death,1995,111,Peter Hyams,"Jean-Claude Van Damme, Powers Boothe, Raymond J. Barry","Action, Crime, Thriller",5.9
+83,A Little Princess,1995,97,Alfonso Cuarón,"Liesel Matthews, Eleanor Bron, Liam Cunningham","Drama, Family, Fantasy",7.6
+84,A Walk in the Clouds,1995,102,Alfonso Arau,"Keanu Reeves, Aitana Sánchez-Gijón, Anthony Quinn","Drama, Romance",6.7
+85,Tank Girl,1995,104,Rachel Talalay,"Lori Petty, Ice-T, Naomi Watts","Action, Comedy, Sci-Fi",5.4
+86,Village of the Damned,1995,98,John Carpenter,"Christopher Reeve, Kirstie Alley, Linda Kozlowski","Horror, Sci-Fi, Thriller",5.6
+87,The Prophecy,1995,98,Gregory Widen,"Christopher Walken, Elias Koteas, Virginia Madsen","Action, Crime, Drama",6.4
+88,Now and Then,1995,102,Lesli Linka Glatter,"Christina Ricci, Demi Moore, Rosie O'Donnell","Comedy, Drama, Romance",6.8
+89,Powder,1995,111,Victor Salva,"Mary Steenburgen, Sean Patrick Flanery, Lance Henriksen","Drama, Fantasy, Mystery",6.6
+90,Virtuosity,1995,106,Brett Leonard,"Denzel Washington, Russell Crowe, Kelly Lynch","Action, Crime, Sci-Fi",5.5
+91,Nixon,1995,192,Oliver Stone,"Anthony Hopkins, Joan Allen, Powers Boothe","Biography, Drama, History",7.0
+92,The Indian in the Cupboard,1995,96,Frank Oz,"Hal Scardino, Litefoot, Lindsay Crouse","Drama, Family, Fantasy",6.0
+93,Heavyweights,1995,97,Steven Brill,"Tom McGowan, Aaron Schwartz, Ben Stiller","Comedy, Drama, Family",6.6
+94,Cutthroat Island,1995,124,Renny Harlin,"Geena Davis, Matthew Modine, Frank Langella","Action, Adventure, Comedy",5.7
+95,Murder in the First,1995,122,Marc Rocco,"Christian Slater, Kevin Bacon, Gary Oldman","Drama, Thriller",7.3
+96,Just Cause,1995,102,Arne Glimcher,"Sean Connery, Laurence Fishburne, Kate Capshaw","Action, Crime, Drama",6.4
+97,Mighty Morphin Power Rangers,1995,95,Bryan Spicer,"Karan Ashley, Johnny Yong Bosch, Steve Cardenas","Action, Adventure, Family",5.3
+98,Grumpier Old Men,1995,101,Howard Deutch,"Walter Matthau, Jack Lemmon, Ann-Margret","Comedy, Romance",6.7
+99,Things to Do in Denver When You're Dead,1995,115,Gary Fleder,"Andy Garcia, Christopher Walken, Christopher Lloyd","Crime, Drama, Thriller",6.7
+100,Screamers,1995,108,Christian Duguay,"Peter Weller, Roy Dupuis, Jennifer Rubin","Horror, Sci-Fi, Thriller",6.3
+101,Tales from the Crypt: Demon Knight,1995,92,Ernest R. Dickerson,"Billy Zane, William Sadler, Jada Pinkett Smith","Action, Fantasy, Horror",6.7
+102,It Takes Two,1995,101,Andy Tennant,"Kirstie Alley, Steve Guttenberg, Mary-Kate Olsen","Comedy, Family, Romance",6.0
+103,Devil in a Blue Dress,1995,102,Carl Franklin,"Denzel Washington, Tom Sizemore, Jennifer Beals","Crime, Drama, Mystery",6.8
+104,Vampire in Brooklyn,1995,100,Wes Craven,"Eddie Murphy, Angela Bassett, Allen Payne","Comedy, Fantasy, Horror",4.7
+105,Dead Presidents,1995,119,"Albert Hughes, Allen Hughes","Larenz Tate, Keith David, Chris Tucker","Action, Crime, Drama",6.9
+106,The Brady Bunch Movie,1995,90,Betty Thomas,"Shelley Long, Gary Cole, Christine Taylor",Comedy,6.2
+107,The Day of the Beast,1995,99,Álex de la Iglesia,"Álex Angulo, Armando De Razza, Santiago Segura","Action, Comedy, Crime",7.3
+108,Clockers,1995,128,Spike Lee,"Harvey Keitel, John Turturro, Delroy Lindo","Crime, Drama, Mystery",6.9
+109,Memories,1995,113,"Katsuhiro Ôtomo, Kôji Morimoto, Tensai Okamura","Tsutomu Isobe, Shôzô Îzuka, Kôichi Yamadera","Animation, Drama, Horror",7.5
+110,Higher Learning,1995,128,John Singleton,"Omar Epps, Kristy Swanson, Michael Rapaport","Crime, Drama, Thriller",6.5
+111,Living in Oblivion,1995,90,Tom DiCillo,"Steve Buscemi, Catherine Keener, Dermot Mulroney","Comedy, Drama",7.5
+112,Kiss of Death,1995,101,Barbet Schroeder,"David Caruso, Samuel L. Jackson, Nicolas Cage","Crime, Drama, Thriller",6.0
+113,Lord of Illusions,1995,109,Clive Barker,"Scott Bakula, Kevin J. O'Connor, J. Trevor Edmond","Horror, Mystery, Thriller",6.0
+114,Free Willy 2: The Adventure Home,1995,95,Dwight H. Little,"Jason James Richter, Michael Madsen, Francis Capra","Adventure, Drama, Family",5.1
+115,The Grass Harp,1995,107,Charles Matthau,"Piper Laurie, Sissy Spacek, Walter Matthau","Comedy, Drama",6.6
+116,The Englishman Who Went Up a Hill But Came Down a Mountain,1995,99,Christopher Monger,"Hugh Grant, Tara Fitzgerald, Colm Meaney","Comedy, Drama, Romance",6.6
+117,The Doom Generation,1995,83,Gregg Araki,"James Duval, Rose McGowan, Johnathon Schaech","Comedy, Crime, Drama",6.2
+118,Canadian Bacon,1995,91,Michael Moore,"John Candy, Alan Alda, Rhea Perlman","Action, Comedy",5.9
+119,Safe,1995,119,Todd Haynes,"Julianne Moore, Xander Berkeley, Dean Norris",Drama,7.1
+120,Total Eclipse,1995,111,Agnieszka Holland,"Leonardo DiCaprio, David Thewlis, Romane Bohringer","Biography, Drama, Romance",6.4
+121,The Scarlet Letter,1995,135,Roland Joffé,"Demi Moore, Gary Oldman, Robert Duvall","Drama, Romance",5.3
+122,Karan Arjun,1995,175,Rakesh Roshan,"Rakhee Gulzar, Salman Khan, Shah Rukh Khan","Action, Drama, Fantasy",6.8
+123,Something to Talk About,1995,106,Lasse Hallström,"Julia Roberts, Dennis Quaid, Robert Duvall","Comedy, Drama, Romance",5.8
+124,The Last Supper,1995,92,Stacy Title,"Cameron Diaz, Ron Eldard, Annabeth Gish","Comedy, Crime, Drama",6.7
+125,Richard III,1995,104,Richard Loncraine,"Ian McKellen, Annette Bening, Christopher Bowen","Drama, Sci-Fi, War",7.3
+126,Kicking and Screaming,1995,96,Noah Baumbach,"Josh Hamilton, Eric Stoltz, Samuel Gould","Comedy, Drama, Romance",6.7
+127,Home for the Holidays,1995,103,Jodie Foster,"Holly Hunter, Anne Bancroft, Robert Downey Jr.","Comedy, Drama, Romance",6.6
+128,Candyman: Farewell to the Flesh,1995,95,Bill Condon,"Tony Todd, Kelly Rowan, Caroline Barclay","Horror, Thriller",5.3
+129,The Crossing Guard,1995,111,Sean Penn,"Jack Nicholson, David Morse, Anjelica Huston","Drama, Thriller",6.3
+130,Jade,1995,95,William Friedkin,"David Caruso, Linda Fiorentino, Chazz Palminteri","Crime, Drama, Thriller",5.3
+131,Boys on the Side,1995,115,Herbert Ross,"Whoopi Goldberg, Mary-Louise Parker, Drew Barrymore","Comedy, Drama",6.5
+132,The Ceremony,1995,111,Claude Chabrol,"Isabelle Huppert, Sandrine Bonnaire, Jacqueline Bisset","Crime, Drama, Thriller",7.5
+133,Fair Game,1995,91,Andrew Sipes,"William Baldwin, Cindy Crawford, Steven Berkoff","Action, Romance, Thriller",4.4
+134,Bombay,1995,130,Mani Ratnam,"Arvind Swamy, Manisha Koirala, Nassar","Drama, Romance",8.1
+135,Crying Freeman,1995,102,Christophe Gans,"Julie Condra, Kevan Ohtsji, Mark Dacascos","Action, Crime, Thriller",6.4
+136,The Pillow Book,1995,126,Peter Greenaway,"Vivian Wu, Ewan McGregor, Yoshi Oida",Drama,6.5
+137,Forget Paris,1995,101,Billy Crystal,"Billy Crystal, Debra Winger, Joe Mantegna","Comedy, Romance",6.5
+138,The Flower of My Secret,1995,103,Pedro Almodóvar,"Marisa Paredes, Juan Echanove, Carme Elias","Comedy, Drama",7.0
+139,Dragon Ball Z: Fusion Reborn,1995,51,Shigeyasu Yamauchi,"Masako Nozawa, Ryô Horikawa, Takeshi Kusao","Animation, Action, Sci-Fi",7.6
+140,Waiting to Exhale,1995,124,Forest Whitaker,"Whitney Houston, Angela Bassett, Loretta Devine","Comedy, Drama, Romance",6.0
+141,How to Make an American Quilt,1995,117,Jocelyn Moorhouse,"Winona Ryder, Ellen Burstyn, Anne Bancroft","Comedy, Drama, Romance",6.3
+142,Land and Freedom,1995,109,Ken Loach,"Ian Hart, Rosana Pastor, Icíar Bollaín","Drama, War",7.5
+143,The Addiction,1995,82,Abel Ferrara,"Lili Taylor, Christopher Walken, Annabella Sciorra","Drama, Horror",6.5
+144,Love Letter,1995,117,Shunji Iwai,"Miho Nakayama, Etsushi Toyokawa, Bunjaku Han","Drama, Romance",7.9
+145,Baasha,1995,145,Suresh Krishna,"Rajinikanth, Nagma, Raghuvaran","Action, Crime, Drama",8.3
+146,Tom and Huck,1995,97,Peter Hewitt,"Jonathan Taylor Thomas, Brad Renfro, Charles Rocket","Adventure, Drama, Family",5.5
+147,The Big Green,1995,100,Holly Goldberg Sloan,"Steve Guttenberg, Olivia d'Abo, Jay O. Sanders","Comedy, Family, Sport",5.5
+148,The Cure,1995,97,Peter Horton,"Joseph Mazzello, Brad Renfro, Aeryk Egan","Adventure, Drama",7.7
+149,Man of the House,1995,96,James Orr,"Chevy Chase, Farrah Fawcett, Jonathan Taylor Thomas","Comedy, Family",5.3
+150,Rangeela,1995,142,Ram Gopal Varma,"Aamir Khan, Urmila Matondkar, Jackie Shroff","Comedy, Drama, Musical",7.4
+151,Lawnmower Man 2: Beyond Cyberspace,1995,93,Farhad Mann,"Patrick Bergin, Matt Frewer, Austin O'Brien","Action, Sci-Fi, Thriller",2.6
+152,Thunderbolt,1995,110,Gordon Chan,"Jackie Chan, Anita Yuen, Michael Wong","Action, Crime, Thriller",6.3
+153,Dragon Ball Z: Wrath of the Dragon,1995,52,Mitsuo Hashimoto,"Masako Nozawa, Takeshi Kusao, Mayumi Tanaka","Animation, Action, Sci-Fi",7.4
+154,Othello,1995,123,Oliver Parker,"Laurence Fishburne, Kenneth Branagh, Irène Jacob","Drama, Romance",6.8
+155,Blue in the Face,1995,83,"Paul Auster, Wayne Wang, Harvey Wang","Harvey Keitel, Lou Reed, Michael J. Fox",Comedy,6.6
+156,The Mangler,1995,106,Tobe Hooper,"Robert Englund, Ted Levine, Daniel Matmor","Drama, Horror, Mystery",4.4
+157,Tales from the Hood,1995,98,Rusty Cundieff,"Clarence Williams III, Corbin Bernsen, Joe Torry","Crime, Drama, Horror",6.5
+158,Restoration,1995,117,Michael Hoffman,"Robert Downey Jr., Sam Neill, David Thewlis","Biography, Drama, History",6.6
+159,Operation Dumbo Drop,1995,107,Simon Wincer,"Danny Glover, Ray Liotta, Denis Leary","Action, Adventure, Comedy",5.2
+160,Antonia's Line,1995,102,Marleen Gorris,"Willeke van Ammelrooy, Jan Decleir, Veerle van Overloop","Comedy, Drama",7.4
+161,Circle of Friends,1995,103,Pat O'Connor,"Chris O'Donnell, Minnie Driver, Geraldine O'Rawe","Drama, Romance",6.6
+162,A Chinese Odyssey: Part 2 - Cinderella,1995,98,Jeffrey Lau,"Stephen Chow, Man-Tat Ng, Athena Chu","Action, Adventure, Comedy",7.8
+163,Jury Duty,1995,88,John Fortenberry,"Pauly Shore, Tia Carrere, Stanley Tucci",Comedy,4.3
+164,A Chinese Odyssey: Part One - Pandora's Box,1995,87,Jeffrey Lau,"Stephen Chow, Man-Tat Ng, Kar-Ying Law","Action, Adventure, Comedy",7.5
+165,Children of the Corn III: Urban Harvest,1995,92,James D.R. Hickox,"Daniel Cerny, Ron Melendez, Jim Metzler","Horror, Thriller",4.3
+166,The White Balloon,1995,85,Jafar Panahi,"Aida Mohammadkhani, Mohsen Kafili, Fereshteh Sadre Orafaiy","Drama, Family",7.6
+167,The Brothers McMullen,1995,98,Edward Burns,"Jack Mulcahy, Michael McGlone, Edward Burns","Comedy, Drama, Romance",6.6
+168,Wild Bill,1995,97,Walter Hill,"Jeff Bridges, Ellen Barkin, John Hurt","Action, Biography, Drama",5.8
+169,All Things Fair,1995,130,Bo Widerberg,"Johan Widerberg, Marika Lagercrantz, Tomas von Brömssen","Drama, Romance, War",6.8
+170,Godzilla vs. Destoroyah,1995,103,"Takao Okawara, Ishirô Honda, Kôji Hashimoto","Takurô Tatsumi, Yôko Ishino, Yasufumi Hayashi","Action, Drama, Horror",6.9
+171,Party Girl,1995,94,Daisy von Scherler Mayer,"Parker Posey, Omar Townsend, The Lady Bunny","Comedy, Drama, Romance",6.5
+172,Maborosi,1995,110,Hirokazu Koreeda,"Makiko Esumi, Takashi Naitô, Tadanobu Asano",Drama,7.5
+173,Fluke,1995,96,Carlo Carlei,"Matthew Modine, Nancy Travis, Samuel L. Jackson","Drama, Family, Fantasy",6.6
+174,Hideaway,1995,106,Brett Leonard,"Jeff Goldblum, Christine Lahti, Alicia Silverstone","Fantasy, Horror, Thriller",5.3
+175,Les trois frères,1995,105,"Didier Bourdon, Bernard Campan","Didier Bourdon, Bernard Campan, Pascal Légitimus",Comedy,7.2
+176,Houseguest,1995,113,Randall Miller,"Sinbad, Phil Hartman, Kim Greist",Comedy,5.9
+177,I.D.,1995,107,Phil Davis,"Reece Dinsdale, Richard Graham, Perry Fenwick","Crime, Drama",7.3
+178,The Celluloid Closet,1995,102,"Rob Epstein, Jeffrey Friedman","Lily Tomlin, Tony Curtis, Susie Bright","Documentary, History",7.8
+179,Ulysses' Gaze,1995,176,Theodoros Angelopoulos,"Harvey Keitel, Maia Morgenstern, Erland Josephson","Drama, War",7.6
+180,When Night Is Falling,1995,94,Patricia Rozema,"Pascale Bussières, Rachael Crawford, Henry Czerny","Drama, Romance",6.5
+181,Never Talk to Strangers,1995,86,Peter Hall,"Rebecca De Mornay, Antonio Banderas, Dennis Miller","Crime, Drama, Mystery",5.2
+182,Haunted,1995,108,Lewis Gilbert,"Aidan Quinn, Kate Beckinsale, Anthony Andrews","Drama, Horror",6.2
+183,Mute Witness,1995,95,Anthony Waller,"Marina Zudina, Fay Ripley, Evan Richards","Crime, Horror, Thriller",6.7
+184,Spadikam,1995,150,Bhadran,"Mohanlal, Thilakan, Urvashi","Action, Drama",8.6
+185,Angus,1995,90,Patrick Read Johnson,"Charlie Talbert, George C. Scott, Kathy Bates","Comedy, Drama",6.7
+186,Embrace of the Vampire,1995,92,Anne Goursaud,"Martin Kemp, Rebecca Ferratti, Alyssa Milano","Horror, Thriller",4.4
+187,Mad Love,1995,93,Antonia Bird,"Chris O'Donnell, Drew Barrymore, Matthew Lillard","Comedy, Drama, Romance",5.4
+188,Bushwhacked,1995,90,Greg Beeman,"Daniel Stern, Jon Polito, Brad Sullivan","Adventure, Comedy, Crime",5.6
+189,A Kid in King Arthur's Court,1995,89,Michael Gottlieb,"Thomas Ian Nicholas, Joss Ackland, Art Malik","Adventure, Comedy, Family",4.7
+190,Jeffrey,1995,92,Christopher Ashley,"Steven Weber, Michael T. Weiss, Peter Jacobson","Comedy, Drama",6.8
+191,The Baby-Sitters Club,1995,94,Melanie Mayron,"Schuyler Fisk, Bre Blair, Rachael Leigh Cook","Comedy, Drama, Family",5.7
+192,Losing Isaiah,1995,111,Stephen Gyllenhaal,"Jessica Lange, Halle Berry, David Strathairn",Drama,6.4
+193,Bye Bye Love,1995,106,Sam Weisman,"Matthew Modine, Randy Quaid, Paul Reiser","Comedy, Drama, Romance",6.2
+194,National Lampoon's Senior Trip,1995,91,Kelly Makin,"Matt Frewer, Valerie Mahaffey, Lawrence Dane","Adventure, Comedy",5.6
+195,3 Ninjas: Knuckle Up,1995,85,Shin Sang-ok,"Victor Wong, Charles Napier, Michael Treanor","Action, Comedy, Family",4.4
+196,The Horseman on the Roof,1995,118,Jean-Paul Rappeneau,"Olivier Martinez, Juliette Binoche, Pierre Arditi","Adventure, Drama, Romance",7.0
+197,Beyond the Clouds,1995,110,"Michelangelo Antonioni, Wim Wenders","Fanny Ardant, Chiara Caselli, Irène Jacob","Drama, Romance",6.4
+198,Last of the Dogmen,1995,118,Tab Murphy,"Tom Berenger, Barbara Hershey, Kurtwood Smith","Adventure, Western",6.9
+199,The Babysitter,1995,90,Guy Ferland,"Alicia Silverstone, Jeremy London, J.T. Walsh","Drama, Thriller",4.3
+200,Shanghai Triad,1995,108,Yimou Zhang,"Gong Li, Baotian Li, Xiaoxiao Wang","Crime, Drama, History",7.1
+201,Two Much,1995,118,Fernando Trueba,"Antonio Banderas, Melanie Griffith, Daryl Hannah","Comedy, Romance",5.4
+202,Heavy,1995,105,James Mangold,"Pruitt Taylor Vince, Liv Tyler, Shelley Winters","Drama, Romance",6.7
+203,Coolie No. 1,1995,143,David Dhawan,"Govinda, Karisma Kapoor, Harish","Action, Comedy, Romance",6.6
+204,Carrington,1995,121,Christopher Hampton,"Emma Thompson, Jonathan Pryce, Steven Waddington","Biography, Drama, Romance",6.8
+205,The Hunted,1995,110,J.F. Lawton,"Christopher Lambert, John Lone, Joan Chen","Action, Drama, Thriller",5.9
+206,The Pebble and the Penguin,1995,74,"Don Bluth, Gary Goldman","Martin Short, Jim Belushi, Annie Golden","Animation, Adventure, Comedy",5.5
+207,Cyclo,1995,123,Anh Hung Tran,"Le Van Loc, Tony Leung Chiu-wai, Nu Yên-Khê Tran","Crime, Drama",7.1
+208,Akele Hum Akele Tum,1995,160,Mansoor Khan,"Aamir Khan, Manisha Koirala, Master Adil","Drama, Musical, Romance",6.9
+209,Jack & Sarah,1995,110,Tim Sullivan,"Richard E. Grant, Samantha Mathis, Judi Dench","Comedy, Drama, Romance",6.6
+210,My Father Is a Hero,1995,104,Corey Yuen,"Jet Li, Anita Mui, Miao Xie","Action, Crime, Drama",6.5
+211,The Star Maker,1995,113,Giuseppe Tornatore,"Sergio Castellitto, Tiziana Lodato, Franco Scaldati","Drama, Romance",7.3
+212,Beyond Rangoon,1995,100,John Boorman,"Patricia Arquette, U Aung Ko, Frances McDormand","Action, Adventure, Drama",6.5
+213,The Incredibly True Adventure of Two Girls in Love,1995,94,Maria Maggenti,"Laurel Holloman, Nicole Ari Parker, Maggie Moore","Comedy, Drama, Romance",6.6
+214,French Twist,1995,104,Josiane Balasko,"Victoria Abril, Josiane Balasko, Alain Chabat","Comedy, Drama, Romance",6.4
+215,White Man's Burden,1995,89,Desmond Nakano,"John Travolta, Harry Belafonte, Kelly Lynch","Drama, Thriller",5.3
+216,Nelly & Monsieur Arnaud,1995,106,Claude Sautet,"Emmanuelle Béart, Michel Serrault, Jean-Hugues Anglade",Drama,7.2
+217,Gold Diggers: The Secret of Bear Mountain,1995,93,Kevin James Dobson,"Christina Ricci, Anna Chlumsky, Polly Draper","Adventure, Drama, Family",6.0
+218,Redhat and Cousin,1995,92,Iraj Tahmasb,"Morteza Ahmadi, Mehdi Batebi, Akbar Doodkar","Adventure, Comedy, Family",8.1
+219,Theodore Rex,1995,92,Jonathan R. Betuel,"Whoopi Goldberg, Armin Mueller-Stahl, Juliet Landau","Action, Comedy, Family",2.4
+220,Angels and Insects,1995,116,Philip Haas,"Mark Rylance, Kristin Scott Thomas, Patsy Kensit","Drama, Romance",6.8
+221,Peculiarities of the National Hunt,1995,93,Aleksandr Rogozhkin,"Ville Haapasalo, Viktor Bychkov, Sergey Russkin",Comedy,7.4
+222,Kuruthipunal,1995,143,P.C. Sreeram,"Kamal Haasan, Arjun Sarja, Nassar","Action, Drama, Thriller",8.5
+223,High Risk,1995,101,"Jing Wong, Wai-Lun Lam","Jet Li, Chingmy Yau, Jacky Cheung","Action, Comedy, Crime",6.1
+224,Sabse Bada Khiladi,1995,162,Umesh Mehra,"Akshay Kumar, Mamta Kulkarni, Mohnish Behl","Action, Crime, Thriller",5.9
+225,My Family,1995,128,Gregory Nava,"Jimmy Smits, Esai Morales, Edward James Olmos",Drama,7.3
+226,Ram Jaane,1995,122,Rajiv Mehra,"Shah Rukh Khan, Juhi Chawla, Vivek Mushran","Action, Crime, Drama",5.4
+227,The Amazing Panda Adventure,1995,84,Christopher Cain,"Stephen Lang, Ryan Slater, Yi Ding","Adventure, Drama, Family",5.7
+228,Twin Sitters,1995,93,John Paragon,"Peter Paul, David Paul, Christian Cousins","Comedy, Family, Thriller",6.0
+229,Tall Tale,1995,96,Jeremiah S. Chechik,"Patrick Swayze, Oliver Platt, Roger Aaron Brown","Adventure, Family, Fantasy",5.9
+230,The Passion of Darkly Noon,1995,101,Philip Ridley,"Brendan Fraser, Ashley Judd, Viggo Mortensen","Drama, Mystery, Thriller",5.8
+231,"Gamera, the Guardian of the Universe",1995,96,Shûsuke Kaneko,"Tsuyoshi Ihara, Akira Onodera, Shinobu Nakayama","Action, Drama, Fantasy",6.7
+232,Tokyo Fist,1995,87,Shin'ya Tsukamoto,"Kaori Fujii, Shin'ya Tsukamoto, Kôji Tsukamoto","Action, Drama, Horror",7.0
+233,Moonlight and Valentino,1995,105,David Anspaugh,"Elizabeth Perkins, Whoopi Goldberg, Kathleen Turner","Comedy, Drama, Romance",5.7
+234,Om,1995,150,Upendra,"Shivarajkumar, Prema, Sadhu Kokila","Action, Crime, Drama",8.9
+235,Les Misérables,1995,175,Claude Lelouch,"Jean-Paul Belmondo, Michel Boujenah, Alessandra Martines","Comedy, Drama, History",7.4
+236,Coldblooded,1995,92,Wallace Wolodarsky,"Jason Priestley, Kimberly Williams-Paisley, Peter Riegert","Action, Comedy, Thriller",6.7
+237,Evil Ed,1995,93,Anders Jacobsson,"Michael Kallaanvaara, Olof Rhodin, Hans Wilhelmsson","Comedy, Horror",5.5
+238,Nothing Funny,1995,95,Marek Koterski,"Cezary Pazura, Marek Kondrat, Ewa Blaszczyk","Comedy, Drama",7.3
+239,Top Dog,1995,86,Aaron Norris,"Chuck Norris, Michele Lamar Richards, Erik von Detten","Action, Comedy, Crime",4.2
+240,The Underneath,1995,99,Steven Soderbergh,"Peter Gallagher, Elisabeth Shue, Alison Elliott","Crime, Thriller",6.1
+241,Funny Bones,1995,128,Peter Chelsom,"Jerry Lewis, Oliver Platt, Lee Evans","Comedy, Drama",6.7
+242,The Young Poisoner's Handbook,1995,99,Benjamin Ross,"Hugh O'Conor, Antony Sher, Tobias Arnold","Comedy, Crime, Drama",7.0
+243,Flodder 3,1995,124,"Dick Maas, Martin Lagestee","Nelly Frijda, Coen van Vrijberghe de Coningh, Stefan de Walle",Comedy,5.5
+244,Magnetic Rose,1995,45,"Kôji Morimoto, Katsuhiro Ôtomo","Tsutomu Isobe, Ami Hasegawa, Gara Takashima","Animation, Drama, Horror",8.2
+245,Muthu,1995,165,K.S. Ravikumar,"Rajinikanth, Meena, Sarath Babu","Action, Comedy, Drama",7.5
+246,Glory Daze,1995,100,Rich Wilkes,"Ben Affleck, Sam Rockwell, Megan Ward",Comedy,5.6
+247,The Blade,1995,105,Hark Tsui,"Wenzhuo Zhao, Xiong Xinxin, Sonny Su",Action,6.9
+248,Fist of the North Star,1995,103,Tony Randel,"Gary Daniels, Malcolm McDowell, Costas Mandylor","Action, Fantasy, Sci-Fi",3.9
+249,Two Bits,1995,85,James Foley,"Al Pacino, Mary Elizabeth Mastrantonio, Jerry Barone","Comedy, Drama",6.1
+250,Les anges gardiens,1995,110,Jean-Marie Poiré,"Gérard Depardieu, Christian Clavier, Eva Grimaldi","Action, Comedy, Crime",5.9
+251,Miami Rhapsody,1995,95,David Frankel,"Sarah Jessica Parker, Mia Farrow, Antonio Banderas","Comedy, Romance",5.4
+252,New Jersey Drive,1995,98,Nick Gomez,"Shar-Ron Corley, Gabriel Casseus, Saul Stein","Crime, Drama",6.6
+253,The King of Masks,1995,91,Tian-Ming Wu,"Xu Zhu, Renying Zhou, Zhigang Zhao",Drama,7.7
+254,Bad Company,1995,108,Damian Harris,"Ellen Barkin, Laurence Fishburne, Frank Langella","Crime, Drama, Thriller",5.4
+255,Midaq Alley,1995,140,Jorge Fons,"Ernesto Gómez Cruz, María Rojo, Salma Hayek","Drama, Romance",7.3
+256,Lumière and Company,1995,88,"Theodoros Angelopoulos, Vicente Aranda, John Boorman","Pernilla August, Max von Sydow, Merzak Allouache","Documentary, Drama",6.9
+257,Three Wishes,1995,115,Martha Coolidge,"Patrick Swayze, Mary Elizabeth Mastrantonio, Joseph Mazzello","Drama, Family, Fantasy",6.1
+258,Georgia,1995,115,Ulu Grosbard,"Jennifer Jason Leigh, Mare Winningham, Ted Levine","Drama, Music",6.5
+259,Far from Home: The Adventures of Yellow Dog,1995,81,Phillip Borsos,"Jesse Bradford, Mimi Rogers, Bruce Davison","Adventure, Family",6.3
+260,Unstrung Heroes,1995,93,Diane Keaton,"Andie MacDowell, John Turturro, Michael Richards","Comedy, Drama",6.7
+261,Hearts & Minds,1995,100,Ralph Ziman,"Danny Keogh, Patrick Shai, Seputla Sebogodi","Drama, History, Thriller",6.1
+262,No Way Back,1995,91,Frank A. Cappello,"Russell Crowe, Helen Slater, Etsushi Toyokawa","Action, Crime, Drama",5.1
+263,Jefferson in Paris,1995,139,James Ivory,"Nick Nolte, Greta Scacchi, Gwyneth Paltrow","Biography, Drama, History",5.7
+264,A Story About Love,1995,70,Aune Sand,"Beate Halkjelsvik, Einar Lund, Beate Charlotte Lunde","Drama, Romance",1.6
+265,An Awfully Big Adventure,1995,112,Mike Newell,"Hugh Grant, Alan Rickman, Georgina Cates","Comedy, Drama, Romance",5.8
+266,Trimurti,1995,187,Mukul Anand,"Jackie Shroff, Anil Kapoor, Shah Rukh Khan","Action, Drama",4.9
+267,Sixty Million Dollar Man,1995,92,Wai-Man Yip,"Stephen Chow, Man-Tat Ng, Gigi Leung","Comedy, Sci-Fi",6.2
+268,Happiness Is in the Field,1995,106,Étienne Chatiliez,"Michel Serrault, Eddy Mitchell, Sabine Azéma",Comedy,7.0
+269,Dr. Jekyll and Ms. Hyde,1995,90,David Price,"Sean Young, Tim Daly, Lysette Anthony","Comedy, Romance, Sci-Fi",4.5
+270,Blue Juice,1995,90,Carl Prechezer,"Sean Pertwee, Catherine Zeta-Jones, Ewan McGregor","Comedy, Drama, Romance",5.1
+271,Stuart Saves His Family,1995,95,Harold Ramis,"Al Franken, Laura San Giacomo, Vincent D'Onofrio","Comedy, Drama",5.3
+272,Out of the Dark,1995,86,Jeffrey Lau,"Stephen Chow, Karen Mok, Yat-Fei Wong","Comedy, Horror",6.8
+273,The Jerky Boys,1995,82,James Melkonian,"John G. Brennan, Kamal Ahmed, Alan Arkin","Comedy, Crime",4.7
+274,The Nature of the Beast,1995,91,Victor Salva,"Eric Roberts, Lance Henriksen, Brion James","Crime, Horror, Mystery",6.2
+275,Viaggi di nozze,1995,103,Carlo Verdone,"Carlo Verdone, Claudia Gerini, Veronica Pivetti",Comedy,6.6
+276,Rumpelstiltskin,1995,87,Mark Jones,"Max Grodénchik, John Ducey, Kim Johnston Ulrich","Comedy, Fantasy, Horror",4.6
+277,A Midwinter's Tale,1995,99,Kenneth Branagh,"Michael Maloney, Richard Briers, Hetta Charnley",Comedy,7.2
+278,Panther,1995,124,Mario Van Peebles,"Kadeem Hardison, Bokeem Woodbine, Joe Don Baker",Drama,6.4
+279,The Five,1995,109,Takashi Ishii,"Kôichi Satô, Masahiro Motoki, Jinpachi Nezu","Action, Drama, Crime",6.7
+280,A Month by the Lake,1995,92,John Irvin,"Vanessa Redgrave, Edward Fox, Uma Thurman","Comedy, Drama, Romance",6.2
+281,Baazi,1995,183,Ashutosh Gowariker,"Aamir Khan, Mamta Kulkarni, Paresh Rawal","Action, Thriller, Crime",6.4
+282,Guddu,1995,160,Prem Lalwani,"Deepti Naval, Mukesh Khanna, Manisha Koirala","Drama, Romance",4.1
+283,Little Sister,1995,91,Robert Jan Westdijk,"Kim van Kooten, Romijn Conen, Hugo Metsers","Drama, Mystery",6.9
+284,Palookaville,1995,92,Alan Taylor,"William Forsythe, Vincent Gallo, Adam Trese","Comedy, Crime",6.5
+285,Shirli-myrli,1995,143,Vladimir Menshov,"Valeriy Garkalin, Vera Alentova, Inna Churikova",Comedy,7.1
+286,Best of the Best 3: No Turning Back,1995,90,Phillip Rhee,"Phillip Rhee, Christopher McDonald, Gina Gershon","Action, Crime, Drama",4.9
+287,Rendez-vous in Paris,1995,98,Éric Rohmer,"Clara Bellar, Antoine Basler, Mathias Mégard","Comedy, Romance",7.2
+288,Destiny Turns on the Radio,1995,102,Jack Baran,"Dylan McDermott, Nancy Travis, Quentin Tarantino","Crime, Comedy, Fantasy",4.6
+289,Shinjuku Triad Society,1995,100,Takashi Miike,"Kippei Shîna, Tomorô Taguchi, Takeshi Caesar","Crime, Drama, Mystery",6.6
+290,Kummeli Stories,1995,90,Matti Grönberg,"Heikki Hela, Timo Kahilainen, Heikki Silvennoinen","Comedy, Musical, Sport",7.0
+291,The Perez Family,1995,113,Mira Nair,"Marisa Tomei, Anjelica Huston, Alfred Molina","Comedy, Romance, Drama",6.0
+292,Wild Side,1995,96,Donald Cammell,"Christopher Walken, Joan Chen, Steven Bauer","Action, Thriller",5.6
+293,Snowman,1995,109,Davood Mir-Bagheri,"Akbar Abdi, Dariush Arjmand, Parviz Parastui","Comedy, Drama, Romance",6.7
+294,The Bait,1995,115,Bertrand Tavernier,"Marie Gillain, Olivier Sitruk, Bruno Putzulu","Crime, Drama",6.8
+295,Hidden Assassin,1995,89,Ted Kotcheff,"Dolph Lundgren, Maruschka Detmers, Assumpta Serna","Action, Crime, Drama",5.1
+296,The Jonsson Gang's Greatest Robbery,1995,99,Hans Åke Gabrielsson,"Ulf Brunnberg, Björn Gustafson, Stellan Skarsgård","Comedy, Crime",5.0
+297,Killer: A Journal of Murder,1995,91,Tim Metcalfe,"James Woods, Robert Sean Leonard, Ellen Greene","Biography, Crime, Drama",6.3
+298,Foreign Land,1995,110,"Walter Salles, Daniela Thomas","Fernanda Torres, Fernando Alves Pinto, Alexandre Borges","Action, Crime, Drama",7.4
+299,Der Totmacher,1995,110,Romuald Karmakar,"Götz George, Jürgen Hentsch, Pierre Franckh","Crime, Drama",7.5
+300,Delta of Venus,1995,102,Zalman King,"Audie England, Costas Mandylor, Eric da Silva",Drama,4.7
+301,Carnosaur 2,1995,83,Louis Morneau,"John Savage, Cliff De Young, Don Stroud","Action, Horror, Sci-Fi",3.7
+302,Flirt,1995,85,Hal Hartley,"Paul Austin, Robert John Burke, Martin Donovan","Drama, Romance",6.3
+303,Mind Ripper,1995,96,Joe Gayton,"Lance Henriksen, Claire Stansfield, John Diehl","Horror, Sci-Fi",4.0
+304,Premeditated Murder,1995,94,Gorcin Stojanovic,"Branka Katic, Nebojsa Glogovac, Ana Sofrenovic","Drama, Romance",8.0
+305,Hello Cinema,1995,75,Mohsen Makhmalbaf,"Shaghayeh Djodat, Behzad Dorani, Feizola Gashghai","Documentary, Comedy, Drama",7.6
+306,The Garden,1995,99,Martin Sulík,"Roman Luknár, Zuzana Sulajová, Jana Svandová",Comedy,7.6
+307,Nobody Will Speak of Us When We're Dead,1995,104,Agustín Díaz Yanes,"Victoria Abril, Pilar Bardem, Federico Luppi","Crime, Drama, Thriller",6.8
+308,Habit,1995,112,Larry Fessenden,"Larry Fessenden, Meredith Snaider, Aaron Beall","Drama, Horror, Romance",6.4
+309,Zamaana Deewana,1995,162,Ramesh Sippy,"Jeetendra, Shatrughan Sinha, Shah Rukh Khan","Action, Comedy, Drama",4.7
+310,Élisa,1995,115,Jean Becker,"Vanessa Paradis, Gérard Depardieu, Clotilde Courau",Drama,6.5
+311,Above Suspicion,1995,95,Steven Schachter,"Christopher Reeve, Kim Cattrall, Edward Kerr","Drama, Thriller",6.7
+312,Zero Kelvin,1995,113,Hans Petter Moland,"Stellan Skarsgård, Gard B. Eidsvold, Bjørn Sundquist",Drama,7.2
+313,Bert: The Last Virgin,1995,100,Tomas Alfredson,"Martin Andersson, Cajsa-Lisa Ejemyr, Ing-Marie Carlsson","Comedy, Family, Romance",5.9
+314,Rough Magic,1995,104,Clare Peploe,"Bridget Fonda, Russell Crowe, Jim Broadbent","Comedy, Drama, Romance",5.4
+315,Night of the Running Man,1995,93,Mark L. Lester,"Andrew McCarthy, Alex Zonn, Matthew Laurance","Action, Crime, Thriller",5.9
+316,Magic in the Water,1995,101,Rick Stevenson,"Mark Harmon, Harley Jane Kozak, Joshua Jackson","Adventure, Family, Fantasy",5.4
+317,"Cry, the Beloved Country",1995,106,Darrell Roodt,"Richard Harris, James Earl Jones, Vusi Kunene","Drama, Thriller",6.8
+318,Butterfly Kiss,1995,88,Michael Winterbottom,"Amanda Plummer, Kathy Jamieson, Saskia Reeves","Comedy, Drama, Romance",6.3
+319,Fall Time,1995,88,Paul Warner,"Steve Alden, David Arquette, Stephen Baldwin","Crime, Drama",5.4
+320,"Institute Benjamenta, or This Dream That One Calls Human Life",1995,105,"Stephen Quay, Timothy Quay, Weiser Quay","Mark Rylance, Alice Krige, Gottfried John",Drama,7.0
+321,Napoleon,1995,81,Mario Andreacchio,"Jamie Croft, Philip Quast, Susan Lyons","Adventure, Family",6.1
+322,Roommates,1995,108,Peter Yates,"Peter Falk, D.B. Sweeney, Julianne Moore","Comedy, Drama",6.4
+323,Live Nude Girls,1995,95,Julianna Lavin,"Dana Delany, Kim Cattrall, Cynthia Stevenson",Comedy,5.2
+324,A Single Girl,1995,90,Benoît Jacquot,"Virginie Ledoyen, Benoît Magimel, Dominique Valadié",Drama,6.6
+325,One Hundred and One Nights,1995,104,Agnès Varda,"Michel Piccoli, Marcello Mastroianni, Henri Garcin","Comedy, History, Romance",6.5
+326,P.O.Box Tinto Brass,1995,81,Tinto Brass,"Tinto Brass, Cinzia Roccaforte, Cristina Rinaldi",Comedy,5.1
+327,Oh Darling Yeh Hai India,1995,160,Ketan Mehta,"Shah Rukh Khan, Deepa Sahi, Jaaved Jaaferi",Comedy,4.0
+328,Cold Fever,1995,83,Friðrik Þór Friðriksson,"Masatoshi Nagase, Lili Taylor, Fisher Stevens","Comedy, Drama, Mystery",7.0
+329,Wild Horses,1995,122,Marcelo Piñeyro,"Héctor Alterio, Leonardo Sbaraglia, Cecilia Dopazo","Comedy, Crime, Drama",7.1
+330,Sailor Moon SuperS: The Movie: Black Dream Hole,1995,75,Hiroki Shibata,"Kotono Mitsuishi, Kae Araki, Michie Tomizawa","Animation, Action, Comedy",7.4
+331,Veergati,1995,166,K.K. Singh,"Salman Khan, Atul Agnihotri, Sudesh Berry","Action, Drama",5.8
+332,Mouth to Mouth,1995,106,Manuel Gómez Pereira,"Javier Bardem, Aitana Sánchez-Gijón, Josep Maria Flotats","Comedy, Romance",6.3
+333,Stonewall,1995,99,Nigel Finch,"Guillermo Diaz, Frederick Weller, Brendan Corbalis","Comedy, Drama, Romance",7.1
+334,The Scent of Joseph's Shirt,1995,100,Ebrahim Hatamikia,"Niki Karimi, Ali Nasirian, Jafar Dehghan","Drama, War",6.6
+335,Tuyoor el-Zalam,1995,109,Sherif Arafa,"Adel Emam, Youssra, Ryad El Kholy","Drama, Thriller",7.3
+336,Born to Be Wild,1995,100,John Gray,"Wil Horneff, Helen Shaver, Jean Marie Barnwell","Adventure, Comedy, Drama",5.2
+337,Jack-O,1995,88,Steve Latshaw,"Linnea Quigley, Maddisen K. Krown, Gary Doles",Horror,3.4
+338,The King,1995,198,Shaji Kailas,"Mammootty, Murali, Vani Viswanath","Action, Thriller",7.6
+339,Brother of Sleep,1995,127,Joseph Vilsmaier,"André Eisermann, Dana Vávrová, Ben Becker","Drama, Music, Romance",7.0
+340,Tato,1995,110,Maciej Slesicki,"Boguslaw Linda, Dorota Segda, Ola Maliszewska",Drama,7.1
+341,Aasai,1995,145,Vasanth,"Ajith Kumar, Suvalakshmi, Prakash Raj","Drama, Romance, Thriller",7.5
+342,Small Faces,1995,108,Gillies MacKinnon,"Iain Robertson, Joe McFadden, Steven Duffy",Drama,6.8
+343,Sathi Leelavathi,1995,151,Balu Mahendra,"Kamal Haasan, Ramesh Aravind, Kovai Sarala","Comedy, Drama",8.1
+344,O Quatrilho,1995,92,Fábio Barreto,"Glória Pires, Patricia Pillar, Alexandre Paternost","Romance, Drama",6.8
+345,The Fear,1995,102,Vincent Robert,"Eddie Bowz, Heather Medway, Ann Turkel",Horror,3.9
+346,The Confessional,1995,100,Robert Lepage,"Lothaire Bluteau, Patrick Goyette, Jean-Louis Millette","Drama, Mystery, Thriller",7.4
+347,Angel Baby,1995,105,Michael Rymer,"John Lynch, Jacqueline McKenzie, Colin Friels","Drama, Romance",7.0
+348,Guantanamera,1995,105,"Tomás Gutiérrez Alea, Juan Carlos Tabío","Carlos Cruz, Mirta Ibarra, Jorge Perugorría","Comedy, Drama",6.9
+349,Like Grains of Sand,1995,129,Ryosuke Hashiguchi,"Yoshinori Okada, Ayumi Hamasaki, Kouji Yamaguchi","Drama, Romance",7.4
+350,Malicious,1995,92,Ian Corson,"Molly Ringwald, John Vernon, Patrick McGaw","Drama, Thriller",5.1
+351,Mannar Mathai Speaking,1995,150,"Mani C. Kappan, Lal, Siddique","Mukesh, Saikumar, Innocent Vareed Thekkethala","Comedy, Thriller",7.9
+352,Nach Fünf im Urwald,1995,99,Hans-Christian Schmid,"Franka Potente, Axel Milberg, Dagmar Manzel","Comedy, Romance",7.1
+353,The Immortals,1995,92,Brian Grant,"Eric Roberts, Joe Pantoliano, Tia Carrere","Action, Crime, Drama",5.4
+354,The Chinese Feast,1995,100,Hark Tsui,"Kenny Bee, Leslie Cheung, Anita Yuen","Comedy, Romance",6.7
+355,Stories from the Kronen,1995,95,Montxo Armendáriz,"Juan Diego Botto, Jordi Mollà, Núria Prims","Action, Drama",6.1
+356,I laureati,1995,88,Leonardo Pieraccioni,"Massimo Ceccherini, Rocco Papaleo, Leonardo Pieraccioni","Comedy, Drama, Romance",6.4
+357,Night of the Scarecrow,1995,85,Jeff Burr,"Elizabeth Barondes, John Mese, Stephen Root","Horror, Sci-Fi",5.4
+358,Iron Eagle on the Attack,1995,96,Sidney J. Furie,"Louis Gossett Jr., Jason Cadieux, Joanne Vannicola","Action, Drama",3.4
+359,Un bruit qui rend fou,1995,100,"Dimitri de Clercq, Alain Robbe-Grillet","Fred Ward, Arielle Dombasle, Charles Tordjman","Crime, Drama, Mystery",6.6
+360,According to Pereira,1995,104,Roberto Faenza,"Marcello Mastroianni, Joaquim de Almeida, Daniel Auteuil",Drama,7.1
+361,Barsaat,1995,166,Rajkumar Santoshi,"Bobby Deol, Twinkle Khanna, Raj Babbar","Action, Romance",5.6
+362,Xtro 3: Watch the Skies,1995,97,Harry Bromley Davenport,"J. Marvin Campbell, Douglas Cavanaugh, Robert Culp","Horror, Sci-Fi",3.6
+363,God's Comedy,1995,170,João César Monteiro,"Cláudia Teixeira, João César Monteiro, Manuela de Freitas","Comedy, Drama",7.2
+364,Evolver,1995,91,Mark Rosman,"Ethan Embry, Cassidy Rae, Nassira Nicola","Action, Horror, Sci-Fi",5.5
+365,Blood & Donuts,1995,89,Holly Dale,"Gordon Currie, Louis Ferreira, Helene Clarkson","Comedy, Horror",5.9
+366,"Carlota Joaquina, Princesa do Brazil",1995,100,Carla Camurati,"Marieta Severo, Antonio Abujamra, Thales Pan Chacon","Comedy, History",6.7
+367,Denise Calls Up,1995,80,Hal Salwen,"Tim Daly, Caroleen Feeney, Dan Gunther",Comedy,6.6
+368,To the Limit,1995,98,Raymond Martino,"Anna Nicole Smith, Joey Travolta, John Aprea","Action, Crime, Thriller",3.3
+369,Search and Destroy,1995,90,David Salle,"Griffin Dunne, Dennis Hopper, Jason Ferraro","Action, Comedy, Drama",5.3
+370,A French Woman,1995,100,Régis Wargnier,"Emmanuelle Béart, Daniel Auteuil, Gabriel Barylli","Drama, Romance",6.2
+371,Anne Frank Remembered,1995,117,Jon Blair,"Kenneth Branagh, Glenn Close, Isa Baschwitz","Documentary, Biography, War",8.1
+372,Margaret's Museum,1995,114,Mort Ransen,"Helena Bonham Carter, Kate Nelligan, Clive Russell",Drama,7.2
+373,Soldier Boyz,1995,90,Louis Morneau,"Michael Dudikoff, Cary-Hiroyuki Tagawa, Tyrin Turner","Action, Drama, Thriller",4.4
+374,Bloody Muscle Body Builder in Hell,1995,62,Shinichi Fukazawa,"Shinichi Fukazawa, Masaaki Kai, Masahiro Kai",Horror,6.2
+375,Heatseeker,1995,91,Albert Pyun,"Keith Cooke, Tina Cote, Norbert Weisser","Action, Drama, Sci-Fi",4.1
+376,The Demolitionist,1995,93,Robert Kurtzman,"Nicole Eggert, Bruce Abbott, Susan Tyrrell","Action, Horror, Sci-Fi",4.3
+377,Sorceress,1995,93,Jim Wynorski,"Linda Blair, Edward Albert, Julie Strain","Fantasy, Horror, Thriller",4.2
+378,Project: Metalbeast,1995,92,Alessandro De Gaetano,"Barry Bostwick, Brian Brophy, Mario Burgos","Horror, Sci-Fi",4.5
+379,The Purse Snatcher,1995,96,Maria Peters,"Olivier Tuinier, Aus Greidanus Jr., Micha Hulshof","Drama, Family, Thriller",6.0
+380,Filmpje!,1995,104,Paul Ruven,"Paul de Leeuw, Rijk de Gooyer, Olga Zuiderhoek","Action, Comedy",5.5
+381,Peace Hotel,1995,89,Ka-Fai Wai,"Chow Yun-Fat, Cecilia Yip, Ho Chin","Action, Crime, Drama",6.2
+382,Final Hour,1995,83,Martin Schmidt,"Lene Laub Oksen, Mette Bratlann, Tomas Villum Jensen","Horror, Mystery, Thriller",5.7
+383,The Visit,1995,94,Mohamad Reza Honarmand,"Mehran Modiri, Mina Lakani, Hamid Abdolmaleki","Drama, Romance, War",7.9
+384,The Final Cut,1995,88,Roger Christian,"Sam Elliott, Charles Martin Smith, Kelly Benson","Action, Drama, Thriller",5.5
+385,Proteus,1995,97,Bob Keen,"Craig Fairbrass, Toni Barry, William Marsh","Horror, Sci-Fi, Thriller",4.1
+386,Lang leve de koningin,1995,118,Esmé Lammers,"Maja van den Broecke, Lisa de Rooy, Cas Enklaar","Adventure, Drama, Family",7.3
+387,The Tie That Binds,1995,99,Wesley Strick,"Daryl Hannah, Keith Carradine, Moira Kelly","Crime, Drama, Thriller",5.0
+388,Bay E,1995,101,Sinan Çetin,"Mehmet Ali Erbil, Natalie Heroux, Izzet Günay","Comedy, Fantasy, Thriller",3.1
+389,"Good Men, Good Women",1995,108,Hsiao-Hsien Hou,"Annie Shizuka Inoh, Giong Lim, Jack Kao","Drama, Romance",7.1
+390,Without Evidence,1995,99,Gill Dennis,"Scott Plank, Anna Gunn, Andrew Prine","Crime, Drama, Mystery",3.9
+391,Drunks,1995,90,Peter Cohn,"Richard Lewis, Liza Harris, Liam Ahern",Drama,6.3
+392,"301, 302",1995,100,Cheol-su Park,"Pang Eun-jin, Hwang Sin-hye, Chu-Ryun Kim","Horror, Mystery, Thriller",6.4
+393,The Apprentices,1995,93,Pierre Salvadori,"Marie Trintignant, François Cluzet, Guillaume Depardieu",Comedy,6.9
+394,Galaxis,1995,91,William Mesa,"Brigitte Nielsen, Richard Moll, John H. Brennan","Action, Sci-Fi, Thriller",3.6
+395,Unzipped,1995,73,Douglas Keeve,"Isaac Mizrahi, Roseanne Barr, Sandra Bernhard",Documentary,6.5
+396,Friend of the Family,1995,103,Edward Holzman,"Shauna O'Brien, Griffin Drew, Burke Morgan",Drama,4.5
+397,Innocent Lies,1995,88,Patrick Dewolf,"Adrian Dunbar, Florence Hoath, Sophie Aubry","Drama, Mystery, Thriller",4.5
+398,A Pyromaniac's Love Story,1995,94,Joshua Brand,"William Baldwin, John Leguizamo, Sadie Frost","Comedy, Romance",5.3
+399,Attack of the 60 Foot Centerfolds,1995,84,Fred Olen Ray,"J.J. North, Ted Monte, Raelyn Saalman","Action, Adventure, Comedy",4.0
+400,Frank and Ollie,1995,89,Theodore Thomas,"Frank Thomas, Ollie Johnston, Sylvia Roemer",Documentary,7.6
+401,Rajavin Parvaiyile,1995,135,Janaki Soundar,"Charu Haasan, Indraja, Janakaraj","Drama, Romance",7.0
+402,Angela,1995,99,Rebecca Miller,"Miranda Rhyne, Charlotte Eve Blythe, Anna Thomson",Drama,6.3
+403,The Neon Bible,1995,91,Terence Davies,"Jacob Tierney, Drake Bell, Gena Rowlands",Drama,6.2
+404,A Fistful of Fingers,1995,78,Edgar Wright,"Graham Low, Martin Curtis, Oli van der Vijver","Comedy, Western",5.8
+405,Steal Big Steal Little,1995,135,Andrew Davis,"Andy Garcia, Alan Arkin, Rachel Ticotin",Comedy,4.7
+406,Raja,1995,168,Indra Kumar,"Sanjay Kapoor, Madhuri Dixit, Mukesh Khanna","Action, Comedy, Drama",5.1
+407,Spitfire,1995,95,Albert Pyun,"Lance Henriksen, Debra Jo Fondren, Sarah Douglas","Action, Adventure",4.6
+408,The Convent,1995,90,Manoel de Oliveira,"Catherine Deneuve, John Malkovich, Luís Miguel Cintra","Drama, Mystery",5.9
+409,Bekhit wa Adilah,1995,130,"Nader Galal, Tarek Ibraheem","Adel Emam, Sherine, Ahmed Rateb",Comedy,5.8
+410,Gumby: The Movie,1995,90,Art Clokey,"Dal McKennon, Art Clokey, Gloria Clokey","Animation, Adventure, Comedy",6.0
+411,Separate Lives,1995,102,David Madden,"Jim Belushi, Linda Hamilton, Vera Miles","Drama, Mystery, Romance",5.0
+412,Vendetta,1995,135,Mikael Håfström,"Stefan Sauk, Ennio Fantastichini, Erland Josephson","Action, Thriller",5.8
+413,The Journey of August King,1995,91,John Duigan,"Jason Patric, Thandiwe Newton, Larry Drake",Drama,6.5
+414,Menino Maluquinho: O Filme,1995,83,Helvecio Ratton,"Samuel Costa, Patricia Pillar, Roberto Bomtempo","Adventure, Comedy, Family",6.6
+415,30:e november,1995,116,Daniel Fridell,"Göran Gillinger, María Celedonio, Ray Jones IV",Drama,4.1
+416,I Like to Play Games,1995,95,Robert Kubilos,"Lisa Boyle, Ken Steadman, James DiZazzo","Drama, Thriller",4.9
+417,Last Gasp,1995,93,Scott McGinnis,"Robert Patrick, Joanna Pacula, Vyto Ruginis","Horror, Thriller",4.7
+418,Kristin Lavransdatter,1995,180,Liv Ullmann,"Elisabeth Matheson, Bjørn Skagestad, Sverre Anker Ousdal",Drama,4.5
+419,La scuola,1995,104,Daniele Luchetti,"Silvio Orlando, Anna Galiena, Fabrizio Bentivoglio","Comedy, Drama",7.0
+420,En på miljonen,1995,87,"Måns Herngren, Hannes Holm","Tomas von Brömssen, Ulla Skoog, Gösta Ekman",Comedy,5.3
+421,No Contest,1995,98,Paul Lynch,"Shannon Tweed, Robert Davi, Andrew Dice Clay","Action, Crime, Drama",4.7
+422,Droid Gunner,1995,90,Fred Olen Ray,"Marc Singer, Matthias Hues, Rochelle Swanson","Action, Sci-Fi",4.1
+423,The Last Wedding,1995,90,Markku Pölönen,"Martti Suosalo, Henrika Andersson, Matti Varjo","Comedy, Drama",6.6
+424,Bikini Drive-in,1995,86,"Fred Olen Ray, Steve Latshaw","Ashlie Rhey, Richard Gabai, Ross Hagen",Comedy,4.4
+425,Lupin III: Farewell to Nostradamus,1995,100,"Takeshi Shirato, Nobuo Tomizawa, Shun'ya Itô","Kan'ichi Kurita, Kiyoshi Kobayashi, Makio Inoue","Animation, Action, Adventure",6.9
+426,Like It Never Was Before,1995,108,Susanne Bier,"Loa Falkman, Stina Ekblad, Simon Norrthon","Drama, Romance",6.4
+427,Serpent's Lair,1995,95,Jeffrey Reiner,"Jeff Fahey, Lisa Barbuscia, Heather Medway","Horror, Thriller",4.3
+428,Pari,1995,115,Dariush Mehrjui,"Niki Karimi, Khosro Shakibai, Ali Mosaffa","Drama, Romance",6.5
+429,Pulkownik Kwiatkowski,1995,123,Kazimierz Kutz,"Marek Kondrat, Renata Dancewicz, Zbigniew Zamachowski","Adventure, Comedy, History",7.0
+430,Eggs,1995,86,Bent Hamer,"Sverre Hansen, Kjell Stormoen, Leif Andrée","Comedy, Drama",6.7
+431,Men Behind the Sun 4,1995,91,Tun-Fei Mou,"Stephen Cecil Thomas, Liang Zhang, Yung Pan","Drama, History, Horror",6.2
+432,Frostbiter: Wrath of the Wendigo,1995,84,Tom Chaney,"Ron Asheton, Lori Baker, Patrick Butler","Comedy, Horror",4.7
+433,Slayers,1995,63,"Hiroshi Watanabe, Kazuo Yamazaki","Megumi Hayashibara, Maria Kawamura, Yuri Shiratori","Animation, Action, Adventure",6.7
+434,August in the Water,1995,117,Gakuryû Ishii,"Rena Komine, Shinsuke Aoki, Reiko Matsuo","Drama, Sci-Fi",7.3
+435,Frankie Starlight,1995,101,Michael Lindsay-Hogg,"Matt Dillon, Anne Parillaud, Gabriel Byrne","Drama, Romance, War",6.5
+436,Payback,1995,93,Anthony Hickox,"C. Thomas Howell, Joan Severance, Marshall Bell",Thriller,5.7
+437,Aatank Hi Aatank,1995,155,Dilip Shankar,"Rajinikanth, Aamir Khan, Juhi Chawla","Action, Crime, Drama",4.5
+438,The Maddening,1995,95,Danny Huston,"Burt Reynolds, Angie Dickinson, Mia Sara",Thriller,4.8
+439,Witchboard III: The Possession,1995,93,Peter Svatek,"David Nerman, Elizabeth Lambert, Cedric Smith",Horror,4.2
+440,Selvaggi,1995,120,Carlo Vanzina,"Ezio Greggio, Leo Gullotta, Antonello Fassari","Adventure, Comedy",4.8
+441,Pie in the Sky,1995,95,Bryan Gordon,"Josh Charles, Anne Heche, John Goodman","Comedy, Romance",5.7
+442,The Phantom Lover,1995,100,Ronny Yu,"Leslie Cheung, Chien-Lien Wu, Xiaolin Geng","Drama, Music, Romance",6.6
+443,Vacanze di Natale '95,1995,92,Neri Parenti,"Massimo Boldi, Christian De Sica, Luke Perry",Comedy,4.6
+444,The Walking Dead,1995,88,Preston A. Whitmore II,"Allen Payne, Eddie Griffin, Joe Morton","Action, Drama, War",4.9
+445,Así en el cielo como en la tierra,1995,95,José Luis Cuerda,"Francisco Rabal, Fernando Fernán Gómez, Jesús Bonilla","Comedy, Fantasy",6.7
+446,Automatic,1995,90,John Murlowski,"Olivier Gruner, Daphne Ashbrook, John Glover","Action, Sci-Fi, Thriller",5.2
+447,Digital Man,1995,95,Phillip J. Roth,"Ken Olandt, Kristen Dalton, Adam Baldwin","Action, Sci-Fi, Thriller",4.6
+448,No te mueras sin decirme adónde vas,1995,120,Eliseo Subiela,"Darío Grandinetti, Mariana Arias, Oscar Martínez","Drama, Fantasy, Romance",7.0
+449,Undercover Heat,1995,93,Gregory Dark,"Athena Massey, Jeffrey Dean Morgan, Meg Foster","Mystery, Thriller",5.0
+450,The Stars Fell on Henrietta,1995,109,James Keach,"Robert Duvall, Aidan Quinn, Frances Fisher",Drama,6.4
+451,"Hola, ¿estás sola?",1995,92,Icíar Bollaín,"Silke, Candela Peña, Álex Angulo","Comedy, Drama",6.3
+452,Eko Eko Azarak: Wizard of Darkness,1995,80,Shimako Sato,"Kimika Yoshino, Miho Kanno, Shu-Ma",Horror,6.0
+453,Summer Snow,1995,101,Ann Hui,"Josephine Siao, Kar-Ying Law, Allen Ting","Comedy, Drama",7.8
+454,The Hounds of Riga,1995,106,Pelle Berglund,"Rolf Lassgård, Björn Kjellman, Benny Poulsen",Thriller,5.5
+455,Rage,1995,94,Joseph Merhi,"Gary Daniels, Kenneth Tigar, Fiona Hutchison","Action, Crime, Thriller",5.6
+456,Expect No Mercy,1995,91,Zale Dalen,"Billy Blanks, Jalal Merhi, Wolf Larson","Action, Sci-Fi",4.6
+457,The Blue-Veiled,1995,85,Rakhshan Banietemad,"Ezzatolah Entezami, Fatemah Motamed-Aria, Golab Adineh","Drama, Romance",6.8
+458,Deva,1995,140,S.A. Chandrashekhar,"S.A. Chandrashekhar, Mansoor Ali Khan, Manivannan","Action, Drama, Romance",7.4
+459,Mera Damad,1995,127,Partho Ghosh,"Utpal Dutt, Ashok Kumar, Farooq Shaikh","Comedy, Drama",4.6
+460,The Surgeon,1995,99,Carl Schenkel,"Isabel Glasser, James Remar, Sean Haberle","Horror, Thriller",4.8
+461,Let It Be Me,1995,88,Eleanor Bergstein,"Campbell Scott, Jennifer Beals, Yancy Butler","Drama, Romance",5.5
+462,Hologram Man,1995,101,Richard Pepin,"Joe Lara, Evan Lurie, Michael Nouri","Action, Sci-Fi, Thriller",4.3
+463,The Expert,1995,92,"Rick Avery, William Lustig","Jeff Speakman, James Brolin, Michael Shaner",Action,4.6
+464,Flamenco,1995,100,Carlos Saura,"La Paquera de Jerez, Merche Esmeralda, Manolo Sanlúcar","Documentary, Music",7.4
+465,Mlode wilki,1995,94,Jaroslaw Zamojda,"Michelle Cleo Godsey, Jaroslaw Jakimowicz, Piotr Szwedes",Action,5.8
+466,Wings of Courage,1995,40,Jean-Jacques Annaud,"Craig Sheffer, Elizabeth McGovern, Tom Hulce","Adventure, Romance",6.3
+467,Frisk,1995,88,Todd Verow,"Michael Gunther, Craig Chester, Michael Stock","Drama, Thriller",4.9
+468,"Up, Down, Fragile",1995,169,Jacques Rivette,"Marianne Denicourt, Nathalie Richard, Laurence Côte","Comedy, Musical, Mystery",7.2
+469,Naajayaz,1995,157,Mahesh Bhatt,"Naseeruddin Shah, Ajay Devgn, Juhi Chawla","Action, Drama",5.6
+470,Palermo-Milan One Way,1995,100,Claudio Fragasso,"Giancarlo Giannini, Raoul Bova, Ricky Memphis","Action, Crime, Drama",6.2
+471,Nico Icon,1995,67,Susanne Ofteringer,"Nico, Tina Aumont, Christian Päffgen","Documentary, Biography, Music",7.2
+472,Red Cherry,1995,120,Daying Ye,"Guo Keyu, Xiao-Li Xu, Igor Ledogorov","Drama, War",7.0
+473,Gunfighter's Moon,1995,95,Larry Ferguson,"Lance Henriksen, Kay Lenz, David McIlwraith","Action, Drama, Romance",6.4
+474,Someone Else's America,1995,96,Goran Paskaljevic,"Tom Conti, Predrag 'Miki' Manojlovic, María Casares","Comedy, Drama",6.9
+475,Macross Plus Movie Edition,1995,115,"Shôji Kawamori, Yûji Moriyama, Shin'ichirô Watanabe","Rica Fukami, Banjô Ginga, Show Hayami","Animation, Action, Adventure",7.5
+476,Talk of the Town,1995,93,Rainer Kaufmann,"Katja Riemann, August Zirner, Martina Gedeck","Comedy, Romance",6.4
+477,Kamikaze Taxi,1995,169,Masato Harada,"Kôji Yakusho, Kazuya Takahashi, Mickey Curtis","Action, Crime, Drama",7.6
+478,Pharaoh's Army,1995,90,Robby Henson,"Chris Cooper, Patricia Clarkson, Kris Kristofferson","Drama, War, Western",6.5
+479,The Fateful Day,1995,105,Shahram Assadi,"Ali Reza Shoja'noori, Ladan Mostofi, Jamshid Mashayekhi","Adventure, Drama, Fantasy",7.3
+480,Black Day Blue Night,1995,93,J.S. Cardone,"Gil Bellows, Michelle Forbes, Mia Sara","Adventure, Crime, Drama",5.8
+481,Vishnu,1995,150,S.A. Chandrashekhar,"Jaishankar, Sanghavi, Joseph Vijay","Action, Drama, Romance",7.0
+482,Voodoo,1995,91,René Eram,"Corey Feldman, Joel J. Edwards, Diane Nadeau","Horror, Thriller",4.6
+483,Man with a Gun,1995,91,David Wyles,"Michael Madsen, Jennifer Tilly, Gary Busey","Action, Drama, Thriller",4.8
+484,Wigstock: The Movie,1995,85,Barry Shils,"RuPaul, John Epperson, Debbie Harry",Documentary,6.9
+485,The Tragic Burlesque,1995,95,Goran Markovic,"Vojislav 'Voja' Brajovic, Danilo 'Bata' Stojkovic, Dragan Nikolic","Comedy, Drama, Fantasy",7.2
+486,Mazhayethum Munpe,1995,138,Kamal,"Mammootty, Shobana, Annie","Drama, Romance",7.3
+487,L'amore molesto,1995,104,Mario Martone,"Anna Bonaiuto, Angela Luce, Piero Tassitano","Drama, Mystery, Romance",6.4
+488,South Beach Academy,1995,91,Joe Esposito,"Keith Coulouris, Elizabeth Kaitan, Corey Feldman",Comedy,3.7
+489,A Trick of Light,1995,79,Wim Wenders,"Stefan Barber, Wiebke Bayer, Nadine Büttner","Biography, Drama",6.9
+490,Mad Dogs and Englishmen,1995,97,Henry Cole,"Elizabeth Hurley, C. Thomas Howell, Joss Ackland","Crime, Drama, Mystery",3.9
+491,Alien Terminator,1995,80,Dave Payne,"Maria Ford, Rodger Halston, Emile B. Levisetti","Horror, Sci-Fi",2.9
+492,Manneken Pis,1995,89,Frank Van Passel,"Frank Vercruyssen, Antje de Boeck, Ann Petersen","Comedy, Drama, Romance",7.2
+493,Gentlemen Don't Eat Poets,1995,99,John-Paul Davidson,"Alan Bates, Theresa Russell, Sting","Comedy, Drama, Horror",5.5
+494,Cyberjack,1995,99,Robert Lee,"Michael Dudikoff, Suki Kaiser, Brion James","Action, Sci-Fi",4.2
+495,Terrified,1995,95,James Merendino,"Heather Graham, Lisa Zane, Paul Herman","Horror, Mystery, Thriller",3.5
+496,The Corridor,1995,85,Sharunas Bartas,"Daiva Ksivickiene, Mantvydas Janeliunas, Viacheslav Amirhanian",Drama,7.1
+497,Steel Frontier,1995,105,"Jacobsen Hart, Paul G. Volk","Joe Lara, Bo Svenson, Stacie Foster","Action, Sci-Fi",4.9
+498,Taqdeerwala,1995,162,K. Muralimohana Rao,"Venkatesh Daggubati, Raveena Tandon, Govardhan Asrani",Comedy,6.5
+499,Lie Down with Dogs,1995,84,Wally White,"Wally White, Bash Halow, James Sexton","Comedy, Romance",4.8
+500,Riverdance: The Show,1995,71,John McColgan,"Michael Flatley, Jean Butler, Anúna",Music,8.2
+501,Tropical Fish,1995,107,Yu-Hsun Chen,"Akio Chen, Yi-fan Chen, Hsiao-fan Fan","Comedy, Drama",7.6
+502,The Son Of...,1995,102,Maurice Pialat,"Gérard Depardieu, Géraldine Pailhas, Antoine Pialat",Drama,6.6
+503,Who Killed Pasolini?,1995,100,Marco Tullio Giordana,"Carlo De Filippi, Nicoletta Braschi, Toni Bertorelli","Crime, Drama",6.9
+504,American Daughter,1995,98,Karen Shakhnazarov,"Allison Whitbeck, Vladimir Mashkov, Mariya Shukshina","Comedy, Drama",6.3
+505,The Snails' Senator,1995,100,Mircea Daneliuc,"Dorel Visan, Cecilia Bârbora, Clara Voda","Comedy, Drama",7.4
+506,Madame Butterfly,1995,134,Frédéric Mitterrand,"Ying Huang, Richard Troxell, Ning Liang","Drama, Music",7.0
+507,The Viking Sagas,1995,83,Michael Chapman,"Ralf Moeller, Ingibjörg Stefánsdóttir, Sven-Ole Thorsen","Action, Adventure",5.2
+508,Peda Rayudu,1995,165,Ravi Raja Pinisetty,"Mohan Babu, Rajinikanth, Soundarya","Action, Drama",7.4
+509,Full Throttle,1995,114,Derek Tung-Sing Yee,"Andy Lau, Gigi Leung, David Wu","Action, Drama",6.5
+510,La seconda volta,1995,80,Mimmo Calopresti,"Nanni Moretti, Valeria Bruni Tedeschi, Valeria Milillo",Drama,6.9
+511,Secret Games 3,1995,87,Gregory Dark,"Woody Brown, Rochelle Swanson, May Karasun","Drama, Thriller",4.7
+512,Play Time,1995,90,Dale Trevillion,"Jennifer Burton, David Elliott, Monique Parent","Drama, Romance",5.8
+513,Bikini Bistro,1995,85,Ernest G. Sauer,"Marilyn Chambers, Amy Lynn Baxter, Isabelle Fortea",Comedy,3.0
+514,The Pompatus of Love,1995,99,Richard Schenkman,"Adrian Pasdar, Paige Turco, Arabella Field","Comedy, Drama, Romance",5.3
+515,The Low Life,1995,96,George Hickenlooper,"Rory Cochrane, Sean Astin, Kyra Sedgwick",Drama,5.9
+516,Doctor Mack,1995,98,Chi-Ngai Lee,"Tony Leung Chiu-wai, Ching-Wan Lau, Alex To","Comedy, Drama",6.7
+517,Sebastian,1995,88,Svend Wam,"Hampus Björck, Nicolai Cleve Broch, Ewa Fröling",Drama,5.4
+518,Feast of July,1995,116,Christopher Menaul,"Embeth Davidtz, Tom Bell, Gemma Jones","Crime, Drama, Mystery",6.2
+519,De vliegende Hollander,1995,140,Jos Stelling,"René Groothof, Veerle Dobbelaere, René van 't Hof","Comedy, Drama, Fantasy",7.2
+520,Ooru naito rongu 2,1995,68,Katsuya Matsumura,"Masashi Endô, Ryôka Yuzuki, Masahito Takahashi","Drama, Horror, Mystery",5.6
+521,Mondo,1995,80,Tony Gatlif,"Ovidiu Balan, Philippe Petit, Pierrette Fesch",Drama,7.3
+522,The World of Jacques Demy,1995,90,Agnès Varda,"Jacques Demy, Anouk Aimée, Richard Berry",Documentary,7.3
+523,Hard Bounty,1995,88,Jim Wynorski,"Matt McCoy, Kelly LeBrock, John Terlesky","Drama, Western",3.9
+524,Maidan-E-Jung,1995,155,K.C. Bokadia,"Dharmendra, Akshay Kumar, Karisma Kapoor","Action, Drama",3.7
+525,The Snow Queen,1995,78,Martin Gates,"Ellie Beaven, David Jason, Hugh Laurie","Animation, Fantasy",5.7
+526,Hello! Hello! This Is Juju,1995,82,Marzieh Boroomand,"Mehdi Hashemi, Hassan Rezai, Mahmoud Basiri","Adventure, Comedy, Family",6.0
+527,Liste noire,1995,90,Jean-Marc Vallée,"Michel Côté, Geneviève Brouillette, Sylvie Bourque","Drama, Thriller",6.1
+528,Don't Forget You're Going to Die,1995,118,Xavier Beauvois,"Xavier Beauvois, Chiara Mastroianni, Roschdy Zem",Drama,6.4
+529,Paandav,1995,132,Raj N. Sippy,"Akshay Kumar, Nandini, Prithvi Vazir","Action, Drama",3.3
+530,Sweet Nothing,1995,89,Gary Winick,"Michael Imperioli, Mira Sorvino, Joyce Phillips",Drama,6.2
+531,The Eternal Evil of Asia,1995,89,Man-Kei Chin,"Ellen Chan, Lily Chung, Ben Ngai-Cheung Ng","Comedy, Fantasy, Horror",6.2
+532,The Girl with the Hungry Eyes,1995,84,Jon Jacobs,"Christina Fulton, Isaac Turner, Leon Herbert",Horror,4.1
+533,Gladiator Cop,1995,92,Nick Rotundo,"Frank Anderson, Dan Carter, Eugene Clark","Action, Drama, Fantasy",3.2
+534,Sex & the Other Man,1995,89,Karl Slovin,"Stanley Tucci, Kari Wuhrer, Ron Eldard","Comedy, Drama",4.6
+535,Heads and Tails,1995,86,Georgiy Daneliya,"Kirill Pirogov, Polina Kutepova, Oleg Basilashvili",Comedy,7.0
+536,Mechanical Violator Hakaider,1995,77,Keita Amemiya,"Yûji Kishimoto, Mai Hôshô, Jiro Okamoto","Action, Sci-Fi",6.1
+537,Once Upon a Time... When We Were Colored,1995,115,Tim Reid,"Al Freeman Jr., Phylicia Rashad, Leon","Drama, Romance",7.4
+538,Deadly Sins,1995,98,Michael Robison,"David Keith, Peter Hanlon, Joely Collins","Drama, Horror, Mystery",4.6
+539,Last Man Standing,1995,96,Joseph Merhi,"Jeff Wincott, Jillian McWhirter, Jonathan Fuller","Action, Crime, Drama",5.6
+540,Musulmanin,1995,110,Vladimir Khotinenko,"Evgeniy Mironov, Aleksandr Baluev, Nina Usatova",Drama,6.8
+541,Orson Welles: The One-Man Band,1995,88,"Vassili Silovic, Oja Kodar","Oja Kodar, Ingrid Bergman, Tim Brooke-Taylor",Documentary,7.5
+542,For Better or Worse,1995,105,Jason Alexander,"Jason Alexander, Lolita Davidovich, James Woods","Action, Comedy, Drama",4.8
+543,The Toilers and the Wayfarers,1995,76,Keith Froelich,"Matt Klemp, Ralf Schirg, Andrew Woodhouse","Drama, Romance",6.1
+544,Lonely Hearts Club,1995,110,Chih-yen Yee,"Bing-Bing Pai, Joy Yi-Chun Pan, Neil Peng",Drama,5.7
+545,Jungleground,1995,90,Don Allan,"Roddy Piper, Torri Higginson, Peter Williams","Action, Sci-Fi, Thriller",5.3
+546,Victim of Desire,1995,85,Jim Wynorski,"Marc Singer, Shannon Tweed, Johnny Williams","Crime, Drama, Thriller",3.9
+547,Bang,1995,98,Ash Baron-Cohen,"Darling Narita, Peter Greene, Michael Newland","Crime, Drama",6.2
+548,Salto al vacío,1995,85,Daniel Calparsoro,"Najwa Nimri, Roberto Chalu, Alfredo Villa","Crime, Drama",6.5
+549,Terminal Voyage,1995,79,Rick Jacobson,"Steven Bauer, Emma Samms, Brenda Bakke","Mystery, Sci-Fi",4.2
+550,Krzysztof Kieslowski: I'm So-So...,1995,56,Krzysztof Wierzbicki,"Krzysztof Kieslowski, Jacek Petrycki, Krzysztof Wierzbicki","Documentary, Biography",7.4
+551,Hulchul,1995,152,Anees Bazmee,"Vinod Khanna, Ajay Devgn, Kajol","Action, Romance, Comedy",4.5
+552,Lunarcop,1995,88,Boaz Davidson,"Michael Paré, Billy Drago, Walker Brandt","Action, Drama, Sci-Fi",4.4
+553,Ei Ghor Ei Songsar,1995,155,Malek Afsari,"Rosy Samad, Bulbul Ahmed, Salman Shah","Drama, Family, Romance",8.4
+554,Nazar Ke Samne,1995,96,Jagdish A. Sharma,"Akshay Kumar, Farheen, Ekta Sohini","Action, Crime, Drama",3.8
+555,Between the Devil and the Deep Blue Sea,1995,92,Marion Hänsel,"Stephen Rea, Ling Chu, Adrian Brine",Drama,7.3
+556,Nothing Personal,1995,86,Thaddeus O'Sullivan,"Ian Hart, John Lynch, James Frain",Drama,6.8
+557,Spin,1995,57,Brian Springer,"Larry Agran, Jim Bakker, Bill Beutel",Documentary,7.8
+558,Reckless,1995,91,Norman René,"Mia Farrow, Tony Goldwyn, Juana Barrios","Comedy, Drama, Fantasy",5.2
+559,Two Deaths,1995,99,Nicolas Roeg,"Sonia Braga, Patrick Malahide, Ion Caramitru","Drama, War",6.4
+560,Breach of Trust,1995,96,Charles Wilkinson,"Michael Biehn, Matt Craven, Leilani Sarelle","Action, Drama, Thriller",5.2
+561,Excessive Force II: Force on Force,1995,88,Jonathan Winfrey,"Mandingo Warrior, Bradford Tatum, David Hugghins","Action, Drama",4.3
+562,Carl Th. Dreyer: My Métier,1995,96,Torben Skjødt Jensen,"Clara Pontoppidan, Hélène Falconetti, Lisbeth Movin","Documentary, Biography, History",6.7
+563,Two-Bits & Pepper,1995,89,Corey Michael Eubanks,"Joe Piscopo, Dennis Weaver, Lauren Eckstrom","Adventure, Comedy, Drama",4.1
+564,Nueba Yol,1995,106,Ángel Muñiz,"Luisito Martí, Caridad Ravelo, Raúl Carbonell","Comedy, Drama",7.1
+565,The Adventurers,1995,108,Ringo Lam,"Andy Lau, Rosamund Kwan, Chien-Lien Wu","Action, Drama",6.1
+566,Timemaster,1995,100,James Glickenhaus,"Jesse Cameron-Glickenhaus, Veronica Cameron-Glickenhaus, Joanna Pacula","Adventure, Sci-Fi, Western",3.5
+567,Io no spik inglish,1995,93,Carlo Vanzina,"Paolo Villaggio, Paola Quattrini, Ian Price",Comedy,4.8
+568,Vsyo budet khorosho,1995,100,Dmitriy Astrakhan,"Anatoliy Zhuravlyov, Olga Ponizova, Mark Goronok",Comedy,6.8
+569,Yaraana,1995,125,David Dhawan,"Rishi Kapoor, Madhuri Dixit, Raj Babbar","Drama, Romance, Thriller",4.2
+570,The Haunted World of Edward D. Wood Jr.,1995,89,Brett Thompson,"Maila Nurmi, Dolores Fuller, Paul Marco","Documentary, Biography, Horror",7.3
+571,Chameleon,1995,108,Michael Pavone,"Anthony LaPaglia, Kevin Pollak, Melora Hardin",Thriller,5.9
+572,Loving You,1995,84,Johnnie To,"Ching-Wan Lau, Carman Lee, Chung-Hua Tou","Action, Crime, Drama",6.4
+573,Beach Babes 2: Cave Girl Island,1995,80,David DeCoteau,"Roxanne Blaze, Tina Lawrence, Stephanie Hudson","Comedy, Sci-Fi",3.4
+574,Adão e Eva,1995,104,Joaquim Leitão,"Maria de Medeiros, Joaquim de Almeida, Karra Elejalde",Drama,5.8
+575,Cellblock Sisters: Banished Behind Bars,1995,95,Henri Charr,"Annie Wood, Gail Thackray, Jenna Bodnar","Crime, Drama",3.6
+576,Compelling Evidence,1995,86,Donald Farmer,"Brigitte Nielsen, Danny Fendley, Dana Plato",Thriller,2.3
+577,The Night Is Dark,1995,110,Dragan Kresoja,"Dragan Micanovic, Branka Katic, Jelisaveta 'Seka' Sablic",Drama,7.3
+578,Stormswept,1995,93,David I. Frazer,"Justin Carroll, Kathleen Kinmont, Melissa Moore","Drama, Horror, Mystery",3.6
+579,The Run of the Country,1995,109,Peter Yates,"Albert Finney, Matt Keeslar, Victoria Smurfit","Drama, Romance",6.1
+580,Till the End of the Night,1995,90,Larry Brand,"Scott Valentine, Katherine Kelly Lang, John Enos III",Drama,3.8
+581,Just a Girl,1995,170,Peter Schrøder,"Waage Sandø, Inge Sofie Skovbo, Birthe Neumann","Biography, Drama, History",6.5
+582,Freispiel,1995,94,Harald Sicheritz,"Alfred Dorfer, Lukas Resetarits, Andrea Eckert",Comedy,6.8
+583,Pocahontas: The Legend,1995,102,Danièle J. Suissa,"Sandrine Holt, Miles O'Keeffe, Tony Goldwyn","Action, Drama",4.3
+584,Nirnnayam,1995,165,Sangeeth Sivan,"Mohanlal, Lalu Alex, Heera Rajgopal","Action, Thriller",7.1
+585,Gundaraj,1995,140,Guddu Dhanoa,"Ajay Devgn, Amrish Puri, Kajol","Action, Drama",4.3
+586,Gospa,1995,125,Jakov Sedlar,"Martin Sheen, Michael York, Morgan Fairchild","Drama, History",4.0
+587,Midnight Tease II,1995,91,Richard Styles,"Kimberly Kelley, Jack Turturici, Julie K. Smith","Thriller, Drama",3.8
+588,Notes from Underground,1995,88,Gary Walkow,"Henry Czerny, Seth Green, Sheryl Lee",Drama,6.3
+589,Midnight Man,1995,93,John Weidner,"Lorenzo Lamas, James Lew, Mako","Action, Crime, Drama",4.7
+590,The Last Word,1995,94,Tony Spiridakis,"Timothy Hutton, Joe Pantoliano, Michelle Burke","Crime, Drama, Thriller",4.8
+591,Boston Kickout,1995,110,Paul Hills,"John Simm, Emer McCourt, Marc Warren",Drama,6.0
+592,Gambler,1995,169,Dayal Nihalani,"Govinda, Shilpa Shetty Kundra, Aditya Pancholi","Action, Comedy, Crime",5.1
+593,Mommy,1995,89,Max Allan Collins,"Patty McCormack, Rachel Lemieux, Jason Miller","Horror, Mystery, Thriller",4.8
+594,Aniyan Bava Chetan Bava,1995,130,Rajasenan,"Jayaram, Narendra Prasad, Rajan P. Dev","Comedy, Drama",6.8
+595,Siao Yu,1995,104,Sylvia Chang,"Rene Liu, Marj Dusay, Chung-Hua Tou",Drama,7.2
+596,Body Count,1995,93,Talun Hsu,"Robert Davi, Steven Bauer, Brigitte Nielsen","Action, Thriller",4.3
+597,Camerieri,1995,101,Leone Pompucci,"Paolo Villaggio, Diego Abatantuono, Marco Messeri",Comedy,6.3
+598,The Butterfly Effect,1995,110,Fernando Colomo,"Coque Malla, María Barranco, Rosa Maria Sardà","Comedy, Romance",5.6
+599,The Steal,1995,91,John Hay,"Alfred Molina, Helen Slater, Peter Bowles","Comedy, Thriller",4.8
+600,Demonsoul,1995,81,Elisar Cabrera,"Eileen Daly, Kerry Norton, Michael Alexander",Comedy,2.0
+601,Last Summer in the Hamptons,1995,108,Henry Jaglom,"Victoria Foyt, Viveca Lindfors, Jon Robin Baitz","Comedy, Drama",5.8
+602,Animal Room,1995,98,Craig Singer,"Ryan Payne Bell, Dechen Thurman, Eddie Malavarca","Drama, Thriller",5.1
+603,Decoy,1995,98,Vittorio Rambaldi,"Peter Weller, Robert Patrick, Charlotte Lewis",Action,4.6
+604,Doraemon: Nobita's Diary on the Creation of the World,1995,97,Tsutomu Shibayama,"Nobuyo Ôyama, Noriko Ohara, Kazuya Tatekabe","Animation, Adventure, Comedy",6.7
+605,The Spy Within,1995,87,Steve Railsback,"Scott Glenn, Theresa Russell, Lane Smith",Thriller,4.8
+606,Sisindri,1995,151,Siva Nageshwara Rao,"Akhil Akkineni, Nagarjuna Akkineni, Aamani","Comedy, Family",7.0
+607,Cafe Society,1995,107,Raymond De Felitta,"Frank Whaley, Peter Gallagher, Lara Flynn Boyle","Drama, Mystery",5.6
+608,Cyborg Cop III,1995,94,Yossi Wein,"Frank Zagarino, Bryan Genesse, Jenny McShane","Action, Sci-Fi, Thriller",3.5
+609,Caged Heat 3000,1995,80,Aaron Osborne,"Lisa Boyle, Kena Land, Zaneta Polard","Action, Sci-Fi",3.5
+610,Body Switch,1995,88,Jørn Faurschou,"Ulf Pilgaard, Morten Schaffalitzky, Kenn Godske","Drama, Romance, Sci-Fi",5.6
+611,Inspector Balram,1995,143,I.V. Sasi,"Mammootty, Murali, Kiran Kumar","Action, Drama, Thriller",6.9
+612,Haqeeqat,1995,166,Kuku Kohli,"Ajay Devgn, Tabu, Aruna Irani","Action, Drama, Romance",4.6
+613,The Red Wolf,1995,92,Yuen Woo-Ping,"Kenny Ho, Christy Chung, Elaine Lui","Action, Comedy, Thriller",6.1
+614,Running Wild,1995,94,Dee McLachlan,"John Varty, Elmon Mhlongo, Brooke Shields",Drama,5.5
+615,The Survivor,1995,144,Seifollah Dad,"Jamal Soliman, Alaa El Din Koksh, Salma Al-Masri","Drama, History",7.6
+616,Crayon Shin-chan: Unkokusai no Yabou,1995,94,Mitsuru Hongô,"Akiko Yajima, Miki Narahashi, Keiji Fujiwara","Animation, Adventure, Comedy",6.5
+617,Ten Benny,1995,108,Eric Bross,"Adrien Brody, Michael Gallagher, Sybil Darrow",Drama,5.7
+618,Alluda Majaaka!,1995,161,E.V.V. Satyanarayana,"Chiranjeevi, Lakshmi, Ramya Krishnan","Action, Comedy, Drama",6.1
+619,She Good Fighter,1995,85,Marc Punt,"Dagmar Liekens, Sophie Winters, Tom Van Landuyt","Action, Crime, Drama",5.4
+620,Scorpion Spring,1995,90,Brian Cox,"Alfred Molina, Rubén Blades, Esai Morales","Crime, Thriller",4.4
+621,Beyond Desire,1995,87,Dominique Othenin-Girard,"William Forsythe, Kari Wuhrer, Leo Rossi","Action, Thriller",4.7
+622,America America,1995,137,Nagathihalli Chandrashekar,"Akshay Anand, Anitharani, Annapurnamma",Drama,8.4
+623,Over My Dead Body,1995,104,Rainer Matsutani,"Christoph M. Ohrt, Katja Riemann, Ulrike Folkerts","Comedy, Fantasy, Romance",6.8
+624,Temptress,1995,93,Lawrence Lanoff,"Kim Delaney, Chris Sarandon, Corbin Bernsen","Horror, Thriller",4.1
+625,Raging Angels,1995,96,Alan Smithee,"Sean Patrick Flanery, Diane Ladd, Monet Mazur","Fantasy, Horror, Thriller",3.3
+626,Celestial Clockwork,1995,85,Fina Torres,"Ariadna Gil, Arielle Dombasle, Evelyne Didi",Comedy,6.7
+627,Bodily Harm,1995,91,James Lemmo,"Linda Fiorentino, Daniel Baldwin, Gregg Henry","Mystery, Thriller",4.9
+628,Condition Red,1995,83,Mika Kaurismäki,"James Russo, Cynda Williams, Paul Calderon","Action, Drama, Thriller",4.8
+629,Lap Dancing,1995,90,Mike Sedan,"Lorissa McComas, Tane McClure, Burke Morgan",Drama,4.5
+630,The Show,1995,93,Brian Robbins,"Craig Mack, Dr. Dre, Afrika Bambaataa","Documentary, Music",6.9
+631,"Rudy, the Racing Pig",1995,101,Peter Timm,"Ulrich Mühe, Iris Berben, Cora Sabrina Grimm","Comedy, Family",4.9
+632,Catwalk,1995,95,Robert Leacock,"Christy Turlington, Azzedine Alaïa, Giorgio Armani",Documentary,7.0
+633,Indecent Behavior III,1995,92,Kelley Cauthen,"Shannon Tweed, Sam Hennings, Colleen Coffey","Drama, Thriller",4.0
+634,Rainbow,1995,98,Bob Hoskins,"Willy Lavendel, Bob Hoskins, Jack Fisher","Comedy, Family, Fantasy",4.5
+635,The Innocent Sleep,1995,110,Scott Michell,"Oliver Cotton, Tony Bluto, Paul Brightwell","Crime, Drama, Thriller",5.3
+636,The Donor,1995,94,Damian Lee,"Jeff Wincott, Michelle Johnson, Falconer Abraham","Action, Thriller",4.7
+637,"Young Blood, Fresh Meat",1995,80,David DeCoteau,"Julie Strain, Raelyn Saalman, Michelle Bauer",Horror,3.4
+638,Welcome II the Terrordome,1995,90,Ngozi Onwurah,"Suzette Llewellyn, Saffron Burrows, Felix Joseph","Drama, Sci-Fi",5.9
+639,Lady Into Lassie,1995,110,Aleksey Sakharov,"Elena Korikova, Dmitriy Shcherbina, Leonid Kuravlyov","Drama, Romance",6.8
+640,Playing Dangerous,1995,86,Lawrence Lanoff,"Mikey LeBeau, David Keith Miller, George Shannon","Action, Comedy, Crime",3.9
+641,Aurora: Operation Intercept,1995,94,Paul Levine,"Bruce Payne, Natalya Andreychenko, Lance Henriksen","Action, Drama, Thriller",3.6
+642,Backfire!,1995,93,A. Dean Bell,"Josh Mosby, Robert Mitchum, Kathy Ireland",Comedy,3.2
+643,Ten Brothers,1995,100,Lik-Chi Lee,"Kenny Bee, Sharla Cheung, Ashton Chen","Action, Comedy, Fantasy",6.0
+644,Ammoru,1995,129,Kodi Ramakrishna,"Ramya Krishnan, Soundarya, Suresh","Fantasy, Thriller",7.2
+645,Fists of Iron,1995,94,Richard W. Munchkin,"Michael Worth, Jenilee Harrison, Sam J. Jones",Action,4.7
+646,Lover of the Last Empress,1995,100,Wai Keung Lau,"Chingmy Yau, Tony Ka Fai Leung, Rongguang Yu","Drama, History",5.6
+647,Under Lock and Key,1995,92,Henri Charr,"Wendi Westbrook, Barbara Niven, Taylor Leigh","Action, Crime, Drama",4.8
+648,Kids of the Round Table,1995,89,Robert Tinnell,"Johnny Morina, Maggie Castle, Christopher Olscamp","Adventure, Comedy, Family",5.1
+649,Judicial Consent,1995,100,William Bindley,"Bonnie Bedelia, Billy Wirth, Will Patton",Thriller,5.6
+650,Superfights,1995,94,Siu-Hung Leung,"Brandon Gaines, Feihong Yu, Keith Vitali","Action, Crime, Drama",5.7
+651,The Wife,1995,101,Tom Noonan,"Julie Hagerty, Tom Noonan, Wallace Shawn","Comedy, Drama",6.7
+652,Third Time Lucky,1995,90,Dragoslav Lazic,"Rados Bajic, Velimir 'Bata' Zivojinovic, Anja Popovic",Comedy,5.6
+653,Sábado,1995,85,Ugo Giorgetti,"Otávio Augusto, Maria Padilha, Tom Zé",Comedy,7.3
+654,The Break,1995,100,Lee H. Katzin,"Vincent Van Patten, Rae Dawn Chong, Martin Sheen","Drama, Sport",5.4
+655,Breaking Free,1995,106,David Mackay,"Jeremy London, Gina Philips, Megan Gallagher",Drama,6.5
+656,Two Billion Hearts,1995,106,Murilo Salles,"Roberto Baggio, Bebeto, Dennis Bergkamp","Documentary, Sport",7.5
+657,Muktir Gaan,1995,80,"Catherine Masud, Tareque Masud","Mahmudur Rahman Benu, Shaheen Samad, Ziauddin Tariq Ali",Documentary,9.2
+658,Megint tanú,1995,120,Péter Bacsó,"Ferenc Kállai, György Cserhalmi, József Czintos","Comedy, Drama",4.7
+659,Street Law,1995,98,Damian Lee,"Jeff Wincott, Paco Christian Prieto, Christina Cox","Action, Drama",3.7
+660,Bigfoot: The Unforgettable Encounter,1995,88,Corey Michael Eubanks,"JoJo Adams, Brian Avery, Derek Barton","Adventure, Family",4.0
+661,Au petit Marguery,1995,95,Laurent Bénégui,"Stéphane Audran, Michel Aumont, Alain Beigel","Drama, Comedy, Romance",6.8
+662,Man of the Year,1995,86,Dirk Shafer,"Vivian Paxton, Claudette Sutherland, Michael Ornstein","Comedy, Romance",5.9
+663,Fatal Pursuit,1995,103,Eric Louzil,"L.P. Brown III, Shannon Whirry, Malcolm McDowell","Crime, Drama, Thriller",3.7
+664,Andolan,1995,192,Aziz Sejawal,"Sanjay Dutt, Govinda, Somy Ali","Action, Comedy, Drama",5.0
+665,Ballistic,1995,96,Kim Bass,"Marjean Holden, Corinna Everson, Sam J. Jones","Action, Thriller",4.5
+666,Hotel Sorrento,1995,112,Richard Franklin,"Caroline Goodall, Caroline Gillmer, Tara Morice",Drama,6.5
+667,A Single Spark,1995,92,"Park Kwang-su, Park Kwang Soo","Kim Bo-Kyeong, Kim Bo-kyung, Yoo Byeong-Seok",Drama,7.0
+668,Clockwork Mice,1995,100,Vadim Jean,"Ian Hart, Catherine Russell, Rúaidhrí Conroy","Drama, Sport",6.3
+669,A Reason to Believe,1995,109,Douglas Tirola,"Jay Underwood, Allison Smith, Danny Quinn",Drama,5.7
+670,Shadow Skill,1995,45,Hiroshi Negishi,"Yuri Amano, Megumi Hayashibara, Chieko Honda","Animation, Action, Sci-Fi",5.4
+671,Mirror Mirror 3: The Voyeur,1995,91,"Rachel Gordon, Virginia Perfili","Billy Drago, David Naughton, Monique Parent","Drama, Horror",2.6
+672,Lipton Cockton in the Shadows of Sodoma,1995,83,Jari Halonen,"Jorma Tommila, Tarja-Tuulikki Tarsala, Hannu Huuska","Mystery, Sci-Fi, Thriller",5.6
+673,Eldorado,1995,104,Charles Binamé,"Pascale Bussières, Robert Brouillette, James Hyndman",Drama,7.0
+674,Les Milles,1995,103,Sébastien Grall,"Jean-Pierre Marielle, Ticky Holgado, Rüdiger Vogler","Comedy, Drama, War",6.4
+675,Watch Me,1995,90,Lipo Ching,"Jennifer Burton, Robert Medford, Kehli O'Byrne","Drama, Romance, Thriller",4.8
+676,The Attack on H3,1995,93,Shahriar Bahrani,"Jafar Dehghan, Faramarz Shahani, Hassan Abbasi","Action, War",7.1
+677,Perfect Alibi,1995,98,Kevin Meyer,"Teri Garr, Hector Elizondo, Alex McArthur","Crime, Drama, Mystery",5.3
+678,Oru Abhibhashakante Case Diary,1995,129,K. Madhu,"Mammootty, Vijayaraghavan, Rajan P. Dev","Mystery, Thriller",6.8
+679,Love in the Time of Twilight,1995,103,Hark Tsui,"Nicky Wu, Charlie Yeung, Eric Kot","Comedy, Drama, History",7.1
+680,Gravesend,1995,85,Salvatore Stabile,"Thomas Brandise, Tom Malloy, Michael Parducci","Crime, Drama",6.2
+681,Forbidden Games,1995,89,Edward Holzman,"Jeff Griggs, Lesli Kay, Gail Thackray","Crime, Mystery, Thriller",4.4
+682,New World,1995,125,Alain Corneau,"Nicolas Chatel, Sarah Grappin, James Gandolfini",Drama,5.8
+683,Truffles,1995,85,Bernard Nauer,"Jean Reno, Christian Charmetant, Isabelle Candelier",Comedy,5.0
+684,Girl Guide,1995,93,Juliusz Machulski,"Pawel Kukiz, Renata Gabryjelska, Tommy Tomaszewski","Action, Comedy, Thriller",4.6
+685,Dushmani: A Violent Love Story,1995,156,"Bunty Soorma, Shekhar Kapur, Sanjay Khanna","Sunny Deol, Jackie Shroff, Manisha Koirala","Action, Drama, Romance",4.9
+686,Friendship's Field,1995,83,Bruce Neibaur,"Kate Maberly, Jonathan Hernandez, Randall King","Drama, Family",7.0
+687,The Story of a Poor Young Man,1995,120,Ettore Scola,"Rolando Ravello, Alberto Sordi, Isabella Ferrari","Crime, Drama",6.5
+688,Stripteaser,1995,74,Dan Golden,"Maria Ford, Rick Dean, Lance August","Comedy, Thriller",4.4
+689,"Benjamin, the Dove",1995,88,Gísli Snær Erlingsson,"Sturla Sighvatsson, Gunnar Cauthery, Sigfús Sturluson","Drama, Family",7.1
+690,The Keeper,1995,92,Joe Brewster,"Giancarlo Esposito, Regina Taylor, Isaach De Bankolé","Crime, Drama",5.7
+691,Puthukkottayile Puthumanavalan,1995,130,"Meccartin, Raffi","Jayaram, Prem Kumar, Annie","Action, Comedy, Drama",6.9
+692,Dangerous Prey,1995,93,Lloyd A. Simandl,"Shannon Whirry, Kiara Hunter, Josef Laufer","Action, Crime, Drama",4.1
+693,Tell Me Yes...,1995,107,Alexandre Arcady,"Jean-Hugues Anglade, Julia Maraval, Nadia Farès","Comedy, Drama, Romance",5.9
+694,All Men Are Liars,1995,91,Gerard Lee,"Toni Pearen, David Price, John Jarratt",Comedy,6.2
+695,Fiesta,1995,108,Pierre Boutron,"Jean-Louis Trintignant, Grégoire Colin, Marc Lavoine",Drama,6.9
+696,Plan 10 from Outer Space,1995,80,Trent Harris,"Stefene Russell, Karen Black, Patrick Michael Collins","Comedy, Sci-Fi",6.1
+697,Iz,1995,116,Yesim Ustaoglu,"Derya Alabora, Aytaç Arman, Mustafa Arslan","Drama, Thriller",6.1
+698,Provocation,1995,80,Joe D'Amato,"Erika Savastani, Fabrizia Flanders, Gianni Demartiis","Drama, Romance",4.4
+699,Across the Sea of Time,1995,51,Stephen Low,"Peter Reznick, John McDonough, Avi Hoffman","Adventure, Drama, Family",6.4
+700,There Once Was a Cop,1995,83,Jaroslav Soukup,"Ladislav Potmesil, Miroslav Moravec, Rudolf Hrusínský",Comedy,4.5
+701,A Boy Called Hate,1995,97,Mitch Marcus,"Scott Caan, Lee Nashold, Kevin Michael Richardson","Crime, Drama, Romance",5.0
+702,A Young Connecticut Yankee in King Arthur's Court,1995,95,Ralph L. Thomas,"Michael York, Theresa Russell, Nick Mancuso","Adventure, Fantasy",4.8
+703,Grizzly Mountain,1995,96,Jeremy Haft,"Dan Haggerty, Dylan Haggerty, Nicole Lund","Adventure, Family, Fantasy",5.1
+704,My Sister's Good Fortune,1995,84,Angela Schanelec,"Anna Bolk, Wolfgang Michael, Angela Schanelec",Drama,6.0
+705,Under the Gun,1995,90,Matthew George,"Richard Norton, Kathy Long, Jane Badler",Action,5.2
+706,Kimia,1995,92,Ahmad Reza Darvish,"Khosro Shakibai, Bita Farahi, Reza Kianian","Drama, War",6.1
+707,Marble Ass,1995,86,Zelimir Zilnik,"Vjeran Miladinovic, Nenad Rackovic, Nenad Milenkovic","Comedy, Drama, War",6.5
+708,Pictures of Baby Jane Doe,1995,92,Paul Peditto,"Calista Flockhart, Christopher Peditto, Elina Löwensohn","Drama, Romance",4.7
+709,Madagascar Skin,1995,96,Chris Newby,"Bernard Hill, John Hannah, Mark Anthony","Comedy, Romance",6.1
+710,Carmen Miranda: Bananas Is My Business,1995,91,Helena Solberg,"Helena Solberg, Eric Barreto, Cynthia Adler","Documentary, Biography, Music",7.6
+711,The Diary of Anne Frank,1995,102,Akinori Nagaoka,"Rena Takahashi, Gô Katô, Fumie Kashiyama","Animation, Biography, Drama",6.7
+712,"In the Kingdom of the Blind, the Man with One Eye Is King",1995,99,Nick Vallelonga,"Michael Biehn, William Petersen, Leo Rossi","Crime, Drama",4.5
+713,Mercy,1995,85,Richard Shepard,"John Rubinstein, Amber Kain, Sam Rockwell","Crime, Drama, Thriller",5.0
+714,Cyber Vengeance,1995,94,J. Christian Ingvordsen,"Robert Davi, Matthias Hues, J. Gregory Smith","Action, Sci-Fi, Thriller",3.6
+715,Leapin' Leprechauns!,1995,84,Ted Nicolaou,"Andrew Smith, John Bluthal, Ray Bright","Family, Fantasy, Horror",4.7
+716,Un eroe borghese,1995,93,Michele Placido,"Fabrizio Bentivoglio, Michele Placido, Omero Antonutti","Crime, Drama, Thriller",7.0
+717,Naseem,1995,89,Saeed Akhtar Mirza,"Kaifi Azmi, Kulbhushan Kharbanda, Surekha Sikri",Drama,7.1
+718,Dominion,1995,95,Michael G. Kehoe,"Brad Johnson, Brion James, Tim Thomerson","Adventure, Drama",4.8
+719,Lo zio di Brooklyn,1995,98,"Daniele Ciprì, Franco Maresco","Salvatore Gattuso, Pippo Agusta, Salvatore Schiera",Comedy,7.1
+720,Maanthrikam,1995,144,Thampi Kannanthanam,"Mohanlal, Jagadish, Priya Raman","Action, Comedy, Drama",6.3
+721,Under the Hula Moon,1995,94,Jeff Celentano,"Stephen Baldwin, Emily Lloyd, Chris Penn","Action, Comedy",4.3
+722,To Have (or Not),1995,84,Laetitia Masson,"Sandrine Kiberlain, Arnaud Giovaninetti, Roschdy Zem","Drama, Romance",6.6
+723,Junkers Come Here,1995,105,Jun'ichi Satô,"Mei Oshitani, Shinnosuke Furumoto, Naoto Kine","Animation, Adventure, Family",7.1
+724,From the Journals of Jean Seberg,1995,97,Mark Rappaport,"Mary Beth Hurt, Jean Seberg","Documentary, Biography",7.0
+725,Walking Thunder,1995,95,Craig Clyde,"James Read, John Denver, David Tom","Drama, Family",5.8
+726,Entre rojas,1995,93,Azucena Rodríguez,"Penélope Cruz, Cristina Marcos, María Pujalte",Drama,5.5
+727,Prem,1995,167,Satish Kaushik,"Sanjay Kapoor, Tabu, Deepak Tijori","Action, Drama, Romance",4.1
+728,The Dark Dancer,1995,98,Robert Burge,"Shannon Tweed, Jason Carter, Lisa Pescia","Drama, Thriller",3.4
+729,Haunted School,1995,101,Hideyuki Hirayama,"Hironobu Nomura, Kasumi Toyama, Shiori Yonezawa","Family, Horror",6.2
+730,Takkar,1995,143,Bharat Rangachary,"Naseeruddin Shah, Suniel Shetty, Sonali Bendre","Action, Crime, Drama",4.7
+731,Super Citizen Ko,1995,121,Jen Wan,"Chiu-Yen Chen, I-Chen Ko, Yang Lin",Drama,7.1
+732,Parallel Sons,1995,93,John G. Young,"Gabriel Mann, Laurence Mason, Murphy Guyer","Drama, Romance",6.3
+733,Hostile Intentions,1995,90,Catherine Cyran,"Tia Carrere, Rigg Kennedy, Lisa Dean Ryan","Action, Drama, Thriller",3.9
+734,Cover Me,1995,94,Michael Schroeder,"Rick Rossovich, Courtney Taylor, Paul Sorvino","Mystery, Thriller",3.4
+735,Indira,1995,143,Suhasini,"Anuradha Hasan, Arvind Swamy, Nassar",Drama,7.1
+736,Legend of Crystania: The Motion Picture,1995,85,Ryûtarô Nakamura,"Hikaru Midorikawa, Mitsuki Yayoi, Sakiko Tamagawa","Animation, Action, Adventure",5.9
+737,A Quiet Life,1995,121,Jûzô Itami,"Masayuki Imai, Nobuko Miyamoto, Hinako Saeki",Drama,6.9
+738,Mushrooms,1995,93,Alan Madden,"Julia Blake, Simon Chilvers, Lynette Curran","Comedy, Crime, Thriller",6.1
+739,What's It All About,1995,92,Ventura Pons,"Lluís Homar, Pepa López, Àlex Casanovas","Comedy, Romance",6.3
+740,Storybook,1995,88,Lorenzo Doumani,"Sean Fitzgerald, Swoosie Kurtz, Richard Moll","Adventure, Family, Fantasy",4.8
+741,Vampire Vixens from Venus,1995,90,Ted A. Bohus,"Leon Head, Michelle Bauer, Theresa Lynn","Comedy, Horror, Sci-Fi",3.1
+742,Fatal Passion,1995,90,T.L. Lankford,"Tori Sinclair, Clayton Norcross, Lawrence Tierney","Drama, Thriller",4.1
+743,Package Arrangement,1995,120,"Srdan Golubovic, Ivan Stefanovic, Dejan Zecevic","Milica Mihajlovic, Boris Milivojevic, Bojan Zirovic",Comedy,7.1
+744,Dangerous Indiscretion,1995,81,Richard Kletter,"C. Thomas Howell, Wendy Abbott, Alex Doduk","Drama, Thriller",4.7
+745,Indiánské léto,1995,65,Sasa Gedeon,"Tatiana Dyková, Klára Issová, Robert Stepánek","Comedy, Drama, Romance",7.0
+746,I Want to Be Alive,1995,90,Iraj Ghaderi,"Faramarz Gharibian, Fatemeh Goudarzi, Fathali Oveisi","Crime, Drama",5.4
+747,"Don't Cry, Nanking",1995,120,Ziniu Wu,"Chin Han, Ai Saotome, Rene Liu","Drama, History, War",6.6
+748,Mee Pok Man,1995,105,Eric Khoo,"Joe Ng, Michelle Goh, Kay Tong Lim","Crime, Drama, Romance",6.0
+749,Hum Dono,1995,154,Shafi Inamdar,"Rishi Kapoor, Nana Patekar, Pooja Bhatt","Action, Comedy, Thriller",6.1
+750,Monster Mash: The Movie,1995,82,"Joel Cohen, Alec Sokolow","Ian Bohen, Candace Cameron Bure, Sarah Douglas","Comedy, Horror, Musical",4.1
+751,Beladingala Baale,1995,152,Sunil Kumar Desai,"Anant Nag, Ramesh Bhat, Loknath","Drama, Fantasy, Romance",8.5
+752,La ley de la frontera,1995,115,Adolfo Aristarain,"Pere Ponce, Aitana Sánchez-Gijón, Achero Mañas",Adventure,6.2
+753,Witch Academy,1995,83,Fred Olen Ray,"Suzanne Ager, Priscilla Barnes, Michelle Bauer","Comedy, Horror",3.9
+754,Dragon Fury,1995,79,David Heavener,"Richard Lynch, Robert Chapin, Chona Jason","Action, Sci-Fi",3.2
+755,Pan,1995,115,Henning Carlsen,"Lasse Kolsrud, Sofie Gråbøl, Bjørn Sundquist",Drama,5.3
+756,Ask Üzerine Söylenmemis Her Sey,1995,124,"Ömer Kavur, Erden Kiral, Yusuf Kurçenli","Zuhal Olcay, Lale Mansur, Cüneyt Türel","Drama, Mystery, Romance",6.1
+757,The Maestro: King of the Cowboy Artists,1995,54,Les Blank,"Gerald Gaxiola, Alice Gaxiola, Peter Mollica",Documentary,7.0
+758,Creep,1995,91,Tim Ritter,"Kathy Willets, Joel D. Wynkoop, Patricia Paul","Horror, Mystery",4.5
+759,Angel Heart,1995,100,"Yen-Ping Chu, Li Fu","Franco Chiang, Vivian Hsu, Stanley Chu",Drama,5.0
+760,Lover's Knot,1995,82,Peter Shaner,"Billy Campbell, Jennifer Grey, Tim Curry","Comedy, Romance",4.6
+761,A Mongolian Tale,1995,103,Fei Xie,"Dalarsurong, Aojirdai, Bayirtcya",Drama,7.3
+762,Antarctica,1995,106,Manuel Huerga,"Ariadna Gil, Carlos Fuentes, José Manuel Lorenzo","Crime, Drama",5.8
+763,Vice Academy 4,1995,89,Rick Sloane,"Elizabeth Kaitan, Julia Parton, Jayne Hamil","Comedy, Crime",4.0
+764,Girl in the Cadillac,1995,89,Lucas Platt,"Erika Eleniak, William McNamara, Michael Lerner","Adventure, Crime, Drama",4.8
+765,Deadly Past,1995,90,Tibor Takács,"Carol Alt, Dedee Pfeiffer, Ron Marquette","Action, Crime, Drama",4.2
+766,O hamenos thisavros tou Hoursit Pasa,1995,85,Stavros Tsiolis,"Makis Kontizas, Mitsos Karamitsos, Argyris Bakirtzis","Adventure, Comedy",6.2
+767,Adultère (mode d'emploi),1995,95,Christine Pascal,"Richard Berry, Karin Viard, Vincent Cassel","Comedy, Drama, Romance",5.7
+768,Headless Body in Topless Bar,1995,110,James Bruce,"Raymond J. Barry, Rustam Branaman, Jennifer MacDonald","Comedy, Crime, Drama",4.7
+769,Open Season,1995,97,Robert Wuhl,"Lloyd Adams, Robert Wuhl, Eric Bryson",Comedy,5.3
+770,Okaeri,1995,99,Makoto Shinozaki,"Tomio Aoki, Ayaka Horie, Shoichi Komatsu",Drama,7.4
+771,Silent Hunter,1995,97,Fred Williamson,"Miles O'Keeffe, Peter Colvey, Jason Cavalier",Action,4.6
+772,Atolladero,1995,95,Óscar Aibar,"Pere Ponce, Joaquín Hinojosa, Iggy Pop","Sci-Fi, Western",4.9
+773,Shinjuku Boys,1995,53,"Kim Longinotto, Jano Williams","Gaish, Tatsu, Kazuki",Documentary,7.2
+774,Wild Bill: Hollywood Maverick,1995,95,Todd Robinson,"Alec Baldwin, James Cagney, Mike Connors","Documentary, Biography",7.7
+775,The Tears of Saint Peter,1995,100,Erich Hörtnagl,"Izabella Scorupco, Carl-Einar Häckner, Rolf Lassgård","Drama, Romance",4.5
+776,Noir comme le souvenir,1995,92,Jean-Pierre Mocky,"Jane Birkin, Sabine Azéma, Jean-François Stévenin","Crime, Mystery, Thriller",6.0
+777,Haircut,1995,91,Joaquim Sapinho,"Carla Bolito, Marco Delgado, Francisco Nascimento",Drama,5.6
+778,Sinful Intrigue,1995,88,Edward Holzman,"Bobby Johnston, Beckie Mullen, Mark Zuelke","Drama, Thriller",4.3
+779,Men Men Men,1995,83,Christian De Sica,"Fabrizio Accordino, Paolo Conticini, Carlo Croccolo",Comedy,5.0
+780,A Last Note,1995,110,Kaneto Shindô,"Haruko Sugimura, Nobuko Otowa, Hideo Kanze",Drama,6.8
+781,The Affair,1995,81,Danny Taylor,"Jenna Bodnar, Robert L. Newman, Will Potter","Drama, Romance",4.5
+782,Surakshaa,1995,148,"Anand, Raju Mavani","Saif Ali Khan, Aditya Pancholi, Suniel Shetty","Action, Comedy, Drama",4.2
+783,Leila Sakhina,1995,120,Atef El-Tayeb,"Nour El-Sherif, Lebleba, Sayed Zayan",Drama,7.1
+784,Gimlet,1995,95,José Luis Acosta,"Ángela Molina, Viggo Mortensen, Abel Folk",Thriller,5.5
+785,Rai,1995,89,Thomas Gilou,"Tabatha Cash, Mustapha Benstiti, Samy Naceri",Drama,5.1
+786,Broken Silence,1995,106,Wolfgang Panzer,"Martin Huber, Ameenah Kaplan, Michael Moriarty",Drama,8.0
+787,The Saint of Gamblers,1995,98,Jing Wong,"Eric Kot, Chingmy Yau, Man-Tat Ng","Action, Comedy",5.1
+788,"Ekspres, Ekspres",1995,76,Igor Sterk,"Gregor Bakovic, Barbara Cerar, Istok Alidic",Drama,6.9
+789,Jupiter's Wife,1995,87,Michel Negroponte,"Maggie Cogan, Katina Commings","Documentary, Biography, Mystery",7.1
+790,Guimba the Tyrant,1995,93,Cheick Oumar Sissoko,"Issa Falaba Traoré, Balla Moussa Keita, Habib Dembélé","Comedy, Drama, Fantasy",6.5
+791,Bye-Bye,1995,105,Karim Dridi,"Sami Bouajila, Nozha Khouadra, Philippe Ambrosini",Drama,7.0
+792,Number One Fan,1995,89,Jane Simpson,"Chad McQueen, Catherine Mary Stewart, Renee Allman",Thriller,4.3
+793,Only Fools Fall in Love,1995,102,Vincent Kok,"Roy Chiao, Shing-Chi Fung, Vincent Kok","Comedy, Drama, History",6.5
+794,Operation Cobra,1995,90,Lasse Spang Olsen,"Kasper Tuxen, Dejan Cukic, Robert Hansen",Action,5.1
+795,The Seventh Room,1995,108,Márta Mészáros,"Maia Morgenstern, Elide Melli, Jan Nowicki","Biography, Drama, War",6.9
+796,Score,1995,88,Atsushi Muroga,"Shû Ehara, Hiroshi Miyasaka, Ryûshi Mizukami","Action, Crime",6.1
+797,Jallaad,1995,144,T.L.V. Prasad,"Mithun Chakraborty, Madhoo, Rambha","Action, Drama",5.6
+798,Out-of-Sync,1995,105,Debbie Allen,"LL Cool J, Gene Anthony Ray, Mark Venturini","Crime, Drama",4.6
+799,Voices from a Locked Room,1995,93,Malcolm Clarke,"Jeremy Northam, Tushka Bergen, Allan Corduner",Drama,6.2
+800,Homage,1995,97,Ross Kagan Marks,"Blythe Danner, Frank Whaley, Sheryl Lee","Crime, Drama, Thriller",5.6
+801,Behind the Waterfall,1995,94,Scott Murphy,"Gary Burghoff, Luke Baird, Alyssa Hansen","Drama, Fantasy",6.0
+802,Bird of Prey,1995,105,Temístocles López,"Lenny von Dohlen, Boyan Milushev, Jennifer Tilly","Crime, Drama, Music",4.6
+803,Angrakshak,1995,116,Ravi Raja Pinisetty,"Sunny Deol, Pooja Bhatt, Rami Reddy","Action, Drama, Romance",4.4
+804,Moskovskie kanikuly,1995,90,Alla Surikova,"Jackie, Irina Seleznyova, Leonid Yarmolnik","Comedy, Romance",5.9
+805,Curtis's Charm,1995,74,John L'Ecuyer,"Maurice Dean Wint, Callum Keith Rennie, Rachael Crawford","Comedy, Drama",6.6
+806,Aadyathe Kanmani,1995,155,Rajasenan,"Jayaram, Sudharani, Biju Menon","Comedy, Drama",6.6
+807,Those Were the Days,1995,85,Didier Haudepin,"Élodie Bouchez, Melvil Poupaud, Sophie Aubry","Drama, Mystery",6.3
+808,The Dogfighters,1995,96,Barry Zetlin,"Robert Davi, Alexander Godunov, Ben Gazzara","Action, Drama, Thriller",4.5
+809,Palla di neve,1995,94,Maurizio Nichetti,"Paolo Villaggio, Alessandro Haber, Anna Falchi","Adventure, Comedy, Family",4.5
+810,Tom & Jerry,1995,134,Kaladharan,"Mukesh, Jagadish, Jagathy Sreekumar","Comedy, Action",6.6
+811,The Wrong Woman,1995,90,Douglas Jackson,"Nancy McKeon, Michele Scarabelli, Chelsea Field",Thriller,5.4
+812,Rude,1995,89,Clement Virgo,"Maurice Dean Wint, Rachael Crawford, Clark Johnson","Crime, Drama",6.1
+813,Mirage,1995,92,Paul Williams,"James Andronica, Cuauhtemoc Rivas, Edward James Olmos","Action, Thriller",4.9
+814,Desired,1995,93,Bernard Murat,"Jean-Paul Belmondo, Fanny Ardant, Claude Rich","Comedy, Romance",6.0
+815,The Stairway to the Distant Past,1995,101,Kaizô Hayashi,"Masatoshi Nagase, Kiyotaka Nanbara, Haruko Wanibuchi","Drama, Mystery",6.8
+816,Assault of the Party Nerds 2: The Heavy Petting Detective,1995,86,Richard Gabai,"Richard Gabai, Christopher Dempsey, Michelle Bauer",Comedy,3.0
+817,Pribytie poezda,1995,98,"Aleksey Balabanov, Vladimir Khotinenko, Aleksandr Khvan","Anna Syomkina, Aleksandr Kaydanovskiy, Aleksey Zhirov",Drama,6.9
+818,The Near Room,1995,90,David Hayman,"Adrian Dunbar, David O'Hara, David Hayman","Drama, Thriller",4.9
+819,L'année Juliette,1995,85,Philippe Le Guay,"Fabrice Luchini, Valérie Stroh, Marine Delterme",Comedy,6.1
+820,Love Sick,1995,94,Savi Gabizon,"Avigail Ariely, Asher Atlas, Hanna Azoulay Hasfari","Comedy, Drama",6.7
+821,Baby Ghost,1995,86,Donald G. Jackson,"Joe Estevez, Erin O'Bryan, Conrad Brooks","Comedy, Family, Horror",1.5
+822,Älskar älskar inte,1995,104,Mikael Ruttkay Hylin,"Thomas Hanzon, Camilla Lundén, Marika Lagercrantz","Drama, Romance",5.3
+823,Subha Sankalpam,1995,150,K. Viswanath,"Kamal Haasan, K. Viswanath, Aamani","Drama, Musical",7.4
+824,Washed Out,1995,87,Zrinko Ogresta,"Katarina Bistrovic-Darvas, Filip Sovagovic, Josip Kuchan","Drama, Romance",6.6
+825,Wielki tydzien,1995,97,Andrzej Wajda,"Beata Fudalej, Wojciech Malajkat, Jakub Przebindowski","Drama, War",6.0
+826,Morirás en Chafarinas,1995,86,Pedro Olea,"Jorge Sanz, Javier Albalá, María Barranco",Thriller,5.9
+827,Fany,1995,99,Karel Kachyna,"Jirina Bohdalová, Jirina Jirásková, Miroslav Donutil",Drama,7.2
+828,Zero Woman,1995,99,Daisuke Gotô,"Natsuki Ozawa, Saori Iwama, Kane Kosugi","Drama, Thriller",4.9
+829,Dad and Dave: On Our Selection,1995,107,George Whaley,"Leo McKern, Joan Sutherland, Geoffrey Rush",Comedy,6.2
+830,Under the Domim Tree,1995,102,Eli Cohen,"Gila Almagor, Kaipu Cohen, Juliano Mer-Khamis",Drama,6.9
+831,Second Chances,1995,121,Olivia M. Lamasan,"Aga Muhlach, Lea Salonga, William Martinez","Drama, Romance",7.3
+832,I'll Leave It All Behind Me,1995,100,José Maria Sanchez,"Renato Pozzetto, Barbara D'Urso, Tamara Donà",Comedy,5.9
+833,Mrs. Munck,1995,96,Diane Ladd,"Diane Ladd, Bruce Dern, Kelly Preston","Comedy, Drama",4.7
+834,No: 1 Sneha Theeram Bangalore North,1995,133,Sathyan Anthikad,"Chippy, Santha Devi, Janardanan","Comedy, Romance",5.8
+835,Russian Roulette - Moscow 95,1995,90,Menahem Golan,"Oliver Reed, Barbara Carrera, Jan-Michael Vincent","Comedy, Crime, Drama",6.0
+836,Phoenix,1995,90,Troy Cook,"Stephen Nichols, Brad Dourif, Billy Drago",Sci-Fi,3.4
+837,Genkai jinkô keisû,1995,54,Yoshihiro Nishimura,"Kisei Ishizuka, Jun Sasaki, Chikako Tone","Action, Horror, Sci-Fi",6.0
+838,Just Looking,1995,84,Tyler Bensinger,"Marshall Bell, Jonah Bliss, Cayla Clark","Comedy, Drama, Romance",5.0
+839,Brylcream Boulevard,1995,95,Robbe De Hert,"Michael Pas, Frank Aendenboom, Babette van Veen","Comedy, Drama",5.7
+840,Catnapped! The Movie,1995,77,"Takashi Nakamura, Toshio Hirata","Noriko Hidaka, Hiroaki Hiro, Mitsuo Iwata","Animation, Adventure, Family",6.9
+841,Dadetown,1995,93,Russ Hexter,"Jim Pryor, Fred Worrell, Bob Signoracci",Drama,7.0
+842,Trinità & Bambino... e adesso tocca a noi!,1995,105,Enzo Barboni,"Heath Kizzier, Keith Neubert, Yvonne de Bark",Western,4.9
+843,"Frantz Fanon: Black Skin, White Mask",1995,70,Isaac Julien,"Colin Salmon, Halima Daoud, Noreen MacDowell","Documentary, Biography",6.5
+844,The Secret Weapon,1995,71,Jannik Hastrup,"Otto Brandenburg, Sofie Bredesen, Lisbet Dahl",Animation,6.1
+845,City Dragon,1995,98,'Philthy' Phil Phillips,"Stan Derain, Kathy Barbour, 'Philthy' Phil Phillips","Action, Comedy",3.8
+846,The Sandman,1995,90,J.R. Bookwalter,"A.J. Richards, Rita Gutowski, Terry J. Lipko",Horror,3.6
+847,Jock: A True Tale of Friendship,1995,91,"Danie Joubert, Duncan MacNeillie","Sean Gallagher, Fay Masterson, Wilson Dunster","Adventure, Family, History",6.8
+848,Black Holes,1995,97,Pappi Corsicato,"Iaia Forte, Vincenzo Peluso, Marinella Anaclerio","Comedy, Drama, Romance",6.1
+849,Hard Evidence,1995,100,Michael Kennedy,"Gregory Harrison, Cali Timmins, Joan Severance","Action, Drama, Thriller",4.7
+850,Who Is Henry Jaglom?,1995,52,"Henry Alex Rubin, Jeremy Workman","Candice Bergen, Karen Black, Peter Bogdanovich",Documentary,6.5
+851,Don't Give a Damn,1995,90,Sammo Kam-Bo Hung,"Sammo Kam-Bo Hung, Biao Yuen, Takeshi Kaneshiro","Action, Thriller, Comedy",6.1
+852,China Dragon,1995,90,Yen-Ping Chu,"Takeshi Kaneshiro, Chuan-Chen Yeh, Man-Tat Ng","Action, Comedy, Crime",5.3
+853,Necrophobia,1995,60,"Frank van Geloven, Edwin Visser","Martijn Oversteegen, Rutger Weemhoff, Gerry Verhoeven",Horror,5.5
+854,My Mother's Courage,1995,89,Michael Verhoeven,"Pauline Collins, George Tabori, Ulrich Tukur","Drama, War",6.8
+855,"À la vie, à la mort!",1995,108,Robert Guédiguian,"Ariane Ascaride, Jacques Boudet, Jean-Pierre Darroussin","Comedy, Drama",7.1
+856,Abducted II: The Reunion,1995,92,Boon Collins,"Dan Haggerty, Jan-Michael Vincent, Raquel Bianca","Action, Thriller",3.6
+857,Hot Ticket,1995,81,Lev L. Spiro,"Maria Ford, Emile B. Levisetti, Kevin Contreras",Action,3.8
+858,Ya - Russkiy soldat,1995,100,Andrey Malyukov,"Dmitriy Medvedev, Milena Tskhovrebova-Arganovich, Aleksey Buldakov","Drama, Romance, War",6.7
+859,Italian Movie,1995,95,Roberto Monticello,"Michael Della Femina, Caprice Benedetti, Janet Sarno",Drama,4.6
+860,Sharaku,1995,138,Masahiro Shinoda,"Hiroyuki Sanada, Furankî Sakai, Shima Iwashita","Biography, Drama, History",6.7
+861,Another Lonely Hitman,1995,105,Rokuro Mochizuki,"Ryô Ishibashi, Kazuhiko Kanayama, Asami Sawaki","Crime, Drama, Thriller",6.9
+862,Höst i paradiset,1995,102,Richard Hobert,"Mona Malm, Sven Lindberg, Göran Stangertz","Comedy, Drama, Romance",5.9
+863,The Trade,1995,89,Masud Kimiai,"Faramarz Gharibian, Arash Yaghmai, Katarina Wolter",Drama,3.9
+864,Cyber Bandits,1995,86,Erik Fleming,"Martin Kemp, Alexandra Paul, Adam Ant","Adventure, Crime, Sci-Fi",3.6
+865,Xiaoshan Going Home,1995,59,Jia Zhang-ke,"Shuzhe Dong, Hongwei Wang, Sheng Yao",Drama,5.9
+866,Savage Hearts,1995,107,Mark Ezra,"Jamie Harris, Maryam d'Abo, Myriam Cyr",Thriller,4.8
+867,Postman,1995,102,Jianjun He,"Yuanzheng Feng, Danni Liang, Jue Chen",Drama,6.4
+868,Water Child,1995,103,Robert Ménard,"David La Haye, Marie-France Monette, Gilbert Sicotte",Drama,6.9
+869,Glastonbury: The Movie in Flashback,1995,96,"William Beaton, Lisa Lake, Robin Mahoney","Richard Ashcroft, Phil Bell, Charlie Creed-Miles","Documentary, Music",6.1
+870,A Modern Affair,1995,90,Vern Oakley,"Lisa Eichhorn, Caroline Aaron, Robert LuPone","Comedy, Drama, Romance",5.6
+871,Jonah and the Pink Whale,1995,92,Juan Carlos Valdivia,"Dino García, María Renée Prudencio, Claudia Lobo",Drama,5.3
+872,French Exit,1995,92,Daphna Kastner,"Mädchen Amick, Jonathan Silverman, Molly Hagan","Comedy, Romance",4.5
+873,"England, My England",1995,153,Tony Palmer,"Simon Callow, Michael Ball, Rebecca Front","Biography, Drama, History",7.0
+874,Broadcast Bombshells,1995,80,Ernest G. Sauer,"Amy Lynn Baxter, Debbie Rochon, John Richardson",Comedy,3.2
+875,Raasaiyya,1995,129,"Kannan, R. Kannan","Prabhu Deva, Roja, M.N. Nambiar","Comedy, Drama",4.8
+876,"Häm ziyarät, häm ticarät...",1995,81,Rasim Ojagov,"Haci Ismayilov, Nuriya Akhmedova, Rasim Balayev","Comedy, Drama",7.9
+877,Caged Hearts,1995,94,Henri Charr,"Carrie Genzel, Tane McClure, Nick Wilder",Drama,4.2
+878,The Real Shlemiel,1995,77,Albert Hanan Kaminski,"Tommy J. Michaels, Ronn Carroll, Tovah Feldshuh","Animation, Family, Comedy",5.1
+879,"Other Voices, Other Rooms",1995,94,David Rocksavage,"Lothaire Bluteau, Anna Thomson, David Speck",Drama,6.1
+880,The Four Corners of Nowhere,1995,110,Stephen Chbosky,"Mark McClain Wilson, Amy Raasch, Eric Vesbit",Comedy,7.2
+881,Hikayatul jawahiri thalath,1995,112,Michel Khleifi,"Mohammed Nahnal, Hana' Nc'mch, Bushra Karaman","Drama, Romance, War",7.3
+882,Siren's Kiss,1995,99,Edward Holzman,"Bobby Johnston, Dixie Jayne Beck, Kristen Elizabeth",Drama,4.1
+883,Nich' mit Leo,1995,90,Ralf Gregan,"Jürgen von der Lippe, Cornelia Corba, Christiane Brammer",Comedy,4.1
+884,Ivo il tardivo,1995,110,Alessandro Benvenuti,"Alessandro Benvenuti, Francesca Neri, Davide Bechini","Comedy, Drama",6.0
+885,Elia Kazan: A Director's Journey,1995,75,Richard Schickel,"Elia Kazan, Eli Wallach","Documentary, Biography",7.1
+886,One Night Stand,1995,88,Talia Shire,"David Sheltraw, Ally Sheedy, Don Novello",Drama,3.7
+887,Butterbox Babies,1995,94,Don McBrearty,"Susan Clark, Peter MacNeill, Catherine Fitch",Drama,6.4
+888,Sapounopetra: To hrima sto Laimo sas,1995,105,Nikos Zervos,"Alkis Panagiotidis, Dimitris Poulikakos, Ilias Logothetis",Comedy,6.2
+889,Sacred Cargo,1995,93,Aleksandr Buravskiy,"Chris Penn, J.T. Walsh, Anna Karin",Thriller,4.0
+890,Cardiogram,1995,75,Darezhan Omirbayev,"Baurzhan Akhmetov, Zhasulan Asauov, Asil Badayev",Drama,7.0
+891,Cuestión de fe,1995,89,Marcos Loayza,"Óscar García, Jorge Ortiz Sánchez, Jorge Mendívil",Drama,7.1
+892,Agnidevan,1995,138,Venu Nagavalli,"Mohanlal, Revathi, Devan","Drama, Musical",5.9
+893,Without Mercy,1995,90,Robert Chappell,"Frank Zagarino, Ayu Azhari, Martin Kove",Action,4.6
+894,Money Money,1995,152,"Siva Nageshwara Rao, Krishna Vamsi","Jayasudha, Kota Srinivasa Rao, J.D. Chakravarthi","Action, Comedy, Drama",6.8
+895,Trouble Maker,1995,88,Yen-Ping Chu,"Shao-Wen Hao, Takeshi Kaneshiro, Man-Tat Ng","Action, Comedy, Drama",6.0
+896,Twisted Love,1995,85,Eb Lottimer,"Lisa Dean Ryan, Sasha Jenson, Soleil Moon Frye",Thriller,4.3
+897,Una casa en las afueras,1995,97,Pedro Costa,"Juan Echanove, Emma Suárez, Tania Henche","Drama, Thriller",5.6
+898,Keïta! L'héritage du griot,1995,94,Dani Kouyaté,"Seydou Boro, Hamed Dicko, Abdoulaye Komboudri","Drama, Family, Fantasy",6.3
+899,All Men Are Mortal,1995,93,Ate de Jong,"Irène Jacob, Stephen Rea, Marianne Sägebrecht",Drama,4.8
+900,Bonjour Timothy,1995,98,Wayne Tourell,"Dean O'Gorman, Stephen Papps, Sabine Karsenti","Comedy, Romance",6.0
+901,Lover's Leap,1995,90,Paul Thomas,"Carrie Westcott, Michael Jay, Barry Sattels","Drama, Romance",4.0
+902,Once in a Blue Moon,1995,96,Philip Spink,"Cody Serpa, Simon Baker, Deanna Milligan","Family, Adventure, Fantasy",5.8
+903,Dangerous Waters,1995,85,Lars Berg,"Petronella Barker, Nils Ole Oftebro, Morten Faldaas","Action, Comedy, Thriller",5.4
+904,Red Lips,1995,77,Donald Farmer,"Ghetty Chasun, Michelle Bauer, Danny Fendley",Horror,4.7
+905,Haathkadi,1995,156,Rama Rao Tatineni,"Govinda, Shilpa Shetty Kundra, Madhoo","Action, Comedy, Drama",4.5
+906,Lohk thang bai hai naai khon diao,1995,112,Rashane Limtrakul,"Suttida Kasemsan Na Ayutthaya, Somchai Kemglad, Aroon Pavilai",Drama,7.1
+907,State of Things,1995,89,Stere Gulea,"Oana Pellea, Mircea Rusu, Dan Condurache",Drama,7.0
+908,On the Beat,1995,102,Ying Ning,"Li Jian, Liu Ying Shu, Liangui Wang",Comedy,7.0
+909,Queen: Champions of the World,1995,120,"Rudi Dolezal, Hannes Rossacher","Queen, Freddie Mercury, Brian May","Documentary, Music",8.8
+910,Destination Vegas,1995,78,Paul Wynne,"Jennifer Sommerfeld, Claude Duhamel, Richard Lynch",Action,3.8
+911,Concrete-Encased High School Girl Murder Case: Broken Seventeen-Year-Olds,1995,76,Katsuya Matsumura,"Yûjin Kitagawa, Satoru Saitô, Eisuke Sasai","Crime, Horror",4.5
+912,Poliziotti,1995,89,Giulio Base,"Claudio Amendola, Kim Rossi Stuart, Michele Placido","Crime, Drama",5.9
+913,The Sunset Boys,1995,96,Leidulv Risan,"Robert Mitchum, Cliff Robertson, Erland Josephson","Comedy, Crime, Drama",6.1
+914,Rafureshia,1995,63,Hisayasu Satô,"Kinako, Yumi Yoshiyuki, Kiyomi Itô",Comedy,6.0
+915,Casas de fuego,1995,115,Juan Bautista Stagnaro,"Harry Havilio, José Luis Alfonzo, Miguel Ángel Solá","Biography, Drama",6.3
+916,Vrudhanmare Sookshikkuka,1995,117,Sunil,"Jayaram, Dileep, Harisree Ashokan","Action, Comedy, Thriller",4.9
+917,Sonic Outlaws,1995,87,Craig Baldwin,"Lloyd Dunn, Chris Grigg, Mark Hosler",Documentary,7.5
+918,Diary of a Serial Killer,1995,91,Hok-Yan Chan,"So B., Kwok-Pong Chan, Farini Cheung","Crime, Horror",5.6
+919,A részleg,1995,82,Péter Gothár,"Mari Nagy, József Szarvas, Valentin Teodosiu",Drama,7.0
+920,Tarantella,1995,100,Helen De Michiel,"Mira Sorvino, Rose Gregorio, Matthew Lillard",Drama,5.2
+921,Small Wonders,1995,77,Allan Miller,"Roberta Guaspari, Arnold Steinhardt, Isaac Stern","Documentary, Biography, Music",7.4
+922,État des lieux,1995,80,Jean-François Richet,"Cyril Aubin, Cyrille Autin, Emmanuelle Bercot","Comedy, Drama",5.6
+923,Nostalgia for Countryland,1995,116,Dang Nhat Minh,"Tat Binh Dang, Yen Hoang, Vân Lê","Drama, Romance",7.4
+924,Palace,1995,90,"Joan Gràcia, Paco Mir, Carles Sans","Carles Sans, Joan Gràcia, Paco Mir",Comedy,6.3
+925,Ucitel tance,1995,100,Jaromil Jires,"Martin Dejdar, Jana Hlavácová, Milos Kopecký","Drama, Comedy",6.8
+926,East Meets West,1995,124,Kihachi Okamoto,"Hiroyuki Sanada, Ittoku Kishibe, Naoto Takenaka","Action, Western",5.8
+927,Agnes,1995,101,Egill Eðvarðsson,"Maria Ellingsen, Baltasar Kormákur, Egill Ólafsson","Drama, History, Romance",7.0
+928,Sin remitente,1995,97,Carlos Carrera,"Fernando Torre Lapham, Tiaré Scanda, Luisa Huertas",Drama,7.0
+929,Bir Kadinin Anatomisi,1995,115,Yavuz Özkan,"Hülya Avsar, Mehmet Aslantug, Hümeyra",Drama,4.7
+930,Bugis Street,1995,101,Yonfan,"Hiep Thi Le, Michael Lam, Greg-o",Drama,6.6
+931,Lyubit po-russki,1995,86,Evgeniy Matveev,"Evgeniy Matveev, Galina Polskikh, Larisa Udovichenko","Drama, Romance",5.3
+932,Roula,1995,97,Martin Enlen,"Anica Dobra, Felicitas Grimm-Luck, Martin Umbach",Drama,6.1
+933,The Age of Potential,1995,102,Pascale Ferran,"Anne Cantineau, Christèle Tual, Anne Caillere","Comedy, Drama",6.4
+934,Crosscut,1995,98,Paul Raimondi,"Costas Mandylor, Megan Gallagher, Casey Sander","Action, Drama, Thriller",5.4
+935,The Darkening,1995,80,William Mesa,"Jeff Rector, George Saunders, Rebecca Kyler Downs","Horror, Mystery, Thriller",3.3
+936,Secret Sins,1995,81,Steve Binder,"Nicole Eggert, Rosemary Forsyth, Victor Slezak",Drama,3.8
+937,Guns & Lipstick,1995,96,Jenõ Hódi,"Sally Kirkland, Evan Lurie, Wings Hauser","Action, Crime, Drama",3.8
+938,Billy's Holiday,1995,92,Richard Wherrett,"Max Cullen, Kris McQuade, Tina Bursill",Musical,5.1
+939,The Phoenix and the Magic Carpet,1995,88,Zoran Perisic,"Peter Ustinov, Dee Wallace, Timothy Hegeman","Adventure, Family, Fantasy",5.0
+940,Freakshow,1995,102,"William Cooke, Paul Talbot","Gunnar Hansen, Shannon Michelle Parsons, Brian Kelly",Horror,4.3
+941,Der Kopf des Mohren,1995,120,Paulus Manker,"Gert Voss, Angela Winkler, Leni Tanzer","Drama, Horror",6.7
+942,Grajacy z talerza,1995,107,Jan Jakub Kolski,"Franciszek Pieczka, Dojnica Paladiuk, Jolanta Fraszynska","Drama, Fantasy, Romance",6.9
+943,Eleftheri katadysi,1995,120,Giorgos Panousopoulos,"Karyofyllia Karabeti, Alekos Sissovitis, Valeria Hristodoulidou","Drama, Romance",5.8
+944,The Final Goal,1995,85,Jon Cassar,"Erik Estrada, Steven Nijjar, Vaitiare Hirshon","Action, Thriller",3.6
+945,Le sphinx,1995,109,Louis Saia,"Marc Messier, Céline Bonnier, Serge Thériault",Drama,6.0
+946,Back of Beyond,1995,85,Michael Robertson,"Paul Mercurio, Colin Friels, John Polson",Thriller,4.8
+947,Devil Angel,1995,95,Li Fu,"Franco Chiang, Vivian Hsu, Cheng Ku","Drama, Romance, Thriller",5.1
+948,Bewafa Sanam,1995,144,Gulshan Kumar,"Krishan Kumar, Shilpa Shirodkar, Sagar","Drama, Romance",5.4
+949,Prowokator,1995,88,Krzysztof Lang,"Boguslaw Linda, Christoph Pieczynski, Danuta Stenka","Crime, Drama",6.0
+950,Ravan Raaj: A True Story,1995,153,Rama Rao Tatineni,"Mithun Chakraborty, Madhoo, Aditya Pancholi","Action, Crime, Thriller",6.1
+951,Hank Aaron: Chasing the Dream,1995,120,Michael Tollin,"Hank Aaron, Dusty Baker, Harry Belafonte","Documentary, Biography, Sport",7.5
+952,Blush,1995,115,Shaohong Li,"Ji Wang, Zhiwen Wang, Saifei He",Drama,6.8
+953,The Son of Gascogne,1995,106,Pascal Aubier,"Jean-Claude Dreyfus, Grégoire Colin, Dinara Drukarova","Comedy, Drama, Music",6.3
+954,"À propos de Nice, la suite",1995,100,"Catherine Breillat, Costa-Gavras, Claire Denis","Bernard Benassayag, Thierry Saïd Bouibil, Jérôme Chabreyrie",Documentary,5.7
+955,Kill Barbara with Panic,1995,94,Chito S. Roño,"Lorna Tolentino, Dawn Zulueta, Tonton Gutierrez",Horror,6.3
+956,Dust of Life,1995,87,Rachid Bouchareb,"Daniel Guyant, Gilles Chitlaphone, Jehan Pagès",Drama,6.4
+957,Men Always Lie,1995,100,Antonio del Real,"Gabino Diego, Beatriz Rico, Anabel Alonso",Comedy,5.2
+958,Endless Waltz,1995,102,Kôji Wakamatsu,"Leona Hirota, Kou Machida, Haruko Sagara","Biography, Drama, Music",6.8
+959,Marie de Nazareth,1995,110,Jean Delannoy,"Myriam Muller, Didier Bienaimé, Eric Jakobiak",Drama,5.4
+960,Ma olen väsinud vihkamast,1995,90,"Hannes Lintrop, Renita Lintrop","Jarl Karjatse, Martin Algus, Helen Kadastik",Drama,7.1
+961,Call Girl,1995,83,Rob Spera,"Meilani Paul, Jay Huguley, Vincent Dale",Drama,3.6
+962,Killing for Love,1995,90,Mike Kesey,"John Henry Richardson, Alex Demir, Lisa Hasslehurst",Thriller,3.6
+963,Kakaya chudnaya igra,1995,93,Pyotr Todorovskiy,"Andrey Ilin, Gennadiy Nazarov, Denis Konstantinov",Drama,6.6
+964,Heaven Can't Wait,1995,107,Chi-Ngai Lee,"Tony Leung Chiu-wai, Jordan Chan, Karen Mok","Comedy, Drama",6.3
+965,Omaha,1995,85,Dan Mirvish,"Hughston Walkinshaw, Jill Anderson, Frankie Bee",Comedy,5.2
+966,El palomo cojo,1995,114,Jaime de Armiñán,"María Barranco, Francisco Rabal, Carmen Maura","Comedy, Drama",5.3
+967,School Days,1995,89,Chin Ao-Hsin,"Takeshi Kaneshiro, Jimmy Lin, Ruby Lin","Action, Comedy, Drama",5.6
+968,La nave de los locos,1995,104,Ricardo Wullicher,"Luis Abeijón, José Maria Acosta, Aldo Braga",Drama,6.7
+969,Neurosia: Fifty Years of Perversion,1995,89,Rosa von Praunheim,"Désirée Nick, Lotti Huber, Evelyn Künneke","Biography, Comedy, Drama",6.2
+970,Leylasede,1995,100,Shemi Zarhin,"Gila Almagor, Yosef Shiloach, Alon Aboutboul",Drama,6.7
+971,The Misery Brothers,1995,87,Lorenzo Doumani,"Leo Rossi, Lorenzo Doumani, Gary Ross",Comedy,2.8
+972,Smoke n Lightnin,1995,82,Mike Kirton,"Christopher Atkins, Kristoffer Ryan Winters, Sabryn Genet","Action, Comedy, Crime",3.0
+973,The Jew,1995,91,Jom Tob Azulay,"Filipe Pinheiro, Dina Sfat, Mário Viegas",Drama,6.3
+974,Hoogste tijd,1995,98,Frans Weisz,"Joop Doderer, Willem Nijholt, Rijk de Gooyer",Drama,7.2
+975,Facciamo paradiso,1995,108,Mario Monicelli,"Margherita Buy, Lello Arena, Tigana Camara",Comedy,5.5
+976,School Mystery,1995,95,Joji Matsuoka,"Takayuki Inoue, Ai Maeda, Yuka Kono",Horror,5.7
+977,Legion of the Night,1995,85,Matt Jaissle,"Tim Lovelace, Ron Asheton, Jeff Rector","Action, Horror, Sci-Fi",4.0
+978,Geto,1995,72,"Ivan Markov, Mladen Maticevic","Natasha Bogojevich, Goran Cavajda",Documentary,8.4
+979,Brothers in Trouble,1995,102,Udayan Prasad,"Om Puri, Pawan Malhotra, Angeline Ball","Comedy, Drama",6.5
+980,Ripper Man,1995,89,Phil Sears,"Mike Norris, Timothy Bottoms, Robert F. Lyons","Action, Horror, Thriller",3.8
+981,Wu di fan dou xing,1995,89,Yen-Ping Chu,"Man-Tat Ng, Ashton Chen, Shao-Wen Hao","Action, Adventure, Comedy",5.9
+982,Planet Blue,1995,86,Gur Bentwich,"Alon Aboutboul, Rafi Dinnar, Zohar Dinnar","Adventure, Comedy, Drama",6.6
+983,For a Few Lousy Dollars,1995,88,Micheal Bafaro,"Ben Immanuel, Ian Tracey, Donny Lucas","Action, Comedy, Crime",4.5
+984,Craii de Curtea Veche,1995,105,Mircea Veroiu,"Vasile Albinet, Mircea Albulescu, Marius Bodochi","Drama, Romance",7.1
+985,Radio Moscow,1995,85,Nik Triantafyllidis,"Harry Klynn, Blaine Reininger, Svetlana Pancratova",Comedy,5.3
+986,Klash,1995,95,Bill Parker,"Jasmine Guy, Giancarlo Esposito, Stafford Ashani","Crime, Music, Romance",5.8
+987,Big Boss,1995,153,Vijaya Baapineedu,"Chiranjeevi, Roja, Madhavi","Action, Drama",4.7
