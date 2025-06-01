@@ -1,0 +1,1001 @@
+﻿ID,Name,Year,Duration,Directors,Actors,Genres,Rating
+1,Interstellar,2014,169,Christopher Nolan,"Matthew McConaughey, Anne Hathaway, Jessica Chastain","Adventure, Drama, Sci-Fi",8.7
+2,Guardians of the Galaxy,2014,121,James Gunn,"Chris Pratt, Vin Diesel, Bradley Cooper","Action, Adventure, Comedy",8.0
+3,Gone Girl,2014,149,David Fincher,"Ben Affleck, Rosamund Pike, Neil Patrick Harris","Drama, Mystery, Thriller",8.1
+4,Whiplash,2014,106,Damien Chazelle,"Miles Teller, J.K. Simmons, Melissa Benoist","Drama, Music",8.5
+5,Captain America: The Winter Soldier,2014,136,"Anthony Russo, Joe Russo","Chris Evans, Samuel L. Jackson, Scarlett Johansson","Action, Adventure, Sci-Fi",7.7
+6,The Grand Budapest Hotel,2014,99,Wes Anderson,"Ralph Fiennes, F. Murray Abraham, Mathieu Amalric","Comedy, Drama",8.1
+7,The Imitation Game,2014,114,Morten Tyldum,"Benedict Cumberbatch, Keira Knightley, Matthew Goode","Biography, Drama, Thriller",8.0
+8,John Wick,2014,101,Chad Stahelski,"Keanu Reeves, Michael Nyqvist, Alfie Allen","Action, Crime, Thriller",7.5
+9,Edge of Tomorrow,2014,113,Doug Liman,"Tom Cruise, Emily Blunt, Bill Paxton","Action, Adventure, Sci-Fi",7.9
+10,X-Men: Days of Future Past,2014,132,Bryan Singer,"Patrick Stewart, Ian McKellen, Hugh Jackman","Action, Adventure, Sci-Fi",7.9
+11,Kingsman: The Secret Service,2014,129,Matthew Vaughn,"Colin Firth, Taron Egerton, Samuel L. Jackson","Action, Adventure, Comedy",7.7
+12,Birdman or (The Unexpected Virtue of Ignorance),2014,119,Alejandro G. Iñárritu,"Michael Keaton, Zach Galifianakis, Edward Norton","Comedy, Drama",7.7
+13,Nightcrawler,2014,117,Dan Gilroy,"Jake Gyllenhaal, Rene Russo, Bill Paxton","Crime, Drama, Thriller",7.8
+14,Ex Machina,2014,108,Alex Garland,"Alicia Vikander, Domhnall Gleeson, Oscar Isaac","Drama, Sci-Fi, Thriller",7.7
+15,The Hobbit: The Battle of the Five Armies,2014,144,Peter Jackson,"Ian McKellen, Martin Freeman, Richard Armitage","Adventure, Fantasy",7.4
+16,Fury,2014,134,David Ayer,"Brad Pitt, Shia LaBeouf, Logan Lerman","Action, Drama, War",7.6
+17,The Amazing Spider-Man 2,2014,142,Marc Webb,"Andrew Garfield, Emma Stone, Jamie Foxx","Action, Adventure, Sci-Fi",6.6
+18,Lucy,2014,89,Luc Besson,"Scarlett Johansson, Morgan Freeman, Choi Min-sik","Action, Sci-Fi, Thriller",6.4
+19,American Sniper,2014,133,Clint Eastwood,"Bradley Cooper, Sienna Miller, Kyle Gallner","Action, Biography, Drama",7.3
+20,The Maze Runner,2014,113,Wes Ball,"Dylan O'Brien, Kaya Scodelario, Will Poulter","Action, Mystery, Sci-Fi",6.8
+21,Big Hero 6,2014,102,"Don Hall, Chris Williams","Ryan Potter, Scott Adsit, Jamie Chung","Animation, Action, Adventure",7.8
+22,The Hunger Games: Mockingjay - Part 1,2014,123,Francis Lawrence,"Jennifer Lawrence, Josh Hutcherson, Liam Hemsworth","Action, Adventure, Sci-Fi",6.6
+23,Divergent,2014,139,Neil Burger,"Shailene Woodley, Theo James, Kate Winslet","Action, Adventure, Drama",6.6
+24,Dawn of the Planet of the Apes,2014,130,Matt Reeves,"Gary Oldman, Keri Russell, Andy Serkis","Action, Adventure, Drama",7.6
+25,The Theory of Everything,2014,123,James Marsh,"Eddie Redmayne, Felicity Jones, Tom Prior","Biography, Drama, Romance",7.7
+26,Godzilla,2014,123,Gareth Edwards,"Aaron Taylor-Johnson, Elizabeth Olsen, Bryan Cranston","Action, Adventure, Sci-Fi",6.4
+27,The Equalizer,2014,132,Antoine Fuqua,"Denzel Washington, Marton Csokas, Chloë Grace Moretz","Action, Crime, Thriller",7.3
+28,22 Jump Street,2014,112,"Phil Lord, Christopher Miller","Channing Tatum, Jonah Hill, Ice Cube","Action, Comedy, Crime",7.0
+29,The Fault in Our Stars,2014,126,Josh Boone,"Shailene Woodley, Ansel Elgort, Nat Wolff","Drama, Romance",7.6
+30,Maleficent,2014,97,Robert Stromberg,"Angelina Jolie, Elle Fanning, Sharlto Copley","Action, Adventure, Drama",6.9
+31,The Lego Movie,2014,100,"Phil Lord, Christopher Miller","Chris Pratt, Will Ferrell, Elizabeth Banks","Animation, Action, Adventure",7.7
+32,How to Train Your Dragon 2,2014,102,Dean DeBlois,"Jay Baruchel, Cate Blanchett, Gerard Butler","Animation, Action, Adventure",7.8
+33,Boyhood,2014,165,Richard Linklater,"Ellar Coltrane, Patricia Arquette, Ethan Hawke",Drama,7.9
+34,The Interview,2014,112,"Evan Goldberg, Seth Rogen","James Franco, Seth Rogen, Randall Park","Action, Adventure, Comedy",6.5
+35,Transformers: Age of Extinction,2014,165,Michael Bay,"Mark Wahlberg, Nicola Peltz Beckham, Jack Reynor","Action, Adventure, Comedy",5.6
+36,Neighbors,2014,97,Nicholas Stoller,"Seth Rogen, Rose Byrne, Zac Efron",Comedy,6.3
+37,300: Rise of an Empire,2014,102,Noam Murro,"Sullivan Stapleton, Eva Green, Lena Headey","Action, Drama",6.2
+38,Predestination,2014,97,"Michael Spierig, Peter Spierig","Ethan Hawke, Sarah Snook, Noah Taylor","Action, Drama, Sci-Fi",7.4
+39,It Follows,2014,100,David Robert Mitchell,"Maika Monroe, Keir Gilchrist, Olivia Luccardi","Horror, Mystery, Thriller",6.8
+40,Non-Stop,2014,106,Jaume Collet-Serra,"Liam Neeson, Julianne Moore, Scoot McNairy","Action, Mystery, Thriller",6.9
+41,Noah,2014,138,Darren Aronofsky,"Russell Crowe, Jennifer Connelly, Anthony Hopkins","Action, Adventure, Drama",5.8
+42,The Babadook,2014,94,Jennifer Kent,"Essie Davis, Noah Wiseman, Daniel Henshall","Drama, Horror, Mystery",6.8
+43,RoboCop,2014,117,José Padilha,"Joel Kinnaman, Gary Oldman, Michael Keaton","Action, Crime, Sci-Fi",6.1
+44,Transcendence,2014,119,Wally Pfister,"Johnny Depp, Rebecca Hall, Morgan Freeman","Drama, Sci-Fi, Thriller",6.2
+45,Chef,2014,114,Jon Favreau,"Jon Favreau, Robert Downey Jr., Scarlett Johansson","Adventure, Comedy, Drama",7.3
+46,Wild Tales,2014,122,Damián Szifron,"Darío Grandinetti, María Marull, Mónica Villa","Comedy, Drama, Thriller",8.1
+47,Teenage Mutant Ninja Turtles,2014,101,Jonathan Liebesman,"Megan Fox, Will Arnett, William Fichtner","Action, Adventure, Comedy",5.8
+48,Dracula Untold,2014,92,Gary Shore,"Luke Evans, Dominic Cooper, Sarah Gadon","Action, Drama, Fantasy",6.2
+49,The Judge,2014,141,David Dobkin,"Robert Downey Jr., Robert Duvall, Vera Farmiga","Crime, Drama, Mystery",7.4
+50,PK,2014,153,Rajkumar Hirani,"Aamir Khan, Anushka Sharma, Sanjay Dutt","Comedy, Drama, Sci-Fi",8.1
+51,Taken 3,2014,108,Olivier Megaton,"Liam Neeson, Forest Whitaker, Maggie Grace","Action, Thriller",6.0
+52,What We Do in the Shadows,2014,86,"Jemaine Clement, Taika Waititi","Jemaine Clement, Taika Waititi, Cori Gonzalez-Macuer","Comedy, Horror",7.6
+53,A Million Ways to Die in the West,2014,116,Seth MacFarlane,"Seth MacFarlane, Charlize Theron, Liam Neeson","Comedy, Western",6.1
+54,The Expendables 3,2014,126,Patrick Hughes,"Sylvester Stallone, Jason Statham, Jet Li","Action, Adventure, Comedy",6.1
+55,Unbroken,2014,137,Angelina Jolie,"Jack O'Connell, Miyavi, Domhnall Gleeson","Biography, Drama, Sport",7.2
+56,Horrible Bosses 2,2014,108,Sean Anders,"Jason Bateman, Jason Sudeikis, Charlie Day","Comedy, Crime",6.3
+57,Annabelle,2014,99,John R. Leonetti,"Ward Horton, Annabelle Wallis, Alfre Woodard","Horror, Mystery, Thriller",5.5
+58,Exodus: Gods and Kings,2014,150,Ridley Scott,"Christian Bale, Joel Edgerton, Ben Kingsley","Action, Adventure, Drama",6.0
+59,Need for Speed,2014,132,Scott Waugh,"Aaron Paul, Dominic Cooper, Imogen Poots","Action, Crime, Drama",6.4
+60,Sin City: A Dame to Kill For,2014,102,"Frank Miller, Robert Rodriguez","Mickey Rourke, Jessica Alba, Josh Brolin","Action, Crime, Thriller",6.5
+61,Hercules,2014,98,Brett Ratner,"Dwayne Johnson, John Hurt, Ian McShane","Action, Adventure, Fantasy",6.0
+62,The Purge: Anarchy,2014,103,James DeMonaco,"Frank Grillo, Carmen Ejogo, Zach Gilford","Action, Horror, Sci-Fi",6.4
+63,The Drop,2014,106,Michaël R. Roskam,"Tom Hardy, Noomi Rapace, James Gandolfini","Crime, Drama, Mystery",7.0
+64,"Love, Rosie",2014,102,Christian Ditter,"Lily Collins, Sam Claflin, Christian Cooke","Comedy, Romance",7.1
+65,The Other Woman,2014,109,Nick Cassavetes,"Cameron Diaz, Leslie Mann, Kate Upton","Comedy, Romance",6.0
+66,Foxcatcher,2014,134,Bennett Miller,"Steve Carell, Channing Tatum, Mark Ruffalo","Biography, Drama, History",7.0
+67,Blended,2014,117,Frank Coraci,"Adam Sandler, Drew Barrymore, Wendi McLendon-Covey","Comedy, Romance",6.5
+68,Into the Woods,2014,125,Rob Marshall,"Anna Kendrick, Meryl Streep, Chris Pine","Adventure, Comedy, Drama",5.9
+69,Dumb and Dumber To,2014,109,"Bobby Farrelly, Peter Farrelly","Jim Carrey, Jeff Daniels, Rob Riggle",Comedy,5.6
+70,Paddington,2014,95,Paul King,"Hugh Bonneville, Sally Hawkins, Julie Walters","Adventure, Comedy, Family",7.3
+71,Still Alice,2014,101,"Richard Glatzer, Wash Westmoreland","Julianne Moore, Alec Baldwin, Kristen Stewart",Drama,7.5
+72,The Monuments Men,2014,118,George Clooney,"George Clooney, Matt Damon, Bill Murray","Biography, Comedy, Drama",6.1
+73,Wild,2014,115,Jean-Marc Vallée,"Reese Witherspoon, Laura Dern, Gaby Hoffmann","Adventure, Biography, Drama",7.1
+74,Night at the Museum: Secret of the Tomb,2014,98,Shawn Levy,"Ben Stiller, Robin Williams, Owen Wilson","Adventure, Comedy, Family",6.2
+75,Let's Be Cops,2014,104,Luke Greenfield,"Jake Johnson, Damon Wayans Jr., Rob Riggle","Action, Comedy, Crime",6.4
+76,Jack Ryan: Shadow Recruit,2014,105,Kenneth Branagh,"Chris Pine, Kevin Costner, Keira Knightley","Action, Drama, Thriller",6.2
+77,I Origins,2014,106,Mike Cahill,"Michael Pitt, Steven Yeun, Astrid Bergès-Frisbey","Drama, Mystery, Romance",7.3
+78,The Raid 2,2014,150,Gareth Evans,"Iko Uwais, Yayan Ruhian, Arifin Putra","Action, Crime, Thriller",7.9
+79,If I Stay,2014,107,R.J. Cutler,"Chloë Grace Moretz, Mireille Enos, Jamie Blackley","Drama, Fantasy, Music",6.7
+80,A Walk Among the Tombstones,2014,114,Scott Frank,"Liam Neeson, Dan Stevens, David Harbour","Action, Crime, Drama",6.5
+81,The Giver,2014,97,Phillip Noyce,"Brenton Thwaites, Jeff Bridges, Meryl Streep","Drama, Romance, Sci-Fi",6.4
+82,Ride Along,2014,99,Tim Story,"Ice Cube, Kevin Hart, Tika Sumpter","Action, Comedy, Crime",6.1
+83,"As Above, So Below",2014,93,John Erick Dowdle,"Perdita Weeks, Ben Feldman, Edwin Hodge","Horror, Mystery, Thriller",6.3
+84,Sex Tape,2014,94,Jake Kasdan,"Jason Segel, Cameron Diaz, Rob Corddry","Comedy, Romance",5.1
+85,Pompeii,2014,105,Paul W.S. Anderson,"Kit Harington, Emily Browning, Kiefer Sutherland","Action, Adventure, Drama",5.5
+86,Inherent Vice,2014,148,Paul Thomas Anderson,"Joaquin Phoenix, Josh Brolin, Owen Wilson","Comedy, Crime, Drama",6.6
+87,The Guest,2014,100,Adam Wingard,"Dan Stevens, Sheila Kelley, Maika Monroe","Action, Mystery, Thriller",6.7
+88,St. Vincent,2014,102,Theodore Melfi,"Bill Murray, Melissa McCarthy, Naomi Watts","Comedy, Drama",7.2
+89,Penguins of Madagascar,2014,92,"Eric Darnell, Simon J. Smith","Tom McGrath, Chris Miller, Christopher Knights","Animation, Action, Adventure",6.6
+90,That Awkward Moment,2014,94,Tom Gormican,"Zac Efron, Michael B. Jordan, Miles Teller","Comedy, Romance",6.1
+91,Rio 2,2014,101,Carlos Saldanha,"Jesse Eisenberg, Anne Hathaway, Jemaine Clement","Animation, Adventure, Comedy",6.3
+92,Big Eyes,2014,106,Tim Burton,"Amy Adams, Christoph Waltz, Danny Huston","Biography, Crime, Drama",7.0
+93,3 Days to Kill,2014,117,McG,"Kevin Costner, Hailee Steinfeld, Connie Nielsen","Action, Drama, Thriller",6.2
+94,Selma,2014,128,Ava DuVernay,"David Oyelowo, Carmen Ejogo, Oprah Winfrey","Biography, Drama, History",7.5
+95,This Is Where I Leave You,2014,103,Shawn Levy,"Jason Bateman, Tina Fey, Jane Fonda","Comedy, Drama",6.6
+96,The Hundred-Foot Journey,2014,122,Lasse Hallström,"Helen Mirren, Om Puri, Manish Dayal","Comedy, Drama",7.3
+97,Deliver Us from Evil,2014,118,Scott Derrickson,"Eric Bana, Edgar Ramírez, Olivia Munn","Crime, Horror, Mystery",6.2
+98,Before I Go to Sleep,2014,92,Rowan Joffe,"Nicole Kidman, Colin Firth, Mark Strong","Drama, Mystery, Thriller",6.3
+99,"I, Frankenstein",2014,92,Stuart Beattie,"Aaron Eckhart, Bill Nighy, Miranda Otto","Action, Fantasy, Sci-Fi",5.1
+100,Unfriended,2014,83,Levan Gabriadze,"Heather Sossaman, Matthew Bohrer, Courtney Halverson","Horror, Mystery, Thriller",5.6
+101,Frank,2014,95,Lenny Abrahamson,"Michael Fassbender, Domhnall Gleeson, Maggie Gyllenhaal","Comedy, Drama, Music",6.9
+102,A Most Wanted Man,2014,122,Anton Corbijn,"Philip Seymour Hoffman, Rachel McAdams, Daniel Brühl","Crime, Drama, Thriller",6.7
+103,Seventh Son,2014,102,Sergei Bodrov,"Ben Barnes, Julianne Moore, Jeff Bridges","Action, Adventure, Fantasy",5.5
+104,Mr. Peabody & Sherman,2014,92,Rob Minkoff,"Ty Burrell, Max Charles, Stephen Colbert","Animation, Adventure, Comedy",6.7
+105,The Book of Life,2014,95,Jorge R. Gutiérrez,"Diego Luna, Zoe Saldaña, Channing Tatum","Animation, Adventure, Comedy",7.2
+106,A Most Violent Year,2014,125,J.C. Chandor,"Oscar Isaac, Jessica Chastain, David Oyelowo","Crime, Drama, Thriller",6.9
+107,The Water Diviner,2014,111,Russell Crowe,"Russell Crowe, Olga Kurylenko, Jai Courtney","Drama, History, War",7.0
+108,The Best of Me,2014,118,Michael Hoffman,"James Marsden, Michelle Monaghan, Luke Bracey","Drama, Romance",6.7
+109,Creep,2014,77,Patrick Brice,"Mark Duplass, Patrick Brice, Katie Aselton","Horror, Thriller",6.3
+110,The Gambler,2014,111,Rupert Wyatt,"Mark Wahlberg, Jessica Lange, John Goodman","Crime, Drama, Thriller",6.0
+111,Two Night Stand,2014,86,Max Nichols,"Miles Teller, Lio Tipton, Jessica Szohr","Comedy, Romance",6.3
+112,Kick,2014,146,Sajid Nadiadwala,"Salman Khan, Jacqueline Fernandez, Nawazuddin Siddiqui","Action, Comedy, Crime",6.0
+113,Into the Storm,2014,89,Steven Quale,"Richard Armitage, Sarah Wayne Callies, Matt Walsh","Action, Adventure, Drama",5.8
+114,Magic in the Moonlight,2014,97,Woody Allen,"Colin Firth, Emma Stone, Marcia Gay Harden","Comedy, Drama, Romance",6.5
+115,The November Man,2014,108,Roger Donaldson,"Pierce Brosnan, Luke Bracey, Olga Kurylenko","Action, Adventure, Crime",6.3
+116,The Signal,2014,97,William Eubank,"Brenton Thwaites, Olivia Cooke, Beau Knapp","Drama, Mystery, Sci-Fi",6.0
+117,Draft Day,2014,110,Ivan Reitman,"Kevin Costner, Chadwick Boseman, Jennifer Garner","Drama, Sport",6.8
+118,Force Majeure,2014,120,Ruben Östlund,"Johannes Kuhnke, Lisa Loven Kongsli, Clara Wettergren","Comedy, Drama",7.2
+119,Tusk,2014,102,Kevin Smith,"Justin Long, Michael Parks, Haley Joel Osment","Comedy, Horror",5.4
+120,Sabotage,2014,109,David Ayer,"Arnold Schwarzenegger, Sam Worthington, Terrence Howard","Action, Crime, Drama",5.7
+121,Before We Go,2014,95,Chris Evans,"Chris Evans, Alice Eve, Emma Fitzpatrick","Comedy, Drama, Romance",6.8
+122,Calvary,2014,102,John Michael McDonagh,"Brendan Gleeson, Chris O'Dowd, Kelly Reilly","Crime, Drama, Mystery",7.4
+123,Song of the Sea,2014,93,Tomm Moore,"David Rawle, Brendan Gleeson, Lisa Hannigan","Animation, Adventure, Drama",8.0
+124,The Voices,2014,103,Marjane Satrapi,"Ryan Reynolds, Gemma Arterton, Anna Kendrick","Comedy, Crime, Horror",6.3
+125,Who Am I,2014,102,Baran bo Odar,"Tom Schilling, Elyas M'Barek, Wotan Wilke Möhring","Crime, Drama, Mystery",7.4
+126,Mommy,2014,139,Xavier Dolan,"Anne Dorval, Antoine Olivier Pilon, Suzanne Clément",Drama,8.0
+127,Pride,2014,119,Matthew Warchus,"Bill Nighy, Imelda Staunton, Dominic West","Biography, Comedy, Drama",7.8
+128,'71,2014,99,Yann Demange,"Jack O'Connell, Sam Reid, Sean Harris","Action, Crime, Drama",7.2
+129,The Boxtrolls,2014,96,"Graham Annable, Anthony Stacchi","Ben Kingsley, Jared Harris, Nick Frost","Animation, Adventure, Comedy",6.8
+130,The Cobbler,2014,99,Tom McCarthy,"Adam Sandler, Melonie Diaz, Steve Buscemi","Comedy, Drama, Fantasy",5.8
+131,Stonehearst Asylum,2014,112,Brad Anderson,"Kate Beckinsale, Jim Sturgess, David Thewlis","Drama, Horror, Mystery",6.8
+132,Goodnight Mommy,2014,99,"Severin Fiala, Veronika Franz","Lukas Schwarz, Elias Schwarz, Susanne Wuest","Horror, Mystery, Thriller",6.7
+133,The Loft,2014,108,Erik Van Looy,"Karl Urban, James Marsden, Wentworth Miller","Mystery, Romance, Thriller",6.3
+134,Gunday,2014,152,Ali Abbas Zafar,"Ranveer Singh, Arjun Kapoor, Priyanka Chopra Jonas","Action, Drama, Musical",2.7
+135,Automata,2014,109,Gabe Ibáñez,"Antonio Banderas, Birgitte Hjort Sørensen, Dylan McDermott","Action, Drama, Sci-Fi",6.0
+136,Ouija,2014,89,Stiles White,"Olivia Cooke, Ana Coto, Daren Kagasoff","Horror, Mystery, Thriller",4.5
+137,Haider,2014,160,Vishal Bhardwaj,"Shahid Kapoor, Tabu, Shraddha Kapoor","Action, Crime, Drama",8.0
+138,Citizenfour,2014,114,Laura Poitras,"Edward Snowden, Glenn Greenwald, William Binney","Documentary, Biography",8.0
+139,Leviathan,2014,140,Andrey Zvyagintsev,"Aleksey Serebryakov, Elena Lyadova, Roman Madyanov","Crime, Drama",7.6
+140,Winter's Tale,2014,118,Akiva Goldsman,"Colin Farrell, Jessica Brown Findlay, Russell Crowe","Drama, Fantasy, Mystery",6.1
+141,Walk of Shame,2014,95,Steven Brill,"Elizabeth Banks, James Marsden, Gillian Jacobs",Comedy,6.0
+142,Vampire Academy,2014,104,Mark Waters,"Zoey Deutch, Lucy Fry, Danila Kozlovsky","Action, Comedy, Drama",5.4
+143,Winter Sleep,2014,196,Nuri Bilge Ceylan,"Haluk Bilginer, Melisa Sözen, Demet Akbag",Drama,8.0
+144,The Legend of Hercules,2014,99,Renny Harlin,"Kellan Lutz, Gaia Weiss, Scott Adkins","Action, Adventure, Fantasy",4.3
+145,Tammy,2014,97,Ben Falcone,"Melissa McCarthy, Susan Sarandon, Kathy Bates","Comedy, Romance",4.9
+146,Veronica Mars,2014,107,Rob Thomas,"Kristen Bell, Jason Dohring, Enrico Colantoni","Crime, Drama, Mystery",6.7
+147,While We're Young,2014,97,Noah Baumbach,"Ben Stiller, Naomi Watts, Adam Driver","Comedy, Drama, Mystery",6.3
+148,The Rover,2014,103,David Michôd,"Guy Pearce, Robert Pattinson, Scoot McNairy","Action, Crime, Drama",6.4
+149,Pawn Sacrifice,2014,115,Edward Zwick,"Tobey Maguire, Liev Schreiber, Peter Sarsgaard","Biography, Drama, History",7.0
+150,When Marnie Was There,2014,103,Hiromasa Yonebayashi,"Sara Takatsuki, Kasumi Arimura, Nanako Matsushima","Animation, Drama, Family",7.6
+151,Hector and the Search for Happiness,2014,114,Peter Chelsom,"Simon Pegg, Rosamund Pike, Tracy-Ann Oberman","Adventure, Comedy, Drama",6.9
+152,"Two Days, One Night",2014,95,"Jean-Pierre Dardenne, Luc Dardenne","Marion Cotillard, Fabrizio Rongione, Catherine Salée",Drama,7.3
+153,Time Lapse,2014,104,Bradley King,"Danielle Panabaker, Matt O'Leary, George Finn","Mystery, Sci-Fi, Thriller",6.5
+154,Kill the Messenger,2014,112,Michael Cuesta,"Jeremy Renner, Robert Patrick, Jena Sims","Biography, Crime, Drama",6.9
+155,Million Dollar Arm,2014,124,Craig Gillespie,"Jon Hamm, Aasif Mandvi, Alan Arkin","Biography, Drama, Family",7.0
+156,Endless Love,2014,104,Shana Feste,"Gabriella Wilde, Alex Pettyfer, Bruce Greenwood","Drama, Mystery, Romance",6.2
+157,"Alexander and the Terrible, Horrible, No Good, Very Bad Day",2014,81,Miguel Arteta,"Steve Carell, Jennifer Garner, Ed Oxenbould","Comedy, Drama, Family",6.2
+158,The Inbetweeners 2,2014,96,"Damon Beesley, Iain Morris","Simon Bird, James Buckley, Blake Harrison",Comedy,6.4
+159,1: Nenokkadine,2014,170,Sukumar,"Mahesh Babu, Kriti Sanon, Nassar","Action, Thriller",7.9
+160,Serial Bad Weddings,2014,97,Philippe de Chauveron,"Christian Clavier, Chantal Lauby, Ary Abittan",Comedy,7.0
+161,Paranormal Activity: The Marked Ones,2014,84,Christopher Landon,"Andrew Jacobs, Jorge Diaz, Gabrielle Walsh","Horror, Mystery",5.1
+162,Laggies,2014,99,Lynn Shelton,"Keira Knightley, Chloë Grace Moretz, Sam Rockwell","Comedy, Drama, Romance",6.4
+163,God's Not Dead,2014,113,Harold Cronk,"Shane Harper, Kevin Sorbo, David A.R. White","Drama, Romance",4.6
+164,The Skeleton Twins,2014,93,Craig Johnson,"Kristen Wiig, Bill Hader, Luke Wilson","Comedy, Drama, Romance",6.8
+165,The One I Love,2014,91,Charlie McDowell,"Mark Duplass, Elisabeth Moss, Ted Danson","Comedy, Drama, Fantasy",7.0
+166,The Taking of Deborah Logan,2014,90,Adam Robitel,"Jill Larson, Anne Ramsay, Michelle Ang","Horror, Mystery, Thriller",6.0
+167,Brick Mansions,2014,90,Camille Delamarre,"Paul Walker, David Belle, RZA","Action, Crime, Thriller",5.6
+168,The Salvation,2014,92,Kristian Levring,"Mads Mikkelsen, Eva Green, Jeffrey Dean Morgan","Action, Drama, Thriller",6.7
+169,Love & Mercy,2014,121,Bill Pohlad,"John Cusack, Paul Dano, Elizabeth Banks","Biography, Drama, Music",7.4
+170,Maps to the Stars,2014,111,David Cronenberg,"Julianne Moore, Mia Wasikowska, Robert Pattinson","Comedy, Drama, Mystery",6.2
+171,Camp X-Ray,2014,117,Peter Sattler,"Kristen Stewart, Payman Maadi, Lane Garrison","Drama, War",6.9
+172,Left Behind,2014,110,Vic Armstrong,"Nicolas Cage, Lea Thompson, Cassi Thomson","Action, Fantasy, Sci-Fi",3.1
+173,Happy New Year,2014,180,Farah Khan,"Shah Rukh Khan, Deepika Padukone, Abhishek Bachchan","Action, Comedy, Drama",5.0
+174,Black Sea,2014,114,Kevin Macdonald,"Jude Law, Scoot McNairy, Ben Mendelsohn","Adventure, Drama, Thriller",6.4
+175,Endless Corridor,2014,52,"Aleksandras Brokas, Mindaugas Urbonavicius",Jeremy Irons,"Documentary, History",8.1
+176,Annie,2014,118,Will Gluck,"Quvenzhané Wallis, Cameron Diaz, Jamie Foxx","Comedy, Drama, Family",5.4
+177,13 Sins,2014,93,Daniel Stamm,"Mark Webber, Devon Graye, Tom Bower","Horror, Thriller",6.3
+178,A Girl Walks Home Alone at Night,2014,101,Ana Lily Amirpour,"Sheila Vand, Arash Marandi, Marshall Manesh","Drama, Horror, Romance",6.9
+179,99 Homes,2014,112,Ramin Bahrani,"Andrew Garfield, Michael Shannon, Laura Dern","Crime, Drama",7.1
+180,Cake,2014,102,Daniel Barnz,"Jennifer Aniston, Adriana Barraza, Anna Kendrick",Drama,6.4
+181,Wish I Was Here,2014,106,Zach Braff,"Zach Braff, Joey King, Pierce Gagnon","Comedy, Drama",6.6
+182,Housebound,2014,107,Gerard Johnstone,"Morgana O'Reilly, Rima Te Wiata, Glen-Paul Waru","Comedy, Horror, Mystery",6.7
+183,Cold in July,2014,109,Jim Mickle,"Michael C. Hall, Sam Shepard, Don Johnson","Crime, Thriller",6.7
+184,Muppets Most Wanted,2014,107,James Bobin,"Ricky Gervais, Ty Burrell, Tina Fey","Adventure, Comedy, Crime",6.4
+185,Jersey Boys,2014,134,Clint Eastwood,"John Lloyd Young, Erich Bergen, Michael Lomenda","Biography, Drama, Music",6.8
+186,Marshland,2014,105,Alberto Rodríguez,"Javier Gutiérrez, Raúl Arévalo, María Varod","Crime, Mystery, Thriller",7.2
+187,The Homesman,2014,122,Tommy Lee Jones,"Tommy Lee Jones, Hilary Swank, Grace Gummer","Drama, Western",6.6
+188,Step Up All In,2014,112,Trish Sie,"Ryan Guzman, Briana Evigan, Adam Sevani","Drama, Music, Romance",5.9
+189,The Captive,2014,112,Atom Egoyan,"Ryan Reynolds, Scott Speedman, Rosario Dawson","Crime, Drama, Mystery",5.9
+190,Coming Soon,2014,134,Cem Yilmaz,"Cem Yilmaz, Tülin Özen, Zafer Algöz","Comedy, Drama, Romance",7.3
+191,Big Game,2014,110,Jalmari Helander,"Samuel L. Jackson, Onni Tommila, Ray Stevenson","Action, Adventure, Comedy",5.4
+192,A Long Way Down,2014,96,Pascal Chaumeil,"Pierce Brosnan, Toni Collette, Imogen Poots","Comedy, Drama",6.3
+193,Redirected,2014,99,Emilis Velyvis,"Vinnie Jones, Scot Williams, Gil Darnell","Action, Comedy, Crime",6.4
+194,The Two Faces of January,2014,96,Hossein Amini,"Viggo Mortensen, Kirsten Dunst, Oscar Isaac","Crime, Mystery, Romance",6.2
+195,The Good Lie,2014,110,Philippe Falardeau,"Reese Witherspoon, Arnold Oceng, Ger Duany","Biography, Drama",7.4
+196,"Men, Women & Children",2014,119,Jason Reitman,"Kaitlyn Dever, Rosemarie DeWitt, Ansel Elgort","Comedy, Drama",6.6
+197,Spring,2014,109,"Justin Benson, Aaron Moorhead","Lou Taylor Pucci, Nadia Hilker, Francesco Carnelutti","Drama, Horror, Romance",6.7
+198,Son of Batman,2014,74,Ethan Spaulding,"Jason O'Mara, Stuart Allan, Thomas Gibson","Animation, Action, Adventure",6.7
+199,In Your Eyes,2014,106,Brin Hill,"Michael Stahl-David, Zoe Kazan, Mark Feuerstein","Fantasy, Romance",6.9
+200,Stretch,2014,94,Joe Carnahan,"Patrick Wilson, Ed Helms, James Badge Dale","Comedy, Crime",6.5
+201,Clouds of Sils Maria,2014,124,Olivier Assayas,"Juliette Binoche, Kristen Stewart, Chloë Grace Moretz",Drama,6.7
+202,Kaththi,2014,166,A.R. Murugadoss,"Joseph Vijay, Samantha Ruth Prabhu, Neil Nitin Mukesh","Action, Drama",8.1
+203,Highway,2014,133,Imtiaz Ali,"Alia Bhatt, Randeep Hooda, Durgesh Kumar","Crime, Drama, Romance",7.6
+204,Serena,2014,109,Susanne Bier,"Bradley Cooper, Jennifer Lawrence, Rhys Ifans","Drama, History, Romance",5.4
+205,The Nut Job,2014,85,Peter Lepeniotis,"Will Arnett, Brendan Fraser, Liam Neeson","Animation, Adventure, Comedy",5.7
+206,Testament of Youth,2014,129,James Kent,"Alicia Vikander, Kit Harington, Taron Egerton","Biography, Drama, History",7.2
+207,Life Is a Dream,2014,81,David E. Breaux,"Santiago de la Vega, Minerva Martinez, Pilades Victoria Martinez","Documentary, Drama, Family",3.9
+208,Playing It Cool,2014,94,Justin Reardon,"Chris Evans, Michelle Monaghan, Topher Grace","Comedy, Romance",5.9
+209,Holiday,2014,160,A.R. Murugadoss,"Akshay Kumar, Sonakshi Sinha, Freddy Daruwala","Action, Crime, Thriller",7.2
+210,A Brilliant Young Mind,2014,111,Morgan Matthews,"Asa Butterfield, Rafe Spall, Sally Hawkins","Drama, Romance",7.1
+211,White Bird in a Blizzard,2014,91,Gregg Araki,"Shailene Woodley, Eva Green, Christopher Meloni","Drama, Mystery, Thriller",6.4
+212,The Bélier Family,2014,106,Éric Lartigau,"Karin Viard, François Damiens, Eric Elmosnino","Comedy, Drama, Music",7.3
+213,The Blue Elephant,2014,170,Marwan Hamed,"Karim Abdel Aziz, Khaled El-Sawi, Nelly Karim","Crime, Drama, Horror",8.0
+214,Son of a Gun,2014,108,Julius Avery,"Ewan McGregor, Brenton Thwaites, Alicia Vikander","Action, Crime, Drama",6.4
+215,In Order of Disappearance,2014,116,Hans Petter Moland,"Stellan Skarsgård, Bruno Ganz, Pål Sverre Hagen","Action, Comedy, Crime",7.1
+216,The Woman in Black 2: Angel of Death,2014,98,Tom Harper,"Helen McCrory, Jeremy Irvine, Phoebe Fox","Drama, Horror, Thriller",4.8
+217,She's Funny That Way,2014,93,Peter Bogdanovich,"Imogen Poots, Owen Wilson, Jennifer Aniston","Comedy, Drama",6.1
+218,Cooties,2014,88,"Jonathan Milott, Cary Murnion","Elijah Wood, Rainn Wilson, Alison Pill","Action, Comedy, Horror",5.7
+219,Suite Française,2014,107,Saul Dibb,"Michelle Williams, Kristin Scott Thomas, Margot Robbie","Drama, History, Romance",7.0
+220,Heaven Is for Real,2014,99,Randall Wallace,"Greg Kinnear, Kelly Reilly, Thomas Haden Church","Biography, Drama, Family",5.9
+221,The Way He Looks,2014,96,Daniel Ribeiro,"Ghilherme Lobo, Fabio Audi, Tess Amorim","Drama, Romance",7.9
+222,The Pyramid,2014,89,Grégory Levasseur,"Ashley Hinshaw, James Buckley, Denis O'Hare","Horror, Mystery, Thriller",4.7
+223,The Little Death,2014,96,Josh Lawson,"Bojana Novakovic, Josh Lawson, Damon Herriman","Comedy, Drama, Romance",7.0
+224,Barefoot,2014,90,Andrew Fleming,"Evan Rachel Wood, Scott Speedman, J.K. Simmons","Comedy, Drama, Romance",6.5
+225,Top Five,2014,102,Chris Rock,"Chris Rock, Rosario Dawson, Gabrielle Union","Comedy, Romance",6.4
+226,Clown,2014,100,Jon Watts,"Andy Powers, Laura Allen, Peter Stormare","Horror, Thriller",5.7
+227,Honeymoon,2014,87,Leigh Janiak,"Rose Leslie, Harry Treadaway, Ben Huber","Drama, Fantasy, Horror",5.7
+228,Mr. Turner,2014,150,Mike Leigh,"Timothy Spall, Paul Jesson, Dorothy Atkinson","Biography, Drama, History",6.8
+229,Dead Snow 2: Red vs. Dead,2014,100,Tommy Wirkola,"Geir Vegar Hoel, Ørjan Gamst, Martin Starr","Action, Comedy, Horror",6.8
+230,2 States,2014,149,Abhishek Varman,"Arjun Kapoor, Alia Bhatt, Amrita Singh","Comedy, Drama, Romance",6.9
+231,Department Q: The Absent One,2014,119,Mikkel Nørgaard,"Nikolaj Lie Kaas, Fares Fares, Pilou Asbæk","Crime, Drama, Mystery",7.1
+232,You're Not You,2014,102,George C. Wolfe,"Hilary Swank, Emmy Rossum, Josh Duhamel",Drama,7.3
+233,Bang Bang,2014,153,Siddharth Anand,"Hrithik Roshan, Katrina Kaif, Pawan Malhotra","Action, Adventure, Comedy",5.7
+234,Cowspiracy: The Sustainability Secret,2014,90,"Kip Andersen, Keegan Kuhn","Bruce Hamilton, Kip Andersen, Al Gore",Documentary,8.1
+235,Dear White People,2014,108,Justin Simien,"Tyler James Williams, Tessa Thompson, Kyle Gallner","Comedy, Drama, Romance",6.2
+236,Obvious Child,2014,84,Gillian Robespierre,"Jenny Slate, Jake Lacy, Gaby Hoffmann","Comedy, Drama, Romance",6.7
+237,Get on Up,2014,139,Tate Taylor,"Chadwick Boseman, Nelsan Ellis, Dan Aykroyd","Biography, Drama, Music",6.9
+238,Jessabelle,2014,90,Kevin Greutert,"Sarah Snook, Mark Webber, Joelle Carter","Drama, Horror, Mystery",5.4
+239,A Little Chaos,2014,117,Alan Rickman,"Kate Winslet, Alan Rickman, Stanley Tucci","Drama, Romance",6.5
+240,Rage,2014,92,Paco Cabezas,"Nicolas Cage, Rachel Nichols, Max Ryan","Action, Thriller",5.0
+241,Backcountry,2014,92,Adam MacDonald,"Jeff Roop, Missy Peregrym, Nicholas Campbell","Adventure, Drama, Horror",6.0
+242,Last Shift,2014,88,Anthony DiBlasi,"Juliana Harkavy, Joshua Mikel, Hank Stone","Horror, Mystery",5.8
+243,About Last Night,2014,100,Steve Pink,"Kevin Hart, Michael Ealy, Regina Hall","Comedy, Romance",6.0
+244,What We Did on Our Holiday,2014,95,"Andy Hamilton, Guy Jenkin","Rosamund Pike, David Tennant, Billy Connolly","Comedy, Drama",6.9
+245,They Came Together,2014,83,David Wain,"Paul Rudd, Amy Poehler, Bill Hader","Comedy, Romance",5.6
+246,Good Kill,2014,102,Andrew Niccol,"Ethan Hawke, January Jones, Zoë Kravitz","Drama, Thriller, War",6.4
+247,Life After Beth,2014,89,Jeff Baena,"Aubrey Plaza, Dane DeHaan, John C. Reilly","Comedy, Fantasy, Horror",5.7
+248,Bangalore Days,2014,171,Anjali Menon,"Dulquer Salmaan, Nivin Pauly, Nazriya Nazim","Comedy, Drama, Romance",8.3
+249,The Angriest Man in Brooklyn,2014,83,Phil Alden Robinson,"Robin Williams, Mila Kunis, Peter Dinklage","Comedy, Drama",5.7
+250,A Haunted House 2,2014,86,Michael Tiddes,"Marlon Wayans, Jaime Pressly, Cedric The Entertainer","Comedy, Fantasy, Horror",4.7
+251,The Riot Club,2014,107,Lone Scherfig,"Sam Claflin, Max Irons, Douglas Booth","Drama, Thriller",6.0
+252,Kill Me Three Times,2014,90,Kriv Stenders,"Simon Pegg, Teresa Palmer, Alice Braga","Action, Adventure, Comedy",5.8
+253,The Salt of the Earth,2014,110,"Juliano Ribeiro Salgado, Wim Wenders","Sebastião Salgado, Wim Wenders, Lélia Wanick Salgado","Documentary, Biography, History",8.4
+254,Escobar: Paradise Lost,2014,120,Andrea Di Stefano,"Benicio Del Toro, Josh Hutcherson, Claudia Traisac","Crime, Drama, History",6.5
+255,The Villain,2014,129,Mohit Suri,"Sidharth Malhotra, Shraddha Kapoor, Riteish Deshmukh","Action, Crime, Drama",6.6
+256,Think Like a Man Too,2014,106,Tim Story,"Kevin Hart, Gabrielle Union, Wendi McLendon-Covey","Comedy, Romance",5.7
+257,Beauty and the Beast,2014,112,Christophe Gans,"Vincent Cassel, Léa Seydoux, André Dussollier","Drama, Family, Fantasy",6.4
+258,Starry Eyes,2014,98,"Kevin Kölsch, Dennis Widmyer","Alexandra Essoe, Amanda Fuller, Noah Segan","Horror, Mystery",6.0
+259,Trash,2014,114,"Stephen Daldry, Christian Duurvoort","Rickson Tevez, Gabriel Weinstein, Martin Sheen","Adventure, Crime, Drama",7.1
+260,The Rewrite,2014,107,Marc Lawrence,"Hugh Grant, Whit Baldwin, Vanessa Wasche","Comedy, Romance",6.3
+261,No Good Deed,2014,84,Sam Miller,"Taraji P. Henson, Idris Elba, Leslie Bibb","Crime, Drama, Horror",5.6
+262,5 to 7,2014,95,Victor Levin,"Anton Yelchin, Bérénice Marlohe, Olivia Thirlby","Comedy, Drama, Romance",7.1
+263,Zombeavers,2014,77,Jordan Rubin,"Rachel Melvin, Cortney Palm, Lexi Atkins","Comedy, Horror",4.8
+264,Grace of Monaco,2014,103,Olivier Dahan,"Nicole Kidman, Tim Roth, André Penvern","Biography, Drama, Romance",5.7
+265,The Quiet Ones,2014,98,John Pogue,"Jared Harris, Sam Claflin, Olivia Cooke","Horror, Mystery, Thriller",5.1
+266,Jai Ho,2014,135,Sohail Khan,"Salman Khan, Daisy Shah, Tabu","Action, Drama",5.0
+267,[REC] 4: Apocalypse,2014,95,Jaume Balagueró,"Manuela Velasco, Paco Manzanedo, Héctor Colomé","Action, Horror, Thriller",5.3
+268,Phoenix,2014,98,Christian Petzold,"Nina Hoss, Ronald Zehrfeld, Nina Kunzendorf","Drama, History, Music",7.3
+269,Reasonable Doubt,2014,91,Peter Howitt,"Dominic Cooper, Samuel L. Jackson, Gloria Reuben","Crime, Drama, Mystery",5.7
+270,Planes: Fire & Rescue,2014,83,Bobs Gannaway,"Dane Cook, Ed Harris, Julie Bowen","Animation, Adventure, Comedy",5.9
+271,V/H/S Viral,2014,81,"Justin Benson, Gregg Bishop, Todd Lincoln","Patrick Lawrie, Emilia Ares, Celia K. Milius","Horror, Thriller",4.2
+272,Cuban Fury,2014,98,James Griffiths,"Nick Frost, Rashida Jones, Chris O'Dowd","Comedy, Romance, Sport",6.2
+273,Earth to Echo,2014,91,Dave Green,"Teo Halm, Astro, Reese Hartwig","Adventure, Family, Sci-Fi",5.7
+274,A Pigeon Sat on a Branch Reflecting on Existence,2014,101,Roy Andersson,"Holger Andersson, Nils Westblom, Viktor Gyllenberg","Comedy, Drama, Fantasy",6.9
+275,Comet,2014,91,Sam Esmail,"Justin Long, Emmy Rossum, Kayla Servi","Comedy, Drama, Romance",6.7
+276,Son of God,2014,138,Christopher Spencer,"Diogo Morgado, Amber Rose Revah, Greg Hicks","Biography, Drama, History",5.8
+277,Welcome to Me,2014,87,Shira Piven,"Kristen Wiig, James Marsden, Linda Cardellini","Comedy, Drama",5.9
+278,Everly,2014,92,Joe Lynch,"Salma Hayek, Hiroyuki Watanabe, Laura Cepeda","Action, Thriller",5.1
+279,Just Before I Go,2014,95,Courteney Cox,"Seann William Scott, Olivia Thirlby, Garret Dillahunt","Comedy, Drama",6.3
+280,Rudderless,2014,105,William H. Macy,"Billy Crudup, Anton Yelchin, Felicity Huffman","Comedy, Drama, Music",7.4
+281,Lost River,2014,95,Ryan Gosling,"Christina Hendricks, Iain De Caestecker, Matt Smith","Drama, Fantasy, Mystery",5.7
+282,The Prince,2014,93,Brian A. Miller,"Jason Patric, Bruce Willis, John Cusack","Action, Thriller",4.6
+283,Recep Ivedik 4,2014,117,Togan Gökbakar,"Sahan Gökbakar, Dilanur Cinar, Firuze Gamze Aksu",Comedy,3.9
+284,Rurouni Kenshin Part II: Kyoto Inferno,2014,138,Keishi Otomo,"Takeru Satoh, Emi Takei, Tatsuya Fujiwara","Action, Adventure, Drama",7.5
+285,Spanish Affair,2014,98,Emilio Martínez Lázaro,"Clara Lago, Dani Rovira, Carmen Machi","Comedy, Romance",6.5
+286,The Last: Naruto the Movie,2014,112,Tsuneo Kobayashi,"Junko Takeuchi, Nana Mizuki, Jun Fukuyama","Animation, Action, Adventure",7.6
+287,Wyrmwood: Road of the Dead,2014,98,Kiah Roache-Turner,"Jay Gallagher, Bianca Bradey, Leon Burchill","Action, Comedy, Horror",6.2
+288,Timbuktu,2014,96,Abderrahmane Sissako,"Ibrahim Ahmed, Abel Jafri, Toulou Kiki","Drama, War",7.1
+289,The Internet's Own Boy: The Story of Aaron Swartz,2014,105,Brian Knappenberger,"Aaron Swartz, Tim Berners-Lee, Cindy Cohn","Documentary, Biography, Crime",8.0
+290,Devil's Due,2014,89,"Matt Bettinelli-Olpin, Tyler Gillett","Allison Miller, Zach Gilford, Sam Anderson","Horror, Mystery",4.2
+291,Beyond the Lights,2014,116,Gina Prince-Bythewood,"Gugu Mbatha-Raw, Nate Parker, Minnie Driver","Drama, Music, Romance",6.8
+292,The Town That Dreaded Sundown,2014,86,Alfonso Gomez-Rejon,"Addison Timlin, Veronica Cartwright, Anthony Anderson","Horror, Mystery, Thriller",5.6
+293,American Heist,2014,94,Sarik Andreasyan,"Hayden Christensen, Earl Minor, Adrien Brody","Action, Crime, Drama",5.0
+294,Flight 7500,2014,80,Takashi Shimizu,"Leslie Bibb, Ryan Kwanten, Amy Smart","Drama, Horror, Sci-Fi",4.8
+295,Good People,2014,90,Henrik Ruben Genz,"James Franco, Kate Hudson, Tom Wilkinson","Action, Adventure, Crime",5.5
+296,Samba,2014,118,"Olivier Nakache, Éric Toledano","Omar Sy, Charlotte Gainsbourg, Tahar Rahim","Comedy, Drama, Romance",6.7
+297,A Hard Day,2014,111,Kim Seong-hun,"Lee Sun-kyun, Cho Jin-woong, Jeong Man-sik","Action, Crime, Thriller",7.2
+298,The Hungover Games,2014,85,Josh Stolberg,"Ben Begley, Herbert Russell, Ross Nathan","Adventure, Comedy, Fantasy",3.5
+299,The Bag Man,2014,108,David Grovic,"John Cusack, Rebecca Da Costa, Robert De Niro","Action, Crime, Drama",5.2
+300,The Fool,2014,116,Yuriy Bykov,"Artyom Bystrov, Natalya Surkova, Yuriy Tsurilo","Crime, Drama, Thriller",8.0
+301,Whisper If I Forget,2014,118,Çagan Irmak,"Farah Zeynep Abdullah, Mehmet Günsür, Kerem Bürsin","Drama, Music, Romance",7.5
+302,White God,2014,121,Kornél Mundruczó,"Zsófia Psotta, Sándor Zsótér, Lili Horvát","Adventure, Drama, Thriller",6.8
+303,Infinitely Polar Bear,2014,90,Maya Forbes,"Mark Ruffalo, Zoe Saldaña, Imogene Wolodarsky","Comedy, Drama, Romance",6.9
+304,When the Game Stands Tall,2014,115,Thomas Carter,"Jim Caviezel, Alexander Ludwig, Michael Chiklis","Biography, Drama, Family",6.6
+305,Extraterrestrial,2014,101,Colin Minihan,"Brittany Allen, Freddie Stroma, Jesse Moss","Action, Horror, Mystery",5.0
+306,Kirk Cameron's Saving Christmas,2014,79,Darren Doane,"Kirk Cameron, Darren Doane, Bridgette Cameron","Comedy, Family",1.3
+307,Hasee Toh Phasee,2014,141,Vinil Mathew,"Sidharth Malhotra, Parineeti Chopra, Adah Sharma","Comedy, Romance",6.8
+308,The Road Within,2014,100,Gren Wells,"Robert Sheehan, Dev Patel, Zoë Kravitz","Adventure, Comedy, Drama",7.0
+309,Some Kind of Beautiful,2014,99,Tom Vaughan,"Pierce Brosnan, Salma Hayek, Jessica Alba","Comedy, Romance",5.7
+310,Life Itself,2014,121,Steve James,"Roger Ebert, Chaz Ebert, Gene Siskel","Documentary, Biography",7.8
+311,The Trip to Italy,2014,108,Michael Winterbottom,"Steve Coogan, Rob Brydon, Rosie Fellner","Comedy, Drama",6.6
+312,Asterix and Obelix: Mansion of the Gods,2014,85,"Louis Clichy, Alexandre Astier","Roger Carel, Lorànt Deutsch, Laurent Lafitte","Animation, Adventure, Comedy",6.9
+313,Better Living Through Chemistry,2014,91,"Geoff Moore, David Posamentier","Sam Rockwell, Olivia Wilde, Michelle Monaghan","Comedy, Drama",6.2
+314,And So It Goes,2014,94,Rob Reiner,"Michael Douglas, Diane Keaton, Sterling Jerins","Comedy, Drama, Romance",5.9
+315,Open Windows,2014,100,Nacho Vigalondo,"Sasha Grey, Elijah Wood, Neil Maskell","Crime, Mystery, Thriller",5.1
+316,Rurouni Kenshin: The Legend Ends,2014,134,Keishi Otomo,"Takeru Satoh, Tatsuya Fujiwara, Emi Takei","Action, Adventure, Drama",7.5
+317,The Canal,2014,92,Ivan Kavanagh,"Rupert Evans, Antonia Campbell-Hughes, Hannah Hoekstra","Drama, Horror, Mystery",5.8
+318,Kilo Two Bravo,2014,108,Paul Katis,"David Elliot, Mark Stanley, Scott Kyle","Biography, Drama, Thriller",7.1
+319,The Duke of Burgundy,2014,104,Peter Strickland,"Sidse Babett Knudsen, Monica Swinn, Chiara D'Anna","Drama, Romance",6.5
+320,The Dark Valley,2014,115,Andreas Prochaska,"Sam Riley, Tobias Moretti, Paula Beer","Action, Drama, Western",7.1
+321,Humpty Sharma Ki Dulhania,2014,133,Shashank Khaitan,"Varun Dhawan, Alia Bhatt, Ashutosh Rana","Comedy, Drama, Romance",6.0
+322,Moms' Night Out,2014,98,"Andrew Erwin, Jon Erwin","Sarah Drew, Sean Astin, Patricia Heaton",Comedy,5.3
+323,Outcast,2014,99,Nick Powell,"Nicolas Cage, Hayden Christensen, Alexandre Bailly","Action, Adventure, Thriller",4.6
+324,Jilla,2014,185,R.T. Neason,"Mohanlal, Joseph Vijay, Kajal Aggarwal","Action, Crime, Drama",6.2
+325,The Look of Silence,2014,103,Joshua Oppenheimer,"Adi Rukun, M.Y. Basrun, Volker Hanisch","Documentary, Biography, History",8.2
+326,Labyrinth of Lies,2014,124,Giulio Ricciarelli,"André Szymanski, Alexander Fehling, Friederike Becht","Drama, History",7.3
+327,Cut Bank,2014,93,Matt Shakman,"Michael Stuhlbarg, Bruce Dern, John Malkovich","Crime, Drama, Mystery",6.1
+328,Twin Peaks: The Missing Pieces,2014,91,David Lynch,"Chris Isaak, Kiefer Sutherland, C.H. Evans","Drama, Horror, Mystery",7.5
+329,Jigarthanda,2014,171,Karthik Subbaraj,"Siddharth, Bobby Simha, Lakshmi Menon","Comedy, Crime, Drama",8.2
+330,Black or White,2014,121,Mike Binder,"Kevin Costner, Octavia Spencer, Gillian Jacobs",Drama,6.6
+331,Let's Sin,2014,110,Onur Ünlü,"Serhan Ergören, Serkan Keskin, Ahmet Çevik","Action, Crime, Drama",7.7
+332,Copenhagen,2014,98,Mark Raso,"Gethin Anthony, Frederikke Dahl Hansen, Sebastian Armesto","Adventure, Drama, Romance",7.0
+333,The Longest Week,2014,86,Peter Glanz,"Jason Bateman, Olivia Wilde, Billy Crudup","Comedy, Drama, Romance",5.4
+334,Mardaani,2014,113,Pradeep Sarkar,"Rani Mukerji, Jisshu Sengupta, Anant Vidhaat","Action, Crime, Drama",7.3
+335,The Possession of Michael King,2014,83,David Jung,"Shane Johnson, Ella Anderson, Cara Pifko",Horror,5.7
+336,The Forger,2014,92,Philip Martin,"John Travolta, Christopher Plummer, Tye Sheridan","Crime, Drama, Thriller",5.8
+337,The Admiral: Roaring Currents,2014,128,Kim Han-min,"Choi Min-sik, Ryu Seung-ryong, Cho Jin-woong","Action, History, War",7.1
+338,Race Gurram,2014,163,Surender Reddy,"Allu Arjun, Shruti Haasan, Shaam","Action, Comedy",7.3
+339,Free to Play,2014,75,Valve,"Benedict Lim, Clinton Loomis, Danil Ishutin","Documentary, Action",7.6
+340,Love Is Strange,2014,94,Ira Sachs,"John Lithgow, Alfred Molina, Marisa Tomei","Drama, Romance",6.7
+341,In the Blood,2014,108,John Stockwell,"Gina Carano, Cam Gigandet, Ismael Cruz Cordova","Action, Crime, Thriller",5.7
+342,Yves Saint Laurent,2014,106,Jalil Lespert,"Pierre Niney, Guillaume Gallienne, Charlotte Le Bon","Biography, Drama",6.2
+343,A Good Marriage,2014,102,Peter Askin,"Joan Allen, Anthony LaPaglia, Stephen Lang","Action, Crime, Drama",5.3
+344,The Disappearance of Eleanor Rigby: Them,2014,123,Ned Benson,"James McAvoy, Jessica Chastain, Viola Davis","Drama, Romance",6.3
+345,Ask Me Anything,2014,100,Allison Burnett,"Britt Robertson, Molly Hagan, Andy Buckley","Comedy, Drama, Mystery",6.0
+346,The Connection,2014,135,Cédric Jimenez,"Jean Dujardin, Gilles Lellouche, Céline Sallette","Action, Crime, Thriller",7.1
+347,God's Pocket,2014,88,John Slattery,"Philip Seymour Hoffman, Christina Hendricks, Richard Jenkins","Crime, Drama",6.1
+348,Babysitting,2014,85,"Nicolas Benamou, Philippe Lacheau","Philippe Lacheau, Alice David, Vincent Desagnat",Comedy,6.8
+349,Addicted,2014,106,Bille Woodruff,"Sharon Leal, Boris Kodjoe, John Newberg","Drama, Romance, Thriller",5.0
+350,Behaving Badly,2014,97,Tim Garrick,"Nat Wolff, Selena Gomez, Mary-Louise Parker","Comedy, Romance",4.4
+351,"Kumiko, The Treasure Hunter",2014,105,David Zellner,"Rinko Kikuchi, Nobuyuki Katsube, Kanako Higashi",Drama,6.6
+352,Fed Up,2014,92,Stephanie Soechtig,"Michele Simon, Katie Couric, Bill Clinton",Documentary,7.7
+353,Virunga,2014,100,Orlando von Einsiedel,"André Bauma, Emmanuel de Merode, Mélanie Gouby","Documentary, War",8.1
+354,Kung Fu Jungle,2014,100,Teddy Chan,"Donnie Yen, Baoqiang Wang, Charlie Yeung","Action, Crime, Thriller",6.4
+355,Manam,2014,163,Vikram K. Kumar,"Akkineni Nageswara Rao, Nagarjuna Akkineni, Naga Chaitanya Akkineni","Comedy, Drama, Fantasy",7.9
+356,The Tribe,2014,126,Myroslav Slaboshpytskyi,"Hryhoriy Fesenko, Yana Novikova, Rosa Babiy","Crime, Drama",7.0
+357,"20,000 Days on Earth",2014,97,"Iain Forsyth, Jane Pollard","Nick Cave, Susie Bick, Warren Ellis","Documentary, Drama, Music",7.4
+358,Rob the Mob,2014,104,Raymond De Felitta,"Michael Pitt, Nina Arianda, Andy Garcia","Biography, Crime, Drama",6.3
+359,Dark Was the Night,2014,99,Jack Heller,"Kevin Durand, Lukas Haas, Bianca Kajlich","Drama, Horror, Thriller",5.6
+360,Dying of the Light,2014,94,Paul Schrader,"Nicolas Cage, Anton Yelchin, Alexander Karim","Action, Drama, Thriller",4.5
+361,Burying the Ex,2014,89,Joe Dante,"Anton Yelchin, Ashley Greene, Alexandra Daddario","Comedy, Horror, Romance",5.4
+362,Theeb,2014,100,Naji Abu Nowar,"Jacir Eid Al-Hwietat, Hussein Salameh Al-Sweilhiyeen, Hassan Mutlag Al-Maraiyeh","Adventure, Drama, Thriller",7.2
+363,Mary Kom,2014,122,Omung Kumar,"Priyanka Chopra Jonas, Sunil Thapa, Robin Das","Action, Biography, Drama",6.8
+364,Exists,2014,81,Eduardo Sánchez,"Samuel Davis, Dora Madison, Roger Edwards","Horror, Thriller",5.2
+365,Monsters: Dark Continent,2014,119,Tom Green,"Johnny Harris, Sam Keeley, Joe Dempsie","Action, Drama, Sci-Fi",4.3
+366,5 Flights Up,2014,88,Richard Loncraine,"Diane Keaton, Morgan Freeman, Cynthia Nixon","Comedy, Drama",6.2
+367,Beyond the Reach,2014,91,Jean-Baptiste Léonetti,"Michael Douglas, Jeremy Irvine, Martin Palmer","Action, Adventure, Thriller",5.6
+368,A Small September Affair,2014,106,Kerem Deren,"Engin Akyürek, Farah Zeynep Abdullah, Ceren Moray","Drama, Mystery, Romance",7.1
+369,Let Us Prey,2014,92,Brian O'Malley,"Liam Cunningham, Pollyanna McIntosh, Bryan Larkin","Drama, Horror, Thriller",5.8
+370,Faults,2014,89,Riley Stearns,"Leland Orser, Mary Elizabeth Winstead, Chris Ellis","Drama, Mystery, Thriller",6.7
+371,That Sugar Film,2014,90,Damon Gameau,"Damon Gameau, Hugh Jackman, Milla Bakaitis",Documentary,7.4
+372,Miss Meadows,2014,88,Karen Leigh Hopkins,"Katie Holmes, James Badge Dale, Callan Mulvey","Comedy, Crime, Drama",5.8
+373,The Houses October Built,2014,91,Bobby Roe,"Brandy Schaefer, Zack Andrews, Bobby Roe","Horror, Thriller",5.2
+374,Premature,2014,93,Dan Beers,"John Karna, Caroline Traywick, Kate Kneeland","Comedy, Drama, Fantasy",5.7
+375,Rosewater,2014,103,Jon Stewart,"Gael García Bernal, Kim Bodnia, Dimitri Leonidas","Biography, Drama",6.6
+376,Heropanti,2014,146,Sabbir Khan,"Tiger Shroff, Kriti Sanon, Parthaa Akerkar","Action, Drama, Romance",5.2
+377,The Last Five Years,2014,94,Richard LaGravenese,"Anna Kendrick, Jeremy Jordan, Tamara Mintz","Comedy, Drama, Musical",5.9
+378,Singham Returns,2014,142,Rohit Shetty,"Ajay Devgn, Kareena Kapoor, Amole Gupte","Action, Crime, Drama",5.7
+379,Northmen: A Viking Saga,2014,97,Claudio Fäh,"Tom Hopper, Ryan Kwanten, Ken Duken","Action, Drama, History",5.4
+380,Wolves,2014,91,David Hayter,"Lucas Till, Stephen McHattie, John Pyper-Ferguson","Action, Fantasy, Horror",5.3
+381,An Honest Liar,2014,90,"Tyler Measom, Justin Weinstein","James Randi, Penn Jillette, Teller","Documentary, Biography, Comedy",7.4
+382,Kid Cannabis,2014,110,John Stockwell,"Jonathan Daniel Brown, Kenny Wormald, Aaron Yoo","Biography, Comedy, Crime",6.4
+383,Young Ones,2014,100,Jake Paltrow,"Nicholas Hoult, Kodi Smit-McPhee, Michael Shannon","Action, Drama, Romance",5.8
+384,Main Tera Hero,2014,128,David Dhawan,"Varun Dhawan, Ileana D'Cruz, Nargis Fakhri","Action, Comedy, Romance",5.1
+385,It's Entertainment,2014,140,"Sajid, Farhad Samji","Akshay Kumar, Tamannaah Bhatia, Junior","Action, Comedy, Drama",4.6
+386,My Old Lady,2014,107,Israel Horovitz,"Kevin Kline, Kristin Scott Thomas, Maggie Smith","Comedy, Drama, Romance",6.4
+387,Song One,2014,86,Kate Barker-Froyland,"Anne Hathaway, Johnny Flynn, Ben Rosenfield","Drama, Music, Romance",5.8
+388,The Treatment,2014,131,Hans Herbots,"Geert Van Rampelberg, Ina Geerts, Johan van Assche","Crime, Drama, Mystery",7.1
+389,Girlhood,2014,113,Céline Sciamma,"Karidja Touré, Assa Sylla, Lindsay Karamoh",Drama,6.9
+390,Before I Disappear,2014,93,Shawn Christensen,"Shawn Christensen, Fatima Ptacek, Emmy Rossum","Adventure, Drama",7.2
+391,Girl House,2014,101,"Jon Knautz, Trevor Matthews","Ali Cobrin, Adam DiMarco, George Carroll","Horror, Thriller",5.5
+392,Stand by Me Doraemon,2014,95,"Tony Oliver, Ryuichi Yagi, Takashi Yamazaki","Wasabi Mizuta, Megumi Ôhara, Satoshi Tsumabuki","Animation, Comedy, Drama",7.3
+393,Bad Country,2014,95,Chris Brinker,"Matt Dillon, Willem Dafoe, Neal McDonough","Action, Crime, Drama",5.8
+394,Dolphin Tale 2,2014,107,Charles Martin Smith,"Morgan Freeman, Ashley Judd, Nathan Gamble","Drama, Family",6.4
+395,Kristy,2014,86,Olly Blackburn,"Haley Bennett, Ashley Greene, Lucas Till","Horror, Thriller",5.9
+396,"Black Coal, Thin Ice",2014,110,Yi'nan Diao,"Fan Liao, Lun-Mei Gwei, Xuebing Wang","Crime, Drama, Mystery",6.7
+397,I Can Quit Whenever I Want,2014,100,Sydney Sibilia,"Edoardo Leo, Valeria Solarino, Valerio Aprea","Comedy, Crime",7.0
+398,Ulidavaru Kandanthe,2014,154,Rakshit Shetty,"Rakshit Shetty, Rishab Shetty, Kishore Kumar G.","Crime, Drama, Thriller",8.4
+399,Heaven Knows What,2014,97,"Benny Safdie, Josh Safdie","Arielle Holmes, Caleb Landry Jones, Buddy Duress","Crime, Drama",6.8
+400,Every Secret Thing,2014,93,Amy Berg,"Diane Lane, Brynne Norquist, Eva Grace Kellner","Crime, Drama, Mystery",6.1
+401,Falcon Rising,2014,103,Ernie Barbarash,"Michael Jai White, Neal McDonough, Jimmy Navarro","Action, Adventure",5.8
+402,The Calling,2014,108,Jason Stone,"Susan Sarandon, Gil Bellows, Ellen Burstyn","Drama, Horror, Mystery",5.9
+403,Supercondriaque,2014,107,Dany Boon,"Dany Boon, Kad Merad, Alice Pol",Comedy,6.0
+404,ABCs of Death 2,2014,125,"Rodney Ascher, Julian Barratt, Robert Boocheck","Eric Jacobus, Andy Nyman, Simon Barrett","Comedy, Horror",5.4
+405,Life Partners,2014,93,Susanna Fogel,"Leighton Meester, Gillian Jacobs, Adam Brody","Comedy, Drama, Romance",6.2
+406,Khoobsurat,2014,130,Shashanka Ghosh,"Sonam Kapoor, Fawad Khan, Ratna Pathak Shah","Comedy, Romance",6.4
+407,Appleseed Alpha,2014,93,"Shinji Aramaki, Steven Foster","Luci Christian, David Matranga, Brina Palencia","Animation, Action, Adventure",6.5
+408,The Remaining,2014,88,Casey La Scala,"Johnny Pacar, Shaun Sipos, Bryan Dechart","Drama, Fantasy, Horror",4.3
+409,God Help the Girl,2014,112,Stuart Murdoch,"Emily Browning, Olly Alexander, Hannah Murray","Drama, Music, Romance",6.4
+410,The New Girlfriend,2014,108,François Ozon,"Romain Duris, Anaïs Demoustier, Raphaël Personnaz","Comedy, Drama, Romance",6.5
+411,Blind,2014,96,Eskil Vogt,"Ellen Dorrit Petersen, Henrik Rafaelsen, Vera Vitali",Drama,6.8
+412,Boulevard,2014,88,Dito Montiel,"Robin Williams, Roberto Aguire, Kathy Baker",Drama,5.8
+413,Veeram,2014,161,Siva,"Ajith Kumar, Tamannaah Bhatia, Vidharth","Action, Comedy, Drama",6.5
+414,Far from Men,2014,101,David Oelhoffen,"Viggo Mortensen, Reda Kateb, Djemel Barek","Drama, War",7.2
+415,Alien Abduction,2014,85,Matty Beckerman,"Katherine Sigismund, Corey Eid, Riley Polanski","Horror, Sci-Fi, Thriller",4.9
+416,Happy Christmas,2014,82,Joe Swanberg,"Anna Kendrick, Melanie Lynskey, Mark Webber","Comedy, Drama",5.4
+417,Madame Bovary,2014,118,Sophie Barthes,"Mia Wasikowska, Rhys Ifans, Ezra Miller","Drama, Romance",5.7
+418,Humshakals,2014,159,Sajid Khan,"Saif Ali Khan, Riteish Deshmukh, Ram Kapoor","Comedy, Drama, Romance",1.7
+419,Velaiyilla Pattathari,2014,133,Velraj,"Dhanush, Saranya Ponvannan, Amala Paul","Action, Comedy, Drama",7.9
+420,Poker Night,2014,104,Greg Francis,"Beau Mirchoff, Ron Perlman, Giancarlo Esposito","Crime, Mystery, Thriller",6.2
+421,Yevadu,2014,165,Vamshi Paidipally,"Ram Charan, Allu Arjun, Shruti Haasan","Action, Thriller",5.9
+422,As the Gods Will,2014,117,Takashi Miike,"Sôta Fukushi, Hirona Yamazaki, Ryûnosuke Kamiki","Adventure, Horror, Sci-Fi",6.3
+423,Adult Beginners,2014,92,Ross Katz,"Nick Kroll, Rose Byrne, Bobby Cannavale","Comedy, Drama",5.6
+424,Night of the Wolf,2014,95,Adrian Garcia Bogliano,"Nick Damici, Ethan Embry, Lance Guest",Horror,6.0
+425,Skin Trade,2014,96,Ekachai Uekrongtham,"Dolph Lundgren, Tony Jaa, Ron Perlman","Action, Crime, Thriller",5.6
+426,Space Station 76,2014,93,Jack Plotnick,"Patrick Wilson, Liv Tyler, Marisa Coughlan","Comedy, Drama, Sci-Fi",4.9
+427,John Doe: Vigilante,2014,93,Kelly Dolen,"Jamie Bamber, Lachy Hulme, Gary Abrahams","Crime, Thriller",6.5
+428,Frontera,2014,103,Michael Berry,"Ed Harris, Eva Longoria, Michael Peña","Drama, Thriller, Western",6.6
+429,Cabin Fever 3: Patient Zero,2014,91,Kaare Andrews,"Sean Astin, Currie Graham, Ryan Donowho","Horror, Sci-Fi",4.4
+430,Stromberg - Der Film,2014,123,Arne Feldhusen,"Christoph Maria Herbst, Milena Dreißig, Bjarne Mädel",Comedy,7.3
+431,Date and Switch,2014,91,Chris Nelson,"Nicholas Braun, Hunter Cope, Dakota Johnson","Comedy, Drama, Romance",5.7
+432,A Merry Friggin' Christmas,2014,88,Tristram Shapeero,"Joel McHale, Lauren Graham, Clark Duke","Comedy, Drama",5.2
+433,The Big Fat Stone,2014,111,Frank D'Angelo,"Ray Abruzzo, Paul Amato, Marcia Bennett",Drama,5.9
+434,The Falling,2014,102,Carol Morley,"Maxine Peake, Maisie Williams, Florence Pugh","Drama, Mystery, Thriller",5.3
+435,Someone Marry Barry,2014,87,Rob Pearlstein,"Tyler Labine, Damon Wayans Jr., Hayes MacArthur",Comedy,5.8
+436,Mune: Guardian of the Moon,2014,85,"Alexandre Heboyan, Benoît Philippon","Omar Sy, Izïa Higelin, Michaël Grégorio","Animation, Adventure, Comedy",7.1
+437,Learning to Drive,2014,90,Isabel Coixet,"Patricia Clarkson, Ben Kingsley, Grace Gummer","Comedy, Drama, Romance",6.4
+438,Search Party,2014,93,Scot Armstrong,"Adam Pally, T.J. Miller, Thomas Middleditch","Adventure, Comedy",5.6
+439,Eyyvah Eyvah 3,2014,105,Hakan Algül,"Demet Akbag, Ata Demirer, Özge Borak",Comedy,5.9
+440,Plastic,2014,102,Julian Gilbey,"Ed Speleers, Will Poulter, Alfie Allen","Action, Comedy, Crime",6.0
+441,Manglehorn,2014,97,David Gordon Green,"Al Pacino, Holly Hunter, Harmony Korine",Drama,5.5
+442,The Cut,2014,138,Fatih Akin,"Tahar Rahim, Simon Abkarian, Makram Khoury","Adventure, Drama, History",6.3
+443,See No Evil 2,2014,90,"Jen Soska, Sylvia Soska","Glenn Jacobs, Danielle Harris, Katharine Isabelle","Action, Horror, Thriller",4.7
+444,The Crow's Egg,2014,109,M. Manikandan,"Ramesh Thilaganathan, J. Vignesh, Aishwarya Rajesh","Comedy, Drama",8.3
+445,Breathe,2014,91,Mélanie Laurent,"Joséphine Japy, Lou de Laâge, Isabelle Carré",Drama,7.0
+446,Shrew's Nest,2014,91,"Juanfer Andrés, Esteban Roel","Macarena Gómez, Nadia de Santiago, Hugo Silva","Drama, Horror, Thriller",6.7
+447,Bogowie,2014,120,Lukasz Palkowski,"Tomasz Kot, Piotr Glowacki, Szymon Piotr Warszawski","Biography, Drama",7.6
+448,See You in Montevideo,2014,141,Dragan Bjelogrlic,"Milos Bikovic, Danijela Petkovic, Petar Strugar","Adventure, Biography, Comedy",8.1
+449,Chaar Sahibzaade,2014,135,Harry Baweja,"Om Puri, Harman Baweja","Animation, History",7.7
+450,About Alex,2014,99,Jesse Zwick,"Nate Parker, Jason Ritter, Maggie Grace",Drama,6.3
+451,Wolfcop,2014,79,Lowell Dean,"Leo Fafard, Amy Matysio, Sarah Lind","Comedy, Horror",5.6
+452,The Anomaly,2014,97,Noel Clarke,"Noel Clarke, Ian Somerhalder, Brian Cox","Action, Mystery, Sci-Fi",4.7
+453,Robot Overlords,2014,90,Jon Wright,"Ben Kingsley, Gillian Anderson, Callan McAuliffe","Action, Adventure, Sci-Fi",4.6
+454,The Keeping Room,2014,95,Daniel Barber,"Brit Marling, Hailee Steinfeld, Sam Worthington","Drama, Western",6.0
+455,Magical Girl,2014,127,Carlos Vermut,"José Sacristán, Marina Andruix, Raimundo de los Reyes","Drama, Thriller",7.2
+456,Angry Video Game Nerd: The Movie,2014,115,"Kevin Finn, James Rolfe","James Rolfe, Jeremy Suarez, Sarah Glendening","Action, Adventure, Comedy",5.4
+457,Animal,2014,82,Brett Simmons,"Joey Lauren Adams, Elizabeth Gillies, Paul Iacono","Action, Adventure, Drama",4.7
+458,Boychoir,2014,103,François Girard,"Dustin Hoffman, Kathy Bates, Eddie Izzard","Drama, Music",6.7
+459,Dedh Ishqiya,2014,152,Abhishek Chaubey,"Madhuri Dixit, Naseeruddin Shah, Huma Qureshi","Comedy, Drama, Romance",7.0
+460,At the Devil's Door,2014,91,Nicholas McCarthy,"Ashley Rickards, Nick Eversman, Michael Massee",Horror,4.8
+461,No Tears for the Dead,2014,116,Lee Jeong-beom,"Jang Dong-gun, Kim Min-hee, Brian Tee","Action, Crime, Drama",6.7
+462,Don't Blink,2014,92,Travis Oates,"Mena Suvari, Brian Austin Green, Joanne Kelly","Fantasy, Horror, Mystery",4.9
+463,Ugramm,2014,132,Prashanth Neel,"Sri Murali, Haripriya, Thilak Shekar","Action, Crime, Drama",8.0
+464,Boss Wants a Happy Ending,2014,109,Kivanç Baruönü,"Tolga Çevik, Ezgi Mola, Murat Basoglu","Comedy, Romance",6.0
+465,Reality,2014,95,Quentin Dupieux,"Alain Chabat, Jonathan Lambert, Élodie Bouchez",Comedy,6.9
+466,The Humbling,2014,112,Barry Levinson,"Al Pacino, Greta Gerwig, Nina Arianda","Comedy, Drama, Romance",5.6
+467,Head Full of Honey,2014,139,"Til Schweiger, Lars Gmehling","Pasquale Aleardi, Marco Boriero, Alexa Brunner","Comedy, Drama, Family",6.6
+468,The Single Moms Club,2014,111,Tyler Perry,"Nia Long, Wendi McLendon-Covey, Amy Smart","Comedy, Drama",5.5
+469,Red Army,2014,84,Gabe Polsky,"Viacheslav Fetisov, Vladislav Tretiak, Scotty Bowman","Documentary, Biography, History",7.6
+470,Rampage: Capital Punishment,2014,93,Uwe Boll,"Brendan Fletcher, Lochlyn Munro, Mike Dopud","Action, Crime, Thriller",6.0
+471,Effie Gray,2014,104,Richard Laxton,"Dakota Fanning, Greg Wise, Tom Sturridge","Biography, Drama, Romance",6.0
+472,A Second Chance,2014,102,Susanne Bier,"Nikolaj Coster-Waldau, Ulrich Thomsen, Nikolaj Lie Kaas","Drama, Thriller",6.8
+473,Bears,2014,78,"Alastair Fothergill, Keith Scholey, Adam Chapman",John C. Reilly,"Documentary, Family",7.3
+474,Perfect Sisters,2014,96,Stanley M. Brooks,"Abigail Breslin, Georgie Henley, Mira Sorvino","Crime, Drama, Thriller",5.6
+475,America: Imagine the World Without Her,2014,105,"Dinesh D'Souza, John Sullivan","Dinesh D'Souza, Barack Obama, Josh Bonzie",Documentary,5.0
+476,Jimmy's Hall,2014,109,Ken Loach,"Barry Ward, Francis Magee, Aileen Henry","Biography, Drama, History",6.7
+477,Listen Up Philip,2014,108,Alex Ross Perry,"Jason Schwartzman, Elisabeth Moss, Jonathan Pryce","Comedy, Drama",6.3
+478,Gemma Bovery,2014,99,Anne Fontaine,"Fabrice Luchini, Gemma Arterton, Jason Flemyng","Comedy, Drama, Romance",6.4
+479,Expelled,2014,85,Alex Goyette,"Cameron Dallas, Matt Shively, Lia Marie Johnson",Comedy,4.7
+480,Gett,2014,115,"Ronit Elkabetz, Shlomi Elkabetz","Ronit Elkabetz, Simon Abkarian, Gabi Amrani",Drama,7.7
+481,Let's Kill Ward's Wife,2014,82,Scott Foley,"Amy Acker, Ava Carpinello, James Carpinello","Comedy, Crime",5.4
+482,Kite,2014,90,Ralph Ziman,"India Eisley, Jaco Muller, Annabel Linder","Action, Crime, Thriller",4.4
+483,Warsaw 44,2014,130,Jan Komasa,"Józef Pawlowski, Zofia Wichlacz, Anna Próchniak","Drama, History, Romance",6.6
+484,Coming Home,2014,109,Yimou Zhang,"Gong Li, Daoming Chen, Huiwen Zhang","Drama, Romance",7.2
+485,The Mule,2014,103,"Tony Mahony, Angus Sampson","Hugo Weaving, Angus Sampson, Leigh Whannell","Comedy, Crime, Drama",6.3
+486,Leprechaun: Origins,2014,90,Zach Lipovsky,"Dylan Postl, Stephanie Bennett, Andrew Dunbar","Fantasy, Horror",3.2
+487,Wheels,2014,115,"Tim Gagliardo, Donavon Warren","Donavon Warren, Patrick Hume, Diana Gettinger",Drama,7.5
+488,Reclaim,2014,96,Alan White,"John Cusack, Ryan Phillippe, Rachelle Lefevre","Action, Adventure, Crime",5.2
+489,Forbidden Empire,2014,130,Oleg Stepchenko,"Jason Flemyng, Andrey Smolyakov, Aleksey Chadov","Adventure, Fantasy, Mystery",5.2
+490,Finding Fanny,2014,102,Homi Adajania,"Deepika Padukone, Arjun Kapoor, Naseeruddin Shah","Adventure, Comedy, Drama",5.7
+491,Percentage,2014,86,Alex Merkin,"Cam'ron, Omar Gooding, Ving Rhames","Action, Crime, Drama",4.1
+492,Bhoothnath Returns,2014,155,Nitesh Tiwari,"Amitabh Bachchan, Boman Irani, Parth Bhalerao","Comedy, Drama, Fantasy",6.5
+493,Against the Sun,2014,100,Brian Peter Falk,"Garret Dillahunt, Tom Felton, Jake Abel","Biography, Drama, War",6.5
+494,Black Mountain Side,2014,99,Nick Szostakiwskyj,"Shane Twerdun, Michael Dickson, Carl Toftfelt","Drama, Horror, Mystery",5.1
+495,The Dark Horse,2014,124,James Napier Robertson,"Cliff Curtis, James Rolleston, Kirk Torrance","Biography, Drama",7.4
+496,Karthikeya,2014,113,Chandoo Mondeti,"Nikhil Siddharth, Swathi Reddy, Tanikella Bharani","Mystery, Thriller",7.2
+497,Lilting,2014,91,Hong Khaou,"Pei-Pei Cheng, Ben Whishaw, Andrew Leung","Drama, Romance",7.2
+498,Lingaa,2014,174,K.S. Ravikumar,"Rajinikanth, Anushka Shetty, Sonakshi Sinha","Action, Comedy, Drama",5.6
+499,Saint Laurent,2014,150,Bertrand Bonello,"Gaspard Ulliel, Jérémie Renier, Louis Garrel","Biography, Drama, Romance",6.1
+500,El nino,2014,136,Daniel Monzón,"Luis Tosar, Jesús Castro, Eduard Fernández","Action, Adventure, Crime",6.4
+501,Jamesy Boy,2014,109,Trevor White,"Spencer Rocco Lofranco, Mary-Louise Parker, Ving Rhames","Biography, Crime, Drama",6.3
+502,Ohm Shanthi Oshaana,2014,136,Jude Anthany Joseph,"Nazriya Nazim, Nivin Pauly, Aju Varghese","Comedy, Romance",7.7
+503,Walking on Sunshine,2014,97,"Max Giwa, Dania Pasquini","Greg Wise, Annabel Scholey, Giulio Berruti","Comedy, Drama, Musical",5.4
+504,Alien Outpost,2014,92,Jabbar Raisani,"Adrian Paul, Reiley McClendon, Rick Ravanello","Action, Sci-Fi, Thriller",4.7
+505,Ode to My Father,2014,126,JK Youn,"Hwang Jung-min, Yunjin Kim, Oh Dal-su","Drama, War",7.8
+506,Only You,2014,105,Hakan Yonat,"Belçim Bilgin, Ibrahim Celikkol, Kerem Can","Action, Drama, Romance",7.3
+507,Reaper,2014,90,Philip Wen-Han Shih,"Shayla Beesley, James Jurdi, Justin Henry","Crime, Horror, Sci-Fi",4.4
+508,Goodbye to Language,2014,70,Jean-Luc Godard,"Héloïse Godet, Kamel Abdelli, Richard Chevallier","Drama, Fantasy",5.8
+509,The Seven Five,2014,104,Tiller Russell,"Mike Dowd, Ken Eurell, Walter Yurkiw","Documentary, Biography, Crime",7.6
+510,The Wonders,2014,110,Alice Rohrwacher,"Alba Rohrwacher, Maria Alexandra Lungu, Sam Louwyck",Drama,6.7
+511,Valley Uprising,2014,103,"Peter Mortimer, Nick Rosen, Josh Lowell","Peter Sarsgaard, Alex Honnold, Yvon Chouinard",Documentary,8.1
+512,The Perfect Dictatorship,2014,143,Luis Estrada,"Damián Alcázar, Alfonso Herrera, Joaquín Cosio","Comedy, Drama",7.2
+513,Love at First Fight,2014,98,Thomas Cailley,"Adèle Haenel, Kévin Azaïs, Antoine Laurent","Adventure, Comedy, Romance",6.6
+514,Anjaan,2014,166,"N. Linguswamy, Suresh","Suriya, Vidyut Jammwal, Samantha Ruth Prabhu","Action, Crime, Drama",5.3
+515,Miss Julie,2014,129,Liv Ullmann,"Colin Farrell, Jessica Chastain, Samantha Morton","Drama, Romance",5.5
+516,Cub,2014,84,Jonas Govaerts,"Maurice Luijten, Evelien Bosmans, Titus De Voogdt","Adventure, Horror",5.9
+517,Daawat-e-Ishq,2014,118,Habib Faisal,"Aditya Roy Kapoor, Parineeti Chopra, Anupam Kher","Comedy, Drama, Romance",6.1
+518,Digging Up the Marrow,2014,89,Adam Green,"Ray Wise, Adam Green, Will Barratt","Comedy, Horror, Mystery",5.8
+519,The World of Kanako,2014,118,Tetsuya Nakashima,"Kôji Yakusho, Nana Komatsu, Satoshi Tsumabuki","Drama, Mystery, Thriller",6.5
+520,"Electric Boogaloo: The Wild, Untold Story of Cannon Films",2014,106,Mark Hartley,"Sam Firstenberg, David Paulsen, Luigi Cozzi","Documentary, Biography, History",7.4
+521,Atari: Game Over,2014,66,Zak Penn,"Zak Penn, Joe Lewandowski, Robert Rentschler",Documentary,6.7
+522,Preservation,2014,88,Christopher Denham,"Wrenn Schmidt, Pablo Schreiber, Aaron Staton","Horror, Thriller",4.8
+523,Hungry Hearts,2014,109,Saverio Costanzo,"Adam Driver, Alba Rohrwacher, Roberta Maxwell","Drama, Romance, Thriller",6.5
+524,Diplomacy,2014,84,Volker Schlöndorff,"André Dussollier, Niels Arestrup, Burghart Klaußner","Drama, History, War",7.1
+525,The Barkley Marathons: The Race That Eats Its Young,2014,89,"Annika Iltis, Timothy James Kane",Lazarus Lake,"Documentary, Adventure, History",7.7
+526,Not Cool,2014,93,Shane Dawson,"Shane Dawson, Cherami Leigh, Drew Monson","Comedy, Drama, Romance",3.5
+527,Mercy,2014,79,Peter Cornwell,"Frances O'Connor, Shirley Knight, Chandler Riggs","Horror, Thriller",4.9
+528,Siccîn,2014,96,Alper Mestçi,"Merve Ates, Toygun Ates, Gunes Galava",Horror,5.9
+529,Sex Ed,2014,92,Isaac Feder,"Haley Joel Osment, Lorenza Izzo, Kevin Balmore","Comedy, Romance",5.5
+530,Road to Paloma,2014,91,Jason Momoa,"Jason Momoa, Robert Homer Mollohan, Lisa Bonet","Drama, Thriller",6.0
+531,Parasyte: Part 1,2014,109,Takashi Yamazaki,"Shôta Sometani, Eri Fukatsu, Ai Hashimoto","Action, Drama, Horror",6.8
+532,Hellion,2014,99,Kat Candler,"Aaron Paul, Juliette Lewis, Josh Wiggins","Drama, Thriller",6.0
+533,CityLights,2014,126,Hansal Mehta,"Rajkummar Rao, Patralekhaa Paul, Manav Kaul","Drama, Thriller",7.3
+534,Mrs. Brown's Boys D'Movie,2014,94,Ben Kellett,"Brendan O'Carroll, Dermot O'Neill, Eilish O'Carroll",Comedy,4.2
+535,Wildlike,2014,104,Frank Hall Green,"Ella Purnell, Brian Geraghty, Diane Farr","Adventure, Drama, Thriller",6.6
+536,Video Games: The Movie,2014,101,Jeremy Snead,"Sean Astin, Al Alcorn, Peter Armstrong","Documentary, History",6.1
+537,Shelter,2014,105,Paul Bettany,"Adolfo Mendez-Nouel, Anthony Mackie, Kevin Arnold Hoffman",Drama,6.5
+538,Court,2014,116,Chaitanya Tamhane,"Vira Sathidar, Vivek Gomber, Geetanjali Kulkarni",Drama,7.6
+539,Jack Strong,2014,128,Wladyslaw Pasikowski,"Marcin Dorocinski, Maja Ostaszewska, Patrick Wilson","Biography, Crime, Drama",7.0
+540,Gueros,2014,106,Alonso Ruizpalacios,"Tenoch Huerta, Sebastián Aguirre, Ilse Salas","Comedy, Drama",7.5
+541,The Monkey King: Havoc in Heaven's Palace,2014,90,Soi Cheang,"Donnie Yen, Chow Yun-Fat, Aaron Kwok","Action, Adventure, Family",4.9
+542,Killers,2014,137,"Kimo Stamboel, Timo Tjahjanto","Kazuki Kitamura, Oka Antara, Rin Takanashi","Action, Crime, Drama",6.4
+543,Kochadaiiyaan,2014,118,Soundarya Rajinikanth Vishagan,"Rajinikanth, Deepika Padukone, R. Sarathkumar","Animation, Action, Adventure",6.2
+544,Børning,2014,89,Hallvard Bræin,"Anders Baasmo, Ida Husøy, Sven Nordin","Action, Comedy",6.2
+545,Roger Waters: The Wall,2014,132,"Sean Evans, Roger Waters","Roger Waters, Dave Kilminster, Snowy White","Documentary, Music",8.5
+546,Titli,2014,116,Kanu Behl,"Shashank Arora, Ranvir Shorey, Shivani Raghuvanshi","Crime, Drama, Thriller",7.5
+547,Suburban Gothic,2014,90,Richard Bates Jr.,"Matthew Gray Gubler, Kat Dennings, Ray Wise","Comedy, Horror",5.5
+548,Eden,2014,131,Mia Hansen-Løve,"Félix de Givry, Pauline Etienne, Vincent Macaigne","Biography, Drama, Music",6.4
+549,Bad Johnson,2014,88,Huck Botko,"Jamie Chung, Cam Gigandet, Katherine Cunningham","Comedy, Fantasy, Romance",4.5
+550,Drushyam,2014,150,Sripriya,"Venkatesh Daggubati, Meena, Nadia Moidu","Crime, Drama, Mystery",8.2
+551,The Dead Lands,2014,107,Toa Fraser,"James Rolleston, Lawrence Makoare, Te Kohe Tuhaka","Action, Adventure, History",6.3
+552,Mythica: A Quest for Heroes,2014,92,Anne K. Black,"Melanie Stone, Adam Johnson, Jake Stormoen","Action, Adventure, Fantasy",5.4
+553,Come Back to Me,2014,96,Paul Leyden,"Jon Abrahams, Andrew Beckham, Jeanette Branch","Fantasy, Horror, Mystery",5.8
+554,Deliha,2014,107,Hakan Algül,"Gupse Özay, Derya Alabora, Esin Eden",Comedy,4.6
+555,We Still Kill the Old Way,2014,94,Sacha Bennett,"Ian Ogilvy, Alison Doody, Danny Hatchard","Action, Comedy, Crime",6.0
+556,The Face of an Angel,2014,101,Michael Winterbottom,"Ava Acres, Daniel Brühl, Kate Beckinsale","Crime, Drama, Mystery",4.6
+557,Dairy Philosopher,2014,109,Müfit Can Saçinti,"Rasim Öztekin, Müfit Can Saçinti, Ayda Aksel",Comedy,6.6
+558,The Scribbler,2014,88,John Suits,"Katie Cassidy, Garret Dillahunt, Michelle Trachtenberg","Drama, Mystery, Sci-Fi",5.3
+559,Stage Fright,2014,89,Jerome Sable,"Allie MacDonald, Meat Loaf, Douglas Smith","Comedy, Horror, Musical",5.2
+560,Stereo,2014,98,Maximilian Erlenwein,"Jürgen Vogel, Moritz Bleibtreu, Petra Schmidt-Schaller","Crime, Thriller",6.5
+561,Elephant Song,2014,110,Charles Binamé,"Bruce Greenwood, Xavier Dolan, Carrie-Anne Moss",Drama,6.5
+562,Racing Hearts,2014,95,Dominique Deruddere,"Jamie Dornan, Anthony Head, Ali Suliman","Drama, Romance",6.1
+563,Excuse My French,2014,99,"Amr Salama, Rami Gheit","Dash Ahmed, Ahmed Helmy, Kinda Alloush","Comedy, Drama",7.5
+564,Kahlil Gibran's The Prophet,2014,85,"Roger Allers, Gaëtan Brizzi, Paul Brizzi","Liam Neeson, Salma Hayek, Quvenzhané Wallis","Animation, Drama",7.0
+565,"Like Sunday, Like Rain",2014,104,Frank Whaley,"Julian Shatkin, Olga Merediz, Debra Messing","Drama, Music",6.9
+566,Trailer Park Boys: Don't Legalize It,2014,95,Mike Clattenburg,"John Paul Tremblay, Robb Wells, Mike Smith","Comedy, Crime, Drama",7.3
+567,Madras,2014,156,Pa. Ranjith,"Karthi, Catherine Tresa, Kalaiyarasan","Action, Drama",7.9
+568,Boy Meets Girl,2014,95,Eric Schaeffer,"Michael Welch, Michelle Hendley, Alexandra Turshen","Comedy, Drama, Romance",7.1
+569,Not My Day,2014,110,Peter Thorwarth,"Moritz Bleibtreu, Axel Stein, Jasmin Gerat","Action, Adventure, Comedy",6.5
+570,4 Moons,2014,110,Sergio Tovar Velarde,"Antonio Velázquez, Alejandro de la Madrid, Cesar Ramos","Drama, Romance",7.4
+571,Get Santa,2014,102,Christopher Smith,"Jim Broadbent, Rafe Spall, Kit Connor","Comedy, Family, Fantasy",6.3
+572,10.000 Km,2014,99,Carlos Marques-Marcet,"Natalia Tena, David Verdaguer, Sirius Flatz","Comedy, Drama, Romance",6.6
+573,Drive Hard,2014,92,Brian Trenchard-Smith,"John Cusack, Thomas Jane, Zoe Ventoura","Action, Comedy, Crime",4.4
+574,Supremacy,2014,110,Deon Taylor,"Joe Anderson, Dawn Olivieri, Derek Luke","Drama, Thriller",5.7
+575,Land of Storms,2014,105,Ádám Császi,"András Sütö, Ádám Varga, Sebastian Urzendowsky","Drama, Romance, Sport",6.8
+576,Not Safe for Work,2014,74,Joe Johnston,"Michael Gladis, Dan Bakkedahl, Max Minghella",Thriller,5.8
+577,Incir Reçeli 2,2014,103,Aytaç Agirlar,"Halil Sezai Paracikoglu, Safak Pekdemir, Ahmet Uz","Drama, Romance",6.0
+578,Appropriate Behavior,2014,86,Desiree Akhavan,"Desiree Akhavan, Rebecca Henderson, Halley Feiffer","Comedy, Drama, Romance",6.5
+579,Paper Planes,2014,96,Robert Connolly,"Sam Worthington, Ed Oxenbould, Deborah Mailman","Drama, Family",6.2
+580,Imperial Dreams,2014,87,Malik Vitthal,"John Boyega, Rotimi, Glenn Plummer",Drama,6.7
+581,Jinn,2014,97,Ajmal Zaheer Ahmad,"Dominic Rains, Ray Park, William Atherton","Fantasy, Horror, Thriller",4.1
+582,Jackie & Ryan,2014,90,Ami Canaan Mann,"Katherine Heigl, Ben Barnes, Clea DuVall","Drama, Family, Music",5.9
+583,Saint Seiya: Legend of Sanctuary,2014,93,Keiichi Satô,"Kaito Ishikawa, Kenji Akabane, Kenshô Ono","Animation, Action, Fantasy",5.4
+584,For Some Inexplicable Reason,2014,96,Gábor Reisz,"Áron Ferenczik, Katalin Takács, Zsolt Kovács","Comedy, Drama",7.4
+585,The Incident,2014,100,Isaac Ezban,"Raúl Méndez, Magda Brugengheim, Humberto Busto","Sci-Fi, Thriller",6.3
+586,Corn Island,2014,100,George Ovashvili,"Ilyas Salman, Mariam Buturishvili, Irakli Samushia","Drama, War",7.4
+587,The Pirates,2014,130,Seok-hoon Lee,"Kim Nam-gil, Son Ye-jin, Yoo Hae-jin","Action, Adventure, Comedy",6.5
+588,The 10 Year Plan,2014,90,J.C. Calciano,"Jack Turner, Michael Adam Hamilton, Teri Reeves","Comedy, Romance",6.1
+589,Pasolini,2014,84,Abel Ferrara,"Willem Dafoe, Ninetto Davoli, Riccardo Scamarcio","Biography, Drama",5.9
+590,Torrente 5,2014,105,Santiago Segura,"Santiago Segura, Julián López, Jesulín de Ubrique","Action, Comedy",5.4
+591,The Battered Bastards of Baseball,2014,80,"Chapman Way, Maclain Way","Lou Russell, Kurt Russell, Ken Wheeler","Documentary, Sport",8.0
+592,East Side Sushi,2014,106,Anthony Lucero,"Diana Elizabeth Torres, Yutaka Takeuchi, Rodrigo Duarte Clark","Comedy, Drama, Family",7.1
+593,Aagadu,2014,165,Sreenu Vaitla,"Tamannaah Bhatia, Shruti Haasan, Mahesh Babu","Action, Comedy",5.3
+594,Out of the Dark,2014,92,Lluís Quílez,"Julia Stiles, Scott Speedman, Stephen Rea","Horror, Mystery, Thriller",4.8
+595,Stations of the Cross,2014,110,Dietrich Brüggemann,"Lea van Acken, Franziska Weisz, Florian Stetter",Drama,7.4
+596,Fear Clinic,2014,95,Robert Hall,"Robert Englund, Fiona Dourif, Felisha Terrell",Horror,4.2
+597,Sapphire Blue,2014,116,"Felix Fuchssteiner, Katharina Schöde, Lev L. Spiro","Josefine Preuß, Florian Bartholomäi, Karl Walter Sprungala","Action, Adventure, Drama",6.2
+598,Dabbe 5: Curse of the Jinn,2014,133,Hasan Karacadag,"Ümit Bülent Dinçer, Nil Günal, Pelin Acar",Horror,5.9
+599,Raja Natwarlal,2014,141,Kunal Deshmukh,"Emraan Hashmi, Humaima Malik, Paresh Rawal","Crime, Thriller",6.2
+600,Iris,2014,79,Albert Maysles,"Iris Apfel, Harold Koda, Dries Van Noten","Documentary, Biography, History",7.1
+601,Jauja,2014,109,Lisandro Alonso,"Viggo Mortensen, Viilbjørk Malling Agger, Ghita Nørby","Adventure, Drama, Fantasy",6.3
+602,Bewakoofiyaan,2014,119,Nupur Asthana,"Ayushmann Khurrana, Sonam Kapoor, Rishi Kapoor","Comedy, Drama, Romance",5.5
+603,Time Out of Mind,2014,120,Oren Moverman,"Richard Gere, Ben Vereen, Jena Malone",Drama,5.8
+604,Lost Soul: The Doomed Journey of Richard Stanley's Island of Dr. Moreau,2014,97,David Gregory,"Richard Stanley, Kier-La Janisse, Michael Gingold","Documentary, Adventure",7.5
+605,Hercules Reborn,2014,95,Nick Lyon,"John Hennigan, Christian Oliver, Marcus Shirock","Action, Adventure",3.0
+606,Zero Motivation,2014,97,Talya Lavie,"Dana Ivgy, Nelly Tagar, Shani Klein","Comedy, Drama",7.2
+607,Where Hope Grows,2014,95,Chris Dowling,"Kristoffer Polaha, David DeSanctis, McKaley Miller","Drama, Family",6.6
+608,Camp Takota,2014,95,"Chris Riedell, Nick Riedell","Grace Helbig, Mamrie Hart, Chester See",Comedy,6.6
+609,Kill Dil,2014,127,Shaad Ali,"Ranveer Singh, Ali Zafar, Parineeti Chopra","Action, Comedy, Drama",4.5
+610,Rise of the Legend,2014,131,Roy Hin Yeung Chow,"Sammo Kam-Bo Hung, Eddie Peng, Luodan Wang","Action, Biography, Drama",6.4
+611,Action Jackson,2014,144,Prabhu Deva,"Ajay Devgn, Shahid Kapoor, Prabhas",Action,3.4
+612,Miss Granny,2014,124,Hwang Dong-hyuk,"Shim Eun-kyung, Na Moon-hee, Park In-hwan","Comedy, Fantasy, Music",7.2
+613,Messi,2014,93,Álex de la Iglesia,"Lionel Messi, Johan Cruijff, Kike Domínguez","Documentary, Biography, Sport",7.1
+614,Ride,2014,93,Helen Hunt,"Helen Hunt, Brenton Thwaites, Luke Wilson","Comedy, Drama",5.7
+615,The Invisible Boy,2014,100,Gabriele Salvatores,"Ludovico Girardello, Valeria Golino, Fabrizio Bentivoglio","Action, Adventure, Comedy",6.2
+616,Munnariyippu,2014,112,Venu Isc,"Mammootty, Aparna Gopinath, Saiju Kurup","Drama, Thriller",7.7
+617,United Passions,2014,110,Frédéric Auburtin,"Gérard Depardieu, Sam Neill, Tim Roth","Drama, History, Sport",2.1
+618,Xenia,2014,134,Panos H. Koutras,"Kostas Nikouli, Nikos Gelia, Giannis Stankoglou","Drama, Romance",6.7
+619,Blame Freud,2014,120,Paolo Genovese,"Marco Giallini, Vittoria Puccini, Anna Foglietta",Comedy,6.4
+620,Hadi Insallah,2014,96,Ali Taner Baltaci,"Büsra Pekin, Murat Boz, Müjde Uzman","Comedy, Romance",5.4
+621,Revenge of the Green Dragons,2014,94,"Wai Keung Lau, Andrew Loo","Justin Chon, Kevin Wu, Harry Shum Jr.","Action, Crime, Drama",5.3
+622,Closer to the Moon,2014,112,Nae Caranfil,"Vera Farmiga, Mark Strong, Harry Lloyd","Comedy, Crime, Drama",6.7
+623,Northern Soul,2014,102,Elaine Constantine,"Elliot James Langridge, Steve Coogan, Antonia Thomas","Drama, Music",6.4
+624,Accused,2014,97,Paula van der Oest,"Marwan Kenzari, Fedja van Huêt, Sallie Harmsen","Biography, Crime, Drama",7.0
+625,Cymbeline,2014,98,Michael Almereyda,"Ethan Hawke, Ed Harris, Milla Jovovich","Crime, Drama, Thriller",3.7
+626,Indigenous,2014,86,Alastair Orr,"Zachary Soetenga, Lindsey McKeon, Sofia Pernas",Horror,4.5
+627,The Fluffy Movie: Unity Through Laughter,2014,101,"Manny Rodriguez, Jay Lavender","Gabriel Iglesias, Jacqueline Obradors, Gina Brillon","Documentary, Comedy",7.2
+628,Altar,2014,95,Nick Willing,"Olivia Williams, Matthew Modine, Antonia Clarke","Horror, Mystery",4.9
+629,Ungli,2014,114,Renzil D'Silva,"Sanjay Dutt, Emraan Hashmi, Kangana Ranaut","Crime, Drama, Thriller",5.8
+630,But Muzeyyen That's the Deepest Desire,2014,101,Çigdem Vitrinel,"Erdal Besikçioglu, Sezin Akbasogullari, Erdinç Gülener","Drama, Romance",6.5
+631,The Devil's Hand,2014,86,Christian E. Christiansen,"Rufus Sewell, Alycia Debnam-Carey, Adelaide Kane","Horror, Thriller",5.0
+632,Shaadi Ke Side Effects,2014,145,Saket Chaudhary,"Farhan Akhtar, Vidya Balan, Vir Das","Comedy, Romance",5.6
+633,Cantinflas,2014,102,Sebastian del Amo,"Óscar Jaenada, Michael Imperioli, Ilse Salas","Biography, Comedy, Drama",6.6
+634,Chotushkone,2014,148,Srijit Mukherji,"Aparna Sen, Chiranjit, Goutam Ghose",Thriller,8.2
+635,Margarita with a Straw,2014,100,"Shonali Bose, Nilesh Maniyar","Kalki Koechlin, Revathi, Sayani Gupta",Drama,7.2
+636,Na Maloom Afraad,2014,137,Nabeel Qureshi,"Jawed Sheikh, Fahad Mustafa, Mohsin Abbas Haider","Action, Comedy, Crime",7.4
+637,Charlie's Farm,2014,93,Chris Sun,"Tara Reid, Nathan Jones, Allira Jaques","Comedy, Horror",4.6
+638,Attack on Titan: Crimson Bow and Arrow,2014,119,Tetsurô Araki,"Yûki Kaji, Yui Ishikawa, Marina Inoue","Animation, Action, Adventure",7.6
+639,Aloft,2014,112,Claudia Llosa,"Jennifer Connelly, Cillian Murphy, Mélanie Laurent",Drama,5.3
+640,Last Days in Vietnam,2014,98,Rory Kennedy,"Richard Nixon, Henry Kissinger, Stuart Herrington","Documentary, History, War",7.6
+641,Korengal,2014,84,Sebastian Junger,"LaMonta Caldwell, Miguel Cortez, Stephen Gillespie","Documentary, Biography, History",6.7
+642,When Animals Dream,2014,84,Jonas Alexander Arnby,"Sonia Suhl, Lars Mikkelsen, Sonja Richter","Drama, Fantasy, Horror",5.8
+643,Antidote,2014,125,Alper Caglar,"Emin Boztepe, Cüneyt Arkin, Tolga Akdogan","Action, Crime, Drama",6.9
+644,Two Hearts as One,2014,126,Hasan Kiraç,"Serkan Senalp, Hande Soral, Fikret Hakan","Drama, History",7.5
+645,Iverson,2014,106,Zatella Beatty,"Allen Iverson, Tom Brokaw, Larry Brown","Documentary, Biography, Sport",7.1
+646,I Am Ali,2014,111,Clare Lewins,"Muhammad Ali, Gene Kilroy, Rahman Ali","Documentary, Biography, Sport",7.2
+647,The Frame,2014,127,Jamin Winans,"David Carranza, Tiffany Mualem, Cal Bartlett","Crime, Drama, Fantasy",6.5
+648,Dior and I,2014,90,Frédéric Tcheng,"Christian Dior, Omar Berrada, Raf Simons",Documentary,7.2
+649,Welcome to New York,2014,125,Abel Ferrara,"Gérard Depardieu, Jacqueline Bisset, Shanyn Leigh","Crime, Drama",5.6
+650,Sea Fog,2014,111,Sung-bo Shim,"Kim Yoon-seok, Park Yoo-chun, Han Ye-ri","Drama, Thriller",6.8
+651,Atlas Shrugged: Who Is John Galt?,2014,99,James Manera,"Kristoffer Polaha, Laura Regan, Rob Morrow","Drama, Mystery, Sci-Fi",4.3
+652,The Last Survivors,2014,95,Tom Hammock,"Haley Lu Richardson, Booboo Stewart, Max Charles","Action, Sci-Fi, Thriller",5.3
+653,Dinosaur 13,2014,95,Todd Douglas Miller,"Stan Adelstein, Lanice Archer, Robert Bakker",Documentary,7.2
+654,Happy Ending,2014,135,"Krishna D.K., Raj Nidimoru","Saif Ali Khan, Ileana D'Cruz, Kalki Koechlin","Comedy, Romance",5.4
+655,My Little Pony: Equestria Girls - Rainbow Rocks Animated,2014,75,"Jayson Thiessen, Ishi Rudell","Tara Strong, Ashleigh Ball, Andrea Libman","Animation, Adventure, Comedy",7.0
+656,Grace: The Possession,2014,87,Jeff Chan,"Alexia Fast, Lin Shaye, Alan Dale","Horror, Thriller",4.6
+657,Kundo: Age of the Rampant,2014,137,Yoon Jong-bin,"Ha Jung-woo, Gang Dong-won, Lee Sung-min","Action, Drama",6.8
+658,Wood Job!,2014,116,Shinobu Yaguchi,"Masami Nagasawa, Hideaki Itô, Shôta Sometani","Adventure, Comedy",7.5
+659,Amnesiac,2014,90,Michael Polish,"Kate Bosworth, Wes Bentley, Olivia Rose Keegan","Drama, Horror, Mystery",4.3
+660,Merchants of Doubt,2014,96,Robert Kenner,"Frederick Singer, Naomi Oreskes, Jamy Ian Swiss",Documentary,7.6
+661,Sivas,2014,97,Kaan Müjdeci,"Dogan Izci, Cakir, Ozan Çelik",Drama,7.3
+662,Vikramadithyan,2014,143,Lal Jose,"Dulquer Salmaan, Unni Mukundan, Namitha Pramod",Drama,7.1
+663,Iceman,2014,104,Wing-Cheong Law,"Donnie Yen, Baoqiang Wang, Shengyi Huang","Action, Comedy, Fantasy",4.8
+664,Little Accidents,2014,105,Sara Colangelo,"Boyd Holbrook, Randy Springer, Jacob Lofland",Drama,5.8
+665,Yaariyan,2014,145,Divya Khossla,"Himansh Kohli, Rakul Preet Singh, Nicole Faria","Drama, Romance",2.8
+666,Dr. Cabbie,2014,101,Jean-François Pouliot,"Vinay Virmani, Adrianne Palicki, Kunal Nayyar",Comedy,6.0
+667,Brotherhood of Blades,2014,111,Yang Lu,"Chang Chen, Qianyuan Wang, Yuan Nie","Action, History",6.6
+668,The Pact II,2014,96,"Dallas Richard Hallam, Patrick Horvath","Amy Pietz, Camilla Luddington, Patrick Fischler","Horror, Mystery, Thriller",4.4
+669,All This Mayhem,2014,104,Eddie Martin,"Tas Pappas, Ben Pappas, Tommy Caudill","Documentary, Biography, History",7.8
+670,Perdona Si Te Llamo Amor,2014,120,Joaquín Llamas,"Paloma Bloyd, Daniele Liotti, Irene Montalà",Romance,6.4
+671,We'll Never Have Paris,2014,92,"Simon Helberg, Jocelyn Towne","Simon Helberg, Melanie Lynskey, Zachary Quinto","Comedy, Romance",4.6
+672,Elsa & Fred,2014,93,Michael Radford,"Shirley MacLaine, Christopher Plummer, Marcia Gay Harden","Comedy, Drama, Romance",6.5
+673,The Blue Room,2014,76,Mathieu Amalric,"Mathieu Amalric, Léa Drucker, Stéphanie Cléau","Crime, Drama, Mystery",6.3
+674,Sathuranga Vettai,2014,145,H. Vinoth,"Natarajan Subramaniam, Ishara Nair, Ponvannan","Crime, Thriller",8.1
+675,The Culture High,2014,120,Brett Harvey,"Snoop Dogg, Ronald Reagan, Joe Rogan","Documentary, News",8.2
+676,Bullet,2014,87,Nick Lyon,"Danny Trejo, Jonathan Banks, Julia Dietze","Action, Crime, Thriller",4.2
+677,Sag Salim 2: Sil Bastan,2014,98,Ersoy Güler,"Ezgi Asaroglu, Burçin Bildik, Murat Akkoyunlu",Comedy,4.9
+678,Quantum Love,2014,81,Lisa Azuelos,"Sophie Marceau, François Cluzet, Lisa Azuelos","Drama, Romance",6.2
+679,Little Forest: Summer/Autumn,2014,111,Jun'ichi Mori,"Ai Hashimoto, Mayu Matsuoka, Yôichi Nukumizu",Drama,7.6
+680,Tokyo Tribe,2014,116,Sion Sono,"Ryohei Suzuki, Young Dais, Nana Seino","Action, Fantasy, Musical",6.4
+681,Cesar Chavez,2014,102,Diego Luna,"Michael Peña, America Ferrera, Rosario Dawson","Biography, Drama",6.4
+682,From the Dark,2014,90,Conor McMahon,"Niamh Algar, Stephen Cromwell, Ged Murray","Horror, Thriller",4.9
+683,Nicholas on Holiday,2014,97,Laurent Tirard,"Valérie Lemercier, Kad Merad, Dominique Lavanant","Comedy, Family",6.2
+684,Fort Bliss,2014,116,Claudia Myers,"Michelle Monaghan, Ron Livingston, Oakes Fegley","Drama, War",6.4
+685,Hippocrates: Diary of a French Doctor,2014,102,Thomas Lilti,"Vincent Lacoste, Jacques Gamblin, Reda Kateb","Comedy, Drama",6.8
+686,Blood Punch,2014,104,Madellaine Paxson,"Milo Cawthorne, Olivia Tennet, David Whaley","Horror, Thriller",6.2
+687,The Guide,2014,122,Oles Sanin,"Stanislav Boklan, Jeff Burrell, Boris Georgievskiy","Drama, History",7.7
+688,Meet the Patels,2014,88,"Geeta Vasant Patel, Ravi Patel","Ravi Patel, Geeta Vasant Patel, Champa V. Patel","Documentary, Animation, Comedy",7.1
+689,Freezer,2014,83,Mikael Salomon,"Dylan McDermott, Yulia Snigir, Peter Facinelli","Action, Thriller",5.2
+690,The Curse of Styria,2014,99,"Mauricio Chernovetzky, Mark Devendorf","Stephen Rea, Eleanor Tomlinson, Julia Pietrucha","Fantasy, Horror, Mystery",4.9
+691,Killer Legends,2014,86,Joshua Zeman,"Rachel Mills, Joshua Zeman, Stephen Winick","Documentary, Crime, History",6.2
+692,The Last Man on the Moon,2014,95,Mark Craig,"Eugene Cernan, Fred 'Baldy' Baldwin, Alan Bean","Documentary, Adventure, Biography",7.4
+693,Night Will Fall,2014,75,André Singer,"Helena Bonham Carter, Jasper Britton, Leonard Berney","Documentary, History, War",8.0
+694,Stratos,2014,137,Yannis Economides,"Vangelis Mourikis, Petros Zervos, Vicky Papadopoulou","Crime, Drama",7.2
+695,Hyena,2014,112,Gerard Johnson,"Peter Ferdinando, Stephen Graham, Neil Maskell","Crime, Drama, Thriller",6.2
+696,Mega Shark vs. Mecha Shark,2014,85,Emile Edwin Smith,"Christopher Judge, Elisabeth Röhm, Matt Lagan","Action, Adventure, Comedy",2.6
+697,The Editor,2014,95,"Adam Brooks, Matthew Kennedy","Paz de la Huerta, Adam Brooks, Matthew Kennedy","Comedy, Crime, Horror",6.1
+698,Kurmanjan datka,2014,135,Sadyk Sher-Niyaz,"Elina Abai Kyzy, Nasira Mambetova, Jamal Seidakmatova","Action, Biography, Drama",6.5
+699,Swelter,2014,96,Keith Parmer,"Grant Bowler, Brad Carter, Tokala Black Elk","Action, Crime, Drama",4.5
+700,Zaman Makinesi 1973,2014,105,Aram Gülyüz,"Gürgen Öz, Seda Bakan, Mustafa Uzunyilmaz","Comedy, Sci-Fi",6.3
+701,El Ott,2014,92,Ibrahim El-Batout,"Amr Waked, Farouk Al-Fishawy, Salah Alhanafy","Mystery, Thriller",5.0
+702,Another World,2014,99,Eitan Reuven,"Larry Butchins, Zach Cohen, Susanne Gschwendtner","Action, Horror, Sci-Fi",3.5
+703,Dragon Nest: Warriors' Dawn,2014,88,Yuefeng Song,"Jiao Xu, Guanlin Ji, Ying Huang","Animation, Action, Adventure",6.2
+704,Alleluia,2014,93,Fabrice du Welz,"Lola Dueñas, Laurent Lucas, Héléna Noguerra","Crime, Horror, Romance",6.2
+705,Hoodies vs. Hooligans,2014,95,Gabe Turner,"Jay Simpson, Tom Davis, Martin Hancock",Thriller,5.7
+706,Futuro Beach,2014,106,Karim Aïnouz,"Wagner Moura, Clemens Schick, Fred Lima","Drama, Romance",6.3
+707,7th Day,2014,134,Syamdhar,"Prithviraj Sukumaran, Anu Mohan, Tovino Thomas","Mystery, Thriller",6.9
+708,The Taking of Tiger Mountain,2014,141,Hark Tsui,"Hanyu Zhang, Tony Ka Fai Leung, Kenny Lin","Action, Adventure, History",6.4
+709,Gun Woman,2014,86,Kurando Mitsutake,"Jennifer Mullaney, Matthew Floyd Miller, Dean Simone","Action, Thriller",4.8
+710,Alex of Venice,2014,86,Chris Messina,"Mary Elizabeth Winstead, Chris Messina, Don Johnson",Drama,5.8
+711,Reach Me,2014,95,John Herzfeld,"Sylvester Stallone, Kyra Sedgwick, Thomas Jane","Comedy, Crime, Drama",4.9
+712,Dig Two Graves,2014,85,Hunter Adams,"Ted Levine, Samantha Isler, Danny Goldring","Drama, Horror, Mystery",5.7
+713,Take Care,2014,94,Liz Tuccillo,"Leslie Bibb, Thomas Sadoski, Betty Gilpin","Comedy, Drama, Romance",6.0
+714,Big Stone Gap,2014,103,Adriana Trigiani,"Ashley Judd, Patrick Wilson, Whoopi Goldberg","Comedy, Family, Mystery",5.8
+715,I'm Not Angry!,2014,110,Reza Dormishian,"Baran Kosari, Navid Mohammadzadeh, Milad Rahimi","Drama, Romance",6.7
+716,A Girl at My Door,2014,119,July Jung,"Bae Doona, Kim Sae-ron, Song Sae-byeok",Drama,7.0
+717,Next Time I'll Aim for the Heart,2014,111,Cédric Anger,"Guillaume Canet, Ana Girardot, Jean-Yves Berteloot","Crime, Drama, Thriller",6.4
+718,Nas: Time Is Illmatic,2014,74,One9,"Nas, Cornel West, Pharrell Williams","Documentary, Biography, History",7.0
+719,Killer Mermaid,2014,94,Milan Todorovic,"Kristina Klebe, Dragan Micanovic, Natalie Burn","Drama, Fantasy, Horror",4.1
+720,Who Took Johnny,2014,81,"David Beilinson, Michael Galinsky, Suki Hawley","Noreen Gosch, Nancy Allen, Paul Bonacci","Documentary, Biography, Crime",7.1
+721,Barbecue,2014,98,Eric Lavaine,"Lambert Wilson, Franck Dubosc, Florence Foresti",Comedy,6.1
+722,In the Basement,2014,81,Ulrich Seidl,"Fritz Lang, Alfreda Klebinger, Manfred Ellinger",Documentary,6.7
+723,Bird People,2014,127,Pascale Ferran,"Josh Charles, Anaïs Demoustier, Roschdy Zem","Drama, Fantasy, Romance",6.1
+724,Listening,2014,98,Khalil Sullins,"Thomas Stroppel, Artie Ahr, Amber Marie Bollinger","Drama, Sci-Fi, Thriller",5.6
+725,The Shaukeens,2014,124,Abhishek Sharma,"Anupam Kher, Piyush Mishra, Annu Kapoor",Comedy,4.8
+726,Che,2014,125,Ebrahim Hatamikia,"Fariborz Arabnia, Saeed Rad, Merila Zare'i","Biography, Drama, War",6.0
+727,Alive Inside: A Story of Music and Memory,2014,78,Michael Rossato-Bennett,"Dan Cohen, Louise Dueno, Nell Hardie","Documentary, Music, News",8.2
+728,Tales of the Grim Sleeper,2014,110,"Nick Broomfield, Barney Broomfield, Marc Hoeferlin","Nick Broomfield, Lonnie David Franklin Jr., Donna","Documentary, Crime",7.0
+729,Casa Grande,2014,115,Fellipe Barbosa,"Marcello Novaes, Suzana Pires, Thales Cavalcanti","Drama, Romance",6.8
+730,Tamako Love Story,2014,83,Naoko Yamada,"Aya Suzaki, Atsushi Tamaru, Yûki Kaneko","Animation, Comedy, Drama",7.0
+731,Çakallarla Dans 3: Sifir Sikinti,2014,102,Murat Seker,"Timur Acar, Murat Akkoyunlu, Esin Alpogan",Comedy,5.0
+732,Flowers,2014,99,"Jon Garaño, Jose Mari Goenaga","Itziar Ituño, Nagore Aranburu, Itziar Aizpuru",Drama,6.7
+733,Next Goal Wins,2014,97,"Mike Brett, Steve Jamison","Li'atama Amisone Jr., Faiivae Iuli Alex Godinet, D'Angelo Herrera","Documentary, Sport",7.8
+734,Black Souls,2014,109,Francesco Munzi,"Marco Leonardi, Peppino Mazzotta, Fabrizio Ferracane","Crime, Drama",6.8
+735,Fasten Your Seatbelts,2014,110,Ferzan Özpetek,"Kasia Smutniak, Francesco Arca, Filippo Scicchitano","Comedy, Drama",6.5
+736,Swearnet,2014,112,Warren P. Sonoda,"Mike Smith, Robb Wells, John Paul Tremblay",Comedy,6.0
+737,4 Minute Mile,2014,96,Charles-Olivier Michaud,"Kelly Blatz, Richard Jenkins, Kim Basinger","Drama, Sport",6.2
+738,Lap Dance,2014,100,Greg Carter,"Carmen Electra, James Remar, Stacey Dash",Drama,4.6
+739,The Great Hypnotist,2014,104,Leste Chen,"Zheng Xu, Karen Mok, Zhong Lü","Drama, Mystery, Thriller",6.9
+740,Whitey: United States of America v. James J. Bulger,2014,107,Joe Berlinger,"James 'Whitey' Bulger, Tommy Donahue, David Boeri","Documentary, Biography, Crime",6.7
+741,Thegidi,2014,126,P. Ramesh,"Ashok Selvan, Janani Iyer, V. Jayaprakash","Crime, Mystery, Thriller",7.6
+742,Ragini MMS 2,2014,119,Bhushan Patel,"Sunny Leone, Saahil Prem, Parvin Dabas",Horror,3.9
+743,The Mighty Angel,2014,110,Wojciech Smarzowski,"Robert Wieckiewicz, Julia Kijowska, Adam Woronowicz",Drama,6.9
+744,Catch Hell,2014,98,Ryan Phillippe,"Ryan Phillippe, Ian Barford, Stephen Louis Grush","Crime, Drama, Thriller",5.5
+745,Sinbad: The Fifth Voyage,2014,89,Shahin Sean Solimon,"Patrick Stewart, Shahin Sean Solimon, Said Faraj","Action, Adventure, Fantasy",3.4
+746,1983,2014,138,Abrid Shine,"Nivin Pauly, Anoop Menon, Joy Mathew","Drama, Sport",7.7
+747,The Reincarnate,2014,150,Srijit Mukherji,"Prosenjit Chatterjee, Jisshu Sengupta, Swastika Mukherjee","Biography, Drama, History",8.0
+748,The Stranger,2014,93,Guillermo Amoedo,"Cristo Montt, Lorenza Izzo, Luis Gnecco","Drama, Horror, Mystery",4.9
+749,O21,2014,124,"Jami, Summer Nicks","Shaan Shahid, Ayub Khoso, Aamina Sheikh","Action, Thriller",7.6
+750,Still the Water,2014,121,Naomi Kawase,"Nijirô Murakami, Junko Abe, Miyuki Matsuda","Drama, Romance",6.7
+751,Hidden Away,2014,96,Mikel Rueda,"Germán Alcarazu, Adil Koukouh, Joseba Ugalde","Drama, Romance",7.0
+752,Iyobinte Pusthakam,2014,158,Amal Neerad,"Fahadh Faasil, Jayasurya, Lal","Action, Adventure, Drama",7.7
+753,Total Chaos,2014,108,Eeshwar Nivas,"Ali Zafar, Yami Gautam, Anupam Kher","Comedy, Drama, Romance",5.0
+754,Ironclad: Battle for Blood,2014,108,Jonathan English,"Roxanne McKee, Michelle Fairley, Danny Webb","Action, Adventure, Drama",4.3
+755,Stop at Nothing: The Lance Armstrong Story,2014,104,Alex Holmes,"Reed Albergotti, Betsy Andreu, Frankie Andreu","Documentary, Biography, Sport",7.5
+756,Sone'a Fee Misr,2014,102,Amr Salama,"Ahmed Helmy, Yasmin Raeis, Dalal Abdulaziz","Comedy, Family",5.3
+757,Leopardi,2014,143,Mario Martone,"Elio Germano, Michele Riondino, Massimo Popolizio","Biography, Drama, History",6.8
+758,The Perfect Husband,2014,85,Lucas Pavetto,"Gabriella Wright, Bret Roberts, Carl Wharton","Drama, Horror, Thriller",4.3
+759,The Outsider,2014,94,Brian A. Miller,"Craig Fairbrass, James Caan, Jason Patric","Action, Adventure, Crime",4.7
+760,Lovesick,2014,85,Luke Matheny,"Matt LeBlanc, Ali Larter, Adam Rodriguez","Comedy, Romance",5.2
+761,Debug,2014,86,David Hewlett,"Tenika Davis, Jason Momoa, Adrian Holmes","Horror, Sci-Fi",4.3
+762,Ping Pong Summer,2014,92,Michael Tully,"Marcello Conte, Judah Friedlander, Amy Sedaris","Comedy, Drama, Sport",5.4
+763,The Grump,2014,102,Dome Karukoski,"Antti Litja, Petra Frey, Mari Perankoski","Comedy, Drama",6.7
+764,Do Not Disturb,2014,79,Patrice Leconte,"Christian Clavier, Carole Bouquet, Valérie Bonneton",Comedy,5.7
+765,Lemon Tree Passage,2014,84,David Campbell,"Jessica Tovey, Nicholas Gunn, Pippa Black","Horror, Mystery, Thriller",3.9
+766,By the Gun,2014,110,James Mottern,"Ben Barnes, Leighton Meester, George Carroll","Crime, Drama, Thriller",4.8
+767,The Identical,2014,107,Dustin Marcellino,"Blake Rayne, Ray Liotta, Ashley Judd","Drama, Music",5.3
+768,Mea culpa,2014,90,Fred Cavayé,"Vincent Lindon, Gilles Lellouche, Nadine Labaki","Action, Crime, Thriller",6.1
+769,The Search,2014,135,Michel Hazanavicius,"Bérénice Bejo, Annette Bening, Maksim Emelyanov","Drama, War",6.8
+770,Ghost in the Shell: Arise - Border 3: Ghost Tears,2014,55,Kazuchika Kise,"Maaya Sakamoto, Ikkyû Jaku, Ken'ichirô Matsuda","Animation, Action, Sci-Fi",7.1
+771,Tim Maia,2014,140,Mauro Lima,"Babu Santana, Robson Nunes, Alinne Moraes","Biography, Drama, Music",7.2
+772,Govindudu Andari Vaadele,2014,160,Krishna Vamsi,"Ram Charan, Kajal Aggarwal, Meka Srikanth","Action, Comedy, Drama",5.7
+773,The Green Prince,2014,101,Nadav Schirman,"Mosab Hassan Yousef, Sheikh Hassan Yousef, Gonen Ben Yitzhak","Documentary, Biography",7.2
+774,Kukhnya v Parizhe,2014,106,Dmitriy Dyachenko,"Dmitriy Nazarov, Mark Bogatyryov, Elena Podkaminskaya","Comedy, Romance",6.8
+775,100 Yen Love,2014,113,Masaharu Take,"Sakura Andô, Hirofumi Arai, Yôzaburô Itô","Comedy, Drama",7.1
+776,The Lookalike,2014,100,Richard Gray,"Justin Long, Jerry O'Connell, John Corbett","Crime, Thriller",5.3
+777,SK1,2014,120,Frédéric Tellier,"Raphaël Personnaz, Nathalie Baye, Olivier Gourmet","Crime, Drama",6.6
+778,Aanmodderfakker,2014,100,Michiel ten Horn,"Pepijn Cladder, Anis de Jong, Wolf de Witte van Leeuwen","Comedy, Romance",6.7
+779,The Blood Lands,2014,79,Simeon Halligan,"Pollyanna McIntosh, Lee Williams, Joanne Mitchell","Horror, Mystery, Thriller",4.7
+780,The Hornet's Nest,2014,93,"David Salzberg, Christian Tureaud","Frank Adamski, Ofren Arrechaga, Ed Bankston","Documentary, Action, History",6.7
+781,Born in Gaza,2014,54,Hernán Zin,"Walaa Eltiti, Yazeed Faruja",Documentary,7.7
+782,Monty Python Live (Mostly),2014,137,"Eric Idle, Aubrey Powell","John Cleese, Terry Gilliam, Eric Idle","Documentary, Comedy, Musical",7.6
+783,Lullaby,2014,117,Andrew Levitas,"Garrett Hedlund, Richard Jenkins, Anne Archer",Drama,6.1
+784,The Teacher's Diary,2014,110,Nithiwat Tharatorn,"Chermarn Boonyasak, Sukrit Wisetkaew, Sukollawat Kanarot","Comedy, Drama, Romance",7.8
+785,Do You See Me?,2014,98,Riccardo Milani,"Paola Cortellesi, Raoul Bova, Corrado Fortuna","Comedy, Drama, Romance",6.4
+786,Joy of Fatherhood,2014,110,"Matthias Schweighöfer, Torsten Künstler","Matthias Schweighöfer, Isabell Polak, Friedrich Mücke","Comedy, Romance",5.6
+787,Legend,2014,168,Boyapati Srinu,"Nandamuri Balakrishna, Jagapathi Babu, Radhika Apte","Action, Drama",6.2
+788,Deep in the Darkness,2014,100,Colin Theys,"Dean Stockwell, Sean Patrick Thomas, Blanche Baker","Horror, Thriller",4.6
+789,10.0 Earthquake,2014,88,David Gidali,"Henry Ian Cusick, Jeffrey Jones, Cameron Richardson","Action, Adventure, Drama",3.5
+790,Mercenaries,2014,89,Christopher Ray,"Zoë Bell, Kristanna Loken, Vivica A. Fox","Action, Adventure",3.7
+791,Dark House,2014,102,Victor Salva,"Luke Kleintank, Alex McKenna, Anthony Rey Perez","Horror, Mystery, Thriller",4.7
+792,Tekken: Kazuya's Revenge,2014,90,Wych Kaosayananda,"Kane Kosugi, Cary-Hiroyuki Tagawa, Rade Serbedzija",Action,2.8
+793,Jamie Marks Is Dead,2014,101,Carter Smith,"Morgan Saylor, Noah Silver, Cameron Monaghan","Drama, Fantasy, Mystery",5.5
+794,The Lesson,2014,111,"Kristina Grozeva, Petar Valchanov","Margita Gosheva, Ivan Barnev, Ivan Savov",Drama,7.2
+795,Little Buddho,2014,96,Danilo Beckovic,"Petar Strugar, Sergej Trifunovic, Tihomir Stanic","Comedy, Crime",6.2
+796,Inner Demons,2014,85,Seth Grossman,"Lara Vosburgh, Kevan McClellan, Kate Whitney","Horror, Mystery, Thriller",5.2
+797,Tazza: The Hidden Card,2014,147,Kang Hyoung-chul,"Choi Seung-hyun, Shin Sae-Kyeong, Kim Yoon-seok","Crime, Drama",6.8
+798,Plague,2014,89,"Nick Kozakis, Kosta Ouzas","Don Bridges, Cris Cochrane, Tegan Crowley","Drama, Horror, Sci-Fi",4.4
+799,Obsessed,2014,132,Kim Dae-woo,"Song Seung-heon, Lim Ji-yeon, Cho Yeo-jeong",Drama,6.3
+800,Saints and Soldiers: The Void,2014,94,Ryan Little,"Adam Gregory, Timothy S. Shoemaker, Michael Todd Behrens","Action, Drama, War",5.3
+801,Anatomy of a Love Seen,2014,80,Marina Rice Bader,"Sharon Hinnendael, Jill Evyn, Constance Brenneman","Drama, Romance",4.7
+802,Jacky in the Kingdom of Women,2014,87,Riad Sattouf,"Vincent Lacoste, Charlotte Gainsbourg, Didier Bourdon",Comedy,6.1
+803,What's the Time in Your World?,2014,101,Safi Yazdanian,"Leila Hatami, Ali Mosaffa, Mohammad Dezfulizadeh","Drama, Romance",7.1
+804,"The Boss, Anatomy of a Crime",2014,90,Sebastián Schindel,"Guillermo Pfening, Andrea Garrote, Joaquín Furriel","Crime, Drama",7.3
+805,The Island 2,2014,100,Sherif Arafa,"Ahmed El Sakka, Hind Sabri, Khaled Saleh","Action, Drama, Thriller",7.0
+806,Coffee Shop,2014,88,Dave Alan Johnson,"Laura Vandervoort, Cory M. Grant, Rachel Hendrix","Comedy, Drama, Romance",5.7
+807,The Suicide Theory,2014,98,Dru Brown,"Steve Mouzakis, Leon Cain, Joss McWilliam",Drama,6.5
+808,Amira & Sam,2014,90,Sean Mullin,"Martin Starr, Dina Shihabi, Paul Wesley","Comedy, Drama, Romance",6.2
+809,Corner Gas: The Movie,2014,90,David Storey,"Brent Butt, Gabrielle Miller, Fred Ewanuick",Comedy,6.9
+810,Land Ho!,2014,95,"Aaron Katz, Martha Stephens","Earl Lynn Nelson, Paul Eenhoorn, Daníel Gylfason","Adventure, Comedy",6.0
+811,La cueva,2014,80,Alfredo Montero,"Marcos Ortiz, Marta Castellote, Eva García-Vacas","Drama, Horror, Thriller",5.7
+812,Black Rose,2014,83,Alexander Nevsky,"Alexander Nevsky, Kristanna Loken, Adrian Paul","Action, Crime, Drama",2.8
+813,The Divine Move,2014,118,Beom-gu Cho,"Jung Woo-sung, Lee Beom-su, Ahn Sung-ki","Action, Crime, Drama",6.6
+814,Dearest,2014,128,Peter Ho-Sun Chan,"Wei Zhao, Huang Bo, Dawei Tong",Drama,7.6
+815,Mockingbird,2014,81,Bryan Bertino,"Alexandra Lydon, Todd Stashwick, Audrey Marie Anderson","Horror, Thriller",4.1
+816,3 Hearts,2014,108,Benoît Jacquot,"Benoît Poelvoorde, Charlotte Gainsbourg, Chiara Mastroianni","Drama, Romance",5.9
+817,7 Minutes,2014,92,Jay Martin,"Luke Mitchell, Zane Holtz, Jason Ritter","Crime, Drama, Thriller",5.0
+818,The Man Who Saved the World,2014,110,Peter Anthony,"Stanislav Petrov, Kevin Costner, Sergey Shnyryov","Documentary, Biography, Drama",7.5
+819,Match,2014,92,Stephen Belber,"Patrick Stewart, Carla Gugino, Matthew Lillard","Comedy, Drama",6.8
+820,World War III,2014,105,Ahmed al-Gendy,"Ahmed Fahmy, Hesham Maged, Chico","Comedy, Fantasy",6.9
+821,Mitt,2014,94,Greg Whiteley,"Mitt Romney, Candy Crowley, Eric Draper","Documentary, Biography, Family",6.8
+822,The Barber,2014,95,Basel Owies,"Scott Glenn, Chris Coy, Stephen Tobolowsky",Thriller,5.9
+823,Mr. And Mrs. Ramchari,2014,156,Santhosh Ananddram,"Yash, Radhika Pandit, Achyuth Kumar","Drama, Romance",7.3
+824,Midnight Diner,2014,119,Joji Matsuoka,"Kaoru Kobayashi, Saki Takaoka, Tokio Emoto","Comedy, Drama",7.5
+825,Among the Living,2014,90,"Alexandre Bustillo, Julien Maury","Anne Marivin, Théo Fernandez, Francis Renaud","Horror, Thriller",5.5
+826,Treehouse,2014,100,Michael G. Bartlett,"J. Michael Trautmann, Dana Melanie, Daniel Fredrick","Horror, Mystery, Thriller",3.8
+827,Winterkartoffelknödel,2014,96,Ed Herzog,"Sebastian Bezzel, Simon Schwarz, Lisa Maria Potthoff","Comedy, Crime",6.9
+828,Sulemani Keeda,2014,89,Amit Masurkar,"Naveen Kasturia, Mayank Tewari, Aditi Vasudev","Comedy, Romance",7.0
+829,The Overnighters,2014,102,Jesse Moss,"Jay Reinke, Andrea Reinke, Alan Mezo","Documentary, Drama",7.4
+830,Vellimoonga,2014,129,Jibu Jacob,"Biju Menon, Nikki Galrani, Aju Varghese","Comedy, Romance",7.5
+831,The Snow Queen 2,2014,81,Alex Tsitsilin,"Ivan Okhlobystin, Anna Shurochkina, Garik Kharlamov","Animation, Adventure, Comedy",5.8
+832,October Gale,2014,91,Ruba Nadda,"Patricia Clarkson, Scott Speedman, Tim Roth","Drama, Mystery, Romance",5.2
+833,Goodbye to All That,2014,87,Angus MacLachlan,"Paul Schneider, Melanie Lynskey, Anna Camp","Comedy, Drama, Romance",5.3
+834,One Direction: Where We Are - The Concert Film,2014,75,Paul Dugdale,"One Direction, Harry Styles, Louis Tomlinson","Documentary, Music",7.0
+835,23 Blast,2014,98,Dylan Baker,"Mark Hapka, Bram Hoover, Stephen Lang","Drama, Sport",6.4
+836,Dukhtar,2014,93,Afia Nathaniel,"Samiya Mumtaz, Mohib Mirza, Saleha Aref","Drama, Thriller",6.9
+837,Hate Story 2,2014,130,Vishal Pandya,"Jay Bhanushali, Surveen Chawla, Sushant Singh","Drama, Thriller",4.4
+838,Harmontown,2014,101,Neil Berkeley,"Dan Harmon, Jeff Bryan Davis, Erin McGathy",Documentary,7.2
+839,Rich Hill,2014,91,"Andrew Droz Palermo, Tracy Droz Tragos","Alyssa Jewell, Andrew Jewell, Elizabeth Jewell","Documentary, Biography, Drama",7.2
+840,An Open Secret,2014,99,Amy Berg,"Evan Henzi, Michael Egan III, Mark Ryan","Documentary, Crime",7.3
+841,My Beautiful Broken Brain,2014,86,"Sophie Robinson, Lotje Sodderland","David Lynch, Sophie Robinson, Hente Sodderland","Documentary, Biography",7.0
+842,Freedom,2014,94,Peter Cousens,"Cuba Gooding Jr., Sharon Leal, David Rasche","Drama, Music",6.3
+843,In the Name of the King: The Last Mission,2014,86,Uwe Boll,"Dominic Purcell, Ralitsa Paskaleva, Daria Simeonova","Action, Adventure, Fantasy",3.0
+844,Earthrise,2014,90,Glenn Payne,"Todd Barnett, Meaghin Burke, Jennifer Hamilton Collins","Drama, Sci-Fi, Thriller",3.5
+845,Kano,2014,185,"Umin Boya, Te-Sheng Wei","Takao Osawa, Togo Igawa, Masatoshi Nagase","Biography, Drama, History",7.7
+846,I Fine..Thank You Love You,2014,117,Mez Tharatorn,"Sora Aoi, Puttachat Pongsuchat, Preechaya Pongthananikorn","Comedy, Romance",6.9
+847,Bobby Jasoos,2014,121,Samar Iqbal,"Vidya Balan, Ali Fazal, Mahima A","Comedy, Drama, Thriller",5.5
+848,The Redwood Massacre,2014,82,David Ryan Keith,"Mark Wood, Lisa Cameron, Lisa Livingstone",Horror,3.2
+849,Ghost in the Shell: Arise - Border 4: Ghost Stands Alone,2014,59,"Susumu Kudô, Kazuchika Kise","Maaya Sakamoto, Ikkyû Jaku, Ken'ichirô Matsuda","Animation, Action, Sci-Fi",7.1
+850,Punjab 1984,2014,159,Anurag Singh,"Diljit Dosanjh, Kirron Kher, Pawan Malhotra","Drama, Family, History",8.3
+851,Pisasu,2014,114,Mysskin,"Naga, Prayaga Martin, Radha Ravi","Drama, Horror, Mystery",7.5
+852,The Wedding Pact,2014,91,Matt Berman,"Scott Michael Campbell, Leslie Easterbrook, Joyce Hyser","Comedy, Romance",3.8
+853,French Women,2014,116,Audrey Dana,"Isabelle Adjani, Alice Belaïdi, Laetitia Casta","Comedy, Romance",5.3
+854,Hungerford,2014,79,Drew Casson,"Georgia Bradley, Sam Carter, Drew Casson","Horror, Sci-Fi",3.8
+855,Mortadelo and Filemon: Mission Implausible,2014,91,Javier Fesser,"Karra Elejalde, Janfri Topera, Gabriel Chame","Animation, Action, Adventure",6.4
+856,"Sex, Love & Therapy",2014,88,Tonie Marshall,"Sophie Marceau, Patrick Bruel, André Wilms","Comedy, Romance",5.4
+857,Boys of Abu Ghraib,2014,102,Luke Moran,"Luke Moran, Sean Astin, Sara Paxton","Drama, Thriller, War",5.4
+858,The Scarehouse,2014,78,Gavin Michael Booth,"Sarah Booth, Kimberly-Sue Murray, Katherine Barrell","Crime, Horror, Thriller",4.5
+859,"The Rich, the Pauper and the Butler",2014,102,"Aldo Baglio, Morgan Bertacca, Giacomo Poretti","Aldo Baglio, Giovanni Storti, Giacomo Poretti",Comedy,5.4
+860,Deepsea Challenge,2014,91,"John Bruno, Ray Quint, Andrew Wight","James Cameron, Suzy Amis, Frank Lotito",Documentary,6.9
+861,Maya the Bee Movie,2014,89,Alexs Stadermann,"Kodi Smit-McPhee, Richard Roxburgh, Jacki Weaver","Animation, Adventure, Comedy",5.9
+862,Death in Buenos Aires,2014,90,Natalia Meta,"Demián Bichir, Chino Darín, Carlos Casella","Crime, Drama, Mystery",5.8
+863,Authors Anonymous,2014,92,Ellie Kanner,"Kaley Cuoco, Tricia Helfer, Jonathan Banks",Comedy,4.4
+864,Broken Vows,2014,90,Bram Coppens,"Jaimie Alexander, Wes Bentley, Cam Gigandet","Drama, Thriller",4.4
+865,Buzzard,2014,97,Joel Potrykus,"Joshua Burge, Joel Potrykus, Teri Ann Nelson","Comedy, Drama, Horror",6.3
+866,The Coffin in the Mountain,2014,119,Yukun Xin,"Weimin Huo, Xiaotian Wang, Yun Luo","Drama, Mystery",7.7
+867,50 to 1,2014,110,Jim Wilson,"Skeet Ulrich, Christian Kane, William Devane",Drama,6.3
+868,We Are Young. We Are Strong.,2014,123,Burhan Qurbani,"Jonas Nay, Trang Le Hong, Devid Striesow","Crime, Drama, History",7.0
+869,Leave the World Behind,2014,95,"Christian Larson, Robin Hofwander","Steve Angello, Nikhil Chinappa, Axel Hedfors","Documentary, Music",7.7
+870,Out of Nature,2014,80,"Ole Giæver, Marte Vold","Ole Giæver, Marte Magnusdotter Solem, Sivert Giæver Solem","Comedy, Drama",6.9
+871,Colt 45,2014,85,Fabrice du Welz,"Gérard Lanvin, JoeyStarr, Alice Taglioni","Action, Crime, Drama",5.8
+872,Manny,2014,88,"Leon Gast, Ryan Moore","Jimmy Kimmel, Sardo Mejia, Liam Neeson","Documentary, Biography, Sport",7.0
+873,The Song,2014,116,Richard L. Ramsey,"Alan Powell, Ali Faulkner, Caitlin Nicol-Thomas","Drama, Music, Romance",5.9
+874,Apocalypse Pompeii,2014,87,Ben Demaree,"Adrian Paul, Jhey Castles, Georgina Beedle","Action, Adventure, Drama",2.6
+875,The Hooligan Factory,2014,90,Nick Nevern,"Jason Maza, Nick Nevern, Tom Burke","Action, Comedy, Crime",4.8
+876,Karisik Kaset,2014,107,Tunç Sahin,"Sarp Apak, Özge Özpirinçci, Bülent Emin Yarar","Drama, Music, Romance",5.9
+877,Giovanni's Island,2014,102,"Mizuho Nishikubo, Masaki Tachibana","Tatsuya Nakadai, Yukie Nakama, Yûsuke Santamaria","Animation, Drama, History",7.3
+878,Banksy Does New York,2014,79,Chris Moukarbel,"Beth Stebner, Keegan Hamilton, Jaime Rojo",Documentary,7.2
+879,Jeeva,2014,127,Suseenthiran,"Vishnu Vishal, Sri Divya, Soori","Drama, Sport",8.0
+880,"Rio, I Love You",2014,110,"Vicente Amorim, Guillermo Arriaga, Stephan Elliott","Basil Hoffman, Emily Mortimer, Rodrigo Santoro","Comedy, Drama, Fantasy",5.2
+881,Two Men in Town,2014,117,Rachid Bouchareb,"Forest Whitaker, Brenda Blethyn, Luis Guzmán",Drama,5.7
+882,Love Is a Verb,2014,55,"Terry Spencer Hesser, Stephan Mazurek","Fethullah Gülen, Ashley Judd",Documentary,5.0
+883,"You're Sleeping, Nicole",2014,93,Stéphane Lafleur,"Julianne Côté, Pierre-Luc Lafontaine, Luc Senay","Comedy, Drama",6.9
+884,The Farewell Party,2014,95,"Tal Granit, Sharon Maymon","Ze'ev Revach, Levana Finkelstein, Aliza Rosen","Comedy, Drama, Romance",7.0
+885,Kelly & Cal,2014,111,Jen McGowan,"Juliette Lewis, Jonny Weston, Josh Hopkins","Comedy, Drama",6.3
+886,Cristiano Ronaldo: World at His Feet,2014,54,Tara Pirnia,"Benedict Cumberbatch, Cristiano Ronaldo, David Beckham","Documentary, Biography, Sport",6.4
+887,Coriolanus,2014,192,"Josie Rourke, Tim Van Someren","Rochenda Sandall, Mark Stanley, Dwane Walcott","Drama, History, War",8.4
+888,The Sisterhood of Night,2014,104,Caryn Waechter,"Georgie Henley, Kara Hayward, Willa Cuthrell-Tuttleman","Drama, Mystery, Thriller",6.0
+889,Tapped Out,2014,105,Allan Ungar,"Michael Biehn, Cody Hackman, Krzysztof Soszynski","Action, Drama, Sport",5.3
+890,A Lego Brickumentary,2014,93,"Kief Davidson, Daniel Junge","Jason Bateman, Jamie Berard, Marcos Bessa",Documentary,6.8
+891,Survivor,2014,93,John Lyde,"Danielle C. Ryan, Kevin Sorbo, Rocky Myers","Action, Adventure, Fantasy",4.0
+892,Pannaiyarum Padminiyum,2014,151,S.U. Arun Kumar,"Vijay Sethupathi, V. Jayaprakash, Tulasi","Comedy, Drama",7.9
+893,Tokyo Fiancée,2014,100,Stefan Liberski,"Pauline Etienne, Taichi Inoue, Julie Le Breton","Comedy, Drama, Romance",6.4
+894,Low Down,2014,114,Jeff Preiss,"John Hawkes, Elle Fanning, Glenn Close","Biography, Drama, Music",6.1
+895,Gulaab Gang,2014,139,Soumik Sen,"Madhuri Dixit, Juhi Chawla, Divya Jagdale","Action, Drama",6.0
+896,"Nativity 3: Dude, Where's My Donkey?!",2014,109,Debbie Isitt,"Martin Clunes, Marc Wootton, Catherine Tate","Comedy, Family",3.7
+897,Man from Reno,2014,111,Dave Boyle,"Ayako Fujitani, Pepe Serna, Kazuki Kitamura","Crime, Drama, Mystery",6.6
+898,Heavenly Sword,2014,85,Gun Ho Jang,"Anna Torv, Alfred Molina, Thomas Jane","Animation, Action, Adventure",5.3
+899,Track 143,2014,94,Narges Abyar,"Merila Zare'i, Mehran Ahmadi, Gelareh Abbassi","Drama, War",7.0
+900,Nowitzki: The Perfect Shot,2014,105,Sebastian Dehnhardt,"Dirk Nowitzki, Holger Geschwindner, Kobe Bryant","Documentary, Biography, Sport",7.5
+901,The Hive,2014,93,David Yarovesky,"Gabriel Basso, Sean Gunn, Kathryn Prescott","Horror, Sci-Fi, Thriller",5.1
+902,Age of Cannibals,2014,93,Johannes Naber,"Sebastian Blomberg, Devid Striesow, Katharina Schüttler","Comedy, Drama",7.0
+903,Barbie and the Secret Door,2014,81,"Philip D. Fehrle, Karen J. Lloyd","Kelly Sheridan, Brittany McDonald, Ashleigh Ball","Animation, Family",5.7
+904,Bhopal: A Prayer for Rain,2014,96,Ravi Kumar,"Mischa Barton, Martin Sheen, Kal Penn",Drama,7.1
+905,Parts Per Billion,2014,98,Brian Horiuchi,"Frank Langella, Gena Rowlands, Rosario Dawson","Drama, Romance, Sci-Fi",4.3
+906,Once in a Lifetime,2014,105,Marie-Castille Mention-Schaar,"Ariane Ascaride, Ahmed Dramé, Noémie Merlant","Comedy, Drama",7.1
+907,The Target,2014,98,Hong-Seung Yoon,"Ryu Seung-ryong, Yoo Joon-sang, Lee Jin-wook","Action, Thriller",6.2
+908,Heart Street,2014,90,Sanne Vogel,"Marwan Kenzari, Bracha van Doesburgh, Georgina Verbaan",Romance,6.3
+909,The Living,2014,89,Jack Bryan,"Fran Kranz, Jocelin Donahue, Kenny Wormald","Crime, Drama, Mystery",6.1
+910,Mission Blue,2014,95,"Robert Nixon, Fisher Stevens","Barbara Block, James Cameron, Michael deGruy","Documentary, Drama",7.9
+911,Free Fall,2014,90,Malek Akkad,"D.B. Sweeney, Sarah Butler, Malcolm McDowell","Action, Crime, Thriller",4.5
+912,Diet of Sex,2014,72,Borja Brun,"Raquel Martínez, Marc Rodriguez, Ramón Pantoja","Comedy, Drama, Romance",4.3
+913,Aftermath,2014,92,Péter Engert,"C.J. Thomason, Monica Keena, Edward Furlong","Horror, Sci-Fi, Thriller",4.8
+914,$50K and a Call Girl: A Love Story,2014,90,Seth Grossman,"Ross Patterson, Jessie Wiseman, Seth Grossman","Action, Adventure, Comedy",6.4
+915,Dinosaur Island,2014,82,Matt Drummond,"Darius Williams, Kate Rasmussen, Juliette Frederick","Adventure, Family, Sci-Fi",3.7
+916,Secrets of War,2014,95,Dennis Bots,"Maas Bronkhuyzen, Joes Brauers, Michael Nierse","Drama, Family, History",7.1
+917,Old Fashioned,2014,115,Rik Swartzwelder,"Elizabeth Roberts, Rik Swartzwelder, LeJon Woods","Drama, Romance",5.0
+918,My Mistress,2014,104,Stephen Lance,"Harrison Sloan Gilbertson, Emmanuelle Béart, Anna Ryan","Drama, Romance",5.4
+919,The Postman's White Nights,2014,100,Andrei Konchalovsky,"Aleksey Tryapitsyn, Irina Ermolova, Timur Bondarenko",Drama,7.0
+920,Rabhasa,2014,153,Santosh Srinivas,"N.T. Rama Rao Jr., Samantha Ruth Prabhu, Pranitha Subhash","Action, Comedy",4.8
+921,Pas son genre,2014,111,Lucas Belvaux,"Émilie Dequenne, Loïc Corbery, Sandra Nkake","Comedy, Drama, Romance",6.5
+922,Teen Lust,2014,80,Blaine Thurier,"Jesse Carere, Daryl Sabara, Annie Clark","Comedy, Horror",4.7
+923,The Infinite Man,2014,85,Hugh Sullivan,"Josh McConville, Hannah Marshall, Alex Dimitriades","Comedy, Fantasy, Sci-Fi",6.2
+924,The Snow White Murder Case,2014,126,Yoshihiro Nakamura,"Mao Inoue, Gô Ayano, Nanao","Crime, Drama, Mystery",6.9
+925,The Crossing,2014,129,John Woo,"Ziyi Zhang, Song Hye-kyo, Takeshi Kaneshiro","Drama, History, Romance",6.1
+926,Once Upon a Time in Shanghai,2014,96,Wong Ching-Po,"Sammo Kam-Bo Hung, Philip Ng, Andy On","Action, Crime",6.7
+927,Tour de Force,2014,95,Christian Zübert,"Florian David Fitz, Julia Koschitz, Jürgen Vogel","Comedy, Drama",7.2
+928,I Am Soldier,2014,84,David Beton,"Tom Hughes, Noel Clarke, Alex Reid","Action, Thriller, War",4.6
+929,Close Range Love,2014,118,Naoto Kumazawa,"Tomohisa Yamashita, Nana Komatsu, Mika Akizuki","Drama, Romance",6.2
+930,Gloria,2014,126,Christian Keller,"Sofía Espinosa, Marco Pérez, Tatiana del Real","Biography, Drama, Music",6.7
+931,Männerhort,2014,97,Franziska Meyer Price,"Elyas M'Barek, Christoph Maria Herbst, Detlev Buck","Comedy, Drama",5.0
+932,Nobody from Nowhere,2014,118,Matthieu Delaporte,"Mathieu Kassovitz, Marie-Josée Croze, Éric Caravaca","Drama, Thriller",6.7
+933,Bey Yaar,2014,150,Abhishek Jain,"Darshan Jariwala, Manoj Joshi, Aarti Patel","Comedy, Drama, Family",8.4
+934,Lake Fear,2014,89,Michael Crum,"Joshua Winch, Shanon Snedden, Taylor LeeAnn Graham","Comedy, Horror",3.1
+935,Nightingale,2014,83,Elliott Lester,"David Oyelowo, Barlow Jacobs, Heather Storm","Crime, Drama",6.4
+936,Sleeping Beauty,2014,89,Casper Van Dien,"Finn Jones, Grace Van Dien, Olivia d'Abo","Adventure, Fantasy, Horror",2.8
+937,Maan Karate,2014,153,Krish Thirukumaran,"Sivakarthikeyan, Hansika Motwani, Soori","Comedy, Drama",5.2
+938,Pantani: The Accidental Death of a Cyclist,2014,96,James Erskine,"Greg LeMond, Bradley Wiggins, Evgeni Berzin","Documentary, Biography, Sport",7.0
+939,Melbourne,2014,91,Nima Javidi,"Payman Maadi, Negar Javaherian, Mani Haghighi",Drama,6.4
+940,House of Manson,2014,98,Brandon Slagle,"Ryan Kiser, Devanny Pinn, Reid Warner","Crime, Drama, Thriller",4.3
+941,Vaayai Moodi Pesavum,2014,140,Balaji Mohan,"Dulquer Salmaan, Nazriya Nazim, Madhoo","Comedy, Drama, Romance",6.7
+942,Tormented,2014,83,Audrey Cummings,"Alysa King, Madison Ferguson, Cristophe Gallander","Horror, Thriller",4.7
+943,Living Legends,2014,100,Niki Iliev,"Orlin Pavlov, Niki Iliev, Sanya Borisova","Comedy, Drama, Romance",7.2
+944,Do I Sound Gay?,2014,77,David Thorpe,"David Thorpe, George Takei, Tim Gunn",Documentary,6.0
+945,Common Denominator,2014,80,Sotiris Tsafoulias,"Antonis Antoniou, Vladimiros Kyriakidis, Pigmalion Dadakaridis",Drama,6.5
+946,Shark Exorcist,2014,71,Donald Farmer,"Angela Kerecz, Bobby Kerecz, Channing Dodson","Comedy, Fantasy, Horror",1.4
+947,Print the Legend,2014,100,"Luis Lopez, Clay Tweel","Chris Anderson, Bruce Bradshaw, Craig Broady","Documentary, Biography, Drama",7.0
+948,School Dance,2014,85,Nick Cannon,"Pete Davidson, Patrick Warburton, Wilmer Valderrama","Comedy, Drama, Music",4.5
+949,Hot Young Bloods,2014,121,Lee Yeon-woo,"Park Bo-young, Lee Jong-suk, Kim Young-kwang","Comedy, Drama, Romance",6.7
+950,Horse Money,2014,103,Pedro Costa,"Ventura, Vitalina Varela, Tito Furtado",Drama,6.9
+951,Meet the Mormons,2014,78,Blair Treu,"Jermaine Sullivan, Ken Niumatalolo, Carolina Muñoz Marin",Documentary,6.4
+952,Sold,2014,94,Jeffrey D. Brown,"Gillian Anderson, Priyanka Bose, David Arquette",Drama,6.8
+953,Tell,2014,89,J.M.R. Luna,"Milo Ventimiglia, Katee Sackhoff, Jason Lee","Action, Crime, Drama",5.6
+954,Desert Dancer,2014,104,Richard Raymond,"Nazanin Boniadi, Freida Pinto, Tom Cullen","Biography, Drama, Music",6.2
+955,Jalaler Golpo,2014,121,Abu Shahed Emon,"Mosharraf Karim, Tauquir Ahmed, Mousumi Hamid",Drama,7.7
+956,Deadly Virtues: Love.Honour.Obey.,2014,87,Ate de Jong,"Edward Akrout, Matt Barber, Megan Maczko","Drama, Thriller",4.8
+957,Back in the Day,2014,94,Michael Rosenbaum,"Morena Baccarin, Danielle Bisutti, Liz Carey",Comedy,5.0
+958,Unfreedom,2014,102,Raj Amit Kumar,"Victor Banerjee, Adil Hussain, Bhanu Uday","Crime, Drama, Romance",5.0
+959,Postman Pat: The Movie,2014,88,Mike Disa,"Stephen Mangan, Jim Broadbent, Rupert Grint","Animation, Comedy, Family",4.7
+960,Tuscan Wedding,2014,109,Johan Nijenhuis,"Sophie van Oers, Simone Kleinsma, Ernst Daniël Smid","Comedy, Drama, Romance",5.1
+961,Number One Fan,2014,104,Jeanne Herry,"Sandrine Kiberlain, Laurent Lafitte, Pascal Demolon","Comedy, Drama, Thriller",6.5
+962,Scintilla,2014,94,Billy O'Brien,"John Lynch, Morjana Alaoui, Craig Conway","Horror, Sci-Fi",4.6
+963,Revolver Rani,2014,132,Sai Kabir,"Kangana Ranaut, Vir Das, Sukhita Aiyar","Action, Comedy, Crime",4.6
+964,Sluzby specjalne,2014,115,Patryk Vega,"Olga Boladz, Janusz Chabior, Wojciech Zielinski","Action, Crime, Drama",6.3
+965,Pernicious,2014,90,James Cullen Bressack,"Ciara Hanna, Emily O'Brien, Jackie Moore","Horror, Thriller",3.9
+966,Hits,2014,96,David Cross,"Meredith Hagner, Matt Walsh, James Adomian","Comedy, Drama",5.8
+967,Eat,2014,92,Jimmy Weber,"Meggie Maddock, Ali Francis, Jeremy Make","Drama, Horror, Thriller",5.1
+968,Youngistaan,2014,133,Syed Ahmad Afzal,"Jackky Bhagnani, Neha Sharma, Farooq Shaikh","Drama, Romance",5.2
+969,Consequences,2014,106,Ozan Açiktan,"Nehir Erdogan, Tardu Flordun, Ilker Kaleli","Crime, Drama, Thriller",6.5
+970,The Smell of Us,2014,92,Larry Clark,"Lukas Ionesco, Diane Rouxel, Théo Cholbi",Drama,4.8
+971,Da Sweet Blood of Jesus,2014,123,Spike Lee,"Stephen Tyrone Williams, Zaraah Abrahams, Rami Malek","Comedy, Drama, Horror",4.5
+972,Horsehead,2014,89,Romain Basset,"Lilly-Fleur Pointeaux, Catriona MacColl, Murray Head","Fantasy, Horror, Mystery",4.8
+973,Android Cop,2014,89,Mark Atkins,"Michael Jai White, Kadeem Hardison, Randy Wayne","Action, Adventure, Crime",3.3
+974,Get Married If You Can,2014,107,Marco Polo Constandse,"Martha Higareda, Miriam Higareda, Maite Suarez Diez","Comedy, Romance",5.7
+975,Yusuf & Yusuf,2014,93,Ersoy Güler,"Ali Sunal, Burak Satibol, Oya Basar",Comedy,3.6
+976,Marie's Story,2014,95,Jean-Pierre Améris,"Isabelle Carré, Ariana Rivoire, Brigitte Catillon","Biography, Drama",7.5
+977,Champs,2014,85,Bert Marcus,"Evander Holyfield, Bernard Hopkins, Mike Tyson","Documentary, Biography, Sport",7.2
+978,The Hacker Wars,2014,91,"Vivien Lesnik Weisman, Vivien Lesnik Weisman","Andrew 'weev' Auernheimer, Andrew Blake, Barrett Brown","Documentary, Crime",6.4
+979,The Reunion 2: The Funeral,2014,95,Mikkel Serup,"Anders W. Berthelsen, Nicolaj Kopernikus, Troels Lyby",Comedy,5.7
+980,The Drownsman,2014,88,Chad Archibald,"Michelle Mylett, Caroline Palmer, Ry Barrett","Fantasy, Horror, Mystery",4.1
+981,The Xpose,2014,113,Ananth Mahadevan,"Himesh Reshammiya, Yo Yo Honey Singh, Irrfan Khan","Drama, Mystery, Romance",3.4
+982,Ned Rifle,2014,85,Hal Hartley,"Aubrey Plaza, Parker Posey, Martin Donovan",Drama,6.2
+983,Pokémon the Movie: Diancie and the Cocoon of Destruction,2014,76,Kunihiko Yuyama,"Ikue Ôtani, Caitlin Glass, Sarah Natochenny","Animation, Action, Adventure",5.5
+984,Silent Heart,2014,97,Bille August,"Ghita Nørby, Paprika Steen, Danica Curcic",Drama,7.1
+985,Beltracchi: The Art of Forgery,2014,93,Arne Birkenstock,"Wolfgang Beltracchi, Helene Beltracchi, Henrik Hanstein","Documentary, Biography, Crime",7.1
+986,The Ouija Experiment 2: Theatre of Death,2014,86,Israel Luna,"Justin Armstrong, Gerald Crum, Sally Greenland",Horror,1.8
+987,The Beat Beneath My Feet,2014,91,John Williams,"Luke Perry, Nicholas Galitzine, Lisa Dillon","Comedy, Drama, Family",6.4
+988,Gutshot Straight,2014,85,Justin Steele,"George Eads, AnnaLynne McCord, Steven Seagal","Crime, Thriller",3.6
+989,Speed Walking,2014,108,Niels Arden Oplev,"Villads Bøye, Anders W. Berthelsen, Sidse Babett Knudsen","Drama, History",6.7
+990,Gone with the Bullets,2014,140,Wen Jiang,"Wen Jiang, You Ge, Yun Zhou","Action, Comedy, Drama",5.8
+991,Black Butler,2014,119,"Kentarô Ohtani, Keiichi Satô","Hiro Mizushima, Ayame Gôriki, Yûka","Action, Adventure, Crime",6.1
+992,Kya Dilli Kya Lahore,2014,98,"Vijay Raaz, Arora Karn","Vijay Raaz, Manu Rishi Chadha, Raj Zutshi","Drama, History, War",7.3
+993,Queen & Country,2014,114,John Boorman,"Callum Turner, Caleb Landry Jones, Pat Shortt","Biography, Comedy, Drama",6.2
+994,In the Name of My Daughter,2014,116,André Téchiné,"Guillaume Canet, Catherine Deneuve, Adèle Haenel","Crime, Drama",6.1
+995,Killa,2014,107,Avinash Arun,"Amruta Subhash, Devadhar Archit, Parth Bhalerao","Comedy, Drama",7.8
+996,The 11th Hour,2014,97,Anders Morgenthaler,"Kim Basinger, Jordan Prentice, Sebastian Schipper","Drama, Thriller",5.0
+997,The Rise and Rise of Bitcoin,2014,96,Nicholas Mross,"Daniel Mross, Eliza Mross, Gabriel Sukenik","Documentary, History, News",7.1
+998,The Continent,2014,105,Han Han,"Shaofeng Feng, Chen Bolin, Wallace Chung","Comedy, Drama",6.3
+999,Yellowbird,2014,90,Christian De Vita,"Arthur Dupont, Sara Forestier, Bruno Salomone","Animation, Adventure, Comedy",5.5
+1000,Julia,2014,95,Matthew A. Brown,"Winter Williams, Tahyna Tozzi MacManus, Jack Noseworthy","Horror, Thriller",4.6

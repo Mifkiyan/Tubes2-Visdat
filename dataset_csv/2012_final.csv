@@ -1,0 +1,1001 @@
+﻿ID,Name,Year,Duration,Directors,Actors,Genres,Rating
+1,The Dark Knight Rises,2012,164,Christopher Nolan,"Christian Bale, Tom Hardy, Anne Hathaway","Action, Crime, Drama",8.4
+2,Django Unchained,2012,165,Quentin Tarantino,"Jamie Foxx, Christoph Waltz, Leonardo DiCaprio",Western,8.5
+3,The Avengers,2012,143,Joss Whedon,"Robert Downey Jr., Chris Evans, Scarlett Johansson","Action, Sci-Fi",8.0
+4,The Hunger Games,2012,142,Gary Ross,"Jennifer Lawrence, Josh Hutcherson, Liam Hemsworth","Action, Adventure, Sci-Fi",7.2
+5,The Hobbit: An Unexpected Journey,2012,169,Peter Jackson,"Martin Freeman, Ian McKellen, Richard Armitage","Adventure, Fantasy",7.8
+6,Silver Linings Playbook,2012,122,David O. Russell,"Bradley Cooper, Jennifer Lawrence, Robert De Niro","Comedy, Drama, Romance",7.7
+7,Skyfall,2012,143,Sam Mendes,"Daniel Craig, Javier Bardem, Naomie Harris","Action, Adventure, Thriller",7.8
+8,The Amazing Spider-Man,2012,136,Marc Webb,"Andrew Garfield, Emma Stone, Rhys Ifans","Action, Sci-Fi",6.9
+9,Life of Pi,2012,127,Ang Lee,"Suraj Sharma, Irrfan Khan, Adil Hussain","Adventure, Drama, Fantasy",7.9
+10,Ted,2012,106,Seth MacFarlane,"Mark Wahlberg, Mila Kunis, Seth MacFarlane",Comedy,6.9
+11,Prometheus,2012,124,Ridley Scott,"Noomi Rapace, Logan Marshall-Green, Michael Fassbender","Adventure, Mystery, Sci-Fi",7.0
+12,Argo,2012,120,Ben Affleck,"Ben Affleck, Bryan Cranston, John Goodman","Biography, Drama, History",7.7
+13,21 Jump Street,2012,109,"Phil Lord, Christopher Miller","Jonah Hill, Channing Tatum, Ice Cube","Action, Comedy, Crime",7.2
+14,Looper,2012,119,Rian Johnson,"Joseph Gordon-Levitt, Bruce Willis, Emily Blunt","Action, Drama, Sci-Fi",7.4
+15,The Perks of Being a Wallflower,2012,103,Stephen Chbosky,"Logan Lerman, Emma Watson, Ezra Miller",Drama,7.9
+16,Wreck-It Ralph,2012,101,Rich Moore,"John C. Reilly, Jack McBrayer, Jane Lynch","Animation, Adventure, Comedy",7.7
+17,Brave,2012,93,"Mark Andrews, Brenda Chapman, Steve Purcell","Kelly Macdonald, Billy Connolly, Emma Thompson","Animation, Action, Adventure",7.1
+18,Men in Black³,2012,106,Barry Sonnenfeld,"Will Smith, Tommy Lee Jones, Josh Brolin","Action, Adventure, Comedy",6.8
+19,The Hunt,2012,115,Thomas Vinterberg,"Mads Mikkelsen, Thomas Bo Larsen, Annika Wedderkopp",Drama,8.3
+20,Flight,2012,138,Robert Zemeckis,"Denzel Washington, Kelly Reilly, Don Cheadle","Drama, Thriller",7.3
+21,Cloud Atlas,2012,172,"Tom Tykwer, Lana Wachowski, Lilly Wachowski","Tom Hanks, Halle Berry, Hugh Grant","Drama, Mystery, Sci-Fi",7.4
+22,Jack Reacher,2012,130,Christopher McQuarrie,"Tom Cruise, Rosamund Pike, Richard Jenkins","Action, Thriller",7.0
+23,Moonrise Kingdom,2012,94,Wes Anderson,"Jared Gilman, Kara Hayward, Bruce Willis","Adventure, Comedy, Drama",7.8
+24,Les Misérables,2012,158,Tom Hooper,"Hugh Jackman, Russell Crowe, Anne Hathaway","Drama, Musical, Romance",7.5
+25,The Dictator,2012,83,Larry Charles,"Sacha Baron Cohen, Anna Faris, John C. Reilly",Comedy,6.5
+26,Pitch Perfect,2012,112,Jason Moore,"Anna Kendrick, Brittany Snow, Rebel Wilson","Comedy, Music, Romance",7.1
+27,Taken 2,2012,92,Olivier Megaton,"Liam Neeson, Famke Janssen, Maggie Grace","Action, Crime, Thriller",6.2
+28,Zero Dark Thirty,2012,157,Kathryn Bigelow,"Jessica Chastain, Joel Edgerton, Chris Pratt","Drama, History, Thriller",7.4
+29,The Expendables 2,2012,103,Simon West,"Sylvester Stallone, Liam Hemsworth, Randy Couture","Action, Adventure, Thriller",6.6
+30,The Bourne Legacy,2012,135,Tony Gilroy,"Jeremy Renner, Rachel Weisz, Edward Norton","Action, Adventure, Thriller",6.6
+31,Snow White and the Huntsman,2012,127,Rupert Sanders,"Kristen Stewart, Chris Hemsworth, Charlize Theron","Action, Adventure, Drama",6.1
+32,Dredd,2012,95,Pete Travis,"Karl Urban, Olivia Thirlby, Lena Headey","Action, Crime, Sci-Fi",7.1
+33,The Place Beyond the Pines,2012,140,Derek Cianfrance,"Ryan Gosling, Bradley Cooper, Eva Mendes","Crime, Drama, Thriller",7.3
+34,Sinister,2012,110,Scott Derrickson,"Ethan Hawke, Juliet Rylance, James Ransone","Horror, Mystery, Thriller",6.8
+35,Hotel Transylvania,2012,91,Genndy Tartakovsky,"Adam Sandler, Kevin James, Andy Samberg","Animation, Comedy, Family",7.0
+36,John Carter,2012,132,Andrew Stanton,"Taylor Kitsch, Lynn Collins, Willem Dafoe","Action, Adventure, Sci-Fi",6.6
+37,Dark Shadows,2012,113,Tim Burton,"Johnny Depp, Michelle Pfeiffer, Eva Green","Comedy, Fantasy, Horror",6.2
+38,End of Watch,2012,109,David Ayer,"Jake Gyllenhaal, Michael Peña, Anna Kendrick","Action, Crime, Drama",7.6
+39,Seven Psychopaths,2012,110,Martin McDonagh,"Colin Farrell, Woody Harrelson, Sam Rockwell","Comedy, Crime",7.1
+40,Lincoln,2012,150,Steven Spielberg,"Daniel Day-Lewis, Sally Field, David Strathairn","Biography, Drama, History",7.3
+41,The Twilight Saga: Breaking Dawn - Part 2,2012,115,Bill Condon,"Kristen Stewart, Robert Pattinson, Taylor Lautner","Adventure, Drama, Fantasy",5.6
+42,Total Recall,2012,118,Len Wiseman,"Colin Farrell, Bokeem Woodbine, Bryan Cranston","Action, Adventure, Sci-Fi",6.2
+43,Chronicle,2012,84,Josh Trank,"Dane DeHaan, Alex Russell, Michael B. Jordan","Adventure, Drama, Sci-Fi",7.0
+44,Battleship,2012,131,Peter Berg,"Alexander Skarsgård, Brooklyn Decker, Liam Neeson","Action, Adventure, Sci-Fi",5.8
+45,Lawless,2012,116,John Hillcoat,"Tom Hardy, Shia LaBeouf, Guy Pearce","Biography, Crime, Drama",7.2
+46,The Impossible,2012,114,J.A. Bayona,"Naomi Watts, Ewan McGregor, Tom Holland","Drama, History, Thriller",7.5
+47,Project X,2012,88,Nima Nourizadeh,"Thomas Mann, Oliver Cooper, Jonathan Daniel Brown",Comedy,6.7
+48,Safe House,2012,115,Daniel Espinosa,"Denzel Washington, Ryan Reynolds, Robert Patrick","Action, Thriller",6.7
+49,Ice Age: Continental Drift,2012,88,"Steve Martino, Michael Thurmeier","Ray Romano, Denis Leary, John Leguizamo","Animation, Adventure, Comedy",6.5
+50,American Reunion,2012,113,"Jon Hurwitz, Hayden Schlossberg","Jason Biggs, Alyson Hannigan, Seann William Scott",Comedy,6.7
+51,The Vow,2012,104,Michael Sucsy,"Rachel McAdams, Channing Tatum, Sam Neill","Drama, Romance",6.8
+52,Madagascar 3: Europe's Most Wanted,2012,93,"Eric Darnell, Tom McGrath, Conrad Vernon","Ben Stiller, Jada Pinkett Smith, Chris Rock","Animation, Adventure, Comedy",6.8
+53,Rise of the Guardians,2012,97,Peter Ramsey,"Hugh Jackman, Alec Baldwin, Isla Fisher","Animation, Action, Adventure",7.2
+54,Wrath of the Titans,2012,99,Jonathan Liebesman,"Sam Worthington, Liam Neeson, Rosamund Pike","Action, Adventure, Fantasy",5.7
+55,This Means War,2012,103,McG,"Reese Witherspoon, Chris Pine, Tom Hardy","Action, Comedy, Romance",6.3
+56,The Woman in Black,2012,95,James Watkins,"Daniel Radcliffe, Janet McTeer, Ciarán Hinds","Drama, Fantasy, Horror",6.4
+57,Mud,2012,130,Jeff Nichols,"Matthew McConaughey, Tye Sheridan, Jacob Lofland","Adventure, Drama",7.4
+58,The Master,2012,138,Paul Thomas Anderson,"Joaquin Phoenix, Philip Seymour Hoffman, Amy Adams","Drama, History",7.1
+59,Abraham Lincoln: Vampire Hunter,2012,105,Timur Bekmambetov,"Benjamin Walker, Rufus Sewell, Dominic Cooper","Action, Fantasy, Horror",5.9
+60,Underworld: Awakening,2012,88,"Måns Mårlind, Björn Stein","Kate Beckinsale, Michael Ealy, India Eisley","Action, Fantasy, Thriller",6.3
+61,Man on a Ledge,2012,102,Asger Leth,"Sam Worthington, Elizabeth Banks, Jamie Bell","Action, Crime, Thriller",6.6
+62,Killing Them Softly,2012,97,Andrew Dominik,"Brad Pitt, Ray Liotta, Richard Jenkins","Crime, Drama, Thriller",6.2
+63,This Is 40,2012,134,Judd Apatow,"Paul Rudd, Leslie Mann, Maude Apatow","Comedy, Drama, Romance",6.2
+64,Resident Evil: Retribution,2012,95,Paul W.S. Anderson,"Milla Jovovich, Sienna Guillory, Michelle Rodriguez","Action, Horror, Sci-Fi",5.3
+65,Spring Breakers,2012,94,Harmony Korine,"Vanessa Hudgens, Selena Gomez, Ashley Benson","Crime, Drama, Thriller",5.3
+66,Magic Mike,2012,110,Steven Soderbergh,"Channing Tatum, Alex Pettyfer, Olivia Munn","Comedy, Drama, Music",6.1
+67,The Campaign,2012,85,Jay Roach,"Will Ferrell, Zach Galifianakis, Jason Sudeikis",Comedy,6.1
+68,The Lorax,2012,86,"Chris Renaud, Kyle Balda","Zac Efron, Taylor Swift, Danny DeVito","Animation, Adventure, Comedy",6.4
+69,Savages,2012,131,Oliver Stone,"Aaron Taylor-Johnson, Taylor Kitsch, Blake Lively","Crime, Drama, Thriller",6.4
+70,The Watch,2012,102,Akiva Schaffer,"Ben Stiller, Vince Vaughn, Jonah Hill","Comedy, Sci-Fi",5.7
+71,Safety Not Guaranteed,2012,86,Colin Trevorrow,"Aubrey Plaza, Mark Duplass, Jake Johnson","Adventure, Comedy, Drama",6.9
+72,Contraband,2012,109,Baltasar Kormákur,"Mark Wahlberg, Giovanni Ribisi, Kate Beckinsale","Action, Adventure, Crime",6.4
+73,Frankenweenie,2012,87,Tim Burton,"Winona Ryder, Catherine O'Hara, Martin Short","Animation, Comedy, Drama",6.9
+74,Safe,2012,94,Boaz Yakin,"Jason Statham, Catherine Chan, Chris Sarandon","Action, Crime, Thriller",6.5
+75,Seeking a Friend for the End of the World,2012,101,Lorene Scafaria,"Steve Carell, Keira Knightley, Melanie Lynskey","Adventure, Comedy, Drama",6.7
+76,Premium Rush,2012,91,David Koepp,"Joseph Gordon-Levitt, Michael Shannon, Dania Ramirez","Action, Thriller",6.5
+77,Journey 2: The Mysterious Island,2012,94,Brad Peyton,"Josh Hutcherson, Dwayne Johnson, Michael Caine","Action, Adventure, Comedy",5.7
+78,The Lucky One,2012,101,Scott Hicks,"Zac Efron, Taylor Schilling, Blythe Danner","Drama, Mystery, Romance",6.4
+79,That's My Boy,2012,116,Sean Anders,"Adam Sandler, Andy Samberg, Leighton Meester","Comedy, Drama",5.6
+80,ParaNorman,2012,92,"Chris Butler, Sam Fell","Kodi Smit-McPhee, Anna Kendrick, Christopher Mintz-Plasse","Animation, Adventure, Comedy",7.0
+81,Get the Gringo,2012,96,Adrian Grunberg,"Mel Gibson, Kevin Balmore, Daniel Giménez Cacho","Action, Drama, Thriller",6.9
+82,Anna Karenina,2012,129,Joe Wright,"Keira Knightley, Jude Law, Aaron Taylor-Johnson","Drama, Romance",6.6
+83,Amour,2012,127,Michael Haneke,"Jean-Louis Trintignant, Emmanuelle Riva, Isabelle Huppert",Drama,7.9
+84,Gangs of Wasseypur,2012,321,Anurag Kashyap,"Manoj Bajpayee, Nawazuddin Siddiqui, Tigmanshu Dhulia","Action, Comedy, Crime",8.2
+85,Ruby Sparks,2012,104,"Jonathan Dayton, Valerie Faris","Paul Dano, Zoe Kazan, Annette Bening","Comedy, Drama, Fantasy",7.2
+86,The Five-Year Engagement,2012,124,Nicholas Stoller,"Jason Segel, Emily Blunt, Chris Pratt","Comedy, Drama, Romance",6.2
+87,Lockout,2012,95,"James Mather, Steve Saint Leger","Guy Pearce, Maggie Grace, Peter Stormare","Action, Sci-Fi, Thriller",6.0
+88,Frances Ha,2012,86,Noah Baumbach,"Greta Gerwig, Mickey Sumner, Adam Driver","Comedy, Drama, Romance",7.4
+89,Iron Sky,2012,93,Timo Vuorensola,"Julia Dietze, Christopher Kirby, Götz Otto","Action, Adventure, Comedy",5.9
+90,Here Comes the Boom,2012,105,Frank Coraci,"Kevin James, Salma Hayek, Henry Winkler","Action, Comedy, Sport",6.4
+91,Stuck in Love.,2012,97,Josh Boone,"Greg Kinnear, Jennifer Connelly, Lily Collins","Comedy, Drama, Romance",7.2
+92,Mirror Mirror,2012,106,Tarsem Singh,"Lily Collins, Julia Roberts, Armie Hammer","Adventure, Comedy, Drama",5.6
+93,To Rome with Love,2012,112,Woody Allen,"Woody Allen, Penélope Cruz, Jesse Eisenberg","Comedy, Music, Romance",6.3
+94,Barfi!,2012,151,Anurag Basu,"Ranbir Kapoor, Priyanka Chopra Jonas, Ileana D'Cruz","Comedy, Drama, Romance",8.1
+95,The Raven,2012,110,James McTeigue,"John Cusack, Alice Eve, Luke Evans","Crime, Drama, Mystery",6.4
+96,Beasts of the Southern Wild,2012,93,Benh Zeitlin,"Quvenzhané Wallis, Dwight Henry, Levy Easterly","Adventure, Drama, Fantasy",7.2
+97,The Words,2012,102,"Brian Klugman, Lee Sternthal","Bradley Cooper, Dennis Quaid, Olivia Wilde","Drama, Mystery, Romance",7.0
+98,House at the End of the Street,2012,101,Mark Tonderai,"Jennifer Lawrence, Elisabeth Shue, Max Thieriot","Drama, Horror, Mystery",5.5
+99,Rock of Ages,2012,123,Adam Shankman,"Julianne Hough, Diego Boneta, Tom Cruise","Comedy, Drama, Musical",5.9
+100,Red Dawn,2012,93,Dan Bradley,"Chris Hemsworth, Isabel Lucas, Josh Hutcherson","Action, War",5.3
+101,Wanderlust,2012,98,David Wain,"Jennifer Aniston, Paul Rudd, Malin Akerman","Comedy, Romance",5.6
+102,The Iceman,2012,106,Ariel Vromen,"Michael Shannon, Chris Evans, James Franco","Biography, Crime, Drama",6.8
+103,Hitchcock,2012,98,Sacha Gervasi,"Anthony Hopkins, Helen Mirren, Scarlett Johansson","Biography, Drama, Romance",6.8
+104,Disconnect,2012,115,Henry Alex Rubin,"Jason Bateman, Jonah Bobo, Haley Ramm","Crime, Drama, Mystery",7.5
+105,What to Expect When You're Expecting,2012,110,Kirk Jones,"Cameron Diaz, Matthew Morrison, J. Todd Smith","Comedy, Drama, Romance",5.7
+106,The Body,2012,112,Oriol Paulo,"Jose Coronado, Hugo Silva, Belén Rueda","Crime, Drama, Mystery",7.6
+107,Upside Down,2012,109,Juan Solanas,"Jim Sturgess, Kirsten Dunst, Timothy Spall","Drama, Romance, Sci-Fi",6.3
+108,Searching for Sugar Man,2012,86,Malik Bendjelloul,"Rodriguez, Stephen 'Sugar' Segerman, Dennis Coffey","Documentary, Biography, Music",8.2
+109,The First Time,2012,95,Jonathan Kasdan,"Dylan O'Brien, Britt Robertson, Victoria Justice","Comedy, Drama, Romance",6.8
+110,Act of Valor,2012,110,"Mike McCoy, Scott Waugh","Alex Veadov, Roselyn Sanchez, Nestor Serrano","Action, Adventure, Thriller",6.4
+111,V/H/S,2012,116,"Matt Bettinelli-Olpin, David Bruckner, Tyler Gillett","Calvin Lee Reeder, Lane Hughes, Adam Wingard","Horror, Mystery, Thriller",5.8
+112,Paranormal Activity 4,2012,88,"Henry Joost, Ariel Schulman","Stephen Dunham, Katie Featherston, Matt Shively","Horror, Mystery",4.7
+113,Rust and Bone,2012,120,Jacques Audiard,"Marion Cotillard, Matthias Schoenaerts, Armand Verdure","Drama, Romance",7.4
+114,Trouble with the Curve,2012,111,Robert Lorenz,"Clint Eastwood, Amy Adams, John Goodman","Drama, Romance, Sport",6.8
+115,Chernobyl Diaries,2012,86,Bradley Parker,"Jesse McCartney, Jonathan Sadowski, Olivia Taylor Dudley","Horror, Mystery, Thriller",5.0
+116,Red Lights,2012,114,Rodrigo Cortés,"Sigourney Weaver, Robert De Niro, Cillian Murphy","Drama, Fantasy, Mystery",6.2
+117,Silent Hill: Revelation,2012,95,M.J. Bassett,"Adelaide Clemens, Kit Harington, Sean Bean","Horror, Mystery, Thriller",4.9
+118,OMG: Oh My God!,2012,125,Umesh Shukla,"Paresh Rawal, Akshay Kumar, Mithun Chakraborty","Comedy, Drama, Fantasy",8.1
+119,Kahaani,2012,122,Sujoy Ghosh,"Vidya Balan, Parambrata Chattopadhyay, Indraneil Sengupta","Mystery, Thriller",8.1
+120,Robot & Frank,2012,89,Jake Schreier,"Peter Sarsgaard, Frank Langella, Susan Sarandon","Comedy, Crime, Drama",7.0
+121,The Man with the Iron Fists,2012,95,RZA,"Russell Crowe, Cung Le, Lucy Liu",Action,5.4
+122,The Possession,2012,92,Ole Bornedal,"Natasha Calis, Jeffrey Dean Morgan, Kyra Sedgwick","Horror, Mystery, Thriller",5.9
+123,Jab Tak Hai Jaan,2012,176,Yash Chopra,"Shah Rukh Khan, Katrina Kaif, Anushka Sharma","Drama, Romance",6.7
+124,Conquest 1453,2012,162,Faruk Aksoy,"Devrim Evin, Ibrahim Celikkol, Dilek Serbest","Action, Drama, History",6.4
+125,Step Up Revolution,2012,99,Scott Speer,"Kathryn McCormick, Ryan Guzman, Cleopatra Coleman","Drama, Music, Romance",6.4
+126,LOL,2012,97,Lisa Azuelos,"Miley Cyrus, Douglas Booth, Ashley Greene","Comedy, Drama, Romance",4.4
+127,Stand Up Guys,2012,95,Fisher Stevens,"Al Pacino, Christopher Walken, Alan Arkin","Comedy, Crime, Thriller",6.4
+128,Arbitrage,2012,107,Nicholas Jarecki,"Richard Gere, Susan Sarandon, Brit Marling","Drama, Thriller",6.6
+129,The Collection,2012,82,Marcus Dunstan,"Josh Stewart, Emma Fitzpatrick, Christopher McDonald","Horror, Thriller",6.1
+130,Bullet to the Head,2012,92,Walter Hill,"Sylvester Stallone, Jason Momoa, Christian Slater","Action, Crime, Thriller",5.7
+131,Kon-Tiki,2012,118,"Joachim Rønning, Espen Sandberg","Pål Sverre Hagen, Anders Baasmo, Gustaf Skarsgård","Adventure, Biography, Drama",7.1
+132,The Pirates! Band of Misfits,2012,88,"Peter Lord, Jeff Newitt","Hugh Grant, Salma Hayek, Jeremy Piven","Animation, Action, Adventure",6.7
+133,A Royal Affair,2012,137,Nikolaj Arcel,"Alicia Vikander, Mads Mikkelsen, Mikkel Boe Følsgaard","Biography, Drama, History",7.5
+134,Wolf Children,2012,117,Mamoru Hosoda,"Aoi Miyazaki, Takao Osawa, Haru Kuroki","Animation, Drama, Family",8.1
+135,The Imposter,2012,99,Bart Layton,"Adam O'Brian, Nicholas Barclay, Carey Gibson","Documentary, Biography, Crime",7.4
+136,Think Like a Man,2012,122,Tim Story,"Chris Brown, Gabrielle Union, Kevin Hart","Comedy, Romance",6.5
+137,Cosmopolis,2012,109,David Cronenberg,"Robert Pattinson, Juliette Binoche, Sarah Gadon","Crime, Drama, Mystery",5.1
+138,Holy Motors,2012,115,Leos Carax,"Denis Lavant, Edith Scob, Eva Mendes","Drama, Fantasy",7.0
+139,Bachelorette,2012,87,Leslye Headland,"Kirsten Dunst, Isla Fisher, Lizzy Caplan","Comedy, Romance",5.3
+140,The Odd Life of Timothy Green,2012,105,Peter Hedges,"Jennifer Garner, Joel Edgerton, CJ Adams","Comedy, Drama, Family",6.6
+141,Would You Rather,2012,93,David Guy Levy,"Brittany Snow, June Squibb, Jeffrey Combs","Horror, Thriller",5.7
+142,Gone,2012,94,Heitor Dhalia,"Amanda Seyfried, Jennifer Carpenter, Wes Bentley","Action, Adventure, Mystery",5.9
+143,Byzantium,2012,118,Neil Jordan,"Saoirse Ronan, Gemma Arterton, Sam Riley","Drama, Fantasy, Horror",6.5
+144,Stolen,2012,96,Simon West,"Nicolas Cage, Malin Akerman, Josh Lucas","Action, Crime, Thriller",5.5
+145,Talaash: The Answer Lies Within,2012,140,Reema Kagti,"Aamir Khan, Kareena Kapoor, Rani Mukerji","Crime, Drama, Mystery",7.3
+146,Piranha 3DD,2012,83,John Gulager,"Danielle Panabaker, Ving Rhames, David Hasselhoff","Comedy, Horror, Sci-Fi",3.8
+147,A Thousand Words,2012,91,Brian Robbins,"Eddie Murphy, Cliff Curtis, Kerry Washington","Comedy, Drama, Fantasy",5.9
+148,Vicky Donor,2012,126,Shoojit Sircar,"Ayushmann Khurrana, Yami Gautam, Annu Kapoor","Comedy, Romance",7.7
+149,Hope Springs,2012,100,David Frankel,"Meryl Streep, Tommy Lee Jones, Steve Carell","Comedy, Drama, Romance",6.3
+150,One for the Money,2012,91,Julie Anne Robinson,"Katherine Heigl, Jason O'Mara, Daniel Sunjata","Action, Comedy, Crime",5.3
+151,People Like Us,2012,114,Alex Kurtzman,"Chris Pine, Elizabeth Banks, Michelle Pfeiffer","Comedy, Drama",7.0
+152,The Sessions,2012,95,Ben Lewin,"John Hawkes, Helen Hunt, William H. Macy","Biography, Comedy, Drama",7.2
+153,The Broken Circle Breakdown,2012,111,Felix van Groeningen,"Veerle Baetens, Johan Heldenbergh, Nell Cattrysse","Drama, Music, Romance",7.7
+154,The Tall Man,2012,106,Pascal Laugier,"Jessica Biel, Jodelle Ferland, William B. Davis","Crime, Drama, Horror",5.9
+155,On the Road,2012,124,Walter Salles,"Sam Riley, Garrett Hedlund, Kristen Stewart","Adventure, Drama, Romance",6.0
+156,The Act of Killing,2012,117,"Joshua Oppenheimer, Anonymous, Christine Cynn","Anwar Congo, Herman Koto, Syamsul Arifin","Documentary, Biography, Crime",8.2
+157,Deadfall,2012,95,Stefan Ruzowitzky,"Eric Bana, Olivia Wilde, Charlie Hunnam","Action, Adventure, Crime",6.2
+158,Maniac,2012,89,Franck Khalfoun,"Elijah Wood, Nora Arnezeder, America Olivo","Crime, Horror, Thriller",6.1
+159,Liberal Arts,2012,97,Josh Radnor,"Josh Radnor, Elizabeth Olsen, Zac Efron","Comedy, Drama, Romance",6.7
+160,The Guilt Trip,2012,95,Anne Fletcher,"Barbra Streisand, Seth Rogen, Julene Renee","Comedy, Drama",5.8
+161,John Dies at the End,2012,99,Don Coscarelli,"Chase Williamson, Rob Mayes, Paul Giamatti","Comedy, Fantasy, Horror",6.3
+162,The Paperboy,2012,107,Lee Daniels,"Matthew McConaughey, Nicole Kidman, John Cusack","Crime, Drama, Mystery",5.7
+163,English Vinglish,2012,134,Gauri Shinde,"Sridevi, Adil Hussain, Mehdi Nebbou","Comedy, Drama, Family",7.8
+164,The Cold Light of Day,2012,93,Mabrouk El Mechri,"Henry Cavill, Bruce Willis, Sigourney Weaver","Action, Adventure, Thriller",4.9
+165,Promised Land,2012,106,Gus Van Sant,"Matt Damon, Frances McDormand, John Krasinski",Drama,6.6
+166,Ek Tha Tiger,2012,132,Kabir Khan,"Salman Khan, Katrina Kaif, Girish Karnad","Action, Adventure, Drama",5.7
+167,Thuppakki,2012,165,A.R. Murugadoss,"Joseph Vijay, Kajal Aggarwal, Vidyut Jammwal","Action, Crime, Thriller",8.1
+168,[REC] 3: Genesis,2012,80,Paco Plaza,"Leticia Dolera, Diego Martín, Ismael Martínez","Action, Horror, Thriller",5.0
+169,Compliance,2012,90,Craig Zobel,"Ann Dowd, Dreama Walker, Pat Healy","Crime, Drama, Thriller",6.4
+170,Paan Singh Tomar,2012,135,Tigmanshu Dhulia,"Irrfan Khan, Mahie Gill, Rajesh Abhay","Action, Biography, Crime",8.2
+171,Hit and Run,2012,100,"David Palmer, Dax Shepard","Dax Shepard, Kristen Bell, Bradley Cooper","Action, Adventure, Comedy",6.1
+172,The Devil Inside,2012,83,William Brent Bell,"Fernanda Andrade, Simon Quarterman, Evan Helmuth",Horror,4.2
+173,Red Tails,2012,125,Anthony Hemingway,"Cuba Gooding Jr., Gerald McRaney, David Oyelowo","Action, Drama, History",5.9
+174,The Company You Keep,2012,125,Robert Redford,"Robert Redford, Brit Marling, Stanley Tucci","Drama, Thriller",6.4
+175,Alex Cross,2012,101,Rob Cohen,"Tyler Perry, Matthew Fox, Rachel Nichols","Action, Crime, Mystery",5.2
+176,Chasing Mavericks,2012,116,"Michael Apted, Curtis Hanson","Jonny Weston, Gerard Butler, Elisabeth Shue","Biography, Drama, Sport",7.1
+177,Now Is Good,2012,103,Ol Parker,"Dakota Fanning, Josef Altin, Jeremy Irvine","Drama, Romance",7.0
+178,In the House,2012,105,François Ozon,"Fabrice Luchini, Vincent Schmitt, Ernst Umhauer","Drama, Mystery, Thriller",7.3
+179,Celeste & Jesse Forever,2012,92,Lee Toland Krieger,"Rashida Jones, Andy Samberg, Elijah Wood","Comedy, Drama, Romance",6.6
+180,The Three Stooges,2012,92,"Bobby Farrelly, Peter Farrelly","Sean Hayes, Chris Diamantopoulos, Will Sasso","Comedy, Family",5.1
+181,The Lords of Salem,2012,101,Rob Zombie,"Sheri Moon Zombie, Meg Foster, Bruce Davison","Horror, Thriller",5.2
+182,Erased,2012,100,Philipp Stölzl,"Aaron Eckhart, Nick Alachiotis, Liana Liberato","Action, Thriller",6.0
+183,Diary of a Wimpy Kid: Dog Days,2012,94,David Bowers,"Zachary Gordon, Robert Capron, Devon Bostick","Comedy, Family",6.3
+184,Playing for Keeps,2012,105,Gabriele Muccino,"Gerard Butler, Jessica Biel, Dennis Quaid","Comedy, Romance, Sport",5.7
+185,The Bay,2012,85,Barry Levinson,"Will Rogers, Kristen Connolly, Kether Donohue","Horror, Sci-Fi, Thriller",5.7
+186,Sightseers,2012,88,Ben Wheatley,"Alice Lowe, Kenneth Hadley, Steve Oram","Adventure, Comedy, Crime",6.5
+187,To the Wonder,2012,112,Terrence Malick,"Ben Affleck, Olga Kurylenko, Javier Bardem","Drama, Romance",5.8
+188,Rurouni Kenshin Part I: Origins,2012,134,Keishi Otomo,"Takeru Satoh, Emi Takei, Yû Aoi","Action, Adventure, Drama",7.4
+189,Thanks for Sharing,2012,112,Stuart Blumberg,"Mark Ruffalo, Tim Robbins, Gwyneth Paltrow","Comedy, Drama, Romance",6.4
+190,American Mary,2012,103,"Jen Soska, Sylvia Soska","Katharine Isabelle, Antonio Cupo, Tristan Risk","Drama, Horror",6.2
+191,What Maisie Knew,2012,99,"Scott McGehee, David Siegel","Julianne Moore, Alexander Skarsgård, Steve Coogan",Drama,7.4
+192,Grave Encounters 2,2012,98,John Poliquin,"Richard Harmon, Shawn C. Phillips, Jennica Fulton","Horror, Mystery",5.1
+193,Eega,2012,145,S.S. Rajamouli,"Sudeep, Nani, Samantha Ruth Prabhu","Action, Comedy, Drama",7.7
+194,Fire with Fire,2012,97,David Barrett,"Josh Duhamel, Bruce Willis, Rosario Dawson","Action, Crime, Mystery",5.6
+195,Agneepath,2012,174,Karan Malhotra,"Hrithik Roshan, Priyanka Chopra Jonas, Sanjay Dutt","Action, Crime, Drama",6.9
+196,The Angels' Share,2012,101,Ken Loach,"Paul Brannigan, John Henshaw, Roger Allam","Comedy, Crime, Drama",7.0
+197,Escape from Planet Earth,2012,89,Cal Brunker,"Brendan Fraser, Sarah Jessica Parker, Jessica Alba","Animation, Adventure, Comedy",5.8
+198,Parental Guidance,2012,105,Andy Fickman,"Billy Crystal, Bette Midler, Marisa Tomei","Comedy, Family",6.0
+199,No,2012,118,Pablo Larraín,"Gael García Bernal, Alfredo Castro, Antonia Zegers","Drama, History",7.4
+200,Gambit,2012,89,Michael Hoffman,"Colin Firth, Cameron Diaz, Alan Rickman","Comedy, Crime",5.7
+201,ATM,2012,90,David Brooks,"Alice Eve, Josh Peck, Brian Geraghty","Horror, Mystery, Thriller",4.7
+202,The Pact,2012,89,Nicholas McCarthy,"Caity Lotz, Casper Van Dien, Mark Steger","Horror, Mystery, Thriller",5.7
+203,Excision,2012,81,Richard Bates Jr.,"AnnaLynne McCord, Roger Bart, Ariel Winter","Comedy, Drama, Horror",6.1
+204,No One Lives,2012,86,Ryûhei Kitamura,"Luke Evans, Gary Grubbs, Adelaide Clemens","Horror, Thriller",6.0
+205,Chinese Zodiac,2012,109,Jackie Chan,"Jackie Chan, Shu Qi, Xingtong Yao","Action, Adventure, Comedy",6.0
+206,Rowdy Rathore,2012,140,Prabhu Deva,"Akshay Kumar, Sonakshi Sinha, Nassar","Action, Comedy, Crime",5.8
+207,The Mountain,2012,90,Alper Caglar,"Caglar Ertugrul, Ufuk Bayraktar, Firat Dogruloglu","Adventure, Drama, Thriller",7.5
+208,Passion,2012,102,Brian De Palma,"Rachel McAdams, Noomi Rapace, Karoline Herfurth","Drama, Mystery, Thriller",5.3
+209,Freaky Deaky,2012,90,Charles Matthau,"Billy Burke, Christian Slater, Crispin Glover","Comedy, Crime, Thriller",5.6
+210,Room 237,2012,102,Rodney Ascher,"Bill Blakemore, Geoffrey Cocks, Juli Kearns",Documentary,6.2
+211,Ernest & Celestine,2012,80,"Stéphane Aubier, Vincent Patar, Benjamin Renner","Lambert Wilson, Pauline Brunner, Anne-Marie Loop","Animation, Adventure, Comedy",7.8
+212,Resident Evil: Damnation,2012,100,Makoto Kamiya,"Matthew Mercer, Dave Wittenberg, Wendee Lee","Animation, Action, Horror",6.4
+213,Into the White,2012,104,Petter Næss,"Florian Lukas, David Kross, Lachlan Nieboer","Action, Biography, Drama",7.1
+214,Laurence Anyways,2012,168,Xavier Dolan,"Melvil Poupaud, Emmanuel Schwartz, Suzanne Clément","Drama, Romance",7.6
+215,Chained,2012,94,Jennifer Lynch,"Vincent D'Onofrio, Eamon Farren, Evan Bird","Crime, Drama, Horror",6.4
+216,Wadjda,2012,98,Haifaa Al-Mansour,"Waad Mohammed, Reem Abdullah, Abdullrahman Al Gohani","Comedy, Drama",7.5
+217,Universal Soldier: Day of Reckoning,2012,114,John Hyams,"Jean-Claude Van Damme, Dolph Lundgren, Scott Adkins","Action, Horror, Mystery",5.1
+218,Casa de mi Padre,2012,84,Matt Piedmont,"Will Ferrell, Gael García Bernal, Diego Luna","Comedy, Western",5.5
+219,Quartet,2012,98,Dustin Hoffman,"Maggie Smith, Michael Gambon, Billy Connolly","Comedy, Drama, Music",6.8
+220,So Undercover,2012,94,Tom Vaughan,"Miley Cyrus, Jeremy Piven, Mike O'Malley","Action, Adventure, Comedy",5.0
+221,Indie Game: The Movie,2012,103,"Lisanne Pajot, James Swirsky","Jonathan Blow, Brandon Boyer, Renaud Bédard","Documentary, Drama",7.6
+222,Cleanskin,2012,108,Hadi Hajaig,"Sean Bean, Charlotte Rampling, Abhin Galeya","Action, Crime, Drama",6.2
+223,Student of the Year,2012,146,"Karan Johar, Abhishek Varman","Alia Bhatt, Sidharth Malhotra, Varun Dhawan","Comedy, Drama, Music",5.3
+224,The Magic of Belle Isle,2012,109,Rob Reiner,"Morgan Freeman, Virginia Madsen, Madeline Carroll","Comedy, Drama",6.9
+225,The Apparition,2012,82,Todd Lincoln,"Ashley Greene, Sebastian Stan, Tom Felton","Horror, Thriller",4.1
+226,Big Miracle,2012,107,Ken Kwapis,"Drew Barrymore, John Krasinski, John Pingayak","Biography, Drama, Romance",6.5
+227,The ABCs of Death,2012,129,"Kaare Andrews, Angela Bettis, Hélène Cattet","Ingrid Bolsø Berdal, Iván González, Kyra Zagorsky","Comedy, Horror",4.7
+228,The Sweeney,2012,112,Nick Love,"Ray Winstone, Plan B, Hayley Atwell","Action, Crime, Drama",6.1
+229,Cockneys vs Zombies,2012,88,Matthias Hoene,"Rasmus Hardiker, Harry Treadaway, Michelle Ryan","Action, Comedy, Horror",5.9
+230,Resolution,2012,93,"Justin Benson, Aaron Moorhead","Peter Cilella, Vinny Curran, Emily Montague","Drama, Horror, Mystery",6.4
+231,Dabangg 2,2012,120,Arbaaz Khan,"Salman Khan, Sonakshi Sinha, Prakash Raj","Action, Comedy, Crime",4.8
+232,Bait,2012,93,Kimble Rendall,"Xavier Samuel, Sharni Vinson, Adrian Pang","Action, Fantasy, Horror",5.2
+233,Evangelion: 3.0 You Can (Not) Redo,2012,96,"Mahiro Maeda, Masayuki, Kazuya Tsurumaki","Megumi Ogata, Megumi Hayashibara, Yûko Miyamura","Animation, Action, Drama",6.9
+234,Grabbers,2012,94,Jon Wright,"Killian Coyle, Stuart Graham, Michael Hough","Action, Adventure, Comedy",6.3
+235,Bad Ass,2012,90,Craig Moss,"Danny Trejo, Charles S. Dutton, Ron Perlman","Action, Comedy, Crime",5.5
+236,Bel Ami,2012,102,"Declan Donnellan, Nick Ormerod","Robert Pattinson, Uma Thurman, Kristin Scott Thomas","Crime, Drama, History",5.4
+237,What's in a Name?,2012,109,"Alexandre de La Patellière, Matthieu Delaporte","Patrick Bruel, Valérie Benguigui, Charles Berling","Comedy, Drama",7.3
+238,Miss Lovely,2012,113,Ashim Ahluwalia,"Nawazuddin Siddiqui, Niharika Singh, Anil George","Crime, Drama, Romance",7.4
+239,Shahid,2012,129,Hansal Mehta,"Rajkummar Rao, Prabhleen Sandhu, Mohd. Zeeshan Ayyub","Biography, Drama",8.2
+240,The Chef,2012,84,Daniel Cohen,"Jean Reno, Michaël Youn, Raphaëlle Agogué","Comedy, Drama",6.6
+241,Smashed,2012,81,James Ponsoldt,"Mary Elizabeth Winstead, Aaron Paul, Nick Offerman",Drama,6.7
+242,Berberian Sound Studio,2012,92,Peter Strickland,"Toby Jones, Antonio Mancino, Guido Adorni","Drama, Horror, Thriller",6.2
+243,Being Flynn,2012,102,Paul Weitz,"Paul Dano, Robert De Niro, Julianne Moore",Drama,6.4
+244,A Coffee in Berlin,2012,86,Jan-Ole Gerster,"Tom Schilling, Katharina Schüttler, Justus von Dohnányi","Comedy, Drama",7.3
+245,A Hijacking,2012,103,Tobias Lindholm,"Pilou Asbæk, Søren Malling, Dar Salim","Drama, Thriller",7.1
+246,Ustad Hotel,2012,151,Anwar Rasheed,"Dulquer Salmaan, Thilakan, Siddique","Comedy, Drama",8.2
+247,Twice Born,2012,127,Sergio Castellitto,"Penélope Cruz, Emile Hirsch, Adnan Haskovic","Drama, Romance, War",7.3
+248,Nanban,2012,188,S. Shankar,"Joseph Vijay, Jiiva, Srikanth","Comedy, Drama",7.8
+249,The Brass Teapot,2012,101,Ramaa Mosley,"Juno Temple, Michael Angarano, Alexis Bledel","Comedy, Fantasy, Thriller",6.3
+250,"For a Good Time, Call...",2012,85,Jamie Travis,"Ari Graynor, Lauren Miller Rogen, Justin Long",Comedy,6.0
+251,Astérix and Obélix: God Save Britannia,2012,110,Laurent Tirard,"Gérard Depardieu, Dany Boon, Edouard Baer","Adventure, Comedy, Family",5.3
+252,Much Ado About Nothing,2012,109,Joss Whedon,"Alexis Denisof, Amy Acker, Fran Kranz","Comedy, Drama, Romance",7.0
+253,I Want You,2012,120,Fernando González Molina,"Mario Casas, Clara Lago, María Valverde","Drama, Romance",6.7
+254,Housefull 2,2012,145,Sajid Khan,"Akshay Kumar, John Abraham, Asin","Action, Comedy, Drama",5.4
+255,Barbara,2012,105,Christian Petzold,"Nina Hoss, Ronald Zehrfeld, Rainer Bock",Drama,7.2
+256,The Baytown Outlaws,2012,98,Barry Battles,"Billy Bob Thornton, Eva Longoria, Thomas Brodie-Sangster","Action, Comedy, Crime",6.3
+257,Pieta,2012,103,Kim Ki-duk,"Jo Min-soo, Lee Jung-Jin, Woo Ki-hong","Crime, Drama, Thriller",7.1
+258,Girl Most Likely,2012,103,"Shari Springer Berman, Robert Pulcini","Kristen Wiig, Annette Bening, Matt Dillon",Comedy,5.7
+259,Lore,2012,109,Cate Shortland,"Saskia Rosendahl, Kai-Peter Malina, Nele Trebs","Drama, Romance, War",7.1
+260,6 Bullets,2012,115,Ernie Barbarash,"Jean-Claude Van Damme, Joe Flanigan, Anna-Louise Plowman","Action, Crime, Drama",6.0
+261,Antiviral,2012,108,Brandon Cronenberg,"Caleb Landry Jones, Lisa Berry, Sarah Gadon","Horror, Mystery, Sci-Fi",5.7
+262,Cocktail,2012,146,Homi Adajania,"Saif Ali Khan, Deepika Padukone, Diana Penty","Comedy, Drama, Romance",6.3
+263,The Sapphires,2012,103,Wayne Blair,"Chris O'Dowd, Deborah Mailman, Jessica Mauboy","Biography, Comedy, Drama",7.0
+264,A Late Quartet,2012,105,Yaron Zilberman,"Philip Seymour Hoffman, Christopher Walken, Catherine Keener","Drama, Music",7.1
+265,The Oogieloves in the Big Balloon Adventure,2012,88,Matthew Diamond,"Jaime Pressly, Cloris Leachman, Christopher Lloyd","Adventure, Family, Fantasy",1.7
+266,Fun Size,2012,86,Josh Schwartz,"Victoria Justice, Johnny Knoxville, Chelsea Handler","Adventure, Comedy, Crime",5.4
+267,A Fantastic Fear of Everything,2012,100,"Crispian Mills, Chris Hopewell","Simon Pegg, Paul Freeman, Amara Karan","Comedy, Horror",5.8
+268,Broken,2012,91,Rufus Norris,"Charlie Booty, Lily James, Tim Roth","Drama, Romance",7.2
+269,Emperor,2012,105,Peter Webber,"Matthew Fox, Colin Moy, Tommy Lee Jones","Drama, History, War",6.5
+270,Secret of the Wings,2012,75,"Peggy Holmes, Bobs Gannaway","Mae Whitman, Lucy Hale, Timothy Dalton","Animation, Family, Fantasy",7.0
+271,Struck by Lightning,2012,90,Brian Dannelly,"Chris Colfer, Rebel Wilson, Christina Hendricks","Comedy, Drama",6.2
+272,Love Is All You Need,2012,116,Susanne Bier,"Pierce Brosnan, Trine Dyrholm, Molly Blixt Egelind","Comedy, Drama, Romance",6.5
+273,Berserk: The Golden Age Arc I - The Egg of the King,2012,76,Toshiyuki Kubooka,"Hiroaki Iwanaga, Carrie Keranen, Takahiro Sakurai","Animation, Action, Adventure",7.5
+274,Two Days in New York,2012,96,"Julie Delpy, Marie Pillet","Julie Delpy, Chris Rock, Albert Delpy","Comedy, Drama, Romance",6.0
+275,The Reluctant Fundamentalist,2012,130,Mira Nair,"Riz Ahmed, Liev Schreiber, Kiefer Sutherland","Drama, Thriller",6.8
+276,Marley,2012,144,Kevin Macdonald,"Bob Marley, Ziggy Marley, Rita Marley","Documentary, Biography, Music",7.9
+277,Stories We Tell,2012,108,Sarah Polley,"Michael Polley, John Buchan, Mark Polley",Documentary,7.5
+278,Great Expectations,2012,128,Mike Newell,"Toby Irvine, Ralph Fiennes, Jason Flemyng","Drama, Romance",6.3
+279,Katy Perry: Part of Me,2012,93,"Dan Cutforth, Jane Lipsitz","Katy Perry, Adam Marcello, Casey Hooper","Documentary, Biography, Music",6.0
+280,The Queen of Versailles,2012,100,Lauren Greenfield,"Jaqueline Siegel, David Siegel, Lorraine Barrett",Documentary,7.1
+281,Side by Side,2012,99,Christopher Kenneally,"Derek Ambrosi, Michael Ballhaus, Andrzej Bartkowiak",Documentary,7.6
+282,The Conspiracy,2012,84,Christopher MacBride,"Aaron Poole, James Gilbert, Ian Anderson","Horror, Thriller",6.2
+283,Beyond the Hills,2012,152,Cristian Mungiu,"Cosmina Stratan, Cristina Flutur, Valeriu Andriuta",Drama,7.5
+284,Like Someone in Love,2012,109,Abbas Kiarostami,"Rin Takanashi, Tadashi Okuno, Ryô Kase",Drama,7.0
+285,Shadow Dancer,2012,101,James Marsh,"Clive Owen, Andrea Riseborough, Gillian Anderson","Drama, Mystery, Thriller",6.2
+286,Populaire,2012,111,Régis Roinsard,"Romain Duris, Féodor Atkine, Déborah François","Comedy, Romance, Sport",6.8
+287,Meeting Evil,2012,89,Chris Fisher,"Luke Wilson, Samuel L. Jackson, Leslie Bibb","Crime, Drama, Mystery",5.3
+288,Aftershock,2012,89,Nicolás López,"Eli Roth, Ariel Levy, Nicolás Martínez","Action, Adventure, Drama",4.8
+289,Extracted,2012,89,Nir Paniry,"Sasha Roiz, Jenny Mollen, Dominic Bogart","Drama, Sci-Fi",6.4
+290,Berserk: The Golden Age Arc II - The Battle for Doldrey,2012,95,Toshiyuki Kubooka,"Hiroaki Iwanaga, Marc Diraison, Takahiro Sakurai","Animation, Action, Adventure",7.7
+291,Hyde Park on Hudson,2012,94,Roger Michell,"Bill Murray, Laura Linney, Olivia Williams","Biography, Comedy, Drama",5.9
+292,Confession of Murder,2012,119,Jung Byung-gil,"Jeong Jae-yeong, Park Shi-hoo, Jung Hae-kyun","Action, Crime, Mystery",7.0
+293,Foodfight!,2012,91,Lawrence Kasanoff,"Hilary Duff, Haylie Duff, Charlie Sheen","Animation, Action, Adventure",1.3
+294,Sleepwalk with Me,2012,81,"Mike Birbiglia, Seth Barrish","Mike Birbiglia, Lauren Ambrose, James Rebhorn","Comedy, Drama, Romance",6.7
+295,Lay the Favorite,2012,94,Stephen Frears,"Rebecca Hall, Bruce Willis, Vince Vaughn","Comedy, Drama, Romance",4.9
+296,Hannah Arendt,2012,113,Margarethe von Trotta,"Barbara Sukowa, Axel Milberg, Janet McTeer","Biography, Drama",7.1
+297,Starship Troopers: Invasion,2012,89,"Shinji Aramaki, Steven Foster","Luci Christian, David Matranga, Justin Doran","Animation, Action, Sci-Fi",5.8
+298,Brake,2012,92,Gabe Torres,"Stephen Dorff, Chyler Leigh, JR Bourne","Action, Thriller",6.1
+299,The Factory,2012,104,Morgan O'Neill,"John Cusack, Dallas Roberts, Vincent Messina","Crime, Mystery, Thriller",5.8
+300,Business Man,2012,133,Puri Jagannadh,"Mahesh Babu, Kajal Aggarwal, Prakash Raj","Action, Crime, Drama",7.2
+301,The Thieves,2012,135,Dong-hoon Choi,"Kim Yoon-seok, Lee Jung-jae, Kim Hye-su","Action, Comedy, Crime",6.8
+302,Transit,2012,88,Antonio Negret,"Jim Caviezel, James Frain, Elisabeth Röhm","Action, Crime, Thriller",5.8
+303,Ginger & Rosa,2012,90,Sally Potter,"Elle Fanning, Alice Englert, Annette Bening",Drama,6.2
+304,Vamps,2012,92,Amy Heckerling,"Alicia Silverstone, Krysten Ritter, Larry Wilmore","Comedy, Horror, Romance",5.3
+305,Blancanieves,2012,104,Pablo Berger,"Maribel Verdú, Emilio Gavira, Daniel Giménez Cacho","Drama, Fantasy",7.5
+306,The Seasoning House,2012,90,Paul Hyett,"Rosie Day, Sean Pertwee, Kevin Howarth","Drama, Horror, Thriller",6.1
+307,It's a Disaster,2012,88,Todd Berger,"Rachel Boston, Laura Adkin, Kevin M. Brennan","Comedy, Drama",6.4
+308,Madea's Witness Protection,2012,114,Tyler Perry,"Tyler Perry, Eugene Levy, Denise Richards","Comedy, Crime, Drama",5.0
+309,Billa II,2012,129,Chakri Toleti,"Ajith Kumar, Parvathy Omanakuttan, Bruna Abdullah","Action, Crime, Thriller",6.1
+310,Ill Manors,2012,121,Plan B,"Riz Ahmed, Sliem Ben-Salah, Ed Skrein","Crime, Drama, Music",7.1
+311,West of Memphis,2012,147,Amy Berg,"Jason Baldwin, Damien Wayne Echols, Jessie Misskelley","Documentary, Crime",7.9
+312,Son of Sardaar,2012,141,"Ashwani Dhir, Anil Devgan","Ajay Devgn, Sanjay Dutt, Sonakshi Sinha","Action, Comedy",4.3
+313,Inside,2012,107,Zeki Demirkubuz,"Engin Günaydin, Serhat Tutumluer, Nihal Yalçin",Drama,7.1
+314,About Cherry,2012,98,Stephen Elliott,"Ashley Hinshaw, James Franco, Heather Graham",Drama,4.8
+315,Drug War,2012,107,Johnnie To,"Louis Koo, Honglei Sun, Huang Yi","Action, Crime, Drama",7.0
+316,Columbus Circle,2012,82,George Gallo,"Selma Blair, Amy Smart, Kevin Pollak","Crime, Drama, Mystery",5.9
+317,2016: Obama's America,2012,87,"Dinesh D'Souza, John Sullivan","Jay Bastian, Joe Biden, Cait Brasel",Documentary,4.8
+318,The Giant Mechanical Man,2012,94,Lee Kirk,"Jenna Fischer, Chris Messina, Topher Grace","Comedy, Drama, Romance",6.6
+319,Freelancers,2012,96,Jessy Terrero,"50 Cent, Robert De Niro, Forest Whitaker","Action, Crime, Drama",4.7
+320,Wrong,2012,94,Quentin Dupieux,"Jack Plotnick, Todd Giebenhain, Eric Judor","Comedy, Mystery",6.2
+321,Interview with a Hitman,2012,96,Perry Bhandal,"Luke Goss, Caroline Tillette, Stephen Marcus","Action, Crime, Drama",5.8
+322,The Battery,2012,101,Jeremy Gardner,"Jeremy Gardner, Adam Cronheim, Niels Bolle","Adventure, Drama, Horror",6.2
+323,Truth or Die,2012,96,Robert Heath,"Tom Kane, Liam Boyle, Jack Gordon","Horror, Mystery",5.6
+324,Stitches,2012,86,Conor McMahon,"Ross Noble, Tommy Knight, Eoghan McQuinn","Comedy, Horror",5.7
+325,Tim and Eric's Billion Dollar Movie,2012,93,"Tim Heidecker, Eric Wareheim","Tim Heidecker, Eric Wareheim, Robert Loggia",Comedy,5.3
+326,Shanghai,2012,120,Dibakar Banerjee,"Abhay Deol, Emraan Hashmi, Kalki Koechlin","Crime, Drama, Mystery",7.2
+327,One Piece Film Z,2012,108,Tatsuya Nagamine,"Mayumi Tanaka, Kazuya Nakai, Akemi Okamura","Animation, Action, Adventure",7.7
+328,Paradise: Love,2012,120,Ulrich Seidl,"Margarete Tiesel, Peter Kazungu, Inge Maux",Drama,7.0
+329,Bol Bachchan,2012,155,Rohit Shetty,"Ajay Devgn, Amitabh Bachchan, Abhishek Bachchan","Action, Comedy",5.6
+330,An Awkward Sexual Adventure,2012,98,Sean Garrity,"Jonas Chernick, Emily Hampshire, Sarah Manninen","Comedy, Romance",6.1
+331,We Are Legion: The Story of the Hacktivists,2012,93,Brian Knappenberger,"Anon2World, Anonyops, Julian Assange",Documentary,7.2
+332,The Samaritan,2012,90,David Weaver,"Samuel L. Jackson, Luke Kirby, Ruth Negga","Crime, Drama, Thriller",5.6
+333,A Perfect Plan,2012,104,Pascal Chaumeil,"Diane Kruger, Dany Boon, Alice Pol","Adventure, Comedy, Romance",6.3
+334,Best Man Down,2012,89,Ted Koland,"Justin Long, Jess Weixler, Tyler Labine","Comedy, Drama",6.4
+335,Starlet,2012,103,Sean Baker,"Dree Hemingway, Besedka Johnson, Boonee",Drama,7.0
+336,Black Rock,2012,83,Katie Aselton,"Katie Aselton, Lake Bell, Kate Bosworth","Horror, Thriller",4.8
+337,Smiley,2012,95,Michael J. Gallagher,"Caitlin Gerard, Melanie Papalia, Shane Dawson","Horror, Mystery, Thriller",3.3
+338,Silent Night,2012,94,Steven C. Miller,"Malcolm McDowell, Jaime King, Donal Logue","Comedy, Horror, Mystery",5.2
+339,Turkish for Beginners,2012,105,Bora Dagtekin,"Josefine Preuß, Elyas M'Barek, Anna Stieblich","Adventure, Comedy",5.8
+340,Eden,2012,98,Megan Griffiths,"Jamie Chung, Beau Bridges, Matt O'Leary","Crime, Drama, Thriller",6.6
+341,Mac & Devin Go to High School,2012,75,Dylan C. Brown,"Snoop Dogg, Wiz Khalifa, Mike Epps",Comedy,4.4
+342,StreetDance 2,2012,85,"Max Giwa, Dania Pasquini","Falk Hentschel, Sofia Boutella, George Sampson","Drama, Music, Romance",5.6
+343,Dark Tide,2012,114,John Stockwell,"Halle Berry, Olivier Martinez, Ralph Brown","Action, Adventure, Drama",4.3
+344,Out in the Dark,2012,96,Michael Mayer,"Nicholas Jacob, Michael Aloni, Jameel Khoury","Crime, Drama, Romance",7.5
+345,The Liability,2012,82,Craig Viveiros,"Tim Roth, Jack O'Connell, Peter Mullan","Comedy, Crime, Thriller",5.9
+346,Tad: The Lost Explorer,2012,92,Enrique Gato,"Óscar Barberán, Michelle Jenner, José Mota","Animation, Adventure, Comedy",5.9
+347,Branded,2012,106,"Jamie Bradshaw, Aleksandr Dulerayn","Ed Stoppard, Leelee Sobieski, Jeffrey Tambor","Drama, Fantasy, Sci-Fi",4.6
+348,A Werewolf Boy,2012,127,Sung-hee Jo,"Song Joong-ki, Park Bo-young, Lee Yeong-ran","Drama, Fantasy, Romance",7.2
+349,"Farewell, My Queen",2012,100,Benoît Jacquot,"Léa Seydoux, Diane Kruger, Virginie Ledoyen","Drama, History, Romance",6.2
+350,Pizza,2012,127,Karthik Subbaraj,"Vijay Sethupathi, Ramya Nambeeshan, Aadukalam Naren","Horror, Mystery, Thriller",7.9
+351,Neighboring Sounds,2012,131,Kleber Mendonça Filho,"Ana Rita Gurgel, Caio Almeida, Maeve Jinkings","Drama, Thriller",7.1
+352,Easy Money II: Hard to Kill,2012,99,"Babak Najafi, Phillip Argeadson","Joel Kinnaman, Matias Varela, Dragomir Mrsic","Action, Crime, Drama",6.3
+353,Lola Versus,2012,87,Daryl Wein,"Greta Gerwig, Zoe Lister-Jones, Hamish Linklater",Comedy,5.5
+354,Joyful Noise,2012,118,Todd Graff,"Queen Latifah, Dolly Parton, Keke Palmer","Comedy, Drama, Music",5.7
+355,The Babymakers,2012,95,Jay Chandrasekhar,"Paul Schneider, Olivia Munn, Kevin Heffernan",Comedy,5.0
+356,The Suicide Shop,2012,79,Patrice Leconte,"Bernard Alane, Isabelle Spade, Kacey Mottet Klein","Animation, Comedy, Musical",6.2
+357,Chasing Ice,2012,75,Jeff Orlowski-Yang,"James Balog, Svavar Jónatansson, Louie Psihoyos","Documentary, Biography",7.7
+358,Hamilton: In the Interest of the Nation,2012,109,Kathrine Windfeld,"Mikael Persbrandt, Saba Mubarak, Pernilla August","Action, Drama, Thriller",6.3
+359,The Players,2012,109,"Emmanuelle Bercot, Fred Cavayé, Alexandre Courtès","Jean Dujardin, Gilles Lellouche, Géraldine Nakache","Comedy, Drama",5.3
+360,Road to Ninja - Naruto the Movie,2012,109,Hayato Date,"Junko Takeuchi, Chie Nakamura, Toshiyuki Morikawa","Animation, Action, Adventure",7.6
+361,The Hypnotist,2012,122,Lasse Hallström,"Tobias Zilliacus, Mikael Persbrandt, Lena Olin","Crime, Drama, Thriller",5.6
+362,What If...,2012,111,Christopher Papakaliatis,"Christopher Papakaliatis, Marina Kalogirou, Giorgos Konstadinou","Drama, Romance",6.9
+363,Small Apartments,2012,96,Jonas Åkerlund,"Matt Lucas, Peter Stormare, James Caan","Comedy, Crime, Drama",6.1
+364,Gallowwalkers,2012,92,Andrew Goth,"Wesley Snipes, Kevin Howarth, Riley Smith","Action, Adventure, Fantasy",3.6
+365,Ishaqzaade,2012,120,Habib Faisal,"Arjun Kapoor, Parineeti Chopra, Gauahar Khan","Action, Drama, Romance",6.5
+366,Good Deeds,2012,110,Tyler Perry,"Tyler Perry, Gabrielle Union, Thandiwe Newton","Drama, Romance",5.7
+367,A.C.A.B. - All Cops Are Bastards,2012,112,Stefano Sollima,"Pierfrancesco Favino, Filippo Nigro, Marco Giallini","Action, Crime, Drama",6.6
+368,The Third Half,2012,113,Darko Mitrevski,"Katarina Ivanovska, Sasko Kocev, Richard Sammel","Drama, History, Romance",7.4
+369,Khiladi 786,2012,141,Ashish R. Mohan,"Akshay Kumar, Asin, Mithun Chakraborty","Action, Comedy, Romance",4.4
+370,Cirque du Soleil: Worlds Away,2012,91,Andrew Adamson,"Erica Linz, Igor Zaripov, Lutz Halbhubner",Fantasy,6.8
+371,Agent Vinod,2012,157,Sriram Raghavan,"Saif Ali Khan, Kareena Kapoor, Rajat Kapoor","Action, Adventure, Thriller",5.2
+372,After Porn Ends,2012,94,Bryce Wagoner,"Amber Lynn, Asia Carrera, Bobby Slayton",Documentary,5.7
+373,The Central Park Five,2012,119,"Ken Burns, Sarah Burns, David McMahon","Antron McCray, Kevin Richardson, Kharey Wise","Documentary, Crime, History",7.7
+374,At Any Price,2012,105,Ramin Bahrani,"Dennis Quaid, Zac Efron, Kim Dickens","Drama, Sport, Thriller",5.6
+375,Unfinished Song,2012,90,Paul Andrew Williams,"Terence Stamp, Gemma Arterton, Christopher Eccleston","Comedy, Drama, Music",6.9
+376,Ship of Theseus,2012,140,Anand Gandhi,"Aydah El-Kashef, Yogesh Shah, Faraz Khan",Drama,8.0
+377,Arthur Newman,2012,101,Dante Ariola,"Colin Firth, Emily Blunt, Anne Heche","Comedy, Drama",5.6
+378,De marathon,2012,107,Diederick Koopal,"Stefan de Walle, Martin van Waardenberg, Marcel Hensema","Comedy, Drama, Sport",7.5
+379,Adventures in Zambezia,2012,83,Wayne Thornley,"Leonard Nimoy, Jeremy Suarez, Abigail Breslin","Animation, Adventure, Comedy",5.7
+380,Paulette,2012,87,Jérôme Enrico,"Bernadette Lafont, Carmen Maura, Dominique Lavanant","Comedy, Crime",6.6
+381,Tabu,2012,118,Miguel Gomes,"Telmo Churro, Miguel Gomes, Hortêncílio Aquina","Drama, Romance",7.3
+382,Atlas Shrugged II: The Strike,2012,111,John Putch,"Samantha Mathis, Jason Beghe, Esai Morales","Drama, Mystery, Sci-Fi",5.3
+383,Masquerade,2012,131,Choo Chang-min,"Lee Byung-hun, Ryu Seung-ryong, Han Hyo-joo","Drama, History",7.8
+384,The Pervert's Guide to Ideology,2012,136,Sophie Fiennes,Slavoj Zizek,Documentary,7.6
+385,The Wall,2012,108,Julian Pölsler,"Martina Gedeck, Luchs von Kyffhäuserbach, Karlheinz Hackl","Drama, Mystery, Sci-Fi",6.7
+386,Why Stop Now?,2012,85,"Phil Dorling, Ron Nyswaner","Jesse Eisenberg, Melissa Leo, Tracy Morgan","Comedy, Drama",5.5
+387,War Witch,2012,90,Kim Nguyen,"Rachel Mwanza, Alain Lino Mic Eli Bastien, Serge Kanyinda","Drama, War",7.0
+388,Nameless Gangster: Rules of the Time,2012,134,Yoon Jong-bin,"Choi Min-sik, Ha Jung-woo, Cho Jin-woong","Action, Crime, Drama",7.0
+389,Soldiers of Fortune,2012,94,Maksim Korostyshevsky,"Christian Slater, Sean Bean, Ving Rhames","Action, Thriller",4.3
+390,All You Can Dream,2012,79,Valerio Zanoli,"Anastacia, Hali Mason, Laural Merlington","Comedy, Drama, Family",4.1
+391,Storage 24,2012,87,Johannes Roberts,"Noel Clarke, Colin O'Donoghue, Antonia Campbell-Hughes","Horror, Sci-Fi",4.5
+392,Beyond Outrage,2012,110,Takeshi Kitano,"Toshiyuki Nishida, Tomokazu Miura, Takeshi Kitano","Action, Crime, Drama",6.7
+393,Maximum Conviction,2012,98,Keoni Waxman,"Steven Seagal, Steve Austin, Michael Paré","Action, Thriller",4.7
+394,Gabbar Singh,2012,153,Harish Shankar,"Pawan Kalyan, Shruti Haasan, Abhimanyu Singh","Action, Comedy",7.1
+395,Rhino Season,2012,88,Bahman Ghobadi,"Behrouz Vossoughi, Monica Bellucci, Yilmaz Erdogan","Drama, Thriller",6.3
+396,Clip,2012,102,Maja Milos,"Isidora Simijonovic, Vukasin Jasnic, Sanja Mikitisin",Drama,5.6
+397,Elevator,2012,84,Stig Svendsen,"Christopher Backus, Aníta Briem, John Getz","Horror, Thriller",5.3
+398,Berlin Kaplani,2012,98,Hakan Algül,"Ata Demirer, Tarik Ünlüoglu, Necati Bilgiç","Comedy, Sport",5.2
+399,Citadel,2012,84,Ciarán Foy,"Aneurin Barnard, James Cosmo, Wunmi Mosaku","Drama, Horror, Thriller",5.5
+400,Sister,2012,97,Ursula Meier,"Léa Seydoux, Kacey Mottet Klein, Martin Compston","Crime, Drama",7.0
+401,Ek Main Aur Ekk Tu,2012,110,Shakun Batra,"Kareena Kapoor, Imran Khan, Boman Irani","Comedy, Drama, Romance",5.8
+402,The Invisible War,2012,93,Kirby Dick,"Amy Ziering, Kirby Dick, Kori Cioca","Documentary, Crime",7.6
+403,Maattrraan,2012,165,K.V. Anand,"Suriya, Kajal Aggarwal, Sachin Khedekar","Action, Sci-Fi, Thriller",6.2
+404,After Lucia,2012,103,Michel Franco,"Tessa Ia, Hernán Mendoza, Gonzalo Vega Jr.",Drama,7.1
+405,Save the Date,2012,97,Michael Mohan,"Lizzy Caplan, Alison Brie, Mark Webber","Comedy, Romance",5.7
+406,Girl in Progress,2012,93,Patricia Riggen,"Eva Mendes, Cierra Ramirez, Patricia Arquette","Comedy, Drama",5.6
+407,The Tower,2012,121,Kim Ji-hoon,"Kim Sang-kyung, Sul Kyung-gu, Son Ye-jin","Action, Drama, Thriller",6.5
+408,Haute Cuisine,2012,95,Christian Vincent,"Catherine Frot, Arthur Dupont, Jean d'Ormesson","Biography, Comedy",6.4
+409,El Gringo,2012,99,Eduardo Rodriguez,"Scott Adkins, Petar Bachvarov, Zachary Baharov","Action, Drama",5.4
+410,Julayi,2012,160,Trivikram Srinivas,"Allu Arjun, Ileana D'Cruz, Rajendra Prasad","Action, Comedy, Crime",7.3
+411,Lesson of the Evil,2012,129,Takashi Miike,"Takehiro Hira, Fumi Nikaidô, Takayuki Yamada","Horror, Thriller",6.6
+412,Sag Salim,2012,98,Ersoy Güler,"Burçin Bildik, Fulya Zenginer, Alper Saldiran",Comedy,6.3
+413,Won't Back Down,2012,121,Daniel Barnz,"Viola Davis, Maggie Gyllenhaal, Holly Hunter",Drama,6.4
+414,Caesar Must Die,2012,77,"Paolo Taviani, Vittorio Taviani","Cosimo Rega, Salvatore Striano, Giovanni Arcuri",Drama,7.3
+415,Fateful Findings,2012,100,Neil Breen,"Neil Breen, Klara Landrat, Jennifer Autry","Comedy, Drama, Fantasy",4.2
+416,How to Make Money Selling Drugs,2012,96,Matthew Cooke,"'Freeway' Ricky Ross, Susan Sarandon, David Simon","Documentary, Crime",7.6
+417,3,2012,145,Aishwarya Rajinikanth,"Dhanush, Shruti Haasan, Prabhu","Drama, Mystery, Romance",7.4
+418,Sparkle,2012,116,Salim Akil,"Jordin Sparks, Carmen Ejogo, Whitney Houston","Drama, Music",5.8
+419,A Company Man,2012,96,"Sang-yoon Lim, Im Sang Yoon","So Ji-seob, Lee Mi-yeon, Kwak Do-won","Action, Crime, Drama",6.6
+420,Imaginaerum,2012,86,"Stobe Harju, Mark Roper","Francis X. McCarthy, Glenda Braganza, Helene Robbie","Drama, Fantasy, Musical",6.1
+421,Any Day Now,2012,98,Travis Fine,"Alan Cumming, Garret Dillahunt, Isaac Leyva",Drama,7.4
+422,Hello I Must Be Going,2012,95,Todd Louiso,"Melanie Lynskey, Christopher Abbott, Blythe Danner","Comedy, Drama, Romance",6.2
+423,Naduvula Konjam Pakkatha Kaanom,2012,155,Balaji Tharaneetharan,"Vijay Sethupathi, Gayathrie, Bagavathi Perumal","Comedy, Drama",8.2
+424,Marina Abramovic: The Artist Is Present,2012,106,"Matthew Akers, Jeff Dupre","Marina Abramovic, Ulay, Klaus Biesenbach","Documentary, Biography, History",7.8
+425,Dragon Eyes,2012,91,John Hyams,"Cung Le, Jean-Claude Van Damme, Johnny Holmes","Action, Crime, Drama",4.4
+426,7 Boxes,2012,105,"Juan Carlos Maneglia, Tana Schémbori","Celso Franco, Víctor Sosa, Lali Gonzalez","Adventure, Crime, Drama",7.1
+427,Unit 7,2012,96,Alberto Rodríguez,"Inma Alcántara, Andrés Blanco, Javier Berger","Action, Crime, Drama",6.5
+428,A Dark Truth,2012,106,Damian Lee,"Andy Garcia, Kim Coates, Deborah Kara Unger","Action, Drama, Thriller",5.6
+429,Nitro Circus: The Movie,2012,92,"Gregg Godfrey, Jeremy Rawle","Travis Pastrana, Tommy Passemante, Jeremy Rawle","Documentary, Action, Comedy",6.6
+430,After,2012,90,Ryan Whitaker,"Steven Strait, Karolina Wydra, Madison Lintz","Drama, Fantasy, Horror",5.4
+431,Wish You Were Here,2012,89,Kieran Darcy-Smith,"Joel Edgerton, Teresa Palmer, Felicity Price","Drama, Mystery, Thriller",5.9
+432,Electrick Children,2012,96,Rebecca Thomas,"Julia Garner, Liam Aiken, Billy Zane",Drama,6.7
+433,Evim Sensin,2012,91,Özcan Deniz,"Özcan Deniz, Fahriye Evcen Özçivit, Sait Genay","Drama, Fantasy, Romance",5.0
+434,Jannat 2,2012,150,Kunal Deshmukh,"Emraan Hashmi, Randeep Hooda, Esha Gupta","Crime, Drama, Thriller",6.3
+435,Keep the Lights On,2012,101,Ira Sachs,"Thure Lindhardt, Zachary Booth, Julianne Nicholson","Drama, Romance",6.4
+436,A Long Story,2012,125,Osman Sinav,"Kenan Imirzalioglu, Tugçe Kazaz, Mustafa Alabora",Drama,7.5
+437,Thale,2012,76,Aleksander Nordaas,"Silje Reinåmo, Erlend Nervold, Jon Sigve Skard","Drama, Fantasy, Horror",5.5
+438,Apartment 1303 3D,2012,85,Michael Taverna,"Mischa Barton, Julianne Michelle, Rebecca De Mornay",Horror,2.5
+439,On the Other Side of the Tracks,2012,96,David Charhon,"Omar Sy, Laurent Lafitte, Sabrina Ouazani","Action, Comedy, Crime",5.8
+440,Somebody's Hero,2012,81,Darin Beckstead,"Christopher Gorham, Susan Misner, Novella Nelson","Comedy, Drama, Family",5.1
+441,Bekas,2012,97,Karzan Kader,"Zamand Taha, Sarwar Fazil, Diya Mariwan","Adventure, Drama",7.5
+442,Joker,2012,104,Shirish Kunder,"Akshay Kumar, Sonakshi Sinha, Shreyas Talpade","Comedy, Family, Sci-Fi",2.5
+443,Thunderstruck,2012,94,John Whitesell,"Kevin Durant, Taylor Gray, Jim Belushi","Comedy, Family, Fantasy",5.1
+444,Ferrari Ki Sawaari,2012,140,Rajesh Mapuskar,"Sharman Joshi, Boman Irani, Ritvik Sahore","Comedy, Drama, Family",6.4
+445,Renoir,2012,111,Gilles Bourdos,"Michel Bouquet, Christa Théret, Vincent Rottiers","Biography, Drama, History",6.5
+446,Post Tenebras Lux,2012,115,Carlos Reygadas,"Nathalia Acevedo, Adolfo Jiménez Castro, Rut Reygadas",Drama,6.5
+447,The Dinosaur Project,2012,83,Sid Bennett,"Richard Dillane, Peter Brooke, Matt Kane","Action, Adventure, Drama",4.5
+448,Me and You,2012,103,Bernardo Bertolucci,"Jacopo Olmo Antinori, Tea Falco, Sonia Bergamasco",Drama,6.5
+449,Television,2012,106,Mostofa Sarwar Farooki,"Shahir Huda Rumi, Chanchal Chowdhury, Nusrat Imrose Tisha","Comedy, Drama, Family",8.2
+450,The Gatekeepers,2012,101,Dror Moreh,"Ami Ayalon, Avraham Shalom, Avi Dichter","Documentary, History, War",7.6
+451,In Their Skin,2012,97,Jeremy Power Regimbal,"Selma Blair, Joshua Close, James D'Arcy","Horror, Thriller",5.3
+452,Reality,2012,116,Matteo Garrone,"Aniello Arena, Paola Minaccioni, Loredana Simioli","Comedy, Drama",6.8
+453,The Deep,2012,95,Baltasar Kormákur,"Ólafur Darri Ólafsson, Stefán Hallur Stefánsson, Joi Johannsson","Action, Drama",6.6
+454,Found,2012,103,Scott Schirmer,"Gavin Brown, Ethan Philbeck, Phyllis Munro","Drama, Horror, Thriller",5.8
+455,Tower Block,2012,90,"David Beton, James Nunn","Sheridan Smith, Jamie Thomas King, Jack O'Connell",Thriller,5.9
+456,A Glimpse Inside the Mind of Charles Swan III,2012,86,Roman Coppola,"Charlie Sheen, Jason Schwartzman, Bill Murray",Comedy,4.6
+457,Outpost: Black Sun,2012,101,Steve Barker,"Catherine Steadman, Richard Coyle, Daniel Caltagirone","Action, Horror, Sci-Fi",4.9
+458,Good Vibrations,2012,103,"Lisa Barros D'Sa, Glenn Leyburn","Cathal Maguire, Peter Kelly, Charlie Berkeley","Biography, Drama, Music",7.2
+459,Capital,2012,114,Costa-Gavras,"Gad Elmaleh, Gabriel Byrne, Liya Kebede",Drama,6.5
+460,Happiness Never Comes Alone,2012,110,James Huth,"Gad Elmaleh, Sophie Marceau, Maurice Barthélémy","Comedy, Romance",6.5
+461,The Patience Stone,2012,102,Atiq Rahimi,"Golshifteh Farahani, Hamid Djavadan, Hassina Burgan","Drama, War",7.1
+462,Sand Sharks,2012,91,Mark Atkins,"Corin Nemec, Brooke Hogan, Vanessa Evigan","Action, Adventure, Comedy",2.6
+463,White Elephant,2012,105,Pablo Trapero,"Ricardo Darín, Jérémie Renier, Martina Gusmán","Crime, Drama",6.5
+464,Two Rabbits,2012,101,Afonso Poyart,"Fernando Alves Pinto, Alessandra Negrini, Caco Ciocler","Action, Crime, Drama",7.3
+465,A Magnificent Haunting,2012,105,Ferzan Özpetek,"Elio Germano, Margherita Buy, Vittoria Puccini","Comedy, Drama, Fantasy",6.6
+466,The Scapegoat,2012,108,Charles Sturridge,"Matthew Rhys, Eileen Atkins, Anton Lesser",Drama,7.2
+467,Sen Kimsin?,2012,101,Ozan Açiktan,"Tolga Çevik, Köksal Engür, Pelin Körmükçü",Comedy,5.0
+468,Evidence,2012,78,Howie Askins,"Ryan McCoy, Brett Rosenberg, Ashley Bracken","Horror, Sci-Fi",5.0
+469,The Summit,2012,95,Nick Ryan,"Christine Barnes, Hoselito Bite, Walter Bonatti",Documentary,6.8
+470,Dracula 3D,2012,110,Dario Argento,"Thomas Kretschmann, Marta Gastini, Asia Argento","Drama, Horror, Romance",3.6
+471,Kiss of the Damned,2012,97,Xan Cassavetes,"Joséphine de La Baume, Ching Valdes-Aran, Milo Ventimiglia","Drama, Horror, Romance",5.5
+472,In Montauk,2012,69,Kim Cummings,"Nina Kaczorowski, Lukas Hassel, George Katt","Drama, Romance",4.7
+473,The Comedy,2012,95,Rick Alverson,"Tim Heidecker, Eric Wareheim, James Murphy",Drama,6.3
+474,When the Lights Went Out,2012,86,Pat Holden,"Kate Ashfield, Steven Waddington, Craig Parkinson",Horror,5.3
+475,Sushi Girl,2012,98,Kern Saxton,"Neal Fischer, Cortney Palm, Tony Todd","Crime, Mystery, Thriller",6.0
+476,Paradise: Faith,2012,115,Ulrich Seidl,"Maria Hofstätter, Nabil Saleh, René Rupnik",Drama,6.7
+477,For Greater Glory: The True Story of Cristiada,2012,145,Dean Wright,"Andy Garcia, Oscar Isaac, Catalina Sandino Moreno","Drama, History, War",6.6
+478,Goats,2012,94,Christopher Neil,"David Duchovny, Vera Farmiga, Graham Phillips",Comedy,5.8
+479,The House I Live In,2012,98,Eugene Jarecki,"Eugene Jarecki, David Simon, Shanequa Benitez","Documentary, Crime",7.9
+480,What Richard Did,2012,88,Lenny Abrahamson,"Jack Reynor, Fionn Ó Loingsigh, Gavin Drea",Drama,6.3
+481,Angels of Sex,2012,105,Xavier Villaverde,"Astrid Bergès-Frisbey, Álvaro Cervantes, Llorenç González","Drama, Romance",6.4
+482,Not Suitable for Children,2012,97,Peter Templeman,"Ryan Kwanten, Sarah Snook, Ryan Corr","Comedy, Romance",5.8
+483,Tai Chi Zero,2012,98,Stephen Fung,"Fung Hak-On, Xiaochao Yuan, Stephen Fung","Action, Adventure, Drama",6.0
+484,The Courier,2012,95,Hany Abu-Assad,"Jeffrey Dean Morgan, Josie Ho, Til Schweiger","Action, Crime, Drama",4.5
+485,Cold War,2012,102,"Lok Man Leung, Kim-Ching Luk","Aaron Kwok, Tony Ka Fai Leung, Charlie Yeung","Action, Crime, Mystery",6.6
+486,Red Sheep,2012,112,Amos McKay,"George Katt, Jonathan Regier, Sarah Taurchini","Drama, Fantasy, Thriller",6.4
+487,Nobody Walks,2012,83,Ry Russo-Young,"John Krasinski, Olivia Thirlby, Rosemarie DeWitt",Drama,5.3
+488,Traffic Department,2012,118,Wojciech Smarzowski,"Bartlomiej Topa, Arkadiusz Jakubik, Julia Kijowska","Crime, Drama",7.3
+489,"3, 2, 1... Frankie Go Boom",2012,89,Jordan Roberts,"Charlie Hunnam, Chris O'Dowd, Lizzy Caplan",Comedy,5.9
+490,Players,2012,163,"Abbas Alibhai Burmawalla, Mastan Alibhai Burmawalla","Vinod Khanna, Abhishek Bachchan, Bobby Deol","Action, Crime, Thriller",4.3
+491,Mental,2012,116,P.J. Hogan,"Toni Collette, Anthony LaPaglia, Liev Schreiber","Comedy, Drama",6.1
+492,Playback,2012,98,Michael A. Nickles,"Christian Slater, Ambyr Childers, Toby Hemingway","Horror, Mystery, Thriller",4.3
+493,Simon Killer,2012,106,Antonio Campos,"Brady Corbet, Mati Diop, Lila Salet","Drama, Horror, Thriller",6.3
+494,A Perfect Ending,2012,110,Nicole Conn,"Barbara Niven, Bryan Mordechai Jackson, Jessica Clark","Drama, Romance",5.6
+495,White Tiger,2012,104,Karen Shakhnazarov,"Aleksey Vertkov, Vitaliy Kishchenko, Valeriy Grishko","Action, Adventure, Fantasy",6.1
+496,Breaking Wind,2012,82,Craig Moss,"Heather Ann Davis, Eric Callero, Frank Pacheco",Comedy,2.3
+497,SOMM,2012,94,Jason Wise,"Bo Barrett, Shayn Bjornholm, Dave Cauble",Documentary,7.0
+498,One in the Chamber,2012,91,William Kaufman,"Cuba Gooding Jr., Dolph Lundgren, Claudia Bassols","Action, Thriller",5.1
+499,Jurassic Shark,2012,78,Brett Kelly,"Emanuelle Carriere, Christine Emes, Celine Filion","Action, Adventure, Comedy",1.5
+500,Offender,2012,102,Ron Scalpello,"Joe Cole, English Frank, Kimberley Nixon","Crime, Drama, Thriller",6.0
+501,Pusher,2012,89,Luis Prieto,"Richard Coyle, Bronson Webb, Agyness Deyn","Crime, Thriller",5.5
+502,Call Girl,2012,140,Mikael Marcimain,"Sofia Karemyr, Simon J. Berger, Josefin Asplund","Drama, Thriller",6.5
+503,Not Fade Away,2012,112,David Chase,"John Magaro, Jack Huston, Will Brill",Drama,6.0
+504,Unconditional,2012,92,Brent Mccorkle,"Lynn Collins, Michael Ealy, Bruce McGill","Biography, Crime, Drama",7.0
+505,Sexual Chronicles of a French Family,2012,85,"Pascal Arnold, Jean-Marc Barr","Mathias Melloul, Valérie Maës, Stephan Hersoen","Comedy, Drama, Romance",5.2
+506,The Forger,2012,94,Lawrence Roeck,"Lauren Bacall, Josh Hutcherson, Alfred Molina","Drama, Family, Mystery",5.3
+507,The Barrens,2012,94,Darren Lynn Bousman,"Stephen Moyer, Mia Kirshner, Allie MacDonald",Horror,4.6
+508,"Guns, Girls and Gambling",2012,90,Michael Winnick,"Christian Slater, Powers Boothe, Dane Cook","Crime, Thriller",5.5
+509,Escape,2012,78,Roar Uthaug,"Isabel Christine Andreasen, Ingrid Bolsø Berdal, Milla Olin","Adventure, Drama, History",6.1
+510,Teddy Bear,2012,92,Mads Matthiesen,"Kim Kold, Elsebeth Steentoft, Lamaiporn Sangmanee Hougaard","Drama, Romance",7.1
+511,In the Gray,2012,122,Rob Holloway,"George Katt, Lee Arenberg, Chad Lindberg","Crime, Drama",6.5
+512,100 Bloody Acres,2012,91,"Cameron Cairnes, Colin Cairnes","Oliver Ackland, Paul Blackwell, Ward Everaardt","Comedy, Horror",6.0
+513,Something in the Air,2012,122,Olivier Assayas,"Clément Métayer, André Marcon, Lola Créton",Drama,6.4
+514,The Devil's Carnival,2012,56,Darren Lynn Bousman,"Sean Patrick Flanery, Briana Evigan, Jessica Lowndes","Horror, Musical",5.9
+515,Delta Zulu,2012,121,Chris Hickey,"George Katt, Chris Rymer, Stephen Brou","Action, Drama, War",5.6
+516,Blood,2012,92,Nick Murphy,"Paul Bettany, Stephen Graham, Brian Cox","Crime, Drama, Mystery",6.0
+517,Still Mine,2012,102,Michael McGowan,"James Cromwell, Ronan Rees, Geneviève Bujold",Drama,7.4
+518,Tere Naal Love Ho Gaya,2012,130,Mandeep Kumar,"Riteish Deshmukh, Genelia Deshmukh, Om Puri","Comedy, Drama, Romance",5.9
+519,The Haunting of Helena,2012,84,"Christian Bisceglia, Ascanio Malgarini","Harriet MacMasters-Green, Sabrina Jolie Perez, Jarreth J. Merz","Horror, Thriller",4.6
+520,The Last Will and Testament of Rosalind Leigh,2012,82,Rodrigo Gudiño,"Aaron Poole, Vanessa Redgrave, Julian Richings","Horror, Mystery, Thriller",5.1
+521,Artifact,2012,103,Jared Leto,"Jared Leto, Shannon Leto, Tomo Milicevic","Documentary, Music",7.9
+522,Heroine,2012,149,Madhur Bhandarkar,"Kareena Kapoor, Arjun Rampal, Randeep Hooda",Drama,5.0
+523,Nativity 2: Danger in the Manger!,2012,105,Debbie Isitt,"David Tennant, Marc Wootton, Jason Watkins","Comedy, Family",5.4
+524,The Attack,2012,102,Ziad Doueiri,"Ali Suliman, Reymonde Amsellem, Evgenia Dodina","Crime, Drama, Mystery",7.1
+525,Mine Games,2012,92,Richard Gray,"Joseph Cross, Briana Evigan, Rafi Gavron","Horror, Mystery, Thriller",5.3
+526,Thattathin Marayathu,2012,127,Vineeth Sreenivasan,"Nivin Pauly, Isha Talwar, Manoj K. Jayan","Drama, Romance",7.5
+527,The Package,2012,95,Jesse V. Johnson,"Steve Austin, Dolph Lundgren, Eric Keenleyside","Action, Crime, Thriller",5.0
+528,Here Comes the Devil,2012,97,Adrian Garcia Bogliano,"Laura Caro, Francisco Barreiro, Michele García","Horror, Thriller",5.6
+529,Welcome to the North,2012,110,Luca Miniero,"Claudio Bisio, Alessandro Siani, Angela Finocchiaro",Comedy,5.4
+530,Ai Weiwei: Never Sorry,2012,91,Alison Klayman,"Ai Weiwei, Dan Ai, Lao Ai",Documentary,7.5
+531,Mr. Pip,2012,116,Andrew Adamson,"Hugh Laurie, Xzannjah Matsi, Healesville Joel","Drama, War",7.1
+532,Dabbe: Demon Possession,2012,119,Hasan Karacadag,"Elçin Atamgüç, Nihan Aypolat, Pervin Bagdat",Horror,5.7
+533,Bhooter Bhabishyat,2012,123,Anik Datta,"Swastika Mukherjee, Parambrata Chattopadhyay, Sabyasachi Chakrabarty","Comedy, Fantasy, Horror",8.1
+534,Schutzengel,2012,130,Til Schweiger,"Numan Acar, Volker Albers, Loyd Bateman","Action, Crime, Drama",5.7
+535,How to Survive a Plague,2012,110,David France,"Peter Staley, Larry Kramer, Iris Long","Documentary, History, News",7.6
+536,Spike Island,2012,105,Mat Whitecross,"Elliott Tittensor, Nico Mirallegro, Adam Long","Comedy, Drama, Music",6.3
+537,HOUBA! On the Trail of the Marsupilami,2012,105,Alain Chabat,"Jamel Debbouze, Alain Chabat, Fred Testot","Adventure, Comedy, Family",5.5
+538,B.A. Pass,2012,95,Ajay Bahl,"Shadab Kamal, Shilpa Shukla, Rajesh Sharma","Crime, Drama, Thriller",6.3
+539,Black's Game,2012,104,Óskar Thór Axelsson,"Thorvaldur Kristjansson, Jóhannes Haukur Jóhannesson, Damon Younger","Crime, Thriller",6.7
+540,Generation Um...,2012,97,Mark Mann,"Keanu Reeves, Bojana Novakovic, Adelaide Clemens",Drama,3.9
+541,Dead Before Dawn 3D,2012,88,April Mullen,"Devon Bostick, Martha MacIsaac, Christopher Lloyd","Adventure, Comedy, Horror",4.6
+542,Conquering the Rose,2012,100,J. Michael Whalen,"George Katt, Kera O'Bryon, Ian Novick",Drama,6.1
+543,Keith Lemon: The Film,2012,85,Paul Angunawela,"Leigh Francis, Kelly Brook, Laura Aikman",Comedy,2.6
+544,Architecture 101,2012,118,Lee Yong-ju,"Uhm Tae-woong, Han Ga-in, Lee Je-hoon","Drama, Romance",7.2
+545,Family Way,2012,132,Joram Lürsen,"Carice van Houten, Thijs Römer, Benja Bruijning","Comedy, Drama, Romance",6.6
+546,Saints and Soldiers: Airborne Creed,2012,94,Ryan Little,"Rick Macy, Lincoln Hoppe, Ryan Gale","Action, Drama, War",5.7
+547,More Than Honey,2012,95,Markus Imhoof,"Fred Jaggi, Randolf Menzel, John Miller",Documentary,7.5
+548,Aftermath,2012,107,Wladyslaw Pasikowski,"Ireneusz Czop, Jerzy Szymkiewi, Wojciech Walasik","Drama, Fantasy, Thriller",7.3
+549,Teri Meri Kahaani,2012,117,Kunal Kohli,"Shahid Kapoor, Priyanka Chopra Jonas, Prachi Desai","Comedy, Drama, Romance",4.9
+550,Kyaa Super Kool Hain Hum,2012,136,Sachin Yardi,"Riteish Deshmukh, Tusshar Kapoor, Neha Sharma",Comedy,5.0
+551,What the Day Owes the Night,2012,162,Alexandre Arcady,"Nora Arnezeder, Fu'ad Aït Aattou, Anne Parillaud","Drama, Romance",7.8
+552,Wasteland,2012,108,Rowan Athale,"Iwan Rheon, Luke Treadaway, Gerard Kearns","Crime, Drama, Thriller",6.5
+553,Cool Kids Don't Cry,2012,96,Dennis Bots,"Hanna Obbeek, Nils Verkooijen, Fiona Livingston","Drama, Family, Sport",7.4
+554,Raaz 3,2012,139,Vikram Bhatt,"Bipasha Basu, Emraan Hashmi, Esha Gupta","Horror, Romance, Thriller",4.2
+555,7 Below,2012,92,Kevin Carraway,"Val Kilmer, Ving Rhames, Luke Goss","Horror, Thriller",3.1
+556,Papadopoulos & Sons,2012,105,Marcus Markou,"Carl Rice, Stephen Dillane, Selina Cadell","Comedy, Drama",5.9
+557,Çakallarla Dans 2: Hastasiyiz Dede,2012,101,Murat Seker,"Sevket Çoruh, Ilker Ayrik, Timur Acar",Comedy,4.6
+558,Mea Maxima Culpa: Silence in the House of God,2012,106,Alex Gibney,"Alex Gibney, Terry Kohut, Gary Smith",Documentary,8.0
+559,And While We Were Here,2012,83,Kat Coiro,"Kate Bosworth, Iddo Goldberg, Jamie Blackley","Drama, Romance",5.7
+560,Luv Shuv Tey Chicken Khurana,2012,140,Sameer Sharma,"Kunal Kapoor, Huma Qureshi, Vinod Nagpal",Comedy,6.6
+561,Diaz - Don't Clean Up This Blood,2012,127,Daniele Vicari,"Claudio Santamaria, Jennifer Ulrich, Elio Germano",Drama,7.3
+562,Soulless,2012,100,Roman Prygunov,"Danila Kozlovsky, Mariya Andreeva, Artyom Mikhalkov","Comedy, Drama",6.3
+563,Hate Story,2012,140,Vivek Agnihotri,"Nikhil Dwivedi, Gulshan Devaiah, Paoli Dam","Drama, Thriller",5.3
+564,A Band Called Death,2012,96,"Mark Christopher Covino, Jeff Howlett","Bobby Hackney, David Hackney, Dannis Hackney","Documentary, Biography, Music",7.5
+565,Area 407,2012,90,"Dale Fabrigar, Everette Wallin","Abigail Schrader, Samantha Belén, Jimmy Lyons","Horror, Sci-Fi, Thriller",3.6
+566,Paris-Manhattan,2012,77,Sophie Lellouche,"Alice Taglioni, Patrick Bruel, Marine Delterme","Comedy, Romance",6.1
+567,Beyond the Hill,2012,94,Emin Alper,"Tamer Levent, Reha Özcan, Mehmet Özgür",Drama,7.2
+568,Lost in Thailand,2012,105,Zheng Xu,"Zheng Xu, Baoqiang Wang, Huang Bo","Adventure, Comedy, Drama",6.2
+569,Fill the Void,2012,90,Rama Burshtein,"Hadas Yaron, Yiftach Klein, Irit Sheleg","Drama, Romance",6.7
+570,The Dream Team,2012,97,Olivier Dahan,"José Garcia, Jean-Pierre Marielle, Franck Dubosc","Comedy, Sport",5.4
+571,Girls Against Boys,2012,93,Austin Chick,"Nicole LaLiberte, Danielle Panabaker, Matthew Rauch","Drama, Horror, Thriller",4.8
+572,Purge,2012,125,Antti J. Jokinen,"Laura Birn, Liisi Tandefelt, Amanda Pilke","Crime, Drama",7.1
+573,Helter Skelter,2012,127,Mika Ninagawa,"Erika Sawajiri, Nao Ômori, Shinobu Terajima","Crime, Drama, Horror",6.4
+574,Fast Girls,2012,91,Regan Hall,"Lenora Crichlow, Phil Davis, Jamie Howard","Drama, Sport",6.2
+575,Darling Companion,2012,103,Lawrence Kasdan,"Diane Keaton, Kevin Kline, Dianne Wiest","Comedy, Drama, Romance",5.2
+576,Thérèse,2012,110,Claude Miller,"Audrey Tautou, Gilles Lellouche, Anaïs Demoustier",Drama,6.0
+577,The Guidance Patrol,2012,100,Saeed Soheili,"Hamid Farrokhnezhad, Poulad Kimiayi, Saed Soheili","Comedy, Drama",5.5
+578,Breaking the Girls,2012,83,Jamie Babbit,"Agnes Bruckner, Madeline Zima, Shawn Ashmore","Crime, Thriller",5.0
+579,Leviathan,2012,87,"Lucien Castaing-Taylor, Verena Paravel","Brian Jannelle, Adrian Guillette, Arthur Smith",Documentary,6.5
+580,The End,2012,88,Jorge Torregrossa,"Maribel Verdú, Daniel Grao, Clara Lago","Drama, Horror, Sci-Fi",5.0
+581,Bad Kids Go to Hell,2012,91,Matthew Spradlin,"Cameron Deane Stewart, Ben Browder, Jeffrey Schmidt","Comedy, Horror, Mystery",4.5
+582,The Motel Life,2012,85,"Alan Polsky, Gabe Polsky","Emile Hirsch, Stephen Dorff, Doc Divecchio","Animation, Drama, Mystery",5.9
+583,Back to 1942,2012,145,Xiaogang Feng,"Guoli Zhang, Hanyu Zhang, Wei Fan","Drama, History, War",6.9
+584,Surviving Family,2012,87,Laura Thies,"Sarah Wilson, Billy Magnussen, Tara Westwood","Drama, Romance",5.8
+585,London Paris New York,2012,100,Anu Menon,"Ali Zafar, Aditi Rao Hydari, Candice Pereira",Romance,5.6
+586,Scary or Die,2012,94,"Bob Badway, Michael Emanuel, Igor Meglic","Bill Oberst Jr., Hali Lula Hudson, Shawn-Caulin Young",Horror,3.9
+587,Craigslist Joe,2012,90,Joseph Garner,"Joseph Garner, Kristos Andrews, Gina Keatley","Documentary, Adventure",6.7
+588,The Other Son,2012,105,Lorraine Lévy,"Emmanuelle Devos, Pascal Elbé, Jules Sitruk",Drama,7.3
+589,Jayne Mansfield's Car,2012,122,Billy Bob Thornton,"Tippi Hedren, Kevin Bacon, Ray Stevenson",Drama,6.2
+590,Ghost Graduation,2012,88,Javier Ruiz Caldera,"Raúl Arévalo, Alexandra Jiménez, Javier Bódalo","Adventure, Comedy, Fantasy",6.3
+591,Alien Uprising,2012,101,Dominic Burns,"Bianca Van Damme, Andrew Shim, Sean Brosnan","Comedy, Horror, Sci-Fi",3.0
+592,Hijacked,2012,86,Brandon Nutt,"Vinnie Jones, Rob Steinberg, Craig Fairbrass","Action, Crime, Thriller",3.8
+593,Agent Hamilton: But Not If It Concerns Your Daughter,2012,90,Tobias Falk,"Mikael Persbrandt, Saba Mubarak, Frida Hallgren","Action, Drama, Thriller",5.6
+594,Carry on Jatta,2012,143,Smeep Kang,"Gippy Grewal, Mahie Gill, Gurpreet Ghuggi",Comedy,8.3
+595,Painted Skin: The Resurrection,2012,131,Wuershan,"Xun Zhou, Wei Zhao, Kun Chen","Fantasy, Mystery, Romance",6.1
+596,28 Hotel Rooms,2012,82,Matt Ross,"Marin Ireland, Chris Messina, Robert Deamer","Drama, Romance",5.7
+597,Hemlock Society,2012,135,Srijit Mukherji,"Koel Mallick, Parambrata Chattopadhyay, Roopa Ganguly","Comedy, Drama, Romance",7.5
+598,Johan Falk: Kodnamn: Lisa,2012,106,Charlotte Brändström,"Jakob Eklund, Joel Kinnaman, Ruth Vega Fernandez","Action, Crime, Thriller",7.5
+599,Jism 2,2012,130,Pooja Bhatt,"Randeep Hooda, Arunoday Singh, Arif Zakaria","Drama, Romance, Thriller",3.1
+600,Artificial Paradises,2012,96,Marcos Prado,"Nathalia Dill, Luca Bianchi, Lívia de Bueno",Drama,6.3
+601,Tai Chi Hero,2012,100,Stephen Fung,"Daniel Wu, Shu Qi, Tony Ka Fai Leung","Action, Adventure, Fantasy",6.1
+602,The History of Future Folk,2012,86,"John Mitchell, Jeremy Kipp Walker","Nils d'Aulaire, Jay Klaitz, Julie Ann Emery","Comedy, Music, Sci-Fi",7.1
+603,Filmistaan,2012,117,Nitin Kakkar,"Sharib Hashmi, Inaamulhaq, Kumud Mishra",Comedy,7.3
+604,The Other Dream Team,2012,89,Marius A. Markevicius,"Sarunas Marciulionis, Arvydas Sabonis, Rimas Kurtinaitis","Documentary, Sport",8.3
+605,Static,2012,83,Todd Levin,"Milo Ventimiglia, Sarah Shahi, William Mapother","Drama, Horror, Mystery",5.3
+606,That still Karlosson!,2012,80,Sarik Andreasyan,"Mikhail Galustyan, Fedya Smirnov, Igor Vernik","Comedy, Family, Fantasy",4.1
+607,Amber Alert,2012,80,Kerry Bellessa,"Summer Bellessa, Chris Hill, Jasen Wade","Crime, Horror, Mystery",4.4
+608,Beware of Mr. Baker,2012,100,Jay Bulger,"Ginger Baker, Femi Kuti, Eric Clapton","Documentary, Biography, Music",7.6
+609,Doomsday Book,2012,115,"Kim Jee-woon, Pil-sung Yim","Lee Bong-gyu, Choi Deok-moon, Ma Dong-seok","Comedy, Drama, Fantasy",5.8
+610,Something from Nothing: The Art of Rap,2012,106,"Ice-T, Andy Baybutt","Ice-T, Dr. Dre, Chuck D","Documentary, Music",7.1
+611,Painless,2012,100,Juan Carlos Medina,"Alex Brendemühl, Tómas Lemarquis, Ilias Stothart","Fantasy, Horror, Mystery",6.1
+612,She Wants Me,2012,85,Rob Margolies,"Aaron Yoo, Alex Solowitz, Brennan Murray",Comedy,4.9
+613,In Another Country,2012,89,Hong Sang-soo,"Isabelle Huppert, Yoo Joon-sang, Jung Yu-mi",Drama,6.4
+614,The Aggression Scale,2012,85,Steven C. Miller,"Ryan Hartwig, Fabianne Therese, Ray Wise","Action, Crime, Thriller",5.9
+615,Assassin's Bullet,2012,89,Isaac Florentine,"Christian Slater, Donald Sutherland, Elika Portnoy","Action, Adventure, Comedy",3.6
+616,Marighella,2012,100,Isa Grinspum Ferraz,"Carlos Augusto Marighella, Lázaro Ramos, Miguel Arraes","Documentary, Biography",4.7
+617,Love 911,2012,120,Gi-hoon Jeong,"Go Soo, Han Hyo-joo, Lee Do-ah","Comedy, Drama, Romance",6.9
+618,Chakravyuh,2012,152,Prakash Jha,"Manoj Bajpayee, Om Puri, Arjun Rampal","Action, Drama, Thriller",6.8
+619,Come Out and Play,2012,87,Makinov,"Ebon Moss-Bachrach, Vinessa Shaw, Daniel Giménez Cacho",Horror,4.8
+620,Ekk Deewana Tha,2012,136,Gautham Vasudev Menon,"Prateik Patil Babbar, Amy Jackson, Sachin Khedekar","Drama, Romance",6.1
+621,A Gun in Each Hand,2012,95,Cesc Gay,"Javier Cámara, Ricardo Darín, Eduard Fernández","Comedy, Drama",6.5
+622,Midnight's Children,2012,146,Deepa Mehta,"Rajat Kapoor, Vansh Bhardwaj, Anupam Kher",Drama,6.2
+623,Deranged,2012,109,Jeong-woo Park,"Kim Myung-min, Moon Jeong-Hee, Kim Dong-wan","Drama, Sci-Fi, Thriller",6.3
+624,Fat Kid Rules the World,2012,98,Matthew Lillard,"Jacob Wysocki, Matt O'Leary, Billy Campbell","Comedy, Drama",6.4
+625,Dead Mine,2012,87,Steven Sheil,"Miki Mizuno, Sam Hazeldine, Ario Bayu","Action, Horror",4.5
+626,My Brother the Devil,2012,111,Sally El Hosaini,"James Krishna Floyd, Elarica Johnson, Fady Elsayed","Crime, Drama, Romance",6.5
+627,Happy,2012,76,Roko Belic,"Marci Shimoff, Ed Diener, Richard Davidson","Documentary, Drama, Family",7.2
+628,In the Fog,2012,127,Sergey Loznitsa,"Vladimir Svirskiy, Vladislav Abashin, Sergey Kolesov","Drama, History, War",6.7
+629,Barbie: The Princess & the Popstar,2012,86,Ezekiel Norton,"Kelly Sheridan, Jennifer Waris, Ashleigh Ball","Animation, Family, Musical",5.9
+630,You Are God,2012,110,Leszek Dawid,"Marcin Kowalczyk, Dawid Ogrodnik, Tomasz Schuchardt","Biography, Drama, Music",6.6
+631,The Citizen,2012,99,Sam Kadi,"Khaled Nabawy, Agnes Bruckner, Rizwan Manji",Drama,6.7
+632,Yossi,2012,84,Eytan Fox,"Ohad Knoller, Shlomo Sadan, Oz Zehavi","Drama, Romance",7.0
+633,The Story of Luke,2012,96,Alonso Mayo,"Lou Taylor Pucci, Jayne Eastwood, Pam Hyatt","Comedy, Drama, Romance",7.1
+634,Night of the Templar,2012,101,Paul Sampson,"Paul Sampson, David Carradine, Udo Kier","Horror, Mystery",3.7
+635,Two Lives,2012,97,"Georg Maas, Judith Kaufmann","Juliane Köhler, Liv Ullmann, Sven Nordin","Drama, Thriller",7.1
+636,My Name Is 'A' by Anonymous,2012,90,Shane Ryan-Reid,"Katie Noname, Demi Baumann, Teona Dolnikova","Crime, Mystery, Thriller",4.8
+637,My Way,2012,148,Florent-Emilio Siri,"Jérémie Renier, Benoît Magimel, Monica Scattini","Biography, Drama, Music",6.9
+638,This Life,2012,122,Anne-Grethe Bjarup Riis,"Jens Jørn Spottag, Bodil Jørgensen, Thomas Ernst","Drama, War",6.6
+639,God Loves Caviar,2012,101,Yannis Smaragdis,"Sebastian Koch, Evgeniy Stychkin, Juan Diego Botto","Adventure, Biography, Drama",5.9
+640,Jack & Diane,2012,105,Bradley Rust Gray,"Riley Keough, Juno Temple, Kylie Minogue","Drama, Horror, Romance",4.5
+641,Hungry for Change,2012,89,"James Colquhoun, Laurentine Ten Bosch, Carlo Ledesma","Mike Adams, Nick Bolton, James Caitlin",Documentary,7.4
+642,Measuring the World,2012,119,Detlev Buck,"Albrecht Schuch, Baldanpurev Sambuu, Agi Ariunsaichan Dawaachu","Biography, Drama, History",5.7
+643,Crawlspace,2012,86,Justin Dix,"Nicholas Bell, Ngaire Dawn Fair, John Brumpton","Action, Horror, Mystery",4.8
+644,Rebel,2012,168,Raghava Lawrence,"Prabhas, Tamannaah Bhatia, Deeksha Seth","Action, Comedy, Drama",4.9
+645,Love Never Dies,2012,121,"Brett Sullivan, Simon Phillips","Ben Lewis, Anna O'Byrne, María Mercedes","Drama, Music, Musical",6.6
+646,Cameraman Gangatho Rambabu,2012,148,Puri Jagannadh,"Pawan Kalyan, Tamannaah Bhatia, Prakash Raj","Action, Drama",5.7
+647,Dead Season,2012,85,Adam Deyoe,"Scott Peat, Marissa Merrill, James C. Burns","Horror, Sci-Fi",4.6
+648,To Write Love on Her Arms,2012,102,Nathan Frankowski,"Kat Dennings, Chad Michael Murray, Rupert Friend","Biography, Drama, Fantasy",6.5
+649,Ayalum Njanum Thammil...,2012,160,Lal Jose,"Prithviraj Sukumaran, Prathap Pothen, Narain","Drama, Romance, Thriller",8.0
+650,Our Children,2012,111,Joachim Lafosse,"Émilie Dequenne, Claire Bodson, Niels Arestrup","Crime, Drama",6.8
+651,Young & Wild,2012,96,Marialy Rivas,"Alicia Rodríguez, Aline Küppenheim, María Gracia Omegna","Comedy, Drama",6.0
+652,Dragon Age: Dawn of the Seeker,2012,90,Fumihiko Sori,"Colleen Clinkenbeard, J. Michael Tatum, Chuck Huber","Animation, Action, Adventure",5.7
+653,Ace Attorney,2012,135,Takashi Miike,"Hiroki Narimiya, Takumi Saitô, Mirei Kiritani","Comedy, Crime, Drama",6.5
+654,Rachcha,2012,143,Sampath Nandi,"Ram Charan, Tamannaah Bhatia, Ajmal Ameer","Action, Comedy, Drama",4.5
+655,Barricade,2012,82,Andrew Currie,"Eric McCormack, Jody Thompson, Conner Dwelly","Horror, Mystery, Thriller",4.4
+656,Bigfoot: The Lost Coast Tapes,2012,90,Corey Grant,"Drew Rausch, Rich McDonald, Ashley Wood","Horror, Mystery, Thriller",4.5
+657,Celebrity Sex Tape,2012,87,Scott Wheeler,"Jack Cullison, Howard Cai, Jonathan Brett",Comedy,2.9
+658,Blue Like Jazz,2012,108,Steve Taylor,"Marshall Allman, Claire Holt, Tania Raymonde","Comedy, Drama",5.8
+659,House Hunting,2012,102,Eric Hurt,"Marc Singer, Art LaFleur, Hayley DuMond","Horror, Mystery, Thriller",5.1
+660,Ritual,2012,87,Joko Anwar,"Rio Dewanto, Hannah Al Rashid, Izzi Isman","Drama, Horror, Mystery",5.4
+661,Under the Bed,2012,87,Steven C. Miller,"Jonny Weston, Gattlin Griffith, Peter Holden","Drama, Horror",4.5
+662,A Little Bit Zombie,2012,87,Casey Walker,"Kristopher Turner, Yan-Kay Crystal Lowe, Shawn Roberts","Comedy, Horror, Sci-Fi",5.3
+663,Camille Rewinds,2012,115,Noémie Lvovsky,"Noémie Lvovsky, Samir Guesmi, Judith Chemla","Comedy, Drama, Romance",6.3
+664,Key of Life,2012,128,Kenji Uchida,"Masato Sakai, Teruyuki Kagawa, Ryôko Hirosue","Comedy, Crime, Drama",7.3
+665,Stash House,2012,99,Eduardo Rodriguez,"Sean Faris, Briana Evigan, Dolph Lundgren","Action, Horror, Thriller",4.7
+666,Balas & Bolinhos: O Último Capítulo,2012,129,Luis Ismael,"Jorge Neto, Luis Ismael, J.D. Duarte","Action, Adventure, Comedy",7.2
+667,Inhuman Resources,2012,93,Daniel Krige,"Nicholas Hope, Kelly Paterniti, Sam Reid","Horror, Thriller",5.8
+668,The Falls,2012,91,Jon Garcia,"Nick Ferrucci, Benjamin Farmer, Brian J. Saville Allard","Drama, Romance",6.7
+669,The Snow Queen,2012,80,"Vladlen Barbe, Maksim Sveshnikov","Anna Shurochkina, Ivan Okhlobystin, Galina Tyunina","Animation, Adventure, Family",5.4
+670,The Millionaire Tour,2012,84,Inon Shampanier,"Dominic Monaghan, Rick Gomez, Jordan Belfi","Action, Thriller",6.3
+671,Whatcha Wearin'?,2012,114,Byun Sung-hyun,"Ji Sung, Kim Ah-jung, Shin So-yul","Comedy, Romance",6.8
+672,The Lookout,2012,89,Michele Placido,"Daniel Auteuil, Mathieu Kassovitz, Olivier Gourmet","Action, Crime, Thriller",5.7
+673,Just Like a Woman,2012,87,Rachid Bouchareb,"Sienna Miller, Golshifteh Farahani, Bahar Soomekh",Drama,5.5
+674,On My Dead Body,2012,108,Mohamed Bakir,"Ahmed Helmy, Ghada Adel, Hassan Hosny","Comedy, Drama, Fantasy",6.1
+675,Jatt & Juliet,2012,140,Anurag Singh,"Diljit Dosanjh, Neeru Bajwa, Jaswinder Bhalla","Comedy, Romance",7.5
+676,Four Horsemen,2012,97,Ross Ashcroft,"Dominic Frisby, Gillian Tett, Lawrence Wilkerson","Documentary, News",7.7
+677,Piazza Fontana: The Italian Conspiracy,2012,129,Marco Tullio Giordana,"Valerio Mastandrea, Pierfrancesco Favino, Michela Cescon","Crime, Drama, Mystery",7.2
+678,Watchtower,2012,96,Pelin Esmer,"Olgun Simsek, Nilay Erdönmez, Menderes Samancilar",Drama,7.1
+679,Mansome,2012,82,Morgan Spurlock,"Jason Bateman, Will Arnett, Morgan Spurlock",Documentary,5.4
+680,Nobel's Last Will,2012,90,Peter Flinth,"Malin Crépin, Björn Kjellman, Leif Andrée","Drama, Mystery, Thriller",5.9
+681,The Deal,2012,115,Sandra Nashaat,"Ahmed El Sakka, Ahmed Ezz, Hanan Turk","Action, Crime, Drama",7.0
+682,Final Cut: Ladies and Gentlemen,2012,84,György Pálfi,,"Comedy, Drama, Romance",8.0
+683,Shut Up and Play the Hits,2012,108,"Will Lovelace, Dylan Southern","James Murphy, Chuck Klosterman, Keith Wood","Documentary, Music",7.3
+684,Vanishing Waves,2012,124,Kristina Buozyte,"Marius Jampolskis, Jurga Jutaite, Rudolfas Jansonas","Romance, Sci-Fi, Thriller",5.9
+685,I Declare War,2012,94,"Jason Lapeyre, Robert Wilson","Siam Yu, Kolton Stewart, Gage Munroe","Action, Comedy, Drama",6.0
+686,Bojhena Shey Bojhena,2012,145,Raj Chakraborty,"Abir Chatterjee, Payel Sarkar, Soham Chakraborty","Comedy, Drama, Romance",7.7
+687,Detention of the Dead,2012,87,Alex Craig Mann,"Jacob Zachar, Alexa Nikolas, Christa B. Allen","Action, Adventure, Comedy",4.5
+688,Till Luck Do Us Part,2012,104,Roberto Santucci,"Leandro Hassum, Danielle Winits, Kiko Mascarenhas",Comedy,5.5
+689,Naked Harbour,2012,123,Aku Louhimies,"Alma Pöysti, Aino Louhimies, Sean Pertwee",Drama,6.4
+690,A Muse,2012,129,Jung Ji-woo,"Park Hae-il, Kim Mu-yeol, Kim Go-eun","Drama, Romance",6.6
+691,Imagine,2012,105,Andrzej Jakimowski,"Edward Hogg, Alexandra Maria Lara, Melchior Derouet",Drama,7.3
+692,Last Stop: Kurtulus,2012,106,Yusuf Pirhasan,"Belçim Bilgin, Demet Akbag, Asuman Dabak","Comedy, Drama",6.2
+693,Inescapable,2012,93,Ruba Nadda,"Alexander Siddig, Joshua Jackson, Marisa Tomei","Action, Drama, Mystery",5.2
+694,The Concubine,2012,122,Kim Dae-seung,"Cho Yeo-jeong, Kim Dong-wook, Kim Min-joon","Drama, History, Romance",6.0
+695,Gayby,2012,85,Jonathan Lisecki,"Jenn Harris, Anna Margaret Hollyman, Matthew Wilkas","Comedy, Drama, Romance",6.0
+696,Bones Brigade: An Autobiography,2012,90,Stacy Peralta,"Tony Alva, Steve Caballero, Fred Durst","Documentary, Sport",8.0
+697,Memorial Day,2012,104,Samuel Fischer,"Jonathan Bennett, James Cromwell, John Cromwell","Action, Drama, History",6.1
+698,Thermae Romae,2012,108,Hideki Takeuchi,"Hiroshi Abe, Aya Ueto, Kazuki Kitamura","Comedy, Fantasy, Sci-Fi",6.4
+699,Led Zeppelin: Celebration Day,2012,124,Dick Carruthers,"Robert Plant, Jimmy Page, John Paul Jones","Documentary, Music",8.7
+700,War of the Worlds the True Story,2012,102,Timothy Hines,"Jack Clay, Jim Cissell, Susan Goforth","Action, Horror, Sci-Fi",6.2
+701,The Viral Factor,2012,122,Dante Lam,"Jay Chou, Nicholas Tse, Peng Lin","Action, Drama, Thriller",5.9
+702,Crossfire Hurricane,2012,111,Brett Morgen,"Mick Jagger, Charlie Watts, Bill Wyman","Documentary, Biography, Music",7.4
+703,The Woman Who Wasn't There,2012,65,Angelo J. Guglielmo Jr.,"Tania Head, Elia Zedeno, Gerry Bogacz",Documentary,6.8
+704,Only Decent People,2012,86,Lodewijk Crijns,"Géza Weisz, Imanuelle Grives, Jeroen Krabbé","Comedy, Drama",5.7
+705,Mamy,2012,103,"Sarik Andreasyan, Evgeniy Abyzov, Alan Badoev","Elena Korikova, Olga Volkova, Yuliya Grishina","Comedy, Drama",6.6
+706,Vegetarian Cannibal,2012,85,Branko Schmidt,"Rene Bitorajac, Natasa Janjic Medancic, Leon Lucev","Crime, Drama",7.2
+707,5 cm,2012,125,Rizal Mantovani,"Herjunot Ali, Raline Shah, Fedi Nuril","Adventure, Drama, Romance",7.2
+708,Helpless,2012,117,Young-Joo Byun,"Lee Sun-kyun, Kim Min-hee, Jo Sung-ha","Drama, Mystery, Thriller",6.7
+709,Inch'Allah,2012,102,Anaïs Barbeau-Lavalette,"Omri Ilan, Lionel Calniquer, Gil Desiano",Drama,6.8
+710,Süskind,2012,118,Rudolf van den Berg,"Jeroen Spitzenberger, Karl Markovics, Nyncke Beekhuyzen","Biography, Drama, History",6.9
+711,The Kirishima Thing,2012,103,Daihachi Yoshida,"Ryûnosuke Kamiki, Ai Hashimoto, Suzuka Ohgo",Drama,7.2
+712,Tezz,2012,121,Priyadarshan,"Anil Kapoor, Ajay Devgn, Mohanlal","Action, Crime, Drama",4.1
+713,ATM: Er Rak Error,2012,123,Mez Tharatorn,"Chantavit Dhanasevi, Preechaya Pongthananikorn, Anna Chuancheun","Comedy, Romance",7.1
+714,41,2012,80,Glenn Triggs,"Chris Gibson, Dafna Kronental, David Macrae","Drama, Sci-Fi",6.2
+715,Blue Exorcist: The Movie,2012,88,Atsushi Takahashi,"Nobuhiko Okamoto, Jun Fukuyama, Kana Hanazawa","Animation, Action, Adventure",7.1
+716,A Turtle's Tale 2: Sammy's Escape from Paradise,2012,92,"Vincent Kesteloot, Ben Stassen","Alan Shearman, Thomas Lee, Cinda Adams","Animation, Adventure, Family",5.6
+717,Vettai,2012,150,N. Linguswamy,"Arya, Madhavan, Sameera Reddy",Action,6.0
+718,Cockpit,2012,96,Mårten Klingberg,"Jonas Karlsson, Marie Robertson, Ellen Jelinek",Comedy,5.8
+719,Girls Gone Dead,2012,104,"Michael Hoffman Jr., Aaron T. Wells","Katie Peterson, Shea Stewart, Brandy Whitford","Comedy, Horror",3.5
+720,Nature Calls,2012,79,Todd Rohal,"Patton Oswalt, Johnny Knoxville, Rob Riggle",Comedy,4.0
+721,The Butterfly Room,2012,87,Jonathan Zarantonello,"Barbara Steele, Ray Wise, Erica Leerhsen","Horror, Thriller",5.4
+722,Gimme the Loot,2012,81,Adam Leon,"Ty Hickson, Tashiana Washington, Joshua Rivera","Comedy, Crime, Drama",6.6
+723,Airborne,2012,81,Dominic Burns,"Craig Conway, Simon Phillips, Gemma Atkinson","Comedy, Crime, Horror",3.8
+724,The Door,2012,97,István Szabó,"Helen Mirren, Martina Gedeck, Károly Eperjes",Drama,6.5
+725,2 + 2,2012,103,Diego Kaplan,"Adrián Suar, Carla Peterson, Julieta Díaz","Comedy, Drama, Romance",6.2
+726,The Facility,2012,79,Ian Clark,"Aneurin Barnard, Amit Shah, Steve Evets",Horror,4.8
+727,22 Female Kottayam,2012,120,Aashiq Abu,"Vijay Babu, Rima Kallingal, Fahadh Faasil","Drama, Thriller",7.4
+728,Fairy Tail: The Phoenix Priestess,2012,86,Masaya Fujimori,"Aya Endô, Aya Hirano, Tetsuya Kakihara","Animation, Action, Adventure",7.0
+729,Halima's Path,2012,97,Arsen A. Ostojic,"Alma Prica, Olga Pakalovic, Mijo Jurisic","Drama, War",7.9
+730,56 Up,2012,144,"Michael Apted, Paul Almond","Michael Apted, Bruce Balden, Jacqueline Bassett","Documentary, Biography",7.9
+731,40 Days and Nights,2012,86,Peter Geiger,"Alex Carter, Monica Keena, Alex Arleo","Action, Adventure, Sci-Fi",2.4
+732,Wither,2012,95,"Sonny Laguna, Tommy Wiklund","Patrik Berg-Almkvisth, Lisa Henni, Patrick Saxe","Horror, Thriller",5.1
+733,Reincarnated,2012,96,Andy Capper,"Snoop Dogg, Diplo, Dr. Dre","Documentary, Music",6.2
+734,Bloodwork,2012,100,Eric Wostenberg,"Travis Van Winkle, John Bregar, Tricia Helfer","Horror, Sci-Fi, Thriller",5.2
+735,Another Woman's Life,2012,97,Sylvie Testud,"Juliette Binoche, Mathieu Kassovitz, Aure Atika","Comedy, Drama, Mystery",6.3
+736,Perfect Number,2012,119,Pang Eun-jin,"Ryu Seung-beom, Lee Yo-won, Cho Jin-woong","Crime, Drama, Mystery",6.9
+737,The Wedding Video,2012,94,Nigel Cole,"Harriet Walter, Lucy Punch, Matt Berry",Comedy,5.4
+738,Everything or Nothing,2012,98,Stevan Riley,"Ken Adam, Maud Adams, John Barry",Documentary,7.5
+739,"S Novym godom, mamy!",2012,90,"Artyom Aksenenko, Sarik Andreasyan, Anton Bormatov","Karen Badalov, Anna Banshchikova, Elizaveta Boyarskaya","Comedy, Drama",6.2
+740,Of Snails and Men,2012,93,Tudor Giurgiu,"Andi Vasluianu, Monica Barladeanu, Dorel Visan",Comedy,7.2
+741,Cheerful Weather for the Wedding,2012,89,Donald Rice,"Felicity Jones, Luke Treadaway, Elizabeth McGovern","Comedy, Drama, Romance",5.6
+742,The Four,2012,118,"Gordon Chan, Janet Chun","Chao Deng, Yifei Liu, Ronald Cheng","Action, Crime, Fantasy",5.7
+743,The Thompsons,2012,82,"Mitchell Altieri, Phil Flores","Cory Knauf, Samuel Child, Mackenzie Firgens","Drama, Horror, Thriller",4.7
+744,August 8,2012,120,Dzhanik Fayziev,"Svetlana Ivanova, Egor Beroev, Artyom Fadeev","Action, Drama, Sci-Fi",5.6
+745,Sonja and the Bull,2012,103,Vlatka Vorkapic,"Judita Frankovic, Goran Bogdan, Dejan Acimovic","Comedy, Romance",6.9
+746,Manslaughter,2012,81,Pieter Kuijpers,"Theo Maassen, Gijs Scholten van Aschat, Maryam Hassouni","Crime, Drama, Thriller",6.7
+747,Bad 25,2012,131,Spike Lee,"Michael Jackson, Glen Ballard, John Barnes","Documentary, Music",7.9
+748,"Inner Worlds, Outer Worlds",2012,122,Daniel Schmidt,Patrick Sweeney,"Documentary, History",8.4
+749,The Haunting of Whaley House,2012,89,Jose Prendes,"Alex Arleo, Arielle Brachfeld, Graham Denman","Drama, Fantasy, Horror",3.8
+750,If I Were You,2012,115,Joan Carr-Wiggin,"Marcia Gay Harden, Leonor Watling, Joseph Kell","Comedy, Drama",6.9
+751,The Fourth State,2012,115,Dennis Gansel,"Moritz Bleibtreu, Kasia Smutniak, Max Riemelt",Thriller,6.1
+752,Entity,2012,87,Steve Stone,"Dervla Kirwan, Charlotte Riley, Branko Tomovic","Horror, Thriller",4.5
+753,Free Samples,2012,80,Jay Gammill,"Jess Weixler, Jesse Eisenberg, Halley Feiffer","Comedy, Drama",5.6
+754,Carmina or Blow Up,2012,70,Paco León,"Carmina Barrios, María León, Paco Casaus","Comedy, Drama",6.3
+755,Devil Seed,2012,108,Greg A. Sager,"Michelle Argyris, Shantelle Canzanese, Vanessa Broze",Horror,4.1
+756,No Vacancy,2012,81,Chris Stokes,"Kristen Quintrall, Denyce Lawton, Christopher Jones",Horror,4.2
+757,Errors of the Human Body,2012,101,Eron Sheean,"Michael Eklund, Karoline Herfurth, Tómas Lemarquis","Drama, Horror, Mystery",5.3
+758,"I, Anna",2012,93,Barnaby Southcombe,"Charlotte Rampling, Gabriel Byrne, Eddie Marsan","Crime, Drama, Romance",6.0
+759,Vazhakku Enn 18/9,2012,124,Balaji Sakthivel,"Sri, Urmila Mahanta, Mithun Murali","Crime, Drama, Thriller",8.2
+760,Dhammu,2012,155,Boyapati Srinu,"N.T. Rama Rao Jr., Trisha Krishnan, Karthika Nair","Action, Drama",4.9
+761,Kauwboy,2012,81,Boudewijn Koole,"Rick Lens, Loek Peters, Cahit Ölmez",Drama,7.1
+762,The Ghostmaker,2012,91,Mauro Borrelli,"Aaron Dean Eisenberg, Liz Fenning, J. Walter Holland","Fantasy, Horror, Sci-Fi",4.9
+763,Grandmaster,2012,100,B. Unnikrishnan,"Mohanlal, Priyamani, Babu Antony","Action, Crime, Drama",6.9
+764,A Story of Yonosuke,2012,160,Shûichi Okita,"Jun Kunimura, Ayumi Ito, Gô Ayano",Drama,7.5
+765,Bending the Rules,2012,83,Artie Mandelberg,"Jamie Kennedy, Adam Copeland, Jennifer Esposito","Comedy, Crime",4.9
+766,Foxfire: Confessions of a Girl Gang,2012,143,Laurent Cantet,"Raven Adamson, Katie Coseni, Madeleine Bisson","Crime, Drama",6.1
+767,Habibie & Ainun,2012,120,Faozan Rizal,"Reza Rahadian, Bunga Citra Lestari, Tio Pakusadewo","Biography, Drama, History",7.6
+768,Ishq,2012,160,Vikram K. Kumar,"Nithiin, Nithya Menen, Nagineedu","Comedy, Romance",7.4
+769,1920: Evil Returns,2012,124,Bhushan Patel,"Aftab Shivdasani, Tia Bajpai, Sharad Kelkar","Drama, Horror, Romance",4.9
+770,Price Check,2012,92,Michael Walker,"Parker Posey, Eric Mabius, Annie Parisse","Comedy, Drama",5.4
+771,Me Too,2012,83,Aleksey Balabanov,"Aleksandr Mosin, Oleg Garkusha, Yuriy Matveev",Drama,6.4
+772,Strippers vs Werewolves,2012,93,Jonathan Glendening,"Adele Silva, Martin Compston, Billy Murray","Action, Comedy, Crime",3.0
+773,The Bullet Vanishes,2012,108,Chi-Leung Lo,"Nicholas Tse, Ching-Wan Lau, Mi Yang","Action, Adventure, Drama",6.5
+774,For Ellen,2012,94,So Yong Kim,"Paul Dano, Margarita Levieva, Jon Heder",Drama,6.0
+775,Model Minority,2012,94,Lily Mariye,"Nichole Sakura, Courtney Mun, Jessica Tuck",Drama,8.3
+776,Eat Sleep Die,2012,104,Gabriela Pichler,"Nermina Lukac, Milan Dragisic, Jonathan Lampinen",Drama,6.4
+777,D'Agostino,2012,124,Jorge Ameer,"Keith Roenke, Michael Andricopoulos, Torie Tyson","Drama, Sci-Fi",4.4
+778,Jackie,2012,100,Antoinette Beumer,"Carice van Houten, Jelka van Houten, Holly Hunter","Comedy, Drama",6.8
+779,My Straight Son,2012,114,Miguel Ferrari,"Guillermo Garcia, Ignacio Montes, Hilda Abrahamz","Drama, Romance",7.3
+780,Thaandavam,2012,160,A.L. Vijay,"Vikram, Jagapathi Babu, Anushka Shetty","Action, Thriller",6.1
+781,Museum Hours,2012,107,Jem Cohen,"Mary Margaret O'Hara, Bobby Sommer, Ela Piplits",Drama,6.9
+782,The Philly Kid,2012,90,Jason Connery,"Wes Chatham, Devon Sawa, Sarah Butler","Action, Drama, Sport",5.6
+783,Bumboo,2012,126,Jagdish Rajpurohit,"Kavin Dave, Sharat Saxena, Sanjay Mishra",Comedy,4.3
+784,McCullin,2012,91,"David Morris, Jacqui Morris","Harold Evans, Don McCullin, Michael Parkinson",Documentary,8.2
+785,Road North,2012,110,Mika Kaurismäki,"Vesa-Matti Loiri, Samuli Edelmann, Leena Uotila","Comedy, Drama",6.3
+786,The Day of the Siege: September Eleven 1683,2012,114,Renzo Martinelli,"F. Murray Abraham, Andrea Iaia, Enrico Lo Verso","Drama, History, War",4.3
+787,Howling,2012,114,Ha Yoo,"Song Kang-ho, Lee Na-young, Nam Bo-ra","Action, Thriller",6.1
+788,The Anderssons in Greece,2012,85,Hannes Holm,"William Ringström, Morgan Alling, Anja Lundqvist","Comedy, Family",4.3
+789,Luv,2012,94,Sheldon Candis,"Common, Michael Rainey Jr., Dennis Haysbert","Crime, Drama",6.0
+790,Dawn Rider,2012,94,Terry Miles,"Christian Slater, Jill Hennessy, Donald Sutherland","Action, Drama, Mystery",4.9
+791,Spirit,2012,165,Ranjith,"Mohanlal, Kaniha, Shankar Ramakrishnan","Comedy, Drama",7.5
+792,Noobz,2012,97,Blake Freeman,"Blake Freeman, Mindy Sterling, Jason Mewes",Comedy,4.7
+793,Rent-a-Cat,2012,110,Naoko Ogigami,"Mikako Ichikawa, Reiko Kusamura, Ken Mitsuishi","Comedy, Drama",6.9
+794,Jalpari: The Desert Mermaid,2012,94,Nila Madhab Panda,"Lehar Khan, Krishang Trivedi, Parvin Dabas","Drama, Family, Mystery",7.3
+795,Space Milkshake,2012,85,Armen Evrensel,"Kristin Kreuk, Amanda Tapping, George Takei","Comedy, Sci-Fi",5.6
+796,Modest Reception,2012,100,Mani Haghighi,"Taraneh Alidoosti, Mani Haghighi, Saeed Changizian","Comedy, Drama",6.7
+797,The We and the I,2012,103,Michel Gondry,"Michael Brodie, Teresa Lynn, Francesca Pinto",Drama,6.1
+798,St George's Day,2012,109,Frank Harper,"Charles Dance, Craig Fairbrass, Vincent Regan","Action, Crime, Thriller",5.2
+799,Hold Your Breath,2012,87,Jared Cohn,"Katrina Bowden, Randy Wayne, Erin Marie Hogan","Horror, Thriller",3.3
+800,Fresh Meat,2012,91,Danny Mulheron,"Temuera Morrison, Kate Elliott, Hanna Tevita","Comedy, Horror",5.4
+801,White Frog,2012,93,Quentin Lee,"Booboo Stewart, Harry Shum Jr., Joan Chen","Drama, Mystery, Romance",6.8
+802,Black Out,2012,92,Arne Toonen,"Raymond Thiry, Kim van Kooten, Bas Keijzer","Action, Comedy, Crime",6.4
+803,Arjun: The Warrior Prince,2012,96,"Arnab Chaudhuri, Pavan Buragohain, K.K. Raina","Yudhveer Bakoliya, Ashok Banthia, Ravi Khanvilkar","Animation, Action, Adventure",6.8
+804,Everybody Has a Plan,2012,118,Ana Piterbarg,"Viggo Mortensen, Soledad Villamil, Daniel Fanego","Crime, Drama, Thriller",5.6
+805,The Girl from the Naked Eye,2012,84,David Ren,"Jason Yee, Samantha Streets, Ron Yuan","Action, Crime, Mystery",4.8
+806,Diamond Necklace,2012,157,Lal Jose,"Fahadh Faasil, Samvrutha Sunil, Anusree","Drama, Romance",7.2
+807,Night of the Living Dead 3D: Re-Animation,2012,88,Jeff Broadstreet,"Andrew Divoff, Jeffrey Combs, Sarah Lieving","Action, Comedy, Horror",3.1
+808,Girlfriend Boyfriend,2012,106,Ya-che Yang,"Lun-Mei Gwei, Hsiao-chuan Chang, Rhydian Vaughan","Drama, Romance",7.0
+809,The Last Tycoon,2012,107,Jing Wong,"Chow Yun-Fat, Xiaoming Huang, Sammo Kam-Bo Hung","Action, Adventure, Crime",6.5
+810,The Assassins,2012,107,Linshan Zhao,"Chow Yun-Fat, Yifei Liu, Hiroshi Tamaki","Drama, History",5.5
+811,Thanatomorphose,2012,100,Éric Falardeau,"Kayden Rose, Davyd Tousignant, Émile Beaudry",Horror,4.6
+812,The Jeffrey Dahmer Files,2012,76,Chris James Thompson,"Andrew Swant, Pamela Bass, Jeffrey Jentzen","Documentary, Biography, Crime",6.3
+813,FDR: American Badass!,2012,93,Garrett Brawith,"Barry Bostwick, Lin Shaye, Bruce McGill","Action, Comedy",5.2
+814,Last Ounce of Courage,2012,101,"Darrel Campbell, Kevin McAfee","Marshall R. Teague, Jennifer O'Neill, Rusty Joiner","Drama, War",3.5
+815,Not Dead,2012,92,"Benoît Delépine, Gustave Kervern","Benoît Poelvoorde, Albert Dupontel, Brigitte Fontaine",Comedy,5.9
+816,Crooked Arrows,2012,105,Steve Rash,"Gil Birmingham, Brandon Routh, Crystal Allen","Drama, Sport",5.9
+817,Underground: The Julian Assange Story,2012,94,Robert Connolly,"Rachel Griffiths, Anthony LaPaglia, Alex Williams","Biography, Drama",6.6
+818,My Amityville Horror,2012,88,Eric Walter,"Daniel Lutz, Susan Bartell, Laura DiDio","Documentary, Horror",5.4
+819,Professor Kosta Vujic's Hat,2012,121,Zdravko Sotra,"Aleksandar Bercek, Milos Bikovic, Aleksandar Radojicic","Biography, Comedy, Drama",7.3
+820,Did You... Score?,2012,104,Felipe Joffily,"Bruno Mazzeo, Marcos Palmeira, Emílio Orciollo Netto",Comedy,5.7
+821,Horses of God,2012,115,Nabil Ayouch,"Abdelhakim Rachid, Abdelilah Rachid, Hamza Souidek",Drama,7.3
+822,Tiger Eyes,2012,92,Lawrence Blume,"Willa Holland, Amy Jo Johnson, Gwen Goldsmith","Drama, Family, Mystery",6.3
+823,Elena,2012,80,Petra Costa,"Li An, Elena Andrade, Petra Costa","Documentary, Biography, Drama",7.5
+824,Aiyyaa,2012,152,Sachin Kundalkar,"Rani Mukerji, Prithviraj Sukumaran, Nirmiti Sawant","Comedy, Romance",4.4
+825,Dangerous Liaisons,2012,110,Hur Jin-ho,"Cecilia Cheung, Jang Dong-gun, Ziyi Zhang","Drama, Mystery, Romance",6.0
+826,Leaving D.C.,2012,77,Josh Criss,"Josh Criss, Karin Crighton, Jeff Manney","Horror, Mystery",6.1
+827,Çanakkale 1915,2012,128,Yesim Sezgin,"Baran Akbulut, Özgür Akdemir, Riza Akin","Drama, History, War",6.2
+828,Viva l'Italia,2012,100,Massimiliano Bruno,"Raoul Bova, Ambra Angiolini, Michele Placido",Comedy,6.2
+829,Araf/Somewhere in Between,2012,124,Yesim Ustaoglu,"Neslihan Atagül, Baris Hacihan, Özcan Deniz",Drama,6.2
+830,Delhi Safari,2012,96,Nikkhil Advani,"Govinda, Akshaye Khanna, Urmila Matondkar","Animation, Adventure, Comedy",5.5
+831,Detective Conan: The Eleventh Striker,2012,110,"Kôbun Shizuno, Yasuichirô Yamamoto","Minami Takayama, Rikiya Koyama, Wakana Yamazaki","Animation, Action, Adventure",6.4
+832,Neethaane En Ponvasantham,2012,153,Gautham Vasudev Menon,"Jiiva, Samantha Ruth Prabhu, Santhanam","Drama, Romance",6.5
+833,Oglum Bak Git,2012,97,Kamil Çetin,"Yavuz Seçkin, Orhan Aydin, Esra Sönmezer",Comedy,2.0
+834,Metal Brothers,2012,100,Ulf Malmros,"Lotta Tejle, Johan Östling, Björn A. Ling",Comedy,4.7
+835,Middle of Nowhere,2012,101,Ava DuVernay,"Emayatzy Corinealdi, David Oyelowo, Lorraine Toussaint",Drama,6.6
+836,Hirokin: The Last Samurai,2012,105,Alejo Mo-Sun,"Wes Bentley, Jessica Szohr, Angus Macfadyen","Action, Adventure, Drama",3.3
+837,The Rise & Fall of a White Collar Hooligan,2012,81,Paul Tanter,"Nick Nevern, Simon Phillips, Rita Ramnani","Crime, Drama, Thriller",5.1
+838,"Love, Marilyn",2012,107,Liz Garbus,"F. Murray Abraham, Elizabeth Banks, Adrien Brody","Documentary, Biography",7.2
+839,Naan,2012,135,Jeeva Shankar,"Vijay Antony, Siddarth Venugopal, Rupa Manjari","Crime, Drama, Thriller",7.5
+840,Border Run,2012,96,Gabriela Tagliavini,"Sharon Stone, Promise LaMarco, Billy Zane","Crime, Drama, Mystery",4.2
+841,Oru Kal Oru Kannadi,2012,166,M. Rajesh,"Udhayanidhi Stalin, Hansika Motwani, Santhanam","Comedy, Romance",6.4
+842,Naked As We Came,2012,87,Richard LeMay,"Ben Weaver, Karmine Alers, S. Lue McWilliams",Drama,6.1
+843,Short Stories,2012,105,Mikhail Segal,"Andrey Merzlikin, Darya Nosik, Andrey Petrov","Comedy, Drama, Mystery",6.9
+844,Una noche,2012,90,Lucy Mulloy,"Dariel Arrechaga, Anailín de la Rúa de la Torre, Javier Núñez Florián","Drama, Romance",6.7
+845,Red Hook Summer,2012,121,Spike Lee,"Jules Brown, Thomas Jefferson Byrd, Toni Lysaith",Drama,5.3
+846,Dead Souls,2012,92,Colin Theys,"Jesse James, Magda Apanowicz, Bill Moseley",Horror,4.5
+847,Love in the Buff,2012,112,Ho-Cheung Pang,"Miriam Yeung, Shawn Yue, Mi Yang","Comedy, Drama, Romance",6.8
+848,Ghetuputra Komola,2012,101,Humayun Ahmed,"Mamun, Tariq Anam Khan, Munmun Ahmed","Drama, Musical",7.5
+849,Motorway,2012,90,Soi Cheang,"Anthony Chau-Sang Wong, Shawn Yue, Xiaodong Guo","Action, Crime, Drama",5.9
+850,Marfa Girl,2012,105,Larry Clark,"Adam Mediano, Drake Burnette, Jeremy St. James",Drama,5.2
+851,Every Blessed Day,2012,102,Paolo Virzì,"Luca Marinelli, Thony, Micol Azzurro","Comedy, Drama, Romance",6.8
+852,Patlak Sokaklar: Gerzomat,2012,88,Kerim Barutcu,"Tansu Tunçel, Ömür Cedimagar, Volkan Öge",Comedy,5.6
+853,The Yellow Wallpaper,2012,115,Logan Thomas,"Aric Cushing, Juliet Landau, Dale Dickey",Thriller,5.5
+854,La vérité si je mens! 3,2012,112,Thomas Gilou,"Richard Anconina, José Garcia, Bruno Solo",Comedy,5.3
+855,In the Shadow,2012,106,David Ondricek,"Ivan Trojan, Sebastian Koch, Sona Norisová","Crime, Drama, Thriller",7.1
+856,Lost and Found in Armenia,2012,100,Gor Kirakosian,"Angela Sarafyan, Jamie Kennedy, Dave Sheridan",Comedy,6.0
+857,Zarafa,2012,78,"Rémi Bezançon, Jean-Christophe Lie","Max Renaudin Pratt, Simon Abkarian, Abraham Adesoye","Animation, Adventure, Family",6.9
+858,The Artist and the Model,2012,105,Fernando Trueba,"Jean Rochefort, Aida Folch, Claudia Cardinale",Drama,6.6
+859,Pokémon the Movie: Kyurem vs. the Sword of Justice,2012,72,Kunihiko Yuyama,"Sarah Natochenny, Eileen Stevens, Jason Griffith","Animation, Action, Adventure",5.5
+860,The Neighbors,2012,115,Hwi Kim,"Yunjin Kim, Ma Dong-seok, Kim Sae-ron","Crime, Drama, Mystery",6.6
+861,Quiz,2012,85,Dick Maas,"Barry Atsma, Hanna Verboom, Susan Radder","Crime, Drama, Thriller",6.0
+862,Steve Jobs: The Lost Interview,2012,70,Paul Sen,"Robert X. Cringely, Steve Jobs",Documentary,8.0
+863,Pink Floyd: The Story of Wish You Were Here,2012,85,John Edginton,"Syd Barrett, Joe Boyd, Venetta Fields","Documentary, Music",7.9
+864,It's Such a Beautiful Day,2012,62,Don Hertzfeldt,"Sara Cushman, Don Hertzfeldt","Animation, Comedy, Drama",8.4
+865,Second Show,2012,126,Srinath Rajendran,"Dulquer Salmaan, Sunny Wayne, Gauthami Nair","Action, Crime",7.1
+866,Last Kind Words,2012,87,Kevin Barker,"Brad Dourif, Spencer Daniels, Alexia Fast","Drama, Horror, Mystery",4.8
+867,Hemel,2012,80,Sacha Polak,"Hannah Hoekstra, Hans Dagelet, Mark Rietman",Drama,5.6
+868,The End of Love,2012,89,Mark Webber,"Mark Webber, Alia Shawkat, Shannyn Sossamon",Drama,5.9
+869,Dead Sushi,2012,92,Noboru Iguchi,"Rina Takeda, Kentarô Shimazu, Takamasa Suga","Action, Comedy, Horror",5.7
+870,Sadako 3D,2012,96,Tsutomu Hanabusa,"Satomi Ishihara, Kôji Seto, Ai Hashimoto",Horror,3.7
+871,Astronaut: The Last Push,2012,90,"Eric Hayden, Eric Hayden","Khary Payton, Lance Henriksen, Brian Baumgartner","Drama, Sci-Fi",5.3
+872,Run Baby Run,2012,180,Joshiy,"Mohanlal, Amala Paul, Biju Menon","Action, Comedy, Thriller",6.6
+873,Among Friends,2012,80,Danielle Harris,"Chris Meyer, Jennifer Blanc-Biehn, Kamala Jones","Comedy, Horror",4.4
+874,Strange Frame: Love & Sax,2012,98,G.B. Hajim,"Claudia Black, Tara Strong, Ron Glass","Animation, Crime, Music",6.9
+875,Immaturi - Il viaggio,2012,100,Paolo Genovese,"Raoul Bova, Barbora Bobulova, Ambra Angiolini",Comedy,5.8
+876,A Liar's Autobiography: The Untrue Story of Monty Python's Graham Chapman,2012,85,"Bill Jones, Jeff Simpson, Ben Timlett","Graham Chapman, John Cleese, Terry Jones","Animation, Comedy",5.9
+877,Tomorrow You're Gone,2012,93,David Jacobson,"Michelle Monaghan, Willem Dafoe, Stephen Dorff",Thriller,3.6
+878,Hellbenders,2012,85,J.T. Petty,"Clifton Collins Jr., Clancy Brown, Andre Royo","Comedy, Horror, Thriller",4.9
+879,Journey to the Christmas Star,2012,80,Nils Gaup,"Vilde Zeiner, Anders Baasmo, Agnes Kittelsen","Adventure, Family, Fantasy",5.7
+880,Piggy,2012,106,Kieron Hawkes,"Martin Compston, Paul Anderson, Louise Dylan","Horror, Thriller",5.5
+881,Chittagong,2012,105,Bedabrata Pain,"Manoj Bajpayee, Barry John, Delzad Hiwale","Action, Drama, War",7.3
+882,Living,2012,119,Vasiliy Sigarev,"Olga Lapshina, Marina Gavrilova, Sasha Gavrilova",Drama,7.2
+883,Winning Streak,2012,100,Eduard Cortés,"Daniel Brühl, Lluís Homar, Miguel Ángel Silvestre","Action, Drama",5.4
+884,You Can't Kill Stephen King,2012,86,"Ronnie Khalil, Monroe Mann, Jorge Valdés-Iga","Monroe Mann, Ronnie Khalil, Crystal Arnette","Comedy, Horror",3.7
+885,My Boss,2012,160,Jeethu Joseph,"Dileep, Mamta Mohandas, Saikumar",Comedy,6.8
+886,The Foreigner,2012,100,Niki Iliev,"Lubomir Kovatchev, Sanya Borisova, Niki Iliev","Comedy, Romance",6.6
+887,Cowgirls 'n Angels,2012,92,Timothy Armstrong,"Bailee Madison, Dusta Kimzey, Richard Levi","Adventure, Drama, Family",6.1
+888,Puella Magi Madoka Magica the Movie Part 1: Beginnings,2012,130,"Fujiaki Asari, Takashi Kawabata, Seimei Kidokoro","Aoi Yûki, Chiwa Saitô, Eri Kitamura","Animation, Drama, Fantasy",7.6
+889,Breathless,2012,92,Jesse Baget,"Gina Gershon, Val Kilmer, Kelli Giddish","Comedy, Thriller",5.2
+890,Crowsnest,2012,84,Brenton Spencer,"Mittita Barber, Aslam Husain, Victor Zinck Jr.","Horror, Mystery, Thriller",3.9
+891,The Do-Deca-Pentathlon,2012,76,"Jay Duplass, Mark Duplass","Mark Kelly, Steve Zissis, Jennifer Lafleur","Comedy, Sport",5.9
+892,Jewtopia,2012,90,Bryan Fogel,"Austin Abrams, Tom Arnold, Brennan Bailey","Comedy, Romance",4.5
+893,Sassy Pants,2012,88,Coley Sohn,"Anna Gunn, Ashley Rickards, Martin Spanjers","Comedy, Drama",6.0
+894,The Rotterdam Bombing,2012,105,Ate de Jong,"Jan Smit, Roos van Erkel, Mike Weerts","Drama, History, War",4.1
+895,Everybody in Our Family,2012,107,Radu Jude,"Serban Pavlu, Sofia Nicolaescu, Gabriel Spahiu","Drama, Thriller",7.4
+896,Puella Magi Madoka Magica the Movie Part 2: Eternal,2012,109,"Tomoyuki Itamura, Yukihiro Miyamoto, Masahiro Mukai","Aoi Yûki, Chiwa Saitô, Eri Kitamura","Animation, Fantasy, Mystery",7.9
+897,Russendisko,2012,100,Oliver Ziegenbalg,"Matthias Schweighöfer, Friedrich Mücke, Christian Friedel",Comedy,5.5
+898,K-11,2012,88,Jules Stewart,"Goran Visnjic, Kate del Castillo, D.B. Sweeney",Drama,5.1
+899,Shell,2012,91,Scott Graham,"Chloe Pirrie, Michael Smiley, Joseph Mawle",Drama,6.4
+900,Liv & Ingmar,2012,89,Dheeraj Akolkar,"Liv Ullmann, Ingmar Bergman, Samuel Fröler",Documentary,7.3
+901,The Silent War,2012,120,"Felix Chong, Alan Mak","Tony Leung Chiu-wai, Xun Zhou, Xuebing Wang","Crime, Drama, Mystery",6.2
+902,Greetings from Tim Buckley,2012,99,Daniel Algrant,"Penn Badgley, Imogen Poots, Norbert Leo Butz","Biography, Drama, Music",6.0
+903,Devoured,2012,89,Greg Olliver,"Marta Milans, Kara Jackson, Bruno Gunn","Drama, Horror, Thriller",5.3
+904,Soar Into the Sun,2012,113,Kim Dong-won,"Rain, Yoo Joon-sang, Kim Seong-su","Action, Drama, Romance",5.9
+905,The Frozen,2012,95,Andrew Hyatt,"Brit Morgan, Seth David Mitchell, Noah Segan","Drama, Horror, Thriller",4.3
+906,Any Questions for Ben?,2012,114,Rob Sitch,"Josh Lawson, Rachael Taylor, Daniel Henshall","Comedy, Romance",5.6
+907,All About My Wife,2012,121,Kyu-dong Min,"Lim Soo-jung, Lee Sun-kyun, Ryu Seung-ryong","Comedy, Drama, Romance",6.6
+908,Knuckleball!,2012,93,"Ricki Stern, Anne Sundberg","Tim Wakefield, Dave Lennon, Jim Bouton","Documentary, Sport",7.1
+909,Comes a Bright Day,2012,91,Simon Aboud,"Timothy Spall, Imogen Poots, Craig Roberts","Drama, Romance, Thriller",6.0
+910,Dormant Beauty,2012,115,Marco Bellocchio,"Toni Servillo, Isabelle Huppert, Alba Rohrwacher",Drama,6.3
+911,Shanghai Calling,2012,100,Daniel Hsia,"Le Geng, Daniel Henney, Sean Gallagher","Comedy, Drama, Romance",6.2
+912,Loot,2012,138,"Nischal Basnet, Haridev Oli","Saugat Malla, Karma Shakya, Dayahang Rai","Crime, Drama, Thriller",8.1
+913,Private Peaceful,2012,102,Pat O'Connor,"Jack O'Connell, Hero Fiennes Tiffin, George MacKay","Drama, War",6.2
+914,Porn in the Hood,2012,95,Franck Gastambide,"Medi Sadoun, Franck Gastambide, Jib Pocthier",Comedy,5.4
+915,Dream Team 1935,2012,120,Aigars Grauba,"Janis Amanis, Inga Alsina, Vilis Daudzins","Comedy, Drama, History",7.8
+916,Greystone Park,2012,83,Sean Stone,"Sean Stone, Alexander Wraith, Ella Lentini","Horror, Thriller",3.2
+917,Shameless,2012,81,Filip Marczewski,"Mateusz Kosciukiewicz, Agnieszka Grochowska, Anna Próchniak",Drama,5.2
+918,Rites of Passage,2012,103,W. Peter Iliff,"Wes Bentley, Kate Maberly, Ryan Donowho","Action, Horror, Mystery",4.1
+919,Freeloaders,2012,77,Dan Rosen,"Josh Lawson, Clifton Collins Jr., Brit Morgan",Comedy,4.4
+920,Blackbird,2012,103,Jason Buxton,"Connor Jessup, Alexia Fast, Michael Buie",Drama,7.0
+921,16-Love,2012,88,Adam Lipsius,"Lindsey Shaw, Chandler Massey, Keith Coulouris","Comedy, Drama, Family",5.5
+922,The Snow on the Pines,2012,91,Payman Maadi,"Saber Abar, Anahita Afshar, Mahnaz Afshar",Drama,6.4
+923,The Taste of Money,2012,115,Im Sang-soo,"Kim Kang-woo, Baek Yoon-shik, Youn Yuh-jung","Drama, Thriller",5.7
+924,True Bloodthirst,2012,86,Todor Chapkanov,"Andrew Lee Potts, Heida Reed, Claudia Bassols","Action, Horror, Sci-Fi",4.1
+925,Back to the Jurassic,2012,86,"Yoon-suk Choi, John Kafka","Melanie Griffith, Jane Lynch, William Baldwin","Animation, Adventure, Comedy",4.7
+926,12/12/12,2012,86,Jared Cohn,"Sara Malakul Lane, Rubén Guevara, Steve Hanks",Horror,2.0
+927,Kalakalappu,2012,135,Sundar C.,"Vimal, Shiva, Anjali",Comedy,7.0
+928,Osombie,2012,92,John Lyde,"Corey Sevier, Eve Mauro, Jasen Wade","Action, Horror",3.6
+929,The Letter,2012,92,Jay Anania,"Winona Ryder, Josh Hamilton, Marin Ireland","Drama, Mystery, Thriller",3.4
+930,Cloned: The Recreator Chronicles,2012,90,Gregory Orr,"Stella Maeve, Alexander Nifong, J. Mallory McCree","Drama, Sci-Fi, Thriller",4.4
+931,Zaytoun,2012,110,Eran Riklis,"Stephen Dorff, Abdallah El Akal, Alice Taglioni","Adventure, Drama, Thriller",6.6
+932,Tricked,2012,89,Paul Verhoeven,"Peter Blok, Robert de Hoog, Sallie Harmsen","Comedy, Drama, Romance",6.1
+933,Ice,2012,118,Jelena Bajic Jocic,"Velimir 'Bata' Zivojinovic, Danijela 'Nela' Mihajlovic, Olga Odanovic",Drama,6.0
+934,You Ain't Seen Nothin' Yet,2012,115,Alain Resnais,"Mathieu Amalric, Pierre Arditi, Sabine Azéma","Comedy, Drama",6.5
+935,Santa Paws 2: The Santa Pups,2012,88,Robert Vince,"Cheryl Ladd, George Newbern, Danny Woodburn","Adventure, Drama, Family",4.7
+936,Butcher Boys,2012,86,"Duane Graves, Justin Meeks","Ali Faulkner, Johnny Walter, Derek Lee Nixon","Action, Comedy, Horror",3.5
+937,Graceland,2012,84,Ron Morales,"Arnold Reyes, Menggie Cobarrubias, Dido de la Paz","Crime, Thriller",6.6
+938,Kumki,2012,148,Prabu Solomon,"Vikram Prabhu, Lakshmi Menon, Thambi Ramaiah",Drama,7.1
+939,GLOW: The Story of the Gorgeous Ladies of Wrestling,2012,76,Brett Whitcomb,"Emily Dole, Dee Booher, Larry Whistler",Documentary,7.3
+940,That Guy... Who Was in That Thing,2012,79,"Ian Roumain, Michael Schwartz","Xander Berkeley, Bruce Davison, Craig Fairbrass",Documentary,7.1
+941,The Last Elvis,2012,91,Armando Bo,"John McInerny, Griselda Siciliani, Margarita López","Drama, Music",7.0
+942,Comedown,2012,90,Menhaj Huda,"Jacob Anderson, Sophie Stuckey, Jessica Barden",Horror,4.6
+943,Augustine,2012,102,Alice Winocour,"Vincent Lindon, Stéphan Wojtowicz, Soko","Biography, Drama, History",6.1
+944,El mundo es nuestro,2012,83,Alfonso Sánchez,"Alfonso Sánchez, Alberto López, Alfonso Valenzuela","Comedy, Crime",6.4
+945,Somebody Up There Likes Me,2012,76,Bob Byington,"Nick Offerman, Keith Poulson, Jess Weixler","Comedy, Romance",5.7
+946,Taped,2012,90,Diederik Van Rooijen,"Susan Visser, Barry Atsma, Roos Dickmann",Thriller,6.2
+947,Revenge for Jolly!,2012,81,Chadd Harbold,"Brian Petsos, Kristen Wiig, Elijah Wood","Comedy, Drama",4.6
+948,Love Bite,2012,91,Andy De Emmony,"Ed Speleers, Timothy Spall, Jessica Szohr","Comedy, Horror, Romance",4.6
+949,The Fitzgerald Family Christmas,2012,99,Edward Burns,"Kerry Bishé, Edward Burns, Heather Burns",Drama,6.3
+950,Bettie Page Reveals All,2012,101,Mark Mori,"Bettie Page, Hugh Hefner, Olivia de Berardinis","Documentary, Biography",7.0
+951,Once Upon a Time in the North,2012,128,Jukka-Pekka Siili,"Lauri Tilkanen, Mikko Leppilampi, Pamela Tola","Drama, History",6.1
+952,Gladiators of Rome,2012,94,Iginio Straffi,"Luca Argentero, John Schwab, Laura Chiatti","Animation, Adventure, Comedy",5.2
+953,Bronies: The Extremely Unexpected Adult Fans of My Little Pony,2012,90,Laurent Malaquais,"John de Lancie, Alex Tibcken, Tim Star",Documentary,5.7
+954,Attack of the 50 Foot Cheerleader,2012,83,Kevin O'Neill,"Jena Sims, Sean Young, Treat Williams","Adventure, Comedy, Romance",4.4
+955,Love,2012,128,Doze Niu,"Shu Qi, Mark Chao, Wei Zhao","Drama, Romance",6.5
+956,The Kitchen,2012,80,Ishai Setton,"Laura Prepon, Jillian Clare, Bryan Greenberg","Comedy, Drama",4.9
+957,Morgan,2012,89,Michael D. Akers,"Leo Minaya, Jack Kesy, Darra Like Dat Boyd","Drama, Romance, Sport",6.7
+958,Casting By,2012,89,Tom Donahue,"Deborah Aquila, Risa Bramon Garcia, Ellen Chenoweth","Documentary, Biography",7.6
+959,Lines of Wellington,2012,151,Valeria Sarmiento,"Nuno Lopes, Soraia Chaves, Marisa Paredes","Drama, History, War",6.0
+960,Sean Banan inuti Seanfrika,2012,76,Jesper Larand,"Sean Banan, Kikki Danielsson, Dr. Alban",Comedy,2.2
+961,Kill Zombie!,2012,90,"Martijn Smits, Erwin van den Eshof","Yahya Gaier, Mimoun Ouled Radi, Gigi Ravelli","Comedy, Horror",4.9
+962,The Guest House,2012,82,Michael Baumgarten,"Ruth Reynolds, Madeline Merritt, Tom McCafferty",Romance,3.6
+963,The Wooden Bridge,2012,98,Mehdi Karampour,"Bahram Radan, Mahnaz Afshar, Farhad Aslani","Drama, Romance",5.6
+964,Death of a Man in the Balkans,2012,80,Miroslav Momcilovic,"Emir Hadzihafizbegovic, Radoslav 'Rale' Milenkovic, Natasa Ninkovic","Comedy, Drama",7.5
+965,Beyond the Walls,2012,98,David Lambert,"Matila Malliarakis, Guillaume Gouix, David Salles","Drama, Romance",6.6
+966,Best Laid Plans,2012,108,David Blair,"Stephen Graham, Adewale Akinnuoye-Agbaje, David O'Hara",Drama,6.3
+967,Detropia,2012,90,"Heidi Ewing, Rachel Grady","Noah Stewart, Rachele Gilmnore, Michael Wanko",Documentary,6.5
+968,Memory Lane,2012,70,Shawn Holmes,"Michael Guy Allen, Meg Braden, Julian Curi","Crime, Sci-Fi, Thriller",4.9
+969,The Punk Syndrome,2012,85,"Jukka Kärkkäinen, J-P Passi","Pertti Kurikka, Kari Aalto, Sami Helle","Documentary, Comedy, Drama",7.8
+970,"Bless Me, Ultima",2012,106,Carl Franklin,"Luke Ganalon, Joseph A. Garcia, Miriam Colon","Biography, Drama, History",6.4
+971,Tell No One,2012,85,Ivan Silvestrini,"Josafat Vagni, Monica Guerritore, Francesco Montanari","Comedy, Romance",6.6
+972,Kath & Kimderella,2012,86,Ted Emery,"Jane Turner, Gina Riley, Magda Szubanski",Comedy,5.3
+973,Planet Ocean,2012,94,"Yann Arthus-Bertrand, Michael Pitiot","Josh Duhamel, Sharon Mann",Documentary,7.8
+974,Divorce Invitation,2012,110,S.V. Krishna Reddy,"Jamie-Lynn Sigler, Richard Kind, Elliott Gould","Comedy, Romance",4.5
+975,My Sweet Orange Tree,2012,99,Marcos Bernstein,"João Guilherme, José de Abreu, Caco Ciocler","Drama, Family",7.2
+976,For No Good Reason,2012,89,Charlie Paul,"Ralph Steadman, Johnny Depp, Hunter S. Thompson","Documentary, Biography, History",7.0
+977,Tulpa: Demon of Desire,2012,84,Federico Zampaglione,"Claudia Gerini, Michela Cescon, Ivan Franek","Horror, Thriller",4.7
+978,Jesus Loves Me,2012,100,Florian David Fitz,"Jessica Schwarz, Florian David Fitz, Henry Hübchen",Comedy,5.4
+979,Father's Chair,2012,96,Luciano Moura,"Wagner Moura, Lima Duarte, Mariana Lima","Adventure, Drama, Thriller",6.7
+980,Hotel Noir,2012,97,Sebastian Gutierrez,"Malin Akerman, Patrick Arthur, Aaron Behr","Crime, Drama, Romance",5.5
+981,The Color of Time,2012,73,"Edna Luise Biesold, Sarah-Violet Bliss, Gabrielle Demeestere","James Franco, Mila Kunis, Jessica Chastain","Biography, Drama, Romance",4.1
+982,Vulgaria,2012,93,Ho-Cheung Pang,"Chapman To, Kristal Tin, Ronald Cheng",Comedy,6.3
+983,Kadhalil Sodhappuvadhu Yeppadi,2012,127,Balaji Mohan,"Siddharth, Amala Paul, Suresh","Comedy, Romance",7.1
+984,Alter Egos,2012,80,Jordan Galland,"Kris Lemche, Brooke Nevin, Joey Kern",Comedy,5.2
+985,Knife Fight,2012,100,Bill Guttentag,"Rob Lowe, Jamie Chung, Julie Bowen",Drama,5.2
+986,Night of the Living Dead: Resurrection,2012,86,James Plumb,"Sule Rimi, Kathy Saxondale, Lee Bane",Horror,2.5
+987,I Am Not a Hipster,2012,90,Destin Daniel Cretton,"Dominic Bogart, Alvaro Orlando, Tammy Minoff","Drama, Music",6.6
+988,Puppet Master X: Axis Rising,2012,86,Charles Band,"Kip Canyon, Jean Louise O'Sullivan, Oto Brezina","Action, Comedy, Fantasy",3.8
+989,The Legend of Kaspar Hauser,2012,95,Davide Manuli,"Vincent Gallo, Claudia Gerini, Fabrizio Gifuni","Drama, Mystery",6.5
+990,The Orheim Company,2012,104,Arild Andresen,"Vebjørn Enger, Kristoffer Joner, Cecilie A. Mosli",Drama,7.0
+991,Mais qui a re-tué Pamela Rose?,2012,90,"Olivier Baroux, Kad Merad","Kad Merad, Olivier Baroux, Omar Sy",Comedy,5.3
+992,Toad Road,2012,76,Jason Banker,"James Davidson, Sara Anne Jones, Whitleigh Higuera","Drama, Horror, Sci-Fi",5.0
+993,Eddie: The Sleepwalking Cannibal,2012,90,Boris Rodriguez,"Thure Lindhardt, Georgina Reilly, Dylan Smith","Comedy, Horror",5.7
+994,Almost Perfect,2012,100,Hella Joof,"Lene Maria Christensen, Nikolaj Lie Kaas, Mia Lyhne","Comedy, Romance",5.9
+995,The Last Step,2012,88,Ali Mosaffa,"Leila Hatami, Ali Mosaffa, Alireza Aghakhani",Drama,7.2
+996,Fraktus - Das letzte Kapitel der Musikgeschichte,2012,95,"Lars Jessen, Jacques Palminger, Rocko Schamoni","Devid Striesow, Heinz Strunk, Rocko Schamoni","Comedy, Music",7.0
+997,Kill 'em All,2012,86,Raimund Huber,"Johnny Messner, Chia-Hui Liu, Ammara Siripong","Action, Crime, Thriller",4.5
+998,The Renovation,2012,101,Will Koopman,"Tjitske Reidinga, Mark Rietman, Nanette Drazic","Drama, Thriller",6.0
+999,Where the Dead Go to Die,2012,95,Jimmy ScreamerClauz,"Ruby Larocca, Brandon Slagle, Joey Smack","Animation, Fantasy, Horror",3.9
+1000,Sexual Tension: Volatile,2012,85,"Marco Berger, Marcelo Briem Stamm","Lucas Lagré, Mario Verón, Javier De Pietro",Drama,6.3
