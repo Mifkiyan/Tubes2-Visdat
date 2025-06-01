@@ -1,0 +1,1001 @@
+﻿ID,Name,Year,Duration,Directors,Actors,Genres,Rating
+1,The Lord of the Rings: The Return of the King,2003,201.0,Peter Jackson,"Elijah Wood, Viggo Mortensen, Ian McKellen","Adventure, Drama, Fantasy",9.0
+2,Pirates of the Caribbean: The Curse of the Black Pearl,2003,143.0,Gore Verbinski,"Johnny Depp, Geoffrey Rush, Orlando Bloom","Action, Adventure, Fantasy",8.1
+3,Kill Bill: Vol. 1,2003,111.0,Quentin Tarantino,"Uma Thurman, David Carradine, Daryl Hannah","Action, Crime, Thriller",8.2
+4,Finding Nemo,2003,100.0,"Andrew Stanton, Lee Unkrich","Albert Brooks, Ellen DeGeneres, Alexander Gould","Animation, Adventure, Comedy",8.2
+5,Oldboy,2003,120.0,Park Chan-wook,"Choi Min-sik, Yoo Ji-tae, Kang Hye-jeong","Action, Drama, Mystery",8.3
+6,The Matrix Reloaded,2003,138.0,"Lana Wachowski, Lilly Wachowski","Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss","Action, Sci-Fi",7.2
+7,X2: X-Men United,2003,134.0,Bryan Singer,"Patrick Stewart, Hugh Jackman, Halle Berry","Action, Sci-Fi, Thriller",7.4
+8,The Matrix Revolutions,2003,129.0,"Lana Wachowski, Lilly Wachowski","Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss","Action, Sci-Fi",6.7
+9,Love Actually,2003,135.0,Richard Curtis,"Hugh Grant, Martine McCutcheon, Liam Neeson","Comedy, Drama, Romance",7.6
+10,Lost in Translation,2003,102.0,Sofia Coppola,"Bill Murray, Scarlett Johansson, Giovanni Ribisi","Comedy, Drama",7.7
+11,Mystic River,2003,138.0,Clint Eastwood,"Sean Penn, Tim Robbins, Kevin Bacon","Crime, Drama, Mystery",7.9
+12,The Last Samurai,2003,154.0,Edward Zwick,"Tom Cruise, Ken Watanabe, Billy Connolly","Action, Drama",7.8
+13,Big Fish,2003,125.0,Tim Burton,"Ewan McGregor, Albert Finney, Billy Crudup","Adventure, Drama, Fantasy",8.0
+14,Bruce Almighty,2003,101.0,Tom Shadyac,"Jim Carrey, Jennifer Aniston, Morgan Freeman","Comedy, Fantasy",6.8
+15,Terminator 3: Rise of the Machines,2003,109.0,Jonathan Mostow,"Arnold Schwarzenegger, Nick Stahl, Kristanna Loken","Action, Sci-Fi",6.3
+16,The Italian Job,2003,111.0,F. Gary Gray,"Donald Sutherland, Mark Wahlberg, Edward Norton","Action, Crime, Thriller",7.0
+17,School of Rock,2003,109.0,Richard Linklater,"Jack Black, Mike White, Joan Cusack","Comedy, Music",7.2
+18,Elf,2003,97.0,Jon Favreau,"Will Ferrell, James Caan, Bob Newhart","Adventure, Comedy, Family",7.1
+19,2 Fast 2 Furious,2003,107.0,John Singleton,"Paul Walker, Tyrese Gibson, Cole Hauser","Action, Crime, Thriller",5.9
+20,How to Lose a Guy in 10 Days,2003,116.0,Donald Petrie,"Kate Hudson, Matthew McConaughey, Adam Goldberg","Comedy, Romance",6.5
+21,Underworld,2003,121.0,Len Wiseman,"Kate Beckinsale, Scott Speedman, Shane Brolly","Action, Fantasy, Thriller",7.0
+22,Hulk,2003,138.0,Ang Lee,"Eric Bana, Jennifer Connelly, Sam Elliott","Action, Sci-Fi",5.6
+23,Bad Boys II,2003,147.0,Michael Bay,"Will Smith, Martin Lawrence, Gabrielle Union","Action, Comedy, Crime",6.6
+24,Identity,2003,90.0,James Mangold,"John Cusack, Ray Liotta, Amanda Peet","Mystery, Thriller",7.3
+25,Old School,2003,88.0,Todd Phillips,"Luke Wilson, Vince Vaughn, Will Ferrell",Comedy,7.0
+26,21 Grams,2003,124.0,Alejandro G. Iñárritu,"Sean Penn, Benicio Del Toro, Naomi Watts","Crime, Drama, Thriller",7.6
+27,Master and Commander: The Far Side of the World,2003,138.0,Peter Weir,"Russell Crowe, Paul Bettany, Billy Boyd","Action, Adventure, Drama",7.5
+28,Memories of Murder,2003,132.0,Bong Joon Ho,"Song Kang-ho, Kim Sang-kyung, Kim Roe-ha","Crime, Drama, Mystery",8.1
+29,Daredevil,2003,103.0,Mark Steven Johnson,"Ben Affleck, Jennifer Garner, Colin Farrell","Action, Crime, Drama",5.3
+30,Anger Management,2003,106.0,Peter Segal,"Jack Nicholson, Adam Sandler, Marisa Tomei",Comedy,6.3
+31,American Wedding,2003,96.0,Jesse Dylan,"Jason Biggs, Alyson Hannigan, Seann William Scott",Comedy,6.3
+32,Final Destination 2,2003,90.0,David R. Ellis,"A.J. Cook, Ali Larter, Tony Todd","Horror, Thriller",6.2
+33,The League of Extraordinary Gentlemen,2003,110.0,Stephen Norrington,"Sean Connery, Stuart Townsend, Peta Wilson","Action, Adventure, Fantasy",5.8
+34,Johnny English,2003,87.0,Peter Howitt,"Rowan Atkinson, John Malkovich, Natalie Imbruglia","Action, Adventure, Comedy",6.3
+35,Once Upon a Time in Mexico,2003,102.0,Robert Rodriguez,"Antonio Banderas, Salma Hayek, Johnny Depp","Action, Crime, Thriller",6.3
+36,Monster,2003,109.0,Patty Jenkins,"Charlize Theron, Christina Ricci, Bruce Dern","Biography, Crime, Drama",7.3
+37,Scary Movie 3,2003,84.0,David Zucker,"Anna Faris, Charlie Sheen, Regina Hall",Comedy,5.6
+38,Dogville,2003,171.0,Lars von Trier,"Nicole Kidman, Paul Bettany, Lauren Bacall","Crime, Drama",8.0
+39,Bad Santa,2003,92.0,Terry Zwigoff,"Billy Bob Thornton, Bernie Mac, Lauren Graham","Comedy, Crime, Drama",7.0
+40,Freaky Friday,2003,97.0,Mark Waters,"Jamie Lee Curtis, Lindsay Lohan, Mark Harmon","Comedy, Family, Fantasy",6.3
+41,Cold Mountain,2003,154.0,Anthony Minghella,"Jude Law, Nicole Kidman, Renée Zellweger","Adventure, Drama, Romance",7.2
+42,The Texas Chainsaw Massacre,2003,98.0,Marcus Nispel,"Jessica Biel, Jonathan Tucker, Andrew Bryniarski",Horror,6.2
+43,S.W.A.T.,2003,117.0,Clark Johnson,"Samuel L. Jackson, Colin Farrell, Michelle Rodriguez","Action, Adventure, Crime",6.1
+44,Good Bye Lenin!,2003,121.0,Wolfgang Becker,"Daniel Brühl, Katrin Sass, Chulpan Khamatova","Comedy, Drama, Romance",7.7
+45,Lara Croft: Tomb Raider - The Cradle of Life,2003,117.0,Jan de Bont,"Angelina Jolie, Gerard Butler, Chris Barrie","Action, Adventure, Fantasy",5.5
+46,The Rundown,2003,104.0,Peter Berg,"Dwayne Johnson, Seann William Scott, Christopher Walken","Action, Adventure, Comedy",6.7
+47,The Recruit,2003,115.0,Roger Donaldson,"Al Pacino, Colin Farrell, Bridget Moynahan","Action, Thriller",6.6
+48,Matchstick Men,2003,116.0,Ridley Scott,"Nicolas Cage, Alison Lohman, Sam Rockwell","Comedy, Crime, Drama",7.3
+49,Wrong Turn,2003,84.0,Rob Schmidt,"Eliza Dushku, Jeremy Sisto, Emmanuelle Chriqui","Horror, Thriller",6.1
+50,The Dreamers,2003,115.0,Bernardo Bertolucci,"Michael Pitt, Louis Garrel, Eva Green","Drama, Romance",7.1
+51,Charlie's Angels: Full Throttle,2003,106.0,McG,"Drew Barrymore, Lucy Liu, Cameron Diaz","Action, Adventure, Comedy",4.9
+52,Tears of the Sun,2003,121.0,Antoine Fuqua,"Bruce Willis, Cole Hauser, Monica Bellucci","Action, Drama, Thriller",6.6
+53,Something's Gotta Give,2003,128.0,Nancy Meyers,"Jack Nicholson, Diane Keaton, Keanu Reeves","Comedy, Drama, Romance",6.7
+54,Freddy vs. Jason,2003,97.0,Ronny Yu,"Robert Englund, Ken Kirzinger, Kelly Rowland","Action, Horror",5.7
+55,Brother Bear,2003,85.0,"Aaron Blaise, Robert Walker","Joaquin Phoenix, Jeremy Suarez, Rick Moranis","Animation, Adventure, Comedy",6.9
+56,The Life of David Gale,2003,130.0,Alan Parker,"Kevin Spacey, Kate Winslet, Laura Linney","Crime, Drama, Mystery",7.5
+57,Gothika,2003,98.0,Mathieu Kassovitz,"Halle Berry, Penélope Cruz, Robert Downey Jr.","Horror, Mystery, Thriller",5.8
+58,Paycheck,2003,119.0,John Woo,"Ben Affleck, Aaron Eckhart, Uma Thurman","Action, Mystery, Sci-Fi",6.3
+59,Runaway Jury,2003,127.0,Gary Fleder,"John Cusack, Rachel Weisz, Gene Hackman","Crime, Drama, Thriller",7.1
+60,Shanghai Knights,2003,114.0,David Dobkin,"Jackie Chan, Owen Wilson, Fann Wong","Action, Adventure, Comedy",6.2
+61,Cheaper by the Dozen,2003,98.0,Shawn Levy,"Steve Martin, Bonnie Hunt, Hilary Duff","Comedy, Family",5.9
+62,The Core,2003,135.0,Jon Amiel,"Aaron Eckhart, Hilary Swank, Delroy Lindo","Action, Adventure, Sci-Fi",5.5
+63,Holes,2003,117.0,Andrew Davis,"Shia LaBeouf, Sigourney Weaver, Jon Voight","Adventure, Comedy, Drama",7.0
+64,Intolerable Cruelty,2003,100.0,"Joel Coen, Ethan Coen","George Clooney, Catherine Zeta-Jones, Billy Bob Thornton","Comedy, Crime, Romance",6.3
+65,Thirteen,2003,100.0,Catherine Hardwicke,"Evan Rachel Wood, Holly Hunter, Nikki Reed",Drama,6.8
+66,Elephant,2003,81.0,Gus Van Sant,"Elias McConnell, Alex Frost, Eric Deulen","Crime, Drama, Thriller",7.1
+67,Dreamcatcher,2003,134.0,Lawrence Kasdan,"Morgan Freeman, Thomas Jane, Jason Lee","Drama, Horror, Sci-Fi",5.5
+68,The Room,2003,99.0,Tommy Wiseau,"Tommy Wiseau, Juliette Danielle, Greg Sestero",Drama,3.6
+69,House of 1000 Corpses,2003,89.0,Rob Zombie,"Sid Haig, Karen Black, Bill Moseley",Horror,6.0
+70,Mona Lisa Smile,2003,117.0,Mike Newell,"Julia Roberts, Kirsten Dunst, Julia Stiles",Drama,6.6
+71,Munna Bhai M.B.B.S.,2003,156.0,Rajkumar Hirani,"Sanjay Dutt, Arshad Warsi, Gracy Singh","Comedy, Drama",8.1
+72,The Cat in the Hat,2003,82.0,Bo Welch,"Mike Myers, Spencer Breslin, Dakota Fanning","Adventure, Comedy, Family",4.1
+73,"Spring, Summer, Fall, Winter... and Spring",2003,103.0,Kim Ki-duk,"Kim Ki-duk, Oh Yeong-su, Jong-ho Kim","Drama, Romance",8.0
+74,Girl with a Pearl Earring,2003,100.0,Peter Webber,"Scarlett Johansson, Colin Firth, Tom Wilkinson","Biography, Drama, Romance",6.9
+75,Peter Pan,2003,113.0,P.J. Hogan,"Jeremy Sumpter, Jason Isaacs, Olivia Williams","Adventure, Family, Fantasy",6.8
+76,Open Range,2003,139.0,Kevin Costner,"Kevin Costner, Robert Duvall, Diego Luna","Action, Drama, Romance",7.4
+77,High Tension,2003,91.0,Alexandre Aja,"Cécile de France, Maïwenn, Philippe Nahon",Horror,6.7
+78,Ong-Bak: The Thai Warrior,2003,105.0,Prachya Pinkaew,"Tony Jaa, Phetthai Vongkumlao, Pumwaree Yodkamol","Action, Crime, Thriller",7.1
+79,Seabiscuit,2003,140.0,Gary Ross,"Tobey Maguire, Jeff Bridges, Elizabeth Banks","Drama, History, Sport",7.3
+80,Kal Ho Naa Ho,2003,186.0,Nikkhil Advani,"Preity G Zinta, Shah Rukh Khan, Saif Ali Khan","Comedy, Drama, Musical",7.9
+81,Daddy Day Care,2003,92.0,Steve Carr,"Eddie Murphy, Jeff Garlin, Anjelica Huston","Comedy, Family",5.6
+82,Just Married,2003,95.0,Shawn Levy,"Ashton Kutcher, Brittany Murphy, Christian Kane","Comedy, Romance",5.5
+83,"Legally Blonde 2: Red, White & Blonde",2003,95.0,Charles Herman-Wurmfeld,"Reese Witherspoon, Sally Field, Bob Newhart",Comedy,4.8
+84,The Station Agent,2003,89.0,Tom McCarthy,"Peter Dinklage, Patricia Clarkson, Bobby Cannavale","Comedy, Drama",7.6
+85,House of Sand and Fog,2003,126.0,Vadim Perelman,"Jennifer Connelly, Ben Kingsley, Ron Eldard","Crime, Drama",7.5
+86,Jeepers Creepers 2,2003,104.0,Victor Salva,"Jonathan Breck, Ray Wise, Nicki Aycox",Horror,5.7
+87,Love Me If You Dare,2003,93.0,Yann Samuell,"Guillaume Canet, Marion Cotillard, Thibault Verhaeghe","Comedy, Drama, Romance",7.5
+88,A Tale of Two Sisters,2003,114.0,Kim Jee-woon,"Lim Soo-jung, Yum Jung-ah, Kim Kap-su","Drama, Horror, Mystery",7.1
+89,Coffee and Cigarettes,2003,95.0,Jim Jarmusch,"Bill Murray, Tom Waits, Roberto Benigni","Comedy, Drama, Music",7.0
+90,Spy Kids 3: Game Over,2003,84.0,Robert Rodriguez,"Daryl Sabara, Alexa PenaVega, Antonio Banderas","Action, Adventure, Comedy",4.4
+91,Out of Time,2003,105.0,Carl Franklin,"Denzel Washington, Sanaa Lathan, Eva Mendes","Crime, Drama, Mystery",6.5
+92,What a Girl Wants,2003,105.0,Dennie Gordon,"Amanda Bynes, Colin Firth, Kelly Preston","Comedy, Drama, Family",5.8
+93,Basic,2003,98.0,John McTiernan,"John Travolta, Samuel L. Jackson, Connie Nielsen","Crime, Drama, Mystery",6.4
+94,Timeline,2003,116.0,Richard Donner,"Paul Walker, Gerard Butler, Billy Connolly","Action, Adventure, Sci-Fi",5.6
+95,Secondhand Lions,2003,109.0,Tim McCanlies,"Haley Joel Osment, Michael Caine, Robert Duvall","Comedy, Drama, Family",7.5
+96,Duplex,2003,89.0,Danny DeVito,"Ben Stiller, Drew Barrymore, Eileen Essell",Comedy,5.9
+97,Under the Tuscan Sun,2003,113.0,Audrey Wells,"Diane Lane, Raoul Bova, Sandra Oh","Comedy, Drama, Romance",6.7
+98,Sinbad: Legend of the Seven Seas,2003,86.0,"Patrick Gilmore, Tim Johnson","Brad Pitt, Catherine Zeta-Jones, Joseph Fiennes","Animation, Adventure, Comedy",6.7
+99,The Haunted Mansion,2003,88.0,Rob Minkoff,"Eddie Murphy, Marsha Thomason, Jennifer Tilly","Comedy, Family, Fantasy",5.2
+100,The Triplets of Belleville,2003,80.0,Sylvain Chomet,"Michèle Caucheteux, Jean-Claude Donda, Michel Robin","Animation, Adventure, Comedy",7.7
+101,Open Water,2003,79.0,Chris Kentis,"Blanchard Ryan, Daniel Travis, Saul Stein","Adventure, Drama, Horror",5.8
+102,National Security,2003,88.0,Dennis Dugan,"Martin Lawrence, Steve Zahn, Colm Feore","Action, Comedy, Crime",5.6
+103,Stuck on You,2003,118.0,"Bobby Farrelly, Peter Farrelly","Matt Damon, Greg Kinnear, Eva Mendes",Comedy,5.8
+104,American Splendor,2003,101.0,"Shari Springer Berman, Robert Pulcini","Paul Giamatti, Shari Springer Berman, Harvey Pekar","Biography, Comedy, Drama",7.4
+105,The Hunted,2003,94.0,William Friedkin,"Tommy Lee Jones, Benicio Del Toro, Connie Nielsen","Action, Crime, Drama",6.1
+106,Bulletproof Monk,2003,104.0,Paul Hunter,"Chow Yun-Fat, Seann William Scott, Jaime King","Action, Comedy, Fantasy",5.5
+107,The Blind Swordsman: Zatoichi,2003,116.0,Takeshi Kitano,"Takeshi Kitano, Tadanobu Asano, Yui Natsukawa","Action, Comedy, Crime",7.4
+108,Gigli,2003,121.0,Martin Brest,"Ben Affleck, Jennifer Lopez, Justin Bartha","Comedy, Crime, Romance",2.7
+109,11:14,2003,86.0,Greg Marcks,"Henry Thomas, Colin Hanks, Ben Foster","Comedy, Crime, Drama",7.1
+110,Tokyo Godfathers,2003,92.0,"Shôgo Furuya, Satoshi Kon","Tôru Emori, Yoshiaki Umegaki, Aya Okamoto","Animation, Adventure, Comedy",7.8
+111,A Man Apart,2003,109.0,F. Gary Gray,"Vin Diesel, Timothy Olyphant, Larenz Tate","Action, Crime, Drama",6.0
+112,Swimming Pool,2003,102.0,François Ozon,"Charlotte Rampling, Charles Dance, Ludivine Sagnier","Crime, Drama, Mystery",6.7
+113,The Return,2003,110.0,Andrey Zvyagintsev,"Vladimir Garin, Ivan Dobronravov, Konstantin Lavronenko",Drama,7.9
+114,Honey,2003,94.0,Bille Woodruff,"Jessica Alba, Mekhi Phifer, Romeo Miller","Drama, Music, Romance",5.3
+115,Cradle 2 the Grave,2003,101.0,Andrzej Bartkowiak,"Jet Li, DMX, Mark Dacascos","Action, Crime, Drama",5.8
+116,Taxi 3,2003,84.0,Gérard Krawczyk,"Samy Naceri, Frédéric Diefenthal, Bernard Farcy","Action, Comedy, Crime",5.8
+117,Uptown Girls,2003,92.0,Boaz Yakin,"Brittany Murphy, Dakota Fanning, Heather Locklear","Comedy, Drama, Romance",6.2
+118,Down with Love,2003,101.0,Peyton Reed,"Ewan McGregor, Renée Zellweger, David Hyde Pierce","Comedy, Romance",6.3
+119,Radio,2003,109.0,Michael Tollin,"Cuba Gooding Jr., Ed Harris, Debra Winger","Biography, Drama, Sport",6.9
+120,The Medallion,2003,88.0,Gordon Chan,"Jackie Chan, Lee Evans, Claire Forlani","Action, Comedy, Fantasy",5.2
+121,Dumb and Dumberer: When Harry Met Lloyd,2003,85.0,Troy Miller,"Derek Richardson, Eric Christian Olsen, Eugene Levy",Comedy,3.5
+122,The Lizzie McGuire Movie,2003,94.0,Jim Fall,"Hilary Duff, Adam Lamberg, Clayton Snyder","Adventure, Comedy, Family",5.6
+123,Evil,2003,113.0,Mikael Håfström,"Andreas Wilson, Henrik Lundström, Gustaf Skarsgård",Drama,7.7
+124,Looney Tunes: Back in Action,2003,91.0,Joe Dante,"Brendan Fraser, Jenna Elfman, Steve Martin","Animation, Adventure, Comedy",5.8
+125,Hollywood Homicide,2003,116.0,Ron Shelton,"Harrison Ford, Josh Hartnett, Isaiah Washington","Action, Comedy, Crime",5.3
+126,The Missing,2003,137.0,Ron Howard,"Tommy Lee Jones, Cate Blanchett, Evan Rachel Wood","Adventure, Drama, Thriller",6.5
+127,Bringing Down the House,2003,105.0,Adam Shankman,"Steve Martin, Queen Latifah, Eugene Levy",Comedy,5.6
+128,House of the Dead,2003,90.0,Uwe Boll,"Jonathan Cherry, Tyron Leitso, Clint Howard","Action, Adventure, Horror",2.1
+129,Touching the Void,2003,106.0,Kevin Macdonald,"Simon Yates, Joe Simpson, Brendan Mackey","Documentary, Adventure, Drama",7.9
+130,Shattered Glass,2003,94.0,Billy Ray,"Hayden Christensen, Chloë Sevigny, Steve Zahn","Drama, History",7.1
+131,Agent Cody Banks,2003,102.0,Harald Zwart,"Frankie Muniz, Hilary Duff, Andrew Francis","Action, Adventure, Comedy",5.1
+132,The Cooler,2003,101.0,Wayne Kramer,"William H. Macy, Maria Bello, Alec Baldwin","Drama, Romance",6.9
+133,Confidence,2003,97.0,James Foley,"Edward Burns, Dustin Hoffman, Rachel Weisz","Crime, Thriller",6.6
+134,Kangaroo Jack,2003,89.0,David McNally,"Anthony Anderson, Jerry O'Connell, Estella Warren","Action, Adventure, Comedy",4.5
+135,Darkness Falls,2003,86.0,Jonathan Liebesman,"Chaney Kley, Emma Caulfield Ford, Antony Burrows","Fantasy, Horror, Mystery",5.0
+136,Dead End,2003,85.0,"Jean-Baptiste Andrea, Fabrice Canepa","Ray Wise, Lin Shaye, Mick Cain","Adventure, Horror, Mystery",6.5
+137,Anything Else,2003,108.0,Woody Allen,"Woody Allen, Jason Biggs, Christina Ricci","Comedy, Romance",6.3
+138,The Human Stain,2003,106.0,Robert Benton,"Anthony Hopkins, Nicole Kidman, Ed Harris","Drama, Romance, Thriller",6.2
+139,Ruby & Quentin,2003,85.0,Francis Veber,"Gérard Depardieu, Jean Reno, Richard Berry","Comedy, Crime",7.1
+140,My Boss's Daughter,2003,86.0,David Zucker,"Ashton Kutcher, Tara Reid, Andy Richter","Comedy, Romance",4.7
+141,The Barbarian Invasions,2003,99.0,Denys Arcand,"Rémy Girard, Dorothée Berryman, Stéphane Rousseau","Comedy, Crime, Drama",7.5
+142,A Mighty Wind,2003,91.0,Christopher Guest,"Christopher Guest, Eugene Levy, Michael McKean","Comedy, Music",7.2
+143,View from the Top,2003,87.0,Bruno Barreto,"Gwyneth Paltrow, Christina Applegate, Kelly Preston","Comedy, Romance",5.3
+144,Koi... Mil Gaya,2003,171.0,Rakesh Roshan,"Rekha, Hrithik Roshan, Preity G Zinta","Action, Drama, Fantasy",7.2
+145,Beyond Borders,2003,127.0,Martin Campbell,"Clive Owen, Angelina Jolie, Linus Roache","Adventure, Drama, Romance",6.4
+146,Calendar Girls,2003,108.0,Nigel Cole,"Helen Mirren, Julie Walters, Penelope Wilton","Comedy, Drama",6.9
+147,Ned Kelly,2003,110.0,Gregor Jordan,"Heath Ledger, Orlando Bloom, Geoffrey Rush","Action, Adventure, Biography",6.4
+148,Capturing the Friedmans,2003,107.0,Andrew Jarecki,"Arnold Friedman, Jesse Friedman, David Friedman","Documentary, Biography, Crime",7.6
+149,Control,2003,111.0,Nimród Antal,"Sándor Csányi, Eszter Balla, Zoltán Mucsi","Comedy, Crime, Drama",7.6
+150,In the Cut,2003,119.0,Jane Campion,"Meg Ryan, Mark Ruffalo, Jennifer Jason Leigh","Mystery, Thriller",5.4
+151,From Justin to Kelly,2003,81.0,Robert Iscove,"Kelly Clarkson, Justin Guarini, Katherine Bailess","Comedy, Music, Musical",1.9
+152,Anbe Sivam,2003,160.0,Sundar C.,"Kamal Haasan, Madhavan, Kiran Rathod","Adventure, Comedy, Drama",8.6
+153,My Life Without Me,2003,106.0,Isabel Coixet,"Sarah Polley, Scott Speedman, Mark Ruffalo","Drama, Romance",7.4
+154,The Green Butchers,2003,100.0,Anders Thomas Jensen,"Nikolaj Lie Kaas, Mads Mikkelsen, Line Kruse","Comedy, Drama",7.2
+155,The Fog of War,2003,107.0,Errol Morris,"Robert McNamara, John F. Kennedy, Fidel Castro","Documentary, Biography, History",8.0
+156,Cold Creek Manor,2003,118.0,Mike Figgis,"Dennis Quaid, Sharon Stone, Stephen Dorff","Drama, Mystery, Thriller",5.0
+157,The Best of Youth,2003,374.0,Marco Tullio Giordana,"Luigi Lo Cascio, Alessio Boni, Jasmine Trinca","Drama, Romance",8.5
+158,The United States of Leland,2003,108.0,Matthew Ryan Hoge,"Ryan Gosling, Don Cheadle, Kevin Spacey",Drama,6.9
+159,Wonderland,2003,104.0,James Cox,"Val Kilmer, Lisa Kudrow, Kate Bosworth","Crime, Drama, Mystery",6.5
+160,Kopps,2003,90.0,Josef Fares,"Fares Fares, Torkel Petersson, Göran Ragnerstam","Action, Comedy",6.7
+161,Carandiru,2003,145.0,Hector Babenco,"Enrique Diaz, Wagner Moura, Caio Blat","Crime, Drama",7.6
+162,Pieces of April,2003,80.0,Peter Hedges,"Katie Holmes, Oliver Platt, Patricia Clarkson","Comedy, Drama",7.0
+163,Veronica Guerin,2003,98.0,Joel Schumacher,"Cate Blanchett, Colin Farrell, Brenda Fricker","Biography, Crime, Drama",6.8
+164,In Hell,2003,98.0,Ringo Lam,"Jean-Claude Van Damme, Lawrence Taylor, Lloyd Battista","Action, Drama, Thriller",6.1
+165,The Corporation,2003,145.0,"Mark Achbar, Jennifer Abbott","Mikela Jay, Rob Beckwermert, Christopher Gora","Documentary, History",8.0
+166,Battle Royale II,2003,133.0,"Kenta Fukasaku, Kinji Fukasaku","Tatsuya Fujiwara, Ai Maeda, Shûgo Oshinari","Action, Adventure, Drama",4.6
+167,Saints and Soldiers,2003,90.0,Ryan Little,"Corbin Allred, Alexander Polinsky, Kirby Heyborne","Action, Drama, War",6.7
+168,Head of State,2003,95.0,Chris Rock,"Chris Rock, Bernie Mac, Lynn Whitfield",Comedy,5.5
+169,In Your Name,2003,132.0,Satish Kaushik,"Salman Khan, Bhoomika Chawla, Sachin Khedekar","Action, Drama, Romance",7.2
+170,Malibu's Most Wanted,2003,86.0,John Whitesell,"Jamie Kennedy, Ryan O'Neal, Blair Underwood","Comedy, Crime",5.2
+171,Code 46,2003,93.0,Michael Winterbottom,"Tim Robbins, Samantha Morton, Om Puri","Drama, Romance, Sci-Fi",6.1
+172,Willard,2003,100.0,Glen Morgan,"Crispin Glover, R. Lee Ermey, Laura Harring","Drama, Horror, Thriller",6.1
+173,Infernal Affairs II,2003,119.0,"Wai Keung Lau, Alan Mak","Edison Chen, Shawn Yue, Anthony Chau-Sang Wong","Action, Crime, Drama",7.2
+174,One Missed Call,2003,112.0,Takashi Miike,"Kô Shibasaki, Shin'ichi Tsutsumi, Kazue Fukiishi","Horror, Mystery",6.2
+175,Latter Days,2003,107.0,C. Jay Cox,"Wes Ramsey, Steve Sandvoss, Mary Kay Place","Comedy, Drama, Romance",7.0
+176,A Guy Thing,2003,101.0,Chris Koch,"Jason Lee, Julia Stiles, Selma Blair","Comedy, Romance",5.6
+177,The Jungle Book 2,2003,72.0,Steve Trenbirth,"John Goodman, Haley Joel Osment, Tony Jay","Animation, Adventure, Comedy",5.3
+178,The Order,2003,102.0,Brian Helgeland,"Heath Ledger, Mark Addy, Shannyn Sossamon","Horror, Mystery, Thriller",5.1
+179,Gangaajal,2003,157.0,Prakash Jha,"Ajay Devgn, Gracy Singh, Mohan Joshi","Action, Crime, Drama",7.8
+180,Baghban,2003,181.0,Ravi Chopra,"Amitabh Bachchan, Hema Malini, Salman Khan","Drama, Romance",7.4
+181,The In-Laws,2003,98.0,Andrew Fleming,"Albert Brooks, Michael Douglas, Ryan Reynolds","Action, Comedy, Thriller",5.7
+182,Hungama,2003,153.0,Priyadarshan,"Akshaye Khanna, Aftab Shivdasani, Rimi Sen","Comedy, Drama, Romance",7.6
+183,Party Monster,2003,98.0,"Fenton Bailey, Randy Barbato","Macaulay Culkin, Wilson Cruz, Seth Green","Biography, Crime, Drama",6.2
+184,Gods and Generals,2003,219.0,Ron Maxwell,"Stephen Lang, Robert Duvall, Jeff Daniels","Biography, Drama, History",6.2
+185,I'm Not Scared,2003,108.0,Gabriele Salvatores,"Aitana Sánchez-Gijón, Dino Abbrescia, Giorgio Careccia","Crime, Drama, Mystery",7.4
+186,Chalte Chalte,2003,167.0,Aziz Mirza,"Shah Rukh Khan, Rani Mukerji, Jas Arora","Drama, Romance",6.5
+187,The Brown Bunny,2003,93.0,Vincent Gallo,"Vincent Gallo, Chloë Sevigny, Cheryl Tiegs",Drama,4.9
+188,Vizontele Tuuba,2003,111.0,Yilmaz Erdogan,"Yilmaz Erdogan, Demet Akbag, Altan Erkekli","Comedy, Drama, History",6.5
+189,Interstella 5555: The 5tory of the 5ecret 5tar 5ystem,2003,68.0,"Daisuke Nishio, Hirotoshi Rissen, Kazuhisa Takenouchi","Romanthony, Thomas Bangalter","Animation, Adventure, Music",7.8
+190,Intermission,2003,105.0,John Crowley,"Cillian Murphy, Kelly Macdonald, Colin Farrell","Comedy, Crime, Drama",6.8
+191,Luther,2003,123.0,Eric Till,"Joseph Fiennes, Bruno Ganz, Peter Ustinov","Biography, Drama, History",6.6
+192,Dickie Roberts: Former Child Star,2003,98.0,Sam Weisman,"David Spade, Mary McCormack, Alyssa Milano",Comedy,5.6
+193,Owning Mahowny,2003,104.0,Richard Kwietniowski,"Philip Seymour Hoffman, Minnie Driver, John Hurt","Crime, Drama, Thriller",7.0
+194,Azumi,2003,128.0,Ryûhei Kitamura,"Aya Ueto, Kenji Kohashi, Hiroki Narimiya","Action, Adventure, Drama",6.7
+195,Infernal Affairs III,2003,118.0,"Wai Keung Lau, Alan Mak","Tony Leung Chiu-wai, Andy Lau, Leon Lai","Action, Crime, Drama",6.8
+196,A Touch of Spice,2003,108.0,Tassos Boulmetis,"Georges Corraface, Ieroklis Michaelidis, Renia Louizidou",Drama,7.4
+197,Undead,2003,97.0,"Michael Spierig, Peter Spierig","Felicity Mason, Mungo McKay, Rob Jenkins","Action, Comedy, Fantasy",5.3
+198,Young Adam,2003,98.0,David Mackenzie,"Ewan McGregor, Tilda Swinton, Peter Mullan","Crime, Drama",6.3
+199,Biker Boyz,2003,110.0,Reggie Rock Bythewood,"Laurence Fishburne, Derek Luke, Orlando Jones","Action, Drama",4.7
+200,Alex & Emma,2003,96.0,Rob Reiner,"Luke Wilson, Kate Hudson, David Paymer","Comedy, Romance",5.5
+201,Grind,2003,105.0,Casey La Scala,"Adam Brody, Joey Kern, Mike Vogel","Adventure, Comedy, Sport",5.9
+202,Shade,2003,101.0,Damian Nieman,"Joe Nicolo, Carl Mazzocone Sr., George Tovar","Crime, Thriller",6.3
+203,Beyond Re-Animator,2003,96.0,Brian Yuzna,"Jeffrey Combs, Tommy Dean Musset, Jason Barry","Comedy, Horror, Sci-Fi",5.7
+204,Maqbool,2003,132.0,Vishal Bhardwaj,"Irrfan Khan, Tabu, Pankaj Kapur","Crime, Drama, Thriller",8.0
+205,The Divorce,2003,117.0,James Ivory,"Kate Hudson, Naomi Watts, Stockard Channing","Comedy, Drama, Romance",4.9
+206,The Shape of Things,2003,96.0,Neil LaBute,"Paul Rudd, Rachel Weisz, Gretchen Mol","Comedy, Drama, Romance",6.6
+207,Facing Windows,2003,102.0,Ferzan Özpetek,"Giovanna Mezzogiorno, Massimo Girotti, Raoul Bova","Drama, Romance",7.2
+208,The Man Who Copied,2003,124.0,Jorge Furtado,"Lázaro Ramos, Leandra Leal, Luana Piovani","Comedy, Crime, Drama",7.6
+209,Time of the Wolf,2003,114.0,Michael Haneke,"Isabelle Huppert, Anaïs Demoustier, Béatrice Dalle",Drama,6.4
+210,Monsieur Ibrahim,2003,95.0,François Dupeyron,"Omar Sharif, Pierre Boulanger, Gilbert Melki","Comedy, Drama",7.3
+211,The Snow Walker,2003,103.0,Charles Martin Smith,"Barry Pepper, Annabella Piugattuk, James Cromwell","Adventure, Drama",7.3
+212,Last Life in the Universe,2003,112.0,Pen-Ek Ratanaruang,"Tadanobu Asano, Sinitta Boonyasak, Takashi Miike","Comedy, Drama, Romance",7.4
+213,Ju-On: The Grudge 2,2003,92.0,Takashi Shimizu,"Noriko Sakai, Chiharu Niiyama, Kei Horie","Drama, Horror, Mystery",6.3
+214,Foolproof,2003,94.0,William Phillips,"Ryan Reynolds, Kristin Booth, Joris Jarsky","Action, Comedy, Crime",6.4
+215,Sylvia,2003,100.0,Christine Jeffs,"Gwyneth Paltrow, Daniel Craig, Lucy Davenport","Biography, Drama, Romance",6.3
+216,Okkadu,2003,171.0,Gunasekhar,"Mahesh Babu, Bhoomika Chawla, Prakash Raj","Action, Drama, Romance",8.0
+217,All the Real Girls,2003,108.0,David Gordon Green,"Zooey Deschanel, Paul Schneider, Patricia Clarkson","Drama, Romance",6.7
+218,The Memory of a Killer,2003,123.0,Erik Van Looy,"Koen De Bouw, Werner De Smedt, Jan Decleir","Action, Crime, Drama",7.2
+219,Slim Susie,2003,97.0,Ulf Malmros,"Tuva Novotny, Jonas Rimeika, Björn A. Ling","Comedy, Crime, Mystery",6.9
+220,The Classic,2003,127.0,Jae-young Kwak,"Son Ye-jin, Zo In-sung, Cho Seung-woo","Drama, Romance",7.7
+221,How to Deal,2003,101.0,Clare Kilner,"Mandy Moore, Trent Ford, Dylan Baker","Comedy, Drama, Romance",5.6
+222,It's All About Love,2003,106.0,Thomas Vinterberg,"Joaquin Phoenix, Claire Danes, Sean Penn","Drama, Romance, Sci-Fi",5.3
+223,Tupac: Resurrection,2003,112.0,Lauren Lazin,"Tupac Shakur, Rappin' 4-Tay, Conrad Bain","Documentary, Biography, Music",7.9
+224,Love Don't Cost a Thing,2003,100.0,Troy Byer,"Nick Cannon, Christina Milian, Jordan Burg","Comedy, Romance, Drama",5.2
+225,Noi the Albino,2003,93.0,Dagur Kári,"Tómas Lemarquis, Þröstur Leó Gunnarsson, Elín Hansdóttir","Comedy, Drama",7.3
+226,Osama,2003,83.0,Siddiq Barmak,"Marina Golbahari, Zubaida Sahar, Khwaja Nader",Drama,7.3
+227,The Sleeping Dictionary,2003,109.0,Guy Jenkin,"Jessica Alba, Brenda Blethyn, Hugh Dancy","Drama, Romance",6.5
+228,Wonderful Days,2003,86.0,Moon-saeng Kim,"Andrew Ableson, Cathy Cavadini, Joon-ho Chung","Animation, Action, Adventure",6.6
+229,The Five Obstructions,2003,90.0,"Jørgen Leth, Lars von Trier","Claus Nissen, Majken Algren Nielsen, Daniel Hernandez Rodriguez",Documentary,7.4
+230,Stander,2003,111.0,Bronwen Hughes,"Thomas Jane, David O'Hara, Dexter Fletcher","Action, Biography, Crime",7.0
+231,Rugrats Go Wild,2003,80.0,"John Eng, Norton Virgien","Jodi Carlisle, Lacey Chabert, Tim Curry","Animation, Adventure, Comedy",5.6
+232,I'll Sleep When I'm Dead,2003,103.0,Mike Hodges,"Clive Owen, Malcolm McDowell, Jonathan Rhys Meyers","Crime, Drama, Mystery",5.8
+233,The Gathering,2003,92.0,Brian Gilbert,"Christina Ricci, Ioan Gruffudd, Stephen Dillane","Horror, Thriller",5.6
+234,Save the Green Planet!,2003,118.0,Jang Joon-hwan,"Shin Ha-kyun, Baek Yoon-shik, Hwang Jung-min","Comedy, Crime, Drama",7.2
+235,Piglet's Big Movie,2003,75.0,Francis Glebas,"John Fiedler, Jim Cummings, Ken Sansom","Animation, Adventure, Comedy",6.1
+236,The Singing Detective,2003,109.0,Keith Gordon,"Robert Downey Jr., Robin Wright, Mel Gibson","Comedy, Crime, Musical",5.4
+237,Dot the I,2003,92.0,Matthew Parkhill,"Gael García Bernal, Natalia Verbeke, James D'Arcy","Drama, Romance, Thriller",6.7
+238,Saraband,2003,107.0,Ingmar Bergman,"Liv Ullmann, Erland Josephson, Börje Ahlstedt","Drama, Music",7.5
+239,Salmer fra kjøkkenet,2003,95.0,Bent Hamer,"Tomas Norström, Joachim Calmeyer, Bjørn Floberg","Comedy, Drama",7.3
+240,Fear X,2003,91.0,Nicolas Winding Refn,"John Turturro, Deborah Kara Unger, Stephen Eric McIntyre",Thriller,6.0
+241,Dorm Daze,2003,96.0,"David Hillenbrand, Scott Hillenbrand","Tatyana Ali, Boti Bliss, Gable Carr","Comedy, Crime, Mystery",4.6
+242,Bumer,2003,110.0,Pyotr Buslov,"Vladimir Vdovichenkov, Andrey Merzlikin, Maksim Konovalov","Crime, Drama",7.1
+243,I Am David,2003,90.0,Paul Feig,"Ben Tibber, Jim Caviezel, Joan Plowright","Adventure, Drama",7.1
+244,I Capture the Castle,2003,113.0,Tim Fywell,"Romola Garai, Rose Byrne, Bill Nighy","Drama, Romance",6.8
+245,Hope Springs,2003,92.0,Mark Herman,"Colin Firth, Minnie Driver, Mary Steenburgen","Comedy, Romance",5.4
+246,Pithamagan,2003,139.0,Bala,"Vikram, Suriya, Laila","Action, Crime, Drama",8.3
+247,Deliver Us from Eva,2003,105.0,Gary Hardwick,"Gabrielle Union, LL Cool J, Essence Atkins","Comedy, Drama, Romance",6.0
+248,The Fighting Temptations,2003,123.0,Jonathan Lynn,"Cuba Gooding Jr., Beyoncé, Mike Epps","Comedy, Drama, Music",5.6
+249,Berlin Blues,2003,105.0,Leander Haußmann,"Christian Ulmen, Katja Danowski, Detlev Buck","Comedy, Drama",7.1
+250,Take My Eyes,2003,109.0,Icíar Bollaín,"Laia Marull, Luis Tosar, Candela Peña","Drama, Romance",7.4
+251,Reconstruction,2003,90.0,Christoffer Boe,"Nikolaj Lie Kaas, Maria Bonnevie, Krister Henriksson","Drama, Romance",7.3
+252,The Miracle of Bern,2003,118.0,Sönke Wortmann,"Louis Klamroth, Peter Lohmeyer, Johanna Gastdorf","Drama, Sport",6.7
+253,The Professional,2003,104.0,Dusan Kovacevic,"Bora Todorovic, Branislav Lecic, Natasa Ninkovic","Comedy, Drama",8.4
+254,Lisbela and the Prisoner,2003,106.0,Guel Arraes,"André Mattos, Aramis Trindade, Bruno Garcia","Comedy, Romance",7.6
+255,The Foreigner,2003,95.0,Michael Oblowitz,"Steven Seagal, Harry Van Gorkum, Max Ryan","Action, Thriller",3.4
+256,Scorched,2003,95.0,Gavin Grazer,"Alicia Silverstone, Rachael Leigh Cook, Woody Harrelson","Comedy, Crime",5.9
+257,Kaakha Kaakha,2003,153.0,Gautham Vasudev Menon,"Suriya, Jyotika, 'University' Jeevan","Action, Crime, Drama",8.0
+258,Aileen: Life and Death of a Serial Killer,2003,93.0,"Nick Broomfield, Joan Churchill","Aileen Wuornos, Nick Broomfield, Terry Humphreys-Slay","Documentary, Crime",7.1
+259,Mambo Italiano,2003,99.0,Émile Gaudreault,"Luke Kirby, Peter Miller, Ginette Reno","Comedy, Drama, Romance",6.7
+260,The Company,2003,112.0,Robert Altman,"Neve Campbell, James Franco, Malcolm McDowell","Drama, Music, Romance",6.2
+261,Japanese Story,2003,106.0,Sue Brooks,"Toni Collette, Gotaro Tsunashima, Lynette Curran","Drama, Romance",6.8
+262,Levity,2003,100.0,Ed Solomon,"Billy Bob Thornton, Morgan Freeman, Kirsten Dunst","Crime, Drama",6.3
+263,Tarnation,2003,88.0,Jonathan Caouette,"Jonathan Caouette, Renee Leblanc, Adolph Davis","Documentary, Biography",7.1
+264,"Goodbye, Dragon Inn",2003,82.0,Tsai Ming-liang,"Kang-sheng Lee, Shiang-chyi Chen, Kiyonobu Mitamura","Drama, Comedy",7.1
+265,Shortcut to Happiness,2003,106.0,Alec Baldwin,"Anthony Hopkins, Jennifer Love Hewitt, Alec Baldwin","Comedy, Drama, Fantasy",5.4
+266,Ghosts of the Abyss,2003,61.0,James Cameron,"Bill Paxton, Lori Johnston, Lewis Abernathy","Documentary, Family",6.8
+267,Bright Young Things,2003,102.0,Stephen Fry,"Stephen Campbell Moore, Emily Mortimer, Dan Aykroyd","Comedy, Drama, War",6.5
+268,The Reckoning,2003,112.0,Paul McGuigan,"Willem Dafoe, Paul Bettany, Marián Aguilera","Crime, Drama, Mystery",6.4
+269,Die Geschichte vom weinenden Kamel,2003,93.0,"Byambasuren Davaa, Luigi Falorni","Janchiv Ayurzana, Chimed Ohin, Amgaabazar Gonson","Documentary, Drama, Family",7.4
+270,Barely Legal,2003,90.0,David Mickey Evans,"Erik von Detten, Tony Denman, Daniel Farber",Comedy,4.7
+271,The Saddest Music in the World,2003,100.0,Guy Maddin,"Isabella Rossellini, Mark McKinney, Maria de Medeiros","Comedy, Musical",7.0
+272,Camp,2003,114.0,Todd Graff,"Don Dixon, Daniel Letterle, Joanna Chilcoat","Comedy, Musical, Drama",6.2
+273,The Yes Men,2003,83.0,"Dan Ollman, Sarah Price, Chris Smith","Andreas Bichlbauer, Mike Bonanno, Andy Bichlbaum","Documentary, Comedy",6.8
+274,Nothing,2003,90.0,Vincenzo Natali,"David Hewlett, Andrew Miller, Gordon Pinsent","Comedy, Fantasy",6.1
+275,Villmark,2003,85.0,Pål Øie,"Bjørn Floberg, Kristoffer Joner, Eva Röse","Adventure, Horror, Mystery",6.1
+276,The Card Player,2003,103.0,Dario Argento,"Stefania Rocca, Liam Cunningham, Silvio Muccino","Horror, Mystery, Thriller",4.9
+277,Crime Spree,2003,105.0,Brad Mirman,"Gérard Depardieu, Harvey Keitel, Johnny Hallyday","Action, Comedy, Crime",6.4
+278,The Statement,2003,120.0,Norman Jewison,"Michael Caine, Tilda Swinton, Alan Bates","Drama, Thriller",6.2
+279,Fanfan,2003,97.0,Gérard Krawczyk,"Vincent Perez, Penélope Cruz, Didier Bourdon","Adventure, Comedy, Romance",5.7
+280,Northfork,2003,103.0,Michael Polish,"Duel Farnes, Nick Nolte, Anthony Edwards","Drama, Fantasy",6.2
+281,Seducing Doctor Lewis,2003,108.0,Jean-François Pouliot,"David Boutin, Lucie Laurier, Raymond Bouchard","Comedy, Drama",7.3
+282,Marci X,2003,84.0,Richard Benjamin,"Lisa Kudrow, Damon Wayans, Richard Benjamin","Comedy, Music",3.0
+283,Crimson Gold,2003,95.0,Jafar Panahi,"Hossain Emadeddin, Kamyar Sheisi, Azita Rayeji","Crime, Drama, Thriller",7.4
+284,Godzilla: Tokyo S.O.S.,2003,91.0,"Masaaki Tezuka, Kôji Hashimoto, Takao Okawara","Noboru Kaneko, Miho Yoshioka, Mickey Koga","Action, Adventure, Fantasy",6.4
+285,Pahat pojat,2003,126.0,Aleksi Mäkelä,"Peter Franzén, Niko Saarela, Lauri Nurkse","Action, Biography, Crime",6.2
+286,The Twins Effect,2003,88.0,Dante Lam,"Gillian Chung, Charlene Choi, Anthony Chau-Sang Wong","Action, Comedy, Horror",5.5
+287,Hazaaron Khwaishein Aisi,2003,120.0,Sudhir Mishra,"Kay Kay Menon, Shiney Ahuja, Chitrangda Singh",Drama,7.9
+288,PTU,2003,85.0,Johnnie To,"Simon Yam, Suet Lam, Ruby Wong","Action, Crime, Drama",7.0
+289,Monster Man,2003,95.0,Michael Davis,"Eric Jungmann, Justin Urich, Aimee Brooks","Adventure, Comedy, Horror",5.6
+290,Main Prem Ki Diwani Hoon,2003,197.0,Sooraj R. Barjatya,"Hrithik Roshan, Kareena Kapoor, Abhishek Bachchan","Comedy, Drama, Musical",3.8
+291,It Runs in the Family,2003,109.0,Fred Schepisi,"Kirk Douglas, Michael Douglas, Bernadette Peters","Comedy, Drama, Romance",5.5
+292,Danny Deckchair,2003,100.0,Jeff Balsmeyer,"Rhys Ifans, Miranda Otto, Justine Clarke","Comedy, Romance",6.7
+293,Baadasssss!,2003,109.0,Mario Van Peebles,"Mario Van Peebles, Nia Long, Joy Bryant","Biography, Drama",7.3
+294,Twentynine Palms,2003,119.0,Bruno Dumont,"Yekaterina Golubeva, David Wissak","Drama, Horror",5.1
+295,Alexandra's Project,2003,103.0,Rolf de Heer,"Gary Sweet, Helen Buday, Bogdan Koca","Drama, Mystery, Thriller",6.5
+296,Alien Hunter,2003,92.0,Ron Krauss,"James Spader, Janine Eser, John Lynch","Action, Adventure, Sci-Fi",5.1
+297,Bon Voyage,2003,114.0,Jean-Paul Rappeneau,"Isabelle Adjani, Gérard Depardieu, Virginie Ledoyen","Comedy, Drama, Mystery",6.7
+298,Nathalie...,2003,100.0,Anne Fontaine,"Fanny Ardant, Emmanuelle Béart, Gérard Depardieu","Drama, Romance",6.3
+299,The Hebrew Hammer,2003,85.0,Jonathan Kesselman,"Adam Goldberg, Andy Dick, Judy Greer",Comedy,6.1
+300,Masked and Anonymous,2003,112.0,Larry Charles,"Bob Dylan, John Goodman, Jessica Lange","Comedy, Drama, Music",5.3
+301,Blind Horizon,2003,99.0,Michael Haussman,"Val Kilmer, Neve Campbell, Sam Shepard","Drama, Mystery, Thriller",5.5
+302,Pauly Shore Is Dead,2003,82.0,"Adam Freeman, Pauly Shore","Ashley L. Anderson, Pamela Anderson, Camille Anderson",Comedy,4.4
+303,Godforsaken,2003,83.0,Pieter Kuijpers,"Egbert Jan Weeber, Tygo Gernandt, Angela Schijf","Crime, Drama, Thriller",7.1
+304,Song for a Raggy Boy,2003,94.0,Aisling Walsh,"Aidan Quinn, Iain Glen, Marc Warren","Drama, History",7.5
+305,The Inheritance,2003,115.0,Per Fly,"Ulrich Thomsen, Lisa Werlinder, Ghita Nørby",Drama,7.2
+306,Fear and Trembling,2003,107.0,Alain Corneau,"Sylvie Testud, Kaori Tsuji, Tarô Suwa","Comedy, Drama",7.0
+307,Pokémon: Jirachi - Wish Maker,2003,81.0,"Kunihiko Yuyama, Eric Stuart","Rica Matsumoto, Veronica Taylor, Eric Stuart","Animation, Action, Adventure",5.7
+308,Silmido,2003,135.0,Kang Woo-suk,"Ahn Sung-ki, Sul Kyung-gu, Huh Joon-ho","Action, Drama",7.0
+309,Blue Collar Comedy Tour: The Movie,2003,105.0,C.B. Harding,"Jeff Foxworthy, Bill Engvall, Ron White","Comedy, Documentary",7.1
+310,Flywheel,2003,120.0,Alex Kendrick,"Rosetta Harris Armstrong, Lisa Arnold, Blake Bailey",Drama,6.6
+311,Ishq Vishk,2003,134.0,Ken Ghosh,"Shahid Kapoor, Amrita Rao, Shenaz Treasury","Comedy, Romance",6.1
+312,The Mother,2003,112.0,Roger Michell,"Anne Reid, Daniel Craig, Anna Wilson-Jones","Drama, Romance",6.7
+313,The Mudge Boy,2003,94.0,Michael Burke,"Emile Hirsch, Richard Jenkins, Tom Guiry","Crime, Drama, Romance",7.1
+314,Buddy,2003,100.0,Morten Tyldum,"Nicolai Cleve Broch, Aksel Hennie, Anders Baasmo","Comedy, Drama, Romance",6.8
+315,Good Boy,2003,87.0,John Hoffman,"Liam Aiken, Matthew Broderick, Molly Shannon","Comedy, Drama, Family",5.1
+316,King of the Ants,2003,102.0,Stuart Gordon,"Chris McKenna, Kari Wuhrer, George Wendt","Crime, Drama, Thriller",6.1
+317,Overnight,2003,82.0,"Tony Montana, Mark Brian Smith","Troy Duffy, Jeffrey Baxter, Chris Brinker",Documentary,7.1
+318,Natural City,2003,114.0,Byung-chun Min,"Yoo Ji-tae, Lee Jae-un, Rin Seo","Action, Drama, Sci-Fi",5.7
+319,The Battle of Shaker Heights,2003,79.0,"Efram Potelle, Kyle Rankin","Shia LaBeouf, Elden Henson, Amy Smart","Comedy, Drama, Romance",6.0
+320,Noviembre,2003,104.0,Achero Mañas,"Óscar Jaenada, Ingrid Rubio, Javier Ríos","Adventure, Comedy, Drama",7.6
+321,Blackball,2003,96.0,Mel Smith,"Paul Kaye, James Cromwell, Alice Evans","Comedy, Drama, Sport",5.6
+322,Chasing Papi,2003,80.0,Linda Mendoza,"Eduardo Verástegui, Roselyn Sanchez, Sofía Vergara","Comedy, Romance",4.8
+323,Michel Vaillant,2003,103.0,Louis-Pascal Couvelaire,"Sagamore Stévenin, Peter Youngblood Hills, Diane Kruger","Action, Sport",5.3
+324,The Big Empty,2003,94.0,Steve Anderson,"Jon Favreau, Joey Lauren Adams, Kelsey Grammer","Comedy, Drama, Mystery",6.0
+325,"Remember Me, My Love",2003,125.0,Gabriele Muccino,"Fabrizio Bentivoglio, Laura Morante, Nicoletta Romanoff","Comedy, Romance, Drama",6.4
+326,Malevolence,2003,90.0,Stevan Mena,"R. Brandon Johnson, Samantha Dark, Heather Magee","Crime, Horror, Mystery",5.1
+327,Warriors of Heaven and Earth,2003,120.0,Ping He,"Wen Jiang, Kiichi Nakai, Xueqi Wang","Action, Adventure, Drama",6.3
+328,Devil's Pond,2003,92.0,Joel Viertel,"Kip Pardue, Tara Reid, Meredith Baxter","Drama, Thriller",5.3
+329,The Gospel of John,2003,180.0,Philip Saville,"Henry Ian Cusick, Daniel Kash, Christopher Plummer","Biography, Drama, History",7.7
+330,Carolina,2003,96.0,Marleen Gorris,"Julia Stiles, Shirley MacLaine, Alessandro Nivola","Comedy, Drama, Romance",6.1
+331,Bhoot,2003,113.0,Ram Gopal Varma,"Ajay Devgn, Urmila Matondkar, Nana Patekar","Horror, Mystery, Thriller",6.4
+332,Boys,2003,172.0,S. Shankar,"Siddharth, Nakhul, Bharath Srinivasan","Comedy, Drama, Music",7.2
+333,Kaena: The Prophecy,2003,92.0,"Chris Delaporte, Pascal Pinon","Kirsten Dunst, Anjelica Huston, Richard Harris","Animation, Adventure, Family",6.0
+334,Moolaadé,2003,124.0,Ousmane Sembene,"Fatoumata Coulibaly, Maimouna Hélène Diarra, Salimata Traoré",Drama,7.6
+335,The Third Wave,2003,115.0,Anders Nilsson,"Jakob Eklund, Irina Björklund, Nicholas Farrell","Action, Crime, Thriller",6.3
+336,Under Construction,2003,113.0,Ömer Vargi,"Emre Kinay, Sevket Çoruh, Suna Pekuysal","Comedy, Crime, Drama",7.2
+337,"Good Morning, Night",2003,106.0,Marco Bellocchio,"Maya Sansa, Luigi Lo Cascio, Roberto Herlitzka",Drama,7.1
+338,Darna Mana Hai,2003,121.0,Prawaal Raman,"Saif Ali Khan, Boman Irani, Nana Patekar",Horror,6.3
+339,Torremolinos 73,2003,91.0,Pablo Berger,"Javier Cámara, Candela Peña, Juan Diego","Comedy, Drama",6.5
+340,The Last Horror Movie,2003,80.0,Julian Richards,"Kevin Howarth, Mark Stevenson, Antonia Beamish","Horror, Thriller",5.5
+341,Spirtokouto,2003,80.0,Yannis Economides,"Errikos Litsis, Eleni Kokkidou, Costas Xikominos",Drama,7.0
+342,2LDK,2003,70.0,Yukihiko Tsutsumi,"Maho Nonami, Eiko Koike, Maki Tsujimura","Comedy, Drama, Horror",6.8
+343,Anatomy 2,2003,101.0,Stefan Ruzowitzky,"August Diehl, Ariane Schnug, Herbert Knaup","Horror, Sci-Fi, Thriller",5.1
+344,End of the Century: The Story of the Ramones,2003,110.0,"Jim Fields, Michael Gramaglia","Rick Rubin, Tommy Ramone, Dee Dee Ramone","Documentary, Biography, Music",7.9
+345,The Real Cancun,2003,96.0,Rick de Oliveira,"Benjamin Fletcher, Nicole Frilot, Roxanne Frilot",Documentary,2.9
+346,Comandante,2003,99.0,Oliver Stone,"Fidel Castro, Oliver Stone, Juanita Vera",Documentary,6.9
+347,Symetria,2003,99.0,Konrad Niewolski,"Arkadiusz Detmer, Andrzej Chyra, Janusz Bukowski","Drama, Thriller",7.6
+348,Grand Theft Parsons,2003,88.0,David Caffrey,"Johnny Knoxville, Christina Applegate, Marley Shelton","Adventure, Comedy, Drama",6.0
+349,Love Object,2003,88.0,Robert Parigi,"Desmond Harrington, Melissa Sagemiller, Udo Kier","Drama, Horror, Romance",6.3
+350,Anne B. Real,2003,91.0,Lisa France,"Carlos Leon, Eric Smith, Jackie Quinones",Drama,2.3
+351,Nicotina,2003,90.0,Hugo Rodríguez,"Diego Luna, Marta Belaustegui, Rosa María Bianchi","Action, Comedy, Crime",6.5
+352,Simhadri,2003,170.0,"S.S. Rajamouli, G.R. Krishna, J.V.V. Sathyanarayana","N.T. Rama Rao Jr., Bhoomika Chawla, Ankita","Action, Drama",7.3
+353,Zelary,2003,150.0,Ondrej Trojan,"Anna Geislerová, György Cserhalmi, Ivan Trojan","Drama, Romance, War",7.5
+354,Fat Pizza,2003,96.0,Paul Fenech,"Paul Fenech, Tahir Bilgic, Rob Shehadie","Action, Adventure, Comedy",5.6
+355,Schultze Gets the Blues,2003,114.0,Michael Schorr,"Horst Krause, Harald Warmbrunn, Karl-Fred Müller","Comedy, Drama, Music",7.0
+356,Anus Magillicutty,2003,70.0,Morey Fineburgh,"Lloyd Garner III, Paige Abbott, Joe Hall","Comedy, Romance",2.3
+357,Evilenko,2003,118.0,David Grieco,"Malcolm McDowell, Marton Csokas, Ronald Pickup","Crime, Drama, Thriller",6.1
+358,The Flower of Evil,2003,104.0,Claude Chabrol,"Nathalie Baye, Benoît Magimel, Suzanne Flon","Drama, Thriller",6.4
+359,La gran aventura de Mortadelo y Filemón,2003,107.0,Javier Fesser,"Benito Pocino, Pepe Viyuela, Dominique Pinon","Action, Adventure, Comedy",5.3
+360,Into the Mirror,2003,113.0,Sung-ho Kim,"Yoo Ji-tae, Kim Myung-min, Kim Hye-na","Horror, Mystery, Thriller",6.4
+361,Bukowski: Born into This,2003,130.0,John Dullaghan,"Charles Bukowski, Bono, John Bryan","Documentary, Biography",7.8
+362,Imagining Argentina,2003,107.0,Christopher Hampton,"Antonio Banderas, Emma Thompson, Rubén Blades","Drama, Romance, Thriller",6.1
+363,The Waiting Room,2003,94.0,Zeki Demirkubuz,"Zeki Demirkubuz, Nurhayat Kavrak, Nilüfer Açikalin",Drama,6.3
+364,LOC: Kargil,2003,255.0,J.P. Dutta,"Sanjay Dutt, Ajay Devgn, Saif Ali Khan","Action, Drama, History",5.4
+365,Black Cadillac,2003,93.0,John Murlowski,"Randy Quaid, Shane Johnson, Josh Hammond","Horror, Thriller",5.7
+366,Swimming Upstream,2003,114.0,Russell Mulcahy,"Geoffrey Rush, Judy Davis, Jesse Spencer","Biography, Drama, Sport",7.0
+367,To Kill a King,2003,102.0,Mike Barker,"Tim Roth, Dougray Scott, Olivia Williams","Biography, Drama, History",6.2
+368,Running on Karma,2003,93.0,"Johnnie To, Ka-Fai Wai","Andy Lau, Cecilia Cheung, Eddie Cheung","Action, Drama, Thriller",6.6
+369,Off the Map,2003,105.0,Campbell Scott,"Valentina de Angelis, Joan Allen, Sam Elliott",Drama,7.1
+370,Strayed,2003,95.0,André Téchiné,"Emmanuelle Béart, Gaspard Ulliel, Grégoire Leprince-Ringuet","Drama, Romance, War",6.5
+371,Pearls and Pigs,2003,113.0,Perttu Leppä,"Mikko Leppilampi, Laura Birn, Amanda Pilke",Comedy,6.4
+372,Café Lumière,2003,108.0,Hsiao-Hsien Hou,"Yo Hitoto, Tadanobu Asano, Masato Hagiwara",Drama,6.8
+373,Absolon,2003,96.0,David De Bartolome,"Christopher Lambert, Kelly Brook, Lou Diamond Phillips","Sci-Fi, Action, Thriller",4.2
+374,Gettin' Square,2003,100.0,Jonathan Teplitzky,"Sam Worthington, David Wenham, Freya Stafford","Comedy, Crime, Thriller",6.6
+375,Wishing Stairs,2003,100.0,Jae-yeon Yun,"Song Ji-hyo, Park Han-byeol, Jo An","Horror, Drama",5.8
+376,The Challenge,2003,92.0,Craig Shapiro,"Ashley Olsen, Mary-Kate Olsen, Brian Skala","Adventure, Comedy, Family",5.2
+377,My Architect,2003,116.0,Nathaniel Kahn,"Edmund Bacon, Edwina Pattison Daniels, Balkrishna Doshi","Documentary, Biography",7.4
+378,Phileine Says Sorry,2003,95.0,Robert Jan Westdijk,"Kim van Kooten, Michiel Huisman, Hadewych Minis","Drama, Comedy, Romance",6.0
+379,Beautiful Boxer,2003,118.0,Ekachai Uekrongtham,"Asanee Suwan, Sorapong Chatree, Orn Anong Panyawong","Action, Biography, Drama",7.1
+380,Octane,2003,91.0,Marcus Adams,"Madeleine Stowe, Norman Reedus, Bijou Phillips","Horror, Mystery, Thriller",4.3
+381,Games of Love and Chance,2003,123.0,Abdellatif Kechiche,"Osman Elkharraz, Sara Forestier, Sabrina Ouazani","Comedy, Drama, Romance",6.9
+382,Melvin Goes to Dinner,2003,83.0,Bob Odenkirk,"Michael Blieden, Stephanie Courtney, Matt Price","Comedy, Drama, Romance",6.7
+383,Thirumalai,2003,169.0,Ramana,"Joseph Vijay, Jyotika, Avinash","Action, Romance",7.2
+384,Après Vous,2003,110.0,Pierre Salvadori,"Daniel Auteuil, José Garcia, Sandrine Kiberlain","Comedy, Romance",6.4
+385,Fallo!,2003,120.0,Tinto Brass,"Sara Cosmi, Massimiliano Caroletti, Guglielmo Aru","Drama, Romance",4.9
+386,Caterina in the Big City,2003,107.0,Paolo Virzì,"Alice Teghil, Sergio Castellitto, Margherita Buy","Comedy, Drama",6.8
+387,Tagore,2003,175.0,V.V. Vinayak,"Chiranjeevi, Jyotika, Shriya Saran","Action, Drama",7.9
+388,Haasil,2003,160.0,Tigmanshu Dhulia,"Jimmy Shergill, Hrishitaa Bhatt, Irrfan Khan","Crime, Drama, Romance",7.6
+389,Deep Blue,2003,83.0,"Andy Byatt, Alastair Fothergill","Pierce Brosnan, Michael Gambon, David Attenborough",Documentary,7.4
+390,The Man of the Year,2003,105.0,José Henrique Fonseca,"Murilo Benício, Cláudia Abreu, Natália Lage","Action, Crime, Drama",7.1
+391,Fear of the Dark,2003,86.0,K.C. Bascombe,"Kevin Zegers, Jesse James, Rachel Skarsten",Horror,5.3
+392,"Easy Riders, Raging Bulls: How the Sex, Drugs and Rock 'N' Roll Generation Saved Hollywood",2003,119.0,Kenneth Bowser,"Martin Scorsese, Dennis Hopper, Peter Bogdanovich",Documentary,7.5
+393,The Wild Parrots of Telegraph Hill,2003,83.0,Judy Irving,"Mark Bittner, Maggie McCall, Ivan Stormgart",Documentary,7.8
+394,One Piece: Dead End Adventure,2003,95.0,Kônosuke Uda,"Sarah Chaney, Hiroaki Hirata, Shûichi Ikeda","Animation, Action, Adventure",7.1
+395,Días de fútbol,2003,113.0,David Serrano,"Alberto San Juan, Ernesto Alterio, Natalia Verbeke",Comedy,6.2
+396,Pinjar,2003,188.0,Chandra Prakash Dwivedi,"Urmila Matondkar, Manoj Bajpayee, Sanjay Suri",Drama,7.9
+397,This Girl's Life,2003,104.0,Ash Baron-Cohen,"Juliette Marquis, James Woods, Kip Pardue",Drama,5.6
+398,Blind Shaft,2003,92.0,Yang Li,"Yixiang Li, Baoqiang Wang, Shuangbao Wang","Crime, Drama",7.5
+399,Los Angeles Plays Itself,2003,169.0,Thom Andersen,"Encke King, Ben Alexander, Jim Backus","Documentary, History",7.8
+400,Midsommer,2003,94.0,Carsten Myllerup,"Kristian Leth, Laura Christensen, Tuva Novotny","Drama, Horror, Mystery",5.7
+401,The Rage in Placid Lake,2003,89.0,Tony McNamara,"Ben Lee, Rose Byrne, Garry McDonald",Comedy,6.8
+402,Nousukausi,2003,98.0,Johanna Vuoksenmaa,"Tiina Lymi, Petteri Summanen, Kari-Pekka Toivonen",Comedy,6.6
+403,The Bone Snatcher,2003,89.0,Jason Wulfsohn,"Scott Bairstow, Rachel Shelley, Warrick Grier","Horror, Mystery, Sci-Fi",4.4
+404,Mais qui a tué Pamela Rose?,2003,95.0,Éric Lartigau,"Kad Merad, Olivier Baroux, Gérard Darmon",Comedy,6.0
+405,Quicksand,2003,95.0,John Mackenzie,"Michael Keaton, Michael Caine, Judith Godrèche","Crime, Drama, Thriller",5.3
+406,Pride and Prejudice,2003,104.0,Andrew Black,"Kam Heskin, Orlando Seale, Lucila Solá","Comedy, Romance",5.0
+407,Andaaz,2003,145.0,Raj Kanwar,"Akshay Kumar, Lara Dutta, Priyanka Chopra Jonas","Drama, Musical, Romance",5.2
+408,A Decade Under the Influence,2003,138.0,"Ted Demme, Richard LaGravenese","Francis Ford Coppola, William Friedkin, Robert Altman",Documentary,7.6
+409,O Simdi Asker,2003,125.0,Mustafa Altioklar,"Suzan Aksoy, Pelin Batu, Metin Belgin","Comedy, Drama",4.8
+410,Detective Conan: Crossroad in the Ancient Capital,2003,108.0,Kenji Kodama,"Minami Takayama, Wakana Yamazaki, Kappei Yamaguchi","Animation, Action, Adventure",7.1
+411,Wheel of Time,2003,80.0,Werner Herzog,"The Dalai Lama, Lama Lhundup Woeser, Takna Jigme Sangpo",Documentary,7.1
+412,Mother's Elling,2003,78.0,Eva Isaksen,"Per Christian Ellefsen, Grete Nordrå, Helge Reiss","Comedy, Drama",6.0
+413,Step Into Liquid,2003,88.0,Dana Brown,"Laird Hamilton, Layne Beachley, Dan Malloy","Documentary, Sport",7.4
+414,Os Normais: O Filme,2003,93.0,José Alvarenga Jr.,"Luiz Fernando Guimarães, Fernanda Torres, Marisa Orth",Comedy,6.8
+415,Untold Scandal,2003,124.0,Je-yong Lee,"Jeon Do-yeon, Lee Mi-sook, Bae Yong-jun",Drama,6.8
+416,Hangman's Curse,2003,106.0,Rafal Zielinski,"David Keith, Mel Harris, Leighton Meester","Horror, Mystery, Thriller",4.8
+417,Skenbart: En film om tåg,2003,100.0,Peter Dalle,"Gustaf Hammarsten, Magnus Roosmann, Anna Björk","Comedy, Thriller",6.8
+418,Sex with Love,2003,108.0,Boris Quercia,"Sigrid Alegría, Francisco Pérez-Bannen, Patricio Contreras","Comedy, Romance",6.2
+419,The Hero: Love Story of a Spy,2003,160.0,Anil Sharma,"Sunny Deol, Preity G Zinta, Priyanka Chopra Jonas","Action, Adventure, Drama",5.5
+420,Sleepless Nights,2003,128.0,Hani Khalifa,"Mona Zaki, Hanan Turk, Sherif Mounir","Drama, Romance",7.0
+421,The Danish Experience,2003,109.0,Ali Idris,"Adel Emam, Nicole Saba, Ahmed Rateb","Comedy, Drama",5.6
+422,Father and Son,2003,97.0,Aleksandr Sokurov,"Andrei Shchetinin, Aleksei Neymyshev, Aleksandr Razbash",Drama,6.5
+423,Depuis qu'Otar est parti...,2003,103.0,Julie Bertuccelli,"Esther Gorintin, Nino Khomasuridze, Dinara Drukarova",Drama,7.5
+424,The Revolution Will Not Be Televised,2003,74.0,"Kim Bartley, Donnacha O'Briain","Hugo Chávez, Pedro Carmona, Jesse Helms",Documentary,8.2
+425,3 Deewarein,2003,115.0,Nagesh Kukunoor,"Naseeruddin Shah, Jackie Shroff, Juhi Chawla","Crime, Drama",7.8
+426,Gold Diggers,2003,90.0,Gary Preisler,"Will Friedle, Chris Owen, Louise Lasser","Comedy, Crime",3.0
+427,Cowboys & Angels,2003,89.0,David Gleeson,"Michael Legge, Allen Leech, Amy Shiels","Comedy, Crime, Drama",6.8
+428,Deus é Brasileiro,2003,110.0,Carlos Diegues,"Antônio Fagundes, Wagner Moura, Palomma Duarte","Comedy, Drama, Fantasy",6.0
+429,Kaadhal Konden,2003,150.0,K. Selvaraghavan,"Dhanush, Sonia Agarwal, Sudip","Drama, Romance, Thriller",8.0
+430,Chameli,2003,108.0,Sudhir Mishra,"Kareena Kapoor, Rahul Bose, Rinke Khanna",Drama,6.8
+431,Palabras encadenadas,2003,89.0,Laura Mañá,"Darío Grandinetti, Goya Toledo, Fernando Guillén","Crime, Drama, Thriller",7.0
+432,My Tutor Friend,2003,110.0,Kyeong-hyeong Kim,"Kim Ha-neul, Kwon Sang-woo, Jeong Gwang-jae","Action, Comedy, Romance",6.5
+433,Rosenstrasse,2003,136.0,Margarethe von Trotta,"Katja Riemann, Maria Schrader, Svea Lohde","Drama, War",6.7
+434,Paanch,2003,130.0,Anurag Kashyap,"Kay Kay Menon, Aditya Srivastav, Joy Fernandes","Crime, Thriller",7.6
+435,Detention,2003,98.0,Sidney J. Furie,"Dolph Lundgren, Alex Karzis, Kata Dobó","Action, Drama, Thriller",4.1
+436,Any Way the Wind Blows,2003,127.0,Tom Barman,"Frank Vercruyssen, Diane De Belder, Eric Kloeck","Comedy, Drama",7.1
+437,Rolling Kansas,2003,89.0,Thomas Haden Church,"James Roday Rodriguez, Sam Huntington, Jay Paulson",Comedy,6.0
+438,Saamy,2003,150.0,Hari,"Vikram, Trisha Krishnan, Kota Srinivasa Rao","Action, Drama",7.3
+439,"Gone, But Not Forgotten",2003,94.0,Michael D. Akers,"Matthew Montgomery, Aaron Orr, Ariadne Shaffer","Drama, Mystery, Romance",5.6
+440,Vaseegara,2003,176.0,K. Selva Bharathy,"Joseph Vijay, Sneha, Vadivelu","Comedy, Drama, Romance",6.6
+441,InuYasha the Movie 3: Swords of an Honorable Ruler,2003,99.0,Toshiya Shinohara,"Kappei Yamaguchi, Satsuki Yukino, Kôji Tsujitani","Animation, Action, Adventure",7.6
+442,The Weakness of the Bolshevik,2003,95.0,Manuel Martín Cuenca,"Luis Tosar, Mar Regueras, María Valverde",Drama,6.9
+443,Chouchou,2003,105.0,Merzak Allouache,"Gad Elmaleh, Alain Chabat, Claude Brasseur",Comedy,4.7
+444,Festival Express,2003,90.0,"Bob Smeaton, Frank Cvitanovich","Janis Joplin, Grateful Dead, The Band","Documentary, History, Music",7.5
+445,Kuch Naa Kaho,2003,169.0,Rohan Sippy,"Aishwarya Rai Bachchan, Abhishek Bachchan, Satish Shah","Comedy, Drama, Romance",5.4
+446,C.I.D. Moosa,2003,160.0,Johny Antony,"Dileep, Bhavana, Ashish Vidyarthi","Action, Comedy",8.1
+447,My Girl,2003,110.0,"Vijjapat Kojiw, Songyos Sugmakanan, Nithiwat Tharatorn","Charlie Trairat, Focus Jirakul, Charwin Jitsomboon","Comedy, Romance",7.9
+448,Jism,2003,136.0,Amit Saxena,"Bipasha Basu, John Abraham, Gulshan Grover","Drama, Romance, Thriller",5.3
+449,Nemesis Game,2003,92.0,Jesse Warn,"Carly Pope, Ian McShane, Adrian Paul","Drama, Mystery, Thriller",5.3
+450,Fuse,2003,105.0,Pjer Zalica,"Enis Beslagic, Bogdan Diklic, Sasa Petrovic","Comedy, Drama",7.3
+451,Matrubhoomi: A Nation Without Women,2003,99.0,Manish Jha,"Tulip Joshi, Sudhir Pandey, Sushant Singh",Drama,7.7
+452,Raid,2003,128.0,Tapio Piirainen,"Kai Lehtinen, Oiva Lohtander, Mari Rantasila","Action, Crime, Thriller",7.1
+453,"Josee, the Tiger and the Fish",2003,116.0,Isshin Inudô,"Satoshi Tsumabuki, Chizuru Ikewaki, Juri Ueno","Drama, Romance",7.3
+454,Werner - Gekotzt wird später!,2003,76.0,"Michael Schaack, Toby Genkel","Klaus Büchner, Andi Feldmann, Kulle Westphal","Animation, Comedy",5.6
+455,Travelers and Magicians,2003,108.0,Khyentse Norbu,"Tshewang Dendup, Gup Kado Duba, Dasho Kado","Adventure, Drama",7.4
+456,Ek Aur Ek Gyarah: By Hook or by Crook,2003,144.0,David Dhawan,"Sanjay Dutt, Govinda, Amrita Arora","Action, Comedy, Crime",5.3
+457,Dancing in the Dust,2003,100.0,Asghar Farhadi,"Faramarz Gharibian, Yousef Khodaparast, Baran Kosari",Drama,6.6
+458,High Roller: The Stu Ungar Story,2003,110.0,A.W. Vidmer,"Al Bernstein, Andrew N.S. Glazer, Michael Imperioli","Biography, Drama",6.0
+459,Bookies,2003,88.0,Mark Illsley,"Nick Stahl, Johnny Galecki, Lukas Haas","Comedy, Crime, Drama",5.9
+460,Carmen,2003,115.0,Vicente Aranda,"Paz Vega, Leonardo Sbaraglia, Antonio Dechent","Drama, Romance",6.1
+461,Aragami,2003,78.0,Ryûhei Kitamura,"Takao Osawa, Masaya Katô, Kanae Uotani","Action, Fantasy, Horror",6.6
+462,Strawberries in the Supermarket,2003,83.0,Dusan Milic,"Branka Katic, Srdjan 'Zika' Todorovic, Dubravka Mijatovic","Action, Comedy, Adventure",6.4
+463,...ing,2003,104.0,Lee Eon-hie,"Lim Soo-jung, Kim Rae-won, Lee Mi-sook","Drama, Romance",7.2
+464,Casa de los babys,2003,95.0,John Sayles,"Daryl Hannah, Maggie Gyllenhaal, Mary Steenburgen",Drama,6.4
+465,Soloalbum,2003,89.0,Gregor Schnitzler,"Matthias Schweighöfer, Nora Tschirner, Oliver Wnuk","Comedy, Romance",5.8
+466,Miffo,2003,105.0,Daniel Lind Lagerlöf,"Jonas Karlsson, Livia Millhagen, Ingvar Hirdwall","Comedy, Drama, Romance",5.8
+467,Jhankaar Beats,2003,143.0,Sujoy Ghosh,"Sanjay Suri, Rahul Bose, Juhi Chawla","Comedy, Music, Romance",7.1
+468,Concert for George,2003,140.0,David Leland,"Joe Brown, Eric Clapton, Jools Holland","Documentary, Music",8.6
+469,The Locals,2003,88.0,Greg Page,"Johnny Barker, Dwayne Cameron, Kate Elliott","Comedy, Horror, Thriller",5.5
+470,A Talking Picture,2003,96.0,Manoel de Oliveira,"Leonor Silveira, Filipa de Almeida, John Malkovich","Comedy, Drama, History",6.5
+471,I'll Be There,2003,105.0,Craig Ferguson,"Charlotte Church, Craig Ferguson, Jemma Redgrave","Comedy, Musical, Romance",6.4
+472,"Die, Mommie, Die!",2003,90.0,Mark Rucker,"Charles Busch, Natasha Lyonne, Jason Priestley",Comedy,6.4
+473,Vodka Lemon,2003,90.0,Hiner Saleem,"Romen Avinian, Lala Sarkissian, Ivan Franek","Comedy, Drama",6.7
+474,Lichter,2003,105.0,Hans-Christian Schmid,"Andrzej Górak, Anna Yanovskaya, Sergey Frolov",Drama,7.6
+475,Moon Child,2003,120.0,Takahisa Zeze,"Hyde, Gackt, Leehom Wang","Action, Drama, Sci-Fi",6.2
+476,Samay: When Time Strikes,2003,136.0,Robbie Grewal,"Sushmita Sen, Lucy Bartholomew, Tushar Dalvi","Crime, Mystery, Thriller",7.0
+477,Prey for Rock & Roll,2003,104.0,Alex Steyermark,"Gina Gershon, Lori Petty, Marc Blucas","Drama, Music",6.1
+478,Nijam,2003,196.0,Teja,"Mahesh Babu, Gopichand, Rakshitha","Action, Drama",6.6
+479,"Die Wilden Kerle: Alles ist gut, solange du wild bist!",2003,94.0,Joachim Masannek,"Jimi Blue Ochsenknecht, Raban Bieling, Sarah Kim Gries",Family,5.0
+480,Svidd neger,2003,87.0,Erik Smith Meyer,"Kingsford Siayor, Eirik Junge Eliassen, Björn Granath","Comedy, Crime, Drama",6.5
+481,Grimm,2003,103.0,Alex van Warmerdam,"Teresa Berganza, Johan Leysen, Halina Reijn","Adventure, Comedy, Drama",6.3
+482,Progulka,2003,90.0,Aleksey Uchitel,"Irina Pegova, Pavel Barshak, Evgeniy Tsyganov","Drama, Romance",7.2
+483,Acacia,2003,103.0,Ki-hyeong Park,"Shim Hye-jin, Kim Jin-geun, Moon Oh-bin","Horror, Thriller",5.6
+484,Sin,2003,107.0,Michael Stevens,"Gary Oldman, Ving Rhames, Kerry Washington","Crime, Drama, Thriller",4.5
+485,A Good Lawyer's Wife,2003,104.0,Im Sang-soo,"Moon So-ri, Hwang Jung-min, Youn Yuh-jung","Drama, Romance",6.1
+486,I Love Your Work,2003,111.0,Adam Goldberg,"Marisa Coughlan, Judy Greer, Shalom Harlow","Drama, Mystery",5.1
+487,An American Reunion,2003,93.0,Jim Fitzpatrick,"Jim Fitzpatrick, Jodi Knotts, Corbin Timbrook","Comedy, Drama, Romance",7.7
+488,Dil Ka Rishta,2003,150.0,Naresh Malhotra,"Arjun Rampal, Aishwarya Rai Bachchan, Priyanshu Chatterjee","Drama, Musical, Romance",4.9
+489,Born Rich,2003,75.0,Jamie Johnson,"Ivanka Trump, Georgina Bloomberg, Si Newhouse IV",Documentary,6.5
+490,His Brother,2003,92.0,Patrice Chéreau,"Bruno Todeschini, Éric Caravaca, Nathalie Boutefeu","Drama, Romance",6.9
+491,"Turn Left, Turn Right",2003,95.0,"Johnnie To, Ka-Fai Wai","Takeshi Kaneshiro, Gigi Leung, Edmund Chen","Comedy, Drama, Romance",6.8
+492,Choker Bali: A Passion Play,2003,167.0,Rituparno Ghosh,"Aishwarya Rai Bachchan, Prosenjit Chatterjee, Raima Sen",Drama,7.1
+493,The Actors,2003,91.0,Conor McPherson,"Michael Caine, Dylan Moran, Michael Gambon","Comedy, Crime",5.9
+494,9 Souls,2003,120.0,Toshiaki Toyoda,"Yoshio Harada, Ryûhei Matsuda, Michio Akiyama","Adventure, Comedy, Crime",7.2
+495,The Far Side of the Moon,2003,105.0,Robert Lepage,"Robert Lepage, Anne-Marie Cadieux, Marco Poulin",Drama,7.2
+496,The Story of Marie and Julien,2003,150.0,Jacques Rivette,"Emmanuelle Béart, Jerzy Radziwilowicz, Anne Brochet","Drama, Fantasy, Mystery",6.8
+497,Der Wald vor lauter Bäumen,2003,81.0,Maren Ade,"Eva Löbau, Daniela Holtz, Jan Neumann",Drama,7.2
+498,"Not for, or Against (Quite the Contrary)",2003,111.0,Cédric Klapisch,"Marie Gillain, Vincent Elbaz, Simon Abkarian","Crime, Drama",6.4
+499,Kajmak i marmelada,2003,92.0,Branko Djuric,"Tanja Ribic, Dragan Bjelogrlic, Tom Ban","Drama, Comedy",7.3
+500,You Know Who,2003,115.0,Wael Ihsan,"Muhammad Sad, Hassan Hosny, Abla Kamel","Comedy, Drama, Family",6.7
+501,Le coeur des hommes,2003,100.0,Marc Esposito,"Bernard Campan, Gérard Darmon, Jean-Pierre Darroussin","Comedy, Drama, Romance",6.5
+502,The Mystery of the Yellow Room,2003,118.0,Bruno Podalydès,"Denis Podalydès, Jean-Noël Brouté, Sabine Azéma","Comedy, Crime, Mystery",6.3
+503,Young Gods,2003,104.0,Jukka-Pekka Siili,"Jussi Nikkilä, Reino Nordin, Jarkko Niemi",Drama,4.6
+504,Turkish Tales,2003,94.0,Zeki Alasya,"Mehmet Ali Erbil, Askin Nur Yengi, Onur Selimbeyoglu",Comedy,2.6
+505,Koktebel,2003,100.0,"Boris Khlebnikov, Alexei Popogrebsky","Gleb Puskepalis, Igor Chernevich, Evgeniy Sytyy","Adventure, Drama, Romance",6.9
+506,Sharasôju,2003,100.0,Naomi Kawase,"Kohei Fukungaga, Yuka Hyodo, Naomi Kawase",Drama,7.2
+507,Khushi,2003,161.0,"S.J. Suryah, Sunil Kumar Agrawal","Fardeen Khan, Kareena Kapoor, Amrish Puri","Action, Comedy, Drama",4.2
+508,Dum,2003,166.0,Eeshwar Nivas,"Vivek Oberoi, Dia Mirza, Atul Kulkarni","Action, Crime, Drama",5.7
+509,La petite Lili,2003,104.0,Claude Miller,"Nicole Garcia, Bernard Giraudeau, Jean-Pierre Marielle","Drama, Romance",6.1
+510,Natale in India,2003,96.0,Neri Parenti,"Massimo Boldi, Christian De Sica, Enzo Salvi",Comedy,3.6
+511,Bad Eggs,2003,98.0,Tony Martin,"Mick Molloy, Bob Franklin, Judith Lucy","Comedy, Thriller",6.2
+512,DreamKeeper,2003,174.0,Steve Barron,"August Schellenberg, Eddie Spears, Gary Farmer","Drama, Fantasy",7.5
+513,Easy,2003,99.0,Jane Weinstock,"Marguerite Moreau, Brían F. O'Byrne, Naveen Andrews","Comedy, Romance, Drama",5.7
+514,Nigdy w zyciu!,2003,102.0,Ryszard Zatorski,"Danuta Stenka, Joanna Brodzik, Jan Frycz","Comedy, Drama, Romance",5.6
+515,Behind the Red Door,2003,105.0,Matia Karrell,"Kyra Sedgwick, Kiefer Sutherland, Stockard Channing",Drama,6.3
+516,Soldiers of Salamina,2003,119.0,David Trueba,"Ariadna Gil, Ramon Fontserè, Joan Dalmau",Drama,6.7
+517,My Flesh and Blood,2003,83.0,Jonathan Karsh,"Susan Tom, Anthony Tom, Faith Tom",Documentary,8.3
+518,Zameen,2003,154.0,Rohit Shetty,"Ajay Devgn, Abhishek Bachchan, Bipasha Basu","Action, Adventure, Thriller",5.4
+519,Goldfish Memory,2003,85.0,Liz Gill,"Sean Campion, Flora Montgomery, Stuart Graham","Comedy, Drama",6.4
+520,Rånarna,2003,105.0,Peter Lindmark,"Sofia Helin, Mikael Persbrandt, Stefan Sauk","Action, Crime, Thriller",5.0
+521,16 Years of Alcohol,2003,102.0,Richard Jobson,"Kevin McKidd, Laura Fraser, Susan Lynch","Crime, Drama",6.2
+522,Jajantaram Mamantaram,2003,122.0,Soumitra Ranade,"Jaaved Jaaferi, Gulshan Grover, Joy Fernandes","Action, Adventure, Comedy",6.0
+523,Dhool,2003,180.0,Dharani,"Vikram, Jyotika, Reema Sen","Action, Comedy, Drama",7.2
+524,Not on the Lips,2003,115.0,Alain Resnais,"Sabine Azéma, Isabelle Nanty, Audrey Tautou","Comedy, Musical, Romance",6.4
+525,Strange Gardens,2003,95.0,Jean Becker,"Jacques Villeret, André Dussollier, Thierry Lhermitte","Drama, War",7.0
+526,Girls Will Be Girls,2003,79.0,Richard Day,"Jack Plotnick, Clinton Leupp, Jeffery Roberson","Comedy, Romance",6.9
+527,One Last Dance,2003,101.0,Lisa Niemi,"Patrick Swayze, Lisa Niemi, George De La Pena","Drama, Romance",5.3
+528,Mayor of the Sunset Strip,2003,94.0,George Hickenlooper,"Rodney Bingenheimer, David Bowie, Joey Ramone","Documentary, Biography, Music",7.0
+529,Peter Bell II: The Hunt for the Czar Crown,2003,112.0,Maria Peters,"Quinten Schram, Frensch de Groot, Jordy Mul",Family,5.8
+530,The Uninvited,2003,127.0,Soo-youn Lee,"Park Shin-yang, Jun Ji-hyun, Yoo Seon","Drama, Horror, Thriller",5.7
+531,Evil Breed: The Legend of Samhain,2003,78.0,Christian Viel,"Bobbie Phillips, HoJo Rose, Ginger Lynn","Comedy, Horror",3.2
+532,Happy End,2003,98.0,Amos Kollek,"Audrey Tautou, Justin Theroux, Jennifer Tilly","Comedy, Drama, Romance",5.3
+533,De schippers van de Kameleon,2003,100.0,"Steven de Jong, Marc Willard","Koen van der Donk, Jos van der Donk, Maarten Spanjer","Adventure, Family",6.1
+534,Pudhiya Geethai,2003,140.0,K.P. Jagan,"Joseph Vijay, Meera Jasmine, Ameesha Patel","Action, Drama, Romance",4.8
+535,White Nights,2003,103.0,Farzad Motamen,"Mehdi Ahmadi, Hanieh Tavassoli, Mohsen Shah-Ebrahimi","Drama, Romance",7.6
+536,Planta 4ª,2003,100.0,Antonio Mercero,"Juan José Ballesta, Luis Ángel Priego, Gorka Moreno","Comedy, Drama, Family",6.9
+537,Talaash: The Hunt Begins...,2003,153.0,Suneel Darshan,"Rakhee Gulzar, Akshay Kumar, Kareena Kapoor","Action, Crime, Drama",4.3
+538,Perfect Strangers,2003,96.0,Gaylene Preston,"Rachael Blake, Robyn Malcolm, Madeleine Sami","Drama, Romance, Thriller",5.2
+539,I Witness,2003,95.0,Rowdy Herrington,"Jeff Daniels, James Spader, Portia de Rossi","Action, Crime, Drama",5.7
+540,Interview,2003,90.0,Theo van Gogh,"Katja Schuurman, Pierre Bokma, Theo Maassen",Drama,6.9
+541,Vlad,2003,98.0,Michael D. Sellers,"Francesco Quinn, Billy Zane, Brad Dourif","Horror, Thriller",3.3
+542,Coronado,2003,88.0,Claudio Fäh,"Kristin Dattilo, Clayton Rohner, Michael Lowry","Action, Adventure, Comedy",4.4
+543,Aithe,2003,132.0,Chandra Sekhar Yeleti,"Abhishek, Harinath Babu B., Mohit Chadda","Action, Adventure, Drama",8.0
+544,At Five in the Afternoon,2003,105.0,Samira Makhmalbaf,"Agheleh Rezaie, Abdolgani Yousefrazi, Marzieh Amiri",Drama,6.8
+545,Cell Phone,2003,107.0,Xiaogang Feng,"You Ge, Fan Xu, Guoli Zhang","Drama, Comedy",7.0
+546,Pinocchio 3000,2003,80.0,Daniel Robichaud,"Malcolm McDowell, Sonja Ball, Howard Ryshpan","Animation, Family, Fantasy",3.9
+547,Vampire Hunters,2003,90.0,Wellson Chin,"Ken Chang, Michael Man-Kin Chow, Suet Lam","Action, Horror",4.7
+548,Les clefs de bagnole,2003,90.0,Laurent Baffie,"Laurent Baffie, Daniel Russo, Pascal Sellem",Comedy,5.3
+549,Boom,2003,100.0,Kaizad Gustad,"Amitabh Bachchan, Jackie Shroff, Gulshan Grover","Crime, Thriller",2.3
+550,Battlefield Baseball,2003,87.0,Yûdai Yamaguchi,"Tak Sakaguchi, Atsushi Itô, Hideo Sakaki","Action, Comedy, Horror",5.7
+551,Daybreak,2003,108.0,Björn Runge,"Pernilla August, Jakob Eklund, Leif Andrée",Drama,7.1
+552,La beuze,2003,93.0,"François Desagnat, Thomas Sorriaux","Michaël Youn, Vincent Desagnat, Zoé Félix","Comedy, Crime",4.4
+553,Pupendo,2003,120.0,Jan Hrebejk,"Bolek Polívka, Eva Holubová, Jaroslav Dusek","Comedy, Drama",7.2
+554,"Moi César, 10 ans 1/2, 1m39",2003,91.0,Richard Berry,"Jules Sitruk, Maria de Medeiros, Jean-Philippe Écoffey","Comedy, Drama, Family",6.1
+555,Jonny Vang,2003,85.0,Jens Lien,"Aksel Hennie, Laila Goody, Fridtjov Såheim","Comedy, Drama, Mystery",6.3
+556,Winter Break,2003,92.0,Marni Banack,"Milo Ventimiglia, Eddie Kaye Thomas, Justin Urich","Comedy, Drama",5.0
+557,The Boys & Girl from County Clare,2003,90.0,John Irvin,"Colm Meaney, Bernard Hill, Shaun Evans","Comedy, Music, Romance",6.5
+558,Doppelganger,2003,107.0,Kiyoshi Kurosawa,"Kôji Yakusho, Hiromi Nagasaku, Yûsuke Santamaria","Comedy, Fantasy, Thriller",6.3
+559,Cowards Bend the Knee,2003,60.0,Guy Maddin,"Darcy Fehr, Melissa Dionisio, Amy Stewart","Drama, Romance",6.9
+560,Surplus: Terrorized Into Being Consumers,2003,54.0,Erik Gandini,"John Zerzan, George W. Bush, Fidel Castro",Documentary,6.9
+561,The Bottom of the Sea,2003,92.0,Damián Szifron,"Daniel Hendler, Dolores Fonzi, Gustavo Garzón","Drama, Thriller",6.7
+562,Faster,2003,103.0,Mark Neale,"Ewan McGregor, Valentino Rossi, Max Biaggi","Documentary, Sport",7.7
+563,Promedio Rojo 1,2003,99.0,Nicolás López,"Ariel Levy, Xenia Tostado, Benjamín Vicuña","Action, Adventure, Comedy",5.3
+564,Sword in the Moon,2003,102.0,Kim Ui-seok,"Choi Min-soo, Cho Jae-hyun, Kim Bo-kyung","Action, Drama, Adventure",5.7
+565,Das fliegende Klassenzimmer,2003,110.0,Tomy Wigand,"Ulrich Noethen, Sebastian Koch, Piet Klocke","Comedy, Drama, Family",6.2
+566,Os Imortais,2003,130.0,António-Pedro Vasconcelos,"Joaquim de Almeida, Emmanuelle Seigner, Nicolau Breyner","Action, Crime, Drama",7.3
+567,Andi Ommsen ist der letzte Lude,2003,90.0,Stephen Manuel,"Lotto King Karl, Tobias Schenke, Alexandra Neldel",Comedy,5.6
+568,Askar fi el-mu'askar,2003,105.0,Mohamed Yasine,"Mohamed Henedi, Lekaa El Khamisy, Hassan Hosny",Comedy,5.4
+569,Robot Stories,2003,85.0,Greg Pak,"Tamlyn Tomita, James Saito, Vin Knight","Drama, Romance, Sci-Fi",6.0
+570,Midoo Mashakel,2003,100.0,Muhammad al-Najjar,"Ahmed Helmy, Sherine Abdel Wahab, Hassan Hosny",Comedy,4.9
+571,Where the Red Fern Grows,2003,86.0,"Lyman Dayton, Sam Pillsbury","Joseph Ashton, Dave Matthews, Renee Faia","Drama, Family",6.4
+572,Charlie: The Life and Art of Charles Chaplin,2003,132.0,Richard Schickel,"Charles Chaplin, Sydney Pollack, Bill Irwin","Documentary, Biography",7.9
+573,Ancient Tale: When the Sun Was God,2003,103.0,Jerzy Hoffman,"Michal Zebrowski, Marina Aleksandrova, Malgorzata Foremniak","Adventure, Drama, History",5.6
+574,Qui a tué Bambi?,2003,126.0,Gilles Marchand,"Sophie Quinton, Laurent Lucas, Catherine Jacob","Thriller, Drama",6.1
+575,Flesh for the Beast,2003,89.0,Terry M. West,"Jennifer Leigh, Sergio Jones, Clark Beasley Jr.","Fantasy, Horror",3.6
+576,Tube,2003,113.0,Woon-hak Baek,"Kim Seok-hoon, Bae Doona, Park Sang-min","Action, Crime, Drama",5.4
+577,Visitors,2003,100.0,Richard Franklin,"Radha Mitchell, Susannah York, Ray Barrett","Drama, Horror, Mystery",5.0
+578,Just for Kicks,2003,92.0,Sydney J. Bartholomew Jr.,"Cole Sprouse, Dylan Sprouse, Tom Arnold","Adventure, Comedy, Family",3.0
+579,Twist,2003,97.0,Jacob Tierney,"Nick Stahl, Joshua Close, Gary Farmer",Drama,6.2
+580,Il paradiso all'improvviso,2003,93.0,Leonardo Pieraccioni,"Leonardo Pieraccioni, Angie Cepeda, Alessandro Haber",Comedy,5.4
+581,Game Over,2003,90.0,Vikram Jayanti,"Marc Ghannoum, Joel Benjamin, Michael Greengard",Documentary,6.7
+582,Sol Goode,2003,99.0,Danny Comden,"Amanda Anka, Jason Bateman, Beau Baxter","Comedy, Romance",5.2
+583,The Young Black Stallion,2003,50.0,Simon Wincer,"Biana Tamimi, Richard Romanus, Patrick Elyas","Adventure, Drama, Family",5.4
+584,The Principles of Lust,2003,108.0,Penny Woolcock,"Alec Newman, Marc Warren, Sienna Guillory",Drama,4.9
+585,My Wife Is a Gangster 2,2003,110.0,Heung-sun Jeong,"Shin Eun-kyung, Park Jun-gyu, Jang Se-jin","Action, Comedy, Crime",6.0
+586,Liegen lernen,2003,87.0,Henk Handloegten,"Fabian Busch, Susanne Bormann, Fritzi Haberlandt","Comedy, Drama, Romance",6.8
+587,Wolfsburg,2003,90.0,Christian Petzold,"Benno Fürmann, Nina Hoss, Antje Westermann",Drama,7.2
+588,Evil Words,2003,97.0,Éric Tessier,"Michel Côté, Patrick Huard, Catherine Florent","Drama, Horror, Thriller",6.3
+589,Purple Butterfly,2003,127.0,Ye Lou,"Ziyi Zhang, Tôru Nakamura, Ye Liu","Drama, History, War",6.1
+590,De passievrucht,2003,100.0,Maarten Treurniet,"Peter Paul Muller, Halina Reijn, Carice van Houten",Drama,6.6
+591,The Tesseract,2003,96.0,Oxide Chun Pang,"Jonathan Rhys Meyers, Saskia Reeves, Alexander Rendell","Action, Crime, Drama",5.2
+592,Haramiyyah fi Thailand,2003,105.0,Sandra Nashaat,"Karim Abdel Aziz, Hanan Turk, Maged El-Kidwani","Comedy, Drama, Family",5.8
+593,Ripoux 3,2003,105.0,Claude Zidi,"Philippe Noiret, Thierry Lhermitte, Lorànt Deutsch","Action, Comedy, Crime",5.8
+594,Testosterone,2003,105.0,David Moreton,"David Sutcliffe, Celina Font, Antonio Sabato Jr.","Comedy, Drama, Romance",5.3
+595,Lost Junction,2003,95.0,Peter Masterson,"Neve Campbell, Billy Burke, Jake Busey","Drama, Thriller, Romance",5.5
+596,Live Forever,2003,82.0,John Dower,"Noel Gallagher, Liam Gallagher, Damon Albarn","Documentary, Music",7.1
+597,Blizzard,2003,93.0,LeVar Burton,"Cynthia Ashperger, Paul Bates, Brenda Blethyn","Comedy, Family",5.8
+598,Jedna ruka netleská,2003,103.0,David Ondricek,"Jirí Machácek, Ivan Trojan, Marek Taclík",Comedy,6.7
+599,Dédales,2003,100.0,René Manzor,"Lambert Wilson, Sylvie Testud, Frédéric Diefenthal","Crime, Drama, Mystery",6.8
+600,Johnny,2003,180.0,Pawan Kalyan,"Renu Desai, Raghuvaran, Mallikharjunarao","Action, Drama",5.4
+601,Silent Waters,2003,99.0,Sabiha Sumar,"Kirron Kher, Aamir Ali Malik, Navtej Singh Johar",Drama,7.5
+602,Wolf Summer,2003,87.0,Peder Norlund,"Julia Pauline Boracco Braathen, Jørgen Langhelle, Line Verndal","Adventure, Drama, Family",5.9
+603,"The Tulse Luper Suitcases, Part 1: The Moab Story",2003,127.0,Peter Greenaway,"JJ Feild, Raymond J. Barry, Michèle Bernier","Adventure, Biography, Drama",6.7
+604,Pogoda na jutro,2003,95.0,Jerzy Stuhr,"Jerzy Stuhr, Malgorzata Zajaczkowska, Roma Gasiorowska","Comedy, Drama",7.1
+605,Let's Make a Grandson,2003,83.0,Piotr Weresniak,"Andrzej Grabowski, Malgorzata Kozuchowska, Zbigniew Zamachowski",Comedy,5.6
+606,Wondrous Oblivion,2003,106.0,Paul Morrison,"Sam Smith, Leagh Conwell, Dominic Barklem","Comedy, Drama, Family",7.1
+607,Little Longnose,2003,82.0,"Ilya Maksimov, Konstantin Bronzit, Denis Chernov","Albert Asadullin, Elena Shulman, Evgeniya Igumnova","Animation, Fantasy, Musical",6.7
+608,Blackmail Boy,2003,100.0,"Thanasis Papathanasiou, Michalis Reppas","Nena Menti, Maria Kavoyianni, Akilas Karazisis","Drama, Romance",5.7
+609,Beyond the Limits,2003,111.0,Olaf Ittenbach,"Darren Shahlavi, Russell Friedenberg, David Creedon","Horror, Thriller",4.7
+610,Gang of Roses,2003,94.0,Jean-Claude La Marre,"Monica Calhoun, Lil' Kim, Stacey Dash","Action, Drama, Western",2.6
+611,The Middle of the World,2003,85.0,Vicente Amorim,"Wagner Moura, Cláudia Abreu, Ravi Ramos Lacerda","Drama, Romance",6.5
+612,Liever verliefd,2003,87.0,Pim van Hoeve,"Miryanna van Reeden, Chris Zegers, Romijn Conen","Comedy, Romance",5.9
+613,Tiresia,2003,115.0,Bertrand Bonello,"Laurent Lucas, Clara Choveaux, Thiago Telès",Drama,6.2
+614,Killer Rats,2003,92.0,Tibor Takács,"Sara Downing, Amy Parks, Bailey Chase","Horror, Sci-Fi, Thriller",3.4
+615,Bonjour Monsieur Shlomi,2003,94.0,Shemi Zarhin,"Oshri Cohen, Arieh Elias, Esti Zakheim","Drama, Comedy",7.5
+616,Armaan,2003,158.0,Honey Irani,"Amitabh Bachchan, Anil Kapoor, Preity G Zinta","Drama, Family, Romance",5.3
+617,United,2003,85.0,Magnus Martens,"Håvard Lilleheie, Berte Rommetveit, Geir Vegar Hoel","Comedy, Romance, Sport",6.1
+618,3 Blind Mice,2003,93.0,Mathias Ledoux,"Edward Furlong, Emilia Fox, Chiwetel Ejiofor","Crime, Thriller",4.3
+619,"Achtung, fertig, Charlie!",2003,90.0,Mike Eschmann,"Michael Koch, Melanie Winiger, Mia Aegerter","Comedy, Romance",5.2
+620,Ljeto u zlatnoj dolini,2003,105.0,Srdjan Vuletic,"Haris Sijaric, Svetozar Cvetkovic, Kemal Cebo",Drama,7.1
+621,Dallas 362,2003,100.0,Scott Caan,"Scott Caan, Jeff Goldblum, Shawn Hatosy",Drama,5.9
+622,S21: The Khmer Rouge Killing Machine,2003,101.0,Rithy Panh,"Khieu 'Poev' Ches, Yeay Cheu, Nhem En","Documentary, History, War",7.2
+623,Watermark,2003,76.0,Georgina Willis,"Jai Koutrae, Sandra Stockley, Ruth McDonald","Crime, Drama, Mystery",5.8
+624,Searching for the Wrong-Eyed Jesus,2003,82.0,Andrew Douglas,"Harry Crews, Johnny Dowd, David Eugene Edwards",Documentary,7.6
+625,Gaz Bar Blues,2003,115.0,Louis Bélanger,"Serge Thériault, Gilles Renaud, Sébastien Delorme","Drama, Comedy",7.6
+626,Bienvenue chez les Rozes,2003,90.0,Francis Palluau,"Lorànt Deutsch, Jean Dujardin, Clémence Poésy",Comedy,6.1
+627,Married for 7 Years,2003,97.0,Didier Bourdon,"Catherine Frot, Didier Bourdon, Jacques Weber",Comedy,5.9
+628,Lost in Time,2003,109.0,Derek Tung-Sing Yee,"Cecilia Cheung, Ching-Wan Lau, Louis Koo","Drama, Romance",7.3
+629,Dopamine,2003,79.0,Mark Decena,"John Livingston, Sabrina Lloyd, Bruno Campos","Comedy, Drama, Romance",5.9
+630,En la ciudad,2003,110.0,Cesc Gay,"Mónica López, Eduard Fernández, María Pujalte","Drama, Romance",6.7
+631,Baltic Storm,2003,113.0,Reuben Leder,"Greta Scacchi, Jürgen Prochnow, Donald Sutherland","Drama, Thriller",4.0
+632,Verschwende deine Jugend,2003,97.0,Benjamin Quabeck,"Tom Schilling, Robert Stadlober, Jessica Schwarz","Music, Comedy, Drama",6.7
+633,Evil Alien Conquerors,2003,89.0,Chris Matheson,"Michael Weston, Diedrich Bader, Chris Parnell","Comedy, Sci-Fi",4.8
+634,S Club Seeing Double,2003,91.0,Nigel Dick,"Bradley McIntosh, Hannah Spearritt, Jo O'Meara","Comedy, Drama, Musical",4.1
+635,Cialo,2003,98.0,"Tomasz Konecki, Andrzej Saramonowicz","Rafal Królikowski, Tomasz Karolak, Zbigniew Zamachowski",Comedy,6.3
+636,El oro de Moscú,2003,100.0,Jesús Bonilla,"Jesús Bonilla, Santiago Segura, Concha Velasco","Action, Adventure, Comedy",4.8
+637,Orwell Rolls in His Grave,2003,84.0,Robert Kane Pappas,"Vincent Bugliosi, Jeff Cohen, Dennis Kucinich",Documentary,8.0
+638,The Basque Ball: Skin Against Stone,2003,110.0,Julio Medem,"Xabier Arzalluz, Bernardo Atxaga, Txiki Benegas",Documentary,7.1
+639,Horror,2003,77.0,Dante Tomaselli,"Kreskin, Lizzy Mahon, Danny Lopes",Horror,3.8
+640,Dead Bodies,2003,88.0,Robert Quinn,"Andrew Scott, Katy Davis, Eamonn Owens","Comedy, Drama, Horror",6.0
+641,Tempo,2003,83.0,Eric Styles,"Melanie Griffith, Rachael Leigh Cook, Hugh Dancy","Romance, Crime, Thriller",4.6
+642,Falling Angels,2003,109.0,Scott Smith,"Miranda Richardson, Kristin Adams, Monté Gagné",Drama,6.7
+643,2 Brothers & a Bride,2003,94.0,Helmut Schleppi,"David Arquette, Tim Blake Nelson, Emily Mortimer","Comedy, Drama, Romance",6.0
+644,The Magic Gloves,2003,90.0,Martín Rejtman,"Vicentico, Valeria Bertuccelli, Fabián Arenillas","Drama, Comedy",6.8
+645,I Accuse,2003,95.0,John Ketcham,"Estella Warren, John Hannah, John Kapelos","Crime, Drama, Thriller",5.5
+646,The Event,2003,110.0,Thom Fitzgerald,"Parker Posey, Don McKellar, Olympia Dukakis",Drama,6.1
+647,Saaya,2003,135.0,Anurag Basu,"John Abraham, Tara Sharma, Mahima Chaudhry","Drama, Fantasy, Mystery",5.7
+648,Feelings,2003,94.0,Noémie Lvovsky,"Nathalie Baye, Jean-Pierre Bacri, Isabelle Carré","Drama, Romance",6.2
+649,Please Teach Me English,2003,118.0,Sung Soo Kim,"Lee Na-young, Jang Hyuk, Angela Kelly","Comedy, Romance",6.5
+650,Amma Nanna O Tamila Ammayi,2003,154.0,Puri Jagannadh,"Ravi Teja, Jayasudha, Asin","Drama, Sport",7.4
+651,Dudes in the 10th Century,2003,130.0,Imtiaz Punjabi,"Paresh Rawal, Iqbal Khan, Anuj Sawhney","Adventure, Comedy, Family",4.7
+652,Rire et châtiment,2003,94.0,Isabelle Doval,"José Garcia, Isabelle Doval, Laurent Lucas","Comedy, Romance",5.6
+653,Asmali Konak: Hayat,2003,120.0,Abdullah Oguz,"Özcan Deniz, Nurgül Yesilçay, Selda Alkor",Drama,3.6
+654,Monsieur N.,2003,120.0,Antoine de Caunes,"Philippe Torreton, Richard E. Grant, Jay Rodan","Biography, Drama, Mystery",6.5
+655,Remake,2003,108.0,Dino Mustafic,"Ermin Bravo, Aleksandar Seksan, Ermin Sijamija","Drama, History, War",7.7
+656,The Job,2003,83.0,Kenny Golde,"Daryl Hannah, Brad Renfro, Dominique Swain","Action, Crime, Drama",4.3
+657,Incantato,2003,107.0,Pupi Avati,"Neri Marcorè, Vanessa Incontrada, Giancarlo Giannini","Drama, Romance, Comedy",6.6
+658,Betrayal,2003,90.0,Mark L. Lester,"Erika Eleniak, Adam Baldwin, Julie du Page","Action, Drama, Thriller",4.3
+659,"Lucía, Lucía",2003,110.0,Antonio Serrano,"Cecilia Roth, Carlos Álvarez-Nóvoa, Kuno Becker","Adventure, Comedy, Crime",6.0
+660,Move Me,2003,95.0,Morten Arnfred,"Birthe Neumann, Jesper Lohmann, Ditte Gråbøl","Comedy, Drama",6.4
+661,Men Suddenly in Black,2003,98.0,Ho-Cheung Pang,"Eric Tsang, Chapman To, Jordan Chan","Comedy, Drama",6.8
+662,The Blue Light,2003,116.0,Yukio Ninagawa,"Kazunari Ninomiya, Aya Matsuura, Kumiko Akiyoshi","Drama, Crime, Romance",7.2
+663,A Small World,2003,90.0,Milos Radovic,"Predrag 'Miki' Manojlovic, Lazar Ristovski, Branko Djuric",Comedy,6.8
+664,The Pact of Silence,2003,95.0,Graham Guit,"Gérard Depardieu, Élodie Bouchez, Carmen Maura","Drama, Mystery, Romance",5.7
+665,Thilakkam,2003,,Jayaraj,"Dileep, Kavya Madhavan, Nedumudi Venu","Action, Comedy, Drama",6.9
+666,Girl's Love,2003,110.0,Khaled El-Hagar,"Laila Eloui, Ashraf Abdel Baky, Hanan Turk","Comedy, Drama, Romance",6.0
+667,La prophétie des grenouilles,2003,90.0,Jacques-Rémy Girerd,"Michel Piccoli, Anouk Grinberg, Annie Girardot","Animation, Adventure, Family",6.6
+668,Mauvais esprit,2003,90.0,Patrick Alessandrin,"Thierry Lhermitte, Ophélie Winter, Jean-Marie Winling",Comedy,4.6
+669,El Cid: The Legend,2003,90.0,Jose Pozo,"Manel Fuentes, Natalia Verbeke, Loles León","Animation, Adventure, Biography",5.5
+670,Rus Gelin,2003,101.0,Zeki Alasya,"Metin Akpinar, Zeki Alasya, Tatsyana Tsvikeviç",Comedy,3.8
+671,Manassinakkare,2003,152.0,Sathyan Anthikad,"Jayaram, Sheela, Nayanthara","Comedy, Drama",7.5
+672,Ma che colpa abbiamo noi,2003,114.0,Carlo Verdone,"Carlo Verdone, Margherita Buy, Anita Caprioli",Comedy,6.2
+673,Vishnu,2003,180.0,Shaji Kailas,"Vishnu Manchu, Shilpa Anand, Brahmanandam","Action, Romance",4.4
+674,Where's the Party Yaar?,2003,110.0,Benny Mathews,"Diwakar Pathak, Sunil Malhotra, Indravadan Tridevi",Comedy,5.1
+675,Footpath,2003,164.0,Vikram Bhatt,"Aftab Shivdasani, Bipasha Basu, Rahul Dev","Action, Crime, Drama",5.5
+676,The Mindscape of Alan Moore,2003,80.0,"Dez Vylenz, Moritz Winkler","Glenn Doherty, Florian Fischer, Alan Moore","Documentary, Biography",7.5
+677,Beef,2003,103.0,Peter Spirer,"Ving Rhames, 50 Cent, Kevin Anderson",Documentary,7.2
+678,What Alice Found,2003,96.0,A. Dean Bell,"Emily Grace, Judith Ivey, Bill Raymond","Crime, Drama",6.4
+679,Two Days,2003,87.0,Sean McGinly,"Adam Scott, Karl Wiedergott, Mark Phinney","Comedy, Drama",6.1
+680,Gangotri,2003,,K. Raghavendra Rao,"Allu Arjun, Aditi Agarwal, Prakash Raj","Drama, Romance",4.8
+681,Tough Luck,2003,88.0,Gary Ellis,"Norman Reedus, Marco St. John, Rick Negron",Thriller,6.1
+682,Kucch To Hai,2003,143.0,"Anurag Basu, Anil v Kumar","Tusshar Kapoor, Esha Deol, Anita Hassanandani Reddy","Horror, Mystery, Romance",4.4
+683,Paradiset,2003,115.0,Colin Nutley,"Helena Bergström, Suzanna Dilber, Georgi Staykov","Drama, Mystery, Action",4.8
+684,Lost Things,2003,83.0,Martin Murphy,"Leon Ford, Lenka, Steve Le Marquand","Horror, Thriller",5.2
+685,Doraemon: Nobita and the Wind Wizard,2003,84.0,Tsutomu Shibayama,"Nobuyo Ôyama, Noriko Ohara, Michiko Nomura","Animation, Adventure, Comedy",7.0
+686,Jericho Mansions,2003,98.0,Alberto Sciamma,"James Caan, Geneviève Bujold, Jennifer Tilly","Drama, Mystery, Thriller",5.4
+687,All the Way,2003,97.0,Paul Goldman,"Joel Edgerton, Rose Byrne, Dennis Hopper","Biography, Comedy, Drama",5.8
+688,A Certain Kind of Death,2003,69.0,"Grover Babcock, Blue Hadaegh","Fred Corral, Sherwood Dixon, Julie Wilson",Documentary,7.4
+689,LD 50 Lethal Dose,2003,97.0,Simon De Selva,"Katharine Towne, Mel B, Tom Hardy",Horror,3.9
+690,Pornography,2003,117.0,Jan Jakub Kolski,"Krzysztof Majchrzak, Adam Ferency, Krzysztof Globisz","Drama, Romance, War",6.2
+691,The Agronomist,2003,90.0,Jonathan Demme,"Jean Dominique, Aboudja, Ronald Reagan","Documentary, Biography, History",7.3
+692,Xcuse Me,2003,152.0,N. Chandra,"Sharman Joshi, Sahil Khan, Anil Chaudhary",Comedy,5.8
+693,Al sur de Granada,2003,111.0,Fernando Colomo,"Matthew Goode, Verónica Sánchez, Guillermo Toledo","Comedy, Drama, Romance",6.2
+694,Vibrator,2003,95.0,Ryûichi Hiroki,"Shinobu Terajima, Nao Ômori, Riho Makise",Drama,6.9
+695,Sotto falso nome,2004,105.0,Roberto Andò,"Daniel Auteuil, Anna Mouglalis, Greta Scacchi","Drama, Mystery, Romance",6.2
+696,Chori Chori,2003,135.0,Milan Luthria,"Ajay Devgn, Sonali Bendre, Rani Mukerji","Comedy, Romance, Musical",4.8
+697,Deep Breath,2003,86.0,Parviz Shahbazi,"Mansour Shahbazi, Maryam Palizban, Said Amini","Drama, Romance",7.3
+698,"Old, New, Borrowed and Blue",2003,90.0,Natasha Arthy,"Sidse Babett Knudsen, Björn Kjellman, Søren Byder","Comedy, Drama, Romance",5.9
+699,Bulgarian Lovers,2003,101.0,Eloy de la Iglesia,"Fernando Guillén Cuervo, Dritan Biba, Pepón Nieto","Comedy, Crime, Drama",5.8
+700,Magnifico,2003,120.0,Maryo J. de los Reyes,"Lorna Tolentino, Albert Martinez, Gloria Romero",Drama,8.0
+701,The Soul of a Man,2003,103.0,Wim Wenders,"Chris Thomas King, Keith B. Brown, James Hughes","Documentary, Biography, History",7.3
+702,Kærlighed Ved Første Hik 3 - Anja efter Viktor,2003,84.0,Charlotte Sachs Bostrup,"Sofie Lassen-Kahlke, Robert Hansen, Mira Wanting","Comedy, Family, Romance",4.4
+703,Five Dedicated to Ozu,2003,74.0,Abbas Kiarostami,,Documentary,6.4
+704,Ginger and Cinnamon,2003,109.0,Daniele Luchetti,"Stefania Montorsi, Giampaolo Morelli, Martina Merlino","Comedy, Romance",6.5
+705,Payoff,2003,109.0,Gilles Paquet-Brenner,"Stomy Bugsy, Titoff, Élodie Navarre","Action, Crime, Comedy",4.6
+706,Paap,2003,120.0,Pooja Bhatt,"John Abraham, Udita Goswami, Mohan Agashe","Crime, Drama, Romance",5.3
+707,Chronic Bachelor,2003,154.0,Siddique,"Mammootty, Mukesh, Rambha","Comedy, Drama",6.6
+708,Garden of Love,2003,86.0,Olaf Ittenbach,"Natacza Boon, James Matthews-Pyecka, Daryl Jackson","Horror, Thriller",4.5
+709,Bells of Innocence,2003,110.0,Alin Bijan,"Mike Norris, Carey Scott, David A.R. White",Horror,2.9
+710,Rick,2003,100.0,Curtiss Clayton,"Bill Pullman, Aaron Stanford, Agnes Bruckner","Comedy, Drama",5.9
+711,The Gathering!,2003,129.0,Nia Di Nata,"Cut Mini Theo, Tora Sudiro, Aida Nurmala","Comedy, Drama",7.2
+712,Janis et John,2003,105.0,Samuel Benchetrit,"François Cluzet, Sergi López, Marie Trintignant",Comedy,6.1
+713,Superprodukcja,2003,92.0,Juliusz Machulski,"Rafal Królikowski, Piotr Fronczewski, Janusz Rewinski",Comedy,4.7
+714,Ayez haqqi,2003,,Ahmad Nader Galal,"Hani Ramzi, Hind Sabri, Essam Karika",Comedy,5.7
+715,Il est plus facile pour un chameau...,2003,110.0,Valeria Bruni Tedeschi,"Valeria Bruni Tedeschi, Chiara Mastroianni, Jean-Hugues Anglade","Adventure, Comedy, Drama",5.7
+716,Blueprint,2003,108.0,Rolf Schübel,"Franka Potente, Hilmir Snær Guðnason, Ulrich Thomsen","Drama, Sci-Fi",5.6
+717,Los debutantes,2003,114.0,Andrés Waissbluth,"Antonella Ríos, Néstor Cantillana, Juan Pablo Miranda","Crime, Drama, Thriller",6.0
+718,Bombaiyer Bombete,2003,100.0,Sandip Ray,"Sabyasachi Chakrabarty, Parambrata Chattopadhyay, Bibhu Bhattacharya","Adventure, Crime, Family",7.2
+719,The R.M.,2003,101.0,Kurt Hale,"Kirby Heyborne, Daryn Tufts, Will Swenson","Comedy, Crime, Family",5.9
+720,Heroic Duo,2003,100.0,Benny Chan,"Leon Lai, Ekin Cheng, Francis Ng","Action, Crime, Thriller",5.8
+721,Uncle Nino,2003,104.0,Robert Shallcross,"Joe Mantegna, Anne Archer, Pierrino Mascarino","Comedy, Drama, Family",6.5
+722,DysFunktional Family,2003,89.0,George Gallo,"Eddie Griffin, Joe Howard, Matthew Brent","Comedy, Documentary",6.5
+723,Kvinnen i mitt liv,2003,93.0,Alexander Eik,"Thomas Giertsen, Ane Dahl Torp, Gard B. Eidsvold","Romance, Comedy",5.0
+724,Larger Than Life,2003,78.0,Helle Ryslinge,"Shah Rukh Khan, Manisha Koirala, Helle Ryslinge",Documentary,6.4
+725,Niki and Flo,2003,99.0,Lucian Pintilie,"Victor Rebengiuc, Razvan Vasilescu, Coca Bloos",Drama,7.4
+726,The Legend of Evil Lake,2003,92.0,Kwang-hoon Lee,"Jeong Jun-ho, Kim Hyo-jin, Kim Hye-ri","Action, Drama, Fantasy",5.8
+727,The Legend of Johnny Lingo,2003,91.0,Steven Ramirez,"George Henare, Rawiri Paratene, Joe Folau","Action, Adventure, Family",6.1
+728,Stealing Candy,2003,80.0,Mark L. Lester,"Daniel Baldwin, Coolio, Alex McArthur",Thriller,4.4
+729,When Zachary Beaver Came to Town,2003,85.0,John Schultz,"Jonathan Lipnicki, Cody Linley, Jesse Pennington","Comedy, Drama, Family",5.7
+730,Narradores de Javé,2003,100.0,Eliane Caffé,"José Dumont, Nelson Xavier, Matheus Nachtergaele",Drama,7.3
+731,Les enfants de la pluie,2003,90.0,Philippe Leclerc,"Frédéric Cerdal, Pascale Chemin, Mélody Dubos","Animation, Adventure, Fantasy",6.8
+732,200 American,2003,84.0,Richard LeMay,"Matt Walton, Sean Matic, Anthony Ames","Comedy, Drama, Romance",5.2
+733,Nuda v Brne,2003,103.0,Vladimír Morávek,"Katerina Holánová, Jan Budar, Miroslav Donutil","Comedy, Drama, Romance",7.0
+734,Sumuru,2003,94.0,Darrell Roodt,"Alexandra Kamp, Michael Shanks, Simona Williams","Adventure, Sci-Fi, Fantasy",3.6
+735,Shelter Island,2003,82.0,Geoffrey Schaaf,"Ally Sheedy, Patsy Kensit, Stephen Baldwin",Thriller,3.9
+736,Raktha Kanneeru,2003,149.0,Sadhu Kokila,"Abhirami, Kallu Chidambaram, Doddanna","Comedy, Drama",8.1
+737,Dragon Head,2003,122.0,Jôji Iida,"Satoshi Tsumabuki, Sayaka Kanda, Takayuki Yamada","Drama, Mystery, Sci-Fi",5.6
+738,Svjedoci,2003,90.0,Vinko Bresan,"Leon Lucev, Alma Prica, Mirjana Karanovic","Drama, War",6.8
+739,A Lonely Cow Weeps at Dawn,2003,61.0,Daisuke Gotô,"Hôryû Nakamura, Ryôko Asagi, Yumeka Sasaki","Drama, Romance",5.2
+740,Five Moons Plaza,2003,90.0,Renzo Martinelli,"Donald Sutherland, Giancarlo Giannini, Stefania Rocca","Drama, Thriller",6.0
+741,Swapnakoodu,2003,160.0,Kamal,"Prithviraj Sukumaran, Kunchacko Boban, Jayasurya","Comedy, Drama",6.4
+742,15: The Movie,2003,96.0,Royston Tan,"Melvin Chen, Erick Chun, Melvin Lee","Drama, Comedy",6.1
+743,Emile,2003,92.0,Carl Bessai,"Ian McKellen, Deborah Kara Unger, Theo Crane",Drama,6.3
+744,The Movie Hero,2003,98.0,Brad T. Gottfred,"Jeremy Sisto, Dina Meyer, Peter Stormare","Comedy, Romance",6.3
+745,Apám beájulna,2003,90.0,Tamás Sas,"Kata Gáspár, Boglárka Csõsz, András Kern","Adventure, Comedy, Romance",3.4
+746,Stealing Sinatra,2003,96.0,Ron Underwood,"David Arquette, William H. Macy, James Russo","Biography, Comedy, Drama",5.6
+747,The Delicate Art of Parking,2003,90.0,Trent Carlson,"Andrew McNee, Diana Pavlovská, Dov Tiefenbach",Comedy,6.4
+748,Pact with the Devil,2003,89.0,Allan A. Goldstein,"Malcolm McDowell, Ethan Erickson, Victoria Sanchez","Horror, Thriller",3.8
+749,It Happens That Way Too: Part II,2003,137.0,Shashanka Ghosh,"Arshad Warsi, Prashant Narayanan, Sandhya Mridul","Comedy, Crime, Drama",7.4
+750,Nina's Tragedies,2003,110.0,Savi Gabizon,"Ayelet Zurer, Yoram Hattab, Alon Aboutboul","Comedy, Drama",6.9
+751,Dependencia sexual,2003,104.0,Rodrigo Bellott,"Alexandra Aponte, Roberto Urbina, Jorge Antonio Saavedra",Drama,5.8
+752,Abdülhamid Düserken,2003,121.0,Ziya Öztan,"Meltem Cumbul, Mehmet Kurtulus, Halil Ergün","Drama, History",5.7
+753,Buppha Rahtree,2003,109.0,Yuthlert Sippapak,"Chermarn Boonyasak, Krit Sripoomseth, Chompunoot Piyapane","Comedy, Drama, Horror",6.7
+754,Take Away,2003,88.0,Marc Gracie,"Vince Colosimo, Stephen Curry, Rose Byrne",Comedy,5.7
+755,Between Two Women,2003,92.0,Steven Woodcock,"Barbara Marten, Andrina Carroll, Andrew Dunn",Drama,6.3
+756,Corps à corps,2003,101.0,François Hanss,"Thibault Seitz, Maurice Lamy, Emmanuelle Seigner",Thriller,6.0
+757,Skagerrak,2003,104.0,Søren Kragh-Jacobsen,"Iben Hjejle, Bronagh Gallagher, Martin Henderson","Comedy, Drama, Romance",6.1
+758,The Little Polish,2003,92.0,Juan Carlos Desanzo,"Abel Ayala, Marina Glezer, Fernando Roa","Crime, Drama, Romance",6.8
+759,Je reste!,2003,102.0,Diane Kurys,"Sophie Marceau, Vincent Perez, Charles Berling","Comedy, Romance",5.3
+760,Land of Love,2003,91.0,Ilkka Vanne,"Ville Haapasalo, Irina Björklund, Pietro Steiner","Comedy, Romance",5.6
+761,That Day,2003,105.0,Raúl Ruiz,"Bernard Giraudeau, Elsa Zylberstein, Jean-Luc Bideau","Comedy, Crime, Drama",6.6
+762,Stupidity,2003,61.0,Albert Nerenberg,"George W. Bush, Noam Chomsky, John Cleese","Documentary, History",5.4
+763,The Kite,2003,80.0,Randa Chahal Sabag,"Flavia Bechara, Maher Bsaibes, Randa Asmar",Drama,6.4
+764,The Lil' River Rats and the Adventure of the Lost Treasure,2003,80.0,Dan T. Hall,"Moli Hall, Caleb Ely, Alex Ruppert",Adventure,5.2
+765,The Glamorous Life of Sachiko Hanai,2003,90.0,Mitsuru Meike,"Emi Kuroda, Kyôko Hayami, Kanae Mizuhara","Comedy, Drama, Fantasy",5.8
+766,Petites coupures,2003,95.0,Pascal Bonitzer,"Daniel Auteuil, Kristin Scott Thomas, Pascale Bussières",Drama,5.7
+767,Show,2003,120.0,Maciej Slesicki,"Cezary Pazura, Jerzy Stuhr, Joanna Orleanska","Action, Comedy, Crime",6.0
+768,Bodysong,2003,83.0,Simon Pummell,,Documentary,6.7
+769,Olsenbanden Junior går under vann,2003,95.0,Arne Lindtner Næss,"Aksel Støren Aschjem, Thomas Engeset, Lars Berteig Andersen","Comedy, Family",5.1
+770,Eiffel... I'm in Love,2003,262.0,Nasri Cheppy,"Shandy Aulia, Samuel Rizal, Vena Annisa","Comedy, Romance",6.3
+771,Water's Edge,2003,101.0,Harvey Kahn,"Nathan Fillion, Chandra West, Emmanuelle Vaugier","Drama, Thriller",5.0
+772,Vai~E~Vem,2003,175.0,João César Monteiro,"João César Monteiro, Rita Pereira Marques, Joaquina Chicau","Comedy, Drama",6.8
+773,Père et fils,2003,95.0,Michel Boujenah,"Philippe Noiret, Charles Berling, Bruno Putzulu","Comedy, Drama",6.6
+774,Rhinoceros Eyes,2003,92.0,Aaron Woodley,"Michael Pitt, Paige Turco, Gale Harold","Drama, Horror, Romance",6.2
+775,Green Tea,2003,83.0,Yuan Zhang,"Wen Jiang, Wei Zhao, Lijun Fang","Drama, Romance",6.5
+776,Nobody Knows Anything!,2003,88.0,William Tannen,"Linda Black, Alan Blumenfeld, Carmine Caridi",Comedy,3.3
+777,Kamenák,2003,100.0,Zdenek Troska,"Václav Vydra, Jana Paulová, Vera Kuchtová",Comedy,3.1
+778,Julie and Jack,2003,90.0,James Nguyen,"Jenn Gotzon, Tippi Hedren, Justin Kunkle","Drama, Romance, Sci-Fi",1.7
+779,Antikiller 2: Antiterror,2003,89.0,Egor Konchalovskiy,"Gosha Kutsenko, Lyubov Tolkalina, Aleksey Serebryakov","Action, Crime",5.1
+780,Oseam,2003,75.0,Baek-yeob Seong,,"Animation, Family",6.9
+781,Sibelius,2003,120.0,Timo Koivusalo,"Martti Suosalo, Heikki Nousiainen, Miina Turunen","Biography, Drama, History",5.1
+782,Breakfast with Hunter,2003,91.0,Wayne Ewing,"Bob Braudis, Douglas Brinkley, Alex Cox","Documentary, Biography",7.5
+783,The Singing Forest,2003,95.0,Jorge Ameer,"Jon Sherrin, Erin Leigh Price, Eric Morris","Drama, Fantasy, Romance",2.0
+784,Resistance,2003,92.0,Todd Komarnicki,"Bill Paxton, Julia Ormond, Philippe Volter",Drama,5.4
+785,Brocéliande,2003,90.0,Doug Headline,"Elsa Kikoïne, Cylia Malki, Alice Taglioni","Horror, Thriller",3.4
+786,Den of Lions,2003,103.0,James Bruce,"Stephen Dorff, Bob Hoskins, Laura Fraser","Action, Crime, Thriller",4.7
+787,"Love, Sex and Eating the Bones",2003,100.0,Sudz Sutherland,"Hill Harper, Marlyne Barrett, Mark Taylor","Comedy, Romance",5.9
+788,Raghu Romeo,2003,100.0,Rajat Kapoor,"Vijay Raaz, Maria Goretti, Sadiya Siddiqui","Comedy, Crime",6.9
+789,Cautiva,2003,115.0,Gaston Biraben,"Bárbara Lombardo, Susana Campos, Hugo Arana",Drama,7.5
+790,April's Shower,2003,100.0,Trish Doolan,"Maria Cina, Trish Doolan, Frank Grillo","Comedy, Romance",5.0
+791,Penetration Angst,2003,102.0,Wolfgang Büld,"Paul Conway, Fiona Horsey, Philip Hayden","Comedy, Horror",4.2
+792,"Milwaukee, Minnesota",2003,95.0,Allan Mindel,"Troy Garity, Alison Folland, Randy Quaid",Drama,6.1
+793,Beat the Drum,2003,114.0,David Hickson,"Junior Singo, Owen Sejake, Mary Twala",Drama,7.1
+794,Snowboarder,2003,110.0,Olias Barco,"Nicolas Duvauchelle, Grégoire Colin, Juliette Goudot","Crime, Drama, Sport",3.5
+795,Dogville Confessions,2003,52.0,Sami Saif,"Harriet Andersson, Lauren Bacall, Paul Bettany",Documentary,6.6
+796,Consequence,2003,97.0,Anthony Hickox,"Armand Assante, Lola Glaudini, Ricky Schroder","Action, Thriller",4.9
+797,Ghost Rig,2003,90.0,Julian Kean,"Jaason Simmons, Bryan Carney, Juliet Diamond","Drama, Horror, Mystery",4.4
+798,American Cousins,2003,115.0,Don Coutts,"Danny Nucci, Shirley Henderson, Gerald Lepkowski","Crime, Drama",6.1
+799,A Good Night to Die,2003,100.0,Craig Singer,"Michael Rapaport, Gary Stretch, Seymour Cassel","Action, Comedy, Thriller",4.6
+800,Parthiban Kanavu,2003,150.0,Karu Pazhaniappan,"Srikanth, Sneha, Vivek",Drama,7.6
+801,Proteus,2003,97.0,"John Greyson, Jack Lewis","Rouxnet Brown, Shaun Smyth, Neil Sandilands","Drama, Romance",6.4
+802,Tur & retur,2003,89.0,Ella Lemhagen,"Amanda Davin, Jørgen Langhelle, Helena Af Sandeberg",Family,5.7
+803,Kovil,2003,148.0,Hari,"Silambarasan TR, Sonia Agarwal, Vadivelu",Drama,6.1
+804,DJ Hound Dog,2003,86.0,"Migel Delgado, Jon Jacobs","Jon Jacobs, Charlotte Lewis, Tina Wiseman","Comedy, Drama, Music",5.4
+805,Pulival Kalyanam,2003,147.0,Shafi,"Jayasurya, Kavya Madhavan, Lal",Comedy,7.0
+806,Examen,2003,90.0,Titus Muntean,"Marius Stanescu, Gheorghe Dinica, Clara Voda",Drama,7.6
+807,Hunting of Man,2003,88.0,Joe Menendez,"Douglas Spain, JoJo Henrickson, Ruben Garfias",Drama,2.7
+808,Sweet Sex and Love,2003,85.0,Man-dae Bong,"Kim Seo-hyeong, Kim Seong-su, Lee Mi-sook",Drama,5.2
+809,Kilichundan Mampazham,2003,154.0,Priyadarshan,"Mohanlal, Sreenivasan, Soundarya","Comedy, Romance",6.1
+810,Nala Damayanthi,2003,138.0,Mouli,"Madhavan, Geethu Mohandas, Shrutika Arjun",Comedy,7.1
+811,"Jenin, Jenin",2003,54.0,Mohammad Bakri,,Documentary,7.4
+812,Eyarkai,2003,142.0,S.P. Jhananathan,"Shaam, Arun Vijay, Radhika Kumaraswamy","Drama, Romance",7.8
+813,Speed Demon,2003,80.0,David DeCoteau,"Collin Stark, Mark Ian Miller, Candace Moon","Action, Horror, Thriller",2.3
+814,Le pharmacien de garde,2003,84.0,Jean Veber,"Vincent Perez, Guillaume Depardieu, Clara Bellar","Crime, Drama, Horror",5.2
+815,The Mummy's Kiss,2003,88.0,Donald F. Glut,"Mia Zottoli, Sasha Peralto, George Thomas","Fantasy, Horror, Romance",3.4
+816,Kart Racer,2003,94.0,Stuart Gillard,"Randy Quaid, Will Rothhaar, Jennifer Wigmore","Comedy, Drama, Family",5.6
+817,Red Riding Hood,2003,92.0,Giacomo Cimini,"Kathleen Archebald, Susanna Satta, Roberto Davide","Drama, Horror, Thriller",4.6
+818,Bolívar: el héroe,2003,75.0,Guillermo Rincón,"Manuel Cabral, Julio César Luna, Luis Fernando Orozco","Animation, Biography",1.4
+819,Colour of the Truth,2003,104.0,"Marco Mak, Jing Wong","Anthony Chau-Sang Wong, Jordan Chan, Raymond Ho-Yin Wong","Action, Crime, Drama",6.5
+820,Sukdulan,2003,103.0,Mac Alejandre,"Katya Santos, Raymond Bagatsing, Carlo Maceda",Drama,6.2
+821,Paradise Found,2003,93.0,Mario Andreacchio,"Kiefer Sutherland, Nastassja Kinski, Alun Armstrong","Biography, Drama",5.7
+822,Subterano,2003,96.0,Esben Storm,"Alex Dimitriades, Tasma Walton, Alison Whyte","Horror, Sci-Fi",3.9
+823,Hellborn,2003,90.0,Philip J. Jones,"Bruce Payne, Matt Stasi, Tracy Scoggins","Fantasy, Horror",3.4
+824,Blind Flight,2003,97.0,John Furse,"Ian Hart, Linus Roache, Kalim Koleilat",Drama,6.7
+825,Team Spirit 2,2003,105.0,Jan Verheyen,"Tom Van Landuyt, Michael Pas, Axel Daeseleire","Comedy, Drama, Romance",5.7
+826,Las horas del día,2003,103.0,Jaime Rosales,"Alex Brendemühl, Vicente Romero, Antònia Martínez","Drama, Crime",6.4
+827,Jayam,2003,162.0,Mohan Raja,"Ravi Mohan, Sada, Gopichand","Action, Drama, Romance",6.1
+828,Lost Boys of Sudan,2003,87.0,"Megan Mylan, Jon Shenk","Santino Majok Chuor, Jarrid Geduld, Peter Kon Dut",Documentary,7.5
+829,Invitation,2003,85.0,Pat Bermel,"Lance Henriksen, Christopher Shyer, Stellina Rusich","Drama, Thriller, Horror",4.3
+830,If You Were Me,2003,110.0,"Park Chan-wook, Jae-eun Jeong, Park Jin-Pyo","Jeong Ae-yeon, Oh Dal-su, Jeon Eun-hye",Drama,6.5
+831,18 ans après,2003,90.0,Coline Serreau,"André Dussollier, Michel Boujenah, Roland Giraud","Comedy, Drama, Romance",4.6
+832,Little Erin Merryweather,2003,84.0,"David Morwick, Michael Civille","Vigdis Anholt, David Morwick, Elizabeth Callahan","Horror, Thriller",4.4
+833,Aquanoids,2003,78.0,Reinhart 'Rayteam' Peschke,"Laura Nativo, Rhoda Jordan, Edwin Craig",Horror,2.4
+834,Bright Leaves,2003,107.0,Ross McElwee,"Allan Gurganus, Paula Larke, Marilyn Levine","Documentary, Biography, Comedy",7.0
+835,The Cost of Living,2003,110.0,Philippe Le Guay,"Fabrice Luchini, Vincent Lindon, Camille Japy",Comedy,6.0
+836,Alila,2003,123.0,Amos Gitai,"Yaël Abecassis, Hana Laslo, Uri Klauzner","Comedy, Drama",6.2
+837,Loco Love,2003,94.0,Bryan Lewis,"Laura Harring, Roy Werner, Gerardo Mejía","Comedy, Romance",5.2
+838,Ladies' Night,2003,89.0,Gabriela Tagliavini,"Ana Claudia Talancón, Ana de la Reguera, Luis Roberto Guzmán","Comedy, Romance",5.5
+839,Jaal: The Trap,2003,142.0,Guddu Dhanoa,"Sunny Deol, Tabu, Reema Sen","Action, Crime, Drama",4.4
+840,The Fifth Reaction,2003,102.0,Tahmineh Milani,"Homayoun Ershadi, Ali Ghorbanzadeh, Zandish Hamidi","Drama, Thriller",5.8
+841,Babusya,2003,97.0,Lidiya Bobrova,"Nina Shubina, Olga Onishchenko, Anna Ovsyannikova",Drama,7.4
+842,Raghavendra,2003,151.0,Suresh Krishna,"Prabhas, Anshu, Shweta Agarwal","Action, Drama, Romance",4.8
+843,Cleopatra,2003,104.0,Eduardo Mignogna,"Norma Aleandro, Natalia Oreiro, Leonardo Sbaraglia","Comedy, Drama",6.6
+844,Oi gennaioi tis Samothrakis,2003,85.0,Stamatis Tsarouchas,"Renos Haralambidis, Costas Santas, Dimitris Piatas",Comedy,5.9
+845,Spare Parts,2003,87.0,Damjan Kozole,"Peter Musevski, Aljosa Kovacic, Primoz Petkovsek",Drama,6.8
+846,Balettan,2003,146.0,V.M. Vinu,"Mohanlal, Devayani, Gopika Anil","Comedy, Drama",6.4
+847,Odoru daisosasen the movie 2: Rainbow Bridge wo fuusa seyo!,2003,138.0,Katsuyuki Motohiro,"Yûji Oda, Toshirô Yanagiba, Eri Fukatsu","Crime, Action, Comedy",5.9
+848,Eager Bodies,2003,94.0,Xavier Giannoli,"Laura Smet, Nicolas Duvauchelle, Marie Denarnaud",Drama,6.0
+849,Perico ripiao,2003,94.0,Ángel Muñiz,"Raymond Pozo, Manolo Ozuna, Phillip Rodríguez",Comedy,7.3
+850,Devotion,2003,92.0,Igor Zaritzky,"Annett Renneberg, Simon Böer, Tomek Piotrowski","Drama, Thriller, Mystery",6.2
+851,Gun-Shy,2003,105.0,Dito Tsintsadze,"Fabian Hinrichs, Lavinia Wilson, Johan Leysen","Crime, Drama, Thriller",6.5
+852,Eierdiebe,2003,87.0,Robert Schwentke,"Wotan Wilke Möhring, Julia Hummer, Antoine Monot","Comedy, Drama, Romance",6.8
+853,Skinhead Attitude,2003,90.0,Daniel Schweizer,"Laurel Aitken, Buster Bloodvessel, Jimmy Pursey",Documentary,7.2
+854,Nikos the Impaler,2003,100.0,Andreas Schnaas,"Joe Zaso, Felissa Rose, Andreas Schnaas","Comedy, Horror, Thriller",3.7
+855,The Emperor's Wife,2003,100.0,Julien Vrebos,"Jonathan Rhys Meyers, Max Beesley, Rosana Pastor","Adventure, Drama, Fantasy",5.3
+856,Red Serpent,2003,90.0,Gino Tanasescu,"Michael Paré, Roy Scheider, Oleg Taktarov","Adventure, Action",2.0
+857,Laisse tes mains sur mes hanches,2003,101.0,Chantal Lauby,"Chantal Lauby, Claude Perron, Rossy de Palma","Comedy, Romance",5.7
+858,999-9999,2003,103.0,Peter Manus,"Chulachak Chakrabongse, Sririta Jensen, Paula Taylor","Comedy, Horror, Thriller",5.2
+859,Moner Majhe Tumi,2003,150.0,Motiur Rahman Panu,"Riaz, Purnima, Jisshu Sengupta","Comedy, Drama",7.2
+860,Shubho Mahurat,2003,150.0,Rituparno Ghosh,"Sharmila Tagore, Nandita Das, Kalyani Mandal","Crime, Mystery",7.7
+861,Mumbai Se Aaya Mera Dost,2003,146.0,Apoorva Lakhia,"Abhishek Bachchan, Lara Dutta, Chunky Pandey","Action, Comedy, Drama",3.3
+862,Tintin et moi,2003,75.0,Anders Østergaard,"Hergé, Numa Sadoul, Michael Farr","Documentary, Biography",7.6
+863,Drunken Monkey,2003,97.0,Chia-Liang Liu,"Jing Wu, Wing-Kin Lau, Shannon Yao","Action, Adventure, Comedy",5.8
+864,Satta,2003,153.0,Madhur Bhandarkar,"Raveena Tandon, Atul Kulkarni, Shri Vallabh Vyas","Crime, Drama",6.8
+865,Hanging Offense,2003,100.0,Guillaume Nicloux,"Josiane Balasko, Éric Caravaca, Ange Rodot","Drama, Mystery, Thriller",6.1
+866,The Book of Fate,2003,85.0,"Tommi Lepola, Tero Molin","Asko Sahlman, Markku Partanen, Juha-Pekka Mikkola","Action, Fantasy, Horror",3.7
+867,Nez rouge,2003,114.0,Erik Canuel,"Patrick Huard, Michèle-Barbara Pelletier, Pierre Lebeau","Comedy, Romance",6.2
+868,Lost Treasure,2003,85.0,Jim Wynorski,"Stephen Baldwin, Nicollette Sheridan, Coby Ryan McLaughlin",Action,3.9
+869,Gift from Above,2003,108.0,Dover Koshashvili,"Yuval Segal, Rami Heuberger, Moni Moshonov",Drama,5.8
+870,Suite Habana,2003,80.0,Fernando Pérez,"Francisquito Cardet, Francisco Cardet, Norma Pérez",Documentary,7.2
+871,Quigley,2003,89.0,William Byron Hillman,"Gary Busey, Osgood Perkins, Curtis Armstrong","Comedy, Family, Fantasy",2.6
+872,Onmyoji 2,2003,112.0,Yôjirô Takita,"Mansai Nomura, Hideaki Itô, Kiichi Nakai","Action, Fantasy",6.0
+873,Noam Chomsky: Rebel Without a Pause,2003,74.0,Will Pascoe,"Noam Chomsky, Carol Chomsky","Documentary, War",7.1
+874,Finding Home,2003,124.0,Lawrence David Foldes,"Lisa Brenner, Misha Collins, Geneviève Bujold","Drama, Romance",5.3
+875,Girlhood,2003,82.0,Liz Garbus,,"Documentary, Crime",7.1
+876,Coral Reef Adventure,2003,45.0,Greg MacGillivray,"Liam Neeson, Howard Hall, Michele Hall",Documentary,6.8
+877,Violence des échanges en milieu tempéré,2003,99.0,Jean-Marc Moutout,"Jérémie Renier, Laurent Lucas, Cylia Malki","Comedy, Drama",6.9
+878,Crazy First Love,2003,108.0,Jong-rok Oh,"Cha Tae-hyun, Son Ye-jin, Yoo Dong-geun","Comedy, Drama, Romance",5.4
+879,Golmaal,2003,130.0,Ramachandra Rao P.N.,"Ramesh Aravind, Giri Babu, Raghu Babu",Comedy,7.0
+880,"Jesus, Du weisst",2003,87.0,Ulrich Seidl,"Elfriede Ahmad, Waltraute Bartel, Hans-Jürgen Eder",Documentary,6.7
+881,Virgin,2003,114.0,Deborah Kampmeier,"Elisabeth Moss, Stephen Brian Jones, Andrew Thaman",Drama,5.6
+882,What Boys Like,2003,85.0,Lawrence Gay,"Christopher Wiehl, Lisa Brenner, Alex Nesic",Comedy,4.9
+883,You Can't Stop the Murders,2003,99.0,Anthony Mir,"Gary Eck, Akmal Saleh, Anthony Mir","Comedy, Thriller",6.1
+884,Tom Dowd & the Language of Music,2003,90.0,Mark Moormann,"Ray Charles, John Coltrane, Aretha Franklin","Documentary, Music",8.2
+885,James' Journey to Jerusalem,2003,87.0,Ra'anan Alexandrowicz,"Siyabonga Melongisi Shibe, Salim Daw, Arieh Elias","Comedy, Drama",7.4
+886,Singing Behind Screens,2003,98.0,Ermanno Olmi,"Bud Spencer, Jun Ichikawa, Sally Ming Zeo Ni","Drama, History, Music",6.3
+887,Particles of Truth,2003,101.0,Jennifer Elster,"Jennifer Elster, Gale Harold, Susan Floyd",Drama,6.5
+888,Cuban Blood,2003,109.0,Juan Gerard,"Harvey Keitel, Iben Hjejle, Diana Bracho","Drama, Comedy",5.8
+889,Air Marshal,2003,90.0,Alain Jakubowicz,"Dean Cochran, Alan Austin, Eli Danker","Action, Adventure, Drama",2.9
+890,The Other Final,2003,79.0,Johan Kramer,"Matthijs de Jongh, Stephen Bennett, Dinesh Chhetri","Documentary, Sport",7.8
+891,Cámara oscura,2003,106.0,Pau Freixas,"Silke, Unax Ugalde, Adrià Collado",Thriller,4.4
+892,Tehzeeb,2003,143.0,Khalid Mohamed,"Shabana Azmi, Urmila Matondkar, Arjun Rampal",Drama,5.7
+893,La vida mancha,2003,127.0,Enrique Urbizu,"May Pascual, Gabriel Moreno, Alfonso Torregrosa",Drama,6.6
+894,Donya,2003,108.0,Manuchehr Mosayyeri,"Hediyeh Tehrani, Mohammad Reza Sharifinia, Gohar Kheirandish","Comedy, Drama",5.3
+895,Bagland,2003,85.0,Anders Gustafsson,"Stephanie Leon, Nicolas Dufour, Christopher Læssø",Drama,5.6
+896,The Galíndez File,2003,124.0,"Gerardo Herrero, Leigh Romero","Saffron Burrows, Harvey Keitel, Eduard Fernández","Drama, Mystery",5.7
+897,Womb Raider,2003,90.0,Randolph Scott,"Lauren Hays, Annie Body, Roland Lanza","Adventure, Fantasy",3.5
+898,The Ghouls,2003,81.0,Chad Ferrin,"Timothy Muskatell, Trent Haaga, Tina Birchfield",Horror,3.8
+899,Kung Phooey!,2003,87.0,Darryl Fong,"Michael Man-Kin Chow, Joyce Brew, Colman Domingo",Comedy,5.1
+900,Mud,2003,97.0,Dervis Zaim,"Engin Alkan, Taner Birsel, Murat Garipagaoglu",Drama,5.3
+901,Tujhe Meri Kasam,2003,155.0,Vijay K. Bhaskar,"Riteish Deshmukh, Genelia Deshmukh, Shakti Kapoor",Romance,6.2
+902,The Animation Show,2003,94.0,Don Hertzfeldt,,"Animation, Comedy",7.5
+903,Power Play,2003,100.0,Joseph Zito,"Dylan Walsh, Alison Eastwood, Tobin Bell","Action, Thriller",3.5
+904,My Lucky Star,2003,98.0,Vincent Kok,"Tony Leung Chiu-wai, Miriam Yeung, Ronald Cheng","Comedy, Fantasy, Romance",5.8
+905,The Republic of Love,2003,95.0,Deepa Mehta,"Kate Lynch, Kate Kelton, Sunday Muse","Comedy, Drama, Romance",6.0
+906,Böse Zellen,2003,120.0,Barbara Albert,"Kathrin Resetarits, Ursula Strauss, Georg Friedrich","Drama, Romance",6.1
+907,A Thousand Clouds of Peace,2003,83.0,Julián Hernández,"Juan Carlos Ortuño, Juan Carlos Torres, Salvador Alvarez","Drama, Romance",5.6
+908,Khel,2003,174.0,Yusuf Khan,"Sunny Deol, Suniel Shetty, Ajay Jadeja","Action, Crime, Drama",4.1
+909,13 Dead Men,2003,85.0,Art Camacho,"Lorenzo Lamas, Mark Parra, Mystikal","Action, Crime, Drama",2.3
+910,Robokon,2003,118.0,Tomoyuki Furumaya,"Masami Nagasawa, Shun Oguri, Atsushi Itô","Comedy, Drama",6.6
+911,Main Madhuri Dixit Banna Chahti Hoon!,2003,,Chandan Arora,"Antara Mali, Rajpal Naurang Yadav, Asif Basra","Drama, Comedy",6.3
+912,Dream Warrior,2003,95.0,Zachary Weintraub,"Daniel Goddard, Lance Henriksen, Sherilyn Fenn","Action, Sci-Fi",3.7
+913,Checkpoint,2003,80.0,Yoav Shamir,,Documentary,7.8
+914,Cat and Mouse,2003,92.0,Gordon Chan,"Andy Lau, Cecilia Cheung, Anthony Chau-Sang Wong","Romance, Comedy, Action",5.2
+915,Le bison (et sa voisine Dorine),2003,96.0,Isabelle Nanty,"Isabelle Nanty, Edouard Baer, Nicolas Marais",Comedy,5.6
+916,Nola,2003,97.0,Alan Hruska,"Emmy Rossum, Steven Bauer, James Badge Dale","Comedy, Romance",5.4
+917,Una de zombis,2003,99.0,Miguel Ángel Lamata,"Miguel Ángel Aparicio, Mayte Navales, Miguel Ángel Aijón","Action, Comedy, Crime",4.6
+918,Spin,2003,107.0,James Redford,"Stanley Tucci, Dana Delany, Rubén Blades","Drama, Family",6.3
+919,Konjanik,2003,105.0,Branko Ivanda,"Niksa Kuselj, Zrinka Cvitesic, Goran Grgic","Drama, History, Romance",7.1
+920,"The Book of Mormon Movie, Volume 1: The Journey",2003,120.0,Gary Rogers,"Noah Dalton Danby, Jacque Gray, Bryce Chamberlain",Adventure,3.0
+921,"Tokyo, Non-Stop",2003,98.0,Saeed Alemzadeh,"Mehran Modiri, Hassan Shokoohi, Pantea Bahram","Comedy, Drama, Family",4.7
+922,Calcutta Mail,2003,128.0,Sudhir Mishra,"Anil Kapoor, Rani Mukerji, Manisha Koirala","Action, Drama, Mystery",5.7
+923,Sangee,2003,156.0,Haranath Chakraborty,"Jeet, Priyanka Upendra, Shilajit Majumdar","Drama, Musical, Romance",7.1
+924,Forest,2003,88.0,Benedek Fliegauf,"Rita Braun, Barbara Csonka, László Cziffer",Drama,6.6
+925,Dos tipos duros,2003,99.0,Juan Martínez Moreno,"Antonio Resines, Elena Anaya, Rosa Maria Sardà","Comedy, Action, Crime",6.1
+926,The Hittites,2003,122.0,Tolga Örnek,"Yesim Aliç, Haluk Bilginer, Sanem Çelik","Documentary, History",7.3
+927,Ghost Rock,2003,101.0,Dustin Rikert,"Gary Busey, Michael Worth, Jeff Fahey","Action, Drama, Western",3.5
+928,Love for All Seasons,2003,93.0,"Johnnie To, Ka-Fai Wai","Sammi Cheng, Louis Koo, Bingbing Li","Comedy, Romance",5.6
+929,The Wooden Camera,2003,92.0,Ntshaveni Wa Luruli,"Junior Singo, Dana de Agrella, Innocent Msimango",Family,7.0
+930,Le monde vivant,2003,70.0,Eugène Green,"Adrien Michaux, Alexis Loret, Laurène Cheilan","Fantasy, Drama",7.0
+931,Smart Philip,2003,95.0,Václav Marhoul,"Tomás Hanák, Vilma Cibulková, Pavel Liska","Comedy, Crime",5.8
+932,Criminal Ways,2003,94.0,Nick Giannopoulos,"Nick Giannopoulos, Russell Dykstra, Isla Fisher",Comedy,3.9
+933,One Love,2003,100.0,"Rick Elgood, Don Letts","Ky-Mani Marley, Cherine Anderson, Idris Elba","Drama, Music, Romance",6.1
+934,Neverland,2003,83.0,Damion Dietz,"Deborah Quayle, Marcus Reynaga, Wil Wheaton","Drama, Fantasy",4.9
+935,Anjaneya,2003,168.0,N. Maharajan,"Ajith Kumar, Meera Jasmine, Raghuvaran","Action, Crime, Drama",3.6
+936,Kedah okaih,2003,132.0,,"Ahmed El Sakka, Yasmin Abdelaziz, Sherif Mounir",Comedy,5.7
+937,Kick'n Rush,2003,96.0,Aage Rais-Nordentoft,"Jacob Oliver Krarup, Marie Bach Hansen, Cyron Melville","Comedy, Drama",4.6
+938,Easy Six,2003,90.0,Chris Iovenko,"Julian Sands, Alex Sol, Ruth Williamson","Comedy, Drama",4.7
+939,Love Collage,2003,111.0,Yukihiko Tsutsumi,"Ryôko Hirosue, Ryûhei Matsuda, Eiko Koike","Comedy, Drama, Romance",6.3
+940,Filles uniques,2003,85.0,Pierre Jolivet,"Sandrine Kiberlain, Sylvie Testud, Vincent Lindon","Comedy, Drama",6.2
+941,Captured by You,2003,143.0,Sangeeth Sivan,"Zayed Khan, Esha Deol, Gulshan Grover","Action, Drama, Music",3.8
+942,Shôwa kayô daizenshû,2003,112.0,Tetsuo Shinohara,"Ryûhei Matsuda, Kayoko Kishimoto, Hiroyuki Ikeuchi","Drama, Horror",6.5
+943,Vanad ja kobedad saavad jalad alla,2003,100.0,Rando Pettai,"Henrik Normann, Madis Milling, Piret Laurimaa",Comedy,6.5
+944,Goddess of Mercy,2003,110.0,Ann Hui,"Wei Zhao, Nicholas Tse, Yunlong Liu","Action, Crime, Drama",6.2
+945,Naaga,2003,172.0,D.K. Suresh,"N.T. Rama Rao Jr., Sada, Rajan P. Dev",Action,3.7
+946,Der alte Affe Angst,2003,92.0,Oskar Roehler,"André Hennicke, Marie Bäumer, Vadim Glowna","Drama, Romance",6.4
+947,Peculiarities of the National Politics,2003,83.0,"Yuri Konopkin, Dmitriy Meskhiev","Aleksey Buldakov, Semyon Strugachyov, Viktor Bychkov",Comedy,4.6
+948,Paris,2003,98.0,Ramin Niami,"Chad Allen, Bai Ling, James Russo","Crime, Drama, Romance",4.0
+949,Golden Chicken 2,2003,104.0,Leung-Chun Chiu,"Sandra Ng, Bing, Wai-Tong Bo","Comedy, Drama",6.4
+950,Tangy Guacamole,2003,89.0,Mike Deeney,"David Borowicz, DJ Perry, Dennis Haskins","Comedy, Adventure, Fantasy",1.7
+951,Mähällä,2003,126.0,Ramiz Fataliyev,"Tahir Imanov, Cabir Imanov, Elcin Hamidov",Comedy,8.0
+952,Eski açik sari desene,2003,90.0,Ömer Ali Kazma,"Ayhan Akman, Volkan Arslan, Emre Asik","Documentary, Sport",7.5
+953,Fame chimica,2003,97.0,"Antonio Bocola, Paolo Vari","Marco Foschi, Matteo Gianoli, Valeria Solarino",Drama,6.4
+954,Shivamani,2003,143.0,Puri Jagannadh,"Nagarjuna Akkineni, Rakshitha, Asin","Action, Romance",6.2
+955,"Broadway: The Golden Age, by the Legends Who Were There",2003,111.0,Rick McKay,"Edie Adams, Bea Arthur, Elizabeth Ashley","Documentary, History, Music",8.3
+956,The Unborn,2003,108.0,Bhandit Thongdee,"Inthira Charoenpura, Prangthong Changdham, Karunpon Thieansuwan","Horror, Mystery, Thriller",5.5
+957,Citizen Verdict,2003,97.0,Philippe Martinez,"Armand Assante, Jerry Springer, Roy Scheider",Drama,4.4
+958,Sound of Colors,2003,108.0,Joe Ma,"Tony Leung Chiu-wai, Miriam Yeung, Chang Chen","Comedy, Drama, Fantasy",6.0
+959,Utopía,2003,106.0,Maria Ripoll,"Leonardo Sbaraglia, Najwa Nimri, Tchéky Karyo","Fantasy, Sci-Fi, Thriller",5.2
+960,Casseta & Planeta: A Taça do Mundo é Nossa,2003,90.0,Lula Buarque de Hollanda,"Beto Silva, Bussunda, Cláudio Manoel","Comedy, Crime, Romance",4.4
+961,Descendant,2003,86.0,"Kermit Christman, Del Tenney","Jeremy London, Katherine Heigl, Nick Stabile","Horror, Thriller",4.1
+962,Wild Card,2003,117.0,Yoo-jin Kim,"Yang Dong-geun, Jung Jin-young, Han Chae-young","Action, Comedy, Crime",6.6
+963,The 3 Wise Men,2003,76.0,"Antonio Navarro, Stephen Hughes","Jose Coronado, Juan Echanove, Imanol Arias","Animation, Family",5.4
+964,France Boutique,2003,95.0,Tonie Marshall,"Karin Viard, François Cluzet, Judith Godrèche",Comedy,5.1
+965,Iw'a wishshak,2003,110.0,Saeed Hamed,"Ahmad Rizq, Ahmed Eid, Menna Shalabi",Comedy,4.7
+966,The Janitor,2003,92.0,"TJ Nordaker, Andy Signore","Andy Signore, Bruce Cronander, Crystal LeBard","Comedy, Horror",5.4
+967,Fire Over Afghanistan,2003,92.0,Terence H. Winkless,"Jeff Stearns, Jordan Bayne, Fred Dryer","Action, Drama, War",2.5
+968,La fiesta,2003,97.0,"Manuel Sanabria, Carlos Villaverde","Raúl Prieto, Norma Ruiz, Canco Rodríguez",Comedy,5.3
+969,Hollywood North,2003,89.0,Peter O'Brian,"Matthew Modine, Saul Rubinek, Alan Bates",Comedy,5.4
+970,Billabong Odyssey,2003,88.0,Philip Boston,"Ken Bradshaw, Ken Collins, Brian L. Keaulana","Documentary, Action, Adventure",6.7
+971,Gente di Roma,2003,100.0,Ettore Scola,"Giorgio Colangeli, Antonello Fassari, Fabio Ferrari",Comedy,6.3
+972,Crayon Shin-chan: Fierceness That Invites Storm! Yakiniku Road of Glory,2003,88.0,Tsutomu Mizushima,"Akiko Yajima, Keiji Fujiwara, Miki Narahashi","Animation, Adventure, Comedy",6.7
+973,Malibu Spring Break,2003,77.0,Kevin Lewis,"Charity Rahmer, Kristin Novak, Pilar M. Lastra",Comedy,2.4
+974,G@me,2003,112.0,Satoshi Isaka,"Naohito Fujiki, Yukie Nakama, Ryûdô Uzaki","Crime, Thriller",6.4
+975,L'outremangeur,2003,90.0,Thierry Binisti,"Éric Cantona, Rachida Brakni, Caroline Silhol","Crime, Drama",6.1
+976,Jay Jay,2003,156.0,"Sarab, Saran","Madhavan, Priyanka Kothari, Pooja Umashankar",Romance,5.9
+977,Chasing Holden,2003,104.0,Malcolm Clarke,"DJ Qualls, Rachel Blanchard, Colin Fox","Crime, Drama",5.2
+978,Les côtelettes,2003,86.0,Bertrand Blier,"Philippe Noiret, Michel Bouquet, Farida Rahouadj","Drama, Comedy",5.1
+979,Midnight Mass,2003,98.0,Tony Mandile,"Julia Cornish, Elizabeth Vance, Mariana Matthews",Horror,2.6
+980,Winner,2003,145.0,Sundar C.,"Prashanth, Kiran Rathod, Vadivelu","Action, Comedy, Drama",6.4
+981,A Different Way,2003,100.0,Christina Olofson,"Tove Edfeldt, Joel Kinnaman, Adnan Zorlak",Drama,4.4
+982,Tesó,2003,84.0,Zsombor Dyga,"Gábor Welker, Zoltán Schmied, Anna Bognár",Comedy,6.8
+983,Shik,2003,92.0,Bakhtyar Khudojnazarov,"Aleksandr Yatsenko, Artur Povolotsky, Ivan Kokorin","Comedy, Drama",6.5
+984,Let's Play House,2003,99.0,Kjell-Åke Andersson,"Torkel Petersson, Maria Bonnevie, Åsa Persson","Drama, Romance, Comedy",5.8
+985,Eden's Curve,2003,93.0,Anne Misawa,"Trevor Lissauer, Samuel A. Levine, Amber Taylor","Drama, Romance",5.4
+986,The Box,2003,99.0,Richard Pepin,"James Russo, Theresa Russell, Brad Dourif","Crime, Drama, Thriller",4.9
+987,Acquaria,2003,103.0,Flavia Moraes,"Sandy, Junior Lima, Emílio Orciollo Netto","Adventure, Sci-Fi, Drama",3.4
+988,The Ghosts of Edendale,2003,90.0,Stefan Avalos,"Paula Ficara, Stephen Wastell, Andrew Kirsanov","Horror, Western, Thriller",3.7
+989,Gumball 3000: The Movie,2003,100.0,Steven Green,"Simone Bargetze, Jeremy Connors, Maximillion Cooper",Adventure,6.3
+990,Bless the Woman,2003,114.0,Stanislav Govorukhin,"Svetlana Khodchenkova, Aleksandr Baluev, Irina Kupchenko","Drama, Romance",6.6
+991,Mosku - lajinsa viimeinen,2003,136.0,Tapio Suominen,"Kai Lehtinen, Maria Järvenhelmi, Petter Sairanen","Biography, Drama, History",6.5
+992,Ennaku 20 Unakku 18,2003,145.0,Jyothi Krishna,"Trisha Krishnan, Aishwariyaa Bhaskaran, Devadarshini Chetan","Drama, Musical, Romance",5.5
+993,Kárate a muerte en Torremolinos,2003,79.0,Pedro Temboury,"Curro Cruz, Sonia Okomo, Julio Sanjuán","Action, Comedy, Fantasy",3.6
+994,Chandrokotha,2003,142.0,Humayun Ahmed,"Ferdous Ahmed, Meher Afroz Shaon, Asaduzzaman Noor",Drama,7.5
+995,Adrenaline,2003,97.0,Roel Reiné,"Jason Fijal, Georgina Verbaan, Daniel Louis Rivas","Crime, Drama, Romance",3.6
+996,Bonhoeffer,2003,93.0,Martin Doblmeier,"Klaus Maria Brandauer, Adele Schmidt, Richard Mancini","Documentary, Biography, History",7.2
+997,Details,2003,114.0,Kristian Petri,"Rebecka Hemse, Michael Nyqvist, Jonas Karlsson",Drama,5.7
+998,BachelorMan,2003,90.0,John Putch,"David DeLuise, Mark Parra, Missi Pyle","Comedy, Romance",4.6
+999,Flavors,2003,118.0,"Krishna D.K., Raj Nidimoru","Reef Karim, Anjan Srivastav, Bharti Achrekar",Comedy,7.2
+1000,Drop Me a Cat,2003,94.0,Mi-sen Wu,"Shinji Takeda, Terri Kwan, Chia-Hui Chang",Adventure,5.2

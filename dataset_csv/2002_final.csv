@@ -1,0 +1,1001 @@
+﻿ID,Name,Year,Duration,Directors,Actors,Genres,Rating
+1,The Lord of the Rings: The Two Towers,2002,179.0,Peter Jackson,"Elijah Wood, Ian McKellen, Viggo Mortensen","Adventure, Drama, Fantasy",8.8
+2,Catch Me If You Can,2002,141.0,Steven Spielberg,"Leonardo DiCaprio, Tom Hanks, Christopher Walken","Biography, Crime, Drama",8.1
+3,The Pianist,2002,150.0,Roman Polanski,"Adrien Brody, Thomas Kretschmann, Frank Finlay","Biography, Drama, Music",8.5
+4,Spider-Man,2002,121.0,Sam Raimi,"Tobey Maguire, Kirsten Dunst, Willem Dafoe","Action, Adventure, Sci-Fi",7.4
+5,City of God,2002,130.0,"Fernando Meirelles, Kátia Lund","Alexandre Rodrigues, Leandro Firmino, Matheus Nachtergaele","Crime, Drama",8.6
+6,Star Wars: Episode II - Attack of the Clones,2002,142.0,George Lucas,"Hayden Christensen, Natalie Portman, Ewan McGregor","Action, Adventure, Fantasy",6.6
+7,Harry Potter and the Chamber of Secrets,2002,161.0,Chris Columbus,"Daniel Radcliffe, Rupert Grint, Emma Watson","Adventure, Family, Fantasy",7.4
+8,Minority Report,2002,145.0,Steven Spielberg,"Tom Cruise, Colin Farrell, Samantha Morton","Action, Crime, Mystery",7.6
+9,The Bourne Identity,2002,119.0,Doug Liman,"Franka Potente, Matt Damon, Chris Cooper","Action, Mystery, Thriller",7.8
+10,Ice Age,2002,81.0,"Chris Wedge, Carlos Saldanha","Denis Leary, John Leguizamo, Ray Romano","Animation, Adventure, Comedy",7.5
+11,Gangs of New York,2002,167.0,Martin Scorsese,"Leonardo DiCaprio, Cameron Diaz, Daniel Day-Lewis","Crime, Drama",7.5
+12,28 Days Later,2002,113.0,Danny Boyle,"Cillian Murphy, Naomie Harris, Christopher Eccleston","Drama, Horror, Sci-Fi",7.5
+13,Men in Black II,2002,88.0,Barry Sonnenfeld,"Tommy Lee Jones, Will Smith, Rip Torn","Action, Adventure, Comedy",6.2
+14,Signs,2002,106.0,M. Night Shyamalan,"Mel Gibson, Joaquin Phoenix, Rory Culkin","Drama, Mystery, Sci-Fi",6.8
+15,The Ring,2002,115.0,Gore Verbinski,"Naomi Watts, Martin Henderson, Brian Cox","Horror, Mystery",7.1
+16,Equilibrium,2002,107.0,Kurt Wimmer,"Christian Bale, Sean Bean, Emily Watson","Action, Drama, Sci-Fi",7.3
+17,8 Mile,2002,110.0,Curtis Hanson,"Eminem, Brittany Murphy, Kim Basinger","Drama, Music",7.2
+18,The Transporter,2002,92.0,"Louis Leterrier, Corey Yuen","Jason Statham, Shu Qi, Matt Schulze","Action, Crime, Thriller",6.8
+19,Insomnia,2002,118.0,Christopher Nolan,"Al Pacino, Robin Williams, Hilary Swank","Drama, Mystery, Thriller",7.2
+20,Panic Room,2002,112.0,David Fincher,"Jodie Foster, Kristen Stewart, Forest Whitaker","Crime, Drama, Thriller",6.8
+21,Red Dragon,2002,124.0,Brett Ratner,"Anthony Hopkins, Edward Norton, Ralph Fiennes","Crime, Drama, Thriller",7.2
+22,Resident Evil,2002,100.0,Paul W.S. Anderson,"Milla Jovovich, Michelle Rodriguez, Ryan McCluskey","Action, Horror, Sci-Fi",6.6
+23,Phone Booth,2002,81.0,Joel Schumacher,"Colin Farrell, Kiefer Sutherland, Forest Whitaker","Crime, Thriller",7.1
+24,Road to Perdition,2002,117.0,Sam Mendes,"Tom Hanks, Tyler Hoechlin, Paul Newman","Crime, Drama, Thriller",7.7
+25,Chicago,2002,113.0,Rob Marshall,"Renée Zellweger, Catherine Zeta-Jones, Richard Gere","Comedy, Crime, Musical",7.2
+26,Blade II,2002,117.0,Guillermo del Toro,"Wesley Snipes, Kris Kristofferson, Ron Perlman","Action, Horror, Sci-Fi",6.7
+27,Die Another Day,2002,133.0,Lee Tamahori,"Pierce Brosnan, Halle Berry, Rosamund Pike","Action, Adventure, Thriller",6.1
+28,Austin Powers in Goldmember,2002,94.0,Jay Roach,"Mike Myers, Beyoncé, Seth Green","Action, Adventure, Comedy",6.2
+29,Lilo & Stitch,2002,85.0,"Dean DeBlois, Chris Sanders","Daveigh Chase, Chris Sanders, Tia Carrere","Animation, Adventure, Comedy",7.3
+30,A Walk to Remember,2002,101.0,Adam Shankman,"Mandy Moore, Shane West, Peter Coyote","Drama, Romance",7.3
+31,Adaptation.,2002,115.0,Spike Jonze,"Nicolas Cage, Meryl Streep, Chris Cooper","Comedy, Drama",7.7
+32,About a Boy,2002,101.0,"Chris Weitz, Paul Weitz","Hugh Grant, Nicholas Hoult, Toni Collette","Comedy, Drama, Romance",7.1
+33,Hero,2002,107.0,Yimou Zhang,"Jet Li, Tony Leung Chiu-wai, Maggie Cheung","Action, Adventure, Drama",7.9
+34,xXx,2002,124.0,Rob Cohen,"Vin Diesel, Asia Argento, Marton Csokas","Action, Adventure, Drama",5.8
+35,25th Hour,2002,135.0,Spike Lee,"Edward Norton, Barry Pepper, Philip Seymour Hoffman",Drama,7.6
+36,Punch-Drunk Love,2002,95.0,Paul Thomas Anderson,"Adam Sandler, Emily Watson, Philip Seymour Hoffman","Comedy, Drama, Romance",7.3
+37,Mr. Deeds,2002,96.0,Steven Brill,"Adam Sandler, Winona Ryder, John Turturro","Comedy, Romance",5.8
+38,We Were Soldiers,2002,138.0,Randall Wallace,"Mel Gibson, Madeleine Stowe, Greg Kinnear","Action, Drama, History",7.2
+39,Irreversible,2002,97.0,Gaspar Noé,"Monica Bellucci, Vincent Cassel, Albert Dupontel","Crime, Drama, Mystery",7.3
+40,The Count of Monte Cristo,2002,131.0,Kevin Reynolds,"Jim Caviezel, Guy Pearce, Christopher Adamson","Action, Adventure, Drama",7.7
+41,Bowling for Columbine,2002,120.0,Michael Moore,"Michael Moore, Charlton Heston, Marilyn Manson","Documentary, Crime, Drama",8.0
+42,Reign of Fire,2002,101.0,Rob Bowman,"Matthew McConaughey, Christian Bale, Izabella Scorupco","Action, Adventure, Fantasy",6.2
+43,John Q,2002,116.0,Nick Cassavetes,"Denzel Washington, Robert Duvall, Gabriela Oltean","Crime, Drama, Thriller",7.1
+44,The Scorpion King,2002,92.0,Chuck Russell,"Dwayne Johnson, Steven Brand, Michael Clarke Duncan","Action, Adventure, Fantasy",5.5
+45,My Big Fat Greek Wedding,2002,95.0,Joel Zwick,"Nia Vardalos, John Corbett, Michael Constantine","Comedy, Drama, Romance",6.6
+46,The Hours,2002,110.0,Stephen Daldry,"Meryl Streep, Nicole Kidman, Julianne Moore","Drama, Romance",7.5
+47,Treasure Planet,2002,95.0,"Ron Clements, John Musker","Joseph Gordon-Levitt, Emma Thompson, Martin Short","Animation, Adventure, Family",7.2
+48,One Hour Photo,2002,96.0,Mark Romanek,"Robin Williams, Connie Nielsen, Michael Vartan","Drama, Thriller",6.8
+49,About Schmidt,2002,125.0,Alexander Payne,"Jack Nicholson, Hope Davis, Dermot Mulroney",Drama,7.2
+50,Infernal Affairs,2002,101.0,"Wai Keung Lau, Alan Mak","Andy Lau, Tony Leung Chiu-wai, Anthony Chau-Sang Wong","Crime, Drama, Mystery",8.0
+51,The Time Machine,2002,96.0,Simon Wells,"Guy Pearce, Yancey Arias, Mark Addy","Action, Adventure, Sci-Fi",6.0
+52,Scooby-Doo,2002,86.0,Raja Gosnell,"Matthew Lillard, Freddie Prinze Jr., Sarah Michelle Gellar","Adventure, Comedy, Family",5.3
+53,Two Weeks Notice,2002,101.0,Marc Lawrence,"Sandra Bullock, Hugh Grant, Alicia Witt","Comedy, Romance",6.2
+54,The Sum of All Fears,2002,124.0,Phil Alden Robinson,"Ben Affleck, Morgan Freeman, Ian Mongrain","Action, Drama, Thriller",6.5
+55,Sweet Home Alabama,2002,108.0,Andy Tennant,"Reese Witherspoon, Patrick Dempsey, Josh Lucas","Comedy, Romance",6.2
+56,Talk to Her,2002,112.0,Pedro Almodóvar,"Rosario Flores, Javier Cámara, Darío Grandinetti","Drama, Mystery, Romance",7.9
+57,Bend It Like Beckham,2002,112.0,Gurinder Chadha,"Parminder Nagra, Keira Knightley, Jonathan Rhys Meyers","Comedy, Drama, Romance",6.7
+58,Van Wilder,2002,92.0,Walt Becker,"Ryan Reynolds, Tara Reid, Tim Matheson","Comedy, Romance",6.4
+59,Ghost Ship,2002,91.0,Steve Beck,"Julianna Margulies, Gabriel Byrne, Ron Eldard","Horror, Mystery, Thriller",5.6
+60,The Hot Chick,2002,104.0,Tom Brady,"Rob Schneider, Rachel McAdams, Anna Faris","Comedy, Fantasy",5.6
+61,Secretary,2002,107.0,Steven Shainberg,"James Spader, Maggie Gyllenhaal, Jeremy Davies","Comedy, Drama, Romance",6.9
+62,Jackass: The Movie,2002,85.0,Jeff Tremaine,"Johnny Knoxville, Bam Margera, Chris Pontius","Documentary, Action, Comedy",6.6
+63,Unfaithful,2002,124.0,Adrian Lyne,"Richard Gere, Diane Lane, Olivier Martinez","Drama, Romance, Thriller",6.7
+64,Maid in Manhattan,2002,105.0,Wayne Wang,"Jennifer Lopez, Ralph Fiennes, Natasha Richardson","Comedy, Drama, Romance",5.4
+65,Frida,2002,123.0,Julie Taymor,"Salma Hayek, Alfred Molina, Geoffrey Rush","Biography, Drama, Romance",7.3
+66,Ali G Indahouse,2002,87.0,Mark Mylod,"Sacha Baron Cohen, Emilio Rivera, Gina La Piana",Comedy,6.2
+67,Confessions of a Dangerous Mind,2002,113.0,George Clooney,"Sam Rockwell, Drew Barrymore, George Clooney","Biography, Comedy, Crime",7.0
+68,Analyze That,2002,96.0,Harold Ramis,"Robert De Niro, Billy Crystal, Lisa Kudrow","Comedy, Crime",5.9
+69,The Tuxedo,2002,98.0,Kevin Donovan,"Jackie Chan, Jennifer Love Hewitt, Jason Isaacs","Action, Comedy, Sci-Fi",5.4
+70,Spirit: Stallion of the Cimarron,2002,83.0,"Kelly Asbury, Lorna Cook","Matt Damon, James Cromwell, Daniel Studi","Animation, Adventure, Drama",7.2
+71,Solaris,2002,99.0,Steven Soderbergh,"George Clooney, Natascha McElhone, Ulrich Tukur","Drama, Mystery, Romance",6.2
+72,The Mothman Prophecies,2002,119.0,Mark Pellington,"Richard Gere, Laura Linney, David Eigenberg","Drama, Horror, Mystery",6.4
+73,Cabin Fever,2002,93.0,Eli Roth,"Jordan Ladd, Rider Strong, James DeBello",Horror,5.6
+74,Star Trek: Nemesis,2002,116.0,Stuart Baird,"Patrick Stewart, Jonathan Frakes, Brent Spiner","Action, Adventure, Sci-Fi",6.4
+75,Collateral Damage,2002,108.0,Andrew Davis,"Arnold Schwarzenegger, John Leguizamo, Francesca Neri","Action, Drama, Thriller",5.5
+76,Sympathy for Mr. Vengeance,2002,129.0,Park Chan-wook,"Song Kang-ho, Shin Ha-kyun, Bae Doona","Crime, Drama, Thriller",7.5
+77,40 Days and 40 Nights,2002,96.0,Michael Lehmann,"Josh Hartnett, Shannyn Sossamon, Paulo Costanzo","Comedy, Romance",5.6
+78,Spy Kids 2: Island of Lost Dreams,2002,100.0,Robert Rodriguez,"Alexa PenaVega, Daryl Sabara, Antonio Banderas","Action, Adventure, Comedy",5.3
+79,Changing Lanes,2002,98.0,Roger Michell,"Ben Affleck, Samuel L. Jackson, Kim Staunton","Drama, Thriller",6.5
+80,Windtalkers,2002,134.0,John Woo,"Nicolas Cage, Adam Beach, Peter Stormare","Action, Drama, War",6.1
+81,Cube²: Hypercube,2002,94.0,Andrzej Sekula,"Kari Matchett, Geraint Wyn Davies, Grace Lynn Kung","Horror, Mystery, Sci-Fi",5.5
+82,K-19: The Widowmaker,2002,138.0,Kathryn Bigelow,"Harrison Ford, Sam Spruell, Peter Stebbings","Drama, History, Thriller",6.7
+83,The Cat Returns,2002,75.0,Hiroyuki Morita,"Chizuru Ikewaki, Yoshihiko Hakamada, Aki Maeda","Animation, Adventure, Comedy",7.1
+84,Dog Soldiers,2002,105.0,Neil Marshall,"Sean Pertwee, Kevin McKidd, Emma Cleasby","Action, Horror, Thriller",6.8
+85,The Santa Clause 2,2002,104.0,Michael Lembeck,"Tim Allen, Spencer Breslin, Elizabeth Mitchell","Comedy, Family, Fantasy",5.8
+86,Showtime,2002,95.0,Tom Dey,"Robert De Niro, Eddie Murphy, Rene Russo","Action, Comedy, Crime",5.6
+87,Murder by Numbers,2002,115.0,Barbet Schroeder,"Sandra Bullock, Ben Chaplin, Ryan Gosling","Crime, Mystery, Thriller",6.2
+88,The Sweetest Thing,2002,84.0,Roger Kumble,"Cameron Diaz, Thomas Jane, Christina Applegate","Comedy, Romance",5.2
+89,S1m0ne,2002,117.0,Andrew Niccol,"Al Pacino, Catherine Keener, Rachel Roberts","Comedy, Drama, Sci-Fi",6.1
+90,Queen of the Damned,2002,101.0,Michael Rymer,"Aaliyah, Stuart Townsend, Marguerite Moreau","Drama, Fantasy, Horror",5.3
+91,Eight Legged Freaks,2002,99.0,Ellory Elkayem,"David Arquette, Kari Wuhrer, Scott Terra","Action, Adventure, Comedy",5.5
+92,Asterix & Obelix: Mission Cleopatra,2002,107.0,Alain Chabat,"Gérard Depardieu, Christian Clavier, Jamel Debbouze","Adventure, Comedy, Family",6.7
+93,Stuart Little 2,2002,77.0,Rob Minkoff,"Michael J. Fox, Geena Davis, Hugh Laurie","Adventure, Comedy, Family",5.5
+94,Hart's War,2002,125.0,Gregory Hoblit,"Bruce Willis, Colin Farrell, Terrence Howard","Drama, War",6.4
+95,I Spy,2002,97.0,Betty Thomas,"Eddie Murphy, Owen Wilson, Famke Janssen","Action, Adventure, Comedy",5.4
+96,The Rules of Attraction,2002,110.0,Roger Avary,"James Van Der Beek, Ian Somerhalder, Shannyn Sossamon","Comedy, Drama, Romance",6.6
+97,Orange County,2002,82.0,Jake Kasdan,"Colin Hanks, Jack Black, Schuyler Fisk","Comedy, Drama",6.2
+98,Bubba Ho-Tep,2002,92.0,Don Coscarelli,"Bruce Campbell, Ossie Davis, Bob Ivy","Comedy, Fantasy, Horror",6.9
+99,Lilya 4-Ever,2002,109.0,Lukas Moodysson,"Oksana Akinshina, Artyom Bogucharskiy, Pavel Ponomaryov","Crime, Drama",7.8
+100,Halloween: Resurrection,2002,90.0,Rick Rosenthal,"Jamie Lee Curtis, Busta Rhymes, Brad Loree","Horror, Thriller",3.9
+101,Bad Company,2002,116.0,Joel Schumacher,"Anthony Hopkins, Chris Rock, Matthew Marsh","Action, Comedy, Thriller",5.6
+102,Far from Heaven,2002,107.0,Todd Haynes,"Julianne Moore, Dennis Quaid, Dennis Haysbert","Drama, Romance",7.3
+103,Ju-on: The Grudge,2002,92.0,Takashi Shimizu,"Megumi Okina, Misaki Itô, Misa Uehara",Horror,6.7
+104,High Crimes,2002,115.0,Carl Franklin,"Jim Caviezel, Morgan Freeman, Ashley Judd","Crime, Drama, Mystery",6.4
+105,Enough,2002,115.0,Michael Apted,"Jennifer Lopez, Billy Campbell, Tessa Allen","Crime, Drama, Thriller",5.8
+106,Kung Pow: Enter the Fist,2002,81.0,Steve Oedekerk,"Steve Oedekerk, Fei Lung, Leo Lee","Action, Comedy",6.2
+107,Blood Work,2002,110.0,Clint Eastwood,"Clint Eastwood, Jeff Daniels, Anjelica Huston","Action, Crime, Drama",6.4
+108,Devdas,2002,185.0,Sanjay Leela Bhansali,"Shah Rukh Khan, Aishwarya Rai Bachchan, Madhuri Dixit","Drama, Musical, Romance",7.5
+109,The Good Girl,2002,93.0,Miguel Arteta,"Jennifer Aniston, Jake Gyllenhaal, Deborah Rush","Drama, Romance",6.4
+110,Crossroads,2002,93.0,Tamra Davis,"Britney Spears, Anson Mount, Zoe Saldaña","Comedy, Drama, Romance",3.9
+111,In America,2002,105.0,Jim Sheridan,"Paddy Considine, Samantha Morton, Djimon Hounsou",Drama,7.7
+112,Dirty Pretty Things,2002,97.0,Stephen Frears,"Chiwetel Ejiofor, Audrey Tautou, Sophie Okonedo","Crime, Drama, Thriller",7.2
+113,Whale Rider,2002,101.0,Niki Caro,"Keisha Castle-Hughes, Rawiri Paratene, Vicky Haughton","Drama, Family",7.5
+114,Narc,2002,105.0,Joe Carnahan,"Ray Liotta, Jason Patric, Chi McBride","Crime, Drama, Mystery",7.1
+115,Death to Smoochy,2002,109.0,Danny DeVito,"Robin Williams, Edward Norton, Catherine Keener","Comedy, Crime, Drama",6.3
+116,The Spanish Apartment,2002,122.0,Cédric Klapisch,"Romain Duris, Judith Godrèche, Kelly Reilly","Comedy, Drama, Romance",7.3
+117,May,2002,93.0,Lucky McKee,"Angela Bettis, Jeremy Sisto, Anna Faris","Drama, Horror",6.6
+118,Spider,2002,98.0,David Cronenberg,"Ralph Fiennes, Miranda Richardson, Gabriel Byrne","Drama, Mystery, Thriller",6.7
+119,Spun,2002,101.0,Jonas Åkerlund,"Jason Schwartzman, John Leguizamo, Patrick Fugit","Comedy, Crime, Drama",6.7
+120,Big Fat Liar,2002,88.0,Shawn Levy,"Frankie Muniz, Amanda Bynes, Paul Giamatti","Adventure, Comedy, Family",5.5
+121,Dragonfly,2002,104.0,Tom Shadyac,"Kevin Costner, Susanna Thompson, Joe Morton","Drama, Fantasy, Mystery",6.1
+122,24 Hour Party People,2002,117.0,Michael Winterbottom,"Steve Coogan, Lennie James, John Thomson","Biography, Comedy, Drama",7.3
+123,Antwone Fisher,2002,120.0,Denzel Washington,"Denzel Washington, Derek Luke, Joy Bryant","Biography, Drama",7.3
+124,Interstate 60,2002,116.0,Bob Gale,"James Marsden, Gary Oldman, Kurt Russell","Adventure, Comedy, Drama",7.5
+125,The New Guy,2002,88.0,Ed Decter,"DJ Qualls, Lyle Lovett, Eliza Dushku",Comedy,5.8
+126,Femme Fatale,2002,114.0,Brian De Palma,"Rebecca Romijn, Antonio Banderas, Peter Coyote","Crime, Drama, Mystery",6.2
+127,The Rookie,2002,127.0,John Lee Hancock,"Dennis Quaid, JD Evermore, Rachel Griffiths","Drama, Family, Sport",6.9
+128,Undercover Brother,2002,86.0,Malcolm D. Lee,"Eddie Griffin, Denise Richards, Aunjanue Ellis-Taylor","Action, Comedy",5.9
+129,Drumline,2002,118.0,Charles Stone III,"Nick Cannon, Zoe Saldaña, Orlando Jones","Comedy, Drama, Music",6.0
+130,Igby Goes Down,2002,98.0,Burr Steers,"Kieran Culkin, Susan Sarandon, Jeff Goldblum","Comedy, Drama",6.8
+131,Dark Water,2002,101.0,Hideo Nakata,"Hitomi Kuroki, Rio Kanno, Mirei Oguchi","Drama, Horror, Mystery",6.7
+132,The Four Feathers,2002,132.0,Shekhar Kapur,"Heath Ledger, Wes Bentley, Kate Hudson","Adventure, Drama, Romance",6.5
+133,Undisputed,2002,94.0,Walter Hill,"Wesley Snipes, Ving Rhames, Peter Falk","Action, Crime, Drama",6.1
+134,8 Women,2002,111.0,François Ozon,"Fanny Ardant, Emmanuelle Béart, Danielle Darrieux","Comedy, Crime, Musical",7.0
+135,White Oleander,2002,109.0,Peter Kosminsky,"Michelle Pfeiffer, Renée Zellweger, Robin Wright",Drama,7.1
+136,Barbershop,2002,102.0,Tim Story,"Ice Cube, Cedric The Entertainer, Eve","Comedy, Drama",6.3
+137,Blue Crush,2002,104.0,John Stockwell,"Kate Bosworth, Michelle Rodriguez, Matthew Davis","Drama, Romance, Sport",5.7
+138,Boat Trip,2002,94.0,Mort Nathan,"Cuba Gooding Jr., Horatio Sanz, Roselyn Sanchez",Comedy,4.9
+139,The Salton Sea,2002,103.0,D.J. Caruso,"Val Kilmer, Vincent D'Onofrio, Adam Goldberg","Crime, Drama, Mystery",7.0
+140,Cypher,2002,95.0,Vincenzo Natali,"Jeremy Northam, Lucy Liu, Nigel Bennett","Mystery, Sci-Fi, Thriller",6.7
+141,Life or Something Like It,2002,103.0,Stephen Herek,"Angelina Jolie, Edward Burns, Tony Shalhoub","Comedy, Romance",5.8
+142,Friday After Next,2002,85.0,Marcus Raboy,"Ice Cube, Mike Epps, John Witherspoon","Comedy, Drama",5.8
+143,Ken Park,2002,93.0,"Larry Clark, Edward Lachman","Adam Chubbuck, James Bullard, Seth Gray",Drama,5.8
+144,Rabbit-Proof Fence,2002,94.0,Phillip Noyce,"Everlyn Sampi, Tianna Sansbury, Kenneth Branagh","Adventure, Biography, Drama",7.4
+145,The Eye,2002,99.0,"Danny Pang, Oxide Chun Pang","Angelica Lee, Chutcha Rujinanon, Lawrence Chou","Horror, Mystery, Thriller",6.6
+146,The Quiet American,2002,101.0,Phillip Noyce,"Michael Caine, Brendan Fraser, Do Thi Hai Yen","Drama, Romance, Thriller",7.0
+147,Rollerball,2002,98.0,John McTiernan,"Chris Klein, Jean Reno, LL Cool J","Action, Sci-Fi, Sport",3.1
+148,D-Tox,2002,96.0,Jim Gillespie,"Sylvester Stallone, Charles S. Dutton, Polly Walker","Crime, Thriller",5.3
+149,Snow Dogs,2002,99.0,Brian Levant,"Cuba Gooding Jr., James Coburn, Sisqó","Adventure, Comedy, Family",5.2
+150,The Magdalene Sisters,2002,114.0,Peter Mullan,"Eileen Walsh, Dorothy Duffy, Nora-Jane Noone",Drama,7.7
+151,Hollywood Ending,2002,112.0,Woody Allen,"Woody Allen, Téa Leoni, Bob Dorian","Comedy, Romance",6.5
+152,The Master of Disguise,2002,80.0,Perry Andelin Blake,"Dana Carvey, Jennifer Esposito, Harold Gould","Adventure, Comedy, Family",3.4
+153,The Man Without a Past,2002,97.0,Aki Kaurismäki,"Markku Peltola, Kati Outinen, Annikki Tähti","Comedy, Drama, Romance",7.6
+154,The Adventures of Pluto Nash,2002,95.0,Ron Underwood,"Eddie Murphy, Jay Mohr, Randy Quaid","Action, Comedy, Sci-Fi",3.9
+155,City by the Sea,2002,108.0,Michael Caton-Jones,"Robert De Niro, James Franco, Frances McDormand","Crime, Drama, Mystery",6.1
+156,Eight Crazy Nights,2002,76.0,Seth Kearsley,"Adam Sandler, Rob Schneider, Jackie Sandler","Animation, Comedy, Musical",5.3
+157,Heaven,2002,97.0,Tom Tykwer,"Cate Blanchett, Giovanni Ribisi, Remo Girone","Crime, Drama, Romance",6.9
+158,Trapped,2002,106.0,Luis Mandoki,"Kevin Bacon, Charlize Theron, Courtney Love","Action, Crime, Drama",6.1
+159,The Twilight Samurai,2002,129.0,Yôji Yamada,"Hiroyuki Sanada, Rie Miyazawa, Nenji Kobayashi","Drama, Romance",8.1
+160,Bloody Sunday,2002,111.0,Paul Greengrass,"James Nesbitt, Tim Pigott-Smith, Nicholas Farrell","Drama, History, War",7.6
+161,Tuck Everlasting,2002,90.0,Jay Russell,"Alexis Bledel, Jonathan Jackson, Sissy Spacek","Drama, Family, Fantasy",6.6
+162,The Importance of Being Earnest,2002,97.0,Oliver Parker,"Rupert Everett, Colin Firth, Frances O'Connor","Comedy, Drama, Romance",6.8
+163,Below,2002,105.0,David Twohy,"Bruce Greenwood, David Crow, Matthew Davis","Action, Horror, Mystery",6.1
+164,Dark Blue,2002,118.0,Ron Shelton,"Kurt Russell, Ving Rhames, Scott Speedman","Crime, Drama, Thriller",6.6
+165,Distant,2002,110.0,Nuri Bilge Ceylan,"Muzaffer Özdemir, Mehmet Emin Toprak, Zuhal Gencer","Comedy, Drama",7.5
+166,Like Mike,2002,99.0,John Schultz,"Shad Moss, Jonathan Lipnicki, Morris Chestnut","Comedy, Family, Fantasy",5.4
+167,Feardotcom,2002,101.0,William Malone,"Stephen Dorff, Natascha McElhone, Stephen Rea","Crime, Horror, Thriller",3.4
+168,Return to Never Land,2002,72.0,"Robin Budd, Donovan Cook","Blayne Weaver, Harriet Owen, Corey Burton","Animation, Adventure, Family",5.8
+169,Russian Ark,2002,99.0,Aleksandr Sokurov,"Sergey Dreyden, Mariya Kuznetsova, Leonid Mozgovoy","Drama, Fantasy, History",7.2
+170,Big Trouble,2002,85.0,Barry Sonnenfeld,"Tim Allen, Rene Russo, Stanley Tucci","Comedy, Crime, Thriller",6.4
+171,Swimfan,2002,85.0,John Polson,"Jesse Bradford, Erika Christensen, Shiri Appleby","Drama, Thriller",5.1
+172,Ballistic: Ecks vs. Sever,2002,91.0,Wych Kaosayananda,"Antonio Banderas, Lucy Liu, Talisa Soto","Action, Crime, Mystery",3.7
+173,Divine Secrets of the Ya-Ya Sisterhood,2002,116.0,Callie Khouri,"Sandra Bullock, Ellen Burstyn, Fionnula Flanagan",Drama,6.1
+174,Darkness,2002,88.0,Jaume Balagueró,"Anna Paquin, Lena Olin, Iain Glen",Horror,5.4
+175,Gerry,2002,103.0,Gus Van Sant,"Casey Affleck, Matt Damon","Adventure, Drama, Mystery",6.0
+176,Killing Me Softly,2002,100.0,Kaige Chen,"Heather Graham, Joseph Fiennes, Natascha McElhone","Drama, Mystery, Romance",5.4
+177,Ripley's Game,2002,110.0,Liliana Cavani,"John Malkovich, Dougray Scott, Lena Headey","Crime, Drama, Mystery",6.6
+178,"He Loves Me, He Loves Me Not",2002,92.0,Laetitia Colombani,"Audrey Tautou, Samuel Le Bihan, Isabelle Carré","Romance, Thriller",7.1
+179,Serving Sara,2002,99.0,Reginald Hudlin,"Matthew Perry, Elizabeth Hurley, Bruce Campbell","Comedy, Romance",5.3
+180,Swept Away,2002,89.0,Guy Ritchie,"Madonna, Adriano Giannini, Bruce Greenwood","Comedy, Romance",3.6
+181,The Emperor's Club,2002,109.0,Michael Hoffman,"Kevin Kline, Emile Hirsch, Joel Gretsch",Drama,6.9
+182,Roger Dodger,2002,106.0,Dylan Kidd,"Campbell Scott, Jesse Eisenberg, Isabella Rossellini","Comedy, Drama",6.8
+183,Laurel Canyon,2002,103.0,Lisa Cholodenko,"Frances McDormand, Alessandro Nivola, Christian Bale",Drama,6.4
+184,The Legend of Bhagat Singh,2002,155.0,Rajkumar Santoshi,"Ajay Devgn, Sushant Singh, D. Santosh","Biography, Drama, History",8.1
+185,The Banger Sisters,2002,98.0,Bob Dolman,"Susan Sarandon, Goldie Hawn, Geoffrey Rush","Comedy, Drama",5.7
+186,Dolls,2002,114.0,Takeshi Kitano,"Miho Kanno, Hidetoshi Nishijima, Tatsuya Mihashi","Drama, Romance",7.5
+187,Half Past Dead,2002,98.0,Don Michael Paul,"Morris Chestnut, Steven Seagal, Matt Battaglia","Action, Crime, Thriller",4.6
+188,Company,2002,142.0,Ram Gopal Varma,"Ajay Devgn, Mohanlal, Manisha Koirala","Action, Crime, Drama",7.9
+189,Sorority Boys,2002,93.0,Wallace Wolodarsky,"Barry Watson, Harland Williams, Michael Rosenbaum",Comedy,5.5
+190,Sweet Sixteen,2002,106.0,Ken Loach,"Martin Compston, Michelle Coulter, Annmarie Fulton","Crime, Drama",7.4
+191,All About the Benjamins,2002,95.0,Kevin Bray,"Ice Cube, Mike Epps, Tommy Flanagan","Action, Comedy, Crime",5.8
+192,Welcome to Collinwood,2002,86.0,"Anthony Russo, Joe Russo","George Clooney, Sam Rockwell, William H. Macy","Comedy, Crime",6.3
+193,Mondays in the Sun,2002,113.0,Fernando León de Aranoa,"Javier Bardem, Luis Tosar, José Ángel Egido","Comedy, Drama",7.5
+194,The Guru,2002,94.0,Daisy von Scherler Mayer,"Jimi Mistry, Heather Graham, Marisa Tomei","Comedy, Music, Romance",5.4
+195,Auto Focus,2002,105.0,Paul Schrader,"Greg Kinnear, Willem Dafoe, Maria Bello","Biography, Crime, Drama",6.7
+196,The Wild Thornberrys,2002,85.0,"Cathy Malkasian, Jeff McGrath","Tim Curry, Rupert Everett, Flea","Animation, Adventure, Comedy",5.7
+197,Slackers,2002,86.0,Dewey Nicks,"Devon Sawa, Robert B. Martin Jr., Jason Segel","Comedy, Romance",5.3
+198,Clockstoppers,2002,94.0,Jonathan Frakes,"Jesse Bradford, French Stewart, Paula Garcés","Action, Adventure, Comedy",5.2
+199,Amen.,2002,132.0,Costa-Gavras,"Ulrich Tukur, Mathieu Kassovitz, Ulrich Mühe","Biography, Crime, Drama",7.2
+200,Paid in Full,2002,97.0,Charles Stone III,"Mekhi Phifer, Wood Harris, Chi McBride","Action, Crime, Drama",7.0
+201,Moonlight Mile,2002,117.0,Brad Silberling,"Jake Gyllenhaal, Dustin Hoffman, Susan Sarandon","Drama, Romance",6.6
+202,Ararat,2002,115.0,Atom Egoyan,"Charles Aznavour, Brent Carver, Eric Bogosian","Drama, War",6.3
+203,The Crime of Padre Amaro,2002,118.0,Carlos Carrera,"Gael García Bernal, Ana Claudia Talancón, Sancho Gracia","Drama, Romance",6.7
+204,The Dangerous Lives of Altar Boys,2002,104.0,Peter Care,"Kieran Culkin, Jena Malone, Emile Hirsch","Comedy, Drama",6.9
+205,They,2002,89.0,Robert Harmon,"Laura Regan, Marc Blucas, Ethan Embry","Horror, Mystery, Thriller",4.8
+206,Aankhen,2002,165.0,Vipul Amrutlal Shah,"Amitabh Bachchan, Akshay Kumar, Sushmita Sen","Crime, Drama, Thriller",7.4
+207,Nicholas Nickleby,2002,132.0,Douglas McGrath,"Charlie Hunnam, Jamie Bell, Christopher Plummer","Adventure, Drama, Romance",7.1
+208,Philanthropy,2002,110.0,Nae Caranfil,"Mircea Diaconu, Gheorghe Dinica, Mara Nicolescu","Comedy, Drama",8.4
+209,Stealing Harvard,2002,85.0,Bruce McCulloch,"Jason Lee, Tom Green, Leslie Mann","Comedy, Crime",5.1
+210,Possession,2002,102.0,Neil LaBute,"Gwyneth Paltrow, Aaron Eckhart, Jeremy Northam","Drama, Mystery, Romance",6.3
+211,Deathwatch,2002,94.0,M.J. Bassett,"Jamie Bell, Rúaidhrí Conroy, Mike Downey","Drama, Horror, War",5.9
+212,Bang Bang You're Dead,2002,93.0,Guy Ferland,"Tom Cavanagh, Ben Foster, Randy Harrison","Crime, Drama, Thriller",7.7
+213,My Little Eye,2002,95.0,Marc Evans,"Sean Cw Johnson, Kris Lemche, Stephen O'Reilly","Horror, Mystery, Thriller",5.5
+214,Day of the Wacko,2002,93.0,Marek Koterski,"Marek Kondrat, Janina Traczykówna, Andrzej Grabowski","Comedy, Drama, Romance",8.1
+215,Spellbound,2002,97.0,Jeffrey Blitz,"Angela Arenivar, Ubaldo Arenivar, Jorge Arenivar","Documentary, Comedy, Thriller",7.6
+216,Lost in La Mancha,2002,89.0,"Keith Fulton, Louis Pepe","Terry Gilliam, Johnny Depp, Jeff Bridges",Documentary,7.3
+217,Dahmer,2002,101.0,David Jacobson,"Jeremy Renner, Bruce Davison, Artel Great","Biography, Crime, Drama",5.6
+218,People I Know,2002,100.0,Daniel Algrant,"Al Pacino, Téa Leoni, Ryan O'Neal","Crime, Drama, Mystery",5.4
+219,All or Nothing,2002,128.0,Mike Leigh,"Timothy Spall, Lesley Manville, Ruth Sheen",Drama,7.5
+220,Returner,2002,116.0,Takashi Yamazaki,"Takeshi Kaneshiro, Anne Suzuki, Gorô Kishitani","Action, Adventure, Sci-Fi",6.4
+221,Morvern Callar,2002,97.0,Lynne Ramsay,"Samantha Morton, Kathleen McDermott, Linda McGuire",Drama,6.8
+222,Full Frontal,2002,101.0,Steven Soderbergh,"Julia Roberts, David Hyde Pierce, David Duchovny","Comedy, Romance",4.7
+223,The Powerpuff Girls Movie,2002,73.0,Craig McCracken,"Cathy Cavadini, Tara Strong, Elizabeth Daily","Animation, Action, Adventure",6.5
+224,Open Hearts,2002,113.0,Susanne Bier,"Sonja Richter, Nikolaj Lie Kaas, Mads Mikkelsen","Drama, Romance",7.5
+225,Poolhall Junkies,2002,99.0,Mars Callahan,"Mars Callahan, Chazz Palminteri, Michael Rosenbaum","Comedy, Drama, Sport",6.8
+226,The Truth About Charlie,2002,104.0,Jonathan Demme,"Mark Wahlberg, Thandiwe Newton, Tim Robbins","Mystery, Thriller",4.7
+227,The Good Thief,2002,109.0,Neil Jordan,"Nick Nolte, Ralph Fiennes, Nutsa Kukhianidze","Action, Crime, Drama",6.4
+228,Oasis,2002,133.0,Lee Chang-dong,"Sul Kyung-gu, Moon So-ri, Ahn Nae-sang","Drama, Romance",7.8
+229,Better Luck Tomorrow,2002,101.0,Justin Lin,"Parry Shen, Jason Tobin, Sung Kang","Crime, Drama, Romance",7.0
+230,Brown Sugar,2002,109.0,Rick Famuyiwa,"Taye Diggs, Sanaa Lathan, Yasiin Bey","Comedy, Drama, Music",6.5
+231,Frozen Stiff,2002,90.0,Milorad Milinkovic,"Nikola Djuricko, Sonja Kolacaric, Tara Manic","Comedy, Drama",8.3
+232,Avenging Angelo,2002,97.0,Martyn Burke,"Sylvester Stallone, Madeleine Stowe, Anthony Quinn","Action, Comedy, Crime",5.1
+233,The Son,2002,103.0,"Jean-Pierre Dardenne, Luc Dardenne","Olivier Gourmet, Morgan Marinne, Isabella Soupart","Drama, Mystery",7.5
+234,Abandon,2002,99.0,Stephen Gaghan,"Katie Holmes, Benjamin Bratt, Charlie Hunnam","Drama, Mystery, Romance",4.8
+235,Old Men in New Cars,2002,95.0,Lasse Spang Olsen,"Kim Bodnia, Torkel Petersson, Tomas Villum Jensen","Action, Comedy, Crime",6.7
+236,Pumpkin,2002,113.0,"Anthony Abrams, Adam Larson Broder","Christina Ricci, Hank Harris, Brenda Blethyn","Comedy, Drama, Romance",6.1
+237,Awara Paagal Deewana,2002,158.0,Vikram Bhatt,"Akshay Kumar, Suniel Shetty, Aftab Shivdasani","Action, Comedy, Crime",6.3
+238,A Peck on the Cheek,2002,136.0,Mani Ratnam,"Keerthana Parthiepan, Simran, Madhavan","Action, Drama, War",8.3
+239,Love Liza,2002,90.0,Todd Louiso,"Philip Seymour Hoffman, Annie Morgan, Kathy Bates","Comedy, Drama",6.9
+240,Max,2002,106.0,Menno Meyjes,"John Cusack, Noah Taylor, Leelee Sobieski","Drama, War",6.4
+241,Ten,2002,94.0,Abbas Kiarostami,"Mania Akbari, Amina Maher, Kamran Adl",Drama,7.4
+242,Derailed,2002,89.0,Bob Misiorowski,"Jean-Claude Van Damme, Tomas Arana, Laura Harring","Action, Thriller",3.9
+243,Bus 174,2002,122.0,"José Padilha, Felipe Lacerda","Sandro do Nascimento, Rodrigo Pimentel, Luiz Eduardo Soares","Documentary, Crime",7.8
+244,Pinocchio,2002,108.0,Roberto Benigni,"Roberto Benigni, Nicoletta Braschi, Carlo Giuffrè","Comedy, Family, Fantasy",4.3
+245,To Be and to Have,2002,104.0,Nicolas Philibert,"Georges Lopez, Alizé, Axel Thouvenin","Documentary, Family",7.8
+246,Real Women Have Curves,2002,90.0,Patricia Cardoso,"America Ferrera, Lupe Ontiveros, Ingrid Oliu","Comedy, Drama",6.9
+247,Naked Weapon,2002,90.0,Siu-Tung Ching,"Anya, Marit Thoresen, Maggie Q","Action, Crime, Drama",5.5
+248,Ted Bundy,2002,99.0,Matthew Bright,"Michael Reilly Burke, Boti Bliss, Julianna McCarthy","Biography, Crime, Drama",5.8
+249,Vampires: Los Muertos,2002,93.0,Tommy Lee Wallace,"Jon Bon Jovi, Cristián de la Fuente, Natasha Gregson Wagner","Action, Horror, Thriller",4.5
+250,The Crocodile Hunter: Collision Course,2002,90.0,John Stainton,"Steve Irwin, Terri Irwin, Magda Szubanski","Action, Adventure, Comedy",5.4
+251,Ben & Arthur,2002,85.0,Sam Mraovich,"Sam Mraovich, Jamie Brett Gabel, Michael Haboush","Drama, Romance, Thriller",1.9
+252,So Close,2002,111.0,Corey Yuen,"Shu Qi, Wei Zhao, Karen Mok","Action, Crime, Thriller",6.6
+253,Liberty Stands Still,2002,96.0,Kari Skogland,"Tanya Allen, Hart Bochner, Fulvio Cecere","Action, Drama, Thriller",5.7
+254,The Kid Stays in the Picture,2002,93.0,"Nanette Burstein, Brett Morgen","Robert Evans, Eddie Albert, Peter Bart","Documentary, Biography",7.3
+255,Wilbur Wants to Kill Himself,2002,109.0,Lone Scherfig,"Jamie Sives, Adrian Rawlins, Shirley Henderson","Comedy, Drama, Romance",6.8
+256,The Cuckoo,2002,99.0,Aleksandr Rogozhkin,"Anni-Kristiina Juuso, Ville Haapasalo, Viktor Bychkov","Comedy, Drama, War",7.7
+257,Hey Arnold! The Movie,2002,76.0,Tuck Tucker,"Spencer Klein, Francesca Marie Smith, Jamil Walker Smith","Animation, Adventure, Comedy",6.0
+258,Hum Tumhare Hain Sanam,2002,174.0,"K.S. Adiyaman, Sanjay Singh","Shah Rukh Khan, Madhuri Dixit, Salman Khan","Comedy, Drama, Romance",5.4
+259,Deuces Wild,2002,96.0,Scott Kalvert,"Stephen Dorff, Brad Renfro, Fairuza Balk","Action, Drama",5.6
+260,Saathiya,2002,138.0,Shaad Ali,"Vivek Oberoi, Rani Mukerji, Shah Rukh Khan","Drama, Family, Romance",6.8
+261,Empire,2002,90.0,Franc. Reyes,"John Leguizamo, Peter Sarsgaard, Denise Richards","Crime, Drama, Thriller",5.9
+262,No Good Deed,2002,97.0,Bob Rafelson,"Samuel L. Jackson, Milla Jovovich, Stellan Skarsgård","Crime, Drama, Thriller",5.4
+263,Yossi & Jagger,2002,65.0,Eytan Fox,"Ohad Knoller, Yehuda Levi, Assi Cohen","Drama, History, Romance",7.1
+264,Buying the Cow,2002,88.0,Walt Becker,"Jerry O'Connell, Bill Bellamy, Bridgette Wilson-Sampras","Comedy, Romance",5.8
+265,Man on the Train,2002,90.0,Patrice Leconte,"Jean Rochefort, Johnny Hallyday, Jean-François Stévenin","Crime, Drama, Thriller",7.1
+266,Twin Sisters,2002,137.0,Ben Sombogaart,"Ellen Vogel, Gudrun Okras, Thekla Reuten","Drama, Romance, War",7.4
+267,Comedian,2002,82.0,Christian Charles,"Jerry Seinfeld, Chris Rock, Garry Shandling","Documentary, Comedy",6.9
+268,Evelyn,2002,94.0,Bruce Beresford,"Pierce Brosnan, Julianna Margulies, Aidan Quinn",Drama,7.0
+269,Juwanna Mann,2002,91.0,Jesse Vaughan,"Miguel A. Núñez Jr., Christopher Simmons, Vivica A. Fox","Comedy, Drama, Romance",4.7
+270,Pokémon Heroes,2002,71.0,"Jim Malone, Kunihiko Yuyama","Eric Stuart, Madeleine Blaustein, Rachael Lillis","Animation, Action, Adventure",6.1
+271,The Dancer Upstairs,2002,132.0,John Malkovich,"Javier Bardem, Laura Morante, Juan Diego Botto","Crime, Drama, Thriller",6.8
+272,Dummy,2002,91.0,Greg Pritikin,"Adrien Brody, Milla Jovovich, Illeana Douglas","Comedy, Drama, Romance",6.6
+273,Highway,2002,97.0,James Cox,"Kimberley Kates, Jared Leto, Jake Gyllenhaal","Crime, Drama",6.1
+274,Demonlover,2002,129.0,Olivier Assayas,"Connie Nielsen, Gina Gershon, Chloë Sevigny","Drama, Mystery, Thriller",5.9
+275,Sex Is Zero,2002,96.0,JK Youn,"Lim Chang-jung, Ha Ji-Won, Choi Seong-guk","Comedy, Drama, Romance",6.5
+276,Mujhse Dosti Karoge!,2002,149.0,Kunal Kohli,"Hrithik Roshan, Kareena Kapoor, Rani Mukerji","Comedy, Drama, Family",5.1
+277,Naqoyqatsi,2002,89.0,Godfrey Reggio,"Belladonna, Marlon Brando, Elton John","Documentary, Music",6.4
+278,Waking Up in Reno,2002,91.0,Jordan Brady,"Billy Bob Thornton, Charlize Theron, Patrick Swayze","Comedy, Romance",5.5
+279,Tiptoes,2002,90.0,Matthew Bright,"Gary Oldman, Peter Dinklage, Kate Beckinsale","Comedy, Drama, Romance",4.2
+280,The Country Bears,2002,88.0,Peter Hastings,"Haley Joel Osment, Diedrich Bader, Candy Ford","Comedy, Family, Music",4.3
+281,Tadpole,2002,78.0,Gary Winick,"Sigourney Weaver, Aaron Stanford, Kate Mara","Comedy, Drama, Romance",6.2
+282,Try Seventeen,2002,93.0,Jeffrey Porter,"Elijah Wood, Franka Potente, Mandy Moore","Comedy, Drama",6.0
+283,Thunderpants,2002,87.0,Peter Hewitt,"Simon Callow, Stephen Fry, Celia Imrie","Comedy, Family, Sci-Fi",3.8
+284,Run Ronnie Run,2002,86.0,Troy Miller,"David Cross, Bob Odenkirk, Bruce Taylor",Comedy,6.2
+285,Steal,2002,83.0,Gérard Pirès,"Natasha Henstridge, Stephen Dorff, Bruce Payne","Action, Crime, Thriller",5.4
+286,Long Time Dead,2002,94.0,Marcus Adams,"Joe Absolom, Tom Bell, Lara Belmont","Horror, Thriller",4.7
+287,Jet Lag,2002,91.0,Danièle Thompson,"Juliette Binoche, Jean Reno, Sergi López","Comedy, Romance",6.1
+288,The Way Home,2002,80.0,Jeong-hyang Lee,"Yoo Seung-ho, Eul-boon Kim, Dong Hyo-hee",Drama,7.7
+289,September 11,2002,134.0,"Alejandro G. Iñárritu, Youssef Chahine, Amos Gitai","Maryam Karimi, Mohamad Dolati, Agelem Habibi",Drama,6.8
+290,City of Ghosts,2002,116.0,Matt Dillon,"Matt Dillon, James Caan, Natascha McElhone","Crime, Drama, Thriller",5.9
+291,In My Skin,2002,93.0,Marina de Van,"Marina de Van, Laurent Lucas, Léa Drucker","Drama, Horror",6.2
+292,The Other Side of the Bed,2002,114.0,Emilio Martínez Lázaro,"Ernesto Alterio, Paz Vega, Guillermo Toledo","Comedy, Drama, Musical",6.4
+293,Godzilla Against Mechagodzilla,2002,88.0,"Masaaki Tezuka, Kazuki Ômori","Yumiko Shaku, Shin Takuma, Kana Onodera","Action, Sci-Fi, Thriller",6.6
+294,She Gets What She Wants,2002,88.0,Melanie Mayron,"Piper Perabo, Jane McGregor, Michael McKean","Comedy, Romance",5.1
+295,The Nest,2002,107.0,Florent-Emilio Siri,"Samy Naceri, Benoît Magimel, Nadia Farès","Action, Crime, Thriller",6.7
+296,Raising Victor Vargas,2002,88.0,Peter Sollett,"Victor Rasuk, Donna Maldonado, Kevin Rivera","Drama, Romance",7.2
+297,Solino,2002,124.0,Fatih Akin,"Barnaby Metschurat, Moritz Bleibtreu, Christian Tasche","Drama, Comedy",7.3
+298,Extreme Ops,2002,93.0,Christian Duguay,"Rufus Sewell, Devon Sawa, Bridgette Wilson-Sampras","Action, Adventure, Thriller",4.4
+299,I Am Dina,2002,125.0,"Ole Bornedal, Tony Spataro","Maria Bonnevie, Gérard Depardieu, Christopher Eccleston",Drama,6.5
+300,War,2002,120.0,Aleksey Balabanov,"Aleksey Chadov, Ian Kelly, Ingeborga Dapkunaite","Action, Drama, War",7.5
+301,Kaante,2002,150.0,Sanjay Gupta,"Amitabh Bachchan, Sanjay Dutt, Suniel Shetty","Action, Crime, Drama",6.6
+302,A Snake of June,2002,77.0,Shin'ya Tsukamoto,"Asuka Kurosawa, Yûji Kôtari, Shin'ya Tsukamoto","Drama, Horror, Mystery",6.8
+303,Secret Things,2002,115.0,Jean-Claude Brisseau,"Coralie Revel, Sabrina Seyvecou, Roger Miremont","Comedy, Drama, Fantasy",6.0
+304,Dead Weight,2002,107.0,"Alain Berbérian, Frédéric Forestier","Gérard Lanvin, Benoît Poelvoorde, José Garcia","Action, Adventure, Comedy",6.0
+305,Shakthi: The Power,2002,170.0,Krishna Vamsi,"Karisma Kapoor, Nana Patekar, Sanjay Kapoor","Action, Drama, Thriller",6.1
+306,Intimate Stories,2002,92.0,Carlos Sorin,"Javier Lombardo, Antonio Benedicti, Javiera Bravo","Comedy, Drama",7.4
+307,When the Last Sword Is Drawn,2002,143.0,Yôjirô Takita,"Kiichi Nakai, Kôichi Satô, Yui Natsukawa","Drama, History",7.4
+308,"The Legend of Al, John and Jack",2002,105.0,"Aldo Baglio, Giacomo Poretti, Giovanni Storti","Aldo Baglio, Giacomo Poretti, Giovanni Storti","Comedy, Crime",6.5
+309,Stark Raving Mad,2002,101.0,"Drew Daywalt, David Schneider","Seann William Scott, Timm Sharp, Patrick Breen","Action, Comedy, Crime",6.2
+310,Repli-Kate,2002,96.0,Frank Longo,"Ali Landry, James Roday Rodriguez, Desmond Askew","Comedy, Sci-Fi",5.7
+311,Valami Amerika,2002,115.0,Gábor Herendi,"Tibor Szervét, Csaba Pindroch, Gyözö Szabó","Adventure, Comedy, Romance",6.9
+312,Phone,2002,104.0,Byeong-ki Ahn,"Ha Ji-Won, Kim Yu-mi, Choi Woo-jae","Horror, Mystery, Thriller",6.1
+313,Undertaking Betty,2002,94.0,Nick Hurran,"Brenda Blethyn, Alfred Molina, Christopher Walken","Comedy, Romance",6.5
+314,Zero Day,2002,92.0,Ben Coccio,"Cal Robertson, Andre Keuck, Serataren Adragna",Drama,7.2
+315,.com for Murder,2002,96.0,Nico Mastorakis,"Nastassja Kinski, Jeffery Dean, Nicollette Sheridan","Horror, Sci-Fi, Thriller",2.7
+316,Biggie & Tupac,2002,108.0,Nick Broomfield,"The Notorious B.I.G., Tupac Shakur, Nick Broomfield","Documentary, Biography, Crime",6.7
+317,The Third Wheel,2002,91.0,Jordan Brady,"Ben Affleck, Matt Damon, Luke Wilson","Comedy, Romance",5.4
+318,Zona Zamfirova,2002,104.0,Zdravko Sotra,"Vojin Cetkovic, Katarina Radivojevic, Dragan Nikolic","Comedy, Drama",7.3
+319,Shottas,2002,95.0,Cess Silvera,"Ky-Mani Marley, Spragga Benz, Louie Rankin","Action, Crime, Drama",6.1
+320,Mr. and Mrs. Iyer,2002,120.0,Aparna Sen,"Rahul Bose, Konkona Sen Sharma, Bhisham Sahni",Drama,7.9
+321,Respiro,2002,90.0,Emanuele Crialese,"Valeria Golino, Vincenzo Amato, Francesco Casisa",Drama,7.0
+322,Eight Hundred Bullets,2002,124.0,Álex de la Iglesia,"Sancho Gracia, Ángel de Andrés López, Carmen Maura","Action, Adventure, Comedy",6.3
+323,Once Upon a Time in the Midlands,2002,104.0,Shane Meadows,"Robert Carlyle, Rhys Ifans, Kathy Burke","Comedy, Drama, Romance",6.1
+324,Men with Brooms,2002,102.0,Paul Gross,"Paul Gross, Leslie Nielsen, James B. Douglas","Comedy, Drama, Romance",5.9
+325,Panchatanthiram,2002,150.0,K.S. Ravikumar,"Kamal Haasan, Simran, Ramya Krishnan","Comedy, Drama",8.2
+326,Sonny,2002,110.0,Nicolas Cage,"James Franco, Brenda Blethyn, Mena Suvari","Crime, Drama",5.6
+327,Jonah: A VeggieTales Movie,2002,82.0,"Phil Vischer, Mike Nawrocki","Phil Vischer, Mike Nawrocki, Tim Hodge","Animation, Adventure, Comedy",6.5
+328,Malefique,2002,90.0,Eric Valette,"Gérald Laroche, Philippe Laudenbach, Clovis Cornillac","Fantasy, Horror, Mystery",6.2
+329,Survival Island,2002,85.0,"David Hillenbrand, Scott Hillenbrand","Nicholas Brendon, Jaime Pressly, Eugene Byrd","Horror, Thriller",2.6
+330,Left Behind II: Tribulation Force,2002,94.0,Bill Corcoran,"Kirk Cameron, Brad Johnson, Clarence Gilyard Jr.","Action, Drama, Fantasy",4.8
+331,Balzac and the Little Chinese Seamstress,2002,110.0,Sijie Dai,"Xun Zhou, Kun Chen, Ye Liu","Biography, Drama, Romance",7.2
+332,Fubar,2002,89.0,Michael Dowse,"Paul Spence, David Lawrence, Gordon Skilling","Comedy, Music",6.8
+333,Manmadhudu,2002,142.0,Vijay K. Bhaskar,"Nagarjuna Akkineni, Sonali Bendre, Anshu","Comedy, Romance",8.3
+334,Cheaters,2002,86.0,Andrew Gurland,"Trevor Fehrman, Matthew Lawrence, Elden Henson",Comedy,6.0
+335,Blue Gate Crossing,2002,85.0,Chih-yen Yee,"Lun-Mei Gwei, Chen Bolin, Yolin Liang","Drama, Romance",7.4
+336,Valentin,2002,86.0,Alejandro Agresti,"Rodrigo Noya, Alejandro Agresti, Julieta Cardinali","Comedy, Drama, Romance",7.5
+337,Together,2002,116.0,Kaige Chen,"Yun Tang, Peiqi Liu, Hong Chen","Drama, Music",7.4
+338,Detective Conan: The Phantom of Baker Street,2002,98.0,Kenji Kodama,"Minami Takayama, Hideyuki Tanaka, Wakana Yamazaki","Animation, Adventure, Drama",7.8
+339,In This World,2002,88.0,Michael Winterbottom,"Jamal Udin Torabi, Enayatullah, Imran Paracha",Drama,7.3
+340,Raaz,2002,151.0,Vikram Bhatt,"Bipasha Basu, Dino Morea, Malini Sharma","Horror, Mystery, Thriller",6.6
+341,The Clay Bird,2002,95.0,Tareque Masud,"Nurul Islam Bablu, Russell Farazi, Jayanto Chattopadhyay","Drama, History",8.4
+342,Sunshine State,2002,141.0,John Sayles,"Angela Bassett, Edie Falco, Alex Lewis","Drama, Romance",6.8
+343,"Was nicht passt, wird passend gemacht",2002,101.0,Peter Thorwarth,"Peter Thorwarth, Ralf Richter, Hilmi Sözer",Comedy,6.6
+344,Amar te duele,2002,104.0,Fernando Sariñana,"Luis Fernando Peña, Martha Higareda, Ximena Sariñana","Drama, Romance",6.6
+345,Jaani Dushman: Ek Anokhi Kahani,2002,170.0,Rajkumar Kohli,"Sunny Deol, Arman Kohli, Manisha Koirala","Action, Fantasy, Horror",2.7
+346,Unconditional Love,2002,124.0,P.J. Hogan,"Kathy Bates, Rupert Everett, Jonathan Pryce","Comedy, Drama, Musical",6.7
+347,The Adversary,2002,129.0,Nicole Garcia,"Daniel Auteuil, Géraldine Pailhas, François Cluzet","Crime, Drama, Mystery",6.7
+348,Divine Intervention,2002,92.0,Elia Suleiman,"Elia Suleiman, Manal Khader, George Ibrahim","Drama, Romance, War",6.6
+349,Japón,2002,122.0,Carlos Reygadas,"Alejandro Ferretis, Magdalena Flores, Yolanda Villa",Drama,6.8
+350,Personal Velocity,2002,86.0,Rebecca Miller,"Kyra Sedgwick, Parker Posey, Fairuza Balk","Drama, Romance",6.4
+351,Humraaz,2002,173.0,"Abbas Alibhai Burmawalla, Mastan Alibhai Burmawalla","Bobby Deol, Akshaye Khanna, Ameesha Patel","Romance, Thriller",6.4
+352,Three,2002,140.0,"Peter Ho-Sun Chan, Kim Jee-woon, Nonzee Nimibutr","Leon Lai, Kim Hye-su, Jeong Bo-seok","Horror, Mystery",6.1
+353,Hukkle,2002,78.0,György Pálfi,"Ferenc Bandi, Józsefné Rácz, József Farkas","Crime, Mystery, Drama",7.0
+354,The Trip,2002,95.0,Miles Swain,"Larry Sullivan, Steve Braun, Ray Baker","Comedy, Drama, Romance",7.0
+355,"I'm Taraneh, 15",2002,110.0,Rasoul Sadrameli,"Taraneh Alidoosti, Negar Javaherian, Hossein Mahjoub",Drama,7.1
+356,Low Heights,2002,115.0,Ebrahim Hatamikia,"Hamid Farrokhnezhad, Leila Hatami, Gohar Kheirandish","Action, Adventure, Thriller",7.2
+357,The Badge,2002,103.0,Robby Henson,"Billy Bob Thornton, Patricia Arquette, William Devane","Crime, Drama, Mystery",6.2
+358,The Hard Word,2002,102.0,Scott Roberts,"Guy Pearce, Rachel Griffiths, Joel Edgerton","Action, Comedy, Crime",6.0
+359,Standing in the Shadows of Motown,2002,108.0,Paul Justman,"Joe Hunter, Jack Ashford, Uriel Jones","Documentary, Music",7.8
+360,Kamchatka,2002,106.0,Marcelo Piñeyro,"Ricardo Darín, Cecilia Roth, Héctor Alterio",Drama,7.1
+361,The Weather Underground,2002,92.0,"Sam Green, Bill Siegel","Lili Taylor, Pamela Z, Jim Lange","Documentary, History, War",7.4
+362,Blue Car,2002,96.0,Karen Moncrieff,"David Strathairn, Agnes Bruckner, Margaret Colin",Drama,6.6
+363,Ten Minutes Older: The Trumpet,2002,92.0,"Kaige Chen, Víctor Erice, Werner Herzog","Markku Peltola, Kati Outinen, Marko Haavisto",Drama,7.1
+364,Hard Cash,2002,116.0,Predrag Antonijevic,"Christian Slater, Val Kilmer, Sara Downing","Action, Crime, Thriller",4.5
+365,I'm with Lucy,2002,90.0,Jon Sherman,"Monica Potter, Craig Bierko, Linda Halaska","Comedy, Romance",5.9
+366,The Coast Guard,2002,91.0,Kim Ki-duk,"Jang Dong-gun, Kim Jeong-hak, Park Ji-ah","Drama, War",6.4
+367,The Secret Lives of Dentists,2002,104.0,Alan Rudolph,"Campbell Scott, Hope Davis, Denis Leary",Drama,6.4
+368,New Best Friend,2002,91.0,Zoe Clarke-Williams,"Taye Diggs, Dominique Swain, Mia Kirshner","Drama, Mystery, Thriller",5.3
+369,Pinpon,2002,114.0,Fumihiko Sori,"Yôsuke Kubozuka, Arata Iura, Sam Lee","Comedy, Drama, Sport",7.0
+370,Tumko Na Bhool Paayenge,2002,160.0,Pankaj Parashar,"Pankaj Dheer, Arbaaz Khan, Salman Khan","Action, Comedy, Crime",5.7
+371,Desert Saints,2002,88.0,Richard Greenberg,"Brent Roam, Shawn Woods, Christopher Bersh","Action, Romance, Thriller",6.0
+372,Monsieur Batignole,2002,100.0,Gérard Jugnot,"Jules Sitruk, Gérard Jugnot, Michèle Garcia","Comedy, Drama, War",7.0
+373,Hundtricket - The Movie,2002,106.0,"Christian Eklöw, Christopher Panov","Linus Wahlgren, Josephine Bornebusch, Alexander Skarsgård","Comedy, Drama, Romance",5.5
+374,Home Room,2002,133.0,Paul F. Ryan,"Busy Philipps, Erika Christensen, Victor Garber","Crime, Drama",7.1
+375,Dirty Deeds,2002,110.0,David Caesar,"Bryan Brown, Toni Collette, John Goodman","Comedy, Crime",6.2
+376,2009: Lost Memories,2002,136.0,"Lee Dong-Joon, Si-myung Lee","Jang Dong-gun, Tôru Nakamura, Jin-ho Seo","Action, Drama, Sci-Fi",6.1
+377,Assassination Tango,2002,114.0,Robert Duvall,"Robert Duvall, Luciana Pedraza, Rubén Blades","Crime, Drama, Romance",5.7
+378,The Butterfly,2002,85.0,Philippe Muyl,"Michel Serrault, Claire Bouanich, Nade Dieu","Adventure, Comedy, Drama",7.1
+379,The Tracker,2002,90.0,Rolf de Heer,"David Gulpilil, Gary Sweet, Damon Gameau","Drama, Western",7.3
+380,More Ants in the Pants,2002,85.0,Granz Henman,"Tobias Schenke, Axel Stein, Diana Amft","Comedy, Fantasy, Romance",4.6
+381,XX/XY,2002,91.0,Austin Chick,"Mark Ruffalo, Kathleen Robertson, Maya Stange","Drama, Romance",5.9
+382,What's Up with Cinta?,2002,112.0,Rudy Soedjarwo,"Dian Sastrowardoyo, Nicholas Saputra, Ladya Cheryl","Drama, Romance",7.7
+383,The Invisible,2002,101.0,"Joel Bergvall, Simon Sandquist","Gustaf Skarsgård, Tuva Novotny, Li Brådhe","Drama, Fantasy, Thriller",6.4
+384,Tattoo,2002,108.0,Robert Schwentke,"August Diehl, Christian Redl, Nadeshda Brennicke","Crime, Drama, Thriller",6.3
+385,Lone Star State of Mind,2002,88.0,David Semel,"Joshua Jackson, Jaime King, Matthew Davis","Comedy, Crime",6.0
+386,Double Vision,2002,113.0,Kuo-Fu Chen,"Tony Ka Fai Leung, David Morse, Rene Liu","Fantasy, Horror, Mystery",6.4
+387,Madame Satã,2002,105.0,Karim Aïnouz,"Lázaro Ramos, Marcélia Cartaxo, Flavio Bauraqui","Biography, Crime, Drama",7.0
+388,The First $20 Million Is Always the Hardest,2002,105.0,Mick Jackson,"Adam Garcia, Rosario Dawson, Jake Busey",Comedy,5.5
+389,Close Your Eyes,2002,108.0,Nick Willing,"Goran Visnjic, Paddy Considine, Shirley Henderson","Crime, Horror, Mystery",6.1
+390,Grabben i graven bredvid,2002,94.0,Kjell Sundvall,"Elisabet Carlsson, Michael Nyqvist, Annika Olsson",Romance,5.6
+391,Deewangee,2002,169.0,Anees Bazmee,"Ajay Devgn, Akshaye Khanna, Urmila Matondkar","Crime, Drama, Mystery",6.5
+392,WiseGirls,2002,96.0,David Anspaugh,"Mira Sorvino, Mariah Carey, Melora Walters","Crime, Drama, Thriller",5.8
+393,Rembrandt,2002,109.0,Jannik Johansen,"Lars Brygmann, Jakob Cedergren, Nikolaj Coster-Waldau","Action, Comedy, Crime",6.3
+394,Crackerjack,2002,92.0,Paul Moloney,"Mick Molloy, Bill Hunter, Frank Wilson","Comedy, Sport",6.8
+395,Ash Wednesday,2002,99.0,Edward Burns,"Brian Burns, Vincent Rubino, James Michael Cummings","Crime, Drama, Thriller",5.8
+396,Time Changer,2002,95.0,Rich Christiano,"D. David Morin, Gavin MacLeod, Hal Linden","Drama, Fantasy, Sci-Fi",5.3
+397,Bright Future,2002,92.0,Kiyoshi Kurosawa,"Joe Odagiri, Tadanobu Asano, Tatsuya Fuji",Drama,6.7
+398,Sex Is Comedy,2002,92.0,Catherine Breillat,"Anne Parillaud, Grégoire Colin, Roxane Mesquida","Comedy, Drama, Romance",5.7
+399,Na Tum Jaano Na Hum,2002,158.0,Arjun Sablok,"Hrithik Roshan, Saif Ali Khan, Esha Deol","Comedy, Drama, Musical",4.9
+400,The Embalmer,2002,100.0,Matteo Garrone,"Ernesto Mahieux, Valerio Foglia Manzillo, Elisabetta Rocchetti","Drama, Romance",7.0
+401,Indra,2002,173.0,Gopal B.,"Chiranjeevi, Sonali Bendre, Aarthi Agarwal","Action, Drama",7.5
+402,Funny Ha Ha,2002,89.0,Andrew Bujalski,"Kate Dollenmayer, Mark Herlehy, Christian Rudder","Comedy, Drama, Romance",6.4
+403,Cherish,2002,99.0,Finn Taylor,"Robin Tunney, Tim Blake Nelson, Brad Hunt","Comedy, Drama, Mystery",6.6
+404,Yeh Hai Jalwa,2002,165.0,David Dhawan,"Rishi Kapoor, Salman Khan, Ameesha Patel","Comedy, Drama, Romance",4.8
+405,Garage Days,2002,105.0,Alex Proyas,"Kick Gurry, Maya Stange, Pia Miranda","Comedy, Drama, Music",5.8
+406,La caja 507,2002,104.0,Enrique Urbizu,"Dafne Fernández, Antonio Resines, Miriam Montilla","Action, Crime, Drama",6.8
+407,House of Fools,2002,104.0,Andrei Konchalovsky,"Yuliya Vysotskaya, Sultan Islamov, Bryan Adams","Drama, Music, Romance",7.0
+408,Stolen Summer,2002,91.0,Pete Jones,"Amara Balthrop-Lewis, Kevin Pollak, Aidan Quinn",Drama,6.5
+409,Dead or Alive: Final,2002,89.0,Takashi Miike,"Shô Aikawa, Maria Chen, Richard Chen","Action, Crime, Drama",5.6
+410,The Star,2002,97.0,Nikolay Lebedev,"Igor Petrenko, Artyom Semakin, Aleksey Panin","Action, Adventure, Drama",6.9
+411,Painted Fire,2002,120.0,Im Kwon-taek,"Choi Min-sik, Ahn Sung-ki, Yoo Ho-jeong","Biography, Drama, History",7.1
+412,Aap Mujhe Achche Lagne Lage,2002,180.0,Vikram Bhatt,"Hrithik Roshan, Ameesha Patel, Kiran Kumar","Action, Drama, Romance",3.1
+413,Villain,2002,162.0,K.S. Ravikumar,"Ajith Kumar, Neha Dhupia, Meena","Action, Drama, Thriller",7.1
+414,Pure,2002,96.0,Gillies MacKinnon,"Harry Eden, Vinnie Hunter, Molly Parker",Drama,6.8
+415,The Collingswood Story,2002,80.0,Michael Costanza,"Stephanie Dees, Johnny Burton, Diane Behrens","Horror, Mystery, Thriller",5.2
+416,The Heart of Me,2002,96.0,Thaddeus O'Sullivan,"Helena Bonham Carter, Olivia Williams, Paul Bettany","Drama, Romance",6.5
+417,The Slaughter Rule,2002,112.0,"Alex Smith, Andrew J. Smith","Ryan Gosling, David Morse, Clea DuVall","Drama, Sport",5.9
+418,Blissfully Yours,2002,125.0,Apichatpong Weerasethakul,"Kanokporn Tongaram, Min Oo, Jenjira Pongpas","Drama, Romance",6.9
+419,Stevie,2002,140.0,Steve James,"Steve James, Stephen Fielding, Tonya Gregory",Documentary,7.8
+420,The King,2002,130.0,Nikos Grammatikos,"Vangelis Mourikis, Marilita Lambropoulou, Minas Hatzisavvas",Drama,8.1
+421,Occident,2002,105.0,Cristian Mungiu,"Alexandru Papadopol, Anca Androne, Samuel Tastet","Comedy, Romance",7.5
+422,Heart of America,2002,87.0,Uwe Boll,"Jürgen Prochnow, Michael Paré, Patrick Muldoon",Drama,4.4
+423,Novo,2002,98.0,Jean-Pierre Limosin,"Eduardo Noriega, Anna Mouglalis, Paz Vega","Drama, Comedy, Romance",5.6
+424,Devil's Playground,2002,77.0,Lucy Walker,"Velda Bontrager, Mark Bontrager, Dewayne Chupp",Documentary,7.0
+425,100 Women,2002,98.0,Michael Davis,"Chad Donella, Jennifer Morrison, Erinn Bartlett","Comedy, Romance",4.9
+426,Chinese Odyssey 2002,2002,97.0,Jeffrey Lau,"Tony Leung Chiu-wai, Faye Wong, Wei Zhao","Comedy, Romance",7.0
+427,Unknown Pleasures,2002,112.0,Jia Zhang-ke,"Wei Wei Zhao, Qiong Wu, Tao Zhao","Comedy, Drama",6.8
+428,You Stupid Man,2002,95.0,Brian Burns,"Milla Jovovich, David Krumholtz, William Baldwin","Comedy, Romance",5.7
+429,Summer Things,2002,103.0,Michel Blanc,"Charlotte Rampling, Jacques Dutronc, Carole Bouquet","Comedy, Drama, Romance",6.5
+430,Kolah Ghermezi and Sarvenaz,2002,95.0,Iraj Tahmasb,"Iraj Tahmasb, Fatemah Motamed-Aria, Reza Fieze Norouzi","Adventure, Family, Romance",6.5
+431,Baba,2002,179.0,Suresh Krishna,"Rajinikanth, Goundamani, Manisha Koirala","Action, Drama, Fantasy",5.4
+432,Bollywood/Hollywood,2002,105.0,Deepa Mehta,"Rahul Khanna, Moushumi Chatterjee, Dina Pathak","Romance, Comedy, Drama",5.9
+433,Callas Forever,2002,111.0,Franco Zeffirelli,"Fanny Ardant, Jeremy Irons, Joan Plowright","Biography, Drama, Music",6.4
+434,Mere Yaar Ki Shaadi Hai,2002,158.0,Sanjay Gadhvi,"Uday Chopra, Jimmy Shergill, Bipasha Basu","Comedy, Drama, Romance",5.5
+435,Red Bear,2002,95.0,Israel Adrián Caetano,"Julio Chávez, Soledad Villamil, Luis Machín","Crime, Drama, Thriller",7.2
+436,Mounam Pesiyadhe,2002,148.0,Ameer Sultan,"Suriya, Trisha Krishnan, Nandaa Dorairaj","Drama, Romance",7.7
+437,One Piece: Chopper's Kingdom in the Strange Animal Island,2002,56.0,Junji Shimizu,"Takeshi Aono, Masashi Ebara, Toshiko Fujita","Animation, Action, Adventure",6.2
+438,Amarelo Manga,2002,103.0,Cláudio Assis,"Matheus Nachtergaele, Jonas Bloch, Dira Paes",Drama,6.6
+439,Broken Wings,2002,87.0,Nir Bergman,"Orly Silbersatz, Maya Maron, Nitai Gvirtz",Drama,7.4
+440,Fine mrtve djevojke,2002,77.0,Dalibor Matanic,"Olga Pakalovic, Nina Violic, Kresimir Mikic","Drama, Thriller",7.1
+441,Till Human Voices Wake Us,2002,101.0,Michael Petroni,"Guy Pearce, Helena Bonham Carter, Peter Curtin","Drama, Romance",6.3
+442,InuYasha the Movie 2: The Castle Beyond the Looking Glass,2002,99.0,Toshiya Shinohara,"Kappei Yamaguchi, Satsuki Yukino, Kôji Tsujitani","Animation, Action, Comedy",7.3
+443,Labyrinth,2002,115.0,Miroslav Lekic,"Dragan Nikolic, Maja Sabljic, Branislav Lecic","Adventure, Mystery, Thriller",7.0
+444,And Now Ladies & Gentlemen,2002,133.0,Claude Lelouch,"Jeremy Irons, Patricia Kaas, Thierry Lhermitte","Crime, Drama, Romance",6.1
+445,Peter Ball,2002,110.0,Maria Peters,"Quinten Schram, Frensch de Groot, Sjoerd Metz",Family,6.2
+446,Graveyard of Honor,2002,131.0,Takashi Miike,"Gorô Kishitani, Ryôsuke Miki, Narimi Arimori","Action, Crime, Thriller",6.9
+447,Public Enemy,2002,138.0,Kang Woo-suk,"Sul Kyung-gu, Lee Sung-jae, Kang Shin-il","Action, Crime",7.1
+448,Makdee,2002,90.0,Vishal Bhardwaj,"Shabana Azmi, Shweta Basu Prasad, Makrand Deshpande","Comedy, Fantasy, Horror",7.5
+449,Cinemania,2002,83.0,"Angela Christlieb, Stephen Kijak","Jack Angstreich, Eric Chadbourne, Bill Heidbreder",Documentary,7.1
+450,Names Engraved in Marble,2002,95.0,Elmo Nüganen,"Priit Võigemast, Indrek Sammul, Hele Kõrve","Drama, Romance, War",7.0
+451,Nackt,2002,100.0,Doris Dörrie,"Heike Makatsch, Benno Fürmann, Alexandra Maria Lara","Comedy, Drama",6.0
+452,Crocodile 2: Death Swamp,2002,93.0,Gary Jones,"Heidi Lenhart, Chuck Walczak, Jon Sklaroff","Action, Adventure, Horror",3.8
+453,Black Angel,2002,128.0,Tinto Brass,"Anna Galiena, Gabriel Garko, Franco Branciaroli","Drama, Romance, Thriller",5.0
+454,Ramana,2002,140.0,A.R. Murugadoss,"Vijayakanth, Simran, Ashima Bhalla","Action, Drama",8.2
+455,State Property,2002,88.0,Abdul Malik Abbott,"Beanie Sigel, Omillio Sparks, Memphis Bleek","Drama, Crime, Action",4.3
+456,Dracula: Pages from a Virgin's Diary,2002,73.0,Guy Maddin,"Wei-Qiang Zhang, Tara Birtwhistle, David Moroni","Drama, Horror, Musical",6.8
+457,Dil Hai Tumhaara,2002,185.0,Kundan Shah,"Rekha, Preity G Zinta, Arjun Rampal","Drama, Romance",5.6
+458,9,2002,91.0,Ümit Ünal,"Ali Poyrazoglu, Cezmi Baskin, Serra Yilmaz","Crime, Mystery, Drama",7.6
+459,El bonaerense,2002,105.0,Pablo Trapero,"Jorge Román, Mimí Ardú, Darío Levy","Crime, Drama",6.9
+460,Om Jai Jagadish,2002,172.0,Anupam Kher,"Waheeda Rehman, Anil Kapoor, Fardeen Khan","Drama, Musical, Romance",5.5
+461,I Am Trying to Break Your Heart,2002,92.0,Sam Jones,"Jeff Tweedy, John Stirratt, Leroy Bach","Documentary, Music",7.4
+462,Thamizhan,2002,162.0,Abdul Majith,"Joseph Vijay, Priyanka Chopra Jonas, Nassar","Action, Drama",6.0
+463,Edi,2002,97.0,Piotr Trzaskalski,"Henryk Golebiewski, Jacek Braciak, Jacek Lenartowicz",Drama,7.4
+464,Wishcraft,2002,102.0,"Danny Graves, Richard Wenk","Michael Weston, Alexandra Holden, Huntley Ritter",Horror,5.2
+465,Lover's Concerto,2002,106.0,Lee Han,"Cha Tae-hyun, Son Ye-jin, Lee Eun-ju","Drama, Romance",7.1
+466,Ritual,2002,99.0,Avi Nesher,"Jennifer Grey, Craig Sheffer, Daniel Lapaine",Horror,4.8
+467,Friday Night,2002,90.0,Claire Denis,"Valérie Lemercier, Vincent Lindon, Hélène de Saint-Père","Drama, Romance",6.7
+468,Miranda,2002,90.0,Marc Munden,"Christina Ricci, John Simm, Kyle MacLachlan","Comedy, Mystery, Romance",5.4
+469,Joshua,2002,91.0,Jon Purdy,"Tony Goldwyn, F. Murray Abraham, Kurt Fuller",Drama,6.6
+470,Meesha Madhavan,2002,165.0,Lal Jose,"Dileep, Kavya Madhavan, Indrajith Sukumaran","Comedy, Drama",8.0
+471,The Code Conspiracy,2002,97.0,Hank Whetstone,"Jim Fitzpatrick, Maria Conchita Alonso, David Warner","Action, Mystery, Thriller",5.1
+472,Kariera Nikosia Dyzmy,2002,108.0,Jacek Bromski,"Cezary Pazura, Anna Przybylska, Ewa Kasprzyk",Comedy,6.2
+473,Common Ground,2002,108.0,Adolfo Aristarain,"Federico Luppi, Mercedes Sampietro, Arturo Puig",Drama,7.6
+474,En la ciudad sin límites,2002,125.0,Antonio Hernández,"Leonardo Sbaraglia, Fernando Fernán Gómez, Geraldine Chaplin",Drama,7.1
+475,Tycoon: A New Russian,2002,123.0,Pavel Lungin,"Vladimir Mashkov, Mariya Mironova, Andrey Krasko","Crime, Drama",6.7
+476,Untold,2002,86.0,Jonas Quastel,"Lance Henriksen, Andrea Roth, Russell Ferrier","Action, Adventure, Horror",3.5
+477,The Trials of Henry Kissinger,2002,80.0,Eugene Jarecki,"Brian Cox, Henry Kissinger, Anna Chennault",Documentary,7.6
+478,Ellembi,2002,89.0,Wael Ihsan,"Muhammad Sad, Hala Sheha, Abla Kamel",Comedy,6.5
+479,The Nugget,2002,97.0,Bill Bennett,"Eric Bana, Stephen Curry, Dave O'Neil",Comedy,5.9
+480,My Mother's Smile,2002,105.0,Marco Bellocchio,"Sergio Castellitto, Jacqueline Lustig, Chiara Conti",Drama,7.0
+481,Klassfesten,2002,103.0,"Måns Herngren, Hannes Holm","Mikael Almqvist, Inday Ba, Sacha Baptiste",Comedy,5.6
+482,El Alamein - The Line of Fire,2002,117.0,Enzo Monteleone,"Paolo Briguglia, Pierfrancesco Favino, Luciano Scarpa","Drama, War",7.1
+483,Emmett's Mark,2002,104.0,Keith Snyder,"Scott Wolf, Tim Roth, Gabriel Byrne","Crime, Drama, Romance",6.0
+484,Taboo,2002,80.0,Max Makowski,"Nick Stahl, Eddie Kaye Thomas, January Jones","Drama, Horror, Mystery",3.5
+485,H,2002,106.0,Jong-Hyuk Lee,"Yum Jung-ah, Ji Jin-hee, Sung Ji-ru","Drama, Mystery, Thriller",5.8
+486,Little Night Music,2002,95.0,Dejan Zecevic,"Gordan Kicic, Vuk Kostic, Zorana Becic Djordjevic","Action, Comedy, Thriller",7.0
+487,Dawg,2002,83.0,Victoria Hochberg,"Denis Leary, Elizabeth Hurley, Charlie Stewart","Drama, Comedy, Romance",4.9
+488,Black Mask 2: City of Masks,2002,102.0,Hark Tsui,"Andy On, Tobin Bell, Jon Polito","Action, Drama, Sci-Fi",3.7
+489,The Smashing Machine,2002,93.0,John Hyams,"Mark Kerr, Mark Coleman, Dawn Staples","Documentary, Sport",7.7
+490,Elina: As If I Wasn't There,2002,77.0,Klaus Härö,"Natalie Minnevik, Bibi Andersson, Marjaana Maijala","Drama, Family",7.0
+491,Amir El Zalam,2002,113.0,Rami Imam,"Adel Emam, Shereen Seif El-Nasr, Youssef Dawood","Action, Comedy, Romance",5.7
+492,Teknolust,2002,85.0,Lynn Hershman Leeson,"Tilda Swinton, Jeremy Davies, James Urbaniak","Comedy, Drama, Romance",5.3
+493,Mafia,2002,113.0,Sherif Arafa,"Ahmed El Sakka, Mostafa Shaaban, Mona Zaki","Action, Romance, Thriller",6.3
+494,E=mc2,2002,93.0,Olaf Lubaszenko,"Cezary Pazura, Olaf Lubaszenko, Agnieszka Wlodarczyk","Action, Comedy",5.5
+495,Une femme de ménage,2002,91.0,Claude Berri,"Jean-Pierre Bacri, Émilie Dequenne, Brigitte Catillon","Comedy, Drama, Romance",6.3
+496,My Name Is Tanino,2002,100.0,Paolo Virzì,"Corrado Fortuna, Rachel McAdams, Frank Crudele","Comedy, Romance",6.4
+497,29 Palms,2002,93.0,Leonardo Ricagni,"Jeremy Davies, Chris O'Donnell, Rachael Leigh Cook","Comedy, Crime, Drama",4.7
+498,Inner Senses,2002,100.0,Chi-Leung Lo,"Leslie Cheung, Karena Ka-Yan Lam, Maggie Poon","Crime, Horror, Mystery",6.3
+499,Natale sul Nilo,2002,100.0,Neri Parenti,"Christian De Sica, Massimo Boldi, Enzo Salvi",Comedy,4.2
+500,Youth,2002,170.0,Vincent Selva,"Joseph Vijay, Fathima Babu, Madhan Bob","Drama, Romance",6.5
+501,Interview with the Assassin,2002,88.0,Neil Burger,"Dylan Haggerty, Raymond J. Barry, Renee Faia",Drama,6.5
+502,Québec-Montréal,2002,104.0,Ricardo Trogi,"Patrice Robitaille, Jean-Phillipe Pearson, Stéphane Breton","Comedy, Romance",7.2
+503,Ten Minutes Older: The Cello,2002,146.0,"Bernardo Bertolucci, Claire Denis, Mike Figgis","Amit Rayani, Valeria Bruni Tedeschi, Mark Long","Drama, Music, Musical",6.6
+504,Pammal K. Sambandam,2002,155.0,Mouli,"Kamal Haasan, Simran, Abbas",Comedy,7.2
+505,The Wisher,2002,87.0,Gavin Wilding,"Ron Silver, Liane Balaban, Drew Lachey","Horror, Thriller",4.4
+506,Bagavathi,2002,157.0,A. Venkatesh,"Joseph Vijay, Reema Sen, Vadivelu","Action, Drama",5.7
+507,Menolippu Mombasaan,2002,88.0,Hannu Tuomainen,"Antti Tarvainen, Joonas Saartamo, Johanna Rönnlöf","Comedy, Drama",6.0
+508,Food of Love,2002,112.0,Ventura Pons,"Paul Rhys, Kevin Bishop, Juliet Stevenson","Drama, Music, Romance",6.0
+509,Im toten Winkel - Hitlers Sekretärin,2002,90.0,"André Heller, Othmar Schmiderer",Traudl Junge,"Documentary, Biography, War",7.3
+510,Kuutamolla,2002,117.0,Aku Louhimies,"Minna Haapkylä, Anna-Leena Härkönen, Laura Malmivaara","Drama, Romance",5.6
+511,The Soul Keeper,2002,90.0,Roberto Faenza,"Iain Glen, Emilia Fox, Craig Ferguson","Biography, Drama, Romance",6.7
+512,Anita & Me,2002,89.0,Metin Hüseyin,"Kabir Bedi, Max Beesley, Sanjeev Bhaskar","Comedy, Drama",6.4
+513,Aadi,2002,157.0,V.V. Vinayak,"N.T. Rama Rao Jr., Keerthi Chawla, Aahuthi Prasad","Action, Drama, Romance",7.3
+514,Big Girls Don't Cry,2002,87.0,Maria von Heland,"Anna Maria Mühe, Karoline Herfurth, Josefine Domes",Drama,6.8
+515,Edifício Master,2002,110.0,Eduardo Coutinho,Fernando José,Documentary,8.3
+516,The Abduction Club,2002,96.0,Stefan Schwartz,"Alice Evans, Daniel Lapaine, Sophia Myles","Action, Adventure, Comedy",6.6
+517,Martin Lawrence Live: Runteldat,2002,113.0,David Raynr,"Martin Lawrence, Nancy O'Dell, Paul Keeley","Documentary, Comedy",5.4
+518,The Touch,2002,103.0,Peter Pau,"Michelle Yeoh, Ben Chaplin, Richard Roxburgh","Action, Adventure, Romance",4.6
+519,Kalyanaraman,2002,126.0,Shafi,"Dileep, Navya Nair, Kunchacko Boban","Comedy, Drama",7.9
+520,The Revenge,2002,100.0,Andrzej Wajda,"Roman Polanski, Janusz Gajos, Andrzej Seweryn",Comedy,5.7
+521,Antikiller,2002,114.0,Egor Konchalovskiy,"Gosha Kutsenko, Mikhail Ulyanov, Sergey Shakurov","Action, Crime",5.5
+522,The Sea,2002,109.0,Baltasar Kormákur,"Gunnar Eyjólfsson, Hilmir Snær Guðnason, Hélène de Fougerolles","Comedy, Drama",6.8
+523,Space Station 3D,2002,47.0,Toni Myers,"Tom Cruise, James Arnold, Michael J. Bloomfield",Documentary,7.4
+524,Deadly Outlaw: Rekka,2002,96.0,Takashi Miike,"Riki Takeuchi, Ryôsuke Miki, Ken'ichi Endô","Crime, Drama, Thriller",6.7
+525,Rock My World,2002,106.0,Sidney J. Furie,"Peter O'Toole, Joan Plowright, Alicia Silverstone","Comedy, Drama, Music",6.0
+526,Mon idole,2002,110.0,Guillaume Canet,"François Berléand, Guillaume Canet, Diane Kruger","Comedy, Crime, Drama",6.1
+527,The Escapist,2002,88.0,Gillies MacKinnon,"Philip Barantini, Andy Serkis, Barry Barnes","Action, Crime, Drama",6.1
+528,The Stick Up,2002,97.0,Rowdy Herrington,"James Spader, Leslie Stefanson, David Keith","Action, Crime, Mystery",6.3
+529,Takkari Donga,2002,165.0,Jayant Paranji,"Mahesh Babu, Lisa Ray, Bipasha Basu","Action, Adventure, Comedy",6.6
+530,Now You Know,2002,102.0,Jeff Anderson,"Jeff Anderson, Suzette Andrea, Todd Babcock","Comedy, Romance",6.4
+531,A mi madre le gustan las mujeres,2002,96.0,"Daniela Fejerman, Inés París","Leonor Watling, Rosa Maria Sardà, María Pujalte","Comedy, Drama",6.2
+532,Russkaya Lolita,2002,93.0,Armen Oganezov,"Valeria Nemchenko, Marina Zasimova, Vladimir Sorokin","Drama, Romance",4.7
+533,Grill Point,2002,106.0,Andreas Dresen,"Axel Prahl, Steffi Kühnert, Thorsten Merten","Comedy, Drama",7.2
+534,Slash,2002,93.0,Neal Sundstrom,"Adam Woolf, Danny Keogh, Milan Murray","Comedy, Horror, Thriller",4.3
+535,Safe Conduct,2002,170.0,Bertrand Tavernier,"Jacques Gamblin, Denis Podalydès, Charlotte Kady","Biography, Drama, History",6.9
+536,Marooned in Iraq,2002,100.0,Bahman Ghobadi,"Shahab Ebrahimi, Faegh Mohamadi, Allah Morad Rashtiani","Drama, War",7.4
+537,Yes Nurse! No Nurse!,2002,100.0,Pieter Kramer,"Loes Luca, Tjitske Reidinga, Waldemar Torenstra","Comedy, Musical",6.8
+538,Sweetie Pie,2002,85.0,K. Asher Levin,"Cisco Adler, Spencer Grammer, Paris Hilton","Drama, Thriller",2.0
+539,Piedras,2002,135.0,Ramón Salazar,"Antonia San Juan, Najwa Nimri, Vicky Peña",Drama,6.9
+540,Hum Kisi Se Kum Nahin,2002,161.0,David Dhawan,"Amitabh Bachchan, Sanjay Dutt, Asad Aleem","Action, Comedy, Drama",4.2
+541,The Sea Is Watching,2002,119.0,Kei Kumai,"Misa Shimizu, Nagiko Tôno, Masatoshi Nagase","Romance, Drama",7.0
+542,Just a Kiss,2002,89.0,Fisher Stevens,"Ron Eldard, Kyra Sedgwick, Marisa Tomei","Comedy, Drama, Romance",4.9
+543,Zig Zag,2002,101.0,David S. Goyer,"John Leguizamo, Natasha Lyonne, Wesley Snipes",Drama,5.9
+544,Zhou Yu's Train,2002,97.0,Zhou Sun,"Gong Li, Tony Ka Fai Leung, Honglei Sun","Drama, Romance",6.4
+545,Okay,2002,97.0,Jesper W. Nielsen,"Paprika Steen, Troels Lyby, Ole Ernst","Comedy, Drama, Romance",6.6
+546,Skins,2002,84.0,Chris Eyre,"Eric Schweig, Graham Greene, Gary Farmer","Crime, Drama",7.0
+547,Hansel & Gretel,2002,89.0,Gary J. Tunnicliffe,"Lynn Redgrave, Jacob Smith, Taylor Momsen","Comedy, Family, Fantasy",4.4
+548,Full Moon Party,2002,100.0,Johan Nijenhuis,"Daan Schuurmans, Georgina Verbaan, Cas Jansen","Comedy, Romance",4.2
+549,Muhammad: The Last Prophet,2002,95.0,Richard Rich,"Nicholas Kadi, Richard Epcar, Eli Allem","Animation, Biography, Drama",7.5
+550,Führer Ex,2002,105.0,Winfried Bonengel,"Aaron Hildebrand, Christian Blümel, Jule Flierl",Drama,6.6
+551,Gone,2002,80.0,Timothy A. Chey,"Dirk Been, Joel Klug, Timothy A. Chey",Thriller,7.2
+552,Addicted,2002,110.0,Young-hoon Park,"Lee Byung-hun, Lee Mi-yeon, Lee Eol","Drama, Mystery, Romance",6.8
+553,9 Dead Gay Guys,2002,83.0,Lab Ky Mo,"Glenn Mulhern, Brendan Mackey, Steven Berkoff","Comedy, Crime",6.2
+554,Cremaster 3,2002,182.0,Matthew Barney,"Richard Serra, Matthew Barney, Aimee Mullins","Drama, Fantasy",6.9
+555,The Singles Ward,2002,102.0,Kurt Hale,"Will Swenson, Connie Young, Daryn Tufts","Comedy, Drama, Romance",6.2
+556,Unspeakable,2002,108.0,Thomas J. Wright,"Pavan Grover, Michelle Wolff, Mark Voltura","Horror, Thriller",3.6
+557,A Ring of Endless Light,2002,88.0,Greg Beeman,"Mischa Barton, Ryan Merriman, Jared Padalecki","Drama, Family, Romance",5.8
+558,Haan Maine Bhi Pyaar Kiya,2002,174.0,Dharmesh Darshan,"Akshay Kumar, Karisma Kapoor, Abhishek Bachchan","Drama, Musical, Romance",3.6
+559,On the Occasion of Remembering the Turning Gate,2002,115.0,Hong Sang-soo,"Choo Sang-mi, Ye Ji-won, George Georgiou",Drama,7.3
+560,Paper Soldiers,2002,88.0,"David Daniel, Damon Dash","Kevin Hart, Beanie Sigel, Memphis Bleek","Action, Comedy, Crime",5.4
+561,Second Name,2002,98.0,Paco Plaza,"Erica Prior, Trae Houlihan, Denis Rafter","Horror, Thriller",5.4
+562,Sky High,2002,122.0,Ryûhei Kitamura,"Yumiko Shaku, Takao Osawa, Shôsuke Tanihara","Action, Adventure, Drama",6.1
+563,Dead Heat,2002,120.0,Mark Malone,"Kiefer Sutherland, Anthony LaPaglia, Radha Mitchell","Action, Comedy, Crime",5.2
+564,Al-raghba,2002,,Ali Badr Khan,"Ilham Shaheen, Nadia El Gendy, Yaser Galal","Drama, Romance",3.3
+565,Love and a Bullet,2002,85.0,"Kantz, Ben Ramsey","Kent King, Anthony 'Treach' Criss, Charles Guardino","Action, Comedy, Crime",5.0
+566,Scorcher,2002,91.0,James Seale,"Mark Dacascos, John Rhys-Davies, Tamara Davies","Action, Adventure, Drama",3.7
+567,Alive,2002,119.0,Ryûhei Kitamura,"Hideo Sakaki, Ryô, Koyuki","Action, Drama, Horror",5.5
+568,Swingers,2002,93.0,Stephan Brenninkmeijer,"Ellen van der Koogh, Danny de Kok, Nienke Brinkhuis","Drama, Romance",5.5
+569,"Frank McKlusky, C.I.",2002,83.0,Arlene Sanford,"Dave Sheridan, Cameron Richardson, Randy Quaid",Comedy,4.1
+570,Blood Feast 2: All U Can Eat,2002,92.0,Herschell Gordon Lewis,"Trey Bosworth, Lavelle Higgins, Mark McLachlan","Comedy, Horror",5.5
+571,American Girl,2002,88.0,Jordan Brady,"Jena Malone, Harmony Blossom, Erik von Detten","Comedy, Crime, Drama",5.9
+572,Corto Maltese: Secret Court of the Arcanes,2002,92.0,Pascal Morelli,"Richard Berry, Patrick Bouchitey, Marie Trintignant","Animation, Adventure, Drama",6.7
+573,Deserter,2002,90.0,Martin Huberty,"Paul Fox, Tom Hardy, Kate Maberly","Drama, War",5.3
+574,Infested,2002,84.0,Josh Olson,"Zach Galligan, Lisa Ann Hadley, Daniel Jenkins","Action, Adventure, Comedy",2.9
+575,Ah! Si j'étais riche,2002,105.0,"Gérard Bitton, Michel Munz","Jean-Pierre Darroussin, Valeria Bruni Tedeschi, Richard Berry",Comedy,5.9
+576,O hamenos ta pairnei ola,2002,121.0,Nikos Nikolaidis,"Giannis Angelakas, Jenny Kitseli, Ifigeneia Asteriadi","Action, Adventure, Drama",6.7
+577,Marion Bridge,2002,90.0,Wiebke von Carolsfeld,"Molly Parker, Rebecca Jenkins, Stacy Smith",Drama,6.7
+578,Briar Patch,2002,103.0,Zev Berman,"Dominique Swain, Henry Thomas, Arie Verveen","Drama, Romance, Thriller",5.4
+579,The Devils,2002,105.0,Christophe Ruggia,"Vincent Rottiers, Adèle Haenel, Rochdy Labidi",Drama,7.0
+580,Tie Xi Qu: West of the Tracks,2002,551.0,Wang Bing,,Documentary,8.2
+581,The Guys,2002,84.0,Jim Simpson,"Sigourney Weaver, Anthony LaPaglia, Irene Walsh",Drama,6.3
+582,My Left Eye Sees Ghosts,2002,98.0,"Johnnie To, Ka-Fai Wai","Sammi Cheng, Ching-Wan Lau, Cherrie Ying","Comedy, Fantasy, Romance",6.7
+583,The Anarchist Cookbook,2002,101.0,Jordan Susman,"Devon Gummersall, Dylan Bruno, Gina Philips","Comedy, Drama, Romance",5.0
+584,His Excellency the Minister,2002,115.0,Samir Seif,"Ahmed Zaki, Hesham Abdel Hamid, Lebleba","Drama, Mystery, Thriller",7.2
+585,16 December,2002,158.0,Mani Shankar,"Milind Soman, Danny Denzongpa, Gulshan Grover","Action, Thriller",6.9
+586,Road,2002,134.0,Rajat Mukherjee,"Manoj Bajpayee, Vivek Oberoi, Antara Mali","Crime, Drama, Thriller",5.7
+587,The Greenskeeper,2002,90.0,"Kevin Greene, Adam Johnson, Tripp Norton","Allelon Ruggiero, Bruce Taylor, Ron Lester","Comedy, Horror, Thriller",3.8
+588,Triggermen,2002,96.0,John Bradshaw,"Pete Postlethwaite, Neil Morrissey, Bill MacDonald","Crime, Comedy",5.8
+589,The Red Siren,2002,118.0,Olivier Megaton,"Jean-Marc Barr, Asia Argento, Frances Barber","Crime, Thriller, Action",5.2
+590,Passionada,2002,108.0,Dan Ireland,"Jason Isaacs, Sofia Milos, Emmy Rossum","Comedy, Romance, Drama",6.1
+591,The Missing Gun,2002,90.0,Chuan Lu,"Wen Jiang, Yujuan Wu, Xiao-Fan Wang","Crime, Drama, Mystery",6.6
+592,Oesters van Nam Kee,2002,99.0,Pollo de Pimentel,"Egbert Jan Weeber, Katja Schuurman, Johnny de Mol","Drama, Romance",5.4
+593,Springtime in a Small Town,2002,116.0,Zhuangzhuang Tian,"Jingfan Hu, Jun Wu, Bai Qing Xin","Drama, Romance",6.9
+594,The Barber,2002,94.0,Micheal Bafaro,"Malcolm McDowell, Jeremy Ratchford, Garwin Sanford","Crime, Horror, Mystery",5.7
+595,Maa Tujhhe Salaam,2002,162.0,Tinnu Verma,"Sunny Deol, Tabu, Arbaaz Khan","Action, Drama",3.7
+596,Khadgam,2002,142.0,Krishna Vamsi,"Ravi Teja, Meka Srikanth, Prakash Raj","Action, Crime, Drama",7.8
+597,13 Moons,2002,93.0,Alexandre Rockwell,"Jennifer Beals, Elizabeth Bracco, Steve Buscemi",Comedy,5.6
+598,Chor Machaaye Shor,2002,145.0,David Dhawan,"Bobby Deol, Shilpa Shetty Kundra, Bipasha Basu","Action, Comedy",4.4
+599,Durval Discos,2002,96.0,Anna Muylaert,"Ary França, Etty Fraser, Isabela Guasco","Comedy, Drama, Music",7.1
+600,The Gleaners and I: Two Years Later,2002,63.0,Agnès Varda,"Bodan Litnanski, Macha Makeïeff, Agnès Varda",Documentary,7.1
+601,Heartlands,2002,91.0,Damien O'Donnell,"Michael Sheen, Mark Addy, Jim Carter","Comedy, Drama",6.8
+602,Erkan & Stefan gegen die Mächte der Finsternis,2002,80.0,Axel Sand,"John Friedmann, Florian Simbeck, Bettina Zimmermann","Adventure, Comedy",4.2
+603,Fat Choi Spirit,2002,96.0,"Johnnie To, Ka-Fai Wai","Andy Lau, Ching-Wan Lau, Louis Koo","Comedy, Romance",6.7
+604,Bloody Mallory,2002,94.0,Julien Magnat,"Olivia Bonamy, Adrià Collado, Jeffrey Ribier","Action, Comedy, Horror",4.4
+605,Maine Dil Tujhko Diya,2002,154.0,"Sohail Khan, Azim Shaikh","Sohail Khan, Sameera Reddy, Sanjay Dutt","Action, Comedy, Romance",4.0
+606,American Gun,2002,89.0,Alan Jacobs,"James Coburn, Virginia Madsen, Barbara Bain",Drama,6.1
+607,Nightstalker,2002,95.0,Chris Fisher,"Bret Roberts, Joseph McKelheer, Roxanne Day","Crime, Horror",3.4
+608,Marriage is a Crazy Thing,2002,103.0,Ha Yoo,"Kam Woo-seong, Uhm Junghwa, Park Won-sang","Drama, Romance",6.9
+609,I Not Stupid,2002,105.0,Jack Neo,"Jack Neo, Yun Xiang, Richard Low","Drama, Comedy",7.2
+610,Kiss the Bride,2002,89.0,Vanessa Parise,"Amanda Detmer, Sean Patrick Flanery, Brooke Langton","Comedy, Drama, Romance",5.2
+611,A House Built on Water,2002,108.0,Bahman Farmanara,"Ezzatolah Entezami, Reza Kianian, Hediyeh Tehrani","Drama, Fantasy",6.6
+612,Chance,2002,75.0,Amber Benson,"Amber Benson, James Marsters, Tressa DiFiglia","Comedy, Drama",6.8
+613,Casomai,2002,114.0,Alessandro D'Alatri,"Stefania Rocca, Fabio Volo, Gennaro Nunziante","Comedy, Romance",6.5
+614,Savage Messiah,2002,94.0,Mario Azzopardi,"Polly Walker, Luc Picard, Isabelle Blais","Drama, Thriller",6.3
+615,Cavale,2002,117.0,Lucas Belvaux,"Catherine Frot, Lucas Belvaux, Dominique Blanc","Thriller, Crime, Drama",6.9
+616,One on One,2002,90.0,Mladen Maticevic,"Zoran Cica, Zoran Cvijanovic, Branko Bojovic",Drama,6.7
+617,AKA,2002,123.0,Duncan Roy,"Matthew Leitch, Diana Quick, George Asprey","Drama, Romance",6.3
+618,Sathi,2002,136.0,Haranath Chakraborty,"Jeet, Priyanka Upendra, Ranjit Mallick","Drama, Musical, Romance",7.4
+619,Searching for Debra Winger,2002,99.0,Rosanna Arquette,"Patricia Arquette, Rosanna Arquette, Emmanuelle Béart",Documentary,6.4
+620,Poppitz,2002,99.0,Harald Sicheritz,"Roland Düringer, Marie Bäumer, Nora Heschl",Comedy,6.6
+621,Polle Fiction,2002,90.0,Søren Fauli,"Jens Andersen, Per Otto Bersang Rasmussen, Henrik Bechman","Comedy, Romance",4.4
+622,Luster,2002,92.0,Everett Lewis,"Justin Herwick, Barry Wyatt, Shane Powers","Comedy, Drama",5.3
+623,Akhiyon Se Goli Maare,2002,146.0,Harmesh Malhotra,"Govinda, Raveena Tandon, Kader Khan","Comedy, Romance",5.2
+624,A Death Sentence,2002,90.0,Fabian Wullenweber,"Julie Zangenberg, Stefan Pagels Andersen, Mads Elias Højberg Ravn","Action, Adventure, Family",6.0
+625,Shooters,2002,95.0,"Glenn Durfort, Colin Teague","Adrian Dunbar, Andrew Howard, Louis Dempsey","Crime, Drama, Thriller",5.4
+626,Shooting Stars,2002,98.0,Fabien Onteniente,"Gérard Lanvin, Samuel Le Bihan, Lorànt Deutsch","Comedy, Sport",4.4
+627,Beneath Clouds,2002,90.0,Ivan Sen,"Dannielle Hall, Damian Pitt, Jenna Lee Connors","Drama, Romance",7.0
+628,Guerreros,2002,96.0,Daniel Calparsoro,"Eloy Azorín, Eduardo Noriega, Rubén Ochandiano","Adventure, Drama, War",6.3
+629,Gemini,2002,150.0,Saran,"Vikram, Kiran Rathod, Kalabhavan Mani","Action, Comedy, Crime",6.2
+630,Resurrection of the Little Match Girl,2002,123.0,Jang Sun-woo,"Lim Eun-kyeong, Kim Hyun-sung, Jin-pyo Kim","Action, Comedy, Sci-Fi",5.5
+631,R.S.V.P.,2002,100.0,Mark Anthony Galluzzo,"James M. Churchman, Sharon Bruneau, Scott Workman","Comedy, Crime, Thriller",5.0
+632,Do Fish Do It?,2002,104.0,Almut Getto,"Tino Mewes, Sophie Rogall, Hans-Martin Stier",Drama,6.8
+633,A New Life,2002,102.0,Philippe Grandrieux,"Zachary Knighton, Anna Mouglalis, Marc Barbé","Drama, Horror",6.4
+634,July Rhapsody,2002,103.0,Ann Hui,"Jacky Cheung, Anita Mui, Karena Ka-Yan Lam",Drama,7.1
+635,Bug,2002,86.0,"Phil Hay, Matt Manfredi","John Carroll Lynch, Segun Ajaga, Megan Cavanagh",Comedy,7.1
+636,"Feuer, Eis & Dosenbier",2002,83.0,Matthias Dinter,"Rick Kavanian, Axel Stein, Eva Habermann",Comedy,3.4
+637,A Cosmic Adventure on Earth,2002,80.0,Jerzy Gruza,"Janusz Rewinski, Wojciech Cygan, Piotr Zelt",Comedy,1.1
+638,Amnèsia,2002,114.0,Gabriele Salvatores,"Diego Abatantuono, Sergio Rubini, Martina Stella","Drama, Comedy, Crime",6.1
+639,Cheerleader Ninjas,2002,91.0,Kevin Campbell,"Kira Reed, Angela Brubaker, Jeff Nicholson","Action, Comedy",2.8
+640,Stoked: The Rise and Fall of Gator,2002,82.0,Helen Stickler,"Mark 'Gator' Rogowski, Stacy Peralta, Tony Hawk","Documentary, Sport",7.1
+641,La vida de nadie,2002,103.0,Eduard Cortés,"Jose Coronado, Adriana Ozores, Marta Etura","Drama, Mystery, Thriller",7.0
+642,Rok dábla,2002,88.0,Petr Zelenka,"Jaromír Nohavica, Karel Plíhal, Jan Prent","Comedy, Drama, Fantasy",7.3
+643,Charly,2002,103.0,Adam Thomas Anderegg,"Jeremy Hoop, Randy King, Heather Beers","Comedy, Drama, Romance",6.2
+644,Unruled Paper,2002,110.0,Nasser Taghvai,"Khosro Shakibai, Hediyeh Tehrani, Jamshid Mashayekhi","Drama, Mystery",6.8
+645,The Rage,2002,83.0,Radu Muntean,"Dragos Bucur, Dorina Chiriac, Andi Vasluianu","Action, Drama",7.2
+646,Harameya fi KG2,2002,95.0,Sandra Nashaat,"Karim Abdel Aziz, Hanan Turk, Maged El-Kidwani","Comedy, Drama",6.2
+647,Monday Morning,2002,120.0,Otar Iosseliani,"Jacques Bidou, Anne Kravz-Tarnavsky, Narda Blanchet","Comedy, Drama, Romance",6.8
+648,Un couple épatant,2002,97.0,Lucas Belvaux,"François Morel, Ornella Muti, Gilbert Melki","Comedy, Romance",6.4
+649,Crazy as Hell,2002,113.0,Eriq La Salle,"Michael Beach, Ronny Cox, Sinbad","Drama, Thriller",5.8
+650,The Code,2002,116.0,Manuel Boursinhac,"Samuel Le Bihan, Samy Naceri, Clotilde Courau","Action, Crime, Thriller",5.4
+651,Between Strangers,2002,95.0,Edoardo Ponti,"Sophia Loren, Mira Sorvino, Deborah Kara Unger",Drama,6.0
+652,Rishtey,2002,164.0,Indra Kumar,"Anil Kapoor, Karisma Kapoor, Shilpa Shetty Kundra","Action, Drama, Romance",4.9
+653,Waiting for Happiness,2002,90.0,Abderrahmane Sissako,"Khatra Ould Abder Kader, Maata Ould Mohamed Abeid, Mohamed Mahmoud Ould Mohamed","Drama, Music",6.6
+654,El viaje de Carol,2002,103.0,Imanol Uribe,"Clara Lago, Juan José Ballesta, Álvaro de Luna","Drama, History",6.7
+655,Tupac Shakur: Thug Angel,2002,92.0,Peter Spirer,"Anthony 'Treach' Criss, Davey D, Michael Eric Dyson","Documentary, Biography, Music",7.7
+656,Everyone Loves Alice,2002,119.0,Richard Hobert,"Lena Endre, Mikael Persbrandt, Marie Richardson",Drama,5.7
+657,Run,2002,180.0,N. Linguswamy,"Madhavan, Meera Jasmine, Atul Kulkarni","Action, Comedy, Drama",7.0
+658,Bomb the System,2002,91.0,Adam Bhala Lough,"Mark Webber, Jade Scott Yorker, Jaclyn DeSantis","Action, Drama",6.3
+659,Paz!,2002,102.0,Renato De Maria,"Flavio Pistilli, Cristiano Callegaro, Matteo Taranto",Comedy,6.6
+660,Séraphin: Heart of Stone,2002,110.0,Charles Binamé,"Pierre Lebeau, Karine Vanasse, Roy Dupuis",Drama,6.6
+661,Charlotte Sometimes,2002,85.0,Eric Byler,"Jacqueline Kim, Eugenia Yuan, Michael Aki","Drama, Romance",6.3
+662,Tom & Thomas,2002,110.0,Esmé Lammers,"Aaron Taylor-Johnson, Ryan Nelson, Sean Bean",Family,6.6
+663,Decasia,2002,70.0,Bill Morrison,"Tsuru Aoki, Julia Calhoun, Margaret Cullington",Documentary,7.2
+664,Julie Walking Home,2002,118.0,Agnieszka Holland,"Miranda Otto, William Fichtner, Lothaire Bluteau","Drama, Romance",6.3
+665,Nandanam,2002,145.0,Ranjith,"Navya Nair, Prithviraj Sukumaran, Kaviyoor Ponnamma","Comedy, Drama, Romance",7.4
+666,Swing,2002,90.0,Tony Gatlif,"Oscar Copp, Lou Rech, Tchavolo Schmitt","Comedy, Drama, Music",7.2
+667,Bibi Blocksberg,2002,102.0,Hermine Huntgeburth,"Sidonie von Krosigk, Katja Riemann, Corinna Harfouch","Comedy, Family, Fantasy",5.3
+668,Leo,2002,104.0,Mehdi Norowzian,"Joseph Fiennes, Elisabeth Shue, Sam Shepard",Drama,6.5
+669,Unnai Ninaithu,2002,163.0,Vikraman,"Suriya, Laila, Sneha",Drama,7.2
+670,Ringeraja,2002,99.0,Djordje Milosavljevic,"Dejan Lutkic, Ivan Jevtovic, Dragan Petrovic-Pele","Action, Comedy",6.4
+671,Whacked!,2002,91.0,James Bruce,"Patrick Muldoon, Paul Sampson, Carmen Electra","Action, Comedy",4.4
+672,Pressure,2002,90.0,Richard Gale,"Kerr Smith, Lochlyn Munro, Angela Featherstone","Action, Thriller",5.7
+673,Vaya con Dios,2002,106.0,Zoltan Spirandelli,"Michael Gwisdek, Daniel Brühl, Traugott Buhre","Comedy, Music, Romance",6.9
+674,Local Boys,2002,102.0,Ron Moler,"Mark Harmon, Eric Christian Olsen, Stacy Edwards",Drama,6.5
+675,Golden Chicken,2002,106.0,Leung-Chun Chiu,"Sandra Ng, Eric Tsang, Andy Lau","Drama, Comedy",7.1
+676,We Can Be Heroes!,2002,89.0,Ulf Malmros,"Ariel Petsonk, Zamand Hägg, Michael Nyqvist","Drama, Family",5.4
+677,Swindle,2002,93.0,K.C. Bascombe,"Tom Sizemore, Sherilyn Fenn, Dave Foley","Action, Crime, Thriller",5.3
+678,Il più bel giorno della mia vita,2002,100.0,Cristina Comencini,"Virna Lisi, Margherita Buy, Sandra Ceccarelli",Drama,6.9
+679,La turbulence des fluides,2002,115.0,Manon Briand,"Pascale Bussières, Julie Gayet, Jean-Nicolas Verreault","Comedy, Drama, Mystery",6.8
+680,Le raid,2002,94.0,Djamel Bensalah,"Josiane Balasko, Julien Courbey, Lorànt Deutsch","Action, Adventure, Comedy",3.5
+681,Two Men Went to War,2002,109.0,John Henderson,"Kenneth Cranham, Leo Bill, Derek Jacobi","Comedy, War, Drama",6.6
+682,Women's Prison,2002,106.0,Manijeh Hekmat,"Roya Nonahali, Roya Teymourian, Pegah Ahangarani",Drama,6.5
+683,Falling Sky,2002,83.0,Gunnar Vikene,"Kristoffer Joner, Maria Bonnevie, Kim Bodnia","Comedy, Drama",6.7
+684,The Bridgeman,2002,140.0,Géza Bereményi,"Károly Eperjes, Irina Lachina, Ervin Nagy","Drama, History",4.7
+685,A Private Affair,2002,107.0,Guillaume Nicloux,"Thierry Lhermitte, Marion Cotillard, Samuel Le Bihan","Crime, Mystery, Thriller",6.2
+686,Derrida,2002,84.0,"Kirby Dick, Amy Ziering","Jacques Derrida, Marguerite Derrida, René Major",Documentary,6.5
+687,Fellini: I'm a Born Liar,2002,105.0,Damian Pettigrew,"Federico Fellini, Roberto Benigni, Luigi 'Titta' Benzi","Documentary, Biography",7.0
+688,Purpose,2002,96.0,Alan Ari Lazar,"Ismael 'East' Carlo, Mia Farrow, Chris Howell",Drama,5.2
+689,Bear's Kiss,2002,101.0,Sergei Bodrov,"Rebecka Liljeberg, Joachim Król, Sergey Bodrov","Drama, Fantasy, Romance",5.9
+690,Curse of the Forty-Niner,2002,86.0,John Carl Buechler,"Karen Black, John Phillip Law, Richard Lynch",Horror,3.6
+691,Idiot,2002,139.0,Puri Jagannadh,"Ravi Teja, Rakshitha, Prakash Raj",Romance,7.0
+692,Rumble,2002,55.0,Jani Volanen,"Vesa-Matti Loiri, Jari Nissinen, Tommi Korpela","Adventure, Comedy, Drama",6.7
+693,Vampire Clan,2002,87.0,John Webb,"Drew Fuller, Alexandra Breckenridge, Timothy Lee DePriest","Drama, Horror",4.1
+694,Doraibu,2002,102.0,Sabu,"Shin'ichi Tsutsumi, Ren Ôsugi, Kô Shibasaki","Comedy, Crime, Drama",7.1
+695,Zmruz oczy,2002,88.0,Andrzej Jakimowski,"Zbigniew Zamachowski, Olga Prószynska, Rafal Guzniczak","Drama, Comedy",6.7
+696,Super Sucker,2002,93.0,Jeff Daniels,"Jeff Daniels, Matt Letscher, Harve Presnell",Comedy,4.4
+697,A Time for Dancing,2002,100.0,Peter Gilbert,"Larisa Oleynik, Shiri Appleby, Peter Coyote","Drama, Music",5.8
+698,Smoking Room,2002,88.0,"Roger Gual, Julio D. Wallovits","Miguel Ángel González, Francesc Orella, Francesc Garrido",Drama,6.5
+699,The Piano Player,2002,94.0,Jean-Pierre Roux,"Christopher Lambert, Dennis Hopper, Diane Kruger","Action, Drama, Thriller",4.3
+700,Wicked Spring,2002,102.0,Kevin R. Hershberger,"Brian Merrick, DJ Perry, Terry Jernigan","Drama, War, Western",4.7
+701,Mohami khulaa,2002,112.0,Mohamed Yasine,"Hani Ramzi, Ola Ghanim, Dalia El Behairy",Comedy,5.4
+702,Red,2002,175.0,Singampuli,"Ajith Kumar, Priya Gill, Joy Badlani","Action, Drama",4.3
+703,Après la vie,2002,124.0,Lucas Belvaux,"Gilbert Melki, Lucas Belvaux, Dominique Blanc","Crime, Drama",7.0
+704,Porn Theatre,2002,90.0,Jacques Nolot,"Vittoria Scognamiglio, Jacques Nolot, Sébastien Viala",Drama,6.1
+705,Gangsters,2002,90.0,Olivier Marchal,"Richard Anconina, Anne Parillaud, François Levantal","Action, Crime, Drama",6.4
+706,Snake Island,2002,90.0,Wayne Crawford,"William Katt, Wayne Crawford, Kate Connor","Action, Adventure, Comedy",3.4
+707,Folk flest bor i Kina,2002,85.0,"Thomas Robsahm, Martin Asphaug, Arild Fröhlich","Trond Høvik, Eilif Aasen, Dani Aso Ahmad","Drama, Comedy",6.9
+708,Yesterday,2002,121.0,Yun-su Chong,"Kim Seung-woo, Yunjin Kim, Choi Min-soo","Action, Crime, Sci-Fi",4.9
+709,Black and White,2002,99.0,Craig Lahiff,"Robert Carlyle, Charles Dance, Kerry Fox",Drama,6.7
+710,Nuvve.. Nuvve...,2002,168.0,Trivikram Srinivas,"Tarun, Shriya Saran, Prakash Raj","Drama, Romance",7.5
+711,"My Beautiful Girl, Mari",2002,86.0,Seong-gang Lee,"Lee Byung-hun, Gong Hyung-jin, Bae Jong-ok","Animation, Drama, Fantasy",6.5
+712,Panic,2002,91.0,Bob Misiorowski,"Rodney Rowland, Kristanna Loken, Alexander Enberg","Action, Drama, Thriller",3.8
+713,The Last Supper,2002,96.0,Fereydoun Jeyrani,"Katayoun Riahi, Hanieh Tavassoli, Mohammad Reza Golzar","Drama, Romance",6.0
+714,Mrs Caldicot's Cabbage War,2002,106.0,Ian Sharp,"Pauline Collins, Peter Capaldi, Anna Wilson-Jones",Comedy,6.4
+715,A Gentleman's Game,2002,112.0,J. Mills Goodloe,"Mason Gamble, Gary Sinise, Philip Baker Hall","Drama, Sport",6.3
+716,13th Child,2002,99.0,"Thomas Ashley, Steven Stockage","Cliff Robertson, Lesley-Anne Down, Christopher Atkins","Horror, Mystery, Thriller",2.9
+717,Bollywood Bound,2002,88.0,Nisha Pahuja,"Neeru Bajwa, Ruby Bhatia, Vekeana Dhillon",Documentary,6.1
+718,Crime and Punishment,2002,126.0,Menahem Golan,"Crispin Glover, Vanessa Redgrave, John Hurt",Drama,5.5
+719,Bit by Bit,2002,85.0,"Pontus Klänge, Jonathan Metzger","Sunil Munshi, Jan Malmsjö, Kjell Bergqvist",Comedy,4.8
+720,Da zero a dieci,2002,99.0,Luciano Ligabue,"Stefano Pesce, Elisabetta Cavallotti, Massimo Bellinzoni","Comedy, Drama, Music",6.0
+721,Suddenly,2002,92.0,Diego Lerman,"Tatiana Saphir, Carla Crespo, Verónica Hassan","Comedy, Drama",6.3
+722,Duct Tape Forever,2002,90.0,Eric Till,"Steve Smith, Patrick McKenna, Bob Bainborough",Comedy,6.3
+723,Satin Rouge,2002,100.0,Raja Amari,"Hiam Abbass, Hend El Fahem, Maher Kamoun","Drama, Musical, Romance",6.7
+724,"666 - Traue keinem, mit dem Du schläfst!",2002,85.0,Rainer Matsutani,"Jan Josef Liefers, Armin Rohde, Sonsee Neu",Comedy,5.2
+725,Dead in the Water,2002,90.0,Gustavo Lipsztein,"Henry Thomas, Dominique Swain, Scott Bairstow","Crime, Thriller",4.8
+726,Revengers Tragedy,2002,109.0,Alex Cox,"Christopher Eccleston, Kevin Knapman, Michael Ryan",Drama,6.5
+727,Marie-Jo et ses 2 amours,2002,124.0,Robert Guédiguian,"Ariane Ascaride, Jean-Pierre Darroussin, Gérard Meylan","Drama, Romance",6.5
+728,Australian Rules,2002,95.0,Paul Goldman,"Nathan Phillips, Luke Carroll, Lisa Flanagan","Drama, Romance, Sport",6.7
+729,Jeena Sirf Merre Liye,2002,137.0,Talat Jani,"Kareena Kapoor, Tusshar Kapoor, Mallika Sherawat","Comedy, Romance",3.9
+730,Martin & Orloff,2002,87.0,Lawrence Blume,"Ian Roberts, Matt Walsh, H. Jon Benjamin",Comedy,6.5
+731,My Life on Ice,2002,102.0,"Olivier Ducastel, Jacques Martineau","Ariane Ascaride, Jimmy Tavares, Jonathan Zaccaï","Comedy, Drama, Sport",6.5
+732,Blue,2002,116.0,Hiroshi Ando,"Mikako Ichikawa, Manami Konishi, Asami Imajuku","Drama, Romance",6.6
+733,Contagion,2002,95.0,John Murlowski,"Bruce Boxleitner, Megan Gallagher, Lin Shaye","Drama, Sci-Fi",4.1
+734,Alias,2002,98.0,Jan Verheyen,"Hilde De Baerdemaeker, Geert Hunaerts, Veerle Dobbelaere","Drama, Horror, Romance",5.4
+735,Moonlight,2002,90.0,Paula van der Oest,"Hunter Bussemaker, Franck Sasonoff, Andrew Howard",Thriller,6.0
+736,This Thing of Ours,2002,100.0,Danny Provenzano,"Frank Vincent, Vincent Pastore, Louis Vanaria","Crime, Drama",5.1
+737,T.T. Syndrome,2002,102.0,Dejan Zecevic,"Sonja Damjanovic, Nikola Djuricko, Branko Vidakovic","Horror, Thriller",6.2
+738,23rd March 1931: Shaheed,2002,188.0,"Guddu Dhanoa, Tinu Verma","Bobby Deol, Sunny Deol, Amrita Singh","Biography, Drama, History",5.3
+739,Hathyar: Face to Face with Reality,2002,140.0,Mahesh Manjrekar,"Sanjay Dutt, Shilpa Shetty Kundra, Sharad S. Kapoor","Crime, Drama, Thriller",5.7
+740,Eternal Blood,2002,108.0,Jorge Olguín,"Juan Pablo Ogalde, Blanca Lewin, Patricia López","Action, Horror, Thriller",4.4
+741,Mumya Firarda,2002,105.0,Erdal Murat Aktas,"Selami Sahin, Teoman, Nurgül Yesilçay","Action, Adventure, Comedy",2.2
+742,Civil Brand,2002,95.0,Neema Barnette,"LisaRaye McCoy, N'Bushe Wright, Yasiin Bey","Drama, Thriller, Crime",5.1
+743,Bending All the Rules,2002,87.0,"Morgan Klein, Peter Knight","Bradley Cooper, Colleen Porch, David Gail",Drama,2.6
+744,Sex and the Teenage Mind,2002,91.0,Donald L. Gold,"Jay Michael Ferguson, Allison Lange, Michael Bower",Comedy,4.1
+745,My Wife Maurice,2002,102.0,Jean-Marie Poiré,"Alice Evans, Claudie Arif, Régis Laspalès",Comedy,3.9
+746,The Climb,2002,98.0,John Schmidt,"Jason George, Ned Vaughn, Dabney Coleman","Action, Adventure, Drama",5.7
+747,Houve uma Vez Dois Verões,2002,75.0,Jorge Furtado,"André Arteche, Ana Maria Mainieri, Pedro Furtado","Comedy, Romance",7.1
+748,Love Street,2002,91.0,Patrice Leconte,"Patrick Timsit, Laetitia Casta, Vincent Elbaz","Drama, Romance",5.3
+749,Chopin: Desire for Love,2002,134.0,Jerzy Antczak,"Piotr Adamczyk, Danuta Stenka, Adam Woronowicz","Drama, Romance, Music",5.1
+750,Fangs,2002,94.0,Kelly Sandefur,"Corbin Bernsen, Tracy Nelson, Whip Hubley","Comedy, Horror, Sci-Fi",3.4
+751,Virginia's Run,2002,103.0,Peter Markle,"Gabriel Byrne, Lindze Letherman, Rachel Skarsten","Drama, Family",6.2
+752,Coastlines,2002,110.0,Victor Nunez,"Timothy Olyphant, Josh Brolin, Sarah Wynter","Crime, Drama, Thriller",5.8
+753,The House Next Door,2002,95.0,Joey Travolta,"James Russo, Theresa Russell, Sean Young","Thriller, Drama",4.4
+754,Nati stanchi,2002,92.0,Dominick Tambasco,"Salvatore Ficarra, Valentino Picone, Stefania Bonafede",Comedy,6.1
+755,Ginostra,2002,139.0,Manuel Pradal,"Harvey Keitel, Andie MacDowell, Francesca Neri","Crime, Drama",4.6
+756,Blanche,2002,104.0,Bernie Bonvoisin,"Lou Doillon, Roschdy Zem, Antoine de Caunes","Adventure, Comedy",3.2
+757,Spider's Web,2002,88.0,Paul Levine,"Stephen Baldwin, Kari Wuhrer, Benjamin King","Crime, Romance, Thriller",4.3
+758,Groom Lake,2002,92.0,William Shatner,"William Shatner, Dan Gauthier, Amy Acker","Horror, Sci-Fi",2.8
+759,The Perfect You,2002,90.0,Matthew Miller,"Jenny McCarthy-Wahlberg, Chris Eigeman, Paul Dooley","Comedy, Romance",5.3
+760,Hometown Legend,2002,108.0,James Anderson,"Terry O'Quinn, Lacey Chabert, Nick Cornish","Drama, Family, Sport",5.5
+761,Badhaai Ho Badhaai,2002,155.0,Satish Kaushik,"Anil Kapoor, Rana Jung Bahadur, S.K. Batra","Comedy, Drama, Musical",4.7
+762,Kedma,2002,100.0,Amos Gitai,"Andrei Kashker, Helena Yaralova, Moni Moshonov","Drama, History, War",6.0
+763,G,2002,97.0,Christopher Scott Cherot,"Richard T. Jones, Blair Underwood, Chenoa Maxwell","Drama, Romance",5.2
+764,Facing the Truth,2002,98.0,Nils Malmros,"Søren Sejersen, Heine Petersen, Jens Albinus",Drama,7.4
+765,Bobby,2002,161.0,Sobhan,"Aarthi Agarwal, Mahesh Babu, Brahmanandam","Drama, Romance",3.6
+766,Pitaah,2002,126.0,Mahesh Manjrekar,"Sanjay Dutt, Nandita Das, Sachin Khedekar","Action, Crime, Drama",6.4
+767,100 Mile Rule,2002,98.0,Brent Huff,"Jake Weber, Maria Bello, David Thornton",Comedy,5.5
+768,Muhammad: Legacy of a Prophet,2002,116.0,"Omar Al-Qattan, Michael Schwarz",,Documentary,8.0
+769,Pandora's Box,2002,103.0,Rob Hardy,"Chrystale Wilson, Tyson Beckford, Joey Lawrence","Drama, Thriller",4.7
+770,Baader,2002,115.0,Christopher Roth,"Frank Giering, Laura Tonke, Vadim Glowna","Action, Biography, Crime",5.5
+771,Reflections of Evil,2002,138.0,Damon Packard,"Damon Packard, Nicole Vanderhoff, Beverly Miller","Comedy, Drama, Fantasy",6.2
+772,Wolves of Wall Street,2002,85.0,David DeCoteau,"Jeff Branson, Louise Lasser, William Gregory Lee","Action, Horror, Mystery",3.0
+773,Lone Hero,2002,90.0,Ken Sanzel,"Lou Diamond Phillips, Sean Patrick Flanery, Robert Forster","Action, Adventure, Drama",5.5
+774,Saheb Sahbuh,2002,90.0,Saeed Hamed,"Ashraf Abdel Baky, Mohamed Henedi, Riham Abdel Ghafour","Comedy, Drama",4.7
+775,The Pastry Girl,2002,105.0,Iraj Tahmasb,"Iraj Tahmasb, Soraya Ghasemi, Hamid Jebeli","Comedy, Romance",5.7
+776,Eeshwar,2002,,Jayant Paranji,"Prabhas, Sridevi Vijaykumar, Revathi","Action, Drama, Romance",5.3
+777,The One and Only,2002,91.0,Simon Cellan Jones,"Justine Waddell, Richard Roxburgh, Jonathan Cake","Comedy, Romance",5.9
+778,Sueurs,2002,103.0,Louis-Pascal Couvelaire,"Jean-Hugues Anglade, Joaquim de Almeida, Cyrille Thouvenin","Action, Adventure, Crime",5.5
+779,Love Undercover,2002,103.0,Joe Ma,"Miriam Yeung, Daniel Wu, Shiu-Hung Hui","Comedy, Crime, Romance",6.5
+780,A Skin Too Few: The Days of Nick Drake,2002,48.0,Jeroen Berkvens,"Nick Drake, Paul Weller, Gabrielle Drake","Documentary, Biography",7.5
+781,La vie promise,2002,93.0,Olivier Dahan,"Isabelle Huppert, Pascal Greggory, Maud Forget",Drama,6.0
+782,Bark!,2002,94.0,Kasia Adamik,"Lee Tergesen, Heather Morgan, Lisa Kudrow","Comedy, Drama",4.9
+783,Storm Watch,2002,100.0,Terry Cunningham,"Nick Cornish, Vanessa Marcil, Adrian Paul","Action, Sci-Fi",4.7
+784,Monique,2002,92.0,Valérie Guignabodet,"Albert Dupontel, Marianne Denicourt, Philippe Uchan","Comedy, Drama, Romance",6.0
+785,Samouraïs,2002,90.0,Giordano Gederlini,"Cyril Mourali, Maï Anh Le, Yasuaki Kurata",Action,3.4
+786,Gigantic (A Tale of Two Johns),2002,102.0,AJ Schnack,"John Flansburgh, John Linnell, Gina Arnold","Documentary, Music",7.6
+787,Todas las azafatas van al cielo,2002,93.0,Daniel Burman,"Alfredo Casero, Florencia Loj, Valentina Akiyama","Comedy, Drama, Romance",6.3
+788,Our Father,2002,84.0,Mahamat-Saleh Haroun,"Ahidjo Mahamat Moussa, Hamza Moctar Aguid, Zara Haroun",Drama,6.6
+789,Love in the Time of Money,2002,90.0,Peter Mattei,"Vera Farmiga, Domenick Lombardozzi, Jill Hennessy","Comedy, Drama, Romance",5.4
+790,Carnages,2002,130.0,Delphine Gleize,"Chiara Mastroianni, Ángela Molina, Raphaëlle Molinier","Comedy, Drama, Romance",6.1
+791,Tongan Ninja,2002,83.0,Jason Stutter,"Sam Manu, Jemaine Clement, Linda Tseng","Action, Comedy, Musical",5.9
+792,Febbre da cavallo - La mandrakata,2002,104.0,Carlo Vanzina,"Gigi Proietti, Nancy Brilli, Andrea Ascolese",Comedy,5.4
+793,Edge of Madness,2002,99.0,Anne Wheeler,"Caroline Dhavernas, Frank Adamson, Wayne Nicklas",Drama,6.2
+794,Kuch Tum Kaho Kuch Hum Kahein,2002,171.0,K. Ravi Shankar,"Vikram Gokhale, Dinesh Hingoo, Adi Irani","Action, Drama, Romance",6.0
+795,Minor Mishaps,2002,109.0,Annette K. Olesen,"Jørgen Kiil, Maria Rich, Henrik Prip","Comedy, Drama",6.4
+796,Hiçbiryerde,2002,90.0,Tayfun Pirselimoglu,"Zuhal Olcay, Michael Mendl, Parkan Özturan",Drama,6.6
+797,Blessing Bell,2002,87.0,Sabu,"Susumu Terajima, Naomi Nishida, Ayako Hirai","Comedy, Drama",7.1
+798,Nos miran,2002,104.0,Norberto López Amado,"Carmelo Gómez, Icíar Bollaín, Massimo Ghini","Drama, Thriller, Horror",5.8
+799,El último tren,2002,94.0,Diego Arsuaga,"Héctor Alterio, Federico Luppi, Pepe Soriano","Adventure, Comedy, Action",6.8
+800,The Frightening,2002,85.0,David DeCoteau,"Matthew Twining, James E. Foley, Jack Carlisle","Horror, Mystery, Thriller",3.5
+801,Journeys with George,2002,79.0,"Alexandra Pelosi, Aaron Lubarsky","George W. Bush, R.G. Ratcliffe, Wayne Slater",Documentary,6.8
+802,Haker,2002,90.0,Janusz Zaorski,"Bartosz Obuchowicz, Piotr Miazga, Kasia Smutniak","Action, Comedy",4.0
+803,White Dream,2002,90.0,Hamid Jebeli,"Elizabet Amini, Hamid Jebeli, Soghra Karimi","Comedy, Drama",6.9
+804,"No Blood, No Tears",2002,116.0,Ryoo Seung-wan,"Jeon Do-yeon, Lee Hye-yeong, Jeong Jae-yeong","Action, Comedy, Crime",6.1
+805,Pleasant Days,2002,99.0,Kornél Mundruczó,"Tamás Polgár, Orsolya Tóth, Kata Wéber",Drama,5.2
+806,Marrying the Mafia,2002,113.0,Heung-sun Jeong,"Yoo Dong-geun, Jeong Jun-ho, Kim Jeong-eun","Comedy, Crime, Romance",6.0
+807,My Sisters Kids in the Snow,2002,84.0,Tomas Villum Jensen,"Peter Gantzler, Wencke Barfoed, Niels Olsen","Comedy, Family",5.3
+808,Meisje,2002,93.0,Dorothée Van Den Berghe,"Charlotte Vanden Eynde, Els Dottermans, Frieda Pittoors","Drama, Romance",6.4
+809,Santosham,2002,150.0,"Dasaradh, Dasharth","Nagarjuna Akkineni, Shriya Saran, Gracy Singh","Drama, Romance",7.2
+810,The Tramp and the Dictator,2002,56.0,"Kevin Brownlow, Michael Kloft","Kenneth Branagh, Adolf Hitler, Sydney Chaplin","Documentary, Biography, History",7.7
+811,Lyubovnik,2002,100.0,Valeriy Todorovskiy,"Oleg Yankovskiy, Sergey Garmash, Andrey Smirnov","Drama, Romance",7.2
+812,Heinähattu ja Vilttitossu,2002,75.0,Kaisa Rastimo,"Katriina Tavi, Tilda Kiianlehto, Minna Suuronen",Family,6.4
+813,Tibet: Cry of the Snow Lion,2002,104.0,Tom Piozet,"Edward Edwards, Ed Harris, Shirley Knight","Documentary, History",7.5
+814,The Deserted Station,2002,88.0,Alireza Raisian,"Leila Hatami, Nezam Manouchehri, Mehran Rajabi",Drama,6.6
+815,The Circle,2002,100.0,Sidney J. Furie,"Treat Williams, Robin Dunne, Gianpaolo Venuta",Thriller,5.1
+816,P.S. Your Cat Is Dead!,2002,92.0,Steve Guttenberg,"Steve Guttenberg, Cynthia Watros, Lombardo Boyar",Comedy,5.5
+817,Alone,2002,88.0,Phil Claydon,"Miriam Margolyes, John Shrapnel, Laurel Holloman","Horror, Mystery, Thriller",4.2
+818,Unprecedented: The 2000 Presidential Election,2002,50.0,"Richard Ray Perez, Joan Sekler","Peter Coyote, Ed Baker, James A. Baker",Documentary,7.8
+819,The Backyard,2002,80.0,Paul Hough,"The Lizard, Mario Ponce, Chaos",Documentary,6.4
+820,La balsa de piedra,2002,103.0,George Sluizer,"Federico Luppi, Icíar Bollaín, Gabino Diego","Drama, Fantasy",5.8
+821,The Sweatbox,2002,95.0,"John-Paul Davidson, Trudie Styler","John Goodman, Tom Jones, Eartha Kitt",Documentary,7.1
+822,Bread and Love and Motor 1000,2002,120.0,Abolhassan Davoodi,"Akbar Abdi, Bahareh Rahnama, Gohar Kheirandish","Comedy, Drama",5.4
+823,Dracula's Fiancee,2002,91.0,Jean Rollin,"Cyrille Gaudin, Jacques Orth, Thomas Smith",Horror,4.7
+824,The Collector,2002,125.0,Jean Beaudin,"Maude Guérin, Luc Picard, Lawrence Arcouette",Thriller,6.0
+825,Laundry,2002,126.0,Jun'ichi Mori,"Yôsuke Kubozuka, Koyuki, Takashi Naitô","Drama, Romance",7.1
+826,Bungalow,2002,85.0,Ulrich Köhler,"Lennie Burmeister, Devid Striesow, Trine Dyrholm",Drama,6.4
+827,The Child I Never Was,2002,86.0,Kai S. Pieck,"Tobias Schenke, Sebastian Urzendowsky, Ulrike Bliefert","Crime, Drama",6.8
+828,Doraemon: Nobita and the Robot Kingdom,2002,80.0,"Tsutomu Shibayama, Tatsuya Ishihara","Nobuyo Ôyama, Noriko Ohara, Michiko Nomura","Animation, Adventure, Family",6.8
+829,Leather and Iron,2002,90.0,James Archer,"Mike Valletta, Blythe Metz, Scott Dillon","Action, Adventure, Crime",1.6
+830,Samurai,2002,140.0,Balaji Sakthivel,"Vikram, Jayaseel, Nassar","Action, Drama, Musical",6.3
+831,Chenna Kesava Reddy,2002,143.0,V.V. Vinayak,"Nandamuri Balakrishna, Tabu, Shriya Saran","Action, Drama",6.0
+832,GhostWatcher,2002,94.0,David A. Cross,"Jillian Byrnes, Marianne Hayden, Jennifer Servary","Horror, Mystery, Sci-Fi",4.1
+833,Irène,2002,98.0,Ivan Calbérac,"Cécile de France, Bruno Putzulu, Olivier Sitruk","Comedy, Drama, Romance",6.2
+834,Little Big Girl,2002,93.0,Morten Køhlert,"Sarah Juel Werner, Peter Jeppe Hansen, Lisbet Dahl","Drama, Family",6.4
+835,Endangered Species,2002,94.0,Kevin Tenney,"Eric Roberts, Arnold Vosloo, John Rhys-Davies","Horror, Sci-Fi, Thriller",4.2
+836,Nebo. Samolyot. Devushka.,2002,91.0,Vera Storozheva,"Renata Litvinova, Dmitriy Orlov, Inga Strelkova-Oboldina","Romance, Drama",6.7
+837,Nonfilm,2002,75.0,Quentin Dupieux,"Vincent Belorgey, Sébastien Tellier, Philippe Petit",Comedy,6.0
+838,Chalo Ishq Ladaaye,2002,140.0,Aziz Sejawal,"Govinda, Kader Khan, Rani Mukerji","Action, Comedy, Romance",4.5
+839,Angels Don't Sleep Here,2002,88.0,Paul Cade,"Dana Ashbrook, Kelly Rutherford, Roy Scheider",Thriller,2.8
+840,Leaving Metropolis,2002,89.0,Brad Fraser,"Troy Ruptash, Vince Corazza, Lynda Boyd","Comedy, Drama, Romance",6.2
+841,The Cockettes,2002,102.0,"Bill Weber, David Weissman","Larry Brinkin, Peggy Cass, The Cockettes",Documentary,7.3
+842,A Loving Father,2002,103.0,Jacob Berger,"Gérard Depardieu, Guillaume Depardieu, Sylvie Testud",Drama,6.2
+843,Balseros,2002,120.0,"Carles Bosch, Josep Maria Domènech","Guillermo Armas, Maria Celeste Arraras, Rafael Cano",Documentary,7.2
+844,Thulluvadho Ilamai,2002,144.0,Kasthuri Raja,"Dhanush, Gangeshwari, Ramesh Khanna",Drama,6.4
+845,On_Line,2002,97.0,Jed Weintrob,"Josh Hamilton, Harold Perrineau, Isabel Gillies",Drama,5.4
+846,Kunjikkoonan,2002,120.0,Sasi Shankar,"Dileep, Navya Nair, Manya","Comedy, Drama, Romance",6.5
+847,Ne dao Bog veceg zla,2002,107.0,Snjezana Tribuson,"Filip Curic, Ecija Ojdanic, Branko Menicanin","Comedy, Drama, Romance",7.8
+848,Rub & Tug,2002,90.0,Soo Lyu,"Don McKellar, Kira Clavell, Tara Spencer-Nairn",Comedy,4.8
+849,Slim Slam Slum,2002,97.0,"Jorge Ballarin, Marcelino Ballarin","Thure Lindhardt, Simon Jul Jørgensen, Tommy Bredsted","Comedy, Music, Romance",2.5
+850,Loenatik - De moevie,2002,90.0,Bobby Eerhart,"Karen van Holst Pellekaan, Martin van Waardenberg, Dick van den Toorn","Comedy, Family",6.8
+851,Ek Chhotisi Love Story,2002,122.0,Shashilal K. Nair,"Saroj Bhargava, Manisha Koirala, Jesse Randhawa",Drama,3.1
+852,The Lion Roars,2002,100.0,Joe Ma,"Cecilia Cheung, Louis Koo, Emotion Cheung","Comedy, Romance",5.9
+853,L'idole,2002,110.0,Samantha Lang,"Leelee Sobieski, James Hong, Jean-Paul Roussillon","Drama, Romance",5.9
+854,Yathrakarude Sradhakku,2002,,Sathyan Anthikad,"Jayaram, Soundarya, Innocent Vareed Thekkethala","Comedy, Drama, Romance",6.8
+855,Amandla!,2002,108.0,Lee Hirsch,"Abdullah Ibrahim, Duma Ka Ndlovu, Vusi Mahlasela","Documentary, History, Music",7.4
+856,Daughter from Danang,2002,83.0,"Gail Dolgin, Vicente Franco","Mai Thi Kim, Heidi Neville-Bub, Gerald Ford","Documentary, War",7.5
+857,The Seventies,2002,128.0,Chito S. Roño,"Vilma Santos, Christopher De Leon, Piolo Pascual",Drama,7.7
+858,"Gambling, Gods and LSD",2002,180.0,Peter Mettler,"Justine Bellinsky, Govinda, Peter Mettler",Documentary,7.0
+859,Malevolent,2002,95.0,John Terlesky,"Lou Diamond Phillips, Edoardo Ballerini, Kari Wuhrer","Crime, Drama, Thriller",5.1
+860,How to Draw a Bunny,2002,90.0,John W. Walter,"Joseph Ialacci, Richard Feigen, Frances Beatty",Documentary,7.4
+861,Tamala 2010: A Punk Cat in Space,2002,92.0,Tol,"Béatrice Dalle, Takeshi Katô, Hisayo Mochizuki","Animation, Comedy, Drama",6.3
+862,The Final Curtain,2002,85.0,Patrick Harkins,"Aidan Gillen, Adrian Lester, Peter O'Toole","Comedy, Drama",5.6
+863,Power and Terror: Noam Chomsky in Our Times,2002,74.0,John Junkerman,"Noam Chomsky, Carol Chomsky",Documentary,6.9
+864,Le frère du guerrier,2002,115.0,Pierre Jolivet,"Vincent Lindon, Guillaume Canet, Mélanie Doutey","Adventure, Drama, History",6.0
+865,Terminal Error,2002,90.0,John Murlowski,"Michael Nouri, Marina Sirtis, Matthew Ewald","Thriller, Sci-Fi",4.2
+866,"Long Life, Happiness & Prosperity",2002,90.0,Mina Shum,"Sandra Oh, Valerie Tian, Ric Young","Comedy, Drama, Family",6.6
+867,Tomie: Forbidden Fruit,2002,91.0,Shun Nakahara,"Nozomi Andô, Aoi Miyazaki, Jun Kunimura",Horror,5.7
+868,Sur,2002,136.0,Tanuja Chandra,"Lucky Ali, Simone Singh, Achint Kaur","Drama, Musical, Romance",6.6
+869,Yesil Isik,2002,102.0,Faruk Aksoy,"Hülya Avsar, Kenan Isik, Haldun Dormen","Comedy, Drama, Fantasy",3.2
+870,Titli,2002,146.0,Rituparno Ghosh,"Aparna Sen, Mithun Chakraborty, Dipankar Dey",Drama,7.8
+871,Velocità massima,2002,111.0,Daniele Vicari,"Valerio Mastandrea, Cristiano Morroni, Alessia Barela",Drama,6.4
+872,Raja,2002,133.0,Ezhil,"Ajith Kumar, Jyotika, Priyanka Upendra",Romance,3.5
+873,Manito,2002,78.0,Eric Eason,"Leo Minaya, Jessica Morales, Franky G","Drama, Family",6.6
+874,Merci Docteur Rey,2002,91.0,Andrew Litvack,"Dianne Wiest, Jane Birkin, Stanislas Merhar",Comedy,6.0
+875,Children on Their Birthdays,2002,102.0,Mark Medoff,"Sheryl Lee, Christopher McDonald, Tom Arnold","Comedy, Drama, Family",6.3
+876,Crayon Shin-chan: Fierceness That Invites Storm! The Battle of the Warring States,2002,95.0,Keiichi Hara,"Akiko Yajima, Miki Narahashi, Keiji Fujiwara","Animation, Adventure, Comedy",7.3
+877,Aram,2002,90.0,Robert Kechichian,"Simon Abkarian, Lubna Azabal, Serge Avedikian","Crime, Drama, History",6.9
+878,Issues 101,2002,90.0,John Lincoln,"Michael Rozman, Dennis W. Rittenhouse Jr., Jeff Sublett","Drama, Romance",3.5
+879,Nearest to Heaven,2002,96.0,Tonie Marshall,"Catherine Deneuve, William Hurt, Bernard Le Coq","Drama, Romance",5.3
+880,Handcuff King,2002,94.0,Arto Koskinen,"Miikka Enbuske, Maija Junno, Heikki Hela","Comedy, Drama, Family",6.3
+881,Sex with Strangers,2002,105.0,"Harry Gantz, Joe Gantz",,"Documentary, Drama",4.4
+882,V dvizhenii,2002,97.0,Filipp Yankovskiy,"Konstantin Khabensky, Oksana Fandera, Elena Perova","Crime, Drama, Romance",6.5
+883,The Collector,2002,46.0,Pelin Esmer,Mithat Esmer,Documentary,7.1
+884,Samy y yo,2002,85.0,Eduardo Milewicz,"Ricardo Darín, Angie Cepeda, Cristina Banegas","Comedy, Family, Romance",5.8
+885,Killer Barbys vs. Dracula,2002,86.0,Jesús Franco,"Katja Bienert, Fata Morgana, Aldo Sambrell","Horror, Comedy, Music",3.0
+886,A Tree of Palme,2002,130.0,Takashi Nakamura,"Akiko Hiramatsu, Daisuke Sakaguchi, Kappei Yamaguchi","Animation, Adventure, Drama",6.5
+887,The Nature of Nicholas,2002,90.0,Jeff Erbach,"Jeff Sutton, David Turnbull, Ardith Boxall","Drama, Horror, Romance",6.0
+888,Jam Films,2002,122.0,"Daizaburo Hanada, Jôji Iida, Shunji Iwai","Morio Agata, Natsuko Akiyama, Samuel Pop Aning","Comedy, Drama, Fantasy",6.8
+889,Stone Reader,2002,127.0,Mark Moskowitz,"Carl Brandt, Frank Conroy, Bruce Dobler","Documentary, Drama",7.7
+890,El embrujo de Shanghai,2002,119.0,Fernando Trueba,"Fernando Tielve, Aida Folch, Ariadna Gil","Drama, Mystery",5.5
+891,The Blue Room,2002,104.0,Walter Doehner,"Juan Manuel Bernal, Patricia Llaca, Elena Anaya","Drama, Romance",6.3
+892,Flower & Garnet,2002,103.0,Keith Behrman,"Callum Keith Rennie, Jane McGregor, Alisha Penev",Drama,6.8
+893,Fimfárum Jana Wericha,2002,100.0,"Aurel Klimt, Vlasta Pospísilová","Ota Jirák, Jan Werich","Animation, Comedy, Fantasy",7.7
+894,L'odyssée d'Alice Tremblay,2002,102.0,Denise Filiatrault,"Sophie Lorain, Martin Drainville, Pierrette Robitaille","Comedy, Family, Fantasy",5.4
+895,The Tiger of Santa Julia,2002,128.0,Alejandro Gamboa,"Miguel Rodarte, Irán Castillo, Isaura Espinoza","Action, Adventure, Drama",5.9
+896,Tokyo.sora,2002,127.0,Hiroshi Ishikawa,"Yuka Itaya, Haruka Igawa, Shôzô Endô",Drama,6.9
+897,A Midsummer Night's Rave,2002,85.0,Gil Cates Jr.,"Andrew Keegan, Chad Lindberg, Lauren German",Drama,5.1
+898,"Bless You, Prison",2002,90.0,Nicolae Margineanu,"Maria Ploae, Dorina Lazar, Ecaterina Nazare",Drama,7.5
+899,Under One Roof,2002,76.0,"Todd Wilson, Robin Feinberg","Jay Wong, James Marks, Sandra Lee","Romance, Comedy",5.7
+900,Seventeen Times Cécile Cassard,2002,105.0,Christophe Honoré,"Béatrice Dalle, Romain Duris, Jeanne Balibar",Drama,5.8
+901,Kya Yehi Pyaar Hai,2002,145.0,K. Muralimohana Rao,"Jackie Shroff, Aftab Shivdasani, Ameesha Patel","Drama, Romance",4.3
+902,The Business of Fancydancing,2002,103.0,Sherman Alexie,"Evan Adams, Michelle St. John, Gene Tagaban","Drama, Music",6.6
+903,Pretty Cool,2002,92.0,Rolfe Kanefsky,"Will Burke, Alexis Thorpe, Gerard Karsenty","Comedy, Sci-Fi",4.1
+904,Dil Vil Pyar Vyar,2002,150.0,Ananth Mahadevan,"Madhavan, Jimmy Shergill, Sanjay Suri","Drama, Musical, Romance",5.4
+905,Desmundo,2002,101.0,Alain Fresnot,"Simone Spoladore, Osmar Prado, Caco Ciocler",Drama,7.0
+906,Asesino en serio,2002,84.0,Antonio Urrutia,"Jesús Ochoa, Santiago Segura, Ivonne Montero","Comedy, Mystery, Thriller",5.5
+907,Xuxa e os Duendes 2: No Caminho das Fadas,2002,86.0,"Paulo Sérgio de Almeida, Rogério Gomes","Xuxa, Karen Acioly, Maria Mariana Azevedo","Adventure, Family, Fantasy",1.9
+908,Children of Secret,2002,110.0,"Ümit Cin Güven, Aydin Sayman","Firat Tanis, Halil Ibrahim Aras, Özgü Namal",Drama,7.3
+909,Ten Tiny Love Stories,2002,96.0,Rodrigo García,"Radha Mitchell, Alicia Witt, LisaGay Hamilton",Drama,6.4
+910,Sophiiiie!,2002,107.0,Michael Hofmann,"Katharina Schüttler, Alexander Beyer, Martin Brambach",Drama,7.2
+911,Lisístrata,2002,89.0,Francesc Bellmunt,"Maribel Verdú, Juan Luis Galiardo, Javier Gurruchaga","Comedy, Romance",4.2
+912,Shararat,2002,155.0,Gurudev Bhalla,"Abhishek Bachchan, Hrishitaa Bhatt, Amrish Puri","Comedy, Drama, Romance",4.8
+913,"Mercano, el marciano",2002,87.0,Juan Antin,"Graciela Borges, Roberto Carnaghi, Fabio Alberti","Animation, Comedy, Sci-Fi",6.6
+914,Le nèg',2002,92.0,Robert Morin,"Iannicko N'Doua-Légaré, Robin Aubert, Emmanuel Bilodeau",Drama,7.3
+915,The Last Great Wilderness,2002,95.0,David Mackenzie,"Alastair Mackenzie, Jonny Phillips, Ewan Stewart","Comedy, Drama",5.6
+916,Roads to Riches,2002,90.0,Michelle Gallagher,"Robert Forster, Rose McGowan, Kip Pardue","Comedy, Drama",5.1
+917,Bollywood Queen,2002,89.0,Jeremy Wooding,"Preeya Kalidas, James McAvoy, Ray Panthaki","Musical, Romance",4.7
+918,Yomigaeri,2002,126.0,Akihiko Shiota,"Tsuyoshi Kusanagi, Yûko Takeuchi, Yuriko Ishida","Fantasy, Romance",6.6
+919,Touching Wild Horses,2002,91.0,Eleanore Lindo,"Mark Rendall, Jane Seymour, Charles Martin Smith",Drama,6.5
+920,Outside the Law,2002,90.0,Jorge Montesi,"Cynthia Rothrock, Seamus Dever, Jessica Stier",Action,4.3
+921,The Boy Who Wanted to Be a Bear,2002,75.0,Jannik Hastrup,"Marlon Vilstrup, Joachim Boje Helvang, Otto Brandenburg","Animation, Family",6.9
+922,I banchieri di Dio,2002,125.0,Giuseppe Ferrara,"Omero Antonutti, Pamela Villoresi, Giancarlo Giannini","Biography, Crime, Drama",6.3
+923,Al qods fee yom akhar,2002,90.0,Hany Abu-Assad,"Clara Khoury, Khalifa Natour, Ismael Dabbag","Drama, Comedy",6.5
+924,Ascension,2002,108.0,Karim Hussain,"Marie-Josée Croze, Barbara Ulrich, Ilona Elkin","Drama, Fantasy, Horror",4.7
+925,Changing Hearts,2002,92.0,Martin Guigui,"Lauren Holly, Faye Dunaway, Ian Somerhalder","Comedy, Drama, Romance",5.7
+926,El robo más grande jamás contado,2002,105.0,Daniel Monzón,"Antonio Resines, Neus Asensi, Manuel Manquiña",Comedy,5.5
+927,The Round and Round,2002,131.0,Rod Slane,"Robert Knott, Alex Meneses, Hunter von Leer",Drama,1.7
+928,Beyond the Gates of Splendor,2002,96.0,Jim Hanon,"Steve Saint, Carmela, Dawa",Documentary,7.3
+929,Histoire de Pen,2002,112.0,Michel Jetté,"Emmanuel Auger, Karyne Lemieux, Paul Dion",Drama,6.2
+930,Allari Ramudu,2002,156.0,Gopal B.,"N.T. Rama Rao Jr., Aarthi Agarwal, Nagma","Action, Comedy, Drama",3.9
+931,Vasu,2002,146.0,A. Karunakaran,"Venkatesh Daggubati, Bhoomika Chawla, Sunil","Drama, Romance",6.9
+932,Trece campanadas,2002,108.0,Xavier Villaverde,"Juan Diego Botto, Luis Tosar, Marta Etura","Horror, Thriller",5.0
+933,Tattoo: A Love Story,2002,94.0,Richard W. Bean,"Megan Edwards, Virgil Mignanelli, Benjamin Burdick","Comedy, Drama, Romance",6.7
+934,Beyblade: The Movie - Fierce Battle,2002,74.0,Yoshio Takeuchi,"Motoko Kumai, Houko Kuwashima, Aya Hisakawa","Animation, Action, Adventure",5.7
+935,Karz: The Burden of Truth,2002,173.0,Harry Baweja,"Sunny Deol, Suniel Shetty, Shilpa Shetty Kundra","Action, Crime, Drama",3.9
+936,Landspeed,2002,94.0,Christian McIntire,"Billy Zane, Ray Wise, Pamela Gidley","Drama, Sport",4.2
+937,"Filles perdues, cheveux gras",2002,100.0,Claude Duty,"Amira Casar, Marina Foïs, Olivia Bonamy","Comedy, Drama, Fantasy",5.2
+938,Phase IV,2002,103.0,Bryan Goeres,"Dean Cain, Brian Bosworth, Mimi Kuzyk","Action, Drama, Thriller",4.8
+939,Fixing Frank,2002,103.0,Michael Selditch,"Dan Butler, Andrew Elvis Miller, Paul Provenza",Drama,6.2
+940,Blurred,2002,95.0,Evan Clarry,"Tony Brockman, Travis Cotton, Jamie Croft","Comedy, Drama",4.8
+941,Dark Descent,2002,96.0,Daniel Knauf,"Dean Cain, Scott Wiper, Biliana Petrinska","Action, Adventure, Sci-Fi",3.4
+942,Kopeyka,2002,115.0,Ivan Dykhovichnyy,"Sergey Mazaev, Andrey Krasko, Yuriy Tsurilo",Comedy,6.9
+943,Manna from Heaven,2002,119.0,"Gabrielle Burton, Maria Burton","Shirley Jones, Cloris Leachman, Louise Fletcher",Comedy,5.4
+944,Aro Tolbukhin - En la mente del asesino,2002,95.0,"Isaac-Pierre Racine, Agustí Villaronga, Lydia Zimmermann","Daniel Giménez Cacho, Carmen Beato, Zóltán Józan",Drama,6.6
+945,Laman,2002,115.0,Maryo J. de los Reyes,"Albert Martinez, Elizabeth Oropesa, Yul Servo","Drama, Thriller",5.9
+946,Karlsson on the Roof,2002,77.0,Vibeke Idsøe,"Börje Ahlstedt, William Svedberg, Pernilla August","Family, Animation",5.3
+947,Walking on Water,2002,90.0,Tony Ayres,"Vince Colosimo, Maria Theodorakis, Nathaniel Dean",Drama,6.4
+948,Hard Goodbyes: My Father,2002,113.0,Penny Panagiotopoulou,"Yorgos Karayannis, Stelios Mainas, Ioanna Tsirigouli","Drama, Family",7.0
+949,Jayam,2002,152.0,Teja,"Nithiin, Sada, Gopichand",Drama,6.5
+950,Before You Go,2002,94.0,Lewis Gilbert,"Julie Walters, John Hannah, Joanne Whalley","Comedy, Drama",5.5
+951,Brucio nel vento,2002,118.0,Silvio Soldini,"Ivan Franek, Barbora Lukesová, Ctirad Götz","Drama, Romance",6.8
+952,Now & Forever,2002,101.0,Bob Clark,"Mia Kirshner, Adam Beach, Gordon Tootoosis","Drama, Romance",6.1
+953,2 Perdidos numa Noite Suja,2002,100.0,José Joffily,"Débora Falabella, Roberto Bomtempo, Guy Camilleri",Drama,6.7
+954,Unborn But Forgotten,2002,95.0,Chang-jae Lim,"Lee Eun-ju, Jeong Jun-ho, Seong-Yong Kye","Horror, Mystery",4.5
+955,Balnearios,2002,80.0,Mariano Llinás,"Verónica Llinás, Mario Mactas, Alejandro Zucco",Documentary,6.9
+956,Where Eskimos Live,2002,95.0,Tomasz Wiszniewski,"Bob Hoskins, Sergiusz Zymelka, Krzysztof Majchrzak","Action, Drama",6.7
+957,EvenHand,2002,92.0,Joseph Pierson,"Bill Sage, Bill Dawes, Lawrence Stringer",Drama,7.3
+958,Beeper,2002,100.0,Jack Sholder,"Harvey Keitel, Joey Lauren Adams, Ed Quinn","Thriller, Crime",4.4
+959,Villa des roses,2002,118.0,Frank Van Passel,"Julie Delpy, Shaun Dingwall, Harriet Walter","Drama, Romance, War",6.2
+960,Conduct Zero,2002,99.0,Geun-shik Jo,"Ryu Seung-beom, Kong Hyo-jin, Lim Eun-kyeong","Comedy, Romance",6.5
+961,Tappu Chesi Pappu Koodu,2002,147.0,A. Kodandarami Reddy,"Mohammad Ali, Ananth, Mohan Babu","Comedy, Drama",5.6
+962,Figure in the Forest,2002,110.0,Jeff Kennedy,"Dean Teaster, Mary Jo Cuppone, DJ Perry","Drama, Thriller",6.4
+963,High Times Potluck,2002,90.0,Alison Thompson,"Frank Adonis, Theo Kogan, Sylvia Miles","Comedy, Crime",4.8
+964,Day After Tomorrow,2002,65.0,Bryant Low,"Steve Ng, Sue Ann Gooi, Douglas Lim","Drama, Romance",5.5
+965,Cat's Cradle,2002,92.0,Alexandre Stockler,"Rennata Airoldi, Luiz Araújo, Cainan Baladez","Crime, Drama, Horror",5.1
+966,The Wesley's Mysterious File,2002,88.0,Wai Keung Lau,"Andy Lau, Rosamund Kwan, Shu Qi","Action, Romance, Sci-Fi",4.0
+967,Wie die Karnickel,2002,84.0,Sven Unterwaldt Jr.,"Michael Lott, Sven Walser, Anna Böttcher",Comedy,5.8
+968,Blue Moon,2002,90.0,Andrea Maria Dusl,"Josef Hader, Victoria Malektorovych, Detlev Buck","Adventure, Comedy, Romance",6.4
+969,Salomé,2002,85.0,Carlos Saura,"Aída Gómez, Pere Arquillué, Paco Mora",Musical,6.9
+970,Punch,2002,90.0,Guy Bennett,"Michael Riley, Sonja Bennett, Meredith McGeachie",Drama,5.9
+971,Fararishtay kifti rost,2002,89.0,Jamshed Usmonov,"Uktamoi Miyasarova, Maruf Pulodzoda, Kova Tilavpur","Comedy, Drama, Fantasy",6.7
+972,Kranti,2002,142.0,Naresh Malhotra,"Vinod Khanna, Bobby Deol, Ameesha Patel","Action, Drama",4.0
+973,Secret Pleasures,2002,90.0,Michael Paul Girard,"Kim Yates, Rick Majeske, Nikki Fritz","Drama, Romance",4.2
+974,Jologs,2002,110.0,Gilbert Perez,"Diether Ocampo, Patrick Garcia, Vhong Navarro","Comedy, Drama, Romance",7.4
+975,La repentie,2002,125.0,Laetitia Masson,"Isabelle Adjani, Sami Frey, Samy Naceri","Crime, Drama",5.3
+976,Spring Subway,2002,93.0,Yibai Zhang,"Le Geng, Yang Zhang, Lan Ke","Drama, Romance",6.8
+977,Jane White Is Sick & Twisted,2002,84.0,David Michael Latt,"Kim Little, Wil Wheaton, Alley Mills","Comedy, Drama, Romance",3.8
+978,Engine Trouble,2002,92.0,Marc Ickx,"Cecilia Bergqvist, Bob Dougherty, Marcel Romeijn","Horror, Thriller",2.5
+979,Mucha sangre,2002,79.0,Pepe de las Heras,"Paul Naschy, Rodolfo Sancho, Txema Sandoval","Action, Comedy, Fantasy",4.9
+980,Hop,2002,106.0,Dominique Standaert,"Kalomba Mboyi, Jan Decleir, Antje de Boeck","Comedy, Drama",6.9
+981,Guardian of the Frontier,2002,98.0,Maja Weiss,"Iva Krajnc, Pia Zemljic, Tanja Potocnik","Drama, Horror, Mystery",5.8
+982,Break of Dawn,2002,110.0,Alexandre Arcady,"Richard Berry, Saïd Taghmaoui, Joaquim de Almeida","Action, Drama",5.4
+983,Ardor,2002,112.0,Young-Joo Byun,"Yunjin Kim, Lee Jong-won, Son Byung-ho","Drama, Romance",5.6
+984,Le chignon d'Olga,2002,96.0,Jérôme Bonnell,"Hubert Benhamdine, Nathalie Boutefeu, Florence Loiret Caille","Comedy, Drama, Romance",6.7
+985,Jail Breakers,2002,121.0,Sang-Jin Kim,"Sul Kyung-gu, Cha Seung-won, Song Yun-ah",Comedy,6.2
+986,The Adventures of Ociee Nash,2002,87.0,Kristen McGary,"Skyler Day, Woofer, Anthony P. Rodriguez","Adventure, Drama, Family",6.1
+987,The Uncertainty Principle,2002,133.0,Manoel de Oliveira,"Leonor Baldaque, Leonor Silveira, Isabel Ruth",Drama,6.7
+988,Kolay Para,2002,97.0,"Ercan Durmus, Hakan Haksun","Mustafa Ugurlu, Emre Altug, Okan Yalabik","Action, Comedy, Crime",4.6
+989,Over the Rainbow,2002,109.0,Jin-woo Ahn,"Lee Jung-jae, Jang Jin-young, Gong Hyung-jin","Drama, Romance",7.0
+990,Kassablanka,2002,100.0,"Ivan Boeckmans, Guy Lee Thys","Roy Aernouts, Mo Barich, Mostafa Benkerroum","Comedy, Drama, Romance",6.6
+991,Gunaah,2002,135.0,Amol Shetge,"Bipasha Basu, Dino Morea, Ashutosh Rana","Action, Crime, Drama",3.5
+992,The Cordon,2002,70.0,Goran Markovic,"Milutin Milosevic, Marko Nikolic, Dragan Petrovic-Pele","Action, Drama",6.8
+993,24 heures de la vie d'une femme,2002,107.0,Laurent Bouhnik,"Agnès Jaoui, Michel Serrault, Bérénice Bejo",Drama,6.0
+994,The Bubble,2002,104.0,Nicos Perakis,"Alexis Georgoulis, Maria Solomou, Giorgos Vasileiou","Comedy, Crime",4.4
+995,Hus i helvete,2002,100.0,Susan Taslimi,"Melinda Kinnaman, Hassan Brijany, Caroline Rauf",Drama,5.3
+996,All About My Father,2002,75.0,Even Benestad,"Espen Benestad, Elsa Almås, Elisabeth Benestad","Documentary, Biography",6.4
+997,El ragol el abiad el motawasset,2002,108.0,Sherif Mandour,"Ahmad Adam, Ezzat Abu Ouf, Somaya El Khashab",Comedy,4.3
+998,Dead Above Ground,2002,90.0,Chuck Bowman,"Corbin Bernsen, Stephen J. Cannell, Robert Conrad","Crime, Horror",3.2
+999,Second to Die,2002,89.0,Brad Marlowe,"Erika Eleniak, Jerry Kroll, Colleen Camp",Thriller,4.9
+1000,Two Timer,2002,98.0,Mel Chionglo,"Ara Mina, Albert Martinez, Wendell Ramos","Action, Drama",5.5

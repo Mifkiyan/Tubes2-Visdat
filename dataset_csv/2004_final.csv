@@ -1,0 +1,1001 @@
+﻿ID,Name,Year,Duration,Directors,Actors,Genres,Rating
+1,Eternal Sunshine of the Spotless Mind,2004,108.0,Michel Gondry,"Jim Carrey, Kate Winslet, Tom Wilkinson","Drama, Romance, Sci-Fi",8.3
+2,The Incredibles,2004,115.0,Brad Bird,"Craig T. Nelson, Samuel L. Jackson, Holly Hunter","Animation, Action, Adventure",8.0
+3,Kill Bill: Vol. 2,2004,137.0,Quentin Tarantino,"Uma Thurman, David Carradine, Michael Madsen","Action, Crime, Thriller",8.0
+4,Spider-Man 2,2004,127.0,Sam Raimi,"Tobey Maguire, Kirsten Dunst, Alfred Molina","Action, Adventure, Sci-Fi",7.5
+5,Million Dollar Baby,2004,132.0,Clint Eastwood,"Hilary Swank, Clint Eastwood, Morgan Freeman","Drama, Sport",8.1
+6,Harry Potter and the Prisoner of Azkaban,2004,142.0,Alfonso Cuarón,"Daniel Radcliffe, Emma Watson, Rupert Grint","Adventure, Family, Fantasy",7.9
+7,The Notebook,2004,123.0,Nick Cassavetes,"Gena Rowlands, James Garner, Rachel McAdams","Drama, Romance",7.8
+8,Shaun of the Dead,2004,99.0,Edgar Wright,"Simon Pegg, Nick Frost, Kate Ashfield","Comedy, Horror",7.9
+9,"I, Robot",2004,115.0,Alex Proyas,"Will Smith, Bridget Moynahan, Bruce Greenwood","Action, Mystery, Sci-Fi",7.1
+10,Troy,2004,163.0,Wolfgang Petersen,"Brad Pitt, Eric Bana, Orlando Bloom","Action, Adventure, Drama",7.3
+11,The Butterfly Effect,2004,113.0,"Eric Bress, J. Mackye Gruber","Ashton Kutcher, Amy Smart, Melora Walters","Drama, Sci-Fi, Thriller",7.6
+12,Shrek 2,2004,93.0,"Andrew Adamson, Kelly Asbury, Conrad Vernon","Mike Myers, Eddie Murphy, Cameron Diaz","Animation, Adventure, Comedy",7.4
+13,The Terminal,2004,128.0,Steven Spielberg,"Tom Hanks, Catherine Zeta-Jones, Chi McBride","Comedy, Drama, Romance",7.4
+14,The Bourne Supremacy,2004,108.0,Paul Greengrass,"Matt Damon, Franka Potente, Joan Allen","Action, Thriller",7.7
+15,The Day After Tomorrow,2004,124.0,Roland Emmerich,"Dennis Quaid, Jake Gyllenhaal, Emmy Rossum","Action, Adventure, Sci-Fi",6.5
+16,Saw,2004,103.0,James Wan,"Cary Elwes, Leigh Whannell, Danny Glover","Horror, Mystery, Thriller",7.6
+17,Howl's Moving Castle,2004,119.0,Hayao Miyazaki,"Chieko Baishô, Takuya Kimura, Tatsuya Gashûin","Animation, Adventure, Family",8.2
+18,Mean Girls,2004,97.0,Mark Waters,"Lindsay Lohan, Jonathan Bennett, Rachel McAdams",Comedy,7.1
+19,Crash,2004,112.0,Paul Haggis,"Don Cheadle, Sandra Bullock, Thandiwe Newton","Crime, Drama, Thriller",7.7
+20,Collateral,2004,120.0,Michael Mann,"Tom Cruise, Jamie Foxx, Jada Pinkett Smith","Action, Crime, Drama",7.5
+21,The Machinist,2004,101.0,Brad Anderson,"Christian Bale, Jennifer Jason Leigh, Aitana Sánchez-Gijón","Drama, Thriller",7.6
+22,Ocean's Twelve,2004,125.0,Steven Soderbergh,"George Clooney, Brad Pitt, Julia Roberts","Crime, Thriller",6.5
+23,Man on Fire,2004,146.0,Tony Scott,"Denzel Washington, Christopher Walken, Dakota Fanning","Action, Crime, Drama",7.7
+24,50 First Dates,2004,99.0,Peter Segal,"Adam Sandler, Drew Barrymore, Rob Schneider","Comedy, Drama, Romance",6.8
+25,The Aviator,2004,170.0,Martin Scorsese,"Leonardo DiCaprio, Cate Blanchett, Kate Beckinsale","Biography, Drama",7.5
+26,Anchorman: The Legend of Ron Burgundy,2004,94.0,Adam McKay,"Will Ferrell, Christina Applegate, Steve Carell",Comedy,7.1
+27,Downfall,2004,156.0,Oliver Hirschbiegel,"Bruno Ganz, Alexandra Maria Lara, Ulrich Matthes","Biography, Drama, History",8.2
+28,Hotel Rwanda,2004,121.0,Terry George,"Don Cheadle, Sophie Okonedo, Joaquin Phoenix","Biography, Drama, History",8.1
+29,National Treasure,2004,131.0,Jon Turteltaub,"Nicolas Cage, Diane Kruger, Justin Bartha","Action, Adventure, Mystery",6.9
+30,Hellboy,2004,122.0,Guillermo del Toro,"Ron Perlman, Doug Jones, Selma Blair","Action, Adventure, Fantasy",6.9
+31,Before Sunset,2004,80.0,Richard Linklater,"Ethan Hawke, Julie Delpy, Vernon Dobtcheff","Drama, Romance",8.1
+32,Van Helsing,2004,131.0,Stephen Sommers,"Hugh Jackman, Kate Beckinsale, Richard Roxburgh","Action, Adventure, Fantasy",6.1
+33,Meet the Fockers,2004,115.0,Jay Roach,"Ben Stiller, Robert De Niro, Blythe Danner","Comedy, Romance",6.4
+34,The Village,2004,108.0,M. Night Shyamalan,"Sigourney Weaver, William Hurt, Joaquin Phoenix","Drama, Mystery, Thriller",6.6
+35,Dawn of the Dead,2004,101.0,Zack Snyder,"Sarah Polley, Ving Rhames, Mekhi Phifer","Action, Horror",7.2
+36,Dodgeball: A True Underdog Story,2004,92.0,Rawson Marshall Thurber,"Ben Stiller, Christine Taylor, Vince Vaughn","Comedy, Sport",6.7
+37,The Passion of the Christ,2004,127.0,Mel Gibson,"Jim Caviezel, Monica Bellucci, Maia Morgenstern",Drama,7.2
+38,The Polar Express,2004,100.0,Robert Zemeckis,"Tom Hanks, Chris Coppola, Michael Jeter","Animation, Adventure, Family",6.6
+39,The Girl Next Door,2004,109.0,Luke Greenfield,"Emile Hirsch, Elisha Cuthbert, Timothy Olyphant","Comedy, Drama, Romance",6.7
+40,The Chronicles of Riddick,2004,119.0,David Twohy,"Vin Diesel, Judi Dench, Colm Feore","Action, Adventure, Sci-Fi",6.6
+41,Napoleon Dynamite,2004,96.0,Jared Hess,"Jon Heder, Efren Ramirez, Jon Gries",Comedy,7.0
+42,Closer,2004,104.0,Mike Nichols,"Natalie Portman, Jude Law, Clive Owen","Drama, Romance",7.2
+43,EuroTrip,2004,92.0,"Jeff Schaffer, Alec Berg, David Mandel","Scott Mechlowicz, Jacob Pitts, Michelle Trachtenberg",Comedy,6.6
+44,13 Going on 30,2004,98.0,Gary Winick,"Jennifer Garner, Mark Ruffalo, Judy Greer","Comedy, Fantasy, Romance",6.3
+45,A Series of Unfortunate Events,2004,108.0,Brad Silberling,"Jim Carrey, Jude Law, Meryl Streep","Adventure, Comedy, Family",6.8
+46,Garden State,2004,102.0,Zach Braff,"Zach Braff, Peter Sarsgaard, Natalie Portman","Comedy, Drama, Romance",7.4
+47,Alien vs. Predator,2004,101.0,Paul W.S. Anderson,"Sanaa Lathan, Lance Henriksen, Raoul Bova","Action, Adventure, Horror",5.7
+48,The Life Aquatic with Steve Zissou,2004,119.0,Wes Anderson,"Bill Murray, Owen Wilson, Anjelica Huston","Action, Adventure, Comedy",7.2
+49,Secret Window,2004,96.0,David Koepp,"Johnny Depp, Maria Bello, John Turturro","Drama, Mystery, Thriller",6.5
+50,Resident Evil: Apocalypse,2004,94.0,Alexander Witt,"Milla Jovovich, Sienna Guillory, Eric Mabius","Action, Horror, Sci-Fi",6.1
+51,Finding Neverland,2004,106.0,Marc Forster,"Johnny Depp, Kate Winslet, Julie Christie","Biography, Drama, Family",7.6
+52,Harold & Kumar Go to White Castle,2004,88.0,Danny Leiner,"John Cho, Kal Penn, Ethan Embry","Adventure, Comedy",7.0
+53,Sideways,2004,127.0,Alexander Payne,"Paul Giamatti, Thomas Haden Church, Virginia Madsen","Comedy, Drama, Romance",7.5
+54,Shark Tale,2004,90.0,"Bibo Bergeron, Vicky Jenson, Rob Letterman","Will Smith, Robert De Niro, Renée Zellweger","Animation, Adventure, Comedy",6.0
+55,Layer Cake,2004,105.0,Matthew Vaughn,"Daniel Craig, Sienna Miller, Michael Gambon","Crime, Drama, Thriller",7.2
+56,Blade: Trinity,2004,113.0,David S. Goyer,"Wesley Snipes, Kris Kristofferson, Parker Posey","Action, Horror, Sci-Fi",5.8
+57,Team America: World Police,2004,98.0,Trey Parker,"Trey Parker, Matt Stone, Kristen Miller","Action, Comedy",7.2
+58,Alexander,2004,175.0,Oliver Stone,"Colin Farrell, Anthony Hopkins, Rosario Dawson","Action, Biography, Drama",5.6
+59,King Arthur,2004,126.0,Antoine Fuqua,"Clive Owen, Stephen Dillane, Keira Knightley","Action, Adventure, Drama",6.3
+60,White Chicks,2004,109.0,Keenen Ivory Wayans,"Marlon Wayans, Shawn Wayans, Busy Philipps","Comedy, Crime",5.9
+61,The Punisher,2004,124.0,Jonathan Hensleigh,"Thomas Jane, John Travolta, Samantha Mathis","Action, Crime, Drama",6.4
+62,Ray,2004,152.0,Taylor Hackford,"Jamie Foxx, Regina King, Kerry Washington","Biography, Drama, Music",7.7
+63,Starsky & Hutch,2004,101.0,Todd Phillips,"Ben Stiller, Owen Wilson, Snoop Dogg","Comedy, Crime",6.1
+64,Kung Fu Hustle,2004,99.0,Stephen Chow,"Stephen Chow, Wah Yuen, Qiu Yuen","Action, Comedy, Fantasy",7.7
+65,The Grudge,2004,91.0,Takashi Shimizu,"Sarah Michelle Gellar, Jason Behr, Clea DuVall","Horror, Mystery, Thriller",5.9
+66,Along Came Polly,2004,90.0,John Hamburg,"Ben Stiller, Jennifer Aniston, Debra Messing","Comedy, Romance",6.0
+67,The Phantom of the Opera,2004,143.0,Joel Schumacher,"Gerard Butler, Emmy Rossum, Patrick Wilson","Drama, Musical, Romance",7.2
+68,Fahrenheit 9/11,2004,122.0,Michael Moore,"Michael Moore, George W. Bush, Ben Affleck","Documentary, Drama, War",7.5
+69,Bridget Jones: The Edge of Reason,2004,108.0,Beeban Kidron,"Renée Zellweger, Colin Firth, Hugh Grant","Comedy, Drama, Romance",6.0
+70,Catwoman,2004,104.0,Pitof,"Halle Berry, Sharon Stone, Benjamin Bratt","Action, Crime, Fantasy",3.4
+71,The Manchurian Candidate,2004,129.0,Jonathan Demme,"Denzel Washington, Liev Schreiber, Meryl Streep","Drama, Mystery, Sci-Fi",6.6
+72,Primer,2004,77.0,Shane Carruth,"Shane Carruth, David Sullivan, Casey Gooden","Drama, Sci-Fi, Thriller",6.7
+73,House of Flying Daggers,2004,119.0,Yimou Zhang,"Ziyi Zhang, Takeshi Kaneshiro, Andy Lau","Action, Adventure, Drama",7.5
+74,Super Size Me,2004,100.0,Morgan Spurlock,"Morgan Spurlock, Daryl Isaacs, Chemeeka Walker",Documentary,7.2
+75,Walking Tall,2004,86.0,Kevin Bray,"Dwayne Johnson, Ashley Scott, Johnny Knoxville","Action, Crime",6.3
+76,The Ladykillers,2004,104.0,"Ethan Coen, Joel Coen","Tom Hanks, Marlon Wayans, Irma P. Hall","Comedy, Crime, Thriller",6.2
+77,Cellular,2004,94.0,David R. Ellis,"Kim Basinger, Chris Evans, Jason Statham","Action, Crime, Thriller",6.5
+78,The SpongeBob SquarePants Movie,2004,87.0,"Stephen Hillenburg, Mark Osborne","Tom Kenny, Jeffrey Tambor, Rodger Bumpass","Animation, Adventure, Comedy",7.2
+79,The Motorcycle Diaries,2004,126.0,Walter Salles,"Gael García Bernal, Rodrigo de la Serna, Mía Maestro","Adventure, Biography, Drama",7.7
+80,Swades,2004,189.0,Ashutosh Gowariker,"Shah Rukh Khan, Gayatri Joshi, Kishori Ballal","Drama, Musical",8.2
+81,Taking Lives,2004,103.0,D.J. Caruso,"Angelina Jolie, Ethan Hawke, Kiefer Sutherland","Crime, Mystery, Thriller",6.2
+82,A Cinderella Story,2004,95.0,Mark Rosman,"Hilary Duff, Chad Michael Murray, Jennifer Coolidge","Comedy, Family, Romance",5.9
+83,Garfield: The Movie,2004,80.0,Peter Hewitt,"Breckin Meyer, Jennifer Love Hewitt, Stephen Tobolowsky","Adventure, Comedy, Family",5.1
+84,Around the World in 80 Days,2004,120.0,Frank Coraci,"Jackie Chan, Steve Coogan, Jim Broadbent","Action, Adventure, Comedy",5.9
+85,The Princess Diaries 2: Royal Engagement,2004,113.0,Garry Marshall,"Anne Hathaway, Callum Blue, Julie Andrews","Comedy, Family, Romance",5.9
+86,Spanglish,2004,131.0,James L. Brooks,"Adam Sandler, Téa Leoni, Paz Vega","Comedy, Drama, Romance",6.4
+87,Sky Captain and the World of Tomorrow,2004,106.0,Kerry Conran,"Gwyneth Paltrow, Jude Law, Angelina Jolie","Action, Adventure, Mystery",6.1
+88,Hidalgo,2004,136.0,Joe Johnston,"Viggo Mortensen, Omar Sharif, Zuleikha Robinson","Action, Adventure, Biography",6.7
+89,The Sea Inside,2004,126.0,Alejandro Amenábar,"Javier Bardem, Belén Rueda, Lola Dueñas","Biography, Drama",8.0
+90,Mysterious Skin,2004,105.0,Gregg Araki,"Brady Corbet, Joseph Gordon-Levitt, Elisabeth Shue",Drama,7.6
+91,Ella Enchanted,2004,96.0,Tommy O'Haver,"Anne Hathaway, Hugh Dancy, Cary Elwes","Comedy, Family, Fantasy",6.3
+92,A Very Long Engagement,2004,133.0,Jean-Pierre Jeunet,"Audrey Tautou, Gaspard Ulliel, Jodie Foster","Drama, Mystery, Romance",7.6
+93,District B13,2004,84.0,Pierre Morel,"Cyril Raffaelli, David Belle, Tony D'Amario","Action, Crime, Sci-Fi",7.1
+94,Jersey Girl,2004,102.0,Kevin Smith,"Ben Affleck, Liv Tyler, Raquel Castro","Comedy, Drama, Romance",6.2
+95,The Stepford Wives,2004,93.0,Frank Oz,"Nicole Kidman, Bette Midler, Matthew Broderick","Comedy, Horror, Sci-Fi",5.4
+96,The Forgotten,2004,91.0,Joseph Ruben,"Julianne Moore, Dominic West, Christopher Kovaleski","Drama, Mystery, Sci-Fi",5.8
+97,The Chorus,2004,97.0,Christophe Barratier,"Gérard Jugnot, François Berléand, Jean-Baptiste Maunier","Drama, Music",7.8
+98,G.O.R.A.,2004,127.0,Ömer Faruk Sorak,"Cem Yilmaz, Özge Özberk, Ozan Güven","Adventure, Comedy, Sci-Fi",8.0
+99,Friday Night Lights,2004,118.0,Peter Berg,"Billy Bob Thornton, Jay Hernandez, Derek Luke","Action, Drama, Sport",7.2
+100,Scooby-Doo 2: Monsters Unleashed,2004,93.0,Raja Gosnell,"Freddie Prinze Jr., Sarah Michelle Gellar, Matthew Lillard","Adventure, Comedy, Family",5.3
+101,Wimbledon,2004,98.0,Richard Loncraine,"Kirsten Dunst, Paul Bettany, Jon Favreau","Comedy, Romance, Sport",6.3
+102,I Heart Huckabees,2004,107.0,David O. Russell,"Jason Schwartzman, Jude Law, Naomi Watts",Comedy,6.5
+103,Mindhunters,2004,106.0,Renny Harlin,"Val Kilmer, LL Cool J, Christian Slater","Crime, Horror, Thriller",6.3
+104,Bad Education,2004,106.0,Pedro Almodóvar,"Gael García Bernal, Fele Martínez, Javier Cámara","Crime, Drama",7.4
+105,2046,2004,129.0,Wong Kar-Wai,"Tony Leung Chiu-wai, Ziyi Zhang, Faye Wong","Drama, Romance, Sci-Fi",7.4
+106,Christmas with the Kranks,2004,99.0,Joe Roth,"Tim Allen, Jamie Lee Curtis, Dan Aykroyd","Comedy, Family",5.5
+107,Miracle,2004,135.0,Gavin O'Connor,"Kurt Russell, Patricia Clarkson, Nathan West","Biography, Drama, History",7.5
+108,Dead Man's Shoes,2004,90.0,Shane Meadows,"Paddy Considine, Gary Stretch, Toby Kebbell","Crime, Drama, Thriller",7.5
+109,Ladder 49,2004,115.0,Jay Russell,"Joaquin Phoenix, John Travolta, Jacinda Barrett","Action, Drama, Thriller",6.5
+110,3-Iron,2004,88.0,Kim Ki-duk,"Lee Seung-yun, Jae Hee, Hyuk-ho Kwon","Crime, Drama, Romance",7.9
+111,Wicker Park,2004,114.0,Paul McGuigan,"Josh Hartnett, Diane Kruger, Matthew Lillard","Drama, Mystery, Romance",6.9
+112,Veer-Zaara,2004,192.0,Yash Chopra,"Shah Rukh Khan, Preity G Zinta, Rani Mukerji","Drama, Family, Musical",7.8
+113,The Whole Ten Yards,2004,98.0,Howard Deutch,"Bruce Willis, Matthew Perry, Natasha Henstridge","Comedy, Crime, Thriller",5.5
+114,Head-On,2004,121.0,Fatih Akin,"Birol Ünel, Sibel Kekilli, Güven Kiraç","Drama, Romance",7.8
+115,Flight of the Phoenix,2004,113.0,John Moore,"Dennis Quaid, Miranda Otto, Giovanni Ribisi","Action, Adventure, Drama",6.1
+116,In Good Company,2004,109.0,Paul Weitz,"Dennis Quaid, Topher Grace, Scarlett Johansson","Comedy, Drama, Romance",6.5
+117,Night Watch,2004,114.0,Timur Bekmambetov,"Konstantin Khabensky, Vladimir Menshov, Mariya Poroshina","Action, Fantasy, Horror",6.4
+118,Alfie,2004,103.0,Charles Shyer,"Jude Law, Sienna Miller, Susan Sarandon","Comedy, Drama, Romance",6.2
+119,Without a Paddle,2004,95.0,Steven Brill,"Matthew Lillard, Seth Green, Dax Shepard","Adventure, Comedy, Mystery",5.8
+120,Seed of Chucky,2004,87.0,Don Mancini,"Jennifer Tilly, Brad Dourif, John Waters","Comedy, Horror, Thriller",4.9
+121,Kinsey,2004,118.0,Bill Condon,"Liam Neeson, Laura Linney, Chris O'Donnell","Biography, Drama, Romance",7.0
+122,Shutter,2004,97.0,"Banjong Pisanthanakun, Parkpoom Wongpoom","Ananda Everingham, Natthaweeranuch Thongmee, Achita Sikamana","Horror, Mystery, Thriller",7.0
+123,Shall We Dance?,2004,106.0,Peter Chelsom,"Richard Gere, Jennifer Lopez, Susan Sarandon","Comedy, Drama, Music",6.2
+124,After the Sunset,2004,97.0,Brett Ratner,"Pierce Brosnan, Salma Hayek, Woody Harrelson","Action, Comedy, Crime",6.2
+125,Saved!,2004,92.0,Brian Dannelly,"Jena Malone, Mandy Moore, Macaulay Culkin","Comedy, Drama",6.7
+126,Taxi,2004,97.0,Tim Story,"Queen Latifah, Jimmy Fallon, Gisele Bündchen","Action, Comedy, Crime",4.6
+127,Cube Zero,2004,97.0,Ernie Barbarash,"Zachary Bennett, Stephanie Moore, Martin Roach","Drama, Mystery, Sci-Fi",5.6
+128,Birth,2004,100.0,Jonathan Glazer,"Nicole Kidman, Cameron Bright, Lauren Bacall","Drama, Fantasy, Mystery",6.3
+129,The Prince and Me,2004,111.0,Martha Coolidge,"Julia Stiles, Luke Mably, Miranda Richardson","Comedy, Family, Romance",5.9
+130,Main Hoon Na,2004,182.0,Farah Khan,"Shah Rukh Khan, Sushmita Sen, Suniel Shetty","Action, Comedy, Drama",7.1
+131,Tae Guk Gi: The Brotherhood of War,2004,140.0,Kang Je-kyu,"Jang Dong-gun, Won Bin, Lee Eun-ju","Action, Drama, War",8.0
+132,Chasing Liberty,2004,111.0,Andy Cadiff,"Mandy Moore, Matthew Goode, Mark Harmon","Comedy, Romance",6.1
+133,Ghost in the Shell 2: Innocence,2004,100.0,"Mamoru Oshii, Naoko Kusumi, Mizuho Nishikubo","Akio Ôtsuka, Atsuko Tanaka, Tamio Ôki","Animation, Drama, Mystery",7.4
+134,Exorcist: The Beginning,2004,114.0,Renny Harlin,"Stellan Skarsgård, Izabella Scorupco, James D'Arcy","Horror, Mystery, Thriller",5.1
+135,The Merchant of Venice,2004,131.0,Michael Radford,"Al Pacino, Joseph Fiennes, Lynn Collins","Drama, Romance",7.0
+136,Raising Helen,2004,119.0,Garry Marshall,"Kate Hudson, John Corbett, Joan Cusack","Comedy, Drama, Romance",6.0
+137,The Libertine,2004,114.0,Laurence Dunmore,"Johnny Depp, Samantha Morton, John Malkovich","Biography, Drama, History",6.2
+138,Maria Full of Grace,2004,101.0,Joshua Marston,"Catalina Sandino Moreno, Guilied Lopez, Orlando Tobón","Crime, Drama",7.4
+139,The Woodsman,2004,87.0,Nicole Kassell,"Kevin Bacon, Kyra Sedgwick, Yasiin Bey",Drama,7.1
+140,Anacondas: The Hunt for the Blood Orchid,2004,97.0,Dwight H. Little,"Morris Chestnut, KaDee Strickland, Eugene Byrd","Action, Adventure, Horror",4.7
+141,The Final Cut,2004,95.0,Omar Naim,"Robin Williams, Jim Caviezel, Mira Sorvino","Drama, Sci-Fi, Thriller",6.1
+142,If Only,2004,92.0,Gil Junger,"Jennifer Love Hewitt, Paul Nicholls, Tom Wilkinson","Comedy, Drama, Fantasy",7.0
+143,Mean Creek,2004,90.0,Jacob Estes,"Rory Culkin, Ryan Kelley, Scott Mechlowicz","Crime, Drama",7.1
+144,Spartan,2004,106.0,David Mamet,"Val Kilmer, Derek Luke, William H. Macy","Action, Crime, Drama",6.5
+145,The Football Factory,2004,91.0,Nick Love,"Danny Dyer, Frank Harper, Tamer Hassan","Crime, Drama, Sport",6.7
+146,Melinda and Melinda,2004,99.0,Woody Allen,"Will Ferrell, Vinessa Shaw, Chiwetel Ejiofor","Comedy, Drama, Romance",6.4
+147,Nobody Knows,2004,141.0,Hirokazu Koreeda,"Yûya Yagira, Ayu Kitaura, Hiei Kimura",Drama,8.0
+148,Creep,2004,85.0,Christopher Smith,"Franka Potente, Sean Harris, Vas Blackwood","Horror, Mystery, Thriller",5.6
+149,Envy,2004,99.0,Barry Levinson,"Ben Stiller, Jack Black, Rachel Weisz",Comedy,4.8
+150,The Edukators,2004,127.0,Hans Weingartner,"Daniel Brühl, Julia Jentsch, Stipe Erceg","Drama, Romance",7.4
+151,Confessions of a Teenage Drama Queen,2004,89.0,Sara Sugarman,"Lindsay Lohan, Megan Fox, Adam Garcia","Comedy, Family, Music",4.7
+152,Club Dread,2004,104.0,Jay Chandrasekhar,"Jay Chandrasekhar, Bill Paxton, Kevin Heffernan","Comedy, Horror, Mystery",5.7
+153,Superbabies: Baby Geniuses 2,2004,88.0,Bob Clark,"Jon Voight, Scott Baio, Vanessa Angel","Comedy, Family, Sci-Fi",1.5
+154,Speak,2004,89.0,Jessica Sharzer,"Kristen Stewart, Elizabeth Perkins, Richard Hagerman",Drama,7.2
+155,Win a Date with Tad Hamilton!,2004,95.0,Robert Luketic,"Kate Bosworth, Josh Duhamel, Topher Grace","Comedy, Romance",5.6
+156,Dirty Dancing: Havana Nights,2004,86.0,Guy Ferland,"Diego Luna, Romola Garai, Sela Ward","Drama, Music, Romance",5.9
+157,Torque,2004,84.0,Joseph Kahn,"Martin Henderson, Ice Cube, Monet Mazur","Action, Comedy, Crime",4.1
+158,New Police Story,2004,123.0,Benny Chan,"Jackie Chan, Nicholas Tse, Charlie Yeung","Action, Crime, Thriller",6.9
+159,First Daughter,2004,106.0,Forest Whitaker,"Katie Holmes, Marc Blucas, Michael Keaton","Comedy, Drama, Romance",5.2
+160,Surviving Christmas,2004,91.0,Mike Mitchell,"Ben Affleck, Christina Applegate, James Gandolfini","Comedy, Romance",5.5
+161,Raise Your Voice,2004,103.0,Sean McNamara,"Hilary Duff, John Corbett, Rebecca De Mornay","Family, Music, Musical",5.8
+162,You Got Served,2004,95.0,Chris Stokes,"Omarion, Jarell Houston, Raz B","Drama, Music",3.9
+163,Vera Drake,2004,125.0,Mike Leigh,"Imelda Staunton, Jim Broadbent, Heather Craney","Crime, Drama",7.6
+164,A Love Song for Bobby Long,2004,119.0,Shainee Gabel,"Scarlett Johansson, John Travolta, Gabriel Macht",Drama,7.1
+165,Home on the Range,2004,76.0,"Will Finn, John Sanford","Judi Dench, Cuba Gooding Jr., Jennifer Tilly","Animation, Adventure, Comedy",5.4
+166,Pusher II,2004,100.0,Nicolas Winding Refn,"Mads Mikkelsen, Leif Sylvester, Anne Sørensen","Action, Crime, Drama",7.3
+167,Godsend,2004,102.0,Nick Hamm,"Robert De Niro, Greg Kinnear, Rebecca Romijn","Action, Drama, Fantasy",4.8
+168,Lakshya,2004,186.0,Farhan Akhtar,"Hrithik Roshan, Preity G Zinta, Amitabh Bachchan","Action, Drama, Romance",7.8
+169,The Perfect Score,2004,93.0,Brian Robbins,"Scarlett Johansson, Erika Christensen, Chris Evans","Comedy, Crime, Drama",5.7
+170,Millions,2004,98.0,Danny Boyle,"Alex Etel, James Nesbitt, Daisy Donovan","Comedy, Crime, Drama",6.8
+171,A Moment to Remember,2004,117.0,"Park Kyung-Jin, John H. Lee, Kim Tae-won","Jung Woo-sung, Son Ye-jin, Baek Jong-hak","Drama, Romance",8.1
+172,The Assassination of Richard Nixon,2004,95.0,Niels Mueller,"Sean Penn, Naomi Watts, Don Cheadle","Biography, Crime, Drama",6.9
+173,New York Minute,2004,91.0,Dennie Gordon,"Mary-Kate Olsen, Ashley Olsen, Eugene Levy","Adventure, Comedy, Crime",5.0
+174,Soul Plane,2004,86.0,Jessy Terrero,"Dwayne Adway, Snoop Dogg, Tom Arnold",Comedy,4.6
+175,Laws of Attraction,2004,90.0,Peter Howitt,"Pierce Brosnan, Julianne Moore, Parker Posey","Comedy, Romance",5.9
+176,9 Songs,2004,71.0,Michael Winterbottom,"Kieran O'Brien, Margo Stilley, Robert Levon Been","Drama, Music, Romance",4.8
+177,Twisted,2004,97.0,Philip Kaufman,"Ashley Judd, Samuel L. Jackson, Andy Garcia","Crime, Drama, Mystery",5.3
+178,Vanity Fair,2004,141.0,Mira Nair,"Reese Witherspoon, Romola Garai, James Purefoy",Drama,6.2
+179,Dhoom,2004,129.0,Sanjay Gadhvi,"Abhishek Bachchan, John Abraham, Uday Chopra","Action, Crime, Drama",6.6
+180,The Lizard,2004,115.0,Kamal Tabrizi,"Parviz Parastui, Bahram Ebrahimi, Reza Saeedi","Comedy, Drama",8.4
+181,The Alamo,2004,137.0,John Lee Hancock,"Dennis Quaid, Billy Bob Thornton, Emilio Echevarría","Drama, History, War",6.1
+182,Dear Frankie,2004,105.0,Shona Auerbach,"Emily Mortimer, Jack McElhone, Gerard Butler","Drama, Romance",7.7
+183,Black Friday,2004,143.0,Anurag Kashyap,"Kay Kay Menon, Pawan Malhotra, Aditya Srivastav","Action, Crime, Drama",8.4
+184,My Summer of Love,2004,86.0,Pawel Pawlikowski,"Natalie Press, Emily Blunt, Paddy Considine","Drama, Romance",6.7
+185,Crimson Rivers 2: Angels of the Apocalypse,2004,100.0,Olivier Dahan,"Jean Reno, Benoît Magimel, Christopher Lee","Action, Crime, Mystery",5.9
+186,Bride & Prejudice,2004,122.0,Gurinder Chadha,"Martin Henderson, Aishwarya Rai Bachchan, Nadira Babbar","Comedy, Drama, Musical",6.2
+187,Immortal,2004,103.0,Enki Bilal,"Linda Hardy, Thomas Kretschmann, Charlotte Rampling","Drama, Sci-Fi, Thriller",5.9
+188,Suspect Zero,2004,99.0,E. Elias Merhige,"Aaron Eckhart, Ben Kingsley, Carrie-Anne Moss","Crime, Horror, Mystery",5.8
+189,Turtles Can Fly,2004,98.0,Bahman Ghobadi,"Soran Ebrahim, Avaz Latif, Hiresh Feysal Rahman","Drama, War",8.0
+190,Three... Extremes,2004,125.0,"Fruit Chan, Park Chan-wook, Takashi Miike","Bai Ling, Lee Byung-hun, Kyôko Hasegawa",Horror,6.9
+191,It's All Gone Pete Tong,2004,90.0,Michael Dowse,"Paul Kaye, Beatriz Batarda, Kate Magowan","Biography, Comedy, Drama",7.2
+192,Metallica: Some Kind of Monster,2004,84.0,"Joe Berlinger, Bruce Sinofsky","James Hetfield, Kirk Hammett, Lars Ulrich","Documentary, Music",7.5
+193,The Consequences of Love,2004,100.0,Paolo Sorrentino,"Toni Servillo, Olivia Magnani, Adriano Giannini","Crime, Drama, Romance",7.5
+194,Little Black Book,2004,107.0,Nick Hurran,"Brittany Murphy, Ron Livingston, Holly Hunter","Comedy, Drama, Romance",5.3
+195,Steamboy,2004,126.0,"Shinji Takagi, Katsuhiro Ôtomo","Anna Paquin, Patrick Stewart, Alfred Molina","Animation, Action, Adventure",6.8
+196,The Big Bounce,2004,88.0,George Armitage,"Owen Wilson, Morgan Freeman, Gary Sinise","Comedy, Crime",4.9
+197,36th Precinct,2004,111.0,Olivier Marchal,"Daniel Auteuil, Gérard Depardieu, André Dussollier","Action, Crime, Drama",7.1
+198,D.E.B.S.,2004,91.0,Angela Robinson,"Sara Foster, Jordana Brewster, Devon Aoki","Action, Comedy, Romance",5.4
+199,Appleseed,2004,101.0,Shinji Aramaki,"Ai Kobayashi, Jûrôta Kosugi, Yuki Matsuoka","Animation, Action, Adventure",6.9
+200,As It Is in Heaven,2004,133.0,Kay Pollak,"Michael Nyqvist, Frida Hallgren, Helen Sjöholm","Comedy, Drama, Music",7.5
+201,Sleepover,2004,89.0,Joe Nussbaum,"Alexa PenaVega, Mika Boorem, Scout Taylor-Compton","Comedy, Family, Romance",5.3
+202,Before the Fall,2004,110.0,Dennis Gansel,"Max Riemelt, Tom Schilling, Devid Striesow","Drama, Sport, Thriller",7.4
+203,Born Into Brothels: Calcutta's Red Light Kids,2004,85.0,"Zana Briski, Ross Kauffman","Kochi, Avijit Halder, Shanti Das","Documentary, Biography, News",7.2
+204,Ghilli,2004,160.0,Dharani,"Joseph Vijay, Trisha Krishnan, Prakash Raj","Action, Drama, Romance",8.2
+205,Mujhse Shaadi Karogi,2004,163.0,David Dhawan,"Salman Khan, Akshay Kumar, Priyanka Chopra Jonas","Comedy, Romance",6.7
+206,(T)Raumschiff Surprise - Periode 1,2004,87.0,Michael Herbig,"Michael Herbig, Rick Kavanian, Christian Tramitz","Comedy, Sci-Fi",5.5
+207,Khakee,2004,174.0,Rajkumar Santoshi,"Amitabh Bachchan, Akshay Kumar, Ajay Devgn","Action, Crime, Drama",7.4
+208,Barbershop 2: Back in Business,2004,106.0,Kevin Rodney Sullivan,"Ice Cube, Cedric The Entertainer, Eve","Comedy, Drama",5.7
+209,Agent Cody Banks 2: Destination London,2004,100.0,Kevin Allen,"Frankie Muniz, Anthony Anderson, Hannah Spearritt","Action, Adventure, Comedy",4.6
+210,The Door in the Floor,2004,111.0,Tod Williams,"Jeff Bridges, Kim Basinger, Jon Foster","Comedy, Drama",6.6
+211,Rory O'Shea Was Here,2004,104.0,Damien O'Donnell,"James McAvoy, Steven Robertson, Romola Garai","Comedy, Drama",7.7
+212,Two Brothers,2004,109.0,Jean-Jacques Annaud,"Guy Pearce, Freddie Highmore, Jean-Claude Dreyfus","Adventure, Drama, Family",7.0
+213,Head in the Clouds,2004,132.0,John Duigan,"Charlize Theron, Stuart Townsend, Penélope Cruz","Drama, Romance, War",6.5
+214,Ginger Snaps 2: Unleashed,2004,94.0,Brett Sullivan,"Emily Perkins, Brendan Fletcher, Katharine Isabelle","Horror, Thriller",6.4
+215,Paparazzi,2004,84.0,Paul Abascal,"Cole Hauser, Robin Tunney, Dennis Farina","Action, Crime, Drama",5.7
+216,Beyond the Sea,2004,118.0,Kevin Spacey,"Kevin Spacey, Kate Bosworth, John Goodman","Biography, Drama, Music",6.7
+217,The Place Promised in Our Early Days,2004,90.0,"Makoto Shinkai, Yoshio Suzuki","Hidetaka Yoshioka, Masato Hagiwara, Yuka Nanri","Animation, Drama, Romance",6.8
+218,RRRrrrr!!!,2004,98.0,Alain Chabat,"Marina Foïs, Gérard Depardieu, Damien Jouillerot","Comedy, Crime, Mystery",5.8
+219,Hum Tum,2004,143.0,Kunal Kohli,"Saif Ali Khan, Rani Mukerji, Kirron Kher","Comedy, Drama, Romance",7.0
+220,The Life and Death of Peter Sellers,2004,122.0,Stephen Hopkins,"Geoffrey Rush, Charlize Theron, Emily Watson","Biography, Comedy, Drama",6.9
+221,Mr. 3000,2004,104.0,Charles Stone III,"Bernie Mac, Angela Bassett, Michael Rispoli","Comedy, Drama, Romance",5.6
+222,Daniel the Wizard,2004,81.0,Ulli Lommel,"Daniel Küblböck, Ulli Lommel, Rudolf Waldemar Brem","Comedy, Crime, Fantasy",1.2
+223,Thunderbirds,2004,95.0,Jonathan Frakes,"Bill Paxton, Anthony Edwards, Ben Kingsley","Action, Adventure, Comedy",4.3
+224,Summer Storm,2004,98.0,Marco Kreuzpaintner,"Robert Stadlober, Kostja Ullmann, Miriam Morgenstern","Comedy, Drama, Romance",7.2
+225,Calvaire,2004,88.0,Fabrice du Welz,"Laurent Lucas, Brigitte Lahaie, Gigi Coursigny","Drama, Horror, Thriller",6.1
+226,The Clearing,2004,95.0,Pieter Jan Brugge,"Robert Redford, Willem Dafoe, Helen Mirren","Drama, Mystery, Thriller",5.8
+227,A Good Woman,2004,93.0,Mike Barker,"Helen Hunt, Scarlett Johansson, Tom Wilkinson","Drama, Comedy, Romance",6.4
+228,Saving Face,2004,91.0,Alice Wu,"Joan Chen, Michelle Krusiec, Lynn Chen","Comedy, Drama, Romance",7.4
+229,Samaritan Girl,2004,97.0,Kim Ki-duk,"Lee Eol, Kwak Ji-min, Han Yeo-reum",Drama,7.0
+230,Welcome to Mooseport,2004,110.0,Donald Petrie,"Gene Hackman, Ray Romano, Maura Tierney","Comedy, Romance",5.3
+231,A Home at the End of the World,2004,97.0,Michael Mayer,"Colin Farrell, Dallas Roberts, Robin Wright","Drama, Romance",6.6
+232,What the #$*! Do We (K)now!?,2004,109.0,"William Arntz, Betsy Chasse, Mark Vicente","Marlee Matlin, Elaine Hendrix, John Ross Bowie","Documentary, Comedy, Drama",5.2
+233,Casshern,2004,142.0,Kazuaki Kiriya,"Yûsuke Iseya, Kumiko Asô, Akira Terao","Action, Drama, Fantasy",6.0
+234,A Dirty Shame,2004,89.0,John Waters,"Tracey Ullman, Chris Isaak, Selma Blair",Comedy,5.1
+235,Life Is a Miracle,2004,155.0,Emir Kusturica,"Slavko Stimac, Natasa Tapuskovic, Vesna Trivalic","Comedy, Romance, Music",7.5
+236,Fat Albert,2004,93.0,Joel Zwick,"Kenan Thompson, Kyla Pratt, Omarion","Comedy, Family, Fantasy",4.4
+237,Ferpect Crime,2004,105.0,Álex de la Iglesia,"Guillermo Toledo, Mónica Cervera, Enrique Villén","Comedy, Crime, Thriller",7.0
+238,Ladies in Lavender,2004,104.0,Charles Dance,"Judi Dench, Maggie Smith, Daniel Brühl","Drama, Music, Romance",7.0
+239,Being Julia,2004,104.0,István Szabó,"Annette Bening, Michael Gambon, Maury Chaykin","Comedy, Drama, Romance",7.0
+240,Palindromes,2004,100.0,Todd Solondz,"Jennifer Jason Leigh, Ellen Barkin, Stephen Adly Guirgis","Comedy, Drama",6.7
+241,Where's Firuze?,2004,128.0,Ezel Akay,"Haluk Bilginer, Özcan Deniz, Demet Akbag","Comedy, Music",7.4
+242,Machuca,2004,121.0,Andrés Wood,"Matías Quer, Ariel Mateluna, Manuela Martelli","Biography, Drama, History",7.7
+243,Modigliani,2004,128.0,Mick Davis,"Andy Garcia, Elsa Zylberstein, Omid Djalili","Biography, Drama",7.2
+244,Terkel in Trouble,2004,77.0,"Kresten Vestbjerg Andersen, Thorbjørn Christoffersen, Stefan Fjeldmark","Anders Matthesen, Kim Mattheson, Bill Bailey","Animation, Comedy, Musical",7.1
+245,Renegade,2004,124.0,Jan Kounen,"Vincent Cassel, Michael Madsen, Juliette Lewis","Adventure, Fantasy, Western",5.2
+246,Brothers,2004,117.0,Susanne Bier,"Ulrich Thomsen, Nikolaj Lie Kaas, Connie Nielsen","Drama, War",7.5
+247,De-Lovely,2004,125.0,Irwin Winkler,"Kevin Kline, Ashley Judd, Jonathan Pryce","Biography, Drama, Music",6.6
+248,Ginger Snaps Back: The Beginning,2004,94.0,Grant Harvey,"Katharine Isabelle, Emily Perkins, Nathaniel Arcand","Drama, Horror, Thriller",5.8
+249,"When I Grow Up, I'll Be a Kangaroo",2004,92.0,Radivoje Andric,"Sergej Trifunovic, Marija Karan, Nebojsa Glogovac",Comedy,8.4
+250,Dead Birds,2004,91.0,Alex Turner,"Henry Thomas, Patrick Fugit, Nicki Aycox","Horror, Thriller, Western",5.6
+251,The I Inside,2004,90.0,Roland Suso Richter,"Ryan Phillippe, Sarah Polley, Piper Perabo","Mystery, Sci-Fi, Thriller",6.0
+252,Mind Game,2004,103.0,"Masaaki Yuasa, Kôji Morimoto","Kôji Imada, Sayaka Maeda, Takashi Fujii","Animation, Adventure, Comedy",7.7
+253,Aitraaz,2004,160.0,"Abbas Alibhai Burmawalla, Mastan Alibhai Burmawalla","Akshay Kumar, Kareena Kapoor, Priyanka Chopra Jonas","Drama, Romance, Thriller",6.6
+254,Criminal,2004,87.0,Gregory Jacobs,"John C. Reilly, Diego Luna, Maggie Gyllenhaal","Comedy, Crime, Drama",6.4
+255,Catch That Kid,2004,91.0,Bart Freundlich,"Kristen Stewart, Sam Robards, Jennifer Beals","Adventure, Comedy, Crime",5.2
+256,Riding the Bullet,2004,98.0,Mick Garris,"Jonathan Jackson, David Arquette, Barbara Hershey","Horror, Thriller",5.2
+257,Enduring Love,2004,100.0,Roger Michell,"Rhys Ifans, Daniel Craig, Samantha Morton","Drama, Mystery, Romance",6.3
+258,Noel,2004,96.0,Chazz Palminteri,"Susan Sarandon, Penélope Cruz, Paul Walker",Drama,6.1
+259,Stage Beauty,2004,106.0,Richard Eyre,"Billy Crudup, Claire Danes, Rupert Everett",Drama,7.1
+260,Dumplings,2004,91.0,Fruit Chan,"Bai Ling, Miriam Yeung, Sum-Yeung Wong","Drama, Horror",6.7
+261,Employee of the Month,2004,97.0,Mitch Rouse,"Matt Dillon, Steve Zahn, Christina Applegate","Comedy, Drama",6.1
+262,Five Times Two,2004,90.0,François Ozon,"Valeria Bruni Tedeschi, Stéphane Freiss, Françoise Fabian","Drama, Romance",6.6
+263,Wake of Death,2004,91.0,Philippe Martinez,"Jean-Claude Van Damme, Simon Yam, Philip Tan","Action, Adventure, Drama",5.5
+264,Survive Style 5+,2004,120.0,Gen Sekiguchi,"Tadanobu Asano, Reika Hashimoto, Kyôko Koizumi","Comedy, Fantasy, Horror",7.4
+265,Godzilla: Final Wars,2004,125.0,"Ryûhei Kitamura, Kôji Hashimoto, Shûsuke Kaneko","Masahiro Matsuoka, Rei Kikukawa, Don Frye","Action, Adventure, Fantasy",6.3
+266,We Don't Live Here Anymore,2004,101.0,John Curran,"Mark Ruffalo, Laura Dern, Peter Krause","Drama, Romance",6.2
+267,Imaginary Heroes,2004,111.0,Dan Harris,"Sigourney Weaver, Jeff Daniels, Emile Hirsch",Drama,7.0
+268,House of D,2004,97.0,David Duchovny,"David Duchovny, Téa Leoni, Robin Williams","Comedy, Drama",6.8
+269,Everything About Mustafa,2004,119.0,Çagan Irmak,"Nejat Isler, Fikret Kuskan, Basak Köklükaya","Drama, Thriller",7.5
+270,Hulchul,2004,149.0,Priyadarshan,"Akshaye Khanna, Kareena Kapoor, Amrish Puri","Action, Comedy, Drama",7.1
+271,Ab Tak Chhappan,2004,129.0,Shimit Amin,"Nana Patekar, Revathi, Yashpal Sharma","Crime, Drama",7.8
+272,Highwaymen,2004,80.0,Robert Harmon,"Jim Caviezel, Rhona Mitra, Frankie Faison","Action, Crime, Horror",5.6
+273,Yuva,2004,161.0,Mani Ratnam,"Ajay Devgn, Abhishek Bachchan, Vivek Oberoi","Action, Drama, Thriller",7.3
+274,Undertow,2004,108.0,David Gordon Green,"Jamie Bell, Josh Lucas, Dermot Mulroney","Drama, Thriller",6.5
+275,Der Wixxer,2004,85.0,Tobi Baumann,"Oliver Kalkofe, Bastian Pastewka, Thomas Fritsch","Comedy, Crime, Mystery",6.2
+276,Eulogy,2004,91.0,Michael Clancy,"Ray Romano, Jesse Bradford, Hank Azaria","Comedy, Drama",6.4
+277,Yu-Gi-Oh!: The Movie,2004,90.0,Hatsuki Tsuji,"Dan Green, Eric Stuart, Amy Birnbaum","Animation, Action, Adventure",5.0
+278,Toolbox Murders,2004,95.0,Tobe Hooper,"Angela Bettis, Brent Roam, Marco Rodríguez","Drama, Horror, Mystery",5.3
+279,Cruel Intentions 3,2004,85.0,Scott Ziehl,"Kerr Smith, Kristina Anapau, Nathan Wetherington",Drama,4.6
+280,Connie and Carla,2004,98.0,Michael Lembeck,"Nia Vardalos, Toni Collette, David Duchovny","Comedy, Crime, Music",6.3
+281,Don't Move,2004,125.0,Sergio Castellitto,"Penélope Cruz, Sergio Castellitto, Claudia Gerini","Drama, Romance",7.0
+282,Naruto the Movie: Ninja Clash in the Land of Snow,2004,82.0,Tensai Okamura,"Junko Takeuchi, Chie Nakamura, Noriaki Sugiyama","Animation, Action, Adventure",6.6
+283,Johnson Family Vacation,2004,97.0,Christopher Erskin,"Cedric The Entertainer, Shannon Elizabeth, Shad Moss",Comedy,4.6
+284,Arya,2004,151.0,Sukumar,"Allu Arjun, Anuradha Mehta, Siva Balaji","Action, Comedy, Drama",7.8
+285,Kamikaze Girls,2004,102.0,Tetsuya Nakashima,"Kyôko Fukada, Anna Tsuchiya, Hiroyuki Miyasako",Comedy,7.2
+286,She Hate Me,2004,138.0,Spike Lee,"Anthony Mackie, Kerry Washington, Ellen Barkin","Comedy, Drama",5.3
+287,Virumandi,2004,175.0,Kamal Haasan,"Kamal Haasan, Abhirami, Pasupathy","Action, Crime, Drama",8.4
+288,Innocent Voices,2004,120.0,Luis Mandoki,"Carlos Padilla, Leonor Varela, Xuna Primus","Drama, Thriller, War",7.8
+289,Zombie Nation,2004,81.0,Ulli Lommel,"Gunter Ziegler, Brandon Dean, Axel Montgomery",Horror,1.5
+290,Somersault,2004,106.0,Cate Shortland,"Abbie Cornish, Sam Worthington, Lynette Curran","Drama, Romance",6.7
+291,Simon,2004,102.0,Eddy Terstall,"Cees Geel, Marcel Hensema, Rifka Lodeizen","Comedy, Drama",7.8
+292,Control,2004,104.0,Tim Hunter,"Ray Liotta, Willem Dafoe, Michelle Rodriguez","Action, Crime, Thriller",6.2
+293,Ek Hasina Thi,2004,120.0,Sriram Raghavan,"Saif Ali Khan, Urmila Matondkar, Seema Biswas","Action, Crime, Drama",7.5
+294,Wild Things 2,2004,95.0,Jack Perez,"Susan Ward, Katie Stuart, Leila Arcieri","Crime, Drama, Mystery",4.5
+295,In My Father's Den,2004,127.0,Brad McGann,"Matthew Macfadyen, Miranda Otto, Emily Barclay","Drama, Mystery, Thriller",7.4
+296,Ma mère,2004,110.0,Christophe Honoré,"Isabelle Huppert, Louis Garrel, Emma de Caunes","Drama, Romance",5.0
+297,Windstruck,2004,123.0,Jae-young Kwak,"Jun Ji-hyun, Jang Hyuk, Kim Soo-ro","Comedy, Crime, Drama",7.1
+298,Arsène Lupin,2004,125.0,Jean-Paul Salomé,"Romain Duris, Kristin Scott Thomas, Pascal Greggory","Action, Adventure, Crime",5.4
+299,Eros,2004,104.0,"Michelangelo Antonioni, Wong Kar-Wai, Steven Soderbergh","Robert Downey Jr., Alan Arkin, Gong Li","Drama, Romance",5.9
+300,Against the Ropes,2004,111.0,Charles S. Dutton,"Meg Ryan, Omar Epps, Charles S. Dutton","Biography, Drama, Romance",5.3
+301,The Taste of Tea,2004,143.0,Katsuhito Ishii,"Maya Banno, Takahiro Satô, Tadanobu Asano","Comedy, Fantasy",7.6
+302,A Fond Kiss,2004,104.0,Ken Loach,"Atta Yaqub, Eva Birthistle, Ahmad Riaz","Drama, Romance",7.1
+303,The Hidden Blade,2004,132.0,Yôji Yamada,"Masatoshi Nagase, Takako Matsu, Hidetaka Yoshioka","Drama, History, Romance",7.6
+304,The Heart Is Deceitful Above All Things,2004,97.0,Asia Argento,"Asia Argento, Dylan Sprouse, Cole Sprouse",Drama,6.2
+305,Wacky Class Welcome,2004,118.0,Kartal Tibet,"Halit Akçatepe, Hülya Koçyigit, Mehmet Ali Erbil",Comedy,3.3
+306,Masti,2004,166.0,Indra Kumar,"Ajay Devgn, Vivek Oberoi, Aftab Shivdasani","Comedy, Crime, Mystery",6.2
+307,Madhouse,2004,91.0,William Butler,"Joshua Leonard, Jordan Ladd, Natasha Lyonne","Horror, Thriller",5.4
+308,Walk on Water,2004,103.0,Eytan Fox,"Lior Ashkenazi, Knut Berger, Caroline Peters","Drama, Mystery, Thriller",7.3
+309,Satan's Little Helper,2004,96.0,Jeff Lieberman,"Alexander Brickel, Katheryn Winnick, Stephen Graham","Comedy, Horror",5.3
+310,Haven,2004,115.0,Frank E. Flowers,"Bill Paxton, Agnes Bruckner, Orlando Bloom","Crime, Drama",5.7
+311,Dig!,2004,107.0,Ondi Timoner,"Anton Newcombe, Courtney Taylor-Taylor, Joel Gion","Documentary, Music",7.7
+312,Whisky,2004,94.0,"Juan Pablo Rebella, Pablo Stoll","Andrés Pazos, Mirella Pascual, Jorge Bolani","Comedy, Drama",7.1
+313,Toss-Up,2004,102.0,Ugur Yücel,"Kenan Imirzalioglu, Olgun Simsek, Bahri Beyat",Drama,7.6
+314,Boats Out of Watermelon Rinds,2004,97.0,Ahmet Uluçay,"Fizuli Caferof, Gülayse Erkoc, Hasbiye Günay","Drama, Family",7.7
+315,Dracula 3000,2004,86.0,Darrell Roodt,"Casper Van Dien, Erika Eleniak, Coolio","Horror, Sci-Fi",2.1
+316,Innocence,2004,122.0,Lucile Hadzihalilovic,"Zoé Auclair, Lea Bridarolli, Bérangère Haubruge","Drama, Mystery",6.8
+317,P.S.,2004,97.0,Dylan Kidd,"Laura Linney, Topher Grace, Marcia Gay Harden","Comedy, Drama, Fantasy",6.1
+318,7 Zwerge,2004,95.0,Sven Unterwaldt Jr.,"Otto Waalkes, Mirco Nontschew, Boris Aljinovic","Comedy, Family, Fantasy",4.8
+319,Tropical Malady,2004,118.0,Apichatpong Weerasethakul,"Banlop Lomnoi, Sakda Kaewbuadee, Huai Dessom","Drama, Fantasy, Romance",7.1
+320,Anatomy of Hell,2004,77.0,Catherine Breillat,"Amira Casar, Rocco Siffredi, Alexandre Belin",Drama,4.4
+321,Beautiful City,2004,98.0,Asghar Farhadi,"Faramarz Gharibian, Taraneh Alidoosti, Babak Ansari","Drama, Romance",7.6
+322,Eating Out,2004,90.0,Q. Allan Brocka,"Scott Lunsford, Jim Verraros, Emily Brooke Hands","Comedy, Drama, Romance",5.8
+323,Breakin' All the Rules,2004,85.0,Daniel Taplitz,"Jamie Foxx, Gabrielle Union, Morris Chestnut","Comedy, Romance",5.6
+324,Saint Ralph,2004,98.0,Michael McGowan,"Adam Butcher, Campbell Scott, Jennifer Tilly","Comedy, Drama, Sport",7.3
+325,Outfoxed: Rupert Murdoch's War on Journalism,2004,78.0,Robert Greenwald,"Douglas Cheek, Walter Cronkite, Bob McChesney",Documentary,7.5
+326,The Uninvited Guest,2004,90.0,Guillem Morales,"Andoni Gracia, Mónica López, Francesc Garrido","Drama, Horror, Mystery",6.7
+327,Never Die Alone,2004,88.0,Ernest R. Dickerson,"DMX, David Arquette, Michael Ealy","Action, Crime, Drama",5.6
+328,Dead & Breakfast,2004,88.0,Matthew Leutwyler,"Jeremy Sisto, Erik Palladino, Bianca Lawson","Comedy, Fantasy, Horror",5.7
+329,One Point O,2004,95.0,"Jeff Renfroe, Marteinn Thorsson","Richard Rees, Jeremy Sisto, Udo Kier","Drama, Horror, Mystery",5.9
+330,My Little Bride,2004,115.0,Ho-joon Kim,"Kim Rae-won, Moon Geun-young, Ahn Sun-young","Comedy, Drama, Romance",7.0
+331,R-Point,2004,107.0,Su-chang Kong,"Kam Woo-seong, Son Byung-ho, Lee Sun-kyun","Action, Horror, War",6.2
+332,Killing Cabos,2004,94.0,Alejandro Lozano,"Tony Dalton, Ana Claudia Talancón, Pedro Armendáriz Jr.","Action, Adventure, Comedy",7.4
+333,The Red Colored Grey Truck,2004,95.0,Srdjan Koljevic,"Srdjan 'Zika' Todorovic, Aleksandra Balmazovic, Dragan Bjelogrlic","Adventure, Comedy, Romance",7.3
+334,Keane,2004,100.0,Lodge Kerrigan,"Damian Lewis, Liza Colón-Zayas, John Tormey","Drama, Mystery, Thriller",6.8
+335,Breaking News,2004,90.0,Johnnie To,"Richie Jen, Kelly Chen, Nick Cheung","Action, Crime, Drama",6.7
+336,Taarzan: The Wonder Car,2004,163.0,"Abbas Alibhai Burmawalla, Mastan Alibhai Burmawalla","Ajay Devgn, Vatsal Sheth, Ayesha Takia","Action, Adventure, Drama",4.8
+337,Marebito,2004,92.0,Takashi Shimizu,"Shin'ya Tsukamoto, Tomomi Miyashita, Kazuhiro Nakahara","Drama, Fantasy, Horror",6.0
+338,Infection,2004,98.0,Masayuki Ochiai,"Michiko Hada, Mari Hoshino, Tae Kimura","Drama, Horror, Sci-Fi",6.0
+339,Hair Show,2004,105.0,Leslie Small,"Mo'Nique, Kellita Smith, Gina Torres","Comedy, Romance",5.0
+340,Avellaneda's Moon,2004,143.0,Juan José Campanella,"Ricardo Darín, Eduardo Blanco, Mercedes Morán","Comedy, Drama, Sport",7.2
+341,Popular Music,2004,105.0,Reza Bagher,"Max Enderfors, Andreas af Enehielm, Jarmo Mäkinen","Comedy, Drama",6.5
+342,A World Without Thieves,2004,113.0,Xiaogang Feng,"Andy Lau, Rene Liu, Baoqiang Wang","Action, Crime, Drama",7.2
+343,Darwin's Nightmare,2004,107.0,Hubert Sauper,"Elizabeth 'Eliza' Maganga Nsese, Raphael Tukiko Wagara, Dimond Remtulia",Documentary,7.4
+344,Five Children and It,2004,89.0,John Stephenson,"Tara Fitzgerald, Freddie Highmore, Alex Jennings","Adventure, Family, Fantasy",5.5
+345,Mountain Patrol,2004,90.0,Chuan Lu,"Duobujie, Lei Zhang, Dao Qi","Action, Drama",7.6
+346,Happily Ever After,2004,100.0,Yvan Attal,"Johnny Depp, Charlotte Gainsbourg, Sébastien Vidal","Comedy, Drama, Music",6.4
+347,Decoys,2004,95.0,Matthew Hastings,"Corey Sevier, Stefanie von Pfetten, Kim Poirier","Horror, Sci-Fi",4.7
+348,Look at Me,2004,110.0,Agnès Jaoui,"Marilou Berry, Jean-Pierre Bacri, Agnès Jaoui","Comedy, Drama, Music",6.8
+349,Trilogia: To livadi pou dakryzei,2004,170.0,Theodoros Angelopoulos,"Alexandra Aidini, Nikos Poursanidis, Giorgos Armenis","Drama, History, Romance",7.8
+350,Raincoat,2004,117.0,Rituparno Ghosh,"Ajay Devgn, Aishwarya Rai Bachchan, Annu Kapoor","Drama, Romance",7.7
+351,Unstoppable,2004,96.0,David Carson,"Wesley Snipes, Jacqueline Obradors, Stuart Wilson","Action, Adventure, Drama",4.9
+352,Intimate Strangers,2004,104.0,Patrice Leconte,"Sandrine Bonnaire, Fabrice Luchini, Michel Duchaussoy","Drama, Romance, Thriller",6.9
+353,Swing Girls,2004,104.0,Shinobu Yaguchi,"Juri Ueno, Yûta Hiraoka, Shihori Kanjiya","Comedy, Drama, Music",7.6
+354,Control Room,2004,84.0,Jehane Noujaim,"Samir Khader, Josh Rushing, George W. Bush",Documentary,7.6
+355,Aayitha Ezhuthu,2004,160.0,Mani Ratnam,"Suriya, Madhavan, Siddharth","Action, Drama, Thriller",7.9
+356,C.S.A.: The Confederate States of America,2004,89.0,Kevin Willmott,"Greg Kirsch, Renee Patrick, Molly Graham","Comedy, Drama, War",6.4
+357,Kebab Connection,2004,96.0,Anno Saul,"Denis Moschitto, Nora Tschirner, Emanuel Bettencourt","Action, Comedy, Romance",6.6
+358,Garv: Pride and Honour,2004,162.0,Puneet Issar,"Salman Khan, Shilpa Shetty Kundra, Arbaaz Khan","Action, Crime, Drama",5.6
+359,The Eye 2,2004,95.0,"Danny Pang, Oxide Chun Pang","Shu Qi, Eugenia Yuan, Jesdaporn Pholdee","Drama, Fantasy, Horror",5.6
+360,Hana and Alice,2004,135.0,Shunji Iwai,"Anne Suzuki, Yû Aoi, Tomohiro Kaku","Comedy, Drama, Romance",7.2
+361,A Hole in My Heart,2004,98.0,Lukas Moodysson,"Thorsten Flinck, Björn Almroth, Sanna Bråding",Drama,4.4
+362,Brides,2004,128.0,Pantelis Voulgaris,"Damian Lewis, Victoria Haralabidou, Andréa Ferréol","Drama, Romance",7.6
+363,Tony Takitani,2004,75.0,Jun Ichikawa,"Issei Ogata, Rie Miyazawa, Shinohara Takahumi",Drama,7.2
+364,"Ima, ai ni yukimasu",2004,119.0,Nobuhiro Doi,"Yûko Takeuchi, Shidô Nakamura, Akashi Takei","Drama, Fantasy, Romance",7.8
+365,Lila dit ça,2004,89.0,Ziad Doueiri,"Vahina Giocante, Moa Khouas, Karim Ben Haddou","Crime, Drama, Romance",6.8
+366,Saint Ange,2004,98.0,Pascal Laugier,"Virginie Ledoyen, Lou Doillon, Catriona MacColl","Drama, Fantasy, Horror",5.0
+367,The White Diamond,2004,88.0,Werner Herzog,"Werner Herzog, Graham Dorrington, Dieter Plage",Documentary,7.5
+368,King's Game,2004,107.0,Nikolaj Arcel,"Anders W. Berthelsen, Søren Pilmark, Nastja Arcel","Drama, Thriller",7.3
+369,Hip hip hora!,2004,90.0,Teresa Fabik,"Amanda Renberg, Björn Kjellman, Ellen Fjæstad","Comedy, Drama",5.4
+370,Clean,2004,90.0,Olivier Assayas,"Maggie Cheung, Nick Nolte, Béatrice Dalle","Drama, Music, Romance",6.8
+371,Wesele,2004,109.0,Wojciech Smarzowski,"Marian Dziedziel, Tamara Arciuch, Iwona Bielska","Comedy, Drama",7.7
+372,"Hawaii, Oslo",2004,125.0,Erik Poppe,"Trond Espen Seim, Jan Gunnar Røise, Evy Kasseth Røsten",Drama,7.0
+373,Secret Agents,2004,109.0,Frédéric Schoendoerffer,"Vincent Cassel, Monica Bellucci, André Dussollier","Crime, Action, Thriller",5.4
+374,Mom's Guest,2004,103.0,Dariush Mehrjui,"Golab Adineh, Parsa Pirouzfar, Amin Hayayee","Comedy, Drama",7.2
+375,Shallow Ground,2004,97.0,Sheldon Wilson,"Timothy V. Murphy, Stan Kirsch, Lindsey Stoddart","Horror, Thriller",4.9
+376,Duck Season,2004,90.0,Fernando Eimbcke,"Diego Cataño, Daniel Miranda, Enrique Arreola","Comedy, Drama",7.2
+377,The Calcium Kid,2004,89.0,Alex De Rakoff,"Mark Heap, Michael Lerner, Michael Peña","Comedy, Sport",5.5
+378,Izo,2004,128.0,Takashi Miike,"Kazuya Nakayama, Kaori Momoi, Ryûhei Matsuda","Action, Drama, Fantasy",6.0
+379,Pokémon the Movie: Destiny Deoxys,2004,98.0,Kunihiko Yuyama,"Veronica Taylor, Eric Stuart, Amy Birnbaum","Animation, Action, Adventure",6.1
+380,My Date with Drew,2004,90.0,"Jon Gunn, Brian Herzlinger, Brett Winn","Brian Herzlinger, Drew Barrymore, John August",Documentary,6.5
+381,Riding Giants,2004,105.0,Stacy Peralta,"Laird Hamilton, Darrick Doerner, Dave Kalama","Documentary, Biography, History",7.8
+382,In Enemy Hands,2004,94.0,Tony Giglio,"William H. Macy, Til Schweiger, Thomas Kretschmann","Drama, Thriller, War",6.0
+383,Yogen,2004,95.0,Norio Tsuruta,"Hiroshi Mikami, Noriko Sakai, Maki Horikita",Horror,6.2
+384,Uno,2004,103.0,"Aksel Hennie, John Andreas Andersen","Aksel Hennie, Nicolai Cleve Broch, Bjørn Floberg",Drama,6.8
+385,Dead Leaves,2004,55.0,Hiroyuki Imaishi,"Kappei Yamaguchi, Takako Honda, Yûko Mizutani","Animation, Action, Adventure",7.1
+386,Murder,2004,130.0,Anurag Basu,"Mallika Sherawat, Emraan Hashmi, Ashmit Patel","Drama, Romance, Thriller",5.5
+387,Murder-Set-Pieces,2004,105.0,Nick Palumbo,"Sven Garrett, Cerina Vincent, Tony Todd",Horror,3.7
+388,Incident at Loch Ness,2004,94.0,Zak Penn,"Werner Herzog, Kitana Baker, Gabriel Beristain","Adventure, Comedy, Fantasy",6.4
+389,Cash Truck,2004,95.0,Nicolas Boukhrief,"Albert Dupontel, Jean Dujardin, François Berléand","Action, Crime, Drama",6.5
+390,Fyra nyanser av brunt,2004,192.0,Tomas Alfredson,"Robert Gustafsson, Maria Kulle, Karl Linnertorp","Comedy, Drama",7.2
+391,George and the Dragon,2004,93.0,Tom Reeve,"James Purefoy, Piper Perabo, Patrick Swayze","Action, Adventure, Comedy",5.6
+392,The Corsican File,2004,92.0,Alain Berbérian,"Christian Clavier, Jean Reno, Caterina Murino","Action, Comedy, Crime",5.8
+393,Touch of Pink,2004,91.0,Ian Iqbal Rashid,"Jimi Mistry, Kris Holden-Ried, Suleka Mathew","Drama, Comedy, Romance",6.4
+394,Around the Bend,2004,85.0,Jordan Roberts,"Michael Caine, Christopher Walken, Josh Lucas",Drama,6.4
+395,Podium,2004,95.0,Yann Moix,"Benoît Poelvoorde, Jean-Paul Rouve, Julie Depardieu","Comedy, Music",6.4
+396,The Holy Girl,2004,106.0,Lucrecia Martel,"Mercedes Morán, Carlos Belloso, Alejandro Urdapilleta",Drama,6.7
+397,Bombón: El Perro,2004,97.0,Carlos Sorin,"Juan Villegas, Walter Donado, Rosa Valsecchi",Drama,7.1
+398,Strings,2004,91.0,Anders Rønnow Klarlund,"James McAvoy, Catherine McCormack, Julian Glover","Adventure, Drama, Fantasy",6.9
+399,Cazuza: Time Doesn't Stop,2004,98.0,"Walter Carvalho, Sandra Werneck","Daniel de Oliveira, Marieta Severo, Reginaldo Faria","Biography, Drama, Music",6.9
+400,The Last Shot,2004,93.0,Jeff Nathanson,"Matthew Broderick, Alec Baldwin, Toni Collette","Comedy, Romance",5.7
+401,Love in Thoughts,2004,89.0,Achim von Borries,"Daniel Brühl, August Diehl, Anna Maria Mühe","Drama, Romance",6.9
+402,Silver City,2004,128.0,John Sayles,"Chris Cooper, Thora Birch, Maria Bello","Comedy, Drama, Mystery",6.0
+403,Dalecarlians,2004,98.0,Maria Blom,"Sofia Helin, Kajsa Ernst, Ann Petrén","Comedy, Drama",6.4
+404,Fighter in the Wind,2004,120.0,Yun-ho Yang,"Yang Dong-geun, Aya Hirayama, Masaya Katô","Action, Biography, Drama",6.9
+405,Malliswari,2004,150.0,Vijay K. Bhaskar,"Venkatesh Daggubati, Katrina Kaif, Kota Srinivasa Rao","Comedy, Romance",7.8
+406,Argo,2004,106.0,Attila Árpa,"Lajos Kovács, Sándor Oszter, László Görög","Comedy, Action",7.0
+407,"No Pain, No Gain",2004,129.0,Samuel Turcotte,"Gus Malliarodakis, Dennis Newman, Kim Travis","Comedy, Drama",4.5
+408,Aa Naluguru,2004,141.0,Chandra Siddhartha,"Rajendra Prasad, Aamani, Raja",Drama,8.6
+409,Bobby Jones: Stroke of Genius,2004,120.0,Rowdy Herrington,"Jim Caviezel, Claire Forlani, Jeremy Northam","Biography, Drama, Romance",6.6
+410,Land of Plenty,2004,123.0,Wim Wenders,"Michelle Williams, John Diehl, Wendell Pierce","Drama, War",6.4
+411,Going the Distance,2004,93.0,Mark Griffiths,"Christopher Jacot, Joanne Kelly, Shawn Roberts","Comedy, Romance",5.6
+412,Do You Know Claudia?,2004,104.0,Massimo Venier,"Aldo Baglio, Giovanni Storti, Giacomo Poretti","Comedy, Mystery, Romance",6.4
+413,Hungarian Vagabond,2004,109.0,Gábor Herendi,"Károly Gesztesi, János Gyuriska, János Greifenstein","Adventure, Comedy",5.5
+414,Vinci,2004,108.0,Juliusz Machulski,"Robert Wieckiewicz, Józef Paleczka, Borys Szyc","Crime, Comedy",6.9
+415,Kings & Queen,2004,150.0,Arnaud Desplechin,"Emmanuelle Devos, Geoffrey Carey, Thierry Bosc","Comedy, Drama, Romance",7.0
+416,Vasoolraja M.B.B.S,2004,160.0,Saran,"Kamal Haasan, Sneha, Prabhu","Comedy, Drama",7.9
+417,Arahan,2004,114.0,Ryoo Seung-wan,"Ryu Seung-beom, Yoon So-yi, Ahn Sung-ki","Action, Comedy, Fantasy",6.5
+418,The Beautiful Country,2004,125.0,Hans Petter Moland,"Damien Nguyen, Bai Ling, Dang Quoc Thinh Tran",Drama,7.4
+419,Fat Slags,2004,75.0,Ed Bye,"Fiona Allen, Sophie Thompson, Jerry O'Connell",Comedy,1.9
+420,Dark Spells,2004,95.0,Orhan Oguz,"Ipek Tuzcuoglu, Ece Uslu, Özgü Namal","Horror, Thriller",3.1
+421,Michael Moore Hates America,2004,125.0,Michael Wilson,"Mike Abraham, Pete Auger, Andrew Breitbart",Documentary,4.9
+422,My Baby's Daddy,2004,86.0,Cheryl Dunye,"Eddie Griffin, Anthony Anderson, Michael Imperioli",Comedy,4.5
+423,Crying Out Love in the Center of the World,2004,138.0,Isao Yukisada,"Takao Osawa, Kô Shibasaki, Masami Nagasawa","Drama, Romance",7.2
+424,The Magic Roundabout,2005,81.0,"Dave Borthwick, Jean Duval, Frank Passingham","Robbie Williams, Ian McKellen, Bill Nighy","Animation, Adventure, Comedy",5.2
+425,Alyosha Popovich i Tugarin Zmey,2004,79.0,Konstantin Bronzit,"Oleg Kulikovich, Liya Medvedeva, Dmitriy Vysotskiy","Animation, Adventure, Comedy",7.1
+426,Tito,2004,120.0,Tarek Alarian,"Ahmed El Sakka, Hanan Turk, Amr Waked","Action, Crime, Drama",7.3
+427,Olga,2004,141.0,Jayme Monjardim,"Camila Morgado, Caco Ciocler, Luís Melo","Biography, Drama, History",6.5
+428,El Lobo,2004,125.0,Miguel Courtois,"Eduardo Noriega, Jose Coronado, Mélanie Doutey",Thriller,6.9
+429,Private Eye Vares,2004,95.0,Aleksi Mäkelä,"Juha Veijonen, Laura Malmivaara, Jari Halonen","Action, Mystery, Thriller",6.4
+430,Lucky Luke and the Daltons,2004,86.0,Philippe Haïm,"Eric Judor, Ramzy Bedia, Saïd Serrari","Comedy, Western",3.3
+431,The 24th Day,2004,92.0,Tony Piccirillo,"James Marsden, Scott Speedman, Sofía Vergara","Crime, Drama, Thriller",6.4
+432,Antares,2004,105.0,Götz Spielmann,"Petra Morzé, Andreas Patton, Hary Prinz","Drama, Romance",6.1
+433,The Bridge of San Luis Rey,2004,120.0,Mary McGuckian,"Gabriel Byrne, Robert De Niro, Harvey Keitel","Drama, History, Romance",5.0
+434,Romasanta,2004,90.0,Paco Plaza,"Julian Sands, Elsa Pataky, John Sharian","Drama, Horror",5.2
+435,Zebraman,2004,115.0,Takashi Miike,"Shô Aikawa, Kyôka Suzuki, Atsurô Watabe","Comedy, Sci-Fi",6.5
+436,Okul,2004,100.0,"Durul Taylan, Yagmur Taylan","Deniz Akkaya, Hamdi Alkan, Burak Altay","Comedy, Horror",4.1
+437,Cachorro,2004,99.0,Miguel Albaladejo,"José Luis García-Pérez, David Castillo, Empar Ferrer","Comedy, Drama",7.1
+438,Three Steps Over Heaven,2004,101.0,Luca Lucini,"Riccardo Scamarcio, Katy Louise Saunders, Maria Chiara Augenti",Romance,5.1
+439,The World,2004,143.0,Jia Zhang-ke,"Tao Zhao, Taishen Cheng, Jue Jing",Drama,7.1
+440,When Will I Be Loved,2004,81.0,James Toback,"Neve Campbell, Frederick Weller, Dominic Chianese","Drama, Thriller",4.4
+441,Cronicas,2004,108.0,Sebastián Cordero,"John Leguizamo, Alfred Molina, Leonor Watling","Crime, Drama, Thriller",6.8
+442,Trauma,2004,94.0,Marc Evans,"Colin Firth, Naomie Harris, Mena Suvari","Mystery, Thriller",4.7
+443,Levottomat 3 - kun mikään ei riitä,2004,99.0,Minna Virtanen,"Mi Grönlund, Nicke Lignell, Jasper Pääkkönen","Drama, Romance",2.9
+444,Silentium,2004,116.0,Wolfgang Murnberger,"Josef Hader, Simon Schwarz, Joachim Król","Crime, Thriller",7.4
+445,Kaazhcha,2004,137.0,Blessy,"Mammootty, Yash Gawli, Padmapriya",Drama,8.2
+446,Vitâru,2004,86.0,Shin'ya Tsukamoto,"Tadanobu Asano, Nami Tsukamoto, Kiki","Drama, Thriller",6.7
+447,Syrian Bride,2004,97.0,Eran Riklis,"Hiam Abbass, Makram Khoury, Clara Khoury","Comedy, Drama",7.4
+448,The Cookout,2004,97.0,Lance Rivera,"Quran Pender, Jenifer Lewis, Ja Rule",Comedy,3.8
+449,The Right Way,2004,77.0,Mark Penney,"Karyn Dwyer, Jefferson Brown, Gloria Slade","Comedy, Drama",5.8
+450,Aan: Men at Work,2004,149.0,Madhur Bhandarkar,"Akshay Kumar, Shatrughan Sinha, Suniel Shetty","Action, Crime, Drama",5.8
+451,De dominee,2004,110.0,Gerrard Verhage,"Peter Paul Muller, Chantal Janzen, Frank Lammers","Biography, Crime, Drama",6.7
+452,Adam & Paul,2004,83.0,Lenny Abrahamson,"Tom Murphy, Mark O'Halloran, Gavin Dowdall","Comedy, Drama",7.1
+453,What's a Human Anyway,2004,128.0,Reha Erdem,"Turgay Aydin, Arzu Bazman, Esra Bezen Bilgin",Comedy,7.5
+454,A Day Without a Mexican,2004,100.0,Sergio Arau,"Caroline Aaron, Tony Abatemarco, Melinda Allen","Comedy, Drama, Fantasy",4.8
+455,100 Days with Mr. Arrogant,2004,95.0,"Jo Byung-Suk, Shin Jae Ho, Shin Jai-Ho","Kim Jae-won, Ha Ji-Won, Jin Tae-hyun","Comedy, Romance",6.0
+456,The Cutting Edge: The Magic of Movie Editing,2004,98.0,Wendy Apple,"Kathy Bates, Zach Staenberg, Jodie Foster","Documentary, History",7.7
+457,Yes,2004,100.0,Sally Potter,"Joan Allen, Simon Abkarian, Sam Neill","Drama, Romance",6.4
+458,The Exiles,2004,104.0,Tony Gatlif,"Romain Duris, Lubna Azabal, Zouhir Gacem","Adventure, Drama, Music",6.7
+459,Our Music,2004,80.0,Jean-Luc Godard,"Sarah Adler, Nade Dieu, Rony Kramer",Drama,6.8
+460,November,2004,73.0,Greg Harrison,"Courteney Cox, James Le Gros, Michael Ealy","Drama, Mystery, Thriller",5.4
+461,7/G Rainbow Colony,2004,186.0,K. Selvaraghavan,"Ravi Krishna, Sonia Agarwal, Suman Shetty","Drama, Romance",7.9
+462,Manmadhan,2004,165.0,A.J. Murugan,"Silambarasan TR, Jyotika, Sindhu Tolani","Crime, Romance, Thriller",7.2
+463,Red Lights,2004,105.0,Cédric Kahn,"Jean-Pierre Darroussin, Carole Bouquet, Vincent Deniard","Crime, Drama, Mystery",6.6
+464,Lost Embrace,2004,99.0,Daniel Burman,"Daniel Hendler, Adriana Aizemberg, Jorge D'Elía",Comedy,6.9
+465,Born to Fight,2004,96.0,Panna Rittikrai,"Nappon Gomarachun, Santisuk Promsiri, Dan Chupong","Action, Crime, Drama",6.1
+466,Seeing Other People,2004,90.0,Wallace Wolodarsky,"Jay Mohr, Julianne Nicholson, Andy Richter","Comedy, Romance",5.8
+467,Fida,2004,122.0,Ken Ghosh,"Kareena Kapoor, Fardeen Khan, Shahid Kapoor","Action, Crime, Drama",5.5
+468,Meu Tio Matou um Cara,2004,87.0,Jorge Furtado,"Darlan Cunha, Sophia Reis, Lázaro Ramos","Adventure, Comedy",6.6
+469,Elvis Has Left the Building,2004,90.0,Joel Zwick,"Kim Basinger, John Corbett, Annie Potts",Comedy,5.1
+470,The Robbery of the Third Reich,2004,105.0,Zdravko Sotra,"Dragan Nikolic, Nikola Djuricko, Katarina Zutic","Comedy, War",6.5
+471,They Came Back,2004,102.0,Robin Campillo,"Géraldine Pailhas, Jonathan Zaccaï, Frédéric Pierrot","Drama, Fantasy",5.8
+472,Night of the Living Dorks,2004,89.0,Matthias Dinter,"Tino Mewes, Manuel Cortez, Thomas Schmieder","Comedy, Horror",5.6
+473,In My Country,2004,105.0,John Boorman,"Juliette Binoche, Samuel L. Jackson, Brendan Gleeson","Drama, Romance",6.0
+474,Aaltra,2004,92.0,"Benoît Delépine, Gustave Kervern","Benoît Delépine, Gustave Kervern, Michel de Gavre","Comedy, Drama",6.9
+475,Freeze Frame,2004,99.0,John Simpson,"Lee Evans, Sean McGinley, Ian McNeice","Crime, Drama, Mystery",6.3
+476,Narco,2004,105.0,"Tristan Aurouet, Gilles Lellouche","Guillaume Canet, Zabou Breitman, Benoît Poelvoorde",Comedy,6.2
+477,The Bridesmaid,2004,111.0,Claude Chabrol,"Benoît Magimel, Laura Smet, Aurore Clément","Thriller, Drama, Romance",6.7
+478,Go for Zucker,2004,95.0,Dani Levy,"Henry Hübchen, Hannelore Elsner, Udo Samel","Comedy, Drama",6.7
+479,Fool el seen el azeem,2004,105.0,Sherif Arafa,"Mohamed Henedi, Hajjaj Abdul Azim, Suliman Eid",Comedy,6.4
+480,Bullet Boy,2004,89.0,Saul Dibb,"Ashley Walters, Luke Fraser, Leon Black","Action, Drama",6.5
+481,Shouf shouf habibi!,2004,89.0,Albert Ter Heerdt,"Mimoun Oaïssa, Mehdia Doui-Issi, Salah Eddine Benmoussa","Comedy, Drama",6.1
+482,One Nite in Mongkok,2004,110.0,Derek Tung-Sing Yee,"Daniel Wu, Cecilia Cheung, Alex Fong","Crime, Drama",7.1
+483,Hellbent,2004,84.0,Paul Etheredge,"Dylan Fergus, Bryan Kirkwood, Hank Harris","Horror, Thriller",5.5
+484,Once Upon a Time in High School: The Spirit of Jeet Kune Do,2004,116.0,Ha Yoo,"Kwon Sang-woo, Lee Jung-Jin, Han Ga-in","Action, Drama, History",7.4
+485,The Twins Effect II,2004,106.0,"Patrick Leung, Corey Yuen","Charlene Choi, Gillian Chung, Ying Qu","Action, Adventure, Comedy",4.8
+486,The Student Cop,2004,110.0,Wael Ihsan,"Hassan Hosny, Ghada Adel, Karim Abdel Aziz","Action, Comedy, Romance",6.4
+487,Challenge,2004,167.0,S.S. Rajamouli,"Nithiin, Genelia Deshmukh, Preeti Nigam","Action, Drama, Sport",7.4
+488,One Piece: The Cursed Holy Sword,2004,95.0,Kazuhisa Takenouchi,"Takeshi Aono, Takahiro Fujimoto, Kôhei Fukuhara","Animation, Action, Adventure",6.5
+489,Dark Harvest II: The Maize,2004,100.0,Bill Cowell,"Bill Cowell, Kelleigh Murray, Alyssa Cowell",Horror,1.6
+490,Muxmäuschenstill,2004,89.0,Marcus Mittermeier,"Jan Henrik Stahlberg, Fritz Roth, Wanda Perdelwitz","Comedy, Drama",7.2
+491,Throw Down,2004,95.0,Johnnie To,"Louis Koo, Aaron Kwok, Cherrie Ying",Drama,6.9
+492,Secuestro express,2004,86.0,Jonathan Jakubowicz,"Mía Maestro, Jean Paul Leroux, Rubén Blades","Action, Crime, Drama",6.5
+493,Les 11 commandements,2004,85.0,"François Desagnat, Thomas Sorriaux, Steven Ada","Michaël Youn, Vincent Desagnat, Benjamin Morgaine",Comedy,4.7
+494,Churchill: The Hollywood Years,2004,84.0,Peter Richardson,"Miranda Richardson, Antony Sher, Christian Slater","Comedy, War",4.9
+495,Boutique,2004,113.0,Hamid Nematollah,"Mohammad Reza Golzar, Golshifteh Farahani, Reza Rooygari",Drama,6.5
+496,Ab-normal Beauty,2004,101.0,Oxide Chun Pang,"Race Wong, Rosanne Wong, Anson Leung","Drama, Horror",5.8
+497,Detective Conan: Magician of the Silver Sky,2004,108.0,Yasuichirô Yamamoto,"Minami Takayama, Akira Kamiya, Wakana Yamazaki","Animation, Action, Comedy",7.0
+498,Anand,2004,180.0,Sekhar Kammula,"Raja, Kamalinee Mukherjee, Anuj Gurwara","Comedy, Drama, Romance",8.0
+499,Sex Lives of the Potato Men,2004,82.0,Andy Humphries,"Johnny Vegas, Mackenzie Crook, Carol Harvey",Comedy,4.6
+500,My Name Is Modesty: A Modesty Blaise Adventure,2004,78.0,Scott Spiegel,"Alexandra Staden, Nikolaj Coster-Waldau, Raymond Cruz","Action, Crime, Drama",4.5
+501,The Great Journey,2004,108.0,Ismaël Ferroukhi,"Nicolas Cazalé, Mohamed Majd, Jacky Nercessian","Drama, Romance",7.2
+502,Pterosaurus,2004,93.0,Mark L. Lester,"Cameron Daddo, Coolio, Amy Sloan","Action, Adventure, Horror",3.2
+503,Return to Sender,2004,109.0,Bille August,"Connie Nielsen, Aidan Quinn, Kelly Preston","Drama, Thriller",6.3
+504,The Great Challenge,2004,93.0,Julien Seri,"Williams Belle, Châu Belle Dinh, Malik Diouf","Action, Adventure, Drama",4.6
+505,Red Dust,2004,110.0,Tom Hooper,"Hilary Swank, Chiwetel Ejiofor, Jamie Bartlett",Drama,6.7
+506,Zombie Honeymoon,2004,83.0,David Gebroe,"Tracy Coogan, Graham Sibley, Tonya Cornelisse","Drama, Horror, Romance",4.5
+507,Ghost Adventures,2004,87.0,"Zak Bagans, Nick Groff","Zak Bagans, Brian Clune, Debby Constantino",Documentary,7.6
+508,Yesterday,2004,90.0,Darrell Roodt,"Leleti Khumalo, Lihle Mvelase, Pepi Khambule",Drama,7.5
+509,Silver Hawk,2004,99.0,Jingle Ma,"Michelle Yeoh, Kôichi Iwaki, Brandon Chang","Action, Adventure, Sci-Fi",5.1
+510,Madurey,2004,146.0,R. Madhesh,"Joseph Vijay, Sonia Agarwal, Rakshitha",Action,5.1
+511,Post Impact,2004,95.0,Christoph Schrewe,"Dean Cain, Bettina Zimmermann, Joanna Taylor","Action, Adventure, Sci-Fi",3.3
+512,Varsham,2004,159.0,Sobhan,"Prabhas, Trisha Krishnan, Gopichand","Action, Comedy, Romance",7.3
+513,"No sos vos, soy yo",2004,105.0,Juan Taratuto,"Diego Peretti, Soledad Villamil, Cecilia Dopazo","Comedy, Drama, Romance",6.6
+514,Mickybo and Me,2004,95.0,Terry Loane,"John Joesph Mcneill, Niall Wright, Julie Walters","Comedy, Drama",7.2
+515,White Coats,2004,90.0,Dave Thomas,"Dan Aykroyd, Lynda Boyd, Christine Chatelain",Comedy,5.4
+516,The Keys to the House,2004,111.0,Gianni Amelio,"Kim Rossi Stuart, Andrea Rossi, Charlotte Rampling",Drama,7.1
+517,Down to the Bone,2004,104.0,Debra Granik,"Vera Farmiga, Hugh Dillon, Clint Jordan",Drama,6.6
+518,Jiminy Glick in Lalawood,2004,90.0,Vadim Jean,"Martin Short, Jan Hooks, Linda Cardellini","Comedy, Mystery",5.1
+519,Dorian Blues,2004,88.0,Tennyson Bardwell,"Michael McMillian, Lea Coco, Steve Fletcher","Comedy, Drama, Romance",6.7
+520,Shyamol Chhaya,2004,110.0,Humayun Ahmed,"Meher Afroz Shaon, Riaz, Shadhin Khosru",Drama,8.5
+521,Phir Milenge,2004,142.0,Revathi,"Salman Khan, Abhishek Bachchan, Shilpa Shetty Kundra",Drama,6.1
+522,Rottweiler,2004,95.0,Brian Yuzna,"William Miller, Irene Montalà, Paulina Gálvez","Horror, Sci-Fi, Thriller",3.1
+523,Steve + Sky,2004,97.0,Felix van Groeningen,"Titus De Voogdt, Delfine Bafort, Johan Heldenbergh","Romance, Drama, Comedy",6.6
+524,Grande école,2004,110.0,Robert Salis,"Grégori Baquet, Alice Taglioni, Jocelyn Quivrin","Drama, Romance",5.7
+525,Moscow Heat,2004,90.0,Jeff Celentano,"Michael York, Alexander Nevsky, Richard Tyson","Action, Drama",2.5
+526,Blessed,2004,98.0,Simon Fellows,"Heather Graham, James Purefoy, Fionnula Flanagan","Drama, Horror, Thriller",4.2
+527,Double zéro,2004,90.0,Gérard Pirès,"Eric Judor, Ramzy Bedia, Edouard Baer","Action, Adventure, Comedy",4.1
+528,Ceský sen,2004,90.0,"Vít Klusák, Filip Remunda","Varhan Orchestrovich Bauer, Jaromír Kalina, Vít Klusák","Documentary, Comedy",7.3
+529,Hardcore,2004,96.0,Dennis Iliadis,"Katerina Tsavalou, Danae Skiadi, Ioannis Papazisis","Crime, Drama, Romance",6.1
+530,Dead Meat,2004,80.0,Conor McMahon,"Marian Araujo, David Muyllaert, Eoin Whelan","Action, Comedy, Horror",4.7
+531,Aris min geha amneya,2004,90.0,"Ali Idris, Fadhel El-Garhi","Adel Emam, Lebleba, Sherif Mounir",Comedy,6.1
+532,Spider Forest,2004,112.0,Song Il-gon,"Kam Woo-seong, Jung Suh, Kang Kyung-hun","Drama, Horror, Mystery",6.5
+533,4,2004,126.0,Ilya Khrzhanovskiy,"Yuriy Laguta, Marina Vovchenko, Sergey Shnurov","Drama, Mystery, Sci-Fi",6.5
+534,Take Out,2004,87.0,"Sean Baker, Shih-Ching Tsou","Charles Jang, Jeng-Hua Yu, Wang-Thye Lee",Drama,7.1
+535,In the Realms of the Unreal,2004,81.0,Jessica Yu,"Henry Darger, Dakota Fanning, Larry Pine","Documentary, Biography",7.3
+536,Inconscientes,2004,100.0,Joaquín Oristrell,"Leonor Watling, Luis Tosar, Alex Brendemühl","Comedy, Mystery, Romance",7.1
+537,The Good Cop,2004,87.0,Lasse Spang Olsen,"Kim Bodnia, René Dif, Nicolas Bro","Action, Comedy",5.8
+538,The Intruder,2004,130.0,Claire Denis,"Michel Subor, Grégoire Colin, Yekaterina Golubeva",Drama,6.6
+539,Drowning Ghost,2004,100.0,Mikael Håfström,"Rebecka Hemse, Jesper Salén, Jenny Ulving","Horror, Thriller",4.6
+540,Dil Maange More!!!,2004,123.0,Ananth Mahadevan,"Shahid Kapoor, Ayesha Takia, Tulip Joshi","Musical, Romance",5.2
+541,Blood and Bones,2004,140.0,Yôichi Sai,"Takeshi Kitano, Hirofumi Arai, Tomoko Tabata",Drama,7.0
+542,Ushpizin,2004,90.0,Gidi Dar,"Shuli Rand, Michal Bat-Sheva Rand, Shaul Mizrahi",Drama,7.3
+543,Shankar Dada MBBS,2004,174.0,Jayant Paranji,"Chiranjeevi, Meka Srikanth, Sonali Bendre",Comedy,7.6
+544,Arjun,2004,174.0,"Gunasekhar, Jasti Hemambar","Mahesh Babu, Shriya Saran, Kirti Reddy",Action,6.5
+545,The Doll Master,2004,90.0,Yong-ki Jeong,"Kim Yu-mi, Lim Eun-kyeong, Shim Hyung-tak","Horror, Thriller",5.7
+546,Dil Ne Jise Apna Kaha,2004,135.0,Atul Agnihotri,"Salman Khan, Preity G Zinta, Bhoomika Chawla","Drama, Romance",4.4
+547,Dead Friend,2004,98.0,Tae-kyeong Kim,"Kim Ha-neul, Nam Sang-mi, Jeon Hye-bin",Horror,5.9
+548,Balas & Bolinhos - O Regresso,2004,108.0,Luis Ismael,"Jorge Neto, Luis Ismael, J.D. Duarte","Adventure, Comedy, Crime",6.9
+549,Stateside,2004,97.0,Reverge Anselmo,"Jonathan Tucker, Rachael Leigh Cook, Agnes Bruckner","Drama, Music, Romance",5.8
+550,The Hazing,2004,87.0,Rolfe Kanefsky,"Brad Dourif, Brooke Burke, Nectar Rose","Comedy, Horror",5.4
+551,Cutie Honey,2004,94.0,Hideaki Anno,"Eriko Satô, Mikako Ichikawa, Jun Murakami","Adventure, Comedy, Sci-Fi",6.2
+552,Inuyasha the Movie 4: Fire on the Mystic Island,2004,89.0,Toshiya Shinohara,"Kappei Yamaguchi, Satsuki Yukino, Kôji Tsujitani","Animation, Action, Adventure",7.1
+553,Sugar,2004,78.0,John Palmer,"Andre Noble, Marnie McPhail, Haylee Wanstall","Drama, Romance",5.7
+554,Autobahnraser,2004,87.0,Michael Keusch,"Luke Wilkins, Alexandra Neldel, Henriette Richter-Röhl","Action, Comedy, Drama",4.7
+555,Dinocroc,2004,85.0,Kevin O'Neill,"Costas Mandylor, Charles Napier, Bruce Weitz","Action, Adventure, Comedy",3.4
+556,The Hillside Strangler,2004,97.0,Chuck Parello,"C. Thomas Howell, Nicholas Turturro, Allison Lange","Crime, Drama, Thriller",5.2
+557,Vampires: The Turning,2004,84.0,Martin Jay Weiss,"Colin Egglesfield, Stephanie Chao, Roger Yuan","Action, Horror, Thriller",3.6
+558,Skinned Deep,2004,97.0,Gabriel Bartalos,"Les Pollack, Aaron Sims, Kurt Carley","Comedy, Horror",4.2
+559,Strange Bedfellows,2004,100.0,Dean Murphy,"Michael Caton, Paul Hogan, Andy Pappas",Comedy,6.2
+560,Musafir,2004,151.0,"Sanjay Gupta, Hasib Muhammad","Anil Kapoor, Sameera Reddy, Aditya Pancholi","Action, Crime, Drama",5.6
+561,Dandelion,2004,94.0,Mark Milgard,"Vincent Kartheiser, Taryn Manning, Arliss Howard","Drama, Romance",6.8
+562,Voditel dlya Very,2004,105.0,Pavel Chukhray,"Igor Petrenko, Alyona Babenko, Bogdan Stupka",Drama,7.1
+563,Kammerflimmern,2004,100.0,Hendrik Hölzemann,"Matthias Schweighöfer, Jessica Schwarz, Jan-Gregor Kremp","Drama, Romance",7.1
+564,Mass,2004,135.0,Raghava Lawrence,"Nagarjuna Akkineni, Jyotika, Charmme Kaur","Action, Drama",6.6
+565,Teacher's Pet,2004,73.0,Timothy Björklund,"Nathan Lane, Shaun Fleming, David Ogden Stiers","Animation, Adventure, Comedy",5.7
+566,Up and Down,2004,108.0,Jan Hrebejk,"Petr Forman, Emília Vásáryová, Jan Tríska","Comedy, Drama",7.0
+567,Primo amore,2004,94.0,Matteo Garrone,"Michela Cescon, Vitaliano Trevisan, Roberto Comacchio","Drama, Horror, Romance",6.6
+568,Yeh Lamhe Judaai Ke,2004,188.0,"Pavan Kaul, Birendra Nath Tiwari","Shah Rukh Khan, Raveena Tandon, Navneet Nishan","Drama, Mystery, Romance",3.1
+569,Too Beautiful to Lie,2004,115.0,Hyeong-jun Bae,"Kim Ha-neul, Gang Dong-won, Song Jae-ho","Comedy, Romance",7.0
+570,Woman Is the Future of Man,2004,88.0,Hong Sang-soo,"Yoo Ji-tae, Kim Tae-woo, Sung Hyun-ah",Drama,6.4
+571,The Ninth Day,2004,98.0,Volker Schlöndorff,"Ulrich Matthes, August Diehl, Hilmar Thate","Drama, Thriller, War",7.0
+572,Hotel,2004,76.0,Jessica Hausner,"Franziska Weisz, Birgit Minichmayr, Marlene Streeruwitz","Drama, Horror, Mystery",5.6
+573,Nyócker!,2004,87.0,Áron Gauder,"L.L. Junior, László Szacsvay, Gyözö Szabó","Animation, Comedy",6.1
+574,Look What's Happened Now,2004,165.0,Samir Karnik,"Amitabh Bachchan, Vivek Oberoi, Aishwarya Rai Bachchan","Comedy, Drama, Romance",4.3
+575,Guys and Balls,2004,106.0,Sherry Hormann,"Maximilian Brückner, Lisa Maria Potthoff, Dietmar Bär","Comedy, Drama, Romance",6.7
+576,Mah nakorn,2004,100.0,Wisit Sasanatieng,"Mahasamut Boonyaruk, Saengthong Gate-Uthong, Sawatwong Palakawong Na Autthaya","Comedy, Fantasy, Romance",7.3
+577,Gunner Palace,2004,85.0,"Petra Epperlein, Michael Tucker","Bryant Davis, Devon Dixon, Javorn Drummond","Documentary, War",6.6
+578,H.H. Holmes: America's First Serial Killer,2004,64.0,John Borowski,"Tony Jay, Ed Bertagnoli, Cary Callison","Documentary, Crime, History",6.3
+579,Iznogoud- Caliph Instead of the Caliph,2005,95.0,"Patrick Braoudé, Steve Carr","Michaël Youn, Arno Chevrier, Jacques Villeret","Comedy, Family, Fantasy",3.8
+580,Me and My Sister,2004,93.0,Alexandra Leclère,"Isabelle Huppert, Catherine Frot, François Berléand","Comedy, Drama",6.4
+581,"Boo, Zino & the Snurks",2004,91.0,"Lenard Fritz Krawinkel, Holger Tappe","Patrick Stewart, Emily Watson, Glenn Wrage","Animation, Fantasy",5.2
+582,Ab Tumhare Hawale Watan Saathiyo,2004,193.0,"Anil Sharma, Sanjay Sharma","Amitabh Bachchan, Akshay Kumar, Bobby Deol","Action, Drama, War",4.5
+583,Rok Sako To Rok Lo,2004,,Arindam Chaudhuri,"Sunny Deol, Yash Pandit, Manjari Fadnnis","Drama, Romance, Sport",4.4
+584,Koma,2004,88.0,Chi-Leung Lo,"Karena Ka-Yan Lam, Angelica Lee, Andy Chi-On Hui","Crime, Drama, Mystery",5.9
+585,In Search of the Titanic,2004,88.0,Kim Jun Ok,"Jane Alexander, Manfredi Aliquo, Rodolfo Bianchi","Animation, Adventure, Family",1.3
+586,Ghabi Minnuh Fih,2004,88.0,Rami Imam,"Hani Ramzi, Nelly Karim, Hassan Hosny","Adventure, Comedy, Crime",6.4
+587,The Defender,2004,91.0,Dolph Lundgren,"Dolph Lundgren, Jerry Springer, Shakara Ledard","Action, Thriller",4.8
+588,Camp Slaughter,2004,85.0,Martin Munthe,"Christian Magdu, Karin Bertling, Michael Mansson",Horror,2.5
+589,Wounded Love,2004,143.0,Christian Laursen,"Shaila Vaidya, Robert McAtee, Christian Laursen",Drama,6.6
+590,Fröken Sverige,2004,92.0,Tova Magnusson,"Alexandra Dahlström, Sverrir Gudnason, Sebastian Ylvenius",Drama,5.5
+591,Lost,2004,90.0,Darren Lemke,"Dean Cain, Ashley Scott, Danny Trejo","Action, Adventure, Thriller",5.7
+592,The Last Trapper,2004,94.0,Nicolas Vanier,"Norman Winther, May Loo, Alex Van Bibber","Documentary, Adventure, Drama",7.0
+593,The Keeper,2004,95.0,Paul Lynch,"Dennis Hopper, Asia Argento, Helen Shaver","Crime, Thriller, Drama",4.7
+594,Pursued,2004,95.0,Kristoffer Tabori,"Christian Slater, Gil Bellows, Estella Warren","Drama, Thriller",5.2
+595,Three Dancing Slaves,2004,86.0,Gaël Morel,"Nicolas Cazalé, Stéphane Rideau, Thomas Dumerchez","Drama, Romance",6.3
+596,Changing Times,2004,94.0,André Téchiné,"Catherine Deneuve, Gérard Depardieu, Gilbert Melki","Drama, Romance",6.1
+597,Book of Love,2004,83.0,Alan Brown,"Frances O'Connor, Simon Baker, Gregory Smith","Comedy, Drama",5.4
+598,72 metra,2004,115.0,Vladimir Khotinenko,"Sergey Makovetskiy, Marat Basharov, Andrey Krasko","Drama, Action, Thriller",6.5
+599,Agnes and His Brothers,2004,115.0,Oskar Roehler,"Martin Weiß, Moritz Bleibtreu, Herbert Knaup","Comedy, Drama",6.6
+600,The Raspberry Reich,2004,90.0,Bruce LaBruce,"Susanne Sachße, Daniel Bätscher, Andreas Stich","Comedy, Drama, Romance",5.2
+601,Direct Action,2004,97.0,Sidney J. Furie,"Dolph Lundgren, Polly Shannon, Donald Burda","Action, Crime, Thriller",5.0
+602,Shadow of Fear,2004,88.0,Rich Cowan,"Matthew Davis, James Spader, Aidan Quinn",Thriller,5.1
+603,Mädchen Mädchen 2,2004,88.0,Peter Gersina,"Diana Amft, Karoline Herfurth, Jasmin Gerat","Comedy, Romance",4.8
+604,Only Human,2004,85.0,"Teresa de Pelegri, Dominic Harari","Guillermo Toledo, Marián Aguilera, María Botto","Comedy, Romance",6.8
+605,Retrograde,2004,93.0,Christopher Kulikowski,"Dolph Lundgren, Silvia De Santis, Joe Montana","Action, Sci-Fi",3.2
+606,Quill: The Life of a Guide Dog,2004,100.0,Yôichi Sai,"Kaoru Kobayashi, Kippei Shîna, Teruyuki Kagawa",Drama,7.1
+607,Paper Clips,2004,82.0,"Elliot Berlin, Joe Fab","Sandra Roberts, Dagmar Schroeder-Hildebrand, Tom Bosley","Documentary, War",7.3
+608,The Life,2004,87.0,María Lidón,"Daryl Hannah, Denise Richards, Joaquim de Almeida",Drama,4.2
+609,Freshman Orientation,2004,92.0,Ryan Shiraki,"Sam Huntington, Marla Sokoloff, Mike Erwin","Comedy, Romance",5.2
+610,The Story of My Life,2004,90.0,Laurent Tirard,"Edouard Baer, Marie-Josée Croze, Clovis Cornillac","Comedy, Romance",6.6
+611,The Best Two Years,2004,112.0,Scott S. Anderson,"K.C. Clyde, Kirby Heyborne, Cameron Hopkin","Comedy, Drama",7.5
+612,Perazhagan,2004,143.0,Sasi Shankar,"Suriya, Jyotika, Vivek","Comedy, Drama, Romance",6.4
+613,Attagasam,2004,157.0,Saran,"Ajith Kumar, Pooja Umashankar, Sujatha","Action, Drama",6.3
+614,The Dust Factory,2004,99.0,Eric Small,"Hayden Panettiere, Ryan Kelley, Armin Mueller-Stahl","Drama, Family, Fantasy",5.8
+615,Word Wars,2004,80.0,"Eric Chaikin, Julian Petrillo","Joe Edley, Matt Graham, Marlon Hill","Documentary, Comedy",6.9
+616,Unforgivable Blackness: The Rise and Fall of Jack Johnson,2004,214.0,Ken Burns,"Jack Johnson, Stanley Crouch, James Earl Jones","Documentary, Biography, Sport",8.3
+617,A Wonderful Night in Split,2004,100.0,Arsen A. Ostojic,"Dino Dvornik, Mladen Vulic, Coolio","Crime, Drama, Romance",7.4
+618,Blast,2004,92.0,Anthony Hickox,"Eddie Griffin, Vinnie Jones, Breckin Meyer","Action, Thriller",4.7
+619,The Curse of the Komodo,2004,92.0,Jim Wynorski,"Tim Abell, Rocky DeMarco, Gail Thackray","Adventure, Horror, Sci-Fi",3.0
+620,The Collector,2004,86.0,Lasse Spang Olsen,"Iben Hjejle, Kim Bodnia, Allan Olsen","Action, Comedy, Crime",5.4
+621,The Bodyguard,2004,105.0,"Panna Rittikrai, Phetthai Vongkumlao","Phetthai Vongkumlao, Pumwaree Yodkamol, Piphat Apiraktanakorn","Action, Comedy",5.7
+622,Chrystal,2004,106.0,Ray McKinnon,"Lisa Blount, Billy Bob Thornton, Kamron Ross Stacey","Crime, Drama",6.5
+623,The Last Run,2004,97.0,Jonathan Segal,"Fred Savage, Amy Adams, Steven Pasquale","Comedy, Drama",4.7
+624,Day and Night,2004,95.0,Simon Staho,"Mikael Persbrandt, Sam Kessel, Maria Bonnevie",Drama,6.5
+625,Beyond the Front Line,2004,127.0,Åke Lindman,"Tobias Zilliacus, Ilkka Heiskanen, Christoffer Weiss","Drama, History, War",6.5
+626,Triple agent,2004,115.0,Éric Rohmer,"Katerina Didaskalou, Serge Renko, Cyrielle Clair","Drama, Thriller",6.4
+627,Let's Bring Our Heroes Home,2004,163.0,Milan Luthria,"Amitabh Bachchan, Sanjay Dutt, Akshaye Khanna","Action, Drama, Thriller",6.0
+628,M. Kumaran S/O Mahalakshmi,2004,166.0,Mohan Raja,"Ravi Mohan, Asin, Nadia Moidu",,7.2
+629,The Light,2004,105.0,Philippe Lioret,"Sandrine Bonnaire, Philippe Torreton, Grégori Derangère","Drama, Romance",7.0
+630,A Breath,2004,107.0,Sandeep Sawant,"Arun Nalawade, Ashwin Chitale, Sandeep Kulkarni",Drama,8.2
+631,Six: The Mark Unleashed,2004,107.0,Kevin Downes,"Stephen Baldwin, David A.R. White, Kevin Downes","Action, Drama, Sci-Fi",4.1
+632,Art of the Devil,2004,100.0,Tanit Jitnukul,"Krongthong Rachatawan, Kratae Supakson Ruengsomboon, Arisa Wills","Horror, Mystery, Thriller",4.7
+633,Evil Remains,2004,88.0,James Merendino,"Jeff Galpin, Maryam d'Abo, Will Rokos","Horror, Thriller",3.9
+634,The Blue Butterfly,2004,97.0,Léa Pool,"Marc Donato, William Hurt, Pascale Bussières","Adventure, Drama",6.2
+635,Wilby Wonderful,2004,99.0,Daniel MacIvor,"James Allodi, Callum Keith Rennie, Elliot Page","Comedy, Drama, Romance",6.6
+636,Or (My Treasure),2004,97.0,Keren Yedaya,"Dana Ivgy, Ronit Elkabetz, Meshar Cohen","Drama, Romance",7.0
+637,The Confessor,2004,91.0,Lewin Webb,"Christian Slater, Molly Parker, Stephen Rea","Drama, Mystery, Thriller",5.2
+638,Three Way,2004,88.0,Scott Ziehl,"Dominic Purcell, Joy Bryant, Ali Larter","Crime, Drama, Thriller",4.6
+639,In Oranje,2004,95.0,Joram Lürsen,"Yannick van de Velde, Thomas Acda, Wendy van Dijk","Drama, Family, Sport",6.6
+640,Fascination,2004,95.0,Klaus Menzel,"James Naughton, Jacqueline Bisset, Adam Garcia","Drama, Mystery, Romance",3.8
+641,Chestnut: Hero of Central Park,2004,87.0,Robert Vince,"Makenzie Vega, Abigail Breslin, Christine Tucci","Comedy, Drama, Family",5.8
+642,Breaking Dawn,2004,87.0,Mark Edwin Robinson,"Kelly Overton, James Haven, Jennette McCurdy","Horror, Mystery, Thriller",5.5
+643,A Different Loyalty,2004,96.0,Marek Kanievska,"Sharon Stone, Rupert Everett, Julian Wadham","Drama, Romance, Thriller",4.9
+644,Brodeuses,2004,89.0,Éléonore Faucher,"Ariane Ascaride, Lola Naymark, Jackie Berroyer","Drama, Romance",6.9
+645,After Midnight,2004,92.0,Davide Ferrario,"Giorgio Pasotti, Francesca Inaudi, Fabio Troiano","Comedy, Romance",6.8
+646,Jazzclub - Der frühe Vogel fängt den Wurm.,2004,84.0,Helge Schneider,"Helge Schneider, Jimmy Woode, Pete York","Comedy, Music",6.7
+647,Saint Seiya: Heaven Chapter - Overture,2004,84.0,Shigeyasu Yamauchi,"Tôru Furuya, Hirotaka Suzuoki, Kôichi Hashimoto","Animation, Fantasy",7.0
+648,LolliLove,2004,64.0,Jenna Fischer,"James Gunn, Jenna Fischer, Peter Alton",Comedy,6.1
+649,Witch Board: Bunshinsaba,2004,120.0,Byeong-ki Ahn,"Kim Gyu-ri, Lee Se-eun, Lee Yu-ri","Horror, Thriller",5.6
+650,Gitarrmongot,2004,89.0,Ruben Östlund,"Erik Rutström, Britt-Marie Andersson, Mikael Allu",Drama,5.9
+651,Krishna Cottage,2004,124.0,Santram Varma,"Sohail Khan, Isha Koppikar, Anita Hassanandani Reddy","Horror, Mystery, Romance",5.3
+652,The Threat,2004,103.0,Kjell Sundvall,"Shanti Roney, Maria Bonnevie, Stefan Sauk","Action, Thriller",4.9
+653,Triad Underworld,2004,85.0,Wong Ching-Po,"Andy Lau, Jacky Cheung, Shawn Yue","Action, Crime, Drama",6.2
+654,Eternal,2004,107.0,"Wilhelm Liebenberg, Federico Sanchez","Caroline Néron, Sarah Manninen, Victoria Sanchez","Horror, Mystery, Thriller",4.8
+655,Run,2004,137.0,Jeeva,"Abhishek Bachchan, Bhoomika Chawla, Mahesh Manjrekar","Action, Comedy, Drama",5.0
+656,The Best of Times,2004,113.0,Hala Khalil,"Hanan Turk, Hind Sabri, Menna Shalabi",Drama,6.8
+657,The PianoTuner of EarthQuakes,2004,99.0,"Stephen Quay, Timothy Quay, Weiser Quay","Amira Casar, Gottfried John, Assumpta Serna","Animation, Drama, Family",6.2
+658,Genesis,2004,81.0,"Claude Nuridsany, Marie Pérennou",Sotigui Kouyaté,Documentary,7.1
+659,Hipnos,2004,93.0,David Carreras,"Cristina Brondo, Demián Bichir, Marisol Membrillo","Drama, Horror, Thriller",5.4
+660,Naani,2004,155.0,S.J. Suryah,"Mahesh Babu, Ameesha Patel, Mohammad Ali","Comedy, Drama, Fantasy",5.2
+661,I Love Cinema,2004,125.0,Osama Fawzy,"Laila Eloui, Mahmoud Hemida, Menna Shalabi","Drama, Comedy",6.6
+662,Dev,2004,172.0,Govind Nihalani,"Amitabh Bachchan, Om Puri, Fardeen Khan",Drama,6.7
+663,Whisky Romeo Zulu,2004,105.0,Enrique Piñeyro,"Enrique Piñeyro, Mercedes Morán, Alejandro Awada","Drama, Thriller",7.4
+664,El 7º día,2004,96.0,Carlos Saura,"José Garcia, Eulàlia Ramon, Yohana Cobo","Crime, Drama, Horror",6.7
+665,Coma,2004,84.0,Arash Moayerian,"Mahnaz Afshar, Asghar Ashouri, Mojtaba Bitarafan","Comedy, Drama, Romance",5.5
+666,Mondovino,2004,135.0,Jonathan Nossiter,"Albiera Antinori, Allegra Antinori, Lodovico Antinori",Documentary,7.0
+667,The Return of James Battle,2004,92.0,"Didier Poiraud, Thierry Poiraud","Vanessa Paradis, Jason Flemyng, Benoît Poelvoorde","Adventure, Comedy, Horror",5.3
+668,Death Valley: The Revenge of Bloody Bill,2004,82.0,Byron Werner,"Chelsea Jean, Gregory Bastien, Denise Boutte","Drama, Horror, Thriller",3.0
+669,Gladiatress,2004,89.0,Brian Grant,"David Hayman, Ronan Vibert, Philippe De Grossouvre","Adventure, Comedy",4.2
+670,Koirankynnen leikkaaja,2004,105.0,Markku Pölönen,"Peter Franzén, Taisto Reimaluoto, Ahti Kuoppala",Drama,6.8
+671,Winter Solstice,2004,90.0,Josh Sternfeld,"Anthony LaPaglia, Aaron Stanford, Mark Webber",Drama,6.0
+672,Isi/Disi: Amor a lo bestia,2004,88.0,Chema de la Peña,"Santiago Segura, Florentino Fernández, Jaydy Michel","Comedy, Music",4.5
+673,The Freediver,2004,95.0,Alki David,"Alki David, Adam Baldwin, Camilla Rutherford","Action, Adventure",4.5
+674,Bare Bea,2004,86.0,Petter Næss,"Kaia Foss, Kamilla Grønli Hartvig, Ida Thurman-Moe",Drama,5.4
+675,Sorte Nula,2004,85.0,Fernando Fragata,"Helder Mendes, António Feio, Rui Unas","Mystery, Crime",6.3
+676,Rudraksh,2004,143.0,Mani Shankar,"Sanjay Dutt, Bipasha Basu, Suniel Shetty","Action, Fantasy, Sci-Fi",2.8
+677,Be Here to Love Me,2004,99.0,Margaret Brown,"Joe Ely, Guy Clark, Willie Nelson","Documentary, Biography, Music",7.8
+678,Poster Boy,2004,98.0,Zak Tucker,"Matt Newton, Michael Lerner, Karen Allen",Drama,6.0
+679,Straight Into Darkness,2004,95.0,Jeff Burr,"Ryan Francis, Scott MacDonald, Linda Thorson","Action, Drama, Horror",4.9
+680,The Future of Food,2004,88.0,Deborah Koons Garcia,"Charles Benbrook, Grace Booth, George W. Bush",Documentary,7.7
+681,Vettam,2004,163.0,Priyadarshan,"Dileep, Bhavna Pani, Kalabhavan Mani","Comedy, Romance",7.2
+682,Perfect Opposites,2004,99.0,Matt Cooper,"Martin Henderson, Piper Perabo, Jason Winer","Drama, Romance",5.5
+683,May 6th,2004,117.0,Theo van Gogh,"Thijs Römer, Tara Elders, Cahit Ölmez","Drama, Thriller",6.6
+684,Stratosphere Girl,2004,85.0,Matthias X. Oberg,"Chloé Winkel, Jon Yang, Rebecca Palmer","Drama, Mystery",6.3
+685,Mail Order Wife,2004,92.0,"Huck Botko, Andrew Gurland","Adrian Martinez, Roland Uruci, Andrew Gurland",Comedy,6.1
+686,Clementine,2004,100.0,Du-yeong Kim,"Lee Dong-jun, Steven Seagal, Kim Hye-ri","Action, Drama",3.0
+687,Lightning Bug,2004,97.0,Robert Hall,"Bret Harrison, Laura Prepon, Kevin Gage",Drama,6.4
+688,Celsius 41.11: The Temperature at Which the Brain... Begins to Die,2004,72.0,Kevin Knoblock,"Fred Thompson, Michael Moore, John Kerry","Documentary, War",4.0
+689,Duel,2004,133.0,Ahmad Reza Darvish,"Saeed Rad, Pejman Bazeghi, Parivash Nazarieh","Action, Drama, War",6.4
+690,Battle of the Brave,2004,143.0,Jean Beaudin,"Noémie Godin-Vigneau, David La Haye, Juliette Gosselin","Drama, History, Romance",5.3
+691,The Guy Was Cool,2004,113.0,Hwan-kyung Lee,"Song Seung-heon, Jeong Da-bin, Lee Ki-woo","Comedy, Romance",6.1
+692,The Fever,2004,83.0,Carlo Gabriel Nero,"Vanessa Redgrave, Maxim Vengerov, Vag Papian",Drama,5.6
+693,Rolling Family,2004,103.0,Pablo Trapero,"Graciana Chironi, Adelina Bielopolsky, Ludmila Stancer","Comedy, Drama",6.6
+694,Svoi,2004,111.0,Dmitriy Meskhiev,"Konstantin Khabensky, Sergey Garmash, Ben Perino","Action, Drama, War",7.4
+695,11:11,2004,95.0,Micheal Bafaro,"Laura Mennell, Paul Dzenkiw, Christie Will Wolf","Horror, Thriller",3.6
+696,Sethurama Iyer CBI,2004,145.0,K. Madhu,"Mammootty, Mukesh, Jagathy Sreekumar","Mystery, Thriller",7.2
+697,20:30:40,2004,113.0,Sylvia Chang,"Sylvia Chang, Rene Liu, Angelica Lee","Comedy, Drama, Music",6.6
+698,Fjorton suger,2004,83.0,"Filippa Freijd, Martin Jern, Emil Larsson","Elin Ahlberg, Jesper Fridh, Andreas Karoliussen","Drama, Romance",4.7
+699,The Welts,2004,91.0,Magdalena Piekorz,"Michal Zebrowski, Jan Frycz, Agnieszka Grochowska",Drama,7.1
+700,C(r)ook,2004,108.0,Pepe Danquart,"Henry Hübchen, Moritz Bleibtreu, Corinna Harfouch",Comedy,6.3
+701,Roma,2004,155.0,Adolfo Aristarain,"Juan Diego Botto, Susú Pecoraro, José Sacristán",Drama,7.4
+702,Aapthamitra,2004,100.0,P. Vasu,"Vishnuvardhan, Soundarya, Ramesh Aravind","Drama, Horror, Thriller",8.2
+703,Double Dare,2004,81.0,Amanda Micheli,"Jeannie Epper, Zoë Bell, Lynda Carter",Documentary,7.3
+704,Everyday People,2004,91.0,Jim McKay,"Nathan De'Shon Myers, Jordan Gelber, Bridget Barkan",Drama,6.5
+705,Producing Adults,2004,102.0,Aleksi Salmenperä,"Minna Haapkylä, Kari-Pekka Toivonen, Minttu Mustakallio","Comedy, Drama",6.1
+706,Che ne sarà di noi,2004,100.0,Giovanni Veronesi,"Silvio Muccino, Violante Placido, Giuseppe Sanfelice","Drama, Comedy",5.8
+707,The Japanese Wife Next Door,2004,60.0,Yutaka Ikejima,"Reiko Yamaguchi, Naohiro Hirakawa, Kaoru Akitsu",Comedy,5.2
+708,Flower and Snake,2004,115.0,Takashi Ishii,"Aya Sugimoto, Renji Ishibashi, Ken'ichi Endô","Drama, Thriller",5.5
+709,Oyster Farmer,2004,91.0,Anna Reeves,"Alex O'Loughlin, Jim Norton, Diana Glenn","Comedy, Crime, Drama",6.5
+710,The Aryan Couple,2004,120.0,John Daly,"Martin Landau, Kenny Doughty, Caroline Carver","Drama, War",6.4
+711,Garçon stupide,2004,94.0,Lionel Baier,"Pierre Chatagny, Natacha Koutchoumov, Rui Alves","Comedy, Drama, Romance",6.1
+712,L'amore è eterno finché dura,2004,108.0,Carlo Verdone,"Carlo Verdone, Laura Morante, Stefania Rocca","Comedy, Romance",6.2
+713,Marie and Bruce,2004,90.0,Tom Cairns,"Julianne Moore, Matthew Broderick, Bob Balaban","Comedy, Drama",4.5
+714,I Like Killing Flies,2004,80.0,Matt Mahurin,"Michael Fishman, John A. Papa, Eve Shopsin",Documentary,7.3
+715,Blackballed: The Bobby Dukes Story,2004,91.0,Brant Sersen,"Rob Corddry, Paul Scheer, Dannah Feinglass Phirman",Comedy,6.2
+716,Brother to Brother,2004,94.0,Rodney Evans,"Anthony Mackie, Roger Robinson, Alex Burns",Drama,7.1
+717,Kaadhal,2004,122.0,Balaji Sakthivel,"Bharath Srinivasan, Sandhya, Sukumar",Romance,7.6
+718,Death in Gaza,2004,80.0,James Miller,"James Miller, Saira Shah",Documentary,8.0
+719,Mila from Mars,2004,91.0,Zornitsa Sophia,"Vesela Kazakova, Assen Blatechki, Zlatina Todeva",Drama,6.9
+720,Milionari de weekend,2004,90.0,Cãtãlin Saizescu,"Andi Vasluianu, Maria Dinulescu, Mihai Bendeac",Comedy,6.8
+721,Devilman,2004,116.0,Hiroyuki Nasu,"Hisato Izaki, Yûsuke Izaki, Ayana Sakai","Action, Fantasy, Horror",3.9
+722,The Hand,2004,56.0,Wong Kar-Wai,"Chang Chen, Feng Tien, Chun-Luk Chan","Drama, Romance",7.4
+723,The Scarlet Letter,2004,115.0,Hyuk Byun,"Han Suk-kyu, Lee Eun-ju, Sung Hyun-ah","Drama, Mystery, Romance",6.3
+724,Nastroyshchik,2004,154.0,Kira Muratova,"Georgiy Deliev, Alla Demidova, Renata Litvinova","Comedy, Crime, Drama",7.6
+725,Turn Left at the End of the World,2004,110.0,Avi Nesher,"Netta Garti, Liraz Charhi, Aure Atika","Drama, Romance",7.0
+726,Piccadilly Jim,2004,97.0,John McKay,"Sam Rockwell, Frances O'Connor, Tom Wilkinson","Comedy, Romance",5.8
+727,Agata and the Storm,2004,125.0,Silvio Soldini,"Licia Maglietta, Giuseppe Battiston, Emilio Solfrizzi","Comedy, Romance",6.5
+728,Autograph,2004,168.0,Cheran,"Cheran, Sneha, Gopika",Romance,7.8
+729,Gharshana,2004,159.0,Gautham Vasudev Menon,"Venkatesh Daggubati, Asin, Saleem Baig","Action, Crime, Drama",7.4
+730,Los Muertos,2004,78.0,Lisandro Alonso,"Argentino Vargas, Francisco Dornez, Yolanda Galarza",Drama,6.7
+731,Udhaya,2004,122.0,Azhagam Perumal,"Joseph Vijay, Simran, Pyramid Natarajan","Action, Drama, Thriller",4.5
+732,Waiting Alone,2004,107.0,Dayyan Eng,"Yu Xia, Bingbing Li, Beibi Gong","Comedy, Drama, Romance",7.3
+733,The Work and the Glory,2004,110.0,Russell Holt,"Sam Hennings, Eric Johnson, Alexander Carroll","Romance, Drama",6.5
+734,Face,2004,92.0,Sang-gon Yoo,"Song Yun-ah, Shin Hyeon-jun, Kim Seung-wook","Drama, Horror",5.6
+735,The Take,2004,87.0,Avi Lewis,"Matilde Adorno, Michel Camadessus, Bill Clinton",Documentary,7.6
+736,Gudumba Shankar,2004,176.0,Veera Shankar,"Pawan Kalyan, Meera Jasmine, Ashish Vidyarthi","Comedy, Drama",5.8
+737,Mariages!,2004,100.0,Valérie Guignabodet,"Mathilde Seigner, Jean Dujardin, Miou-Miou","Comedy, Drama",5.6
+738,Stork Day,2004,90.0,Giulio Manfredonia,"Antonio Albanese, Fabio De Luigi, Goya Toledo","Comedy, Fantasy",6.5
+739,Ellis in Glamourland,2004,95.0,Pieter Kramer,"Linda de Mol, Joan Collins, Chris Tates","Comedy, Romance",5.8
+740,Gusha no bindume,2004,96.0,Hiroki Yamaguchi,"Luchino Fujisaki, Yoshiichi Kawada, Ryôsuke Koshiba","Horror, Sci-Fi",5.9
+741,Iluzija,2004,107.0,Svetozar Ristovski,"Vlado Jovanovski, Marko Kovacevic, Jordanco Cevrevski",Drama,7.5
+742,Bachelor,2004,148.0,Mostofa Sarwar Farooki,"Ferdous Ahmed, Jaya Ahsan, Moutushi Biswas","Comedy, Drama, Romance",7.5
+743,Aetbaar,2004,152.0,Vikram Bhatt,"Amitabh Bachchan, John Abraham, Bipasha Basu","Drama, Musical, Thriller",4.7
+744,Hair High,2004,78.0,Bill Plympton,"Eric Gilliland, Sarah Silverman, Dermot Mulroney","Animation, Comedy, Horror",6.7
+745,In Your Hands,2004,101.0,Annette K. Olesen,"Ann Eleonora Jørgensen, Trine Dyrholm, Nicolaj Kopernikus",Drama,6.7
+746,School for Seduction,2004,104.0,Sue Heel,"Sabina Loddo, Kelly Brook, Jake Canuso","Drama, Comedy, Romance",5.1
+747,Enter the Phoenix,2004,104.0,Stephen Fung,"Eason Chan, Daniel Wu, Karen Mok","Action, Comedy",5.5
+748,Tu pa tam,2004,92.0,Mitja Okorn,"Adnan Omerovic, Toni Cahunek, Klemen Bucan","Adventure, Comedy, Crime",7.1
+749,Dans une galaxie près de chez vous - Le film,2004,109.0,Claude Desrosiers,"Guy Jodoin, Stéphane Crête, Claude Legault","Adventure, Comedy, Sci-Fi",6.9
+750,Trekkies 2,2004,93.0,Roger Nygard,"Vaughn Armstrong, Richard Arnold, Robert Meyer Burnett","Documentary, Comedy",6.3
+751,Suryam,2004,150.0,Samudra V.,"Mohan Babu, Vishnu Manchu, Celina Jaitly","Action, Romance",3.9
+752,The White Dragon,2004,93.0,Wilson Yip,"Francis Ng, Andy On, Lei Liu","Action, Adventure, Comedy",5.5
+753,The Year of the Yao,2004,88.0,"Adam Del Deo, James D. Stern","Yao Ming, Colin Pine, Shaquille O'Neal","Documentary, Sport",7.2
+754,Okal,2004,118.0,Muhammad al-Najjar,"Muhammad Sad, Nour, Hassan Hosny","Comedy, Romance",5.4
+755,Duga mracna noc,2004,200.0,Antun Vrdoljak,"Goran Visnjic, Mustafa Nadarevic, Ivo Gregurevic","Drama, War",6.7
+756,The Last Day,2004,104.0,Rodolphe Marconi,"Nicole Garcia, Gaspard Ulliel, Mélanie Laurent","Drama, Romance",6.0
+757,Someone Special,2004,107.0,Jang Jin,"Jeong Jae-yeong, Lee Na-young, Jo Deok-hyeon","Comedy, Romance",7.0
+758,Schatten der Zeit,2004,122.0,Florian Gallenberger,"Tannishtha Chatterjee, Prashant Narayanan, Tillotama Shome","Drama, Romance",7.6
+759,Occhi di cristallo,2004,107.0,Eros Puglielli,"Luigi Lo Cascio, Lucía Jiménez, José Ángel Egido","Mystery, Thriller",6.3
+760,Locked Up,2004,96.0,Jörg Andreas,"Marcel Schlutt, Mike Sale, Ralph Steel","Crime, Drama, Romance",5.0
+761,Love's Brother,2004,103.0,Jan Sardi,"Giovanni Ribisi, Adam Garcia, Joe Petruzzi","Comedy, Drama, Romance",6.2
+762,Wild Side,2004,93.0,Sébastien Lifshitz,"Stéphanie Michelini, Yasmine Belmadi, Edouard Nikitine","Drama, Romance",6.4
+763,Butterfly,2004,124.0,Yan-Yan Mak,"Josie Ho, Eric Kot, Yuan Tian","Drama, Romance",6.7
+764,Kod amidze Idriza,2004,94.0,Pjer Zalica,"Senad Basic, Mustafa Nadarevic, Semka Sokolovic-Bertok",Drama,7.7
+765,Lakeer: Forbidden Lines,2004,170.0,Ahmed Khan,"Sunny Deol, Suniel Shetty, Sohail Khan","Action, Drama, Romance",4.7
+766,Christmas in Love,2004,118.0,Neri Parenti,"Christian De Sica, Massimo Boldi, Danny DeVito","Comedy, Romance",4.3
+767,Venky,2004,162.0,Sreenu Vaitla,"Ravi Teja, Sneha, Ashutosh Rana",Mystery,7.5
+768,Rancid,2004,108.0,Jack Ersgard,"Matthew Settle, Fay Masterson, Currie Graham","Action, Crime, Thriller",5.4
+769,The Nomi Song,2004,98.0,Andrew Horn,"Klaus Nomi, Ann Magnuson, David Bowie","Documentary, Biography, Music",7.4
+770,Knots,2004,93.0,Greg Lombardo,"Scott Cohen, John Stamos, Annabeth Gish",Comedy,5.5
+771,Harry + Max,2004,74.0,Christopher Munch,"Bryce Johnson, Cole Williams, Rain Phoenix","Drama, Romance",5.5
+772,Man About Dog,2004,85.0,Paddy Breathnach,"Allen Leech, Tom Murphy, Ciaran Nolan",Comedy,6.4
+773,University of Laughs,2004,121.0,Mamoru Hoshi,"Kôji Yakusho, Gorô Inagaki, Masaya Takahashi","Comedy, Drama",7.4
+774,Viper in the Fist,2004,100.0,Philippe de Broca,"Catherine Frot, Jacques Villeret, Jules Sitruk",Drama,6.4
+775,Snowboarders,2004,99.0,Karel Janák,"Vojtech Kotek, Jirí Mádl, Ester Geislerová",Comedy,5.9
+776,Clifford's Really Big Movie,2004,74.0,"Robert C. Ramirez, Steve Trenbirth","John Ritter, Cree Summer, Kel Mitchell","Animation, Adventure, Comedy",5.4
+777,Childstar,2004,98.0,Don McKellar,"Don McKellar, Peter Paige, Gil Bellows","Comedy, Drama",6.0
+778,Feng Shui,2004,117.0,Chito S. Roño,"Kris Aquino, Jay Manalo, Lotlot De Leon","Drama, Horror, Thriller",6.4
+779,Peas at 5:30,2004,111.0,Lars Büchel,"Fritzi Haberlandt, Hilmir Snær Guðnason, Tina Engel","Comedy, Drama, Romance",6.9
+780,Redentor,2004,100.0,Cláudio Torres,"Pedro Cardoso, Miguel Falabella, Fernanda Montenegro","Drama, Fantasy",6.9
+781,Dealer,2004,130.0,Benedek Fliegauf,"Felicián Keresztes, Barbara Thurzó, Lajos Szakács",Drama,6.9
+782,Slugs,2004,86.0,Michael Glawogger,"Raimund Wallisch, Michael Ostrowski, Pia Hierzegger","Comedy, Drama",5.9
+783,À Tout de Suite,2004,95.0,Benoît Jacquot,"Isild Le Besco, Ouassini Embarek, Nicolas Duvauchelle","Crime, Drama, Romance",6.4
+784,Días de Santiago,2004,82.0,Josué Méndez,"Pietro Sibille, Milagros Vidal, Marisela Puicón",Drama,7.2
+785,Method,2004,93.0,Duncan Roy,"Elizabeth Hurley, Jeremy Sisto, Oliver Tobias","Romance, Thriller",4.4
+786,Uuno Turhapuro - this is my life,2004,104.0,Ere Kokkonen,"Vesa-Matti Loiri, Marjatta Raita, Tapio Hämäläinen",Comedy,5.1
+787,Shake Hands with the Devil: The Journey of Roméo Dallaire,2004,90.0,Peter Raymont,"Gerry Caplan, Bill Clinton, Hillary Clinton",Documentary,8.1
+788,Hom rong,2004,103.0,Itthisoontorn Vichailak,"Anuchit Sapanpong, Adul Dulyarat, Pongpat Wachirabunjong","Biography, Drama, History",7.9
+789,Fade to Black,2004,109.0,"Patrick Paulson, Michael John Warren","Jay-Z, Rick Rubin, Missy Elliott",Documentary,6.9
+790,Formula 17,2004,88.0,Yin-jung Chen,"Yo Yang, Duncan Lai, King Chin","Comedy, Romance",6.2
+791,Extreme Dating,2004,96.0,Lorena David,"Monique Demers, Meat Loaf, Benjamin King","Action, Comedy, Romance",5.1
+792,Zapata - El sueño del héroe,2004,,Alfonso Arau,"Alejandro Fernández, Lucero, Patricia Velasquez","Biography, Drama, Fantasy",2.2
+793,"Love, So Divine",2004,110.0,Heo In-moo,"Kwon Sang-woo, Ha Ji-Won, Kim In-kwon","Comedy, Romance",6.3
+794,The President's Barber,2004,116.0,Chan-sang Lim,"Song Kang-ho, Moon So-ri, Lee Jae-eung","Comedy, Drama",6.9
+795,Memoria del saqueo,2004,120.0,Fernando E. Solanas,"Mick Jagger, Keith Richards, Fernando E. Solanas",Documentary,7.9
+796,The Halfway House,2004,90.0,Kenneth J. Hall,"Mary Woronov, Janet Tracy Keijser, Shawn Savage","Comedy, Horror",4.3
+797,Electric Shadows,2004,93.0,Jiang Xiao,"Yu Xia, Haibin Li, Yijing Zhang",Drama,7.5
+798,The Lazarus Child,2004,93.0,Graham Theakston,"Andy Garcia, Frances O'Connor, Angela Bassett","Drama, Horror",4.8
+799,50 Ways to Leave Your Lover,2004,95.0,Jordan Hawley,"Ashley Ummel, Sarah Ummel, Jack Jozefson","Comedy, Romance",5.7
+800,Swindled,2004,110.0,Miguel Bardem,"Ernesto Alterio, Victoria Abril, Federico Luppi","Crime, Thriller, Drama",6.7
+801,Schizo,2004,86.0,Gulshat Omarova,"Oldzhas Nusupbayev, Olga Landina, Eduard Tabishev","Crime, Drama, Romance",7.0
+802,A State of Mind,2004,93.0,Daniel Gordon,"Daniel Gordon, Hyon Sun Pak, Song Yun Kim",Documentary,7.7
+803,Max Havoc: Curse of the Dragon,2004,90.0,"Albert Pyun, Isaac Florentine","Mickey Hardt, Nikki Ziering, Scott L. Schwartz",Action,3.4
+804,Wild Roomies,2004,88.0,Oliver Robins,"A.J. Buckley, Holly Fields, Jennifer Lyons","Comedy, Drama, Romance",4.1
+805,Soundless,2004,94.0,Mennan Yapo,"Joachim Król, Nadja Uhl, Christian Berkel","Crime, Romance, Thriller",6.5
+806,Woman Thou Art Loosed,2004,94.0,Michael Schultz,"Kimberly Elise, T.D. Jakes, Michael Boatman",Drama,6.6
+807,The Whore and the Whale,2004,120.0,Luis Puenzo,"Leonardo Sbaraglia, Aitana Sánchez-Gijón, Pep Munné",Drama,6.4
+808,Melegin Düsüsü,2004,98.0,Semih Kaplanoglu,"Tülin Özen, Budak Akalin, Musa Karagöz",Drama,5.9
+809,Den som frykter ulven,2004,106.0,Erich Hörtnagl,"Lars Bom, Kristoffer Joner, Laila Goody","Crime, Thriller",6.0
+810,Sexual Life,2004,96.0,Ken Kwapis,"Azura Skye, Annie Heller, Carla Gallo","Comedy, Drama",5.1
+811,Puerto Vallarta Squeeze,2004,117.0,Arthur Allan Seidelman,"Scott Glenn, Craig Wasson, Giovanna Zacarías","Crime, Drama, Romance",5.6
+812,Mind the Gap,2004,134.0,Eric Schaeffer,"Alan King, Elizabeth Reaser, Eric Schaeffer","Comedy, Drama",6.9
+813,The End of Suburbia: Oil Depletion and the Collapse of the American Dream,2004,78.0,Gregory Greene,"Barrie Zwicker, James Howard Kunstler, Peter Calthorpe","Documentary, War",7.4
+814,Love on the Side,2004,102.0,Vic Sarin,"Marla Sokoloff, Jennifer Tilly, Monika Schnarre","Comedy, Romance",5.5
+815,Hide and Creep,2004,85.0,"Chuck Hartsell, Chance Shirley","Chuck Hartsell, Michael Shelton, Kyle Holman","Comedy, Horror",4.7
+816,Runway,2004,162.0,Joshiy,"Dileep, Kavya Madhavan, Indrajith Sukumaran","Action, Comedy, Thriller",6.9
+817,The Echo,2004,102.0,Yam Laranas,"Jomari Yllana, Richard Gutierrez, Iza Calzado","Horror, Thriller",5.8
+818,Yesterday Once More,2004,99.0,Johnnie To,"Andy Lau, Sammi Cheng, Jenny Hu","Comedy, Crime, Romance",6.2
+819,Plan,2004,149.0,Hriday Shetty,"Sanjay Dutt, Priyanka Chopra Jonas, Dino Morea","Action, Comedy, Crime",4.4
+820,Nina,2004,85.0,Heitor Dhalia,"Guta Stresser, Myrian Muniz, Juliana Galdino","Drama, Animation, Thriller",6.7
+821,Erreway: 4 caminos,2004,102.0,Ezequiel Crupnicoff,"Felipe Colombo, Camila Bordonaba, Luisana Lopilato","Adventure, Comedy, Drama",6.4
+822,The Other Side of the Street,2004,98.0,Marcos Bernstein,"Fernanda Montenegro, Raul Cortez, Laura Cardoso","Crime, Drama, Mystery",6.7
+823,The Big Swindle,2004,116.0,Dong-hoon Choi,"Park Shin-yang, Yum Jung-ah, Baek Yoon-shik","Action, Comedy, Crime",6.5
+824,Cama adentro,2004,83.0,Jorge Gaggero,"Norma Aleandro, Norma Argentina, Marcos Mundstock",Drama,7.0
+825,Twist of Faith,2004,87.0,Kirby Dick,"Jeff Anderson, Barbara Blaine, David Clohessy",Documentary,7.2
+826,Waiting for the Clouds,2004,90.0,Yesim Ustaoglu,"Rüçhan Çaliskur, Ridvan Yagci, Dimitris Kaberidis",Drama,6.6
+827,Straight-Jacket,2004,96.0,Richard Day,"Matt Letscher, Carrie Preston, Adam Greer","Comedy, Romance",6.6
+828,Anji,2004,148.0,Kodi Ramakrishna,"Chiranjeevi, Namrata Shirodkar, Tinnu Anand","Action, Adventure, Drama",6.4
+829,Le pont des Arts,2004,126.0,Eugène Green,"Adrien Michaux, Natacha Régnier, Alexis Loret","Drama, Music",6.9
+830,Thunderstruck,2004,98.0,Darren Ashton,"Damon Gameau, Stephen Curry, Ryan Johnson","Comedy, Drama, Music",6.1
+831,Visions of Europe,2004,140.0,"Fatih Akin, Barbara Albert, Sharunas Bartas","Alan Rees, Yohanna Troell, Agneta Ulfsäter-Troell","Comedy, Drama",5.8
+832,Khun krabii hiiroh,2004,95.0,Taweewat Wantha,"Suthep Po-ngam, Supakorn Kitsuwon, Phintusuda Tunphairao","Action, Comedy, Fantasy",5.8
+833,The Beach Loafer,2004,95.0,Ali Ragab,"Ahmed Helmy, Yasmin Abdelaziz, Mahmoud Abdulmoghni","Comedy, Drama, Romance",4.9
+834,Red Eye,2004,96.0,Dong-bin Kim,"Jang Shin-yeong, Kwak Ji-min, Lee Dong-kyu",Horror,4.7
+835,Looking for Kitty,2004,95.0,Edward Burns,"Max Baker, Connie Britton, Edward Burns","Comedy, Drama",6.0
+836,Romance of Their Own,2004,113.0,Tae-gyun Kim,"Jo Han-sun, Gang Dong-won, Lee Chung-Ah","Action, Drama, Romance",6.2
+837,Tow-Truck Pluck,2004,91.0,"Ben Sombogaart, Pieter van Rijn","Janieck van de Polder, Suzanne Zuiderwijk, Yeshela Crommelin","Family, Fantasy, Musical",6.2
+838,Vaada,2004,122.0,Satish Kaushik,"Arjun Rampal, Zayed Khan, Ameesha Patel","Crime, Drama, Mystery",6.0
+839,Adam & Evil,2004,90.0,Andrew Van Slee,"Sean Arnfinson, Dave Barton, Lynsey Brothers",Horror,3.2
+840,Trench Road,2004,111.0,Veikko Aaltonen,"Eero Aho, Tiina Lymi, Ella Lymi","Comedy, Drama",6.2
+841,La rivincita di Natale,2004,99.0,Pupi Avati,"Diego Abatantuono, Gianni Cavina, Carlo Delle Piane","Comedy, Drama",6.8
+842,Private,2004,90.0,Saverio Costanzo,"Mohammad Bakri, Lior Miller, Hend Ayoub","Drama, War",6.8
+843,Falling in the Paradise,2004,93.0,Milos Radovic,"Lazar Ristovski, Branka Katic, Simon Lyndon","Comedy, War",6.1
+844,You I Love,2004,83.0,"Olga Stolpovskaja, Dmitriy Troitskiy","Damir Badmaev, Lyubov Tolkalina, Evgeniy Koryakovskiy","Comedy, Romance",6.2
+845,The Fallen,2004,112.0,Ari Taub,"Christopher R Swanson, Daniel Asher, Brian Bancale","Action, Drama, War",5.0
+846,The Hunting of the President,2004,90.0,"Nickolas Perry, Harry Thomason","Morgan Freeman, Jonathan Alter, Steve Barnes",Documentary,6.9
+847,Di que sí,2004,102.0,Juan Calvo,"Paz Vega, Santi Millán, Constantino Romero","Comedy, Romance",5.2
+848,Uncovered: The Whole Truth About the Iraq War,2004,56.0,Robert Greenwald,"John Dean, David Albright, Robert Baer","Documentary, War",7.7
+849,Daddy,2004,94.0,Vladimir Mashkov,"Vladimir Mashkov, Egor Beroev, Andrei Rozendent",Drama,7.4
+850,Bush's Brain,2004,80.0,"Joseph Mealey, Michael Shoob","Cathy Bonner, Bruce Buchanan, Max Cleland",Documentary,6.7
+851,Orient Express,2004,115.0,Sergiu Nicolaescu,"Sergiu Nicolaescu, Gheorghe Dinica, Dan Bittman","Romance, Drama",6.1
+852,The Ring Thing,2004,80.0,Marc Schippert,"Edward Piccin, Gwendolyn Rich, Leo Roos","Adventure, Comedy",3.7
+853,Gayab,2004,138.0,Prawaal Raman,"Tusshar Kapoor, Antara Mali, Raghubir Yadav","Comedy, Drama, Fantasy",4.4
+854,A Killer Within,2004,110.0,Brad Keller,"C. Thomas Howell, Sean Young, Ben Browder","Crime, Drama, Mystery",5.0
+855,Joyjatra,2004,119.0,Tauquir Ahmed,"Bipasha Hayat, Azizul Hakim, Mahfuz Ahmed",Drama,8.3
+856,Girl Play,2004,80.0,Lee Friedlander,"Robin Greenspan, Lacie Harmon, Mink Stole","Comedy, Romance",4.5
+857,Gilles' Wife,2004,103.0,Frédéric Fonteyne,"Emmanuelle Devos, Clovis Cornillac, Laura Smet",Drama,6.7
+858,Slutty Summer,2004,85.0,Casper Andreas,"Casper Andreas, Christos Klapsis, Virginia Bryan","Comedy, Drama, Romance",5.1
+859,Tumsa Nahin Dekha,2004,128.0,Anurag Basu,"Emraan Hashmi, Dia Mirza, Anupam Kher","Musical, Romance",4.7
+860,Three Suns,2004,102.0,Richard Hobert,"Lena Endre, Kjell Bergqvist, Natalie Minnevik",Drama,2.8
+861,Tears of Kali,2004,106.0,Andreas Marschall,"Peter Martell, Anja Gebel, Magdalena Ritter","Fantasy, Horror",5.3
+862,La peau blanche,2004,92.0,Daniel Roby,"Marc Paquet, Marianne Farley, Frédéric Pierre","Drama, Horror, Mystery",5.9
+863,Stop Mom Teresa!,2004,127.0,Péter Bergendy,"Gabriella Hámori, Sándor Csányi, Eszter Ónodi","Comedy, Romance",5.4
+864,The Great Water,2004,93.0,Ivo Trajkov,"Saso Kekenovski, Maja Stankovska, Mitko Apostolovski","Drama, War",7.0
+865,Art Heist,2004,98.0,Bryan Goeres,"Ellen Pompeo, William Baldwin, Abel Folk","Action, Crime, Thriller",4.3
+866,Going Upriver,2004,87.0,George Butler,"John Kerry, David Alston, Dan Barbiero","Documentary, Biography, History",7.8
+867,El asombroso mundo de Borjamari y Pocholo,2004,90.0,"Juan Cavestany, Enrique López Lavigne","Santiago Segura, Javier Gutiérrez, Pilar Castro",Comedy,3.4
+868,Funky Monkey,2004,94.0,"Harry Basil, Gene Quintano","Seth Adkins, Matthew Modine, Roma Downey","Comedy, Family",3.6
+869,Mój Nikifor,2004,97.0,Krzysztof Krauze,"Krystyna Feldman, Roman Gancarczyk, Jerzy Gudejko","Biography, Drama",6.7
+870,Jasmine Women,2004,130.0,Yong Hou,"Ziyi Zhang, Joan Chen, Lili Ge","Drama, Family, Romance",6.6
+871,Oprosti za kung fu,2004,70.0,Ognjen Svilicic,"Daria Lorenci Flatz, Filip Rados, Vera Zima",Drama,6.7
+872,Starkweather,2004,90.0,Byron Werner,"Brent Taylor, Shannon Lucio, Jerry Kroll","Action, Crime, Drama",4.6
+873,Stille nacht,2004,82.0,Ineke Houtman,"Josefien Hendriks, Liesbeth Kamerling, Victoria Koblenko","Crime, Drama, Mystery",6.4
+874,Tooth,2004,91.0,Edouard Nammour,"Rory Copus, Sally Phillips, Tim Dutton","Family, Fantasy",3.2
+875,Khalti Faransa,2004,101.0,Ali Ragab,"Mona Zaki, Abla Kamel, Amr Waked",Comedy,4.2
+876,Aftermath,2004,104.0,Paprika Steen,"Sofie Gråbøl, Mikael Birkkjær, Søren Pilmark",Drama,6.8
+877,Septem8er Tapes,2004,95.0,Christian Johnston,"George Calil, Wali Razaqi, Sunil Sadarangani","Drama, Thriller, War",5.7
+878,Fighting Tommy Riley,2004,109.0,Eddie O'Flaherty,"Eddie Jones, J.P. Davis, Christina Chambers","Drama, Mystery, Romance",6.5
+879,The Art of Losing,2004,105.0,Sergio Cabrera,"Daniel Giménez Cacho, Martina García, César Mora",Thriller,6.3
+880,La vida que te espera,2004,111.0,Manuel Gutiérrez Aragón,"Juan Diego, Luis Tosar, Marta Etura","Crime, Drama",6.5
+881,Donga Dongadi,2004,139.0,Subramanyam,"Manoj Kumar Manchu, Sada, Ananth",Comedy,5.9
+882,Grand Champion,2004,93.0,Barry Tubb,"Joey Lauren Adams, Jacob Fisher, Emma Roberts","Comedy, Family",4.3
+883,Oh Happy Day,2004,92.0,Hella Joof,"Lotte Andersen, Malik Yoba, Ditte Gråbøl","Comedy, Drama, Music",5.6
+884,Boginya: kak ya polyubila,2004,105.0,Renata Litvinova,"Renata Litvinova, Maksim Sukhanov, Svetlana Svetlichnaya",Drama,6.8
+885,One Perfect Day,2004,106.0,Paul Currie,"Dan Spielman, Leeanna Walsman, Nathan Phillips",Drama,5.9
+886,Howard Zinn: You Can't Be Neutral on a Moving Train,2004,78.0,"Deb Ellis, Denis Mueller","Matt Damon, Daniel Berrigan, Howard Zinn",Documentary,7.4
+887,Lauras Stern,2004,75.0,"Piet De Rycker, Thilo Rothkirch","Céline Vogt, Sandro Iannotta, Maximilian Artajo","Animation, Family, Fantasy",6.3
+888,Snowfever,2004,99.0,Pim van Hoeve,"Daan Schuurmans, Hanna Verboom, Egbert Jan Weeber","Comedy, Romance",4.2
+889,Police Force: An Inside Story,2004,138.0,Dilip Shukla,"Akshay Kumar, Raveena Tandon, Amrish Puri","Action, Crime, Drama",4.3
+890,Lilla Jönssonligan på kollo,2004,87.0,Christjan Wegner,"Conrad Cronheim, Buster Söderström, Anton Pettersson","Family, Comedy",3.2
+891,If Dad Only Knew,2004,99.0,Pete Jones,"Pete Jones, Nathan Fillion, Stoney Westmoreland",Comedy,6.3
+892,Aga Bai Arecha,2004,100.0,Kedar Shinde,"Sanjay Narvekar, Priyanka Yadav, Bharti Achrekar","Comedy, Family, Fantasy",7.5
+893,Out of Season,2004,105.0,Jevon O'Neill,"Dennis Hopper, Gina Gershon, Jordan Frieda","Crime, Drama, Thriller",4.3
+894,10 on Ten,2004,88.0,Abbas Kiarostami,"Abbas Kiarostami, Mania Akbari",Documentary,6.7
+895,The Inn,2004,96.0,Pepi Singh Khara,"Barry Abrams, Nitin Adsul, Chris Brown","Horror, Mystery, Thriller",3.9
+896,Pachadlela,2004,135.0,Mahesh Kothare,"Bharat Jadhav, Shreyas Talpade, Dilip Prabhawalkar","Comedy, Horror",7.6
+897,Bardaasht,2004,155.0,Eeshwar Nivas,"Bobby Deol, Lara Dutta, Rahul Dev","Action, Crime, Drama",5.9
+898,SideFX,2004,85.0,Patrick Johnson,"Amanda Phillips, Todd Swift, Amber Heard",Horror,3.0
+899,San Antonio,2004,95.0,Frédéric Auburtin,"Gérard Lanvin, Gérard Depardieu, Lucy Harrison","Action, Comedy",3.5
+900,The Graffiti Artist,2004,80.0,James Bolton,"Ruben Bansie, Pledgure Duoshun, Zachary S. Smalls","Drama, Romance",6.1
+901,Bibi Blocksberg and the Secret of Blue Owls,2004,119.0,Franziska Buch,"Sidonie von Krosigk, Marie Luise Stahl, Corinna Harfouch","Comedy, Family, Fantasy",5.5
+902,The Seat Filler,2004,90.0,Nick Castle,"Duane Martin, Kelly Rowland, DeRay Davis","Comedy, Music, Romance",5.3
+903,Samba,2004,162.0,V.V. Vinayak,"N.T. Rama Rao Jr., Prakash Raj, Genelia Deshmukh",,4.8
+904,Serial Killing 4 Dummys,2004,89.0,Trace Slobotkin,"Thomas Haden Church, Justin Urich, Lisa Loeb","Comedy, Horror, Mystery",5.2
+905,Game Box 1.0,2004,83.0,"David Hillenbrand, Scott Hillenbrand","Nate Richert, Danielle Fishel, Patrick Kilpatrick","Fantasy, Sci-Fi",4.3
+906,Johan Cruijff - En un momento dado,2004,90.0,Ramón Gieling,"Xavier Pitarque, Gemma Folch, Sergi Pàmies","Documentary, Sport",7.1
+907,Meri Biwi Ka Jawab Nahin,2004,150.0,"Pankaj Parashar, Jaidev Chakraborty, S.M. Iqbal","Akshay Kumar, Sridevi, Gulshan Grover","Action, Comedy, Romance",3.6
+908,The Birthday,2004,100.0,Eugenio Mira,"Corey Feldman, Erica Prior, Jack Taylor","Comedy, Horror, Mystery",5.5
+909,Lucky,2004,83.0,Steve Cuden,"Michael Emanuel, David Reivers, Piper Cochrane","Comedy, Fantasy, Horror",5.3
+910,Yasmin,2004,87.0,Kenneth Glenaan,"Archie Panjabi, Renu Setna, Steve Jackson",Drama,6.9
+911,Ika resuraa,2004,95.0,Minoru Kawasaki,"Nômaru Abe, 'Hurricane Ryu' Hariken, Kana Ishida",Comedy,6.0
+912,Doraemon: Nobita in the Wan-Nyan Spacetime Odyssey,2004,89.0,Tsutomu Shibayama,"Nobuyo Ôyama, Noriko Ohara, Michiko Nomura","Animation, Action, Adventure",7.0
+913,Clara et moi,2004,81.0,Arnaud Viard,"Julien Boisselier, Julie Gayet, Michel Aumont","Drama, Music, Romance",6.5
+914,El padrino,2004,128.0,Damian Chapa,"Damian Chapa, Sal Lopez, Emilio Rivera","Action, Crime, Drama",4.7
+915,The Five of Us,2004,87.0,Ghyslaine Côté,"Jacinthe Laguë, Julie Deslauriers, Ingrid Falaise","Crime, Drama",7.0
+916,Monstertorsdag,2004,99.0,Arild Østin Ommundsen,"Geir Vegar Hoel, Silje Salomonsen, Andreas Cappelen","Drama, Romance, Sport",6.3
+917,Naa Autograph Sweet Memories,2004,148.0,Gopal Reddy S.,"Ravi Teja, Bhoomika Chawla, Gopika","Action, Drama, Romance",7.5
+918,Mémoires affectives,2004,100.0,Francis Leclerc,"Roy Dupuis, Guy Thauvette, Rosa Zacharie",Drama,7.4
+919,Salvador Allende,2004,100.0,Patricio Guzmán,"Salvador Allende, Patricio Guzmán, Jacques Bidou","Documentary, Biography",7.6
+920,Crutch,2004,89.0,Rob Moretti,"Eben Gordon, Rob Moretti, Juanita Walsh","Drama, Romance",5.0
+921,Szezon,2004,89.0,Ferenc Török,"Zsolt Nagy, Judit Rezes, Ervin Nagy","Comedy, Drama",6.2
+922,State's Evidence,2004,89.0,Benjamin Louis,"Douglas Smith, Kris Lemche, Drew Tyler Bell","Drama, Thriller",5.9
+923,The Purifiers,2004,85.0,Richard Jobson,"Kevin McKidd, Gordon Alexander, Rachel Grant",Action,3.3
+924,Holy Lola,2004,128.0,Bertrand Tavernier,"Jacques Gamblin, Isabelle Carré, Bruno Putzulu",Drama,6.5
+925,Phil the Alien,2004,82.0,Rob Stefaniuk,"Rob Stefaniuk, Nicole de Boer, Brad McGinnes","Comedy, Sci-Fi",5.5
+926,Charlie,2004,95.0,Malcolm Needs,"Luke Goss, Leslie Grantham, Marius Weyers","Action, Crime, Drama",5.5
+927,Le dernier tunnel,2004,109.0,Erik Canuel,"Michel Côté, Jean Lapointe, Christopher Heyerdahl","Crime, Drama",6.4
+928,The Junior Olsen Gang Rocks It,2004,92.0,Arne Lindtner Næss,"Aksel Støren Aschjem, Thomas Engeset, Lars Berteig Andersen","Comedy, Family",5.2
+929,Letter from an Unknown Woman,2004,90.0,Jinglei Xu,"Jue Huang, Wen Jiang, Huang Jiao",Drama,6.7
+930,Arul,2004,162.0,Hari,"Vikram, Jyotika, Pasupathy",Action,5.9
+931,Amazones,2004,100.0,Esmé Lammers,"Monique van de Ven, Monic Hendrickx, Georgina Verbaan","Action, Crime, Comedy",5.6
+932,Estamira,2004,121.0,Marcos Prado,Estamira,Documentary,8.1
+933,Vaastu Shastra,2004,106.0,Saurab Narang,"Sushmita Sen, J.D. Chakravarthi, Ahsaas Channa","Horror, Mystery",5.0
+934,Cavedweller,2004,101.0,Lisa Cholodenko,"Kyra Sedgwick, Aidan Quinn, Sherilyn Fenn","Drama, Music",5.6
+935,Chathikkatha Chanthu,2004,,"Meccartin, Raffi","Jayasurya, Navya Nair, Bhavana","Comedy, Drama",7.0
+936,Höllentour,2004,120.0,"Pepe Danquart, Werner Schweizer","Erik Zabel, Rolf Aldag, Dieter Ruthenberg","Documentary, Sport",7.2
+937,Navra Mazha Navsacha,2004,148.0,Sachin Pilgaonkar,"Sachin Pilgaonkar, Supriya Pilgaonkar, Ashok Saraf",Comedy,7.5
+938,Lightning in a Bottle,2004,103.0,Antoine Fuqua,"Clarence 'Gatemouth' Brown, Buddy Guy, Solomon Burke","Documentary, Music",7.6
+939,Pele Forever,2004,125.0,Anibal Massaini Neto,"Celeste Arantes, Assiria, Gordon Banks",Documentary,7.3
+940,A Dona da História,2004,84.0,Daniel Filho,"Marieta Severo, Débora Falabella, Antônio Fagundes","Comedy, Drama, Romance",6.5
+941,Rakht,2004,162.0,Mahesh Manjrekar,"Bipasha Basu, Sanjay Dutt, Suniel Shetty","Horror, Mystery, Thriller",3.8
+942,Allein,2004,88.0,Thomas Durchschlag,"Lavinia Wilson, Maximilian Brückner, Richy Müller",Drama,6.7
+943,"Sex, Love and Betrayal",2004,90.0,Jorge Fernando,"Alessandra Negrini, Betty Faria, Caco Ciocler",Comedy,5.2
+944,When the Sea Rises,2004,89.0,"Yolande Moreau, Gilles Porte","Yolande Moreau, Wim Willaert, Olivier Gourmet","Comedy, Drama, Romance",6.7
+945,Back by Midnight,2004,89.0,Harry Basil,"Rodney Dangerfield, Randy Quaid, Kirstie Alley",Comedy,4.8
+946,Jana,2004,80.0,Shaji Kailas,"Ajith Kumar, Sneha, Siddique","Action, Drama",3.2
+947,Shut Up and Kiss Me!,2004,101.0,Gary Brockette,"Christopher Daniel Barnes, Kristin Richardson, Yelba Zoe McCourt","Action, Comedy, Romance",4.3
+948,Marseille,2004,95.0,Angela Schanelec,"Maren Eggert, Emily Atef, Alexis Loret",Drama,6.4
+949,Sci-Fighter,2004,90.0,Art Camacho,"Don Wilson, Cynthia Rothrock, Lorenzo Lamas","Action, Sci-Fi",2.7
+950,Stray Dogs,2004,93.0,Marzieh Makhmalbaf,"Gol-Ghotai, Zahed, Agheleh Rezaie",Drama,7.1
+951,America's Heart & Soul,2004,84.0,Louie Schwartzberg,"George Woodard, Charles Jimmie Sr., The Vasquez Brothers",Documentary,5.1
+952,Babylonsjukan,2004,90.0,Daniel Espinosa,"Nina Wähä, Paulina Hawliczek, Mikael Wranell",Drama,4.8
+953,Rhythm Is It!,2004,100.0,"Thomas Grube, Enrique Sánchez Lansch","Simon Rattle, Royston Maldoom, Susannah Broughton","Documentary, Music",7.7
+954,Buena vida (Delivery),2004,93.0,Leonardo Di Cesare,"Ignacio Toselli, Mariana Anghileri, Oscar Nuñez","Comedy, Drama",7.1
+955,Meet Market,2004,78.0,Charlie Loventhal,"Krista Allen, Elizabeth Berkley, Susan Egan","Comedy, Romance",3.6
+956,Parasite,2004,93.0,Andrew Prendergast,"Gary Condés, Saskia Gould, Conrad Whitaker","Action, Adventure, Horror",2.8
+957,Denied,2004,96.0,David Paul Scott,"Lee Rumohr, Matt Sadowski, Sarah Kanter","Drama, Romance",4.8
+958,Les textiles,2004,92.0,Franck Landron,"Barbara Schulz, Alexandre Brasseur, Zoé Landron","Comedy, Drama",4.7
+959,Bombay Dreams,2004,91.0,Lena Koppel,"Gayathri Mudigonda, Nadine Kirschon, Sissela Kyle","Comedy, Drama",5.0
+960,Beyond Our Ken,2004,98.0,Ho-Cheung Pang,"Gillian Chung, Daniel Wu, Höng Tao",Drama,6.8
+961,Samba in Mettmann,2004,89.0,Angelo Colagrossi,"Hape Kerkeling, Rolf Nagel, Alexandra Neldel",Comedy,5.0
+962,Plagues and Pleasures on the Salton Sea,2004,74.0,"Chris Metzler, Jeff Springer","Sonny Bono, John Waters, Norm Niver",Documentary,7.4
+963,Melancholian 3 huonetta,2004,106.0,Pirjo Honkasalo,Pirkko Saisio,"Documentary, War",7.2
+964,The Color of Milk,2004,90.0,Torun Lian,"Lars Brunborg, Tobias Bøksle, Celine Engebrigtsen","Comedy, Romance",6.3
+965,Fury Blade,2004,52.0,Alexis Ramirez,"Alexis Ramirez, Ronny Ramirez, Felix Ramirez",Action,4.9
+966,Floris,2004,100.0,Jean van de Velde,"Michiel Huisman, Victor Löw, Daan Schuurmans","Family, Action, Adventure",4.6
+967,Pura vida Ibiza,2004,83.0,Gernot Roll,"Kristian Kiehling, Tom Wlaschiha, Michael Krabbe",Comedy,3.7
+968,Girl's Dormitory,2004,96.0,Mohammad Hossein Latifi,"Baran Kosari, Majid Salehi, Sadegh Safaie","Drama, Horror",5.1
+969,To Catch a Virgin Ghost,2004,109.0,Jeong-won Shin,"Lim Chang-jung, Kwon Oh-jung, Yi Shin","Comedy, Crime, Horror",6.4
+970,Malabar Princess,2004,94.0,Gilles Legrand,"Jacques Villeret, Jules-Angelo Bigarnet, Michèle Laroque",Drama,6.1
+971,Andhrawala,2004,180.0,"Puri Jagannadh, V.V.S. Ram","N.T. Rama Rao Jr., Rakshitha, Sanghavi","Action, Drama",3.5
+972,On the Outs,2004,86.0,"Lori Silverbush, Michael Skolnik","Anny Mariano, Judy Marte, Paola Mendoza",Drama,6.7
+973,Siblings,2004,85.0,David Weaver,"Alex Campbell, Paul Soles, Andrew Chalmers",Comedy,6.3
+974,Benji: Off the Leash!,2004,97.0,Joe Camp,"Nick Whitaker, Chris Kendrick, Nate Bynum","Comedy, Drama, Family",5.2
+975,My Brother,2004,112.0,Kwon-tae Ahn,"Shin Ha-kyun, Won Bin, Kim Hae-sook",Drama,7.0
+976,Testosteroni,2004,92.0,Giorgos Panousopoulos,"Dimitris Liakopoulos, Natalia Dragoumi, Dimitra Matsouka",Comedy,4.6
+977,I Accidentally Domed Your Son,2004,90.0,Ryan Combs,"Pedro Pano, Albert Brooks, Kurupt","Action, Comedy, Adventure",2.1
+978,Touch the Sound: A Sound Journey with Evelyn Glennie,2004,99.0,Thomas Riedelsheimer,"Evelyn Glennie, Fred Frith, Roxane Butterfly",Documentary,7.2
+979,Campfire,2004,96.0,Joseph Cedar,"Michaela Eshet, Hani Furstenberg, Moshe Ivgy",Drama,7.0
+980,"The Tulse Luper Suitcases, Part 2: Vaux to the Sea",2004,108.0,Peter Greenaway,"JJ Feild, Roger Rees, Ana Torrent","Adventure, Biography, Comedy",6.9
+981,Christmas Child,2004,96.0,"Bill Ewing, Bart Gavigan","William R. Moses, Tonya Bordeaux, Steven Curtis Chapman",Drama,6.2
+982,Hector,2004,107.0,Gracia Querejeta,"Adriana Ozores, Nilo Zimmermann, Joaquín Climent",Drama,6.7
+983,A Way of Life,2004,91.0,Amma Asante,"Stephanie James, Gary Sheppeard, Nathan Jones",Drama,6.7
+984,Camping sauvage,2004,100.0,"André Ducharme, Guy A. Lepage, Sylvain Roy","Guy A. Lepage, Sylvie Moreau, Normand D'Amour","Comedy, Crime",5.8
+985,Impact,2004,92.0,Timothy A. Chey,"Arch Bonnema, William Donohue, Jack Graham",Documentary,8.7
+986,Berserker,2004,84.0,Paul Matthews,"Paul Johansson, Craig Sheffer, Kari Wuhrer","Action, Adventure, Fantasy",3.1
+987,People,2004,84.0,Fabien Onteniente,"Rupert Everett, José Garcia, Patrice Cols",Comedy,3.1
+988,Cyber Wars,2004,103.0,Jian Hong Kuo,"Genevieve O'Reilly, Luoyong Wang, Lim Kay Siu","Action, Drama, Sci-Fi",4.4
+989,Lakshmi Narasimha,2004,171.0,Jayant Paranji,"Nandamuri Balakrishna, Asin, Prakash Raj","Action, Drama",6.4
+990,Concrete,2004,113.0,Hiromu Nakamura,"Katsuya Kobayashi, Miki Komori, Masanori Machida","Crime, Drama, Horror",4.4
+991,Asambhav,2004,139.0,Rajiv Rai,"Arjun Rampal, Naseeruddin Shah, Priyanka Chopra Jonas","Action, Adventure, Drama",3.8
+992,NASCAR: The IMAX Experience,2004,48.0,Simon Wincer,"Kiefer Sutherland, Tony Stewart, Matt Kenseth","Documentary, Sport",6.9
+993,Min søsters børn i Ægypten,2004,75.0,Kasper Barfoed,"Lotte Andersen, Peter Gantzler, Niels Olsen","Adventure, Comedy, Family",4.7
+994,Imaginary Witness: Hollywood and the Holocaust,2004,92.0,Daniel Anker,"Gene Hackman, Norma Barzman, Jack Benny","Documentary, History",7.5
+995,Last Quarter,2004,112.0,Ken Nikai,"Chiaki Kuriyama, Hiroki Narimiya, Tomoka Kurokawa","Drama, Romance",6.2
+996,Ve'Lakhta Lehe Isha,2004,97.0,"Ronit Elkabetz, Shlomi Elkabetz","Ronit Elkabetz, Simon Abkarian, Gilbert Melki",Drama,7.1
+997,Suzie Gold,2004,94.0,Ric Cantor,"Ariana Fraval, Daniel Mendoza, Summer Phoenix","Comedy, Drama, Romance",5.6
+998,Bollywood Remixed - Das indische Kino erobert den Westen,2004,77.0,Herbert Krill,"Amitabh Bachchan, Bipasha Basu, Gurinder Chadha",Documentary,5.0
+999,Round Trip,2004,86.0,Marco Ponti,"Libero De Rienzo, Lucilla Giagnoni, Alberto Colombatto",Comedy,6.4
+1000,Target,2004,84.0,William Webb,"Stephen Baldwin, Deborah Worthing, Steffani Brass","Action, Thriller",2.7

@@ -1,0 +1,1001 @@
+﻿ID,Name,Year,Duration,Directors,Actors,Genres,Rating
+1,Gladiator,2000,155.0,Ridley Scott,"Russell Crowe, Joaquin Phoenix, Connie Nielsen","Action, Adventure, Drama",8.5
+2,Memento,2000,113.0,Christopher Nolan,"Guy Pearce, Carrie-Anne Moss, Joe Pantoliano","Mystery, Thriller",8.4
+3,Snatch,2000,102.0,Guy Ritchie,"Jason Statham, Brad Pitt, Stephen Graham","Comedy, Crime",8.2
+4,Requiem for a Dream,2000,102.0,Darren Aronofsky,"Ellen Burstyn, Jared Leto, Jennifer Connelly",Drama,8.3
+5,American Psycho,2000,102.0,Mary Harron,"Christian Bale, Justin Theroux, Josh Lucas","Crime, Drama, Horror",7.6
+6,X-Men,2000,104.0,Bryan Singer,"Patrick Stewart, Hugh Jackman, Ian McKellen","Action, Adventure, Sci-Fi",7.3
+7,Cast Away,2000,143.0,Robert Zemeckis,"Tom Hanks, Helen Hunt, Paul Sanchez","Adventure, Drama, Romance",7.8
+8,Unbreakable,2000,106.0,M. Night Shyamalan,"Bruce Willis, Samuel L. Jackson, Robin Wright","Drama, Mystery, Sci-Fi",7.3
+9,Mission: Impossible II,2000,123.0,John Woo,"Tom Cruise, Dougray Scott, Thandiwe Newton","Action, Adventure, Thriller",6.1
+10,Meet the Parents,2000,108.0,Jay Roach,"Ben Stiller, Robert De Niro, Teri Polo","Comedy, Romance",7.0
+11,"O Brother, Where Art Thou?",2000,107.0,"Joel Coen, Ethan Coen","George Clooney, John Turturro, Tim Blake Nelson","Adventure, Comedy, Crime",7.7
+12,How the Grinch Stole Christmas,2000,104.0,Ron Howard,"Jim Carrey, Taylor Momsen, Kelley","Comedy, Family, Fantasy",6.4
+13,Final Destination,2000,98.0,James Wong,"Devon Sawa, Ali Larter, Kerr Smith","Horror, Thriller",6.7
+14,Almost Famous,2000,122.0,Cameron Crowe,"Billy Crudup, Patrick Fugit, Kate Hudson","Adventure, Comedy, Drama",7.9
+15,The Patriot,2000,165.0,Roland Emmerich,"Mel Gibson, Heath Ledger, Joely Richardson","Action, Drama, History",7.2
+16,Scary Movie,2000,88.0,Keenen Ivory Wayans,"Anna Faris, Jon Abrahams, Marlon Wayans",Comedy,6.3
+17,Gone in 60 Seconds,2000,118.0,Dominic Sena,"Nicolas Cage, Angelina Jolie, Giovanni Ribisi","Action, Crime, Thriller",6.5
+18,"Crouching Tiger, Hidden Dragon",2000,120.0,Ang Lee,"Chow Yun-Fat, Michelle Yeoh, Ziyi Zhang","Action, Adventure, Drama",7.9
+19,Amores Perros,2000,154.0,Alejandro G. Iñárritu,"Emilio Echevarría, Gael García Bernal, Goya Toledo","Drama, Thriller",8.0
+20,The Beach,2000,119.0,Danny Boyle,"Leonardo DiCaprio, Tilda Swinton, Daniel York Loh","Adventure, Drama, Romance",6.6
+21,Pitch Black,2000,109.0,David Twohy,"Radha Mitchell, Cole Hauser, Vin Diesel","Horror, Sci-Fi, Thriller",7.0
+22,"Me, Myself & Irene",2000,116.0,"Bobby Farrelly, Peter Farrelly","Jim Carrey, Renée Zellweger, Anthony Anderson",Comedy,6.6
+23,Remember the Titans,2000,113.0,Boaz Yakin,"Denzel Washington, Will Patton, Wood Harris","Biography, Comedy, Drama",7.8
+24,Miss Congeniality,2000,109.0,Donald Petrie,"Sandra Bullock, Michael Caine, Benjamin Bratt","Action, Comedy, Crime",6.3
+25,The Emperor's New Groove,2000,78.0,Mark Dindal,"David Spade, John Goodman, Eartha Kitt","Animation, Adventure, Comedy",7.4
+26,Erin Brockovich,2000,131.0,Steven Soderbergh,"Julia Roberts, Albert Finney, David Brisbin","Biography, Drama",7.5
+27,What Women Want,2000,127.0,Nancy Meyers,"Mel Gibson, Helen Hunt, Marisa Tomei","Comedy, Fantasy, Romance",6.5
+28,Traffic,2000,147.0,Steven Soderbergh,"Michael Douglas, Benicio Del Toro, Catherine Zeta-Jones","Crime, Drama, Thriller",7.5
+29,Chicken Run,2000,84.0,"Peter Lord, Nick Park","Mel Gibson, Julia Sawalha, Phil Daniels","Animation, Adventure, Comedy",7.1
+30,Chocolat,2000,121.0,Lasse Hallström,"Juliette Binoche, Johnny Depp, Judi Dench","Drama, Romance",7.2
+31,Charlie's Angels,2000,98.0,McG,"Cameron Diaz, Drew Barrymore, Lucy Liu","Action, Adventure, Comedy",5.6
+32,Battle Royale,2000,114.0,Kinji Fukasaku,"Tatsuya Fujiwara, Aki Maeda, Tarô Yamamoto","Adventure, Drama, Thriller",7.5
+33,High Fidelity,2000,113.0,Stephen Frears,"John Cusack, Iben Hjejle, Todd Louiso","Comedy, Drama, Music",7.4
+34,The Perfect Storm,2000,130.0,Wolfgang Petersen,"George Clooney, Mark Wahlberg, John C. Reilly","Action, Adventure, Drama",6.5
+35,Road Trip,2000,93.0,Todd Phillips,"Breckin Meyer, Seann William Scott, Amy Smart",Comedy,6.5
+36,In the Mood for Love,2000,98.0,Wong Kar-Wai,"Tony Leung Chiu-wai, Maggie Cheung, Ping-Lam Siu","Drama, Romance",8.1
+37,Scream 3,2000,116.0,Wes Craven,"David Arquette, Neve Campbell, Courteney Cox","Horror, Mystery",5.7
+38,"Dude, Where's My Car?",2000,83.0,Danny Leiner,"Ashton Kutcher, Seann William Scott, Jennifer Garner","Comedy, Mystery, Sci-Fi",5.5
+39,Billy Elliot,2000,110.0,Stephen Daldry,"Jamie Bell, Julie Walters, Jean Heywood","Drama, Music",7.7
+40,Hollow Man,2000,112.0,Paul Verhoeven,"Kevin Bacon, Elisabeth Shue, Josh Brolin","Action, Horror, Sci-Fi",5.9
+41,What Lies Beneath,2000,130.0,Robert Zemeckis,"Harrison Ford, Michelle Pfeiffer, Katharine Towne","Drama, Horror, Mystery",6.6
+42,Shanghai Noon,2000,110.0,Tom Dey,"Jackie Chan, Owen Wilson, Lucy Liu","Action, Adventure, Comedy",6.6
+43,The Whole Nine Yards,2000,98.0,Jonathan Lynn,"Bruce Willis, Matthew Perry, Rosanna Arquette","Comedy, Crime",6.7
+44,The 6th Day,2000,123.0,Roger Spottiswoode,"Arnold Schwarzenegger, Michael Rapaport, Tony Goldwyn","Action, Mystery, Sci-Fi",5.9
+45,Men of Honor,2000,129.0,George Tillman Jr.,"Cuba Gooding Jr., Robert De Niro, Charlize Theron","Biography, Drama",7.2
+46,Pay It Forward,2000,123.0,Mimi Leder,"Kevin Spacey, Haley Joel Osment, Helen Hunt",Drama,7.2
+47,The Family Man,2000,125.0,Brett Ratner,"Nicolas Cage, Téa Leoni, Don Cheadle","Comedy, Drama, Fantasy",6.8
+48,Coyote Ugly,2000,100.0,David McNally,"Piper Perabo, Adam Garcia, John Goodman","Comedy, Drama, Music",5.8
+49,Dancer in the Dark,2000,135.0,Lars von Trier,"Björk, Catherine Deneuve, David Morse","Crime, Drama, Musical",7.9
+50,Frequency,2000,118.0,Gregory Hoblit,"Dennis Quaid, Jim Caviezel, Shawn Doyle","Crime, Drama, Mystery",7.4
+51,Malena,2000,108.0,Giuseppe Tornatore,"Monica Bellucci, Giuseppe Sulfaro, Luciano Federico","Drama, Romance, War",7.4
+52,Little Nicky,2000,90.0,Steven Brill,"Adam Sandler, Patricia Arquette, Harvey Keitel","Comedy, Fantasy",5.3
+53,Bedazzled,2000,93.0,Harold Ramis,"Brendan Fraser, Elizabeth Hurley, Frances O'Connor","Comedy, Fantasy",6.1
+54,The Road to El Dorado,2000,89.0,"Bibo Bergeron, Don Paul, Jeffrey Katzenberg","Kevin Kline, Kenneth Branagh, Rosie Perez","Animation, Adventure, Comedy",6.9
+55,The Cell,2000,107.0,Tarsem Singh,"Jennifer Lopez, Vince Vaughn, Vincent D'Onofrio","Crime, Horror, Sci-Fi",6.4
+56,Bring It On,2000,98.0,Peyton Reed,"Kirsten Dunst, Eliza Dushku, Jesse Bradford","Comedy, Romance, Sport",6.2
+57,Big Momma's House,2000,99.0,Raja Gosnell,"Martin Lawrence, Nia Long, Paul Giamatti","Action, Comedy, Crime",5.3
+58,Finding Forrester,2000,136.0,Gus Van Sant,"Sean Connery, Rob Brown, F. Murray Abraham","Drama, Sport",7.3
+59,U-571,2000,116.0,Jonathan Mostow,"Matthew McConaughey, Bill Paxton, Harvey Keitel","Action, War",6.6
+60,Space Cowboys,2000,130.0,Clint Eastwood,"Clint Eastwood, Tommy Lee Jones, Donald Sutherland","Action, Adventure, Thriller",6.5
+61,Battlefield Earth,2000,117.0,Roger Christian,"John Travolta, Forest Whitaker, Barry Pepper","Action, Adventure, Sci-Fi",2.5
+62,Shaft,2000,99.0,John Singleton,"Samuel L. Jackson, Vanessa Williams, Christian Bale","Action, Crime, Thriller",6.0
+63,The Gift,2000,111.0,Sam Raimi,"Cate Blanchett, Katie Holmes, Keanu Reeves","Drama, Fantasy, Horror",6.7
+64,Mission to Mars,2000,114.0,Brian De Palma,"Tim Robbins, Gary Sinise, Don Cheadle","Adventure, Sci-Fi, Thriller",5.7
+65,Hera Pheri,2000,156.0,Priyadarshan,"Akshay Kumar, Suniel Shetty, Paresh Rawal","Action, Comedy, Crime",8.2
+66,Romeo Must Die,2000,115.0,Andrzej Bartkowiak,"Jet Li, Aaliyah, Isaiah Washington","Action, Crime, Thriller",6.1
+67,Sexy Beast,2000,89.0,Jonathan Glazer,"Ray Winstone, Ben Kingsley, Ian McShane","Crime, Drama, Thriller",7.3
+68,The Replacements,2000,118.0,Howard Deutch,"Keanu Reeves, Gene Hackman, Brooke Langton","Comedy, Sport",6.6
+69,Dinosaur,2000,82.0,"Eric Leighton, Ralph Zondag","D.B. Sweeney, Julianna Margulies, Samuel E. Wright","Animation, Adventure, Drama",6.4
+70,Best in Show,2000,90.0,Christopher Guest,"Fred Willard, Eugene Levy, Catherine O'Hara",Comedy,7.5
+71,The Crimson Rivers,2000,106.0,Mathieu Kassovitz,"Jean Reno, Vincent Cassel, Nadia Farès","Crime, Mystery, Thriller",6.9
+72,Wonder Boys,2000,107.0,Curtis Hanson,"Michael Douglas, Tobey Maguire, Frances McDormand","Comedy, Drama",7.2
+73,Vertical Limit,2000,124.0,Martin Campbell,"Scott Glenn, Chris O'Donnell, Bill Paxton","Action, Adventure, Drama",6.0
+74,Titan A.E.,2000,94.0,"Don Bluth, Gary Goldman","Matt Damon, Drew Barrymore, Bill Pullman","Animation, Action, Adventure",6.6
+75,Thirteen Days,2000,145.0,Roger Donaldson,"Kevin Costner, Bruce Greenwood, Shawn Driscoll","Drama, History, Thriller",7.3
+76,Taxi 2,2000,88.0,Gérard Krawczyk,"Samy Naceri, Frédéric Diefenthal, Emma Wiklund","Action, Comedy, Crime",6.5
+77,Red Planet,2000,106.0,Antony Hoffman,"Val Kilmer, Carrie-Anne Moss, Tom Sizemore","Action, Sci-Fi, Thriller",5.7
+78,The Legend of Bagger Vance,2000,126.0,Robert Redford,"Will Smith, Matt Damon, Charlize Theron","Drama, Sport",6.7
+79,Proof of Life,2000,135.0,Taylor Hackford,"Meg Ryan, Russell Crowe, David Morse","Action, Drama, Thriller",6.3
+80,Nine Queens,2000,114.0,Fabián Bielinsky,"Ricardo Darín, Gastón Pauls, Graciela Tenenbaum","Crime, Drama, Thriller",7.9
+81,Quills,2000,124.0,Philip Kaufman,"Geoffrey Rush, Kate Winslet, Joaquin Phoenix","Biography, Drama",7.2
+82,Boiler Room,2000,120.0,Ben Younger,"Giovanni Ribisi, Vin Diesel, Nia Long","Crime, Drama, Thriller",7.0
+83,28 Days,2000,103.0,Betty Thomas,"Sandra Bullock, Viggo Mortensen, Dominic West","Comedy, Drama",6.1
+84,Ginger Snaps,2000,108.0,John Fawcett,"Emily Perkins, Katharine Isabelle, Kris Lemche","Drama, Fantasy, Horror",6.8
+85,Nutty Professor II: The Klumps,2000,106.0,Peter Segal,"Eddie Murphy, Janet Jackson, Larry Miller","Comedy, Romance, Sci-Fi",4.5
+86,Keeping the Faith,2000,128.0,Edward Norton,"Ben Stiller, Edward Norton, Jenna Elfman","Comedy, Drama, Romance",6.4
+87,Rules of Engagement,2000,128.0,William Friedkin,"Tommy Lee Jones, Samuel L. Jackson, Guy Pearce","Drama, Thriller, War",6.4
+88,Shadow of the Vampire,2000,92.0,E. Elias Merhige,"John Malkovich, Willem Dafoe, Udo Kier","Drama, Horror",6.9
+89,Next Friday,2000,98.0,Steve Carr,"Ice Cube, Mike Epps, Justin Pierce",Comedy,6.1
+90,The Kid,2000,104.0,Jon Turteltaub,"Bruce Willis, Spencer Breslin, Emily Mortimer","Comedy, Family, Fantasy",6.1
+91,Tigerland,2000,101.0,Joel Schumacher,"Colin Farrell, Matthew Davis, Clifton Collins Jr.","Drama, War",6.9
+92,Reindeer Games,2000,104.0,John Frankenheimer,"Ben Affleck, Gary Sinise, Charlize Theron","Action, Crime, Thriller",5.8
+93,Chopper,2000,94.0,Andrew Dominik,"Eric Bana, Simon Lyndon, Vince Colosimo","Biography, Crime, Drama",7.1
+94,Small Time Crooks,2000,94.0,Woody Allen,"Woody Allen, Tracey Ullman, Hugh Grant","Comedy, Crime",6.7
+95,Book of Shadows: Blair Witch 2,2000,90.0,Joe Berlinger,"Jeffrey Donovan, Stephen Barker Turner, Erica Leerhsen","Adventure, Fantasy, Horror",4.0
+96,102 Dalmatians,2000,100.0,Kevin Lima,"Glenn Close, Gérard Depardieu, Ioan Gruffudd","Adventure, Comedy, Family",4.9
+97,Vampire Hunter D: Bloodlust,2000,103.0,Yoshiaki Kawajiri,"Andrew Philpot, John Rafter Lee, Pamela Adlon","Animation, Action, Drama",7.7
+98,Get Carter,2000,102.0,Stephen Kay,"Sylvester Stallone, Rachael Leigh Cook, Miranda Richardson","Action, Crime, Drama",5.2
+99,Dracula 2000,2000,99.0,Patrick Lussier,"Gerard Butler, Justine Waddell, Jonny Lee Miller","Action, Fantasy, Horror",4.9
+100,Where the Heart Is,2000,120.0,Matt Williams,"Natalie Portman, James Frain, Ashley Judd","Comedy, Drama, Romance",6.7
+101,Dungeons & Dragons,2000,107.0,Courtney Solomon,"Justin Whalin, Jeremy Irons, Zoe McLellan","Action, Adventure, Fantasy",3.7
+102,Nurse Betty,2000,110.0,Neil LaBute,"Renée Zellweger, Morgan Freeman, Chris Rock","Comedy, Crime, Drama",6.3
+103,Joint Security Area,2000,110.0,Park Chan-wook,"Lee Yeong-ae, Lee Byung-hun, Song Kang-ho","Action, Drama, Thriller",7.7
+104,The Way of the Gun,2000,119.0,Christopher McQuarrie,"Ryan Phillippe, Benicio Del Toro, Juliette Lewis","Action, Crime, Drama",6.6
+105,Mohabbatein,2000,216.0,Aditya Chopra,"Amitabh Bachchan, Shah Rukh Khan, Aishwarya Rai Bachchan","Drama, Musical, Romance",7.1
+106,The Skulls,2000,106.0,Rob Cohen,"Joshua Jackson, Paul Walker, Hill Harper","Action, Crime, Drama",5.6
+107,You Can Count on Me,2000,111.0,Kenneth Lonergan,"Laura Linney, Matthew Broderick, Amy Ryan",Drama,7.5
+108,The Art of War,2000,117.0,Christian Duguay,"Wesley Snipes, Donald Sutherland, Maury Chaykin","Action, Adventure, Crime",5.7
+109,Loser,2000,98.0,Amy Heckerling,"Jason Biggs, Mena Suvari, Zak Orth","Comedy, Romance",5.3
+110,Yi Yi,2000,173.0,Edward Yang,"Nien-Jen Wu, Elaine Jin, Issei Ogata","Drama, Romance",8.1
+111,Pollock,2000,122.0,Ed Harris,"Ed Harris, Marcia Gay Harden, Robert Knott","Biography, Drama",7.0
+112,Under Suspicion,2000,110.0,Stephen Hopkins,"Morgan Freeman, Gene Hackman, Thomas Jane","Crime, Drama, Thriller",6.4
+113,Autumn in New York,2000,103.0,Joan Chen,"Richard Gere, Winona Ryder, Anthony LaPaglia","Drama, Romance",5.6
+114,The Watcher,2000,97.0,Joe Charbanic,"James Spader, Keanu Reeves, Marisa Tomei","Crime, Drama, Mystery",5.3
+115,Before Night Falls,2000,133.0,Julian Schnabel,"Javier Bardem, Johnny Depp, Olatz López Garmendia","Biography, Drama, Romance",7.1
+116,The Flintstones in Viva Rock Vegas,2000,90.0,Brian Levant,"Mark Addy, Stephen Baldwin, Kristen Johnston","Comedy, Family, Romance",3.7
+117,The Contender,2000,126.0,Rod Lurie,"Joan Allen, Gary Oldman, Jeff Bridges","Drama, Thriller",6.9
+118,Love & Basketball,2000,124.0,Gina Prince-Bythewood,"Sanaa Lathan, Omar Epps, Glenndon Chatman","Drama, Romance, Sport",7.2
+119,Flickering Lights,2000,109.0,Anders Thomas Jensen,"Søren Pilmark, Ulrich Thomsen, Mads Mikkelsen","Action, Comedy, Crime",7.5
+120,Brother,2000,114.0,Takeshi Kitano,"Takeshi Kitano, Claude Maki, Omar Epps","Crime, Drama, Thriller",7.1
+121,Together,2000,106.0,Lukas Moodysson,"Lisa Lindgren, Michael Nyqvist, Emma Samuelsson","Comedy, Drama, Romance",7.4
+122,100 Girls,2000,94.0,Michael Davis,"Jonathan Tucker, Emmanuelle Chriqui, James DeBello","Comedy, Romance",5.8
+123,Return to Me,2000,115.0,Bonnie Hunt,"David Duchovny, Minnie Driver, Carroll O'Connor","Comedy, Drama, Romance",7.0
+124,The Yards,2000,115.0,James Gray,"Mark Wahlberg, Joaquin Phoenix, Charlize Theron","Crime, Drama, Romance",6.4
+125,Center Stage,2000,115.0,Nicholas Hytner,"Amanda Schull, Ethan Stiefel, Sascha Radetsky","Drama, Music, Romance",6.7
+126,In July,2000,99.0,Fatih Akin,"Moritz Bleibtreu, Christiane Paul, Mehmet Kurtulus","Adventure, Comedy, Romance",7.6
+127,State and Main,2000,105.0,David Mamet,"Philip Seymour Hoffman, William H. Macy, Rebecca Pidgeon","Comedy, Drama",6.7
+128,The Million Dollar Hotel,2000,122.0,Wim Wenders,"Jeremy Davies, Milla Jovovich, Mel Gibson","Drama, Mystery, Thriller",5.7
+129,Bounce,2000,106.0,Don Roos,"Ben Affleck, Gwyneth Paltrow, Edward Edwards","Drama, Romance",5.8
+130,Highlander: Endgame,2000,87.0,Doug Aarniokoski,"Christopher Lambert, Adrian Paul, Bruce Payne","Action, Adventure, Fantasy",4.6
+131,My Dog Skip,2000,95.0,Jay Russell,"Frankie Muniz, Kevin Bacon, Diane Lane","Comedy, Drama, Family",7.0
+132,The Adventures of Rocky & Bullwinkle,2000,92.0,Des McAnuff,"Robert De Niro, Rene Russo, Piper Perabo","Adventure, Comedy, Family",4.3
+133,The Tigger Movie,2000,77.0,Jun Falkenstein,"Jim Cummings, Nikita Hopkins, Ken Sansom","Animation, Adventure, Comedy",6.3
+134,Songs from the Second Floor,2000,98.0,Roy Andersson,"Lars Nordh, Stefan Larsson, Bengt C.W. Carlsson","Comedy, Drama",7.5
+135,Dr. T & the Women,2000,122.0,Robert Altman,"Richard Gere, Helen Hunt, Farrah Fawcett","Comedy, Drama, Romance",4.7
+136,Supernova,2000,90.0,"Walter Hill, Francis Ford Coppola, Jack Sholder","James Spader, Peter Facinelli, Robin Tunney","Horror, Sci-Fi, Thriller",4.8
+137,A Dog's Will,2000,104.0,Guel Arraes,"Matheus Nachtergaele, Selton Mello, Rogério Cardoso","Comedy, Drama, Fantasy",8.6
+138,Saving Grace,2000,93.0,Nigel Cole,"Brenda Blethyn, Craig Ferguson, Martin Clunes","Comedy, Crime",6.9
+139,Urban Legends: Final Cut,2000,97.0,John Ottman,"Jennifer Morrison, Matthew Davis, Hart Bochner","Horror, Mystery",4.4
+140,Baise-moi,2000,77.0,"Virginie Despentes, Coralie Trinh Thi","Raffaëla Anderson, Karen Lancaume, Céline Beugnot","Crime, Drama, Thriller",4.5
+141,Brat 2,2000,122.0,Aleksey Balabanov,"Sergey Bodrov, Viktor Sukhorukov, Sergey Makovetskiy","Action, Crime, Drama",7.6
+142,Gossip,2000,90.0,Davis Guggenheim,"James Marsden, Lena Headey, Norman Reedus","Drama, Mystery, Thriller",5.9
+143,Boys and Girls,2000,94.0,Robert Iscove,"Freddie Prinze Jr., Claire Forlani, Brendon Ryan Barrett","Comedy, Drama, Romance",5.4
+144,Cecil B. Demented,2000,87.0,John Waters,"Melanie Griffith, Stephen Dorff, Alicia Witt","Comedy, Crime, Thriller",6.3
+145,The Dish,2000,101.0,Rob Sitch,"Sam Neill, Billy Mitchell, Roz Hammond","Comedy, Drama, History",7.2
+146,Kaho Naa... Pyaar Hai,2000,172.0,Rakesh Roshan,"Hrithik Roshan, Ameesha Patel, Anupam Kher","Action, Musical, Romance",6.9
+147,Werckmeister Harmonies,2000,145.0,"Béla Tarr, Ágnes Hranitzky","Lars Rudolph, Peter Fitz, Hanna Schygulla","Drama, Mystery",8.0
+148,The Man Who Cried,2000,100.0,Sally Potter,"Christina Ricci, Cate Blanchett, Oleg Yankovskiy","Drama, Music, Romance",6.1
+149,Cruel Intentions 2,2000,87.0,Roger Kumble,"Robin Dunne, Sarah Thompson, Keri Lynn Pratt",Drama,4.4
+150,Drowning Mona,2000,96.0,Nick Gomez,"Danny DeVito, Bette Midler, Neve Campbell","Comedy, Crime, Mystery",5.7
+151,Down to You,2000,91.0,Kris Isacsson,"Freddie Prinze Jr., Julia Stiles, Selma Blair","Comedy, Drama, Romance",5.0
+152,All the Pretty Horses,2000,116.0,Billy Bob Thornton,"Matt Damon, Penélope Cruz, Henry Thomas","Drama, Romance, Western",5.8
+153,Pokémon 3 the Movie: Spell of the Unown,2000,93.0,Kunihiko Yuyama,"Veronica Taylor, Eric Stuart, Rica Matsumoto","Animation, Action, Adventure",5.8
+154,Ready to Rumble,2000,107.0,Brian Robbins,"David Arquette, Oliver Platt, Scott Caan","Comedy, Sport",5.4
+155,Code Unknown,2000,118.0,Michael Haneke,"Juliette Binoche, Thierry Neuvic, Josef Bierbichler",Drama,7.1
+156,Bless the Child,2000,107.0,Chuck Russell,"Kim Basinger, Jimmy Smits, Rufus Sewell","Crime, Drama, Horror",5.1
+157,Animal Factory,2000,94.0,Steve Buscemi,"Willem Dafoe, Edward Furlong, Danny Trejo","Crime, Drama",6.6
+158,Gangster No. 1,2000,103.0,Paul McGuigan,"Malcolm McDowell, David Thewlis, Paul Bettany","Crime, Drama, Thriller",6.7
+159,The Isle,2000,90.0,Kim Ki-duk,"Jung Suh, Kim Yu-seok, Cho Jae-hyun","Drama, Thriller",6.9
+160,Jalla! Jalla!,2000,88.0,Josef Fares,"Fares Fares, Torkel Petersson, Tuva Novotny","Comedy, Drama, Romance",6.8
+161,The Princess and the Warrior,2000,135.0,Tom Tykwer,"Franka Potente, Benno Fürmann, Joachim Król","Drama, Mystery, Romance",7.4
+162,Kevin & Perry Go Large,2000,82.0,Ed Bye,"Harry Enfield, Kathy Burke, Rhys Ifans","Comedy, Music",5.7
+163,Hey Ram,2000,186.0,Kamal Haasan,"Kamal Haasan, Shah Rukh Khan, Rani Mukerji","Crime, Drama, History",8.0
+164,Ordinary Decent Criminal,2000,93.0,Thaddeus O'Sullivan,"Kevin Spacey, Linda Fiorentino, Peter Mullan","Comedy, Crime",6.3
+165,Anatomy,2000,103.0,Stefan Ruzowitzky,"Franka Potente, Benno Fürmann, Anna Loos","Horror, Thriller",6.0
+166,Snow Day,2000,89.0,Chris Koch,"Chevy Chase, Mark Webber, Schuyler Fisk","Adventure, Comedy, Family",5.2
+167,Italian for Beginners,2000,112.0,Lone Scherfig,"Anders W. Berthelsen, Ann Eleonora Jørgensen, Anette Støvelbæk","Comedy, Drama, Romance",7.0
+168,The Ladies Man,2000,84.0,Reginald Hudlin,"Tim Meadows, Karyn Parsons, Billy Dee Williams",Comedy,5.2
+169,Rugrats in Paris,2000,78.0,"Stig Bergqvist, Paul Demeyer","Christine Cavanaugh, Elizabeth Daily, Cheryl Chase","Animation, Adventure, Comedy",6.2
+170,Versus,2000,119.0,Ryûhei Kitamura,"Tak Sakaguchi, Hideo Sakaki, Chieko Misaka","Action, Drama, Fantasy",6.3
+171,Blood: The Last Vampire,2000,48.0,Hiroyuki Kitakubo,"Yûki Kudô, Saemi Nakamura, Joe Romersa","Animation, Action, Horror",6.6
+172,Hanging Up,2000,94.0,Diane Keaton,"Diane Keaton, Meg Ryan, Lisa Kudrow","Comedy, Drama",4.9
+173,Bait,2000,119.0,Antoine Fuqua,"Jamie Foxx, David Morse, Robert Pastorelli","Action, Comedy, Crime",5.7
+174,The Crow: Salvation,2000,102.0,Bharat Nalluri,"Kirsten Dunst, William Atherton, Debbie Fan","Action, Crime, Fantasy",4.9
+175,Common Wealth,2000,110.0,Álex de la Iglesia,"Carmen Maura, Eduardo Antuña, María Asquerino","Comedy, Crime, Mystery",7.2
+176,2001: A Space Travesty,2000,99.0,Allan A. Goldstein,"Leslie Nielsen, Ophélie Winter, Ezio Greggio","Comedy, Sci-Fi",3.5
+177,Bamboozled,2000,135.0,Spike Lee,"Damon Wayans, Savion Glover, Jada Pinkett Smith","Comedy, Drama, Music",6.7
+178,Whatever It Takes,2000,94.0,David Raynr,"Shane West, Marla Sokoloff, Jodi Lyn O'Keefe","Comedy, Drama, Romance",5.5
+179,With a Friend Like Harry...,2000,117.0,Dominik Moll,"Laurent Lucas, Sergi López, Mathilde Seigner","Comedy, Drama, Mystery",7.1
+180,The Little Vampire,2000,95.0,Uli Edel,"Jonathan Lipnicki, Rollo Weeks, Richard E. Grant","Adventure, Comedy, Family",5.8
+181,The Next Best Thing,2000,108.0,John Schlesinger,"Madonna, Rupert Everett, Benjamin Bratt","Comedy, Drama, Romance",4.7
+182,Bread and Tulips,2000,114.0,Silvio Soldini,"Licia Maglietta, Bruno Ganz, Giuseppe Battiston","Comedy, Romance",7.3
+183,Under the Sand,2000,92.0,François Ozon,"Charlotte Rampling, Bruno Cremer, Jacques Nolot","Drama, Mystery",7.0
+184,Girlfight,2000,110.0,Karyn Kusama,"Michelle Rodriguez, Douglas Santiago, Jamie Tirelli","Drama, Sport",6.7
+185,Lost Souls,2000,97.0,Janusz Kaminski,"Winona Ryder, Ben Chaplin, Sarah Wynter","Drama, Horror, Thriller",4.8
+186,Josh,2000,162.0,Mansoor Khan,"Shah Rukh Khan, Aishwarya Rai Bachchan, Chandrachur Singh","Action, Drama, Musical",6.1
+187,Barking Dogs Never Bite,2000,110.0,Bong Joon Ho,"Bae Doona, Lee Sung-jae, Kim Ho-jung","Comedy, Drama",6.9
+188,Lucky Numbers,2000,105.0,Nora Ephron,"John Travolta, Lisa Kudrow, Tim Roth","Comedy, Crime",5.1
+189,Woman on Top,2000,92.0,Fina Torres,"Penélope Cruz, Murilo Benício, Harold Perrineau","Comedy, Fantasy, Romance",5.3
+190,Left Behind: The Movie,2000,96.0,Vic Sarin,"Kirk Cameron, Brad Johnson, Janaya Stephens","Action, Drama, Fantasy",4.4
+191,The Taste of Others,2000,112.0,Agnès Jaoui,"Anne Alvaro, Jean-Pierre Bacri, Alain Chabat","Comedy, Drama, Romance",7.2
+192,Happy Accidents,2000,110.0,Brad Anderson,"Marisa Tomei, Vincent D'Onofrio, Holland Taylor","Comedy, Romance",7.1
+193,Ring 0: Birthday,2000,99.0,Norio Tsuruta,"Yukie Nakama, Seiichi Tanabe, Kumiko Asô","Horror, Mystery, Thriller",5.9
+194,The Weight of Water,2000,114.0,Kathryn Bigelow,"Catherine McCormack, Sean Penn, Sarah Polley","Crime, Drama, Mystery",5.8
+195,Duets,2000,112.0,Bruce Paltrow,"Huey Lewis, Gwyneth Paltrow, Paul Giamatti","Comedy, Drama, Music",6.1
+196,Hamlet,2000,112.0,Michael Almereyda,"Ethan Hawke, Kyle MacLachlan, Diane Venora","Drama, Romance, Thriller",5.9
+197,101 Reykjavík,2000,88.0,Baltasar Kormákur,"Hilmir Snær Guðnason, Victoria Abril, Hanna María Karlsdóttir","Comedy, Drama, Romance",6.8
+198,What Planet Are You From?,2000,105.0,Mike Nichols,"Garry Shandling, Annette Bening, John Goodman","Comedy, Sci-Fi",5.6
+199,Heavy Metal 2000,2000,88.0,"Michael Coldewey, Michel Lemire","Michael Ironside, Julie Strain, Billy Idol","Animation, Action, Adventure",5.4
+200,Il Mare,2000,105.0,Hyun-seung Lee,"Lee Jung-jae, Jun Ji-hyun, Kim Moo Saeng","Drama, Fantasy, Romance",7.5
+201,Screwed,2000,81.0,"Scott Alexander, Larry Karaszewski","Norm MacDonald, Dave Chappelle, Elaine Stritch","Comedy, Crime",5.7
+202,Titanic: The Legend Goes On...,2000,90.0,Camillo Teti,"Lisa Russo, Mark Thompson-Ashworth, Gisella Mathews","Animation, Family, Fantasy",1.5
+203,Spiral,2000,90.0,Higuchinsky,"Eriko Hatsune, Fhi Fan, Hinako Saeki","Drama, Fantasy, Horror",6.1
+204,Panic,2000,88.0,Henry Bromell,"William H. Macy, Neve Campbell, John Ritter","Comedy, Crime, Drama",6.6
+205,The Gleaners & I,2000,82.0,Agnès Varda,"François Wertheimer, Agnès Varda, Jean La Planche",Documentary,7.7
+206,A Time for Drunken Horses,2000,80.0,Bahman Ghobadi,"Ayoub Ahmadi, Rojin Younessi, Amaneh Ekhtiar-dini","Drama, War",7.7
+207,One Piece: The Movie,2000,51.0,Junji Shimizu,"Akemi Okamura, Kappei Yamaguchi, Kazuya Nakai","Animation, Action, Adventure",6.9
+208,Here on Earth,2000,96.0,Mark Piznarski,"Chris Klein, Leelee Sobieski, Josh Hartnett","Drama, Romance",5.2
+209,Phir Bhi Dil Hai Hindustani,2000,160.0,Aziz Mirza,"Shah Rukh Khan, Juhi Chawla, Johny Lever","Comedy, Drama, Musical",6.2
+210,Devils on the Doorstep,2000,139.0,Wen Jiang,"Wen Jiang, Kenya Sawada, Hongbo Jiang","Comedy, Drama, War",8.2
+211,George Washington,2000,89.0,David Gordon Green,"Candace Evanofski, Donald Holden, Damian Jewan Lee",Drama,7.2
+212,Ask Me If I'm Happy,2000,100.0,"Aldo Baglio, Giacomo Poretti, Giovanni Storti","Aldo Baglio, Giovanni Storti, Giacomo Poretti","Comedy, Drama",7.1
+213,Dhadkan,2000,161.0,Dharmesh Darshan,"Akshay Kumar, Shilpa Shetty Kundra, Suniel Shetty","Drama, Romance",6.5
+214,Vatel,2000,103.0,Roland Joffé,"Gérard Depardieu, Uma Thurman, Tim Roth","Biography, Drama, History",6.6
+215,The Broken Hearts Club: A Romantic Comedy,2000,94.0,Greg Berlanti,"Timothy Olyphant, Dean Cain, Zach Braff","Comedy, Drama, Romance",6.9
+216,The House of Mirth,2000,135.0,Terence Davies,"Gillian Anderson, Dan Aykroyd, Eleanor Bron","Romance, Drama",7.0
+217,Digimon: The Movie,2000,82.0,"Bob Buchholz, Mamoru Hosoda, Jeff Nimoy","Lara Jill Miller, Joshua Seth, Bob Papenbrook","Animation, Action, Adventure",6.0
+218,Gun Shy,2000,101.0,Eric Blakeney,"Liam Neeson, Sandra Bullock, Oliver Platt","Comedy, Crime, Romance",5.6
+219,The Tao of Steve,2000,87.0,Jenniphr Goodman,"Donal Logue, Ayelet Kaznelson, John Hines","Comedy, Drama, Romance",6.7
+220,Alai Payuthey,2000,156.0,Mani Ratnam,"Madhavan, Shalini, Swarnamalya","Drama, Musical, Romance",8.3
+221,Mission Kashmir,2000,154.0,Vidhu Vinod Chopra,"Sanjay Dutt, Hrithik Roshan, Preity G Zinta","Action, Drama, Thriller",6.6
+222,Waking the Dead,2000,105.0,Keith Gordon,"Billy Crudup, Bill Haugland, Nelson Landrieu","Drama, Mystery, Romance",6.4
+223,A Fish Tale,2000,80.0,"Stefan Fjeldmark, Greg Manwaring, Michael Hegner","Nis Bank-Mikkelsen, Søren Sætter-Lassen, Morten Kerrn Nielsen","Animation, Adventure, Comedy",6.0
+224,Boys Don't Cry,2000,90.0,Olaf Lubaszenko,"Maciej Stuhr, Cezary Pazura, Michal Milowicz","Comedy, Crime",7.6
+225,Maelstrom,2000,87.0,Denis Villeneuve,"Marie-Josée Croze, Jean-Nicolas Verreault, Stephanie Morgenstern",Drama,6.7
+226,Suzhou River,2000,83.0,Ye Lou,"Xun Zhou, Hongsheng Jia, Zhongkai Hua","Drama, Romance",7.4
+227,Things You Can Tell Just by Looking at Her,2000,109.0,Rodrigo García,"Glenn Close, Cameron Diaz, Calista Flockhart","Drama, Romance",6.4
+228,Fortress 2: Re-Entry,2000,92.0,Geoff Murphy,"Christopher Lambert, Beth Toussaint, Willie Garson","Action, Sci-Fi",4.5
+229,Dark Days,2000,82.0,Marc Singer,Marc Singer,Documentary,7.7
+230,Takedown,2000,96.0,Joe Chappelle,"Skeet Ulrich, Russell Wong, Angela Featherstone","Biography, Crime, Drama",6.2
+231,Pellet,2000,88.0,Achero Mañas,"Juan José Ballesta, Pablo Galán, Alberto Jiménez",Drama,7.3
+232,Timecode,2000,97.0,Mike Figgis,"Jeanne Tripplehorn, Stellan Skarsgård, Salma Hayek","Drama, Romance",6.0
+233,Little Otik,2000,132.0,Jan Svankmajer,"Veronika Zilková, Jan Hartl, Jaroslava Kretschmerová","Animation, Comedy, Drama",7.3
+234,Water Drops on Burning Rocks,2000,82.0,François Ozon,"Bernard Giraudeau, Malik Zidi, Ludivine Sagnier","Comedy, Drama, Romance",6.7
+235,Burnt Money,2000,125.0,Marcelo Piñeyro,"Eduardo Noriega, Leonardo Sbaraglia, Pablo Echarri","Crime, Drama, Romance",7.0
+236,Cheeky,2000,91.0,Tinto Brass,"Yuliya Mayarchuk, Jarno Berardi, Francesca Nunzi","Comedy, Drama",5.4
+237,Bicho de Sete Cabeças,2000,74.0,Laís Bodanzky,"Rodrigo Santoro, Othon Bastos, Cássia Kis",Drama,7.7
+238,Harrison's Flowers,2000,121.0,Élie Chouraqui,"Andie MacDowell, Scott Anton, Elias Koteas","Drama, Romance, War",7.0
+239,The Claim,2000,120.0,Michael Winterbottom,"Wes Bentley, Peter Mullan, Ron Anderson","Drama, Romance, Western",6.3
+240,Psycho Beach Party,2000,95.0,Robert Lee King,"Lauren Ambrose, Nicholas Brendon, Thomas Gibson","Comedy, Horror, Mystery",6.0
+241,The Circle,2000,90.0,Jafar Panahi,"Maryiam Palvin Almani, Nargess Mamizadeh, Mojgan Faramarzi",Drama,7.4
+242,About Adam,2000,97.0,Gerard Stembridge,"Stuart Townsend, Kate Hudson, Tommy Tiernan","Comedy, Romance",5.8
+243,One Hundred Steps,2000,114.0,Marco Tullio Giordana,"Luigi Lo Cascio, Luigi Maria Burruano, Lucia Sardo","Biography, Crime, Drama",7.5
+244,Bruiser,2000,99.0,George A. Romero,"Jason Flemyng, Peter Stormare, Leslie Hope","Horror, Mystery",5.3
+245,The Crew,2000,88.0,Michael Dinner,"Richard Dreyfuss, Burt Reynolds, Dan Hedaya","Comedy, Crime",5.6
+246,Greenfingers,2000,91.0,Joel Hershman,"Clive Owen, Helen Mirren, David Kelly","Comedy, Crime, Drama",6.8
+247,Kushi,2000,178.0,S.J. Suryah,"Jyotika, Joseph Vijay, Mumtaj","Comedy, Drama, Romance",7.9
+248,Where the Money Is,2000,89.0,Marek Kanievska,"Paul Newman, Linda Fiorentino, Dermot Mulroney","Drama, Comedy, Crime",6.3
+249,Citizen Toxie: The Toxic Avenger IV,2000,109.0,Lloyd Kaufman,"David Mattey, Clyde Lewis, Heidi Sjursen","Action, Comedy, Fantasy",5.9
+250,Nico and Dani,2000,91.0,Cesc Gay,"Fernando Ramallo, Jordi Vilches, Marieta Orozco","Comedy, Drama, Romance",6.7
+251,Dinner Rush,2000,99.0,Bob Giraldi,"Danny Aiello, Edoardo Ballerini, John Rothman","Crime, Drama, Romance",7.2
+252,The Filth and the Fury,2000,108.0,Julien Temple,"Paul Cook, Steve Jones, John Lydon","Documentary, Biography, Music",7.6
+253,Bread and Roses,2000,110.0,Ken Loach,"Pilar Padilla, Adrien Brody, Elpidia Carrillo",Drama,7.0
+254,The Original Kings of Comedy,2000,115.0,Spike Lee,"Steve Harvey, D.L. Hughley, Cedric The Entertainer","Comedy, Documentary",6.8
+255,Nightcap,2000,101.0,Claude Chabrol,"Isabelle Huppert, Jacques Dutronc, Anna Mouglalis","Crime, Drama, Mystery",6.7
+256,Maybe Baby,2000,104.0,"Ben Elton, Hugh Laurie","Hugh Laurie, Joely Richardson, Matthew Macfadyen","Comedy, Romance",5.6
+257,Chuck & Buck,2000,96.0,Miguel Arteta,"Mike White, Chris Weitz, Lupe Ontiveros","Comedy, Drama",6.6
+258,"Love, Honor and Obey",2000,103.0,"Dominic Anciano, Ray Burdis","Sadie Frost, Jonny Lee Miller, Jude Law","Comedy, Crime",6.4
+259,Love & Sex,2000,82.0,Valerie Breiman,"Famke Janssen, Jon Favreau, Noah Emmerich","Comedy, Drama, Romance",6.1
+260,Widow of St. Pierre,2000,112.0,Patrice Leconte,"Juliette Binoche, Daniel Auteuil, Emir Kusturica","Drama, History, Romance",7.1
+261,Ed Gein,2000,89.0,Chuck Parello,"Steve Railsback, Carrie Snodgress, Carol Mansell","Biography, Crime, Drama",5.5
+262,Come Undone,2000,100.0,Sébastien Lifshitz,"Jérémie Elkaïm, Stéphane Rideau, Marie Matheron","Drama, Romance",6.7
+263,Divided We Fall,2000,117.0,Jan Hrebejk,"Bolek Polívka, Csongor Kassai, Jaroslav Dusek","Comedy, Drama, War",7.6
+264,Sky Hook,2000,95.0,Ljubisa Samardzic,"Nebojsa Glogovac, Ana Sofrenovic, Ivan Jevtovic","Drama, Sport, War",8.1
+265,Our Lips Are Sealed,2000,89.0,Craig Shapiro,"Ashley Olsen, Mary-Kate Olsen, Jim Meskimen","Comedy, Crime, Family",5.1
+266,Time and Tide,2000,113.0,Hark Tsui,"Nicholas Tse, Wu Bai, Candy Lo","Action, Crime, Thriller",6.7
+267,Big Eden,2000,118.0,Thomas Bezucha,"Arye Gross, Eric Schweig, Tim DeKay","Comedy, Drama, Romance",7.3
+268,Mela,2000,172.0,Dharmesh Darshan,"Aamir Khan, Twinkle Khanna, Faisal Khan","Action, Adventure, Comedy",3.7
+269,Har Dil Jo Pyar Karega...,2000,173.0,Raj Kanwar,"Salman Khan, Preity G Zinta, Rani Mukerji","Comedy, Drama, Musical",5.1
+270,Thomas and the Magic Railroad,2000,85.0,Britt Allcroft,"Alec Baldwin, Cody McMains, Russell Means","Adventure, Comedy, Family",4.2
+271,I Dreamed of Africa,2000,114.0,Hugh Hudson,"Kim Basinger, Vincent Perez, Liam Aiken","Adventure, Biography, Drama",5.6
+272,Godzilla vs. Megaguirus,2000,105.0,"Masaaki Tezuka, Ishirô Honda","Misato Tanaka, Shôsuke Tanihara, Masatô Ibu","Action, Sci-Fi, Thriller",6.0
+273,Love's Labour's Lost,2000,93.0,Kenneth Branagh,"Alessandro Nivola, Alicia Silverstone, Natascha McElhone","Romance, Comedy, Musical",5.9
+274,The in Crowd,2000,105.0,Mary Lambert,"Lori Heuring, Susan Ward, Matthew Settle","Drama, Mystery, Thriller",4.7
+275,The Luzhin Defence,2000,109.0,Marleen Gorris,"John Turturro, Emily Watson, Geraldine James","Drama, Romance",6.8
+276,Chinese Coffee,2000,99.0,Al Pacino,"Al Pacino, Jerry Orbach, Susan Floyd",Drama,7.0
+277,A Summer Tale,2000,91.0,Ulf Malmros,"Kjell Bergqvist, Anastasios Soulis, Rebecca Scheja","Comedy, Drama, Family",7.3
+278,Faust,2000,101.0,Brian Yuzna,"Mark Frost, Isabel Brook, Jennifer Rope","Drama, Fantasy, Horror",4.4
+279,The Golden Bowl,2000,130.0,James Ivory,"Uma Thurman, Jeremy Northam, Kate Beckinsale","Drama, Romance",5.9
+280,Groove,2000,86.0,Greg Harrison,"Chris Ferreira, Mackenzie Firgens, Elizabeth Sun","Drama, Music",6.6
+281,The Bench,2000,93.0,Per Fly,"Jesper Christensen, Marius Sonne Janischefska, Stine Holm Joensen",Drama,7.5
+282,Fiza,2000,170.0,Khalid Mohamed,"Karisma Kapoor, Hrithik Roshan, Jaya Bachchan","Crime, Drama, Romance",6.0
+283,Ants in the Pants,2000,95.0,Marc Rothemund,"Tobias Schenke, Axel Stein, Luise Helm","Comedy, Fantasy, Romance",5.0
+284,Eureka,2000,217.0,Shinji Aoyama,"Kôji Yakusho, Aoi Miyazaki, Masaru Miyazaki",Drama,7.7
+285,The Headmaster,2000,120.0,Sherif Arafa,"Alaa Waley El Din, Hassan Hosny, Ahmed Helmy",Comedy,8.0
+286,Chain of Fools,2000,98.0,"Pontus Löwenhielm, Patrick von Krusenstjerna","Steve Zahn, Salma Hayek, Jeff Goldblum","Comedy, Crime",6.0
+287,Crazy,2000,97.0,Hans-Christian Schmid,"Robert Stadlober, Tom Schilling, Oona-Devi Liebich",Drama,6.6
+288,Whipped,2000,82.0,Peter M. Cohen,"Amanda Peet, Brian Van Holt, Jonathan Abrahams","Comedy, Romance",4.4
+289,Essex Boys,2000,102.0,Terry Winsor,"Charlie Creed-Miles, Sean Bean, Gareth Milne","Action, Crime, Drama",6.0
+290,Beautiful,2000,112.0,Sally Field,"Minnie Driver, Hallie Eisenberg, Joey Lauren Adams","Comedy, Drama",5.7
+291,Our Lady of the Assassins,2000,101.0,Barbet Schroeder,"Germán Jaramillo, Anderson Ballesteros, Juan David Restrepo","Crime, Drama",6.8
+292,Ju-on: The Curse 2,2000,76.0,Takashi Shimizu,"Yûrei Yanagi, Takako Fuji, Takashi Matsuyama","Horror, Mystery",6.0
+293,Vulgar,2000,87.0,Bryan Johnson,"Brian O'Halloran, Bryan Johnson, Jerry Lewkowitz","Crime, Drama, Thriller",5.2
+294,Dancing at the Blue Iguana,2000,123.0,Michael Radford,"Charlotte Ayanna, Daryl Hannah, Kristin Bauer","Drama, Mystery",5.7
+295,Cheap Smokes,2000,85.0,Renos Haralambidis,"Renos Haralambidis, Anna-Maria Papaharalambous, Michalis Iatropoulos","Comedy, Romance",7.4
+296,There's Only One Jimmy Grimble,2000,106.0,John Hay,"Lewis McKenzie, Jane Lapotaire, Gina McKee","Comedy, Drama, Sport",6.6
+297,Happy Times,2000,102.0,Yimou Zhang,"Lifan Dong, Benshan Zhao, Jie Dong","Comedy, Drama, Romance",7.3
+298,Dead or Alive 2: Birds,2000,97.0,Takashi Miike,"Shô Aikawa, Riki Takeuchi, Noriko Aota","Action, Comedy, Crime",6.7
+299,O Fantasma,2000,87.0,João Pedro Rodrigues,"Ricardo Meneses, Beatriz Torcato, Andre Barbosa","Drama, Romance",5.7
+300,The Vertical Ray of the Sun,2000,112.0,Anh Hung Tran,"Nu Yên-Khê Tran, Quynh Nhu, Khanh Le","Drama, Romance",7.2
+301,Committed,2000,98.0,Lisa Krueger,"Heather Graham, Casey Affleck, Luke Wilson","Comedy, Drama, Romance",5.1
+302,The Guilty,2000,108.0,Anthony Waller,"Bill Pullman, Devon Sawa, Gabrielle Anwar","Crime, Drama, Thriller",6.1
+303,Beautiful Creatures,2000,86.0,Bill Eagles,"Rachel Weisz, Susan Lynch, Iain Glen","Comedy, Crime, Drama",5.8
+304,Dulhan Hum Le Jayenge,2000,158.0,David Dhawan,"Salman Khan, Karisma Kapoor, Om Puri","Comedy, Drama, Romance",5.1
+305,Restless,2000,111.0,Aku Louhimies,"Mikko Nousiainen, Laura Malmivaara, Petteri Summanen","Drama, Romance",5.6
+306,Picking Up the Pieces,2000,95.0,Alfonso Arau,"Woody Allen, David Schwimmer, Angélica Aragón","Comedy, Crime, Fantasy",4.7
+307,Happenstance,2000,90.0,Laurent Firode,"Audrey Tautou, Faudel, Eric Savin","Comedy, Drama, Romance",6.7
+308,I Have Found It,2000,151.0,Rajiv Menon,"Ajith Kumar, Tabu, Mammootty","Drama, Romance",7.6
+309,Escaflowne: The Movie,2000,98.0,"Kazuki Akane, Yoshiyuki Takei","Shin'ichirô Miki, Jôji Nakata, Maaya Sakamoto","Adventure, Animation, Drama",6.5
+310,Cut,2000,82.0,Kimble Rendall,"Molly Ringwald, Frank Roberts, Kylie Minogue","Comedy, Horror, Mystery",4.4
+311,Bangkok Dangerous,2000,105.0,"Danny Pang, Oxide Chun Pang","Pawarith Monkolpisit, Premsinee Ratanasopha, Patharawarin Timkul","Action, Crime, Drama",6.5
+312,Faithless,2000,142.0,Liv Ullmann,"Lena Endre, Erland Josephson, Krister Henriksson","Drama, Romance",7.4
+313,3 Strikes,2000,82.0,DJ Pooh,"Brian Hooks, N'Bushe Wright, Faizon Love",Comedy,4.7
+314,Skipped Parts,2000,100.0,Tamra Davis,"Bug Hall, Jennifer Jason Leigh, Mischa Barton","Comedy, Drama, Romance",6.2
+315,Songcatcher,2000,109.0,Maggie Greenwald,"Janet McTeer, Michael Harding, Michael Davis","Drama, Music",7.2
+316,Chal Mere Bhai,2000,136.0,David Dhawan,"Sanjay Dutt, Salman Khan, Karisma Kapoor","Comedy, Romance",4.7
+317,Sordid Lives,2000,111.0,Del Shores,"Delta Burke, Bonnie Bedelia, Olivia Newton-John","Comedy, Romance",6.7
+318,Chasing Sleep,2000,104.0,Michael Walker,"Jeff Daniels, Molly Price, Ben Shenkman","Drama, Horror, Mystery",6.2
+319,Passion of Mind,2000,105.0,Alain Berliner,"Demi Moore, Eloise Eonnet, Hadrian Dagannaud-Brouard","Drama, Mystery, Romance",5.5
+320,Looking for Alibrandi,2000,103.0,Kate Woods,"Greta Scacchi, Anthony LaPaglia, Elena Cotta","Comedy, Drama, Romance",7.0
+321,How to Kill Your Neighbor's Dog,2000,107.0,Michael Kalesniko,"Kenneth Branagh, Robin Wright, Suzi Hofrichter","Comedy, Drama",6.8
+322,No More School,2000,99.0,Marco Petry,"Daniel Brühl, Jasmin Schwiers, Niels-Bruno Schmidt","Comedy, Drama",6.4
+323,Crime + Punishment in Suburbia,2000,100.0,Rob Schmidt,"Monica Keena, Ellen Barkin, Michael Ironside","Drama, Thriller",5.8
+324,Aberdeen,2000,106.0,Hans Petter Moland,"Stellan Skarsgård, Lena Headey, Jean Johansson",Drama,7.1
+325,Komser Sekspir,2000,113.0,Sinan Çetin,"Kadir Inanir, Müjde Ar, Okan Bayülgen","Comedy, Drama",5.8
+326,April Captains,2000,123.0,Maria de Medeiros,"Stefano Accorsi, Maria de Medeiros, Joaquim de Almeida","Drama, History, War",7.1
+327,Come Sweet Death,2000,107.0,Wolfgang Murnberger,"Josef Hader, Simon Schwarz, Barbara Rudnik","Comedy, Mystery, Thriller",7.5
+328,Detective Conan: Captured in Her Eyes,2000,100.0,Kenji Kodama,"Minami Takayama, Wakana Yamazaki, Kappei Yamaguchi","Animation, Adventure, Crime",7.5
+329,DMB,2000,85.0,Roman Kachanov,"Pyotr Korshunkov, Mikhail Petrovsky, Stanislav Duzhnikov",Comedy,7.4
+330,Offside,2000,120.0,Serdar Akar,"Müjde Ar, Savas Dinçel, Rafet El Roman","Drama, Sport",7.3
+331,Priyamanavale,2000,169.0,K. Selva Bharathy,"Joseph Vijay, Simran, Radhika Chaudhari","Drama, Romance",7.5
+332,The Convent,2000,79.0,Mike Mendez,"Joanna Canton, Richard Trapp, Dax Miller","Comedy, Horror",5.2
+333,Loners,2000,103.0,David Ondricek,"Labina Mitevska, Jitka Schneiderová, Sasa Rasilov",Comedy,7.5
+334,Everybody's Famous!,2000,97.0,Dominique Deruddere,"Josse De Pauw, Eva Van der Gucht, Werner De Smedt","Comedy, Drama, Music",6.9
+335,Spiders,2000,94.0,Gary Jones,"Lana Parrilla, Josh Green, Oliver Macready","Horror, Sci-Fi, Thriller",3.9
+336,Bichhoo,2000,160.0,Guddu Dhanoa,"Bobby Deol, Rani Mukerji, Ashish Vidyarthi","Action, Crime, Drama",5.0
+337,Platform,2000,154.0,Jia Zhang-ke,"Hongwei Wang, Tao Zhao, Liang Jingdong","Drama, History",7.4
+338,Urbania,2000,103.0,Jon Shear,"Dan Futterman, Scott Denny, Paige Turco",Drama,6.8
+339,Angels of the Universe,2000,100.0,Friðrik Þór Friðriksson,"Ingvar Sigurdsson, Baltasar Kormákur, Hilmir Snær Guðnason","Biography, Drama",7.5
+340,Ritual,2000,128.0,Hideaki Anno,"Shunji Iwai, Ayako Fujitani, Jun Murakami",Drama,7.5
+341,Vengo,2000,90.0,"Tony Gatlif, Cathy Konrad","Antonio Canales, Orestes Villasan Rodríguez, Antonio Dechent","Biography, Drama, Musical",7.2
+342,Ali Zaoua: Prince of the Streets,2000,90.0,Nabil Ayouch,"Mounïm Kbab, Mustapha Hansali, Hicham Moussoune","Drama, Crime",7.3
+343,What's Cooking?,2000,109.0,Gurinder Chadha,"Joan Chen, Julianna Margulies, Mercedes Ruehl","Comedy, Drama, Romance",6.8
+344,Leak,2000,105.0,Jean van de Velde,"Cas Jansen, Ricky Koole, Thomas Acda","Action, Crime, Thriller",7.0
+345,Blackboards,2000,88.0,Samira Makhmalbaf,"Said Mohamadi, Behnaz Jafari, Bahman Ghobadi","Drama, War",6.8
+346,Tears of the Black Tiger,2000,110.0,Wisit Sasanatieng,"Chartchai Ngamsan, Stella Malucchi, Supakorn Kitsuwon","Action, Comedy, Romance",6.9
+347,Up at the Villa,2000,115.0,Philip Haas,"Kristin Scott Thomas, Sean Penn, Anne Bancroft","Drama, Romance",6.0
+348,The Smokers,2000,96.0,Kat Slater,"Dominique Swain, Busy Philipps, Keri Lynn Pratt",Thriller,3.0
+349,Elephants and Grass,2000,115.0,Dervis Zaim,"Ali Sürmeli, Sanem Çelik, Bülent Kayabas","Drama, Thriller",7.0
+350,Dr. Babasaheb Ambedkar,2000,197.0,Jabbar Patel,"Mammootty, Sonali Kulkarni, Mohan Gokhale","Biography, History",8.8
+351,Promenons-nous dans les bois,2000,90.0,Lionel Delplanque,"Marie Trintignant, Suzanne MacAleese, Maud Buquet","Horror, Thriller",4.1
+352,MVP: Most Valuable Primate,2000,93.0,Robert Vince,"Bernie, Louie, Mac","Comedy, Family, Sport",4.3
+353,Scarlet Diva,2000,90.0,Asia Argento,"Asia Argento, Jean Shepard, Herbert Fritsch",Drama,5.0
+354,The State I Am In,2000,106.0,Christian Petzold,"Julia Hummer, Barbara Auer, Richy Müller",Drama,6.9
+355,Lockdown,2000,105.0,John Luessenhop,"Richard T. Jones, De'aundre Bonds, Gabriel Casseus","Drama, Thriller",6.2
+356,Bichunmoo,2000,118.0,Young-jun Kim,"Shin Hyeon-jun, Kim Hee-seon, Jung Jin-young","Drama, Action, Fantasy",6.1
+357,Xchange,2000,110.0,Allan Moyle,"Stephen Baldwin, Pascale Bussières, Kim Coates","Sci-Fi, Thriller",5.5
+358,It Had to Be You,2000,96.0,Steven Feder,"Natasha Henstridge, Michael Vartan, Michael Rispoli","Comedy, Romance",5.6
+359,Pukar,2000,176.0,Rajkumar Santoshi,"Anil Kapoor, Madhuri Dixit, Namrata Shirodkar","Action, Drama, Romance",6.7
+360,Liam,2000,90.0,Stephen Frears,"Anthony Borrows, Ian Hart, Claire Hackett",Drama,6.9
+361,Thenali,2000,164.0,K.S. Ravikumar,"Kamal Haasan, Jayaram, Jyotika","Comedy, Drama",7.6
+362,Relative Values,2000,87.0,Eric Styles,"Julie Andrews, Edward Atterton, William Baldwin",Comedy,6.4
+363,Kahin Pyaar Na Ho Jaaye,2000,159.0,K. Muralimohana Rao,"Kashmira Shah, Salman Khan, Jackie Shroff","Comedy, Drama, Musical",4.4
+364,Tokyo Raiders,2000,118.0,Jingle Ma,"Tony Leung Chiu-wai, Ekin Cheng, Kelly Chen","Action, Comedy, Drama",5.8
+365,Badri,2000,158.0,Puri Jagannadh,"Pawan Kalyan, Ameesha Patel, Renu Desai","Comedy, Drama, Romance",7.3
+366,Beans,2000,105.0,Bora Tekay,"Selim Erdogan, Elvin Besikcioglu, Bülent Kayabas","Action, Comedy, Crime",7.1
+367,Borstal Boy,2000,91.0,Peter Sheridan,"Shawn Hatosy, Danny Dyer, Eamon Glancy","Drama, Romance",6.8
+368,The Specials,2000,82.0,Craig Mazin,"Rob Lowe, Thomas Haden Church, Paget Brewster","Action, Comedy, Fantasy",5.7
+369,Isn't She Great,2000,95.0,Andrew Bergman,"Bette Midler, Nathan Lane, Stockard Channing","Biography, Comedy, Drama",5.3
+370,A Shot at Glory,2000,114.0,Michael Corrente,"Robert Duvall, Michael Keaton, Andy Gray","Drama, Sport",6.2
+371,Abuzer Kadayif,2000,104.0,Tunç Basaran,"Metin Akpinar, Talat Bulut, Sibel Turnagöl","Drama, Music",5.5
+372,Princes and Princesses,2000,70.0,Michel Ocelot,"Arlette Mirapeu, Philippe Cheytion, Yves Barsacq","Animation, Comedy, Family",7.6
+373,Christina's House,2000,96.0,Gavin Wilding,"Brendan Fehr, Brad Rowe, Allison Lange","Crime, Horror, Mystery",4.4
+374,Bootmen,2000,95.0,Dein Perry,"Vaughan Sheffield, Christian Patterson, Lisa Perry","Comedy, Drama, Romance",6.2
+375,The Legend of Rita,2000,103.0,Volker Schlöndorff,"Bibiana Beglau, Richard Kropf, Martin Wuttke","Drama, History, Romance",6.9
+376,Once in a Lifetime,2000,108.0,Susanne Bier,"Helena Bergström, Jonas Karlsson, Thomas Hanzon","Comedy, Drama, Music",5.3
+377,Le roi danse,2000,115.0,Gérard Corbiau,"Benoît Magimel, Boris Terral, Tchéky Karyo","Drama, History, Music",6.9
+378,Monday,2000,100.0,Sabu,"Shin'ichi Tsutsumi, Yasuko Matsuyuki, Ren Ôsugi","Action, Comedy, Crime",7.3
+379,The Foul King,2000,112.0,Kim Jee-woon,"Park Sang-myun, Song Kang-ho, Jang Jin-young","Comedy, Sport",6.9
+380,Paranoid,2000,93.0,John Duigan,"Jessica Alba, Iain Glen, Jeanne Tripplehorn","Crime, Horror, Thriller",4.0
+381,The City of Lost Souls,2000,102.0,Takashi Miike,"Teah, Michelle Reis, Kôji Kikkawa","Crime, Drama, Thriller",6.3
+382,Beautiful Joe,2000,98.0,Stephen Metcalfe,"Sharon Stone, Billy Connolly, Gil Bellows","Comedy, Drama",5.6
+383,Mercy,2000,117.0,Damian Harris,"Ellen Barkin, Wendy Crewson, Peta Wilson","Mystery, Thriller",5.4
+384,Steal This Movie,2000,107.0,Robert Greenwald,"Vincent D'Onofrio, Janeane Garofalo, Jeanne Tripplehorn","Biography, Drama, Romance",6.3
+385,Circus,2000,95.0,Rob Walker,"John Hannah, Famke Janssen, Peter Stormare","Crime, Drama, Thriller",5.5
+386,Michael Jordan to the Max,2000,46.0,"Don Kempf, James D. Stern","Michael Jordan, Phil Jackson, Doug Collins","Documentary, Sport",7.4
+387,Erkan & Stefan,2000,87.0,Michael Herbig,"John Friedmann, Florian Simbeck, Alexandra Neldel",Comedy,4.9
+388,The Wog Boy,2000,92.0,Aleksi Vellis,"Nick Giannopoulos, Lucy Bell, Vince Colosimo",Comedy,5.8
+389,Kya Kehna,2000,155.0,Kundan Shah,"Preity G Zinta, Saif Ali Khan, Chandrachur Singh","Drama, Romance",5.8
+390,The Prime Gig,2000,98.0,Gregory Mosher,"Vince Vaughn, Julia Ormond, Ed Harris",Drama,6.0
+391,The Endurance,2000,97.0,George Butler,"Liam Neeson, Julian Ayer, John Blackborow","Documentary, History",7.8
+392,Raju Chacha,2000,163.0,Anil Devgan,"Kajol, Ajay Devgn, Rishi Kapoor","Action, Comedy, Drama",5.1
+393,Ditto,2000,110.0,Jeong-kwon Kim,"Yoo Ji-tae, Kim Ha-neul, Ha Ji-Won","Drama, Romance, Sci-Fi",7.0
+394,Better Than Sex,2000,95.0,Jonathan Teplitzky,"David Wenham, Susie Porter, Kris McQuade","Comedy, Drama, Romance",6.3
+395,The Eyes of Tammy Faye,2000,79.0,"Fenton Bailey, Randy Barbato","RuPaul, Tammy Faye Bakker, Virginia Fairchild","Documentary, Biography",7.2
+396,Paragraph 175,2000,81.0,"Rob Epstein, Jeffrey Friedman","Rupert Everett, Klaus Müller, Karl Gorath","Documentary, History, Romance",7.7
+397,The Captive,2000,118.0,Chantal Akerman,"Stanislas Merhar, Sylvie Testud, Olivia Bonamy","Drama, Music, Romance",6.0
+398,Last Resort,2000,73.0,Pawel Pawlikowski,"Dina Korzun, Artyom Strelnikov, Paddy Considine","Drama, Romance",7.2
+399,Hadh Kar Di Aapne,2000,134.0,Manoj Agrawal,"Govinda, Rani Mukerji, Johny Lever","Comedy, Romance",5.3
+400,Shiner,2000,99.0,John Irvin,"Michael Caine, Martin Landau, Frances Barber","Crime, Drama, Thriller",5.9
+401,Company Man,2000,86.0,"Peter Askin, Douglas McGrath","Douglas McGrath, Sigourney Weaver, Paul Guilfoyle",Comedy,5.2
+402,Possible Worlds,2000,93.0,Robert Lepage,"Tilda Swinton, Tom McCamus, Sean McCann","Mystery, Sci-Fi, Crime",6.6
+403,Seven Days to Live,2000,96.0,Sebastian Niemann,"Nick Brimble, Zdenek Maryska, Rich Gold","Drama, Horror, Thriller",5.1
+404,Refugee,2000,207.0,"J.P. Dutta, Dinesh Mahadev","Jackie Shroff, Suniel Shetty, Abhishek Bachchan","Drama, Musical, Romance",5.2
+405,Subconscious Cruelty,2000,92.0,Karim Hussain,"Sophie Lauzière, Anne-Marie Belley, Brea Asher","Fantasy, Horror",4.8
+406,Khiladi 420,2000,157.0,Neeraj Vora,"Akshay Kumar, Mahima Chaudhry, Antara Mali","Action, Romance, Thriller",5.2
+407,Mad About Mambo,2000,92.0,John Forte,"William Ash, Maclean Stewart, Tim Loane","Comedy, Drama, Romance",5.9
+408,Fast Food Fast Women,2000,95.0,Amos Kollek,"Anna Thomson, Jamie Harris, Louise Lasser","Comedy, Romance",6.4
+409,The Calling,2000,89.0,Richard Caesar,"Laura Harris, Richard Lintern, Francis Magee","Horror, Thriller",4.3
+410,Lumumba,2000,115.0,Raoul Peck,"Eriq Ebouaney, Alex Descas, Maka Kotto","Biography, Drama, History",7.2
+411,Hamara Dil Aapke Paas Hai,2000,165.0,Satish Kaushik,"Anil Kapoor, Aishwarya Rai Bachchan, Sonali Bendre","Action, Drama, Romance",5.5
+412,Bang Rajan,2000,71.0,Tanit Jitnukul,"Jaran Ngamdee, Winai Kraibutr, Theerayut Pratyabamrung","Action, Drama, History",6.6
+413,Narasimham,2000,175.0,Shaji Kailas,"Mohanlal, Thilakan, N.F. Varghese","Action, Drama",7.6
+414,Fidelity,2000,166.0,Andrzej Zulawski,"Sophie Marceau, Pascal Greggory, Guillaume Canet",Drama,5.6
+415,The Journey of Jared Price,2000,95.0,Dustin Lance Black,"Corey Spears, Steve Tyler, Josh Jacobson","Drama, Romance",6.5
+416,Thomas est amoureux,2000,97.0,Pierre-Paul Renders,"Benoît Verhaert, Aylin Yay, Magali Pinglaut","Comedy, Drama, Romance",7.0
+417,The Day I Became a Woman,2000,74.0,Marzieh Makhmalbaf,"Fatemeh Cherag Akhar, Hassan Nebhan, Shahr Banou Sisizadeh","Comedy, Drama",7.3
+418,Naken,2000,94.0,"Mårten Knutsson, Torkel Knutsson","Henrik Norberg, Lisa Kock, Martin Forsström","Comedy, Fantasy, Romance",5.0
+419,Purely Belter,2000,99.0,Mark Herman,"Chris Beattie, Greg McLane, Charlie Hardwick","Comedy, Drama",6.7
+420,The King Is Alive,2000,110.0,Kristian Levring,"Miles Anderson, Romane Bohringer, David Bradley",Drama,6.3
+421,Innocence,2000,94.0,Paul Cox,"Julia Blake, Charles 'Bud' Tingwell, Kristine Van Pellicom",Drama,7.1
+422,Tully,2000,102.0,Hilary Birmingham,"Glenn Fitzgerald, Anson Mount, Bob Burrus",Drama,7.2
+423,Into the Arms of Strangers: Stories of the Kindertransport,2000,122.0,Mark Jonathan Harris,"Judi Dench, Lory Cahn, Kurt Fuchel","Documentary, History, War",7.7
+424,The American Nightmare,2000,73.0,Adam Simon,"George A. Romero, John Carpenter, Tom Savini","Documentary, Horror",7.2
+425,Terror Tract,2000,96.0,"Lance W. Dreesen, Clint Hutchison","John Ritter, David DeLuise, Allison Smith","Comedy, Horror, Romance",6.0
+426,Kippur,2000,117.0,Amos Gitai,"Liron Levo, Tomer Russo, Uri Klauzner","Drama, War",6.3
+427,The Goddess of 1967,2000,119.0,Clara Law,"Rose Byrne, Rikiya Kurokawa, Nicholas Hope","Comedy, Drama, Romance",6.8
+428,My 5 Wives,2000,100.0,Sidney J. Furie,"Rodney Dangerfield, Andrew Dice Clay, John Byner",Comedy,4.8
+429,Freeze Me,2000,101.0,Takashi Ishii,"Harumi Inoue, Shingo Tsurumi, Kazuki Kitamura","Drama, Thriller",6.2
+430,Jönssonligan spelar högt,2000,92.0,Tomas Ryberger,"Ulf Brunnberg, Björn Gustafson, Johan Ulveson","Comedy, Crime",4.6
+431,An Educational Film,2000,120.0,Mohamed Amin,"Ahmad Rizq, Fathy Abdel Wahab, Ahmed Eid",Comedy,7.3
+432,Me You Them,2000,104.0,Andrucha Waddington,"Regina Casé, Lima Duarte, Stênio Garcia","Comedy, Drama",7.0
+433,China Strike Force,2000,103.0,Stanley Tong,"Aaron Kwok, Norika Fujiwara, Leehom Wang","Action, Crime",5.3
+434,Waydowntown,2000,87.0,Gary Burns,"Fab Filippo, Don McKellar, Marya Delver",Comedy,6.7
+435,Nora,2000,106.0,Pat Murphy,"Ewan McGregor, Susan Lynch, Andrew Scott","Biography, Drama",5.9
+436,The Adventures of Felix,2000,95.0,"Olivier Ducastel, Jacques Martineau","Sami Bouajila, Patachou, Ariane Ascaride","Comedy, Drama, Romance",6.9
+437,Sade,2000,100.0,Benoît Jacquot,"Daniel Auteuil, Marianne Denicourt, Jeanne Balibar","Biography, Drama, History",6.1
+438,The Libertine,2000,100.0,Gabriel Aghion,"Vincent Perez, Fanny Ardant, Josiane Balasko","Comedy, History",6.2
+439,Bossa Nova,2000,95.0,Bruno Barreto,"Amy Irving, Antônio Fagundes, Alexandre Borges","Comedy, Romance, Drama",6.3
+440,Sunset Strip,2000,90.0,Adam Collis,"Simon Baker, Anna Friel, Nick Stahl","Comedy, Drama",5.5
+441,Stardom,2000,100.0,Denys Arcand,"Jessica Paré, Victoria Snow, Jessica Mackenzie","Drama, Comedy",5.6
+442,Cardcaptor Sakura: The Sealed Card,2000,79.0,Morio Asaka,"Sakura Tange, Motoko Kumai, Aya Hisakawa","Animation, Adventure, Comedy",7.7
+443,A Better Way to Die,2000,101.0,Scott Wiper,"Scott Wiper, Jack Conley, Carmen Argenziano","Action, Comedy, Crime",5.5
+444,"Just, Melvin: Just Evil",2000,96.0,James Ronald Whitney,"James Ronald Whitney, Melvin Just, Denise Benson",Documentary,7.0
+445,Chunhyang,2000,137.0,Im Kwon-taek,"Hyo-jeong Lee, Cho Seung-woo, Seong-nyeo Kim","Drama, Musical, Romance",7.1
+446,Diamond Men,2000,100.0,Dan Cohen,"Robert Forster, Donnie Wahlberg, Bess Armstrong",Drama,6.9
+447,Deeply,2000,101.0,Sheri Elwood,"Kirsten Dunst, Lynn Redgrave, Julia Brendler","Drama, Fantasy, Mystery",5.9
+448,Mysterious Object at Noon,2000,89.0,Apichatpong Weerasethakul,"Duangjai Hiransri, Kome Kongkiat Komesiri, Saisiri Xoomsai","Documentary, Drama, Fantasy",6.7
+449,Km. 0,2000,108.0,"Yolanda García Serrano, Juan Luis Iborra","Concha Velasco, Georges Corraface, Silke","Comedy, Drama, Romance",7.0
+450,The St. Francisville Experiment,2000,79.0,Ted Nicolaou,"Paul Salamoff, Troy Taylor, P.J. Palmer","Horror, Mystery, Thriller",3.8
+451,After Alice,2000,100.0,Paul Marcus,"Kiefer Sutherland, Henry Czerny, Polly Walker","Crime, Drama, Mystery",5.3
+452,In Vanda's Room,2000,171.0,Pedro Costa,"Vanda Duarte, Lena Duarte, Zita Duarte",Drama,7.0
+453,The Price of Milk,2000,87.0,Harry Sinclair,"Danielle Cormack, Karl Urban, Willa O'Neill","Comedy, Drama, Fantasy",6.5
+454,Beyond Suspicion,2000,109.0,Matthew Tabak,"Jeff Goldblum, Anne Heche, Nancy Travis","Drama, Mystery, Romance",6.2
+455,The Duel,2000,106.0,Wai Keung Lau,"Andy Lau, Ekin Cheng, Nick Cheung","Action, Adventure, Comedy",5.8
+456,An Everlasting Piece,2000,103.0,Barry Levinson,"Barry McEvoy, Brían F. O'Byrne, Anna Friel",Comedy,6.2
+457,Peculiarities of the National Hunt in the Winter,2000,98.0,Aleksandr Rogozhkin,"Aleksey Buldakov, Viktor Bychkov, Sergei Gusinskiy",Comedy,6.4
+458,Two Family House,2000,108.0,Raymond De Felitta,"Michael Rispoli, Kelly Macdonald, Kathrine Narducci","Comedy, Drama, Romance",7.2
+459,Güle Güle,2000,105.0,Zeki Ökten,"Esref Kolçak, Zeki Alasya, Metin Akpinar","Comedy, Drama, Romance",6.8
+460,"South of Heaven, West of Hell",2000,131.0,Dwight Yoakam,"Billy Bob Thornton, Luke Askew, Dwight Yoakam","Drama, Western",4.3
+461,Otto - Der Katastrofenfilm,2000,92.0,Edzard Onneken,"Otto Waalkes, Reiner Schöne, Eva Haßmann",Comedy,4.3
+462,A Matter of Taste,2000,90.0,Bernard Rapp,"Bernard Giraudeau, Jean-Pierre Lorit, Florence Thomassin","Crime, Thriller, Drama",6.9
+463,A Rumor of Angels,2000,106.0,Peter O'Fallon,"Vanessa Redgrave, Ray Liotta, Catherine McCormack",Drama,6.8
+464,The Last Patrol,2000,95.0,Sheldon Lettich,"Dolph Lundgren, Sherri Alexander, Joe Michael Burke","Action, Drama, Sci-Fi",3.6
+465,Downtown 81,2000,72.0,Edo Bertoglio,"Jean Michel Basquiat, John Lurie, Richard Weigand","Comedy, Drama, Music",6.9
+466,The Monkey's Mask,2000,93.0,Samantha Lang,"Susie Porter, Kelly McGillis, Abbie Cornish","Crime, Mystery, Thriller",5.1
+467,Born Romantic,2000,96.0,David Kane,"Craig Ferguson, Ian Hart, Jane Horrocks","Comedy, Romance",6.4
+468,Sanctimony,2000,87.0,Uwe Boll,"Casper Van Dien, Michael Paré, Eric Roberts","Crime, Horror, Thriller",2.9
+469,Joe Gould's Secret,2000,104.0,Stanley Tucci,"Ian Holm, Stanley Tucci, Hope Davis",Drama,6.6
+470,Trixie,2000,116.0,Alan Rudolph,"Emily Watson, Dermot Mulroney, Nick Nolte","Comedy, Crime, Mystery",4.9
+471,Beat,2000,93.0,Gary Walkow,"Courtney Love, Kiefer Sutherland, Lisa Sheridan",Drama,5.4
+472,Vingar av glas,2000,105.0,Reza Bagher,"Sara Sommerfeld, Alexander Skarsgård, Said Oveissi","Drama, Romance",5.8
+473,Devil in the Flesh 2,2000,92.0,Marcus Spiegel,"Jodi Lyn O'Keefe, Jsu Garcia, Katherine Kendall","Horror, Thriller",4.7
+474,Get Ready to Be Boyzvoiced,2000,95.0,"Espen Eckbo, Henrik Elvestad, Mathis Fürst","Espen Eckbo, Øyvind Thoen, Kaare Daniel Steen","Comedy, Music",7.3
+475,Bruno,2000,108.0,Shirley MacLaine,"Alex D. Linz, Shirley MacLaine, Gary Sinise","Comedy, Drama",6.0
+476,Mugavari,2000,156.0,V.Z. Dhorai,"Suchindra Bali, Jyotika, Ajith Kumar","Drama, Romance",7.2
+477,Chaos,2000,90.0,Hideo Nakata,"Jun Kunimura, Ken Mitsuishi, Masato Hagiwara","Crime, Mystery, Thriller",6.6
+478,Badal,2000,166.0,Raj Kanwar,"Bobby Deol, Rani Mukerji, Mayuri Kango","Action, Crime, Drama",5.0
+479,Virgin Stripped Bare by Her Bachelors,2000,126.0,Hong Sang-soo,"Lee Eun-ju, Moon Sung-keun, Jeong Bo-seok",Drama,6.9
+480,El mar,2000,107.0,Agustí Villaronga,"Roger Casamajor, Bruno Bergonzini, Antònia Torrens","Drama, War",6.9
+481,As I Was Moving Ahead Occasionally I Saw Brief Glimpses of Beauty,2000,288.0,Jonas Mekas,"Jonas Mekas, Stan Brakhage, Robert Breer","Documentary, Biography",8.1
+482,Lovers Lane,2000,90.0,Jon Steven Ward,"Diedre Kilgore, Carter Roy, Brian Allemand","Horror, Mystery, Thriller",4.2
+483,Afti i nyhta menei,2000,112.0,Nikos Panayotopoulos,"Nikos Kouris, Athina Maximou, Zoe Nalbanti","Drama, Music, Romance",7.2
+484,American Women,2000,90.0,Aileen Ritchie,"Ian Hart, Sean McGinley, Niamh Cusack",Comedy,6.2
+485,27 Missing Kisses,2000,98.0,Nana Dzhordzhadze,"Nutsa Kukhianidze, Evgeniy Sidikhin, Shalva Iashvili","Comedy, Drama, Romance",6.6
+486,Real Fiction,2000,69.0,Kim Ki-duk,"Ju Jin-mo, Shim Yi-yeong, Son Min-seok","Crime, Drama",5.9
+487,Hotel Splendide,2000,98.0,Terence Gross,"Toni Collette, Daniel Craig, Katrin Cartlidge",Comedy,6.2
+488,Needing You...,2000,101.0,"Johnnie To, Ka-Fai Wai","Andy Lau, Sammi Cheng, Fiona Leung","Comedy, Romance",6.7
+489,Everything for a Reason,2000,89.0,Vlas Parlapanides,"Dominic Comperatore, Erin Neill, Hogan Gorman","Comedy, Romance",5.6
+490,Life as a Fatal Sexually Transmitted Disease,2000,99.0,Krzysztof Zanussi,"Zbigniew Zapasiewicz, Krystyna Janda, Tadeusz Bradecki",Drama,7.0
+491,Wild Flowers,2000,81.0,F.A. Brabec,"Martina Bezousková, Sylvie Kraslová, Sára Vorísková","Drama, Fantasy, Horror",7.1
+492,Ivans xtc.,2000,93.0,Bernard Rose,"Danny Huston, Peter Weller, Lisa Enos",Drama,6.4
+493,Kannukkul Nilavu,2000,167.0,Fazil,"Joseph Vijay, Shalini, Kaveri","Drama, Mystery, Romance",6.6
+494,Truth About Demons,2000,90.0,Glenn Standring,"Karl Urban, Katie Wolfe, Jonathon Hendry","Horror, Thriller, Fantasy",5.4
+495,Bad Luck Love,2000,94.0,Olli Saarela,"Jorma Tommila, Tommi Eronen, Maria Järvenhelmi","Crime, Drama",6.0
+496,Dhaai Akshar Prem Ke,2000,167.0,Raj Kanwar,"Abhishek Bachchan, Aishwarya Rai Bachchan, Amrish Puri","Drama, Romance",3.5
+497,Epicenter,2000,102.0,Richard Pepin,"Traci Lords, Gary Daniels, Jeff Fahey","Action, Adventure, Crime",3.6
+498,Some Voices,2000,101.0,Simon Cellan Jones,"Daniel Craig, David Morrissey, Kelly Macdonald","Comedy, Drama",6.5
+499,Forever Lulu,2000,99.0,John Kaye,"Melanie Griffith, Patrick Swayze, Penelope Ann Miller","Drama, Romance",5.6
+500,Time Share,2000,87.0,Sharon von Wietersheim,"Nastassja Kinski, Timothy Dalton, Kevin Zegers","Comedy, Family, Romance",5.7
+501,Devadoothan,2000,158.0,Sibi Malayil,"Mohanlal, Jaya Prada, Janardanan","Musical, Drama, Horror",7.7
+502,The Iron Ladies,2000,104.0,Yongyoot Thongkongtoon,"Jesdaporn Pholdee, Sahaphap Tor, Ekachai Buranapanit","Comedy, Drama, Sport",6.6
+503,Four Dogs Playing Poker,2000,97.0,Paul Rachman,"Olivia Williams, Balthazar Getty, Arly Jover","Crime, Drama, Mystery",5.5
+504,Turn It Up,2000,86.0,Robert Adetuyi,"Pras Michel, Ja Rule, Jason Statham","Crime, Drama, Action",4.1
+505,The Right Temptation,2000,95.0,Lyndon Chubbuck,"Kiefer Sutherland, Rebecca De Mornay, Dana Delany","Drama, Romance, Thriller",5.4
+506,The Fantasticks,2000,86.0,Michael Ritchie,"Joel Grey, Barnard Hughes, Jean Louisa Kelly","Musical, Romance",5.7
+507,Jis Desh Mein Ganga Rehta Hain,2000,141.0,Mahesh Manjrekar,"Govinda, Sonali Bendre, Rinke Khanna","Comedy, Crime, Drama",4.9
+508,Detektor,2000,104.0,Pål Jackman,"Mads Ousdal, Hildegun Riise, Ingjerd Egeberg","Comedy, Drama",6.6
+509,Poor White Trash,2000,85.0,Michael Addis,"Sean Young, William Devane, Tony Denman","Comedy, Crime",4.9
+510,Badding,2000,103.0,Markku Pölönen,"Janne Reinikainen, Karoliina Blackburn, Peter Franzén","Biography, Comedy, Drama",5.9
+511,Ancient Evil: Scream of the Mummy,2000,86.0,David DeCoteau,"Trent Latta, Jeff Peterson, Ariauna Albright",Horror,2.2
+512,"La Commune (Paris, 1871)",2000,345.0,Peter Watkins,"Eliane Annie Adalto, Pierre Barbieux, Bernard Bombeau","Drama, History, War",8.0
+513,Les Destinées,2000,180.0,Olivier Assayas,"Emmanuelle Béart, Charles Berling, Isabelle Huppert","Drama, Romance",6.7
+514,The Independent,2000,81.0,Stephen Kessler,"Jerry Stiller, Janeane Garofalo, Max Perlich",Comedy,5.9
+515,Stranger Than Fiction,2000,90.0,Eric Bross,"Mackenzie Astin, Todd Field, Dina Meyer","Thriller, Comedy",6.2
+516,Agent Red,2000,95.0,"Damian Lee, Jim Wynorski","Dolph Lundgren, Meilani Paul, Aleksandr Kuznetsov","Action, Drama, Thriller",3.4
+517,Icebreaker,2000,90.0,David Giancola,"Sean Astin, Bruce Campbell, Stacy Keach","Action, Drama",3.6
+518,Joru Ka Ghulam,2000,169.0,Shakeel Noorani,"Govinda, Twinkle Khanna, Kader Khan","Comedy, Drama, Romance",5.1
+519,Les acteurs,2000,103.0,Bertrand Blier,"Pierre Arditi, Josiane Balasko, Jean-Paul Belmondo",Comedy,5.9
+520,La ville est tranquille,2000,133.0,Robert Guédiguian,"Ariane Ascaride, Jean-Pierre Darroussin, Gérard Meylan",Drama,7.2
+521,The Unknown,2000,91.0,Michael Hjorth,"Jacob Ericksson, Marcus Palm, Ann-Sofie Rase","Horror, Mystery, Sci-Fi",5.5
+522,Living It Up,2000,112.0,Antonio Cuadri,"Salma Hayek, Carmelo Gómez, Tito Valverde","Comedy, Romance",6.0
+523,Sexo por compasión,2000,109.0,Laura Mañá,"Elisabeth Margoni, Álex Angulo, Pilar Bardem",Comedy,7.0
+524,Sleepwalker,2000,95.0,Johannes Pinter,"Ralph Carlsson, Ewa Carlsson, Anders Palm","Mystery, Horror, Thriller",5.8
+525,Murderous Maids,2000,94.0,Jean-Pierre Denis,"Sylvie Testud, Julie-Marie Parmentier, Isabelle Renauld","Biography, Crime, Drama",6.8
+526,When Brendan Met Trudy,2000,95.0,Kieron J. Walsh,"Peter McDonald, Flora Montgomery, Marie Mullen","Comedy, Romance",6.5
+527,Deep Core,2000,80.0,Rodney McDonald,"Craig Sheffer, Terry Farrell, Bruce McGill","Action, Sci-Fi, Thriller",3.2
+528,Team Spirit,2000,105.0,Jan Verheyen,"Tom Van Landuyt, Michael Pas, Axel Daeseleire","Comedy, Drama, Romance",6.1
+529,Sorted,2000,102.0,Alexander Jovy,"Matthew Rhys, Sienna Guillory, Ben Moor",Thriller,6.0
+530,Jungle,2000,146.0,Ram Gopal Varma,"Suniel Shetty, Fardeen Khan, Urmila Matondkar","Action, Adventure, Romance",6.1
+531,C'era un cinese in coma,2000,108.0,Carlo Verdone,"Carlo Verdone, Giuseppe Fiorello, Marit Nissen",Comedy,5.7
+532,Canone Inverso,2000,107.0,Ricky Tognazzi,"Hans Matheson, Mélanie Thierry, Lee Williams",Drama,7.1
+533,The Waiting List,2000,105.0,Juan Carlos Tabío,"Vladimir Cruz, Tahimi Alvariño, Jorge Perugorría","Comedy, Drama, Romance",7.1
+534,Jill Rips,2000,94.0,Anthony Hickox,"Dolph Lundgren, Danielle Brett, Richard Fitzpatrick","Drama, Thriller",3.9
+535,Svadba,2000,114.0,Pavel Lungin,"Marat Basharov, Mariya Mironova, Andrey Panin","Comedy, Drama",7.0
+536,The Wrecking Crew,2000,80.0,Albert Pyun,"Ice-T, Ernie Hudson Jr., T.J. Storm","Action, Crime, Drama",2.2
+537,Todo el poder,2000,105.0,Fernando Sariñana,"Demián Bichir, Cecilia Suárez, Luis Felipe Tovar",Crime,6.6
+538,The Nine Lives of Tomas Katz,2000,87.0,Ben Hopkins,"Tom Fisher, Ian McNeice, Tony Maudsley","Comedy, Drama, Fantasy",6.8
+539,Ah! My Goddess: The Movie,2000,106.0,Hiroaki Gôda,"Bridget Hoffman, Kikuko Inoue, Masami Kikuchi","Animation, Comedy, Drama",6.9
+540,Mr. Accident,2000,89.0,Yahoo Serious,"Yahoo Serious, Helen Dallimore, David Field",Comedy,4.4
+541,Junk,2000,83.0,Atsushi Muroga,"Kaori Shimamura, Yûji Kishimoto, Shû Ehara",Horror,5.5
+542,The Prophet's Game,2000,106.0,David Worth,"Dennis Hopper, Stephanie Zimbalist, Robert Yocum","Crime, Drama, Thriller",4.8
+543,Contaminated Man,2000,100.0,Anthony Hickox,"William Hurt, Natascha McElhone, Peter Weller","Drama, Thriller",4.9
+544,Rhythm,2000,140.0,Vasanth,"Arjun Sarja, Meena, Ramesh Aravind","Drama, Musical, Romance",7.7
+545,Esther Kahn,2000,157.0,Arnaud Desplechin,"Summer Phoenix, Ian Holm, Fabrice Desplechin","Drama, Romance",6.7
+546,Doraemon: Nobita and the Legend of the Sun King,2000,93.0,Tsutomu Shibayama,"Nobuyo Ôyama, Noriko Ohara, Michiko Nomura","Animation, Adventure, Comedy",7.1
+547,Hjärta av sten,2000,79.0,Martin Munthe,"Ilja Jakerson, Allan Svensson, Therese Grankvist","Action, Thriller",3.5
+548,Kurukshetra,2000,129.0,Mahesh Manjrekar,"Mukesh Rishi, Sanjay Dutt, Mahima Chaudhry","Action, Crime, Drama",6.1
+549,Thenkasipattanam,2000,150.0,"Meccartin, Raffi","Suresh Gopi, Lal, Dileep","Comedy, Romance",7.6
+550,God's Army,2000,108.0,Richard Dutcher,"Matthew A. Brown, Richard Dutcher, Jacque Gray",Drama,6.1
+551,The Bare Wench Project,2000,76.0,Jim Wynorski,"Nikki Fritz, Julie K. Smith, Lorissa McComas","Comedy, Horror",3.4
+552,Double Tap,2000,89.0,Chi-Leung Lo,"Leslie Cheung, Alex Fong, Ruby Wong","Action, Crime, Thriller",6.7
+553,Kunwara,2000,134.0,David Dhawan,"Govinda, Urmila Matondkar, Nagma","Comedy, Drama, Romance",5.2
+554,The Price of Air,2000,73.0,Josh Evans,"Michael Madsen, Dick Van Patten, Michelle Phillips","Action, Crime, Drama",1.9
+555,La confusion des genres,2000,94.0,Ilan Duran Cohen,"Pascal Greggory, Nathalie Richard, Julie Gayet","Comedy, Romance, Drama",6.3
+556,Rancid Aluminum,2000,91.0,Edward Thomas,"Joseph Fiennes, Rhys Ifans, Tara Fitzgerald","Comedy, Crime, Drama",3.5
+557,Sherina's Adventure,2000,112.0,Riri Riza,"Sherina Munaf, Derby Romero, Didi Petet","Adventure, Comedy, Drama",7.8
+558,Flashback,2000,95.0,Michael Karen,"Valerie Niehaus, Xaver Hutter, Alexandra Neldel","Horror, Thriller, Mystery",5.2
+559,Meilleur espoir féminin,2000,100.0,Gérard Jugnot,"Gérard Jugnot, Bérénice Bejo, Sabine Haudepin",Comedy,6.1
+560,Wilde mossels,2000,115.0,Erik de Bruyn,"Fedja van Huêt, Frank Lammers, Frederik Brom",Drama,6.9
+561,Jet Set,2000,106.0,Fabien Onteniente,"Samuel Le Bihan, Lambert Wilson, Ornella Muti",Comedy,4.2
+562,The Dancer,2000,89.0,Frédéric Garson,"Mia Frye, Garland Whitt, Rodney Eastman",Drama,5.7
+563,Big Animal,2000,73.0,Jerzy Stuhr,"Jerzy Stuhr, Anna Dymna, Dominika Bednarczyk","Comedy, Drama",7.1
+564,Gen-Y Cops,2000,120.0,Benny Chan,"Mark Hicks, Paul Rudd, Edison Chen","Action, Sci-Fi",4.6
+565,Luckytown,2000,101.0,Paul Nicholas,"Kirsten Dunst, James Caan, Vincent Kartheiser","Drama, Crime, Mystery",4.7
+566,Black Tar Heroin: The Dark End of the Street,2000,75.0,Steven Okazaki,"Tracey Helton, Alice McMunn, Jessica Snow","Documentary, Biography",7.9
+567,Sound and Fury,2000,80.0,Josh Aronson,"Jaime Leigh Allen, Jemma Braham, Freeda Cat",Documentary,7.8
+568,Por la libre,2000,96.0,Juan Carlos de Llaca,"Osvaldo Benavides, Rodrigo Cachero, Ana de la Reguera",Comedy,6.9
+569,Fußball ist unser Leben,2000,92.0,Tomy Wigand,"Uwe Ochsenknecht, Oscar Ortega Sánchez, Ralf Richter","Comedy, Drama",6.2
+570,Meseautó,2000,93.0,"Barna Kabay, Katalin Petényi","András Stohl, Eszter Ónodi, Imre Bajor","Comedy, Romance",4.5
+571,Red Dirt,2000,110.0,Tag Purvis,"Dan Montgomery Jr., Aleksa Palladino, Karen Black","Drama, Romance",6.1
+572,Before the Storm,2000,106.0,Reza Parsa,"Per Graffman, Maria Lundqvist, Sasha Becker","Crime, Drama, Thriller",7.2
+573,Rat,2000,89.0,Steve Barron,"Pete Postlethwaite, Imelda Staunton, Frank Kelly","Comedy, Drama, Family",5.9
+574,El arte de morir,2000,102.0,Álvaro Fernández Armero,"Fele Martínez, María Esteve, Gustavo Salmerón","Fantasy, Horror, Mystery",5.2
+575,A Night with Sabrina Love,2000,100.0,Alejandro Agresti,"Cecilia Roth, Tomás Fonzi, Fabián Vena","Comedy, Drama",6.1
+576,Nightmare,2000,97.0,Byeong-ki Ahn,"Kim Gyu-ri, Ha Ji-Won, Choi Jeong-yun","Crime, Horror, Thriller",5.1
+577,Dui Duari,2000,136.0,Humayun Ahmed,"Riaz, Meher Afroz Shaon, Mahfuz Ahmed","Drama, Mystery",7.8
+578,Second Skin,2000,95.0,Darrell Roodt,"Natasha Henstridge, Angus Macfadyen, Liam Waite",Thriller,5.1
+579,Body Guards - Guardie del corpo,2000,94.0,Neri Parenti,"Christian De Sica, Carlos Alberto Valles, Massimo Boldi",Comedy,4.0
+580,Island of the Dead,2000,91.0,Tim Southam,"Malcolm McDowell, Talisa Soto, Bruce Ramsay","Horror, Thriller",2.8
+581,War Live,2000,101.0,Darko Bajic,"Dragan Bjelogrlic, Srdjan 'Zika' Todorovic, Aleksandar Bercek","Comedy, Drama, War",6.7
+582,Tribulation,2000,95.0,André van Heerden,"Gary Busey, Howie Mandel, Nick Mancuso","Drama, Sci-Fi, Thriller",4.7
+583,Balalayka,2000,116.0,Ali Özgentürk,"Ugur Yücel, Cem Davran, Yekaterina Rednikova",Drama,6.3
+584,Comedy of Innocence,2000,100.0,Raúl Ruiz,"Isabelle Huppert, Jeanne Balibar, Charles Berling","Drama, Fantasy, Mystery",6.5
+585,Shadow Hours,2000,95.0,Isaac H. Eaton,"Balthazar Getty, Peter Weller, Rebecca Gayheart","Drama, Thriller",5.7
+586,Playing Mona Lisa,2000,97.0,Matthew Huffman,"Alicia Witt, Harvey Fierstein, Brooke Langton",Comedy,5.7
+587,Poetical Refugee,2000,126.0,Abdellatif Kechiche,"Sami Bouajila, Élodie Bouchez, Bruno Lochet",Drama,6.9
+588,Maze,2000,97.0,Rob Morrow,"Rob Morrow, Laura Linney, Craig Sheffer","Drama, Romance",6.3
+589,Swimming,2000,98.0,Robert J. Siegel,"Lauren Ambrose, Joelle Carter, Jennifer Dundas",Drama,6.3
+590,El portero,2000,88.0,Gonzalo Suárez,"Carmelo Gómez, Maribel Verdú, Antonio Resines","Drama, Sport",5.8
+591,Chain of Command,2000,96.0,John Terlesky,"Roy Scheider, Patrick Muldoon, Maria Conchita Alonso","Action, Adventure, Thriller",4.6
+592,Complicity,2000,99.0,Gavin Millar,"Jonny Lee Miller, Brian Cox, Keeley Hawes","Thriller, Drama",5.8
+593,Going Off Big Time,2000,86.0,Jim Doyle,"Neil Fitzmaurice, Dominic Carter, Nicholas Lamont",Thriller,6.1
+594,Boltneck,2000,92.0,"Mitch Marcus, John Blush","Matthew Lawrence, Justin Walker, Christine Lakin","Comedy, Horror, Sci-Fi",4.8
+595,Valliettan,2000,171.0,Shaji Kailas,"Mammootty, Siddique, Manoj K. Jayan","Action, Drama",6.6
+596,Six-Pack,2000,110.0,Alain Berbérian,"Richard Anconina, Frédéric Diefenthal, Chiara Mastroianni",Thriller,5.4
+597,Price of Glory,2000,118.0,Carlos Avila,"Jimmy Smits, Maria del Mar, Jon Seda","Drama, Sport",6.1
+598,Gojoe: Spirit War Chronicle,2000,138.0,Gakuryû Ishii,"Tadanobu Asano, Masatoshi Nagase, Daisuke Ryû","Action, History",6.2
+599,Yuvaraju,2000,165.0,Y.V.S. Chowdary,"Mahesh Babu, Simran, Sakshi Shivanand",Romance,5.6
+600,Old No. 587: The Great Train Robbery,2000,80.0,Dan T. Hall,"Ran Burns, Nick Abeel, Ariadne Baker-Dunn","Family, Comedy, Drama",5.4
+601,Merlin: The Return,2000,90.0,Paul Matthews,"Rik Mayall, Patrick Bergin, Craig Sheffer","Adventure, Family, Fantasy",3.0
+602,Tick Tock,2000,93.0,Kevin Tenney,"Megan Ward, Kristin Minter, Linden Ashby","Crime, Drama, Thriller",5.6
+603,The Alternate,2000,95.0,Sam Firstenberg,"Eric Roberts, Bryan Genesse, Ice-T","Action, Drama",3.1
+604,Pilgrim,2000,94.0,Harley Cokeliss,"Ray Liotta, Gloria Reuben, Armin Mueller-Stahl","Action, Mystery, Thriller",5.5
+605,Believe,2000,96.0,Robert Tinnell,"Ricky Mabe, Mario Boni, Justin Bradley","Family, Horror",5.1
+606,The Testaments of One Fold and One Shepherd,2000,67.0,Kieth Merrill,"Rick Macy, Jeremy Hoop, Arianna Marsden",Drama,7.8
+607,Bad Seed,2000,93.0,Jon Bokenkamp,"Luke Wilson, Norman Reedus, Dennis Farina","Mystery, Thriller",5.3
+608,Blagajnica hoce ici na more,2000,86.0,Dalibor Matanic,"Dora Polic, Ivan Brkic, Milan Strljic",Comedy,6.3
+609,Pandaemonium,2000,124.0,Julien Temple,"Linus Roache, John Hannah, Samantha Morton","Biography, Drama",6.4
+610,Anaza hevun,2000,132.0,Jôji Iida,"Yôsuke Eguchi, Miwako Ichikawa, Takashi Kashiwabara","Crime, Horror, Sci-Fi",5.9
+611,Alex l'ariete,2000,122.0,Damiano Damiani,"Alberto Tomba, Michelle Hunziker, Orso Maria Guerrini","Action, Crime",1.8
+612,Die Unberührbare,2000,110.0,Oskar Roehler,"Hannelore Elsner, Vadim Glowna, Tonio Arango",Drama,6.9
+613,Xuxa Popstar,2000,86.0,"Paulo Sérgio de Almeida, Tizuka Yamasaki","Xuxa, Luigi Baricelli, Marcos Frota","Comedy, Family, Music",1.7
+614,Protest,2000,92.0,Masud Kimiai,"Dariush Arjmand, Mohammad Reza Forutan, Mitra Hajjar","Crime, Drama, Romance",6.1
+615,After Sex,2000,96.0,Cameron Thor,"Dan Cortese, Virginia Madsen, Maria Pitillo","Comedy, Drama, Romance",4.4
+616,Submerged,2000,95.0,Fred Olen Ray,"Coolio, Maxwell Caulfield, Brent Huff",Action,3.3
+617,Lomalla,2000,85.0,Aleksi Mäkelä,"Juha Veijonen, Outi Mäenpää, Kärt Tomingas","Drama, Thriller",4.8
+618,You're the one (una historia de entonces),2000,111.0,José Luis Garci,"Lydia Bosch, Julia Gutiérrez Caba, Juan Diego","Drama, Romance",7.0
+619,Suspicious River,2000,92.0,Lynne Stopkewich,"Molly Parker, Callum Keith Rennie, Katie Keating",Drama,5.7
+620,Dead Babies,2000,101.0,William Marsh,"Paul Bettany, Katy Carmichael, Hayley Carr",Comedy,4.6
+621,Kanak Attack,2000,86.0,Lars Becker,"Andreas Hoppe, Tyron Ricketts, David Scheller",Drama,6.7
+622,The Secret,2000,107.0,Virginie Wagon,"Anne Coesens, Michel Bompoil, Tony Todd","Drama, Romance",6.1
+623,Vamsee,2000,145.0,Gopal B.,"Krishna, Mahesh Babu, Namrata Shirodkar",Action,4.5
+624,Our Song,2000,95.0,Jim McKay,"Kerry Washington, Anna Simpson, Melissa Martinez",Drama,6.8
+625,Blowback,2000,91.0,Mark L. Lester,"Mario Van Peebles, James Remar, Sharisse Baker-Bernard",Thriller,4.6
+626,Denti,2000,96.0,Gabriele Salvatores,"Sergio Rubini, Anouk Grinberg, Tom Novembre","Comedy, Drama, Romance",6.4
+627,Gossip,2000,134.0,Colin Nutley,"Pernilla August, Helena Bergström, Stina Ekblad","Comedy, Drama",4.7
+628,Keep the River on Your Right: A Modern Cannibal Tale,2000,93.0,"David Shapiro, Laurie Gwen Shapiro","Tobias Schneebaum, Norman Mailer, Michael Rockefeller","Documentary, Adventure, Romance",6.8
+629,Best,2000,102.0,Mary McGuckian,"John Lynch, Ian Bannen, Jerome Flynn","Biography, Drama",5.6
+630,For the Cause,2000,100.0,"David Douglas, Tim Douglas","Dean Cain, Thomas Ian Griffith, Justin Whalin","Action, Adventure, Drama",3.4
+631,Astitva,2000,109.0,Mahesh Manjrekar,"Tabu, Sachin Khedekar, Mohnish Behl",Drama,7.3
+632,Militia,2000,89.0,Jim Wynorski,"Dean Cain, Jennifer Beals, Frederic Forrest","Action, Adventure",3.5
+633,Everything Put Together,2000,89.0,Marc Forster,"Radha Mitchell, Megan Mullally, Catherine Lloyd Burns",Drama,6.1
+634,Calle 54,2000,105.0,Fernando Trueba,"Michel Camilo, Tito Puente, Arturo O'Farrill","Documentary, Music",7.4
+635,Short w Fanelah w Cap,2000,,Saeed Hamed,"Ahmed El Sakka, Sherif Mounir, Nour","Comedy, Romance",4.9
+636,Attraction,2000,95.0,Russell DeGrazier,"Samantha Mathis, Gretchen Mol, Matthew Settle","Drama, Romance, Thriller",5.0
+637,Bulandi,2000,175.0,Rama Rao Tatineni,"Anil Kapoor, Rekha, Raveena Tandon","Action, Drama",5.2
+638,Born to Be King,2000,118.0,Wai Keung Lau,"Ekin Cheng, Jordan Chan, Peter Ho","Crime, Thriller",6.2
+639,Shadow Magic,2000,116.0,Ann Hu,"Jared Harris, Yu Xia, Yufei Xing","Drama, History, Romance",7.1
+640,Durian Durian,2000,116.0,Fruit Chan,"Hailu Qin, Wai-Fan Mak, Xiao Ming Biao",Drama,7.1
+641,Once in the Life,2000,107.0,Laurence Fishburne,"Eamonn Walker, Laurence Fishburne, Gregory Hines","Crime, Drama",5.2
+642,Felicidades,2000,100.0,Lucho Bender,"Luis Machín, Gastón Pauls, Silke","Comedy, Drama",7.3
+643,Gaja Gamini,2000,122.0,M.F. Hussain,"Madhuri Dixit, Shabana Azmi, Naseeruddin Shah","Drama, Fantasy",4.5
+644,Bittersweet Motel,2000,82.0,Todd Phillips,"Trey Anastasio, Jon Fishman, Mike Gordon","Documentary, Music",7.6
+645,The Mechanism,2000,94.0,Djordje Milosavljevic,"Nikola Kojo, Ivana Mihic, Andrej Sepetkovski","Action, Crime",6.0
+646,Letter to America,2000,90.0,Iglika Triffonova,"Phillip Avramov, Ana Papadopulu, Peter Antonov",Drama,7.6
+647,Too Much Flesh,2000,110.0,"Pascal Arnold, Jean-Marc Barr","Rosanna Arquette, Élodie Bouchez, Jean-Marc Barr",Drama,5.1
+648,Eban and Charley,2000,86.0,James Bolton,"Brent Fellows, Gio Black Peter, Ellie Nicholson","Drama, Romance",5.6
+649,Tomie: Replay,2000,95.0,Tomijiro Mitsuishi,"Sayaka Yamaguchi, Yôsuke Kubozuka, Ken'ichi Endô",Horror,5.4
+650,When the Sky Falls,2000,107.0,John Mackenzie,"Joan Allen, Patrick Bergin, Liam Cunningham","Biography, Crime, Drama",6.3
+651,Almost Blue,2000,86.0,Alex Infascelli,"Lorenza Indovina, Claudio Santamaria, Rolando Ravello",Thriller,5.6
+652,Trois,2000,93.0,Rob Hardy,"Gary Dourdan, Kenya Moore, Gretchen Palmer","Drama, Romance, Thriller",3.9
+653,Intern,2000,90.0,Michael Lange,"Dominique Swain, Ben Pullen, Peggy Lipton",Comedy,4.4
+654,Islam: Empire of Faith,2000,160.0,Robert H. Gardner,"Esin Atil, Ben Kingsley, Michael Sells","Documentary, History",7.9
+655,Sideshow,2000,74.0,Fred Olen Ray,"Jamie Martz, Michael Amos, Scott McCann",Horror,4.9
+656,Lakeboat,2000,98.0,Joe Mantegna,"Charles Durning, Peter Falk, Denis Leary",Drama,6.0
+657,Total Western,2000,84.0,Eric Rochant,"Samuel Le Bihan, Jean-Pierre Kalfon, Jean-François Stévenin","Action, Crime, Drama",6.2
+658,Det blir aldrig som man tänkt sig,2000,114.0,"Måns Herngren, Hannes Holm","Josefin Nilsson, Marie Richardson, Cecilia Frode",Comedy,5.4
+659,Dykkerne,2000,91.0,Åke Sandgren,"Robert Hansen, Ralf J. Hollander, Otto Brandenburg","Adventure, Family, Sci-Fi",5.4
+660,Life Is Beautiful,2000,129.0,Fazil,"Mohanlal, Samyuktha Varma, Geethu Mohandas","Comedy, Drama",6.1
+661,Party 7,2000,104.0,Katsuhito Ishii,"Masatoshi Nagase, Akemi Kobayashi, Yoshinori Okada",Comedy,6.2
+662,"To ja, zlodziej",2000,100.0,Jacek Bromski,"Jan Urbanski, Zbigniew Dunin-Kozicki, Janusz Gajos","Crime, Drama",6.1
+663,Scènes de crimes,2000,100.0,Frédéric Schoendoerffer,"Charles Berling, André Dussollier, Ludovic Schoendoerffer","Crime, Thriller",6.2
+664,Nostradamus,2000,88.0,Tibor Takács,"Rob Estes, Joely Fisher, Fintan McKeown","Action, Adventure, Sci-Fi",4.5
+665,The Prince of the Pacific,2000,90.0,Alain Corneau,"Thierry Lhermitte, Patrick Timsit, Marie Trintignant","Adventure, Comedy",4.7
+666,"Smell of Camphor, Fragrance of Jasmine",2000,92.0,Bahman Farmanara,"Bahman Farmanara, Roya Nonahali, Ebrahim Abadi",Drama,6.6
+667,Rent a Friend,2000,90.0,Eddy Terstall,"Marc van Uchelen, Rifka Lodeizen, Nadja Hüpscher","Comedy, Romance",6.9
+668,Apartment 12,2000,89.0,Dan Bootzin,"Mark Ruffalo, Beth Ulrich, Alan Gelfant","Comedy, Romance",4.9
+669,Timequest,2000,92.0,Robert Dyke,"Victor Slezak, Caprice Benedetti, Vince Grant",Sci-Fi,5.3
+670,Ricky 6,2000,111.0,Peter Filardi,"Vincent Kartheiser, Chad Christ, Sabine Singh","Biography, Crime, Drama",6.0
+671,Sinbad: Beyond the Veil of Mists,2000,85.0,"Alan Jacobs, Evan Ricks","Brendan Fraser, Leonard Nimoy, Jennifer Hale","Animation, Action, Adventure",4.4
+672,Esperando al mesías,2000,97.0,Daniel Burman,"Daniel Hendler, Héctor Alterio, Enrique Piñeyro","Comedy, Drama",6.5
+673,Down from the Mountain,2000,98.0,"Nick Doob, Chris Hegedus, D.A. Pennebaker","Ralph Stanley, Emmylou Harris, Evelyn Cox","Documentary, Music",7.3
+674,Signs & Wonders,2000,105.0,Jonathan Nossiter,"Stellan Skarsgård, Charlotte Rampling, Deborah Kara Unger",Drama,5.8
+675,Saint-Cyr,2000,119.0,Patricia Mazuy,"Isabelle Huppert, Jean-Pierre Kalfon, Simon Reggiani","Drama, History, Romance",6.0
+676,Järngänget,2000,96.0,Jon Lindström,"Emil Forselius, Rafael Edholm, Alexander Skarsgård",Thriller,3.9
+677,2000 AD,2000,109.0,Gordon Chan,"Aaron Kwok, Phyllis Quek, James Lye","Action, Thriller",5.9
+678,The Debut,2000,88.0,Gene Cajayon,"Dante Basco, Eddie Garcia, Jayson Schaal","Comedy, Drama",6.4
+679,Champion,2000,140.0,"Padam Kumar, Jana Sue Memel","Sunny Deol, Prasant Samadhar, Manisha Koirala","Action, Comedy, Drama",4.6
+680,No Alibi,2000,90.0,Bruce Pittman,"Dean Cain, Lexa Doig, Eric Roberts","Crime, Drama, Mystery",4.7
+681,Luck of the Draw,2000,101.0,Luca Bercovici,"James Marshall, Dennis Hopper, Michael Madsen","Crime, Drama, Thriller",5.1
+682,Starye klyachi,2000,130.0,Eldar Ryazanov,"Lyudmila Gurchenko, Liya Akhedzhakova, Svetlana Kryuchkova","Comedy, Crime",4.9
+683,Nuvve Kavali,2000,153.0,Vijay K. Bhaskar,"Tarun, Richa Pallod, Saikiran",Romance,7.6
+684,Chronically Unfeasible,2000,101.0,Sergio Bianchi,"Umberto Magnani, Cecil Thiré, Dira Paes","Crime, Drama",6.9
+685,The Magic of Marciano,2000,100.0,Tony Barbieri,"Nastassja Kinski, Robert Forster, Cody Morgan",Drama,6.3
+686,Sam and Nargess,2000,100.0,Iraj Ghaderi,"Mohammad Reza Golzar, Nooshin Hosseinkhani, Esmail Shangale","Crime, Drama, Romance",4.2
+687,The Giving Tree,2000,89.0,Cameron Thor,"Christina Applegate, Justin Lazard, Johnathon Schaech","Drama, Thriller",3.9
+688,Deewane,2000,164.0,Harry Baweja,"Ajay Devgn, Urmila Matondkar, Mahima Chaudhry","Action, Romance",4.6
+689,Hello America,2000,90.0,"Nader Galal, Kamlah Abu-Zikri","Adel Emam, Sherine, Osama Abbas",Comedy,4.6
+690,Año Mariano,2000,117.0,"Karra Elejalde, Fernando Guillén Cuervo","Karra Elejalde, Fernando Guillén Cuervo, Manuel Manquiña","Comedy, Crime",4.3
+691,Mach 2,2000,94.0,Fred Olen Ray,"Brian Bosworth, Shannon Whirry, Michael Dorn","Action, Adventure, Drama",3.4
+692,Prince of Central Park,2000,109.0,John Leekley,"Kathleen Turner, Danny Aiello, Cathy Moriarty","Action, Adventure, Drama",5.1
+693,Marlene,2000,125.0,Joseph Vilsmaier,"Katja Flint, Hans Werner Meyer, Herbert Knaup","Biography, Drama, Music",5.7
+694,Hurmaava joukkoitsemurha,2000,118.0,Ere Kokkonen,"Tom Pöysti, Heikki Kinnunen, Sari Siikander",Comedy,5.7
+695,Escape Under Pressure,2000,94.0,Jean Pellerin,"Rob Lowe, Larisa Miller, Harry Van Gorkum","Action, Drama, Thriller",3.8
+696,Red Letters,2000,103.0,Bradley Battersby,"Peter Coyote, Nastassja Kinski, Fairuza Balk","Crime, Drama",5.2
+697,Carnivore,2000,80.0,"Joseph Kurtz, Kenneth Mader","Steven Walker, Jack Solem, J. Douglas Martner","Horror, Sci-Fi",2.3
+698,Dubbel-8,2000,88.0,Daniel Fridell,"Francisco Jacob, Viktor Källander, Jenny Ulving",Drama,5.1
+699,Tinta roja,2000,121.0,Francisco J. Lombardi,"Giovanni Ciccia, Gianfranco Brero, Fele Martínez","Crime, Drama",7.1
+700,Cement,2000,97.0,Adrian Pasdar,"Chris Penn, Jeffrey Wright, Anthony DeSando","Crime, Drama",5.7
+701,24 Hours in London,2000,90.0,Alexander Finbow,"Gary Olsen, Tony London, David Sonnenthal","Crime, Thriller",3.5
+702,Honest,2000,110.0,David A. Stewart,"Nicole Appleton, Natalie Appleton, Melanie Blatt","Comedy, Crime, Romance",4.1
+703,Sand,2000,89.0,Matt Palmieri,"Michael Vartan, Norman Reedus, Kari Wuhrer",Drama,4.2
+704,Porno Film,2000,80.0,Damjan Kozole,"Matjaz Latin, Natalya Danilova, Primoz Petkovsek","Comedy, Romance",5.2
+705,The Last Stop,2000,94.0,Mark Malone,"Adam Beach, Jürgen Prochnow, Rose McGowan",Thriller,5.1
+706,Miracle,2000,80.0,Natasha Arthy,"Stefan Pagels Andersen, Sidse Babett Knudsen, Peter Frödin","Family, Musical, Drama",5.9
+707,Innocents,2000,90.0,Gregory Marquette,"Jean-Hugues Anglade, Keith David, Kent Allen","Crime, Drama, Thriller",4.7
+708,Jiang Hu: The Triad Zone,2000,111.0,Dante Lam,"Tony Ka Fai Leung, Sandra Ng, Anthony Chau-Sang Wong","Comedy, Crime",6.9
+709,Bilyah wa Demaghuh el-Alya,2000,,Nader Galal,"Mohamed Henedi, Ghada Adel, Agami Abdulrahman","Comedy, Romance",4.4
+710,Beware of Greeks... Bearing Guns,2000,82.0,John Tatoulis,"Lakis Lazopoulos, Zoe Carides, John Bluthal","Comedy, Romance, Drama",5.5
+711,Tera Jadoo Chal Gayaa,2000,143.0,A. Muthu,"Abhishek Bachchan, Kirti Reddy, Sanjay Suri","Musical, Romance",3.2
+712,Asfalto,2000,90.0,Daniel Calparsoro,"Najwa Nimri, Juan Diego Botto, Gustavo Salmerón","Crime, Drama",6.0
+713,Les filles ne savent pas nager,2000,102.0,Anne-Sophie Birot,"Isild Le Besco, Karen Alyx, Pascale Bussières","Comedy, Drama",5.9
+714,Get Your Stuff,2000,93.0,Max Mitchell,"Cameron Watson, Anthony Meindl, Elaine Hendrix","Comedy, Drama",5.7
+715,Dnevnik ego zheny,2000,110.0,Aleksey Uchitel,"Andrey Smirnov, Galina Tyunina, Olga Budina","Biography, Drama",6.9
+716,"Keriyon Shin-chan: Oh, I'm Sorry!",2000,88.0,Keiichi Hara,"Akiko Yajima, Miki Narahashi, Keiji Fujiwara","Animation, Adventure, Comedy",7.1
+717,Lisa Picard Is Famous,2000,90.0,Griffin Dunne,"Laura Kirk, Nat DeWolf, Griffin Dunne","Comedy, Drama",5.5
+718,Annayya,2000,157.0,Muthyala Subbaiah,"Chiranjeevi, Soundarya, Venkat","Comedy, Drama, Family",6.5
+719,Freestyle: The Art of Rhyme,2000,60.0,Kevin Fitzgerald,"Chali 2na, Muhammad Ali, Planet Asia","Documentary, Music",7.4
+720,Spanish Judges,2000,98.0,Oz Scott,"Vincent D'Onofrio, Matthew Lillard, Valeria Golino","Crime, Drama, Thriller",4.9
+721,The Last Man,2000,95.0,Harry Ralston,"David Arnott, Jeri Ryan, Dan Montgomery Jr.","Action, Comedy, Drama",5.2
+722,Above Suspicion,2000,92.0,Stephen La Rocque,"Scott Bakula, Annabella Sciorra, George Dzundza",Drama,5.9
+723,The King's Guard,2000,92.0,Jonathan Tydor,"Trevor St. John, Robert G. Goodwin, Lesley-Anne Down",Adventure,3.4
+724,The Most Fertile Man in Ireland,2000,96.0,Dudi Appleton,"Kris Marshall, Kathy Kiera Clarke, Bronagh Gallagher",Comedy,5.3
+725,Mother! The Mosquitoes,2000,80.0,"Miklós Jancsó, István Márton","Zoltán Mucsi, Péter Scherer, Emese Vasvári",Comedy,5.9
+726,Voyeur.com,2000,95.0,Serge Rodnunsky,"Jena Romano, Adam Weiner, Tawnya Richardson",Horror,2.1
+727,Mercy Streets,2000,106.0,Jon Gunn,"Eric Roberts, David A.R. White, Cynthia Watros","Action, Drama, Crime",5.1
+728,The Mummy 3,2000,98.0,Mohamad Reza Honarmand,"Parviz Parastui, Mahtab Keramati, Rambod Javan","Comedy, Crime",5.8
+729,Hundhotellet,2000,68.0,Per Åhlin,"Hans Alfredson, Margreth Weivers, Jan Mybrand","Animation, Comedy, Crime",6.8
+730,King of the Jungle,2000,87.0,Seth Zvi Rosenfeld,"Cliff Gorman, John Leguizamo, Rosie Perez","Crime, Drama, Thriller",5.8
+731,Digimon Adventure 02: Hurricane Touchdown!! The Golden Digimentals,2000,62.0,Shigeyasu Yamauchi,"Ai Maeda, Aoi Tada, Chika Sakamoto","Animation, Adventure, Fantasy",6.5
+732,Kalisundam Raa,2000,156.0,Uday Shankar,"Venkatesh Daggubati, K. Viswanath, Ranganath",Drama,7.3
+733,Mexico City,2000,90.0,Richard Shepard,"Stacy Edwards, Jorge Robles, Johnny Zander","Crime, Drama, Mystery",5.5
+734,Nutbag,2000,80.0,Nick Palumbo,"Mack Hail, Renee Baio, Jenesses Kenney",Horror,2.8
+735,Bride of Fire,2000,113.0,Khosrow Sinai,"Mehdi Ahmadi, Ghazal Saremi, Hamid Farrokhnezhad","Drama, Romance",7.1
+736,Lijmen/Het been,2000,110.0,Robbe De Hert,"Koen De Bouw, Mike Verdrengh, Willeke van Ammelrooy","Crime, Drama",7.0
+737,L'extraterrestre,2000,93.0,Didier Bourdon,"Didier Bourdon, Bernard Campan, Pascale Arbillot","Comedy, Romance, Sci-Fi",3.5
+738,Slow Burn,2000,90.0,Rodney Gibbons,"Pam Grier, Rutger Hauer, Romano Orzari","Action, Crime, Drama",4.9
+739,The Beaver Trilogy,2000,83.0,Trent Harris,"Groovin' Gary, Sean Penn, Crispin Glover","Documentary, Comedy, Drama",7.4
+740,Jetzt oder nie - Zeit ist Geld,2000,95.0,Lars Büchel,"Gudrun Okras, Christel Peters, Elisabeth Scherer","Comedy, Crime, Thriller",5.8
+741,Partners in Crime,2000,90.0,Jennifer Warren,"Rutger Hauer, Paulina Porizkova, Andrew Dolan","Crime, Drama",5.6
+742,At Dawn They Sleep,2000,80.0,Brian Paulin,"Tanya Hennesy, Brian Paulin, Rich George",Thriller,3.5
+743,My Mother Frank,2000,95.0,Mark Lamprell,"Sinéad Cusack, Sam Neill, Matthew Newton","Comedy, Drama, Romance",6.4
+744,La lingua del santo,2000,110.0,Carlo Mazzacurati,"Antonio Albanese, Fabrizio Bentivoglio, Toni Bertorelli",Comedy,6.7
+745,Room to Rent,2000,95.0,Khaled El-Hagar,"Flaminia Cinque, Saïd Taghmaoui, Karim Belkhadra",Comedy,6.1
+746,19,2000,83.0,Kazushi Watanabe,"Daijirô Kawaoka, Kazushi Watanabe, Takeo Noro","Comedy, Crime, Drama",6.9
+747,De zee die denkt,2000,100.0,Gert de Graaff,"Bart Klever, Devika Strooker, Rick de Leeuw","Adventure, Biography, Comedy",7.0
+748,I Went To,2000,111.0,Kon Ichikawa,"Kôji Yakusho, Yûko Asano, Tsurutarô Kataoka","Action, Crime",6.7
+749,Time of Favor,2000,102.0,Joseph Cedar,"Aki Avni, Tinkerbell, Idan Alterman",Drama,6.7
+750,Sacred Flesh,2000,75.0,Nigel Wingrove,"Sally Tremaine, Moyna Cope, Simon Hill",Horror,3.3
+751,La moitié gauche du frigo,2000,90.0,Philippe Falardeau,"Paul Ahmarani, Stéphane Demers, Geneviève Néron",Comedy,7.1
+752,"Love, Money, Love",2000,137.0,Philip Gröning,"Sabine Timoteo, Florian Stetter, Michael Schech","Drama, Romance",5.3
+753,Jericho,2000,101.0,Merlin Miller,"Mark Valley, Leon Coffee, R. Lee Ermey","Mystery, Western",6.0
+754,Lakeuden kutsu,2000,99.0,Ilkka Vanne,"Kari Väänänen, Mari Rantasila, Martti Suosalo",Drama,5.9
+755,The Spreading Ground,2000,100.0,Derek Vanlint,"Dennis Hopper, Leslie Hope, Frederic Forrest","Crime, Drama, Horror",4.9
+756,Plenilunio,2000,119.0,Imanol Uribe,"Miguel Ángel Solá, Adriana Ozores, Juan Diego Botto","Drama, Thriller",6.2
+757,Wild About Harry,2000,91.0,Declan Lowney,"Brendan Gleeson, Amanda Donohoe, James Nesbitt","Romance, Comedy, Drama",6.0
+758,Back Door,2000,105.0,Yorgos Tsemberopoulos,"Konstandinos Papadimitriou, Alexandriani Sikelianou, Haris Sozos",Drama,6.3
+759,Agelastos petra,2000,87.0,Filippos Koutsaftis,Panagiotis Farmakis,Documentary,8.5
+760,Utsab,2000,119.0,Rituparno Ghosh,"Madhavi Mukherjee, Pradip Mukherjee, Bodhisattva Mazumdar","Drama, Family",7.9
+761,The Magic Pudding,2000,80.0,Karl Zwicky,"Sam Neill, Hugo Weaving, John Cleese","Animation, Family, Musical",5.8
+762,Shikari,2000,160.0,N. Chandra,"Govinda, Tabu, Karisma Kapoor","Crime, Drama, Thriller",4.6
+763,Dykaren,2000,97.0,Erik Gustavson,"Izabella Scorupco, Stefan Sauk, Bjørn Floberg",Thriller,3.5
+764,Ça ira mieux demain,2000,89.0,Jeanne Labrune,"Nathalie Baye, Isabelle Carré, Jeanne Balibar","Comedy, Drama",6.0
+765,Crossfire,2000,115.0,Shûsuke Kaneko,"Akiko Yada, Hideaki Itô, Ryûji Harada","Crime, Drama, Horror",6.2
+766,Risk,2000,93.0,Alan White,"Bryan Brown, Tom Long, Claudia Karvan","Drama, Crime, Thriller",6.0
+767,Lavender,2000,111.0,Kam-Hung Yip,"Takeshi Kaneshiro, Kelly Chen, Eason Chan","Fantasy, Romance",6.2
+768,Bullfighter,2000,90.0,Rune Bendixen,"Olivier Martinez, Michelle Forbes, Assumpta Serna","Action, Adventure, Fantasy",2.5
+769,Nezhnyy vozrast,2000,130.0,Sergey Solovyov,"Dmitriy Solovev, Yelena Kamayeva, George Anton",Drama,7.3
+770,Nationale 7,2000,90.0,Jean-Pierre Sinapi,"Nadia Kaci, Olivier Gourmet, Lionel Abelanski","Comedy, Drama",6.9
+771,Amazon,2000,88.0,Philippe de Broca,"Jean-Paul Belmondo, Arielle Dombasle, Patrick Bouchitey","Adventure, Comedy, Romance",4.8
+772,The Low Down,2000,96.0,Jamie Thraves,"Aidan Gillen, Kate Ashfield, Dean Lennox Kelly",Drama,5.7
+773,Summer Holiday,2000,98.0,Jingle Ma,"Richie Jen, Sammi Cheng, Ah-Niu","Comedy, Romance",5.8
+774,Zora the Vampire,2000,105.0,"Antonio Manetti, Marco Manetti","Toni Bertorelli, Micaela Ramazzotti, Chef Ragoo","Comedy, Horror",5.2
+775,Twelve Nights,2000,92.0,Oi-Wah Lam,"Cecilia Cheung, Eason Chan, Candy Lo","Drama, Romance",6.7
+776,The Undefeated,2000,109.0,Oles Yanchuk,"Vladimir Abazopulo, Anatoli Barchuk, Stanislav Boklan","Drama, History, War",6.9
+777,Riders,2000,130.0,Michel Jetté,"Dominic Darceuil, David Boutin, Ronald Houle","Drama, Crime",7.0
+778,Iki-jigoku,2000,104.0,Shugo Fujii,"Hirohito Honda, Yoshiko Shiraishi, Rumi",Horror,5.7
+779,Okinawa Rendez-vous,2000,100.0,Gordon Chan,"Tony Ka Fai Leung, Leslie Cheung, Faye Wong","Comedy, Romance",5.9
+780,A Constant Forge,2000,200.0,Charles Kiselyak,"Seymour Cassel, Carol Kane, Jon Voight","Documentary, Biography, Romance",7.4
+781,The Newcomers,2000,90.0,James Allen Bradley,"Christopher McCoy, Matt McCoy, Kate Bosworth","Drama, Family",4.7
+782,Sleepy Hollow High,2000,81.0,"Chris Arth, Kevin Summerfield","Meagan Adele Lopez, Ruben Brown, Antonio Benedict","Horror, Mystery",2.7
+783,Space Travelers,2000,125.0,Katsuyuki Motohiro,"Takeshi Kaneshiro, Eri Fukatsu, Masanobu Andô","Action, Comedy, Crime",6.7
+784,Held for Ransom,2000,88.0,Lee Stanley,"Dennis Hopper, Zachery Ty Bryan, Kam Heskin",Thriller,4.5
+785,Der Überfall,2000,84.0,Florian Flicker,"Roland Düringer, Josef Hader, Joachim Bißmeier","Comedy, Crime, Drama",6.7
+786,Tolerance,2000,100.0,Carlos Gerbase,"Maitê Proença, Roberto Bomtempo, Ana Maria Mainieri","Drama, Thriller",6.3
+787,The Million Dollar Kid,2000,91.0,Neil Mandt,"Richard Thomas, Maureen McCormick, C. Thomas Howell","Adventure, Family, Comedy",3.2
+788,Live Nude Girls Unite!,2000,75.0,"Vicky Funari, Julia Query","Julia Query, Jane, Siobhan Brooks",Documentary,6.3
+789,Naked States,2000,80.0,Arlene Nelson,"Spencer Tunick, Trey Anastasio, Fraya Berg",Documentary,6.3
+790,Drift,2000,86.0,Quentin Lee,"Reggie Lee, Andy Steinlen, Jonathon Roessler","Drama, Romance, Comedy",5.4
+791,The Doorway,2000,91.0,Michael B. Druxman,"Roy Scheider, Lauren Woodland, Christian Harmony","Horror, Thriller",4.0
+792,Accelerator,2000,86.0,Vinny Murphy,"Stuart Sinclair Blyth, Gavin Kelty, Aisling O'Neill","Action, Comedy",6.1
+793,The Rowdy Girls,2000,90.0,Steven Nevius,"Shannon Tweed, Julie Strain, Deanna Brooks","Comedy, Romance, Western",4.0
+794,Perfumed Garden: Tales of the Kama Sutra,2000,95.0,Jag Mundhra,"Ivan Baccarat, Amy Lindsay, Pravesh Kumar","Drama, Romance",3.5
+795,Cowboys and Angels,2000,97.0,Gregory C. Haynes,"Adam Trese, Mia Kirshner, Radha Mitchell","Comedy, Romance",6.1
+796,Doomsday Man,2000,89.0,William R. Greenblatt,"Esai Morales, James Marshall, Yancy Butler",Drama,3.7
+797,Dancing in September,2000,107.0,Reggie Rock Bythewood,"Tichina Arnold, James Avery, Jenica Bergere",Drama,6.2
+798,Cesta z mesta,2000,104.0,Tomás Vorel,"Tomás Hanák, Barbora Nimcová, Michal Vorel","Comedy, Romance",6.6
+799,Point Doom,2000,100.0,Art Camacho,"Richard Grieco, Andrew Dice Clay, Angie Everhart","Action, Crime, Drama",3.8
+800,Naked Wishes,2000,99.0,Mike Sedan,"Jeff Kueppers, Chanda Marie, Lance Moseley","Comedy, Fantasy, Romance",4.6
+801,Vinyl,2000,110.0,Alan Zweig,"Alan Zweig, Harvey Pekar, Don McKellar",Documentary,7.2
+802,The Sky Is Falling,2000,102.0,"Andrea Frazzi, Antonio Frazzi","Isabella Rossellini, Jeroen Krabbé, Barbara Enrichi","Drama, Music, Romance",6.5
+803,The Girl,2000,84.0,Sande Zeig,"Claire Keim, Agathe de La Boulaye, Cyril Lecomte","Drama, Mystery, Romance",4.7
+804,The Amati Girls,2000,91.0,Anne DeSalvo,"Cloris Leachman, Mercedes Ruehl, Dinah Manoff",Drama,4.9
+805,Fleeing by Night,2000,119.0,"Li-Kong Hsu, Chi Yin","Rene Liu, Lei Huang, Chao-te Yin","Drama, Romance",7.5
+806,Hum To Mohabbat Karega,2000,153.0,Kundan Shah,"Karisma Kapoor, Bobby Deol, Rohit Roy","Action, Comedy, Romance",3.1
+807,Obra maestra,2000,115.0,David Trueba,"Ariadna Gil, Santiago Segura, Pablo Carbonell","Adventure, Comedy",5.3
+808,The Stray,2000,90.0,Kevin Mock,"Michael Madsen, Angie Everhart, Stefan Lysenko",Thriller,4.3
+809,Fast Lane to Malibu,2000,86.0,Kelley Cauthen,"Tracy Ryan, Steve Curtis, Renee Rea","Adventure, Comedy, Drama",4.8
+810,Coronación,2000,140.0,Silvio Caiozzi,"María Cánepa, Julio Jung, Myriam Palacios","Drama, Romance",7.1
+811,Isola: Multiple Personality Girl,2000,94.0,Toshiyuki Mizutani,"Yoshino Kimura, Yû Kurosawa, Ken Ishiguro","Drama, Horror, Mystery",5.4
+812,En häxa i familjen,2000,85.0,Harald Hamrell,"Karin Bogaeus, Rebecca Scheja, Margreth Weivers",Family,5.2
+813,And Then Came Summer,2000,115.0,Jeff London,"Patrick Webber, Tim Madonna, Holly Waddell",Drama,4.6
+814,Breaking the Silence,2000,90.0,Zhou Sun,"Gong Li, Xin Gao, Jingming Shi",Drama,6.9
+815,Rayalaseema Ramanna Chowdary,2000,164.0,Suresh Krishna,"Mohan Babu, Brahmanandam, Priya Gill","Action, Drama",7.1
+816,Tripfall,2000,91.0,Serge Rodnunsky,"Eric Roberts, John Ritter, Rachel Hunter",Thriller,3.9
+817,Bariwali,2000,150.0,Rituparno Ghosh,"Kirron Kher, Chiranjit, Sudipta Chakraborty",Drama,7.7
+818,Dangerous Attraction,2000,94.0,Penelope Buitenhuis,"Linden Ashby, Rae Dawn Chong, Andrea Roth","Mystery, Thriller",4.0
+819,Long Night's Journey Into Day,2000,94.0,"Deborah Hoffmann, Frances Reid","Helen Mirren, Mary Burton, Pumla Gobodo-Madikizela",Documentary,7.6
+820,Yajamana,2000,162.0,"Radha Bharathi, Sheshadri","Vishnuvardhan, Prema, Shashikumar","Drama, Family",8.3
+821,Nueces para el amor,2000,103.0,Alberto Lecchi,"Ariadna Gil, Gastón Pauls, Malena Solda","Drama, Romance",6.6
+822,Crazy Lips,2000,85.0,Hirohisa Sasaki,"Hitomi Miwa, Kazuma Suzuki, Ren Ôsugi","Action, Comedy, Horror",5.4
+823,A Fighter's Blues,2000,105.0,Daniel Lee,"Andy Lau, Takako Tokiwa, Inthira Charoenpura","Drama, Romance, Sport",6.3
+824,The List,2000,93.0,Sylvain Guy,"Ryan O'Neal, Roc Lafortune, Mädchen Amick",Thriller,4.7
+825,Alaska.de,2000,89.0,Esther Gronenborn,"Jana Pallaske, Frank Droese, Arthur Rakk","Drama, Romance, Thriller",6.4
+826,Jung,2000,147.0,Sanjay Gupta,"Sanjay Dutt, Jackie Shroff, Aditya Pancholi","Action, Crime, Drama",4.3
+827,Tainá: Uma Aventura na Amazônia,2000,90.0,"Sérgio Bloch, Tania Lamarca","Marcos Apolo, Eunice Baía, Guilherme Briggs","Adventure, Family, Fantasy",5.2
+828,Vaanathaipola,2000,150.0,Vikraman,"Vijayakanth, Meena, Prabhu Deva","Drama, Musical, Romance",7.1
+829,Christie Malry's Own Double-Entry,2000,89.0,Paul Tickell,"Nick Moran, Neil Stuke, Kate Ashfield","Drama, Thriller",6.3
+830,La vie après l'amour,2000,104.0,Gabriel Pelletier,"Michel Côté, Sylvie Léonard, Patrick Huard",Comedy,6.3
+831,Die Bad,2000,95.0,Ryoo Seung-wan,"Seong-bin Park, Ryu Seung-beom, Bae Jung-shik","Crime, Drama",6.6
+832,The Chaos Factor,2000,95.0,Terry Cunningham,"Antonio Sabato Jr., Fred Ward, Kelly Rutherford","Action, Drama, Thriller",4.6
+833,Hassel/Förgörarna,2000,107.0,Mikael Ruttkay Hylin,"Lars-Erik Berenett, Regina Lund, Björn Gedda","Action, Thriller",5.2
+834,Baiga vasara,2000,112.0,Aigars Grauba,"Uldis Dumpis, Gundars Abolins, Maija Apine","Drama, History",7.1
+835,La Belle,2000,93.0,Kyun-dong Yeo,"Oh Ji-ho, Lee Ji-hyun",Drama,5.4
+836,The Natural History of the Chicken,2000,60.0,Mark Lewis,"Janet Bonney, Joseph Martinez, Joel Vavra","Documentary, Comedy",7.1
+837,76-89-03,2000,85.0,"Cristian Bernard, Flavio Nardini","Sol Alac, Sergio Baldini, Gerardo Chendo",Comedy,7.2
+838,Pettson och Findus - Kattonauten,2000,80.0,"Torbjörn Jansson, Albert Hanan Kaminski, Árpád Szabó","Tord Peterson, Kalle Lundberg, Mona Seilitz","Animation, Family",6.2
+839,Waterproof,2000,95.0,Barry Berman,"Whitman Mayo, April Grace, Burt Reynolds",Drama,6.5
+840,Sin dejar huella,2000,109.0,María Novaro,"Aitana Sánchez-Gijón, Tiaré Scanda, Jesús Ochoa",Drama,6.7
+841,Moskva,2000,139.0,Alexander Zeldovich,"Ingeborga Dapkunaite, Tatyana Drubich, Natalya Kolyakanova",Drama,6.4
+842,The Legend of Gingko,2000,117.0,Je-hyeon Park,"Sul Kyung-gu, Choi Jin-shil, Yunjin Kim","Action, Adventure, Romance",5.3
+843,Branca de Neve,2000,75.0,João César Monteiro,"Maria Do Carmo Rôlo, Ana Brandão, Reginaldo da Cruz",Drama,4.9
+844,T'aime,2000,90.0,Patrick Sébastien,"Patrick Sébastien, Jean-François Balmer, Michel Duchaussoy",Drama,1.8
+845,Tales of the Unusual,2000,126.0,"Mamoru Hoshi, Masayuki Ochiai, Hisao Ogura","Tamori, Akiko Yada, Kazuma Suzuki","Comedy, Fantasy, Horror",6.7
+846,Howaitoauto,2000,129.0,Setsurô Wakamatsu,"Yûji Oda, Nanako Matsushima, Kôichi Satô","Action, Thriller",5.6
+847,Fiasco,2000,87.0,Ragnar Bragason,"Margrét Ákadóttir, Silja Hauksdóttir, Ólafur Darri Ólafsson",Comedy,3.7
+848,Hur som helst är han jävligt död,2000,95.0,Kjell Sundvall,"Peter Haber, Dan Ekborg, Leif Andrée",Comedy,3.5
+849,In the Weeds,2000,91.0,Michael Rauch,"Joshua Leonard, Molly Ringwald, Ellen Pompeo","Comedy, Romance",6.0
+850,More Dogs Than Bones,2000,92.0,Michael Browning,"Joe Mantegna, Peter Coyote, Mercedes Ruehl","Comedy, Crime, Drama",4.9
+851,Daybreak,2000,94.0,Jean Pellerin,"Roy Scheider, Ted McGinley, Ken Olandt","Action, Adventure, Drama",4.1
+852,Sample People,2000,97.0,Clinton Smith,"Kylie Minogue, Ben Mendelsohn, Simon Lyndon","Comedy, Crime, Drama",4.2
+853,Face,2000,124.0,Junji Sakamoto,"Naomi Fujiyama, Etsushi Toyokawa, Michiyo Yasuda","Comedy, Crime, Drama",6.9
+854,Khauff,2000,124.0,Sanjay Gupta,"Sanjay Dutt, Manisha Koirala, Sharad S. Kapoor","Action, Crime, Drama",4.5
+855,New Year's Day,2000,101.0,Suri Krishnamma,"Andrew Lee Potts, Bobby Barry, Marianne Jean-Baptiste",Drama,6.2
+856,Apariencias,2000,94.0,Alberto Lecchi,"Andrea Del Boca, Adrián Suar, Rita Cortese","Comedy, Romance",5.8
+857,Fill Me with Life,2000,106.0,Josetxo San Mateo,"Pilar López de Ayala, Unax Ugalde, Beatriz Argüello","Crime, Drama, Romance",6.3
+858,G-Men from Hell,2000,98.0,Christopher Coppola,"William Forsythe, Tate Donovan, Bobcat Goldthwait","Action, Adventure, Comedy",4.5
+859,The Apostate,2000,94.0,William Gove,"Richard Grieco, Dennis Hopper, Efrain Figueroa","Crime, Thriller, Horror",4.1
+860,Little Senegal,2000,97.0,Rachid Bouchareb,"Sotigui Kouyaté, Sharon Hope, Roschdy Zem",Drama,6.9
+861,Secrets of a Chambermaid,2000,99.0,Adele Bertei,"Michael Ensign, Johnny Green, Gladise Jiminez",Drama,4.8
+862,"Tout va bien, on s'en va",2000,96.0,Claude Mouriéras,"Michel Piccoli, Natacha Régnier, Miou-Miou",Drama,6.6
+863,Angelus,2000,110.0,Lech Majewski,"Jan Siodlaczek, Pawel Steinert, Daniel Skowronek","Comedy, Drama",7.0
+864,Ángel Negro,2000,85.0,Jorge Olguín,"Álvaro Morales, Andrea Freund, Blanca Lewin","Crime, Horror, Thriller",4.2
+865,The Head Is Spinning,2000,75.0,Alessandro Piva,"Dino Abbrescia, Mino Barbarese, Paolo Sassanelli","Comedy, Crime",7.1
+866,Ajax: Daar hoorden zij engelen zingen,2000,91.0,Roel van Dalen,"AFC Ajax, Nordin Amrabat, Danny Blind","Documentary, Sport",7.0
+867,Mariken,2000,92.0,André van Duren,"Laurien Van den Broeck, Jan Decleir, Ramsey Nasr","Drama, Family, Fantasy",6.5
+868,The Simian Line,2000,106.0,Linda Yellen,"Lynn Redgrave, Jamey Sheridan, Harry Connick Jr.","Drama, Romance",5.3
+869,Rizoto,2000,95.0,Olga Malea,"Anna Mascha, Dimitra Matsouka, Kleon Gregoriadis","Comedy, Drama, Romance",3.8
+870,Leh khaletny ahebak,2000,87.0,Sandra Nashaat,"Karim Abdel Aziz, Mona Zaki, Hala Sheha","Comedy, Drama, Romance",5.0
+871,Faites comme si je n'étais pas là,2000,101.0,Olivier Jahan,"Jérémie Renier, Aurore Clément, Johan Leysen",Drama,6.5
+872,Word and Utopia,2000,130.0,Manoel de Oliveira,"Lima Duarte, Luís Miguel Cintra, Ricardo Trêpa","Biography, Drama, History",6.5
+873,Wings to Fly,2000,,Khosro Masumi,"Shadmehr Aghili, Marjan Shirmohammadi, Ziba Boroofeh","Drama, Music, Romance",5.4
+874,Operation Delta Force 5: Random Fire,2000,91.0,Yossi Wein,"Trae Thomas, Todd Jensen, Anthony Bishop",Action,3.3
+875,Oyunbozan,2000,105.0,Nesli Çölgeçen,"Zeki Alasya, Okan Bayülgen, Nikos Seryanopoulos","Crime, Drama",5.3
+876,The Icelandic Dream,2000,90.0,Róbert I. Douglas,"Þórhallur Sverrisson, Jón Gnarr, Matt Keeslar","Comedy, Sport",6.9
+877,Whispers: An Elephant's Tale,2000,72.0,Dereck Joubert,"Angela Bassett, Joanna Lumley, Anne Archer","Adventure, Family",5.0
+878,Yoyes,2000,104.0,Helena Taberna,"Ana Torrent, Ernesto Alterio, Florence Pernel",Drama,6.1
+879,House!,2000,90.0,Julian Kemp,"Kelly Macdonald, Gwenllian Davies, Sue Hopkins","Comedy, Romance",6.0
+880,Mambo Café,2000,98.0,Reuben Gonzalez,"Thalía, Paul Rodriguez, Rosanna DeSoto","Comedy, Drama, Romance",5.0
+881,Pelon maantiede,2000,95.0,Auli Mantila,"Tanjalotta Räikkä, Leea Klemola, Kari Sorvali","Crime, Drama, Mystery",5.5
+882,Sigh,2000,111.0,Xiaogang Feng,"Guoli Zhang, Pei Liu, Fan Xu","Drama, Family, Romance",7.1
+883,Intrepid,2000,90.0,John Putch,"James Coburn, Costas Mandylor, Finola Hughes","Action, Adventure, Drama",3.4
+884,Landysh serebristyy,2000,88.0,Tigran Keosayan,"Olesya Zheleznyak, Yuriy Stoyanov, Alexander Tsekalo","Comedy, Musical, Romance",6.4
+885,Papá es un ídolo,2000,85.0,Juan José Jusid,"Guillermo Francella, Manuel Bandera, Millie Stegmann","Comedy, Family",4.4
+886,Vergiss Amerika,2000,90.0,Vanessa Jopp,"Marek Harloff, Roman Knizka, Franziska Petri","Drama, Romance",7.1
+887,Wind River,2000,97.0,Tom Shell,"Blake Heron, A Martinez, Russell Means","Drama, Family, Western",6.3
+888,Alone with a Stranger,2000,90.0,Peter Liapis,"William R. Moses, Barbara Niven, Nia Peeples","Drama, Thriller",5.0
+889,Besos para todos,2000,101.0,Jaime Chávarri,"Emma Suárez, Eloy Azorín, Roberto Hoyas","Comedy, Drama",5.8
+890,Andromina: The Pleasure Planet,2000,88.0,Darren Patrick Moloney,"Shyra Deland, Christian Boeving, Mike Roman","Comedy, Fantasy, Horror",3.8
+891,Paromitar Ek Din,2000,130.0,Aparna Sen,"Soumitra Chatterjee, Aparna Sen, Rituparna Sengupta","Drama, Family",7.6
+892,Gripsholm,2000,100.0,Xavier Koller,"Ulrich Noethen, Heike Makatsch, Jasmin Tabatabai","Drama, History, Romance",6.0
+893,Wannabes,2000,110.0,"Charles A. Addessi, William DeMeo","William DeMeo, Conor Dubin, Robert D'Aleo","Crime, Drama",5.7
+894,Starforce,2000,93.0,"Cary Howe, Tony Kandah","Michael Bergin, Amy Weber, Vernon Wells","Action, Sci-Fi, Thriller",4.3
+895,BlackMale,2000,90.0,"George Baluzy, Mike Baluzy","Bokeem Woodbine, Roger Rees, Justin Pierce",Thriller,4.6
+896,Chump Change,2000,89.0,Stephen Burrows,"Stephen Burrows, Tim Matheson, Traci Lords","Comedy, Romance",5.6
+897,The Perfect Tenant,2000,93.0,Doug Campbell,"Linda Purl, Maxwell Caulfield, Stacy Hogue",Thriller,4.7
+898,Da jeg traff Jesus... med sprettert,2000,88.0,Stein Leikanger,"Fredrik Stenberg Ditlev-Simonsen, Martin Jonny Raaen Eidissen, Frederick Paasche","Biography, Comedy",6.3
+899,Teenage Hooker Becomes a Killing Machine,2000,60.0,Gee-woong Nam,"Dae-tong Kim, So-yun Lee","Crime, Drama, Horror",4.3
+900,Fatal Conflict,2000,92.0,Lloyd A. Simandl,"Kari Wuhrer, Jennifer Rubin, Leo Rossi","Sci-Fi, Thriller",3.7
+901,The Guys from Paradise,2000,114.0,Takashi Miike,"Kôji Kikkawa, Tsutomu Yamazaki, Ken'ichi Endô","Crime, Drama",6.5
+902,Anak,2000,135.0,Rory B. Quintos,"Vilma Santos, Claudine Barretto, Joel Torre","Drama, Family",7.8
+903,The Cabbie,2000,94.0,"Hwa-Kun Chang, Chen Yiwen","Rie Miyazawa, Chung-Heng Chu, Tai-Bo","Comedy, Romance",7.1
+904,En face,2000,90.0,Mathias Ledoux,"Jean-Hugues Anglade, Clotilde Courau, Christine Boisson",Thriller,5.0
+905,Juliet in Love,2000,89.0,Wilson Yip,"Sandra Ng, Francis Ng, Eric Kot","Drama, Romance",7.0
+906,Lion of Oz,2000,74.0,Tim Deacon,"Henry Beckman, Dom DeLuise, Gerard Plunkett","Family, Animation, Musical",5.6
+907,The Watermill Princess 2,2000,110.0,Zdenek Troska,"Monika Absolonová, Yvetta Blanarovicová, Petra Bocková","Comedy, Family, Fantasy",4.2
+908,The Ghost of Greville Lodge,2000,88.0,Niall Johnson,"Jon Newman, Prunella Scales, Marc Danbury","Family, Mystery",5.7
+909,The Sexy Mysterious Murders,2000,75.0,Ray Brady,"Michael Chomiak, Teresa Churcher, Nicole Streak",Thriller,5.8
+910,To the Extreme,2000,110.0,Étienne Faure,"Sébastien Roch, Julie Depardieu, Jérémy Sanguinetti","Drama, Romance",5.4
+911,Tôkyô gomi onna,2000,88.0,Ryûichi Hiroki,"Mami Nakamura, Kazuma Suzuki, Kô Shibasaki","Comedy, Drama, Romance",6.6
+912,Love Torn in a Dream,2000,120.0,Raúl Ruiz,"Melvil Poupaud, Elsa Zylberstein, Lambert Wilson","Drama, Fantasy",7.1
+913,Tha Eastsidaz,2000,81.0,Michael Martin,"Snoop Dogg, Darryl Brunson, Tray Deee","Action, Crime",3.9
+914,Cabin Fever,2000,102.0,Mona J. Hoel,"Svein Scharffenberg, Gørild Mauseth, Zbigniew Zamachowski",Drama,6.8
+915,Zakochani,2000,104.0,Piotr Weresniak,"Magdalena Cielecka, Bartosz Opania, Cezary Pazura","Comedy, Romance",4.9
+916,Tutto l'amore che c'è,2000,95.0,Sergio Rubini,"Damiano Russo, Michele Venitucci, Francesco Cannito",Drama,6.7
+917,Primary Suspect,2000,91.0,Jeff Celentano,"William Baldwin, Brigitte Bako, Lee Majors","Action, Mystery, Thriller",4.7
+918,This Is What Democracy Looks Like,2000,72.0,"Jill Friedberg, Rick Rowley","Noam Chomsky, Michael Franti, Carley Phelan",Documentary,7.6
+919,Fuckland,2000,84.0,José Luis Marquès,"Fabián Stratas, Camilla Heaney",Drama,5.0
+920,Across the Line,2000,99.0,Martin Spottl,"Brian Bloom, Justin Urich, Brad Johnson","Drama, Thriller",5.4
+921,One of the Hollywood Ten,2000,109.0,Karl Francis,"Jeff Goldblum, Greta Scacchi, Ángela Molina",Drama,6.1
+922,Hair Under the Roses,2000,85.0,"Jean-Julien Chervier, Agnès Obadia","Julie Durand, Alice Houri, Alexis Roucout",Comedy,5.7
+923,101 Rent Boys,2000,78.0,"Fenton Bailey, Randy Barbato","David Anthony, Gary Barry, Scott Black",Documentary,6.5
+924,The Brainiacs.com,2000,101.0,Blair Treu,"Michael Angarano, Kevin Kilner, Kevin Jamal Woods","Comedy, Family",5.3
+925,Ljuset håller mig sällskap,2000,78.0,Carl-Gustav Nykvist,"Sven Nykvist, Erland Josephson, Susan Sarandon",Documentary,7.0
+926,And I Hate You So,2000,96.0,Chung-Man Yee,"Aaron Kwok, Kelly Chen, Teresa Sun-Kwan Mo","Comedy, Romance",6.1
+927,Pramen zivota,2000,107.0,Milan Cieslar,"Monika Hilmerová, Michal Sieczkowski, Johana Tesarová","Drama, History, Romance",6.6
+928,Jebiga,2000,90.0,Miha Hocevar,"Anja Bratina, Matej Druznik, David Furlan",Comedy,6.9
+929,No Maps for These Territories,2000,89.0,Mark Neale,"William Gibson, Jack Womack, Bruce Sterling",Documentary,6.9
+930,The Little Bear Movie,2000,75.0,Raymond Jafelice,"Kristin Fairlie, Dan Hennessey, Janet-Laine Green","Animation, Adventure, Family",6.5
+931,Jayam Manadera,2000,151.0,Nimmala Shankar,"Venkatesh Daggubati, Soundarya, Bhanupriya","Action, Drama, Romance",6.3
+932,Romanovy: Ventsenosnaya semya,2000,140.0,Gleb Panfilov,"Aleksandr Galibin, Lynda Bellingham, Vladimir Grachyov","Biography, Drama, History",7.2
+933,The Operator,2000,102.0,Jon Dichter,"Michael Laurence, Christa Miller, Stephen Tobolowsky","Comedy, Drama, Thriller",5.3
+934,Russkiy bunt,2000,130.0,Aleksandr Proshkin,"Vladimir Mashkov, Mateusz Damiecki, Vladimir Ilin","Drama, History, Romance",6.5
+935,We Married Margo,2000,85.0,J.D. Shapiro,"William Dozier, J.D. Shapiro, Jillian Johns",Comedy,6.6
+936,The Highwayman,2000,94.0,Keoni Waxman,"Stephen McHattie, Laura Harris, Jason Priestley","Comedy, Drama, Thriller",4.5
+937,Regarding Buñuel,2000,103.0,"José Luis López-Linares, Javier Rioyo","José Sancho, Carlos Fuentes, Claudio Isaac",Documentary,7.3
+938,The Game of Death,2000,89.0,Rachel Samuels,"Jonathan Pryce, David Morrissey, Paul Bettany",Drama,5.9
+939,The Horrible Dr. Bones,2000,72.0,Ted Nicolaou,"Darrow Igus, Larry Bates, Sarah Scott Davis",Horror,2.4
+940,The Last Producer,2000,90.0,Burt Reynolds,"Sean Astin, David Atkinson, Leslie Bega","Comedy, Drama",4.6
+941,Zavist bogov,2000,135.0,Vladimir Menshov,"Vera Alentova, Anatoliy Lobotskiy, Aleksandr Feklistov","Drama, Romance",6.3
+942,Snegithiye,2000,154.0,Priyadarshan,"Jyotika, Sharbani Mukherji, Tabu","Drama, Musical, Mystery",6.7
+943,Umbrella Flower,2000,116.0,Shinji Sômai,"Kyôko Koizumi, Tadanobu Asano, Kumiko Asô",Drama,6.8
+944,Scottsboro: An American Tragedy,2000,84.0,"Barak Goodman, Daniel Anker","Frances McDormand, Stanley Tucci, Andre Braugher","Documentary, History",7.5
+945,Kochu Kochu Santhoshangal,2000,120.0,Sathyan Anthikad,"Jayaram, Lakshmi Gopalaswamy, Kalidas Jayaram","Comedy, Drama",6.9
+946,Ground Zero,2000,92.0,Richard Friedman,"Janet Gunn, Jack Scalia, Scott Terra","Action, Drama",3.6
+947,Faccia di Picasso,2000,95.0,Massimo Ceccherini,"Massimo Ceccherini, Alessandro Paci, Marco Giallini",Comedy,5.0
+948,Freedom,2000,96.0,Sharunas Bartas,"Valentinas Masalskis, Fatima Ennaflaoui, Axel Neumann",Drama,7.0
+949,Skyline Cruisers,2000,89.0,Wilson Yip,"Leon Lai, Jordan Chan, Shu Qi",Action,5.1
+950,Saltwater,2000,97.0,Conor McPherson,"Peter McDonald, Brian Cox, Conor Mullen","Comedy, Drama",6.0
+951,Aaghaaz,2000,153.0,Yogesh Ishwar,"Suniel Shetty, Sushmita Sen, Namrata Shirodkar","Action, Crime, Drama",4.7
+952,A Perfect Son,2000,89.0,Leonard Farlinger,"Colm Feore, David Cubitt, Chandra West",Drama,6.5
+953,Looking for an Echo,2000,97.0,Martin Davidson,"Armand Assante, Diane Venora, Joe Grifasi","Drama, Music",6.5
+954,In Good Company,2000,96.0,Nikos Zapatinas,"Giorgos Kimoulis, Nikos Kalogeropoulos, Evelina Papoulia",Comedy,6.2
+955,The Photographer,2000,91.0,Jeremy Stein,"Reg Rogers, Tina Holmes, Anthony Michael Hall","Comedy, Drama",5.0
+956,Mirka,2000,107.0,Mohamed Rachid Benhadj,"Vanessa Redgrave, Gérard Depardieu, Sergio Rubini",Drama,6.4
+957,Shirley Pimple in the John Wayne Temple of Doom,2000,90.0,Demetri Estdelacropolis,"Chelsea McIsaac, Patricia Rodriguez, Rick Trembles",Action,1.9
+958,Corrupt Hands,2000,103.0,Sirus Alvand,"Abolfazl Poorarab, Hediyeh Tehrani, Asal Badeei","Crime, Drama",5.1
+959,The Operative,2000,97.0,Robert Lee,"Brian Bosworth, John Tench, Rachel Hayward",Action,4.2
+960,Así es la vida...,2000,98.0,Arturo Ripstein,"Arcelia Ramírez, Patricia Reyes Spíndola, Luis Felipe Tovar","Drama, Romance",6.3
+961,La parenthèse enchantée,2000,88.0,Michel Spinosa,"Clotilde Courau, Vincent Elbaz, Géraldine Pailhas","Comedy, Romance",5.9
+962,Workers for the Good Lord,2000,107.0,Jean-Claude Brisseau,"Stanislas Merhar, Raphaële Godin, Emile Abossolo M'bo","Comedy, Crime, Drama",6.4
+963,I Know Who You Are,2000,100.0,Patricia Ferreira,"Miguel Ángel Solá, Ana Fernández, Roberto Enríquez","Drama, Thriller",6.2
+964,Up Against Amanda,2000,102.0,Michael Rissi,"Justine Priestley, David DeWitt, Karen Grosso","Drama, Thriller",4.4
+965,Plum Blossom,2000,118.0,Ji-kyoon Kwak,"Kim Jung-hyun, Bae Doona, Yun Ji-hye","Drama, Romance",5.9
+966,Baller Blockin',2000,54.0,Steven Esteb,"B.G., Lil' Wayne, Turk","Action, Crime",4.7
+967,Unnai Kodu Ennai Tharuven,2000,157.0,Kavee Kalidas,"Ajith Kumar, Simran, Charlie",Romance,4.1
+968,To Matthieu,2000,108.0,Xavier Beauvois,"Benoît Magimel, Nathalie Baye, Antoine Chappey",Drama,6.4
+969,Paul Is Dead,2000,75.0,"Henk Handloegten, Wolfgang Becker","Sebastian Urzendowsky, Martin Reinhold, Vasko Scholz",Drama,7.4
+970,Vetri kodi kattu,2000,,Cheran,"Murali, Parthiban Radhakrishnan, Meena","Comedy, Drama, Romance",7.2
+971,Boys Life 3,2000,79.0,"Gregory Cooke, David Fourier, Jason Gould","Cléo Delacruz, Aurélien Bianco, Jean-Marc Delacruz","Drama, Romance",6.2
+972,Grateful Dawg,2000,81.0,Gillian Grisman,"Jerry Garcia, David Grisman, Joe Craven",Documentary,7.2
+973,Spirit Warriors,2000,101.0,Chito S. Roño,"Joel Torre, Jhong Hilario, Spencer Reyes","Action, Comedy, Fantasy",6.1
+974,Prop & Berta,2000,77.0,Per Fly,"Otto Brandenburg, Paprika Steen, Lisbet Dahl","Animation, Family",5.9
+975,Mr. Butler,2000,126.0,Sasi Shankar,"Dileep, Ruchita Prasad, Innocent Vareed Thekkethala","Comedy, Drama, Romance",5.8
+976,Uyirile Kalanthathu,2000,,K.R. Jaya,"Aravind Akash, Balaji, Chaplin Balu",Thriller,6.3
+977,Krajinka,2000,106.0,Martin Sulík,"Juraj Paulen, Anton Vaculík, Vilma Cibulková",Drama,7.4
+978,Thomas and the Falcon King,2000,96.0,Václav Vorlícek,"Brano Holicek, Juraj Kukura, Klára Jandová","Family, Fantasy",6.7
+979,Kalt ist der Abendhauch,2000,124.0,Rainer Kaufmann,"Heinz Bennent, Gisela Trowe, August Diehl","Drama, Romance",7.2
+980,Bloody Beach,2000,91.0,In Soo Kim,"Hyun-Jung Kim, Yang Dong-geun, Seung-chae Lee","Crime, Horror, Mystery",4.8
+981,Bundle of Joy,2000,91.0,Detlev Buck,"Mavie Hörbiger, Simon Schwarz, Pierre Besson",Comedy,6.2
+982,Backstage,2000,86.0,Chris Fiore,"Jay-Z, DMX, Method Man",Documentary,5.8
+983,Sausalito,2000,98.0,Wai Keung Lau,"Maggie Cheung, Leon Lai, Scott Leung",Romance,5.9
+984,Doomsdayer,2000,93.0,Michael J. Sarna,"Joe Lara, Udo Kier, January Isaac Bodlovic",Action,3.5
+985,Fugitivas,2000,98.0,Miguel Hermoso,"Laia Marull, Beatriz Coronel, Juan Diego","Drama, Thriller",6.6
+986,Born Under Libra,2000,94.0,Ahmad Reza Darvish,"Mohammad Reza Forutan, Mitra Hajjar, Mahmoud Azizi","Drama, War",5.5
+987,La bostella,2000,95.0,Edouard Baer,"Edouard Baer, Rosine Favey, Gilles Gaston-Dreyfus",Comedy,5.6
+988,Estate romana,2000,90.0,Matteo Garrone,"Rossella Or, Monica Nappo, Salvatore Sansone","Comedy, Drama",6.2
+989,Sex Files: Alien Erotica II,2000,80.0,Mark Delaroy,"Kira Reed, Scott Haynes, Brad Bartram","Horror, Romance, Sci-Fi",4.2
+990,Love Come Down,2000,99.0,Clement Virgo,"Larenz Tate, Deborah Cox, Martin Cummins",Drama,5.9
+991,Ping!,2000,93.0,Chris Baugh,"Judge Reinhold, Clint Howard, Shirley Jones",Comedy,4.2
+992,Bawandar,2000,125.0,Jag Mundhra,"Nandita Das, Raghubir Yadav, Deepti Naval",Drama,7.0
+993,Preferisco il rumore del mare,2000,84.0,Mimmo Calopresti,"Silvio Orlando, Michele Raso, Fabrizia Sacchi",Drama,6.4
+994,À l'Attaque!,2000,90.0,Robert Guédiguian,"Ariane Ascaride, Pierre Banderet, Frédérique Bonnal","Comedy, Drama",6.2
+995,Orpheus & Eurydice,2000,124.0,Paul Pissanos,"Andrew Bullock, Carolina Liriti, David Bowles","Action, Adventure, Drama",5.5
+996,Exit,2000,110.0,Olivier Megaton,"Patrick Fontana, Féodor Atkine, Manuel Blanc","Sci-Fi, Crime, Thriller",4.6
+997,The Ballad of Ramblin' Jack,2000,112.0,Aiyana Elliott,"Ramblin' Jack Elliott, Gil Gross, Arlo Guthrie","Documentary, Biography, Music",7.8
+998,Help!!!,2000,92.0,"Johnnie To, Ka-Fai Wai","Ekin Cheng, Jordan Chan, Cecilia Cheung",Comedy,5.9
+999,Just One Night,2000,90.0,Alan Jacobs,"Timothy Hutton, Maria Grazia Cucinotta, Udo Kier",Comedy,5.5
+1000,Brave New Land,2000,104.0,Lúcia Murat,"Diogo Infante, Floriano Peixoto, Luciana Rigueira","Drama, War",6.8
