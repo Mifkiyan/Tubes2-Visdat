@@ -278,13 +278,6 @@ else:
         def sync_inputs_to_slider():
             start_val = st.session_state.start_year_num_input
             end_val = st.session_state.end_year_num_input
-            if start_val > end_val:
-                st.warning("Tahun awal tidak boleh lebih besar dari tahun akhir. Menggunakan nilai sebelumnya.")
-                # Kembalikan nilai input ke nilai slider_year_range untuk menghindari state tidak valid
-                st.session_state.start_year_num_input = st.session_state.slider_year_range[0]
-                st.session_state.end_year_num_input = st.session_state.slider_year_range[1]
-            else:
-                st.session_state.slider_year_range = (start_val, end_val)
 
         col_start_year, col_end_year = st.columns(2)
         with col_start_year:
