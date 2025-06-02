@@ -1,0 +1,971 @@
+ID,Name,Year,Duration,Directors,Actors,Genres,Rating
+1,The Silence of the Lambs,1991,118,Jonathan Demme,"Jodie Foster, Anthony Hopkins, Scott Glenn","Crime, Drama, Horror",8.6
+2,Terminator 2: Judgment Day,1991,137,James Cameron,"Arnold Schwarzenegger, Linda Hamilton, Edward Furlong","Action, Adventure, Sci-Fi",8.6
+3,Beauty and the Beast,1991,84,"Gary Trousdale, Kirk Wise","Paige O'Hara, Robby Benson, Jesse Corti","Animation, Family, Fantasy",8.0
+4,Hook,1991,142,Steven Spielberg,"Dustin Hoffman, Robin Williams, Julia Roberts","Adventure, Comedy, Family",6.8
+5,Cape Fear,1991,128,Martin Scorsese,"Robert De Niro, Nick Nolte, Jessica Lange","Crime, Drama, Thriller",7.3
+6,Robin Hood: Prince of Thieves,1991,143,Kevin Reynolds,"Kevin Costner, Morgan Freeman, Mary Elizabeth Mastrantonio","Action, Adventure, Drama",6.9
+7,Point Break,1991,122,Kathryn Bigelow,"Patrick Swayze, Keanu Reeves, Gary Busey","Action, Crime, Thriller",7.3
+8,The Addams Family,1991,99,Barry Sonnenfeld,"Anjelica Huston, Raul Julia, Christopher Lloyd","Comedy, Fantasy",7.0
+9,Thelma & Louise,1991,130,Ridley Scott,"Susan Sarandon, Geena Davis, Harvey Keitel","Adventure, Crime, Drama",7.6
+10,JFK,1991,189,Oliver Stone,"Kevin Costner, Gary Oldman, Jack Lemmon","Drama, History, Thriller",8.0
+11,Boyz n the Hood,1991,112,John Singleton,"Cuba Gooding Jr., Laurence Fishburne, Hudhail Al-Amir","Crime, Drama",7.8
+12,Barton Fink,1991,116,"Joel Coen, Ethan Coen","John Turturro, John Goodman, Judy Davis","Comedy, Drama, Thriller",7.6
+13,The Naked Gun 2½: The Smell of Fear,1991,85,David Zucker,"Leslie Nielsen, Priscilla Presley, George Kennedy","Comedy, Crime",6.9
+14,Hot Shots!,1991,85,Jim Abrahams,"Charlie Sheen, Cary Elwes, Valeria Golino","Action, Comedy",6.7
+15,The Last Boy Scout,1991,105,Tony Scott,"Bruce Willis, Damon Wayans, Chelsea Field","Action, Comedy, Crime",7.0
+16,The Doors,1991,140,Oliver Stone,"Val Kilmer, Meg Ryan, Kyle MacLachlan","Biography, Drama, Music",7.2
+17,The Fisher King,1991,137,Terry Gilliam,"Jeff Bridges, Robin Williams, Adam Bryant","Comedy, Drama, Fantasy",7.5
+18,My Girl,1991,102,Howard Zieff,"Anna Chlumsky, Macaulay Culkin, Dan Aykroyd","Comedy, Drama, Family",6.9
+19,Delicatessen,1991,99,"Marc Caro, Jean-Pierre Jeunet","Marie-Laure Dougnac, Dominique Pinon, Pascal Benezech","Comedy, Crime",7.5
+20,Backdraft,1991,137,Ron Howard,"Kurt Russell, William Baldwin, Robert De Niro","Action, Drama, Mystery",6.7
+21,Father of the Bride,1991,105,Charles Shyer,"Steve Martin, Diane Keaton, Martin Short","Comedy, Family, Romance",6.6
+22,Fried Green Tomatoes,1991,130,Jon Avnet,"Kathy Bates, Jessica Tandy, Mary Stuart Masterson",Drama,7.7
+23,Star Trek VI: The Undiscovered Country,1991,110,Nicholas Meyer,"William Shatner, Leonard Nimoy, DeForest Kelley","Action, Adventure, Sci-Fi",7.2
+24,Bill & Ted's Bogus Journey,1991,93,Peter Hewitt,"Keanu Reeves, Alex Winter, William Sadler","Adventure, Comedy, Fantasy",6.3
+25,What About Bob?,1991,99,Frank Oz,"Bill Murray, Richard Dreyfuss, Julie Hagerty",Comedy,7.0
+26,Night on Earth,1991,129,Jim Jarmusch,"Winona Ryder, Gena Rowlands, Lisanne Falk","Comedy, Drama",7.7
+27,Sleeping with the Enemy,1991,99,Joseph Ruben,"Julia Roberts, Patrick Bergin, Kevin Anderson","Drama, Thriller",6.3
+28,City Slickers,1991,113,Ron Underwood,"Billy Crystal, Jack Palance, Daniel Stern","Comedy, Western",6.8
+29,My Own Private Idaho,1991,104,Gus Van Sant,"River Phoenix, Keanu Reeves, James Russo",Drama,6.9
+30,The Rocketeer,1991,108,Joe Johnston,"Billy Campbell, Jennifer Connelly, Alan Arkin","Action, Adventure, Family",6.6
+31,Teenage Mutant Ninja Turtles II: The Secret of the Ooze,1991,88,Michael Pressman,"Paige Turco, David Warner, Michelan Sisti","Action, Adventure, Comedy",6.0
+32,Hudson Hawk,1991,100,Michael Lehmann,"Bruce Willis, Danny Aiello, Andie MacDowell","Action, Adventure, Comedy",5.7
+33,Naked Lunch,1991,115,David Cronenberg,"Peter Weller, Judy Davis, Ian Holm","Drama, Mystery",6.9
+34,The Double Life of Véronique,1991,98,Krzysztof Kieslowski,"Irène Jacob, Wladyslaw Kowalski, Halina Gryglaszewska","Drama, Fantasy, Music",7.6
+35,Freddy's Dead: The Final Nightmare,1991,89,Rachel Talalay,"Robert Englund, Lisa Zane, Shon Greenblatt","Fantasy, Horror",4.7
+36,Highlander II: The Quickening,1991,91,Russell Mulcahy,"Christopher Lambert, Sean Connery, Virginia Madsen","Action, Adventure, Drama",4.2
+37,Child's Play 3,1991,90,Jack Bender,"Justin Whalin, Perrey Reeves, Jeremy Sylvers","Horror, Thriller",5.2
+38,Double Impact,1991,110,Sheldon Lettich,"Jean-Claude Van Damme, Geoffrey Lewis, Alonna Shaw","Action, Crime",5.6
+39,The People Under the Stairs,1991,102,Wes Craven,"Brandon Quintin Adams, Everett McGill, Wendy Robie","Comedy, Horror, Mystery",6.4
+40,Doc Hollywood,1991,104,Michael Caton-Jones,"Michael J. Fox, Julie Warner, Barnard Hughes","Comedy, Drama, Romance",6.3
+41,The Commitments,1991,118,Alan Parker,"Robert Arkins, Michael Aherne, Angeline Ball","Comedy, Drama, Music",7.6
+42,New Jack City,1991,97,Mario Van Peebles,"Wesley Snipes, Ice-T, Allen Payne","Action, Crime, Drama",6.6
+43,Only Yesterday,1991,119,Isao Takahata,"Miki Imai, Toshirô Yanagiba, Yoko Honna","Animation, Drama, Romance",7.6
+44,Don't Tell Mom the Babysitter's Dead,1991,102,Stephen Herek,"Christina Applegate, Joanna Cassidy, John Getz",Comedy,6.3
+45,Raise the Red Lantern,1991,125,Yimou Zhang,"Gong Li, Jingwu Ma, Saifei He","Drama, Romance",8.1
+46,Frankie and Johnny,1991,118,Garry Marshall,"Al Pacino, Michelle Pfeiffer, Hector Elizondo","Comedy, Drama, Romance",6.7
+47,Oscar,1991,109,John Landis,"Sylvester Stallone, Ornella Muti, Peter Riegert","Comedy, Crime",6.5
+48,Regarding Henry,1991,108,Mike Nichols,"Harrison Ford, Annette Bening, Michael Haley","Drama, Romance",6.7
+49,L.A. Story,1991,95,Mick Jackson,"Steve Martin, Victoria Tennant, Richard E. Grant","Comedy, Drama, Fantasy",6.7
+50,Drop Dead Fred,1991,103,Ate de Jong,"Phoebe Cates, Rik Mayall, Marsha Mason","Comedy, Drama, Fantasy",6.0
+51,Bugsy,1991,136,Barry Levinson,"Warren Beatty, Annette Bening, Harvey Keitel","Biography, Crime, Drama",6.8
+52,Dead Again,1991,107,Kenneth Branagh,"Kenneth Branagh, Emma Thompson, Andy Garcia","Crime, Drama, Mystery",6.8
+53,An American Tail: Fievel Goes West,1991,75,"Phil Nibbelink, Simon Wells","James Stewart, John Cleese, Amy Irving","Animation, Adventure, Family",6.5
+54,Nothing But Trouble,1991,94,Dan Aykroyd,"Chevy Chase, Dan Aykroyd, John Candy",Comedy,5.1
+55,Out for Justice,1991,91,John Flynn,"Steven Seagal, William Forsythe, Jerry Orbach","Action, Crime, Drama",6.1
+56,Toy Soldiers,1991,111,Daniel Petrie Jr.,"Sean Astin, Wil Wheaton, Keith Coogan","Action, Drama, Thriller",6.6
+57,Problem Child 2,1991,90,Brian Levant,"John Ritter, Michael Oliver, Jack Warden","Comedy, Family",4.9
+58,Hearts of Darkness: A Filmmaker's Apocalypse,1991,96,"Fax Bahr, George Hickenlooper, Eleanor Coppola","Dennis Hopper, Martin Sheen, Marlon Brando",Documentary,8.1
+59,Curly Sue,1991,101,John Hughes,"Jim Belushi, Kelly Lynch, Alisan Porter","Comedy, Drama, Family",5.9
+60,Harley Davidson and the Marlboro Man,1991,98,Simon Wincer,"Mickey Rourke, Don Johnson, Chelsea Field","Action, Crime, Drama",6.1
+61,Europa,1991,108,Lars von Trier,"Barbara Sukowa, Jean-Marc Barr, Udo Kier","Crime, Drama, Thriller",7.5
+62,Armour of God 2: Operation Condor,1991,80,Jackie Chan,"Jackie Chan, Do Do Cheng, Eva Cobo","Action, Adventure, Comedy",7.2
+63,White Fang,1991,107,Randal Kleiser,"Ethan Hawke, Klaus Maria Brandauer, Jed","Adventure, Drama, Family",6.7
+64,The Hard Way,1991,111,John Badham,"Michael J. Fox, James Woods, Stephen Lang","Action, Comedy, Crime",6.4
+65,Return to the Blue Lagoon,1991,102,William A. Graham,"Brian Krause, Milla Jovovich, Lisa Pelikan","Adventure, Drama, Romance",5.2
+66,Defending Your Life,1991,112,Albert Brooks,"Albert Brooks, Meryl Streep, Rip Torn","Comedy, Drama, Fantasy",7.2
+67,Ricochet,1991,102,Russell Mulcahy,"Denzel Washington, John Lithgow, Ice-T","Action, Crime, Drama",6.2
+68,Showdown in Little Tokyo,1991,79,Mark L. Lester,"Dolph Lundgren, Brandon Lee, Cary-Hiroyuki Tagawa","Action, Comedy, Crime",6.1
+69,Once Upon a Time in China,1991,134,Hark Tsui,"Jet Li, Rosamund Kwan, Biao Yuen",Action,7.2
+70,The Prince of Tides,1991,132,Barbra Streisand,"Barbra Streisand, Nick Nolte, Blythe Danner","Drama, Romance",6.8
+71,The Man in the Moon,1991,99,Robert Mulligan,"Sam Waterston, Tess Harper, Gail Strickland","Drama, Romance",7.2
+72,Jungle Fever,1991,132,Spike Lee,"Wesley Snipes, Annabella Sciorra, Spike Lee","Drama, Romance",6.6
+73,Career Opportunities,1991,83,Bryan Gordon,"Frank Whaley, Jennifer Connelly, Dermot Mulroney","Comedy, Romance",5.8
+74,Shadows and Fog,1991,85,Woody Allen,"Woody Allen, Mia Farrow, Michael Kirby",Comedy,6.7
+75,Soapdish,1991,97,Michael Hoffman,"Sally Field, Kevin Kline, Cathy Moriarty","Comedy, Romance",6.6
+76,High Heels,1991,112,Pedro Almodóvar,"Victoria Abril, Marisa Paredes, Miguel Bosé","Comedy, Drama, Romance",7.0
+77,Dying Young,1991,111,Joel Schumacher,"Julia Roberts, Campbell Scott, Vincent D'Onofrio","Drama, Romance",6.0
+78,King Ralph,1991,97,David S. Ward,"John Goodman, Peter O'Toole, John Hurt","Comedy, Romance",5.4
+79,Grand Canyon,1991,134,Lawrence Kasdan,"Danny Glover, Kevin Kline, Steve Martin","Crime, Drama",6.8
+80,Mediterraneo,1991,96,Gabriele Salvatores,"Diego Abatantuono, Claudio Bigagli, Giuseppe Cederna","Comedy, Drama, War",7.4
+81,Little Man Tate,1991,99,Jodie Foster,"Jodie Foster, Dianne Wiest, Adam Hann-Byrd",Drama,6.6
+82,The Lovers on the Bridge,1991,125,Leos Carax,"Juliette Binoche, Denis Lavant, Klaus-Michael Grüber","Drama, Romance",7.6
+83,Not Without My Daughter,1991,116,Brian Gilbert,"Sally Field, Alfred Molina, Sheila Rosenthal","Drama, Thriller",6.5
+84,Riki-Oh: The Story of Ricky,1991,91,Ngai Choi Lam,"Louis Fan, Fan Mei-Sheng, Ka-Kui Ho","Action, Comedy, Crime",7.0
+85,One False Move,1991,105,Carl Franklin,"Bill Paxton, Billy Bob Thornton, Cynda Williams","Crime, Drama, Thriller",7.1
+86,Dutch,1991,107,Peter Faiman,"Ed O'Neill, Ethan Embry, JoBeth Williams","Comedy, Drama",6.5
+87,Thalapathi,1991,157,Mani Ratnam,"Rajinikanth, Mammootty, Shobana","Action, Crime, Drama",8.5
+88,A Brighter Summer Day,1991,237,Edward Yang,"Chang Chen, Lisa Yang, Kuo-Chu Chang","Crime, Drama, Romance",8.2
+89,Critters 3,1991,86,Kristine Peterson,"John Calvin, Aimee Brooks, Christian Cousins","Comedy, Horror, Sci-Fi",4.5
+90,Necessary Roughness,1991,108,Stan Dragoti,"Scott Bakula, Hector Elizondo, Robert Loggia","Comedy, Sport",6.2
+91,Ernest Scared Stupid,1991,91,John R. Cherry III,"Jim Varney, Eartha Kitt, Austin Nagler","Comedy, Family, Fantasy",5.8
+92,Billy Bathgate,1991,106,Robert Benton,"Dustin Hoffman, Nicole Kidman, Loren Dean","Crime, Drama, Thriller",5.9
+93,Only the Lonely,1991,104,Chris Columbus,"John Candy, Maureen O'Hara, Ally Sheedy","Comedy, Romance",6.4
+94,F/X2,1991,108,Richard Franklin,"Bryan Brown, Brian Dennehy, Rachel Ticotin","Action, Thriller",5.9
+95,Shattered,1991,98,Wolfgang Petersen,"Tom Berenger, Bob Hoskins, Greta Scacchi","Crime, Drama, Mystery",6.5
+96,Johnny Stecchino,1991,102,Roberto Benigni,"Roberto Benigni, Nicoletta Braschi, Paolo Bonacelli","Comedy, Crime, Romance",7.2
+97,Until the End of the World,1991,287,Wim Wenders,"William Hurt, Solveig Dommartin, Pietro Falcone","Action, Drama, Sci-Fi",6.8
+98,Life Stinks,1991,92,Mel Brooks,"Mel Brooks, Lesley Ann Warren, Jeffrey Tambor",Comedy,5.9
+99,Suburban Commando,1991,90,Burt Kennedy,"Hulk Hogan, Christopher Lloyd, Shelley Duvall","Action, Comedy, Sci-Fi",4.6
+100,Rock-A-Doodle,1991,77,"Don Bluth, Gary Goldman, Dan Kuenster","Glen Campbell, Christopher Plummer, Sorrell Booke","Animation, Adventure, Comedy",6.0
+101,Switch,1991,103,Blake Edwards,"Ellen Barkin, Jimmy Smits, JoBeth Williams","Comedy, Fantasy",5.8
+102,Kafka,1991,98,Steven Soderbergh,"Jeremy Irons, Theresa Russell, Joel Grey","Drama, Mystery, Sci-Fi",6.8
+103,Samurai Cop,1991,96,Amir Shervan,"Robert Z'Dar, Mathew Karedas, Janis Farley","Action, Crime, Thriller",4.6
+104,Dogfight,1991,94,Nancy Savoca,"River Phoenix, Lili Taylor, Richard Panebianco","Comedy, Drama, Romance",7.3
+105,Cool as Ice,1991,91,David Kellogg,"Vanilla Ice, Kristin Minter, Naomi Campbell","Comedy, Drama, Music",3.0
+106,Stone Cold,1991,92,Craig R. Baxley,"Brian Bosworth, Lance Henriksen, William Forsythe","Action, Crime, Drama",6.1
+107,Rush,1991,120,Lili Fini Zanuck,"Jason Patric, Jennifer Jason Leigh, Sam Elliott","Action, Crime, Drama",6.7
+108,Madonna: Truth or Dare,1991,120,Alek Keshishian,"Madonna, Donna DeLory, Niki Haris","Documentary, Music",6.4
+109,Mortal Thoughts,1991,103,Alan Rudolph,"Demi Moore, Glenne Headly, Bruce Willis","Mystery, Thriller",5.8
+110,The Indian Runner,1991,127,Sean Penn,"David Morse, Viggo Mortensen, Valeria Golino",Drama,6.9
+111,Delirious,1991,96,Tom Mankiewicz,"John Candy, Mariel Hemingway, Emma Samms","Comedy, Fantasy",5.8
+112,La belle noiseuse,1991,238,Jacques Rivette,"Michel Piccoli, Jane Birkin, Emmanuelle Béart",Drama,7.5
+113,Mobsters,1991,104,Michael Karbelnikoff,"Christian Slater, Patrick Dempsey, Rodney Eastman","Crime, Drama",5.9
+114,Guilty by Suspicion,1991,105,Irwin Winkler,"Robert De Niro, Annette Bening, George Wendt",Drama,6.5
+115,Other People's Money,1991,103,Norman Jewison,"Danny DeVito, Gregory Peck, Penelope Ann Miller","Comedy, Drama, Romance",6.2
+116,Wedlock,1991,101,Lewis Teague,"Rutger Hauer, Mimi Rogers, Joan Chen","Action, Crime, Drama",5.9
+117,The Butcher's Wife,1991,107,Terry Hughes,"Demi Moore, Jeff Daniels, George Dzundza","Comedy, Fantasy, Romance",5.4
+118,Dragon Ball Z: Cooler's Revenge,1991,47,Mitsuo Hashimoto,"Masako Nozawa, Toshio Furukawa, Mayumi Tanaka","Animation, Action, Sci-Fi",7.0
+119,Class Action,1991,110,Michael Apted,"Gene Hackman, Mary Elizabeth Mastrantonio, Colin Friels","Drama, Thriller",6.4
+120,Homicide,1991,102,David Mamet,"Joe Mantegna, William H. Macy, Vincent Guastaferro","Crime, Mystery, Thriller",6.9
+121,Deceived,1991,104,Damian Harris,"Goldie Hawn, John Heard, Damon Redfern","Crime, Drama, Mystery",6.1
+122,Tous les matins du monde,1991,115,Alain Corneau,"Gérard Depardieu, Jean-Pierre Marielle, Anne Brochet","Biography, Drama, History",7.5
+123,If Looks Could Kill,1991,88,William Dear,"Richard Grieco, Linda Hunt, Roger Rees","Action, Comedy",5.8
+124,Flight of the Intruder,1991,115,John Milius,"Danny Glover, Willem Dafoe, Brad Johnson","Action, Drama, Thriller",5.8
+125,Pure Luck,1991,96,Nadia Tass,"Martin Short, Danny Glover, Sheila Kelley","Comedy, Crime, Mystery",5.8
+126,Black Robe,1991,101,Bruce Beresford,"Lothaire Bluteau, Aden Young, Sandrine Holt","Adventure, Drama, War",7.1
+127,Rhapsody in August,1991,98,Akira Kurosawa,"Sachiko Murase, Richard Gere, Hisashi Igawa","Drama, War",7.2
+128,Saajan,1991,193,Lawrence D'Souza,"Sanjay Dutt, Madhuri Dixit, Salman Khan","Drama, Musical, Romance",7.2
+129,Godzilla vs. King Ghidorah,1991,100,"Kazuki Ômori, Kôji Hashimoto","Kôsuke Toyohara, Anna Nakagawa, Megumi Odaka","Action, Adventure, Drama",6.5
+130,Once a Thief,1991,108,John Woo,"Leslie Cheung, Chow Yun-Fat, Cherie Chung","Action, Comedy, Crime",6.7
+131,Enchanted April,1991,95,Mike Newell,"Alfred Molina, Joan Plowright, Miranda Richardson",Drama,7.3
+132,"He Said, She Said",1991,115,"Ken Kwapis, Marisa Silver","Kevin Bacon, Elizabeth Perkins, Nathan Lane","Comedy, Drama, Romance",5.7
+133,K2,1991,104,Franc Roddam,"Michael Biehn, Matt Craven, Annie Grindlay","Adventure, Drama, Sport",6.2
+134,Proof,1991,86,Jocelyn Moorhouse,"Hugo Weaving, Geneviève Picot, Russell Crowe","Drama, Romance",7.2
+135,House Party 2,1991,94,"George Jackson, Doug McHenry","Christopher Reid, Christopher Martin, Martin Lawrence","Comedy, Drama, Music",5.3
+136,Talkin' Dirty After Dark,1991,89,Topper Carew,"Martin Lawrence, John Witherspoon, Phyllis Yvonne Stickney",Comedy,5.1
+137,Dragon Ball Z: Lord Slug,1991,43,Mitsuo Hashimoto,"Masako Nozawa, Toshio Furukawa, Mayumi Tanaka","Animation, Action, Fantasy",6.5
+138,Mannequin: On the Move,1991,95,Stewart Raffill,"Kristy Swanson, William Ragsdale, Meshach Taylor","Comedy, Fantasy, Romance",4.5
+139,A Scene at the Sea,1991,101,Takeshi Kitano,"Claude Maki, Hiroko Ôshima, Sabu Kawahara","Comedy, Drama, Romance",7.5
+140,Prospero's Books,1991,124,Peter Greenaway,"John Gielgud, Michael Clark, Michel Blanc","Drama, Fantasy",6.8
+141,The Super,1991,95,Rod Daniel,"Joe Pesci, Vincent Gardenia, Madolyn Smith Osborne",Comedy,5.7
+142,Popcorn,1991,91,"Mark Herrier, Alan Ormsby","Jill Schoelen, Tom Villard, Dee Wallace","Comedy, Horror",5.9
+143,Mississippi Masala,1991,118,Mira Nair,"Denzel Washington, Sarita Choudhury, Roshan Seth","Drama, Romance",6.8
+144,Flirting,1991,99,John Duigan,"Noah Taylor, Thandiwe Newton, Nicole Kidman","Drama, Romance",7.1
+145,Guyver,1991,88,"Screaming Mad George, Steve Wang","Greg Joung Paik, Jimmie 'JJ' Walker, Peter Spellos","Action, Comedy, Horror",4.9
+146,Kickboxer 2: The Road Back,1991,90,Albert Pyun,"Sasha Mitchell, Peter Boyle, Dennis Chan","Action, Sport",4.6
+147,Toto the Hero,1991,91,Jaco Van Dormael,"Michel Bouquet, Mireille Perrier, Jo De Backer","Comedy, Drama, Fantasy",7.4
+148,The Marrying Man,1991,115,Jerry Rees,"Kim Basinger, Alec Baldwin, Robert Loggia","Comedy, Music, Romance",5.7
+149,For the Boys,1991,138,Mark Rydell,"Bette Midler, James Caan, George Segal","Comedy, Drama, Music",6.4
+150,The Rapture,1991,100,Michael Tolkin,"Mimi Rogers, David Duchovny, Darwyn Carson","Drama, Mystery, Thriller",6.3
+151,A Kiss Before Dying,1991,94,James Dearden,"Matt Dillon, Sean Young, James Bonfanti","Crime, Drama, Mystery",5.7
+152,Wild Hearts Can't Be Broken,1991,88,Steve Miner,"Gabrielle Anwar, Michael Schoeffling, Cliff Robertson","Drama, Family, Romance",7.2
+153,Robin Hood,1991,104,John Irvin,"Danny Webb, Conrad Asquith, Barry Stanton","Action, Adventure, Drama",5.7
+154,"Attention, Papa Arrives!",1991,89,"Vicco von Bülow, Renate Westphal-Lorenz","Evelyn Hamann, Vicco von Bülow, Irm Hermann","Comedy, Family",7.8
+155,"Manta, Manta",1991,91,Wolfgang Büld,"Til Schweiger, Tina Ruland, Stefan Gebelhoff",Comedy,5.7
+156,The Doctor,1991,122,Randa Haines,"William Hurt, Christine Lahti, Elizabeth Perkins",Drama,6.9
+157,A Brief History of Time,1991,80,Errol Morris,"Stephen Hawking, Isobel Hawking, Janet Humphrey","Documentary, Biography",7.3
+158,Shakes the Clown,1991,87,Bobcat Goldthwait,"Bobcat Goldthwait, Julie Brown, Bruce Baum","Comedy, Crime, Drama",5.6
+159,All I Want for Christmas,1991,92,Robert Lieberman,"Harley Jane Kozak, Jamey Sheridan, Ethan Embry","Comedy, Family, Romance",5.9
+160,The Pit and the Pendulum,1991,97,Stuart Gordon,"Lance Henriksen, Stephen Lee, William Norris","Horror, Romance",6.0
+161,Sandesham,1991,138,Sathyan Anthikad,"Thilakan, Sreenivasan, Jayaram","Comedy, Drama",9.0
+162,Highway to Hell,1991,94,Ate de Jong,"Patrick Bergin, Adam Storke, Chad Lowe","Adventure, Comedy, Fantasy",6.0
+163,True Colors,1991,111,Herbert Ross,"John Cusack, James Spader, Imogen Stubbs",Drama,6.3
+164,Rambling Rose,1991,112,Martha Coolidge,"Laura Dern, Robert Duvall, Diane Ladd",Drama,6.5
+165,Impromptu,1991,107,James Lapine,"Judy Davis, Hugh Grant, Mandy Patinkin","Biography, Comedy, Music",6.8
+166,Paprika,1991,99,Tinto Brass,"Debora Caprioglio, Stéphane Ferrara, Martine Brochard",Drama,5.5
+167,V.I. Warshawski,1991,89,Jeff Kanew,"Kathleen Turner, Jay O. Sanders, Charles Durning","Action, Comedy, Crime",5.0
+168,Under Suspicion,1991,99,Simon Moore,"Liam Neeson, Laura San Giacomo, Kenneth Cranham","Crime, Drama, Mystery",6.4
+169,Scenes from a Mall,1991,89,Paul Mazursky,"Bette Midler, Woody Allen, Bill Irwin",Comedy,5.4
+170,Body Parts,1991,88,Eric Red,"Jeff Fahey, Lindsay Duncan, Kim Delaney","Horror, Sci-Fi, Thriller",5.7
+171,Once Around,1991,115,Lasse Hallström,"Richard Dreyfuss, Holly Hunter, Danny Aiello","Comedy, Drama, Romance",6.5
+172,Poison,1991,85,Todd Haynes,"Edith Meeks, Larry Maxwell, Susan Norman","Drama, Horror, Romance",6.3
+173,The Resurrected,1991,108,Dan O'Bannon,"John Terry, Jane Sibbett, Chris Sarandon",Horror,6.2
+174,Den ofrivillige golfaren,1991,107,Lasse Åberg,"Lasse Åberg, Mats Bergman, Jon Skolmen","Comedy, Sport",5.7
+175,The Five Heartbeats,1991,121,Robert Townsend,"Robert Townsend, Michael Wright, Leon","Drama, Music",7.6
+176,Pushing Hands,1991,105,Ang Lee,"Sihung Lung, Lai Wang, Bozhao Wang","Comedy, Drama",7.2
+177,The Perfect Weapon,1991,83,Mark DiSalle,"Jeff Speakman, John Dye, Mako","Action, Crime, Drama",6.0
+178,Fight Back to School,1991,100,Gordon Chan,"Stephen Chow, Sharla Cheung, Man-Tat Ng","Action, Comedy, Crime",7.1
+179,Riff-Raff,1991,95,Ken Loach,"Robert Carlyle, Emer McCourt, Jim R. Coleman","Comedy, Drama",7.0
+180,Kilukkam,1991,155,Priyadarshan,"Mohanlal, Jagathy Sreekumar, Revathi",Comedy,8.7
+181,Dil Hai Ki Manta Nahin,1991,154,Mahesh Bhatt,"Aamir Khan, Pooja Bhatt, Anupam Kher","Adventure, Comedy, Drama",7.2
+182,Ski School,1991,95,Damian Lee,"Dean Cameron, Tom Bresnahan, Patrick Labyorteaux","Comedy, Sport",4.9
+183,Madame Bovary,1991,143,Claude Chabrol,"Isabelle Huppert, Jean-François Balmer, Christophe Malavoy","Drama, Romance",6.6
+184,One Good Cop,1991,114,Heywood Gould,"Michael Keaton, Rene Russo, Anthony LaPaglia","Action, Crime, Drama",5.8
+185,Whore,1991,85,Ken Russell,"Theresa Russell, Benjamin Mouton, Antonio Fargas",Drama,5.6
+186,Johnny Suede,1991,97,Tom DiCillo,"Brad Pitt, Richard Boes, Cheryl Costa","Comedy, Drama, Music",5.8
+187,The Hitman,1991,95,Aaron Norris,"Chuck Norris, Michael Parks, Al Waxman","Action, Crime, Thriller",5.3
+188,Godfather,1991,150,"Lal, Siddique","N.N. Pillai, Mukesh, Philomina","Comedy, Drama, Romance",8.6
+189,Another You,1991,94,Maurice Phillips,"Richard Pryor, Gene Wilder, Mercedes Ruehl","Comedy, Crime",5.3
+190,The Stranger,1991,97,Satyajit Ray,"Utpal Dutt, Dipankar Dey, Mamata Shankar",Drama,8.0
+191,Nekromantik 2,1991,104,Jörg Buttgereit,"Monika M., Mark Reeder, Simone Spörl",Horror,5.2
+192,Basket Case 3,1991,90,Frank Henenlotter,"Kevin VanHentenryck, Annie Ross, Gil Roper","Comedy, Horror",4.8
+193,Zandalee,1991,100,Sam Pillsbury,"Nicolas Cage, Erika Anderson, Judge Reinhold","Drama, Romance, Thriller",4.3
+194,Lucky Luke,1991,92,Terence Hill,"Terence Hill, Nancy Morgan, Roger Miller","Comedy, Western",5.2
+195,Love in the Time of Hysteria,1991,94,Alfonso Cuarón,"Daniel Giménez Cacho, Claudia Ramírez, Luis de Icaza","Comedy, Romance",6.8
+196,The Dark Backward,1991,101,Adam Rifkin,"Judd Nelson, Bill Paxton, Wayne Newton",Comedy,5.7
+197,Island of Fire,1991,125,Yen-Ping Chu,"Jackie Chan, Andy Lau, Sammo Kam-Bo Hung","Action, Crime, Drama",5.7
+198,Close to Eden,1991,119,Nikita Mikhalkov,"Badema, Bayaertu, Vladimir Gostyukhin","Adventure, Drama, Romance",7.5
+199,Scanners II: The New Order,1991,104,Christian Duguay,"David Hewlett, Deborah Raffin, Yvan Ponton","Action, Horror, Sci-Fi",5.3
+200,Let Him Have It,1991,115,Peter Medak,"Tom Courtenay, Christopher Eccleston, Eileen Atkins","Crime, Drama, History",7.1
+201,The Adjuster,1991,102,Atom Egoyan,"Elias Koteas, Arsinée Khanjian, Maury Chaykin","Comedy, Drama",6.6
+202,Close My Eyes,1991,108,Stephen Poliakoff,"Alan Rickman, Clive Owen, Saskia Reeves","Drama, Romance",6.2
+203,The Sect,1991,125,Michele Soavi,"Kelly Curtis, Herbert Lom, Mariangela Giordano",Horror,6.1
+204,Beastmaster 2: Through the Portal of Time,1991,107,Sylvio Tabet,"Marc Singer, James Avery, Michael Berryman","Action, Adventure, Fantasy",4.2
+205,Mother,1991,157,Henri Verneuil,"Claudia Cardinale, Omar Sharif, Nathalie Roussel",Drama,7.5
+206,Voyager,1991,117,Volker Schlöndorff,"Sam Shepard, Julie Delpy, Barbara Sukowa","Drama, Romance",6.7
+207,At Play in the Fields of the Lord,1991,189,Hector Babenco,"Tom Berenger, John Lithgow, Daryl Hannah","Drama, Romance",6.8
+208,Dolly Dearest,1991,93,Maria Lease,"Denise Crosby, Sam Bottoms, Rip Torn","Comedy, Drama, Horror",4.8
+209,Daughters of the Dust,1991,113,Julie Dash,"Cora Lee Day, Alva Rogers, Barbara O","Drama, History, Romance",6.6
+210,Hum,1991,184,Mukul Anand,"Amitabh Bachchan, Rajinikanth, Govinda","Action, Comedy, Drama",6.9
+211,Company Business,1991,98,Nicholas Meyer,"Gene Hackman, Mikhail Baryshnikov, Kurtwood Smith","Action, Comedy, Crime",5.7
+212,Lovers: A True Story,1991,103,Vicente Aranda,"Victoria Abril, Jorge Sanz, Maribel Verdú","Crime, Drama, Romance",6.9
+213,Aditya 369,1991,140,Singeetam Srinivasa Rao,"Nandamuri Balakrishna, Mohini, Amrish Puri","Action, Adventure, Comedy",8.4
+214,Alligator II: The Mutation,1991,94,Jon Hess,"Joseph Bologna, Dee Wallace, Richard Lynch","Horror, Sci-Fi",4.0
+215,Rover Dangerfield,1991,74,"James L. George, Bob Seeley","Rodney Dangerfield, Susan Boyd, Ronnie Schell","Animation, Comedy, Family",5.9
+216,Roujin Z,1991,80,Hiroyuki Kitakubo,"Shinji Ogawa, Shinsuke Chikaishi, Chisa Yokoyama","Animation, Comedy, Drama",6.8
+217,Mystery Date,1991,97,Jonathan Wacks,"Ethan Hawke, Teri Polo, Brian McNamara","Comedy, Crime, Romance",6.0
+218,Van Gogh,1991,158,Maurice Pialat,"Jacques Dutronc, Alexandra London, Bernard Le Coq","Biography, Drama, Romance",7.1
+219,29th Street,1991,101,George Gallo,"Anthony LaPaglia, Danny Aiello, Lainie Kazan","Comedy, Drama",7.2
+220,Guna,1991,167,Santhana Bharathi,"Kamal Haasan, Roshini, Rekha","Drama, Romance",8.2
+221,Amaram,1991,150,Bharathan,"Mammootty, Maathu, Chitra",Drama,8.3
+222,Scissors,1991,105,Frank De Felitta,"Sharon Stone, Steve Railsback, Ronny Cox","Horror, Thriller",5.1
+223,The Elementary School,1991,100,Jan Sverák,"Jan Tríska, Zdenek Sverák, Libuse Safránková","Adventure, Comedy, Drama",7.7
+224,Bharatham,1991,147,Sibi Malayil,"Mohanlal, Urvashi, Nedumudi Venu","Drama, Musical",8.4
+225,The Princess and the Goblin,1991,82,József Gémes,"Claire Bloom, Joss Ackland, Roy Kinnear","Animation, Adventure, Comedy",6.7
+226,Run,1991,91,Geoff Burrowes,"Patrick Dempsey, Kelly Preston, Ken Pogue","Action, Drama, Thriller",6.2
+227,Grand Tour: Disaster in Time,1991,99,David Twohy,"Jeff Daniels, Ariana Richards, Emilia Crow","Mystery, Sci-Fi",6.4
+228,Lamhe,1991,187,Yash Chopra,"Anil Kapoor, Sridevi, Anupam Kher","Drama, Musical, Romance",7.2
+229,Paradise,1991,111,Mary Agnes Donoghue,"Melanie Griffith, Don Johnson, Elijah Wood",Drama,6.6
+230,Operation Corned Beef,1991,105,Jean-Marie Poiré,"Christian Clavier, Jean Reno, Isabelle Renauld","Action, Comedy, Romance",6.1
+231,Bingo,1991,89,Matthew Robbins,"Cindy Williams, David Rasche, Robert J. Steinmiller Jr.","Adventure, Comedy, Family",5.0
+232,Edward II,1991,87,Derek Jarman,"Steven Waddington, Kevin Collins, Andrew Tiernan","Drama, History, Romance",6.8
+233,Closet Land,1991,89,Radha Bharadwaj,"Madeleine Stowe, Alan Rickman","Drama, Thriller",7.0
+234,Tricky Brains,1991,110,Jing Wong,"Stephen Chow, Andy Lau, Rosamund Kwan","Comedy, Romance",7.0
+235,Year of the Gun,1991,111,John Frankenheimer,"Andrew McCarthy, Sharon Stone, Valeria Golino","Action, Romance, Thriller",5.6
+236,Mindwarp,1991,96,Steve Barnett,"Bruce Campbell, Angus Scrimm, Marta Martin","Horror, Sci-Fi, Thriller",5.2
+237,A Chinese Ghost Story III,1991,104,"Siu-Tung Ching, Hark Tsui","Tony Leung Chiu-wai, Joey Wang, Jacky Cheung","Action, Comedy, Fantasy",6.6
+238,Sex and Zen,1991,99,Michael Mak,"Lawrence Ng, Amy Yip, Kent Cheng","Comedy, Drama, Fantasy",5.6
+239,The Suspended Step of the Stork,1991,143,Theodoros Angelopoulos,"Marcello Mastroianni, Jeanne Moreau, Gregory Patrick Karr","Drama, Romance",7.5
+240,Sadak,1991,134,Mahesh Bhatt,"Sanjay Dutt, Pooja Bhatt, Deepak Tijori","Action, Crime, Drama",6.4
+241,My Father the Hero,1991,105,Gérard Lauzier,"Gérard Depardieu, Marie Gillain, Catherine Jacob","Comedy, Drama, Romance",6.1
+242,Varyemez,1991,93,Orhan Aksoy,"Kemal Sunal, Yasemin Yalçin, Leman Çidamli","Comedy, Drama",6.6
+243,Center Stage,1991,126,Stanley Kwan,"Maggie Cheung, Chin Han, Tony Ka Fai Leung","Biography, Drama, Romance",7.4
+244,Kit Kat,1991,129,Daoud Abdel Sayed,"Mahmoud Abdel Aziz, Sherif Mounir, Aida Riyad","Comedy, Drama, Romance",8.2
+245,There's Nothing Out There,1991,91,Rolfe Kanefsky,"Craig Peck, Wendy Bednarz, Mark Collver","Comedy, Horror",5.6
+246,City of Hope,1991,129,John Sayles,"Vincent Spano, Tony Lo Bianco, Stephen Mendillo","Crime, Drama",7.2
+247,964 Pinocchio,1991,97,Shozin Fukui,"Haji Suzuki, Onn-chan, Kôji Ôtsubo","Horror, Sci-Fi",5.5
+248,God of Gamblers Part III: Back to Shanghai,1991,116,Jing Wong,"Stephen Chow, Gong Li, Ray Lui","Comedy, Crime, Drama",6.6
+249,Scanners III: The Takeover,1991,101,Christian Duguay,"Liliana Komorowska, Valérie Valois, Steve Parrish","Action, Horror, Sci-Fi",4.5
+250,Eve of Destruction,1991,99,Duncan Gibbins,"Gregory Hines, Renée Soutendijk, Michael Greene","Action, Fantasy, Sci-Fi",5.0
+251,Class of Nuke 'Em High Part II: Subhumanoid Meltdown,1991,90,Eric Louzil,"Brick Bronsky, Lisa Gaye, Leesa Rowland","Comedy, Fantasy, Horror",4.4
+252,Where Angels Fear to Tread,1991,116,Charles Sturridge,"Helena Bonham Carter, Judy Davis, Rupert Graves","Drama, Romance",6.3
+253,McBain,1991,102,James Glickenhaus,"Christopher Walken, Maria Conchita Alonso, Michael Joseph DeSare","Action, Crime, Drama",4.8
+254,A Rage in Harlem,1991,115,Bill Duke,"Forest Whitaker, Gregory Hines, Robin Givens","Comedy, Crime",5.9
+255,The Efficiency Expert,1991,85,Mark Joffe,"Anthony Hopkins, Ben Mendelsohn, Alwyn Kurts","Comedy, Drama",6.2
+256,The Object of Beauty,1991,103,Michael Lindsay-Hogg,"John Malkovich, Andie MacDowell, Lolita Davidovich","Comedy, Crime, Drama",5.6
+257,Strictly Business,1991,83,"Kevin Hooks, Rolando Hudson","Tommy Davidson, Joseph C. Phillips, Anne-Marie Johnson","Comedy, Romance",5.5
+258,The Boys from St. Petri,1991,111,Søren Kragh-Jacobsen,"Tomas Villum Jensen, Morten Buch Jørgensen, Nikolaj Lie Kaas","Drama, War",7.0
+259,Diary of a Hitman,1991,90,Roy London,"Sherilyn Fenn, Sharon Stone, Forest Whitaker","Crime, Drama",5.2
+260,Prahaar: The Final Attack,1991,151,"Subhankar Ghosh, Nana Patekar","Nana Patekar, Dimple Kapadia, Gautam Joglekar","Drama, Thriller, Action",8.0
+261,Motorama,1991,90,Barry Shils,"Jordan Christopher Michael, Martha Quinn, Michael Naegel","Adventure, Comedy, Drama",6.3
+262,Piano Piano Kid,1991,81,Tunç Basaran,"Rutkay Aziz, Emin Sivas, Serap Aksoy","Comedy, Drama, Family",7.7
+263,The Borrower,1991,92,John McNaughton,"Rae Dawn Chong, Don Gordon, Tom Towles","Comedy, Horror, Sci-Fi",5.3
+264,Big Girls Don't Cry... They Get Even,1991,96,Joan Micklin Silver,"Griffin Dunne, Dan Futterman, Patricia Kalember",Comedy,6.3
+265,Prom Night IV: Deliver Us from Evil,1991,92,Clay Borris,"Nicole de Boer, J.H. Wyman, Joy Tanner","Horror, Thriller",4.1
+266,The Inner Circle,1991,137,Andrei Konchalovsky,"Tom Hulce, Lolita Davidovich, Aleksandr Zbruev","Biography, Crime, Drama",6.9
+267,Timebomb,1991,96,Avi Nesher,"Michael Biehn, Patsy Kensit, Tracy Scoggins","Action, Drama, Sci-Fi",5.4
+268,Jacquot of Nantes,1991,118,Agnès Varda,"Philippe Maron, Edouard Joubeaud, Laurent Monnier","Biography, Comedy, Drama",7.7
+269,Shout,1991,89,Jeffrey Hornaday,"John Travolta, Jamie Walters, Heather Graham","Drama, Music, Romance",5.3
+270,Kshana Kshanam,1991,158,Ram Gopal Varma,"Sridevi, Venkatesh Daggubati, Paresh Rawal","Comedy, Crime, Drama",8.1
+271,Rubin and Ed,1991,82,Trent Harris,"Crispin Glover, Howard Hesseman, Karen Black","Comedy, Drama",7.0
+272,Hear My Song,1991,104,Peter Chelsom,"Ned Beatty, Adrian Dunbar, Brian Flanagan","Comedy, Drama, Music",7.0
+273,976-Evil II,1991,93,Jim Wynorski,"Debbie James, René Assa, Patrick O'Bryan",Horror,4.4
+274,Late for Dinner,1991,99,W.D. Richter,"Peter Berg, Brian Wimmer, Marcia Gay Harden","Drama, Sci-Fi",6.5
+275,Wild Orchid II: Two Shades of Blue,1991,111,Zalman King,"Nina Siemaszko, Wendy Hughes, Tom Skerritt","Drama, Romance",4.0
+276,The Jackpot!,1991,102,Claude Zidi,"Thierry Lhermitte, Miou-Miou, Eddy Mitchell","Adventure, Comedy",6.2
+277,The Boneyard,1991,98,James Cummins,"Ed Nelson, Deborah Rose, Norman Fell","Fantasy, Horror",5.6
+278,Xtro II: The Second Encounter,1991,92,Harry Bromley Davenport,"Jan-Michael Vincent, Paul Koslo, Tara Buckman","Action, Drama, Fantasy",3.4
+279,Queens Logic,1991,100,Steve Rash,"Kevin Bacon, Linda Fiorentino, John Malkovich","Comedy, Drama",5.7
+280,Hiruko the Goblin,1991,89,Shin'ya Tsukamoto,"Kenji Sawada, Masaki Kudou, Hideo Murota","Comedy, Fantasy, Horror",6.1
+281,Bikini Island,1991,85,Tony Markes,"Holly Floria, Alicia Anne, Jackson Robinson","Horror, Mystery, Thriller",3.7
+282,The Linguini Incident,1991,98,Richard Shepard,"Rosanna Arquette, David Bowie, Eszter Balint","Comedy, Crime",6.2
+283,By the Sword,1991,91,Jeremy Kagan,"F. Murray Abraham, Eric Roberts, Mia Sara","Adventure, Drama, Sport",6.4
+284,Tight Skin 4,1991,90,Milan Zivkovic,"Nikola Simic, Milan 'Lane' Gutovic, Ruzica Sokic",Comedy,7.5
+285,Love,1991,152,Suresh Krishna,"Salman Khan, Arun Bakshi, Rita Bhaduri","Drama, Musical, Romance",6.0
+286,Killer Tomatoes Strike Back!,1991,87,John De Bello,"Debi Fares, Rick Rockwell, John Witherspoon",Comedy,3.8
+287,American Shaolin,1991,106,Lucas Lowe,"Trent Bushey, Kim Chan, Reese Madigan",Action,5.8
+288,Go Trabi Go,1991,92,Peter Timm,"Wolfgang Stumph, Claudia Schmutzler, Marie Gruber",Comedy,6.0
+289,Cover-Up,1991,91,Manny Coto,"Dolph Lundgren, Louis Gossett Jr., Lisa Berkley","Action, Adventure, Drama",4.4
+290,Phool Aur Kaante,1991,173,Kuku Kohli,"Ajay Devgn, Madhoo, Arif Khan","Action, Drama, Romance",6.0
+291,The Unborn,1991,83,Rodman Flender,"Brooke Adams, Jeff Hayenga, James Karen","Drama, Horror, Sci-Fi",4.8
+292,Liebestraum,1991,112,Mike Figgis,"Kevin Anderson, Bill Pullman, Kim Novak","Mystery, Thriller",5.8
+293,Dead Space,1991,72,Fred Gallo,"Marc Singer, Laura Mae Tate, Bryan Cranston","Horror, Sci-Fi",3.5
+294,Controlled Conversations,1991,93,Sylwester Checinski,"Stanislaw Tym, Irena Kwiatkowska, Alina Janowska",Comedy,7.1
+295,The Pope Must Diet,1991,97,Peter Richardson,"Robbie Coltrane, Adrian Edmondson, Paul Bartel",Comedy,5.1
+296,Saudagar,1991,213,Subhash Ghai,"Dilip Kumar, Raaj Kumar, Vivek Mushran","Action, Drama, Romance",6.7
+297,Clearcut,1991,100,Ryszard Bugajski,"Ron Lea, Graham Greene, Michael Hogan","Drama, Horror, Thriller",6.9
+298,Past Midnight,1991,100,Jan Eliasberg,"Rutger Hauer, Natasha Richardson, Clancy Brown","Drama, Mystery, Romance",5.6
+299,Children of Nature,1991,82,Friðrik Þór Friðriksson,"Gísli Halldórsson, Sigríður Hagalín, Baldvin Halldórsson","Drama, Romance",7.2
+300,Hangin' with the Homeboys,1991,88,Joseph B. Vasquez,"Doug E. Doug, Mario Joyner, John Leguizamo","Comedy, Drama",6.9
+301,Sanam Bewafa,1991,160,Saawan Kumar Tak,"Salman Khan, Chandni, Kanchan","Drama, Romance",5.2
+302,Scream of Stone,1991,105,Werner Herzog,"Vittorio Mezzogiorno, Stefan Glowacz, Mathilda May",Drama,6.2
+303,Highway 61,1991,102,Bruce McDonald,"Don McKellar, Valerie Buhagiar, Earl Pastko","Comedy, Music",7.0
+304,Do or Die,1991,97,Andy Sidaris,"Pat Morita, Erik Estrada, Dona Speir","Action, Adventure, Crime",4.3
+305,The Pistol: The Birth of a Legend,1991,90,Frank C. Schroeder,"Millie Perkins, Nick Benedict, Adam Guier","Biography, Drama, Sport",6.8
+306,I Don't Kiss,1991,115,André Téchiné,"Philippe Noiret, Emmanuelle Béart, Manuel Blanc","Adventure, Crime, Drama",6.8
+307,The Raffle,1991,93,Francesco Laudadio,"Monica Bellucci, Giulio Scarpati, Paolo Busiri Vici D'Arcevia","Comedy, Drama, Romance",5.2
+308,Speaking of the Devil,1991,95,Enzo Barboni,"Bud Spencer, Carol Alt, Thierry Lhermitte","Comedy, Fantasy",5.9
+309,Prison on Fire II,1991,109,Ringo Lam,"Chow Yun-Fat, Sung-Young Chen, Elvis Tsui","Crime, Drama, Thriller",6.7
+310,Meeting Venus,1991,119,István Szabó,"Glenn Close, Niels Arestrup, Kiri Te Kanawa","Comedy, Drama, Romance",6.6
+311,Karate Cop,1991,90,Alan Roberts,"Ronald L. Marchini, Carrie Chambers, Michael E. Bristow","Action, Sci-Fi",2.9
+312,The Taking of Beverly Hills,1991,96,Sidney J. Furie,"Ken Wahl, Matt Frewer, Harley Jane Kozak","Action, Thriller",5.1
+313,Shock 'Em Dead,1991,93,Mark Freed,"Traci Lords, Troy Donahue, Aldo Ray","Horror, Thriller, Music",4.9
+314,Pensavo fosse amore... invece era un calesse,1991,113,Massimo Troisi,"Massimo Troisi, Francesca Neri, Marco Messeri","Comedy, Drama, Romance",6.8
+315,Merci La Vie,1991,117,Bertrand Blier,"Charlotte Gainsbourg, Anouk Grinberg, Michel Blanc",Drama,6.5
+316,Une époque formidable...,1991,96,Gérard Jugnot,"Gérard Jugnot, Richard Bohringer, Victoria Abril","Comedy, Drama",6.7
+317,Dragon Ball: The Magic Begins,1991,86,Chun-Liang Chen,"Chi-Chiang Chen, Jeannie Hsieh, Tung-Chuen Cheng","Action, Fantasy, Sci-Fi",4.3
+318,Allaeb ma'a alkebar,1991,100,"Sherif Arafa, Saeed Hamed","Adel Emam, Hussein Fahmy, Aida Riyad","Comedy, Drama, Mystery",6.8
+319,Eyes of an Angel,1991,95,Robert Harmon,"John Travolta, Ellie Raab, Tito Larriva",Drama,5.2
+320,Voices from Beyond,1991,91,Lucio Fulci,"Duilio Del Prete, Karina Huff, Pascal Persiano","Horror, Mystery, Thriller",5.1
+321,Shams el-Zanati,1991,134,Samir Seif,"Adel Emam, Fayza Abduljawad, Ahmed Sami Abdullah","Action, Adventure, Thriller",6.6
+322,Children of the Night,1991,92,Tony Randel,"Karen Black, Peter DeLuise, Ami Dolenz",Horror,4.7
+323,Fist of Fury 1991,1991,96,Rico Chu,"Stephen Chow, Kenny Bee, Corey Yuen","Action, Adventure, Comedy",6.5
+324,Rock 'n' Roll High School Forever,1991,95,Deborah Brock,"Corey Feldman, Larry Linville, Mary Woronov","Comedy, Music",4.6
+325,True Identity,1991,93,Charles Lane,"Lenny Henry, Frank Langella, Charles Lane","Comedy, Crime",5.1
+326,Afraid of the Dark,1991,91,Mark Peploe,"James Fox, Fanny Ardant, Paul McGann","Drama, Fantasy, Horror",5.8
+327,Neon City,1991,99,Monte Markham,"Michael Ironside, Vanity, Lyle Alzado","Action, Adventure, Sci-Fi",5.3
+328,Robotrix,1991,98,Jamie Luk,"Amy Yip, Chikako Aoyama, David Wu","Action, Comedy, Crime",5.9
+329,Patthar Ke Phool,1991,155,Anant Balani,"Salman Khan, Raveena Tandon, Kiran Kumar","Action, Drama, Romance",5.5
+330,Kroll,1991,101,Wladyslaw Pasikowski,"Olaf Lubaszenko, Boguslaw Linda, Dariusz Kordek","Action, Drama",6.8
+331,Happy Hell Night,1991,87,Brian Owens,"Larry Robinson, Lisa Nichols, Sam Rockwell","Horror, Mystery, Thriller",4.8
+332,The Secret Face,1991,118,Ömer Kavur,"Zuhal Olcay, Fikret Kuskan, Sevda Ferdag","Drama, Romance",7.0
+333,The Crumbs,1991,85,Sven Methling,"Laus Høybye, Dick Kaysø, Karen-Lise Mynster","Adventure, Comedy, Family",6.0
+334,Crazy Safari,1991,96,Billy Chan,"N!xau, Ching-Ying Lam, Sam Christopher Chow","Comedy, Fantasy",5.4
+335,Csapd le csacsi!,1991,80,Péter Tímár,"Vera Pap, Sándor Gáspár, Károly Eperjes",Comedy,7.7
+336,Adventures in Dinosaur City,1991,88,Brett Thompson,"Marc Martorana, Tony Doyle, R.A. Mihailoff","Adventure, Family, Fantasy",4.8
+337,Stepping Out,1991,106,Lewis Gilbert,"Liza Minnelli, Shelley Winters, Robyn Stevan","Comedy, Drama, Musical",6.4
+338,Manta - Der Film,1991,90,Peter Timm,"Sebastian Rudolph, Nadeshda Brennicke, Jophi Ries","Comedy, Romance",4.6
+339,Defenseless,1991,104,Martin Campbell,"Barbara Hershey, Sam Shepard, Mary Beth Hurt","Mystery, Thriller",5.5
+340,Malina,1991,125,Werner Schroeter,"Isabelle Huppert, Lisa Kreuzer, Mathieu Carrière","Drama, Fantasy, Mystery",6.3
+341,Doraemon: Nobita's Dorabian Nights,1991,99,Tsutomu Shibayama,"Nobuyo Ôyama, Noriko Ohara, Michiko Nomura","Animation, Adventure, Comedy",7.3
+342,The Penknife,1991,90,Ben Sombogaart,"Olivier Tuinier, Genio de Groot, Adelheid Roosen","Drama, Family",6.8
+343,Cabeza de Vaca,1991,111,Nicolás Echevarría,"Juan Diego, Daniel Giménez Cacho, Roberto Sosa","Adventure, Biography, Drama",6.9
+344,Legend of the Dragon,1991,96,"Danny Lee, Lik-Chi Lee","Stephen Chow, Teresa Sun-Kwan Mo, Ka-Yan Leung","Action, Adventure, Comedy",6.4
+345,The Escape,1991,122,Atef El-Tayeb,"Ahmed Zaki, Hala Sedki, Salah Abdalla","Action, Crime, Drama",7.7
+346,100 Days,1991,161,Partho Ghosh,"Jackie Shroff, Madhuri Dixit, Jaaved Jaaferi","Horror, Romance, Thriller",6.3
+347,"The Favour, the Watch and the Very Big Fish",1991,89,Ben Lewin,"Bob Hoskins, Jeff Goldblum, Natasha Richardson",Comedy,6.1
+348,The Magnificent Scoundrels,1991,96,Lik-Chi Lee,"Stephen Chow, Wu Ma, Niu Tien","Comedy, Crime",6.5
+349,Crooked Hearts,1991,113,Michael Bortman,"Peter Berg, Vincent D'Onofrio, Noah Wyle","Drama, Romance",5.9
+350,Cold Heaven,1991,105,Nicolas Roeg,"Theresa Russell, Mark Harmon, James Russo","Drama, Mystery, Thriller",5.1
+351,Le comiche 2,1991,91,Neri Parenti,"Paolo Villaggio, Renato Pozzetto, Roberto Della Casa",Comedy,5.4
+352,Zombie ja Kummitusjuna,1991,88,Mika Kaurismäki,"Silu Seppälä, Marjo Leinonen, Matti Pellonpää","Comedy, Drama, Music",7.2
+353,Scary Movie,1991,82,Daniel Erickson,"John Hawkes, Suzanne Aldrich, Ev Lunning","Comedy, Horror, Thriller",4.8
+354,Deathstalker IV: Match of Titans,1991,85,Howard R. Cohen,"Rick Hill, Maria Ford, Brett Baxter Clark","Action, Adventure, Fantasy",3.7
+355,Where Sleeping Dogs Lie,1991,95,Charles Finch,"Dylan McDermott, Tom Sizemore, Sharon Stone","Crime, Drama, Mystery",4.5
+356,Delta Force 3: The Killing Game,1991,97,Sam Firstenberg,"Nick Cassavetes, Eric Douglas, Mike Norris","Action, Adventure, Crime",3.4
+357,Hamis a baba,1991,82,István Bujtor,"István Bujtor, László Kozák, András Kern","Comedy, Crime",7.1
+358,"Slunce, seno, erotika",1991,103,Zdenek Troska,"Jaroslava Kretschmerová, Petra Pysová, Oldrich Kaiser",Comedy,5.3
+359,Mobile Suit Gundam F91,1991,120,Yoshiyuki Tomino,"Kôji Tsujitani, Yumi Tôma, Masaaki Maeda","Animation, Action, Drama",6.4
+360,Bloodmatch,1991,86,Albert Pyun,"Thom Mathews, Hope Marie Carlton, Marianne Taylor","Action, Thriller",4.0
+361,Married to It,1991,112,Arthur Hiller,"Beau Bridges, Stockard Channing, Robert Sean Leonard","Comedy, Drama",5.9
+362,Saugandh,1991,153,Raj N. Sippy,"Rakhee Gulzar, Akshay Kumar, Shanti Priya","Action, Drama, Romance",5.4
+363,The Ox,1991,92,Sven Nykvist,"Stellan Skarsgård, Ewa Fröling, Erland Josephson",Drama,7.1
+364,The Promised Heaven,1991,125,Eldar Ryazanov,"Liya Akhedzhakova, Olga Volkova, Valentin Gaft","Comedy, Drama",7.2
+365,Black Demons,1991,88,Umberto Lenzi,"Keith Van Hoven, Joe Balogh, Sonia Curtis",Horror,4.2
+366,"Ranma ½: The Movie, Big Trouble in Nekonron, China",1991,74,Shûji Iuchi,"Kappei Yamaguchi, Megumi Hayashibara, Noriko Hidaka","Animation, Comedy, Fantasy",6.9
+367,Tsareubiytsa,1991,104,Karen Shakhnazarov,"Malcolm McDowell, Oleg Yankovskiy, Armen Dzhigarkhanyan","Drama, History",6.8
+368,Superstau,1991,80,Manfred Stelzer,"Ottfried Fischer, Ralf Richter, Monika Baumgartner",Comedy,6.1
+369,Highway Patrolman,1991,104,Alex Cox,"Roberto Sosa, Bruno Bichir, Vanessa Bauche","Crime, Drama",7.1
+370,Into the Sun,1991,101,Fritz Kiersch,"Anthony Michael Hall, Michael Paré, Deborah Moore","Action, Comedy, War",5.1
+371,Talent for the Game,1991,91,Robert M. Young,"Edward James Olmos, Lorraine Bracco, John E. Coleman","Drama, Sport",6.0
+372,Zeiram,1991,92,Keita Amemiya,"Yûko Moriyama, Kunihiro Ida, Yukijirô Hotaru","Action, Adventure, Comedy",6.4
+373,Servants of Twilight,1991,95,Jeffrey Obrow,"Bruce Greenwood, Jarrett Lennon, Belinda Bauer","Horror, Thriller",5.2
+374,The Flesh,1991,90,Marco Ferreri,"Sergio Castellitto, Francesca Dellera, Philippe Léotard","Drama, Romance",5.5
+375,Ultrà,1991,95,Ricky Tognazzi,"Claudio Amendola, Ricky Memphis, Gianmarco Tognazzi","Drama, Sport",6.5
+376,Ring of Fire,1991,100,"Richard W. Munchkin, Rick Jacobson","Don Wilson, Maria Ford, Vince Murdocco","Action, Drama, Sport",4.7
+377,Dream Machine,1991,88,Lyman Dayton,"Corey Haim, Evan Richards, Jeremy Slate","Action, Comedy, Crime",5.1
+378,The Polar Bear King,1991,88,Ola Solum,"Jack Fjeldstad, Maria Bonnevie, Tobias Hoesl","Family, Adventure, Fantasy",6.0
+379,Il capitano,1991,110,Jan Troell,"Maria Heiskanen, Antti Reini, Berto Marklund","Crime, Drama",6.3
+380,Goopy Bagha Phire Elo,1991,119,Sandip Ray,"Rabi Ghosh, Tapan Chatterjee, Ajit Banerjee","Family, Fantasy",7.8
+381,Tattoo,1991,132,Stole Popov,"Meto Jovanovski, Ljiljana Medjesi, Stojan 'Stole' Arandjelovic",Drama,8.5
+382,Butterfly Wings,1991,108,Juanma Bajo Ulloa,"Silvia Munt, Tito Valverde, Susana García Díez","Crime, Drama",7.1
+383,Uuno Turhapuro herra Helsingin herra,1991,94,Ere Kokkonen,"Vesa-Matti Loiri, Tapio Hämäläinen, Marjatta Raita",Comedy,5.1
+384,To Want to Fly,1991,94,"Guido Manuli, Maurizio Nichetti","Maurizio Nichetti, Angela Finocchiaro, Mariella Valentini","Comedy, Fantasy",6.7
+385,Joker,1991,108,Sune Lund-Sørensen,"Björn Skifs, Aja Rodas-Evrén, Johan Ulveson","Comedy, Crime",4.7
+386,Blood and Concrete,1991,99,Jeffrey Reiner,"Billy Zane, Jennifer Beals, Darren McGavin","Comedy, Crime, Romance",5.8
+387,American Friends,1991,95,Tristram Powell,"Bryan Pringle, Fred Pearson, Michael Palin","Comedy, Drama, Romance",6.4
+388,Black Cat,1991,96,Stephen Shin,"Jade Leung, Simon Yam, Thomas Lam","Action, Crime, Drama",5.9
+389,The Yes Man,1991,93,Daniele Luchetti,"Silvio Orlando, Nanni Moretti, Giulio Brogi","Comedy, Drama",7.0
+390,Lee Rock,1991,128,Lawrence Ah-Mon,"Andy Lau, Sharla Cheung, Man-Tat Ng","Crime, Drama",7.0
+391,The Runestone,1991,105,Willard Carroll,"Peter Riegert, Joan Severance, William Hickey","Adventure, Comedy, Fantasy",4.8
+392,The Ballad of the Sad Cafe,1991,101,Simon Callow,"Vanessa Redgrave, Keith Carradine, Cork Hubbert","Comedy, Drama, Mystery",5.9
+393,Ma vie est un enfer,1991,105,Josiane Balasko,"Daniel Auteuil, Josiane Balasko, Richard Berry","Comedy, Romance, Fantasy",5.5
+394,Urotsukidôji II: Legend of the Demon Womb,1991,88,Hideki Takayama,"Christopher Courage, Rebel Joy, Bill Timoney","Animation, Fantasy, Horror",6.0
+395,Afsana Pyar Ka,1991,145,M.R. Shahjahan,"Aamir Khan, Neelam Kothari, Deepak Tijori","Drama, Romance",5.3
+396,El rey pasmado,1991,106,Imanol Uribe,"María Barranco, Joaquim de Almeida, Laura del Sol","Comedy, History",6.6
+397,Inner Sanctum,1991,90,Fred Olen Ray,"Tanya Roberts, Margaux Hemingway, Joseph Bottoms","Drama, Romance, Thriller",3.4
+398,Nudist Colony of the Dead,1991,90,Mark Pirro,"Forrest J. Ackerman, Bea Lindgren, Rae Latt","Comedy, Horror, Musical",4.0
+399,The Terror Within II,1991,85,Andrew Stevens,"Andrew Stevens, Stella Stevens, Chick Vennera","Horror, Sci-Fi",4.2
+400,Geniy,1991,162,Viktor Sergeev,"Aleksandr Abdulov, Innokentiy Smoktunovskiy, Larisa Belogurova","Comedy, Crime",7.2
+401,Gang Leader,1991,155,Vijaya Baapineedu,"Chiranjeevi, Sravanthi Chokkarapu, Vallabaneni Janardhan","Action, Drama",7.9
+402,Going Under,1991,80,Mark W. Travis,"Bill Pullman, Wendy Schaal, Chris Demetral",Comedy,3.5
+403,Lunatics: A Love Story,1991,87,Josh Becker,"Ted Raimi, Deborah Foreman, Bruce Campbell","Comedy, Drama, Romance",5.9
+404,The Hours and Times,1991,57,Christopher Munch,"David Angus, Ian Hart, Stephanie Pack","Drama, Music",6.4
+405,The Dark Wind,1991,111,Errol Morris,"Lance Baker, Betty C. Barlow, Gary Basaraba","Drama, Mystery",5.6
+406,Blue Note,1991,135,Andrzej Zulawski,"Marie-France Pisier, Janusz Olejniczak, Sophie Marceau","Drama, Music, Romance",6.2
+407,Henna,1991,184,Randhir Kapoor,"Rishi Kapoor, Zeba Bakhtiar, Ashwini Bhave","Drama, Romance, Musical",6.3
+408,The Miracle,1991,97,Neil Jordan,"Beverly D'Angelo, Donal McCann, Niall Byrne","Drama, Mystery, Romance",6.5
+409,Bloodsucking Pharaohs in Pittsburgh,1991,89,Dean Tschetter,"Jake Dengel, Joe Sharkey, Susann Fletcher","Comedy, Horror",4.9
+410,A Grande Arte,1991,104,Walter Salles,"Peter Coyote, Tchéky Karyo, Amanda Pays","Drama, Thriller",6.1
+411,Germany Year 90 Nine Zero,1991,62,Jean-Luc Godard,"Eddie Constantine, Hanns Zischler, Claudia Michelsen",Drama,6.9
+412,Happy Days,1991,86,Aleksey Balabanov,"Viktor Sukhorukov, Anzhelika Nevolina, Evgeniy Merkurev",Drama,6.8
+413,The People at Universal,1991,110,Felipe Aljure,"Álvaro Rodríguez, Jennifer Steffens, Robinson Díaz",Drama,7.6
+414,The Cat,1991,89,Ngai Choi Lam,"Gloria Yip, Waise Lee, Christine Ng","Action, Horror, Sci-Fi",6.5
+415,Yumeji,1991,128,Seijun Suzuki,"Kenji Sawada, Tomoko Mariya, Masumi Miyazaki",Drama,6.9
+416,Delusion,1991,100,Carl Colpaert,"Jim Metzler, Jennifer Rubin, Kyle Secor","Crime, Drama, Thriller",5.9
+417,Convicts,1991,93,Peter Masterson,"Robert Duvall, Lukas Haas, James Earl Jones","Drama, Western",5.7
+418,Saviour of the Soul,1991,92,"David Lai, Jeffrey Lau, Corey Yuen","Andy Lau, Anita Mui, Aaron Kwok","Action, Drama, Fantasy",6.0
+419,Driving Me Crazy,1991,87,Jon Turteltaub,"Thomas Gottschalk, Billy Dee Williams, Dom DeLuise","Adventure, Comedy",3.5
+420,Salmonberries,1991,95,Percy Adlon,"Rosel Zech, k.d. lang, Angayuqaq Oscar Kawagley",Drama,6.1
+421,Three Days,1991,75,Sharunas Bartas,"Yekaterina Golubeva, Rimma Latypova, Arunas Sakalauskas",Drama,6.8
+422,Iron Maze,1991,104,Hiroaki Yoshida,"Jeff Fahey, Bridget Fonda, Hiroaki Murakami","Drama, Thriller",4.6
+423,The Seventh Brother,1991,74,"Jenõ Koltai, Tibor Hernádi","Csongor Szalay, Balázs Simonyi, Álmos Elõd","Animation, Comedy, Drama",6.7
+424,"Vivat, gardemariny!",1991,140,Svetlana Druzhinina,"Dmitriy Kharatyan, Sergey Zhigunov, Mikhail Mamaev","Adventure, History, Romance",6.6
+425,The Refrigerator,1991,86,Nicholas Jacobs,"Julia McNeal, Dave Simonds, Phyllis Salaberrios","Comedy, Fantasy, Horror",4.2
+426,Pyrates,1991,98,Noah Stern,"Kevin Bacon, Kyra Sedgwick, Bruce Payne","Comedy, Romance",4.7
+427,To Be Number One,1991,136,Man Kit Poon,"Ray Lui, Kent Cheng, Cecilia Yip","Action, Biography, Crime",7.2
+428,My Heroes Have Always Been Cowboys,1991,106,Stuart Rosenberg,"Scott Glenn, Kate Capshaw, Ben Johnson","Drama, Western",6.2
+429,The Great Day on the Beach,1991,100,Stellan Olsson,"Erik Clausen, Nina Gunke, Benjamin Rothenborg Vibe","Comedy, Drama, Family",6.7
+430,Coolie No. 1,1991,146,K. Raghavendra Rao,"Venkatesh Daggubati, Tabu, Raogopalrao","Action, Drama, Romance",6.2
+431,Stinsen brinner ...filmen alltså,1991,104,"Anders Eriksson, Claes Eriksson","Anders Eriksson, Claes Eriksson, Kerstin Granlund","Comedy, Musical",6.7
+432,Leather Jackets,1991,90,Lee Drysdale,"D.B. Sweeney, Bridget Fonda, Judi Trevor","Action, Drama",4.4
+433,Hard Promises,1991,95,Martin Davidson,"Sissy Spacek, William Petersen, Brian Kerwin","Comedy, Drama, Family",5.5
+434,And You Thought Your Parents Were Weird,1991,92,Tony Cookson,"Joshua John Miller, Edan Gross, Marcia Strassman","Comedy, Family, Fantasy",4.8
+435,Breathing Fire,1991,81,"Lou Kennedy, Brandon Pender, Brandon De-Wilde","Ke Huy Quan, Eddie Saavedra, Ed Neil","Action, Drama",5.1
+436,Zombie '90: Extreme Pestilence,1991,75,Andreas Schnaas,"Matthias Kerl, Ralf Hess, Mathias Abbes","Horror, Sci-Fi",3.4
+437,American Kickboxer,1991,92,Frans Nel,"John Barrett, Keith Vitali, Terry Norton","Action, Sport",3.8
+438,Life on a String,1991,110,Kaige Chen,"Zhongyuan Liu, Lei Huang, Qing Xu","Drama, Music, Romance",6.9
+439,Virgin High,1991,90,Richard Gabai,"Richard Gabai, Tracy Dali, Burt Ward",Comedy,3.7
+440,Night Eyes II,1991,97,Rodney McDonald,"Andrew Stevens, Shannon Tweed, Tim Russ","Drama, Thriller",4.1
+441,Danzón,1991,120,María Novaro,"María Rojo, Carmen Salinas, Tito Vasconcelos",Drama,6.8
+442,Scorchers,1991,81,David Beaird,"Faye Dunaway, Denholm Elliott, James Earl Jones","Comedy, Drama",5.5
+443,Bloodfist III: Forced to Fight,1991,88,Oley Sassone,"Don Wilson, Richard Roundtree, Gregory McKinney",Action,4.9
+444,The Smoke,1991,89,Tomás Vorel,"Jan Slovák, Lucie Zednícková, Simon Caban","Comedy, Musical",7.3
+445,Kurbaan,1991,133,Deepak Bahry,"Sunil Dutt, Kabir Bedi, Salman Khan","Action, Drama, Romance",4.2
+446,Curse III: Blood Sacrifice,1991,91,Sean Barton,"Christopher Lee, Jenilee Harrison, Henry Cele",Horror,4.0
+447,Born to Ride,1991,89,Graham Baker,"John Stamos, John Stockwell, Teri Polo",Action,5.1
+448,Young Soul Rebels,1991,105,Isaac Julien,"Valentine Nonyela, Mo Sesay, Dorian Healy","Drama, Music, Mystery",6.2
+449,Bäxt Üzüyü,1991,96,Ramiz Azizbayli,"Afaq Basirqizi, Valeh Kärimov, Gülsad Baxsiyeva","Comedy, Drama",8.4
+450,Straight Out of Brooklyn,1991,91,Matty Rich,"George T. Odom, Ann D. Sanders, Lawrence Gilliard Jr.","Crime, Drama",5.8
+451,Beyond Justice,1991,113,Duccio Tessari,"Rutger Hauer, Carol Alt, Omar Sharif","Action, Adventure, Drama",4.5
+452,Night of the Day of the Dawn of the Son of the Bride of the Return of the Terror,1991,96,James Riffel,"William Burchinal, Bill Cardille, Marilyn Eastman","Comedy, Horror",4.7
+453,Dancer,1991,150,Kishore Vyas,"Akshay Kumar, Kirti Singh, Mohnish Behl","Action, Drama, Musical",3.7
+454,Vacanze di Natale '91,1991,121,Enrico Oldoini,"Christian De Sica, Massimo Boldi, Nino Frassica",Comedy,4.4
+455,Future Kick,1991,80,Damian Klaus,"Don Wilson, Meg Foster, Chris Penn","Action, Sci-Fi",4.1
+456,Dice Rules,1991,88,Jay Dubin,"Andrew Dice Clay, Eddie Griffin, Sylvia Harman","Documentary, Comedy",5.4
+457,London Kills Me,1991,107,Hanif Kureishi,"Justin Chadwick, Steven Mackintosh, Fiona Shaw","Comedy, Drama",6.0
+458,Wizards of the Demon Sword,1991,90,Fred Olen Ray,"Lyle Waggoner, Russ Tamblyn, Blake Bahner","Adventure, Comedy, Fantasy",3.0
+459,Vääpeli Körmy ja vetenalaiset vehkeet,1991,87,Ere Kokkonen,"Heikki Kinnunen, Pentti Siimes, Tom Pöysti",Comedy,4.8
+460,The Lost Language of Cranes,1991,87,Nigel Finch,"Brian Cox, Eileen Atkins, Angus Macfadyen","Drama, Romance",7.3
+461,Final Approach,1991,100,Eric Steven Stahl,"James Sikking, Hector Elizondo, Madolyn Smith Osborne","Drama, Fantasy, Mystery",5.3
+462,Femme Fatale,1991,94,Andre R. Guttfreund,"Colin Firth, Lisa Zane, Billy Zane","Drama, Mystery",4.6
+463,The Swordsman in Double Flag Town,1991,91,Ping He,"Wei Gao, Mana Zhao, Jiang Chang","Action, Adventure, Western",7.0
+464,Empire of the Air: The Men Who Made Radio,1991,113,Ken Burns,"Jason Robards, Red Barber, Erik Barnouw","Documentary, History",7.5
+465,Extraterrestrials Are to Be Blamed for Everything,1991,86,Zoran Calic,"Velimir 'Bata' Zivojinovic, Boro Stjepanovic, Nikola-Kole Angelovski","Comedy, Crime, Fantasy",4.1
+466,Bikini Summer,1991,87,Robert Veze,"Melinda Armstrong, David Millbern, Kelli Konop","Comedy, Romance",3.7
+467,Virgina,1991,101,Srdjan Karanovic,"Miodrag Krivokapic, Marta Keler, Inka Gogálová",Drama,7.6
+468,Dune Warriors,1991,80,Cirio H. Santiago,"David Carradine, Rick Hill, Luke Askew","Action, Adventure, Sci-Fi",4.0
+469,Narasimha,1991,214,"N. Chandra, Viraj A. Raje","Sunny Deol, Dimple Kapadia, Urmila Matondkar","Action, Drama",5.5
+470,Lee Rock II,1991,111,Lawrence Ah-Mon,"Andy Lau, Sharla Cheung, Aaron Kwok","Crime, Drama, Mystery",6.6
+471,For Sasha,1991,114,Alexandre Arcady,"Sophie Marceau, Richard Berry, Fabien Orcier","Drama, Romance, War",5.7
+472,On Our Own,1991,84,Lyman Dayton,"Leigh Lombardi, Sam Hennings, Scott Warner","Drama, Family",6.6
+473,Brain Twisters,1991,91,Jerry Sangiuliano,"Farrah Forke, Terry Londeree, Joe Lombardo","Drama, Horror, Sci-Fi",3.5
+474,Jumpin' at the Boneyard,1991,107,Jeff Stanzler,"Tim Roth, Alexis Arquette, Danitra Vance",Drama,6.0
+475,Stray Dog: Kerberos Panzer Cops,1991,99,Mamoru Oshii,"Yoshikazu Fujiki, Eaching Sue, Takashi Matsuyama","Action, Comedy, Drama",6.1
+476,La mujer de Benjamín,1991,90,Carlos Carrera,"Eduardo López Rojas, Malena Doria, Arcelia Ramírez","Comedy, Drama",7.0
+477,Teenage Exorcist,1991,86,Grant Austin Waldman,"Brinke Stevens, Eddie Deezen, Oliver Darrow","Comedy, Horror",4.7
+478,Idhayam,1991,130,Kathir,"Chinnijayanth, Prabhu Deva, Janakaraj","Drama, Romance",8.0
+479,The Human Shield,1991,88,Ted Post,"Michael Dudikoff, Tommy Hinkley, Hanna Azoulay Hasfari","Action, Drama, War",4.5
+480,Twenty-One,1991,92,Don Boyd,"Patsy Kensit, Jack Shepherd, Patrick Ryecart",Drama,5.2
+481,The Dove's Lost Necklace,1991,86,Nacer Khemir,"Navin Chowdhry, Walid Arakji, Ninar Esber","Drama, Family, Fantasy",7.1
+482,Livin' Large!,1991,96,Michael Schultz,"Terrence 'T.C.' Carson, Lisa Arrindell, Blanche Baker","Comedy, Drama",5.0
+483,The Tank Battalion,1991,83,Vít Olmer,"Lukás Vaculík, Roman Skamene, Simona Chytrová",Comedy,6.6
+484,Black Magic Woman,1991,91,Deryn Warren,"Apollonia Kotero, Mark Hamill, Stella Pacific","Horror, Romance, Thriller",4.0
+485,The Last Act,1991,110,Varuzh Karim-Masihi,"Farimah Farjami, Dariush Arjmand, Niku Kheradmand","Crime, Drama, Mystery",7.4
+486,Killing Streets,1991,106,Stephen Cornwell,"Michael Paré, Shaul Mizrahi, Uri Mauda","Action, Adventure, Crime",4.6
+487,Firehead,1991,88,Peter Yuval,"Christopher Plummer, Chris Lemmon, Brett Porter","Action, Sci-Fi, Thriller",2.6
+488,I Can No Longer Hear the Guitar,1991,98,Philippe Garrel,"Benoît Régent, Johanna ter Steege, Yann Collette",Drama,6.9
+489,Karniggels,1991,94,"Detlev Buck, Hans-Erich Viet","Bernd Michael Lade, Ingo Naujoks, Julia Jäger",Comedy,6.8
+490,Akayla,1991,180,Ramesh Sippy,"Amitabh Bachchan, Jackie Shroff, Amrita Singh","Action, Crime, Drama",5.3
+491,HauntedWeen,1991,88,Doug Robertson,"Brien Blakely, Blake Pickett, Brad Hanks","Comedy, Horror",5.0
+492,Charuga,1991,108,Rajko Grlic,"Ivo Gregurevic, Davor Janjic, Branka Trlin-Matula","Adventure, Biography, Comedy",7.3
+493,Abbronzatissimi,1991,96,Bruno Gaburro,"Jerry Calà, Teo Teocoli, Alba Parietti",Comedy,4.5
+494,The Roller Blade Seven,1991,96,Donald G. Jackson,"Scott Shaw, Frank Stallone, Karen Black","Action, Sci-Fi",2.2
+495,War in the Land of Egypt,1991,90,Salah Abouseif,"Omar Sharif, Ezzat El Alaili, Safia El Emari",Drama,7.8
+496,Out of Life,1991,97,Maroun Bagdadi,"Hippolyte Girardot, Rafik Ali Ahmad, Hussein Sbeity","Crime, Drama, War",6.8
+497,The Divine Comedy,1991,140,Manoel de Oliveira,"Maria de Medeiros, Miguel Guilherme, Luís Miguel Cintra",Drama,7.1
+498,Gauri Ganesha,1991,148,H.S. Phani Ramchandra,"Anant Nag, Vinaya Prasad, Mukhyamantri Chandru","Comedy, Drama",8.4
+499,Holy Virgin vs. The Evil Dead,1991,92,Chun-Ku Lu,"Donnie Yen, Pauline Yeung, Ben Lam","Action, Horror",5.5
+500,A Woman's Tale,1991,93,Paul Cox,"Sheila Florance, Gosia Dobrowolska, Norman Kaye",Drama,7.1
+501,La Frontera,1991,120,Ricardo Larraín,"Patricio Contreras, Gloria Laso, Alonso Venegas",Drama,7.4
+502,Les secrets professionnels du Docteur Apfelgluck,1991,95,"Alessandro Capone, Stéphane Clavier, Mathias Ledoux","Jacques Villeret, Micha Bayard, Ticky Holgado",Comedy,5.3
+503,100 Days Before the Command,1991,71,Hussein Erkenov,"Vladimir Zamanskiy, Armen Dzhigarkhanyan, Oleg Vasilkov",Drama,5.3
+504,Raw Nerve,1991,91,David A. Prior,"Glenn Ford, Sandahl Bergman, Randall 'Tex' Cobb","Drama, Mystery, Thriller",4.4
+505,Killer Nerd,1991,90,"Mark Steven Bosko, Wayne Alan Harold","Mimsel Dendak, Toby Radloff, Tony Zanoni","Comedy, Horror",4.0
+506,Daddy and the Muscle Academy,1991,55,Ilppo Pohjola,"Tom of Finland, Robert Henry Mizer, Nayland Blake","Documentary, Biography",6.5
+507,Vegas in Space,1991,85,Phillip R. Ford,"Doris Fish, Miss X, Ginger Quest","Comedy, Sci-Fi",4.7
+508,Mookkillarajyathu,1991,129,"Ashokan, Thaha","Mukesh, Thilakan, Jagathy Sreekumar",Comedy,7.6
+509,The Bride,1991,90,Behruz Afkhami,"Abolfazl Poorarab, Niki Karimi, Abbas Amiri",Drama,5.8
+510,Vice Academy Part 3,1991,88,Rick Sloane,"Ginger Lynn, Elizabeth Kaitan, Julia Parton","Comedy, Crime",3.8
+511,Edge of Honor,1991,89,Michael Spence,"Corey Feldman, Meredith Salenger, Scott Reeves","Adventure, Drama, Thriller",5.4
+512,Eye of the Storm,1991,98,Yuri Zeltser,"Adrian Arnold, Lara Flynn Boyle, Bruce Gray","Romance, Thriller",5.0
+513,"Wax, or the Discovery of Television Among the Bees",1991,85,David Blair,"Father Bessarion, David Blair, William S. Burroughs","Drama, Sci-Fi",7.0
+514,Piedipiatti,1991,92,Carlo Vanzina,"Enrico Montesano, Renato Pozzetto, Anna Benny","Comedy, Crime",5.6
+515,"Great, My Parents Are Divorcing!",1991,95,Patrick Braoudé,"Adrien Dirand, Volodia Serre, Gianni Giardinelli","Comedy, Family",5.5
+516,Husbands and Lovers,1991,103,Mauro Bolognini,"Julian Sands, Joanna Pacula, Tchéky Karyo","Drama, Romance",4.6
+517,Lune froide,1991,92,Patrick Bouchitey,"Jean-François Stévenin, Patrick Bouchitey, Jean-Pierre Bisson",Drama,6.7
+518,Dingo,1991,109,Rolf de Heer,"Colin Friels, Miles Davis, Helen Buday","Drama, Music",6.8
+519,Night and Day,1991,92,Chantal Akerman,"Guilaine Londez, Thomas Langmann, François Négret",Drama,6.4
+520,The Inland Sea,1991,56,Lucille Carra,"Donald Richie, Keijo Hasegawa, Akira Hamada",Documentary,7.0
+521,Fires Within,1991,86,Gillian Armstrong,"Jimmy Smits, Greta Scacchi, Vincent D'Onofrio","Drama, Thriller",4.6
+522,Samantha,1991,96,Stephen La Rocque,"Martha Plimpton, Dermot Mulroney, Hector Elizondo",Comedy,6.2
+523,Njan Gandharvan,1991,146,P. Padmarajan,"Nitish Bharadwaj, Suparna Anand, M.G. Soman","Drama, Fantasy, Romance",7.6
+524,La vie des morts,1991,54,Arnaud Desplechin,"Thibault de Montalembert, Roch Leibovici, Marianne Denicourt",Drama,6.5
+525,El robobo de la jojoya,1991,82,Álvaro Sáenz de Heredia,"Josema Yuste, Millán Salcedo, Esther Del Prado","Comedy, Crime",3.8
+526,Frida: Straight from the Heart,1991,113,Berit Nesheim,"Maria Kvalheim, Ellen Horn, Helge Jordal","Comedy, Romance",5.8
+527,The Invisible Wall,1991,120,Marco Risi,"Corso Salani, Angela Finocchiaro, Antonello Fassari",Drama,7.2
+528,Kalle Stropp och Grodan Boll på svindlande äventyr,1991,83,Jan Gissberg,"Thomas Funck, Stig Grybe, Thorsten Flinck","Family, Adventure, Animation",6.5
+529,The Boy Who Cried Bitch,1991,105,Juan José Campanella,"Harley Cross, Karen Young, Jesse Bradford","Drama, Thriller",6.3
+530,The Indecent Woman,1991,95,Ben Verbong,"José Way, Coen van Vrijberghe de Coningh, Huub Stapel","Drama, Romance, Thriller",5.3
+531,The White Viking,1991,131,Hrafn Gunnlaugsson,"Gotti Sigurdarson, Maria Bonnevie, Egill Ólafsson","Action, Adventure, Drama",6.0
+532,Abhimanyu,1991,140,Priyadarshan,"Mohanlal, Shankar Panicker, Ajayan Adoor","Crime, Drama, Musical",7.3
+533,Dances with Dragon,1991,108,Jing Wong,"Andy Lau, Sharla Cheung, Deanie lp","Comedy, Romance",6.7
+534,Prica iz Hrvatske,1991,95,Krsto Papic,"Ivo Gregurevic, Mustafa Nadarevic, Dragan Despot",Drama,6.8
+535,Bed & Breakfast,1991,97,Robert Ellis Miller,"Roger Moore, Talia Shire, Colleen Dewhurst","Comedy, Drama, Romance",5.4
+536,Revenge of Billy the Kid,1991,87,Jim Groom,"Michael Balfour, Samantha Perkins, Jackie D. Broad","Comedy, Fantasy, Horror",5.4
+537,Cybernator,1991,85,Robert Rundle,"Lonnie Schuyler, Jeff Jenkins, Christina Lucia Peralta-Ramos","Action, Sci-Fi",2.8
+538,Guilty as Charged,1991,95,Sam Irvin,"Rod Steiger, Lauren Hutton, Heather Graham","Comedy, Crime",5.4
+539,9 1/2 Ninjas!,1991,88,Aaron Barsky,"Michael Phenicie, Andee Gray, Robert Fieldsteel",Comedy,2.6
+540,Journey of Honor,1991,107,Gordon Hessler,"Shô Kosugi, David Essex, Kane Kosugi","Action, Adventure, Drama",5.4
+541,"The Leader, His Driver, and the Driver's Wife",1991,85,Nick Broomfield,"Nick Broomfield, Eugene Terre'Blanche, J.P. Meyer",Documentary,7.1
+542,The Old Lady Who Walked in the Sea,1991,95,Laurent Heynemann,"Jeanne Moreau, Michel Serrault, Luc Thuillier","Comedy, Crime, Drama",5.9
+543,Ushiro no shoumen daare,1991,90,Seiji Arihara,"Yuri Amano, Kobuhei Hayashiya, Masato Hirano","Animation, Drama, War",7.9
+544,Famine '33,1991,115,Oles Yanchuk,"Galina Sulima, Georgiy Morozyuk, Aleksey Gorbunov","Drama, History",7.4
+545,The Banquet,1991,97,"Alfred Cheung, Tung Cho 'Joe' Cheung, Clifton Ko","Eric Tsang, Do Do Cheng, Tony Leung Chiu-wai",Comedy,5.7
+546,Os Trapalhões e a Árvore da Juventude,1991,100,José Alvarenga Jr.,"Renato Aragão, Dedé Santana, Mussum","Comedy, Family",5.3
+547,No Telling,1991,93,Larry Fessenden,"Miriam Healy-Louie, Stephen Ramsey, David Van Tieghem",Horror,5.7
+548,The Top Bet,1991,111,"Jeffrey Lau, Corey Yuen","Do Do Cheng, Anita Mui, Man-Tat Ng","Action, Comedy, Romance",5.7
+549,Desire and Hell at Sunset Motel,1991,95,Alien Castle,"Sherilyn Fenn, Whip Hubley, David Hewlett","Comedy, Mystery, Thriller",4.9
+550,Life for Life: Maximilian Kolbe,1991,90,Krzysztof Zanussi,"Edward Zentara, Christoph Waltz, Artur Barcis","Biography, Drama",6.4
+551,Al-Ra'i wa Al-Nesaa,1991,100,Ali Badr Khan,"Soad Hosny, Mirna Walid, Youssra",Drama,5.8
+552,The Master Carpenter,1991,140,Ajayan,"Jalaja, Manoj K. Jayan, T.P. Madhavan","Drama, History",8.0
+553,One Can Always Dream,1991,93,Pierre Richard,"Pierre Richard, Smaïn, Edith Scob",Comedy,5.1
+554,Diplomatic Immunity,1991,95,Peter Maris,"Bruce Boxleitner, Billy Drago, Tom Bresnahan","Action, Drama, Thriller",4.6
+555,30 Door Key,1991,90,Jerzy Skolimowski,"Iain Glen, Robert Stephens, Crispin Glover",Drama,5.5
+556,Tiger Cage III,1991,94,Yuen Woo-Ping,"Sharla Cheung, Kwok Leung Cheung, Michael Wong","Action, Crime, Drama",5.6
+557,The Arrival,1991,103,David Schmoeller,"John Saxon, Joseph Culp, Robin Frates","Horror, Sci-Fi",4.6
+558,Rebro Adama,1991,79,Vyacheslav Krishtofovich,"Inna Churikova, Yelena Bogdanova, Svetlana Ryabova","Comedy, Drama",7.3
+559,Shake Rattle & Roll III,1991,114,"Peque Gallaga, Lore Reyes","Kris Aquino, Rosemarie Gil, Ogie Alcasid","Comedy, Horror",6.6
+560,Alone Among Women,1991,88,Sönke Wortmann,"Thomas Heinze, Jennifer Nitsch, Carin C. Tietze",Comedy,6.4
+561,Intensive Care,1991,91,Dorna X. van Rouveroy,"George Kennedy, Koen Wauters, Nada van Nie","Horror, Thriller",2.8
+562,Body Chemistry II: The Voice of a Stranger,1991,84,Adam Simon,"Gregory Harrison, Lisa Pescia, Morton Downey Jr.","Drama, Thriller",3.6
+563,The Psychic,1991,92,George Mihalka,"Zach Galligan, Catherine Mary Stewart, Michael Nouri","Horror, Thriller",5.1
+564,Last Call,1991,90,Jag Mundhra,"William Katt, Shannon Tweed, Joseph Campanella","Drama, Thriller",3.8
+565,Rölli - hirmuisia kertomuksia,1991,82,Olli Soinio,"Allan Tuppurainen, Sari Mällinen, Rolf Labbart","Comedy, Family, Fantasy",6.6
+566,Campfire Tales,1991,88,"William Cooke, Paul Talbot","Gunnar Hansen, Robin Roberts, Tres Holton",Horror,4.6
+567,Blue Tornado,1991,87,Antonio Bido,"Dirk Benedict, Ted McGinley, Patsy Kensit","Action, Sci-Fi, Thriller",4.1
+568,Casino Raiders II,1991,91,Johnnie To,"Andy Lau, Dave Wang, Chien-Lien Wu","Action, Crime, Drama",5.8
+569,Vacation of Terror II,1991,86,Pedro Galindo III,"Pedro Fernández, Joaquín Cordero, Tatiana","Horror, Mystery, Thriller",5.0
+570,At the Max,1991,89,"Noel Archambault, David Douglas, Roman Kroitor","Mick Jagger, Keith Richards, Charlie Watts","Documentary, Music",7.5
+571,Night of the Warrior,1991,99,Rafal Zielinski,"Lorenzo Lamas, Anthony Geary, Kathleen Kinmont","Action, Sport",3.7
+572,Grandma Goes South,1991,87,Vinci Vogue Anzlovar,"Majolka Suklje, Bojan Emersic, Natasa Matjasec","Comedy, Drama",7.0
+573,Hangfire,1991,91,Peter Maris,"Brad Davis, Kim Delaney, Ken Foree","Action, Thriller",4.1
+574,Agnes Cecilia - En sällsam historia,1991,134,Anders Grönros,"Gloria Tapia, Ronn Elfors, Stina Ekblad",Mystery,6.6
+575,Dharma Durai,1991,144,Rajasekar,"Rajinikanth, Vaishnavi Aravind, Gautami",Drama,6.6
+576,Jimi Hendrix at the Isle of Wight,1991,56,Murray Lerner,"Jimi Hendrix, Billy Cox, Mitch Mitchell","Documentary, Music",7.7
+577,Blood in the Face,1991,78,"Anne Bohlen, Kevin Rafferty, James Ridgeway","Robert E. Miles, George Lincoln Rockwell, Don Black",Documentary,7.1
+578,Queen of Diamonds,1991,77,Nina Menkes,"Tinka Menkes, Jeff Douglas, Emmellda Beech",Drama,6.0
+579,A Kid from Tibet,1991,97,Biao Yuen,"Biao Yuen, Michelle Reis, Wah Yuen","Action, Fantasy",6.0
+580,Amo tu cama rica,1991,95,Emilio Martínez Lázaro,"Pere Ponce, Ariadna Gil, Cassen","Comedy, Romance",5.9
+581,Lonely Hearts,1991,109,Andrew Lane,"Eric Roberts, Beverly D'Angelo, Joanna Cassidy","Drama, Romance, Thriller",4.6
+582,Sekula se opet zeni,1991,91,Dragoslav Lazic,"Rados Bajic, Jovan Janicijevic-Burdus, Velimir 'Bata' Zivojinovic",Comedy,5.3
+583,April 1 Vidudala,1991,144,Vamsy,"Rajendra Prasad, Shobana, Krishna Bhagavan","Comedy, Romance, Thriller",8.1
+584,The King of Ads,1991,74,"Jean-Marie Boursicot, Ricardo Albiñana, Jean-Jacques Annaud","Grace Jones, Vanessa Paradis, Emmanuelle Seigner",Documentary,5.5
+585,King of Chess,1991,109,"Ho Yim, Hark Tsui","Tony Ka Fai Leung, John Sham, Lin Yang",Drama,6.9
+586,Buddy's Song,1991,102,Claude Whatham,"Roger Daltrey, Chesney Hawkes, Sharon Duce","Drama, Music",5.2
+587,The Little One,1991,95,Predrag Antonijevic,"Mirjana Jokovic, Mirjana Karanovic, Danilo Lazovic",Drama,7.3
+588,Todo por la pasta,1991,88,Enrique Urbizu,"María Barranco, Kiti Mánver, Antonio Resines","Action, Adventure, Crime",6.2
+589,A Fine Romance,1991,97,Gene Saks,"Julie Andrews, Marcello Mastroianni, Jonathan Cecil","Comedy, Romance",4.9
+590,Erotic Ghost Story II,1991,96,Peter Ngor Chi-Kwan,"Anthony Chau-Sang Wong, Ichijo Sayuri, Charine Chan","Fantasy, Horror",4.6
+591,In the Eyes of the World,1991,95,Eric Rochant,"Yvan Attal, Kristin Scott Thomas, Marc Berman","Drama, Thriller",6.1
+592,March Comes in Like a Lion,1991,118,Hitoshi Yazaki,"Bang-ho Cho, Yoshiko Yura, Kôen Okumura",Drama,6.7
+593,Heaven Is a Playground,1991,106,Randall Fried,"LaTaunya Bounds, Terry Bradley, Cylk Cozart","Drama, Sport",5.9
+594,Son of Darkness: To Die for II,1991,95,David Price,"Rosalind Allen, Steve Bond, Scott Jacoby","Drama, Horror",3.8
+595,Dirty Like an Angel,1991,102,Catherine Breillat,"Claude Brasseur, Lio, Nils Tavernier","Drama, Romance",5.7
+596,How to Be a Woman and Not Die in the Attempt,1991,100,Ana Belén,"Carmen Maura, Antonio Resines, Carmen Conesa","Comedy, Drama",5.8
+597,Bay Ganyo tragna po Evropa,1991,94,Ivan Nichev,"Georgi Kaloyanchev, Stoyan Aleksiev, Filip Trifonov",Comedy,8.3
+598,Night Fun,1991,135,"Vladimir Krasnopolskiy, Valeriy Uskov","Evgeniy Evstigneev, Aleksandra Kolkunova, Irina Alfyorova","Comedy, Drama",7.6
+599,Lost in Siberia,1991,140,Aleksandr Mitta,"Anthony Andrews, Vladimir Ilin, Elena Mayorova","Drama, Romance",6.7
+600,The Passion of Martin,1991,49,Alexander Payne,"Charley Hayward, Lisa Zane, Lauren Tuerk",Comedy,6.5
+601,My Sons,1991,121,Yôji Yamada,"Rentarô Mikuni, Masatoshi Nagase, Emi Wakui","Drama, Romance",7.5
+602,Chizuko's Younger Sister,1991,120,Nobuhiko Ôbayashi,"Hikari Ishida, Tomoko Nakajima, Toshinori Omi","Drama, Fantasy",7.1
+603,Wârudo apâtomento horâ,1991,97,Katsuhiro Ôtomo,"Sabu, Jazz Cutz, Kaei Okina","Comedy, Horror",5.9
+604,The Art of Dying,1991,90,Wings Hauser,"Wings Hauser, Kathleen Kinmont, Gary Werntz","Crime, Thriller",4.9
+605,Montréal vu par...,1991,125,"Denys Arcand, Michel Brault, Atom Egoyan","Jacques Allard, Denys Arcand, Barbara Arsenault","Comedy, Drama",6.1
+606,December,1991,92,Gabe Torres,"Balthazar Getty, Jason London, Brian Krause","Drama, War",5.9
+607,Captain Prabhakaran,1991,150,R.K. Selvamani,"Mansoor Ali Khan, R. Sarathkumar, Ramya Krishnan","Action, Thriller",7.3
+608,Especially on Sunday,1991,90,"Francesco Barilli, Giuseppe Bertolucci, Marco Tullio Giordana","Philippe Noiret, Ornella Muti, Bruno Ganz",Drama,6.2
+609,Eline Vere,1991,132,Harry Kümel,"Marianne Basler, Monique van de Ven, Johan Leysen","Drama, Romance",6.2
+610,Evil Spirits,1991,95,Gary Graver,"Karen Black, Arte Johnson, Virginia Mayo",Horror,4.5
+611,A Time to Die,1991,95,Charles T. Kanganis,"Traci Lords, Jeff Conaway, Richard Roundtree","Action, Crime, Drama",4.4
+612,Guo nian,1991,90,Jianzhong Huang,"Baotian Li, Lirong Zhao, Jiali Ding",Drama,7.7
+613,Rich Girl,1991,96,Joel Bender,"Jill Schoelen, Don Michael Paul, Sean Kanan",Drama,5.7
+614,Caged Women,1991,90,Leandro Lucchetti,"Pilar Orive, Isabel Libossart, Elena Wiedermann","Action, Crime, Drama",5.1
+615,Ulladakkam,1991,120,Kamal,"Mohanlal, Amala Akkineni, Shobana",Drama,7.2
+616,Inspetor Faustão e o Mallandro: A Missão (Primeira e Única),1991,85,Mário Márcio Bandarra,"Fausto Silva, Sergio Mallandro, Cláudia Alencar","Comedy, Crime, Thriller",3.3
+617,Killed the Family and Went to the Movies,1991,100,Neville D'Almeida,"Cláudia Raia, Louise Cardoso, Alexandre Frota","Comedy, Drama",5.2
+618,Sweet Talker,1991,86,Michael Jenkins,"Bryan Brown, Karen Allen, Justin Rosniak","Comedy, Romance",5.9
+619,Chaindance,1991,109,Allan A. Goldstein,"Scott Andersen, R. Nelson Brown, Norman Browning","Crime, Drama",6.2
+620,Beltenebros,1991,109,Pilar Miró,"Terence Stamp, Patsy Kensit, José Luis Gómez","Crime, Drama, Thriller",5.7
+621,Ted & Venus,1991,100,Bud Cort,"Bud Cort, James Brolin, Kim Adams","Comedy, Drama, Romance",4.7
+622,Farishtay,1991,193,"Anil Sharma, Suresh Sharma","Dharmendra, Vinod Khanna, Sridevi","Action, Comedy, Drama",5.0
+623,Till There Was You,1991,90,John Seale,"Mark Harmon, Martin Garner, Gregory T. Daniel","Adventure, Drama, Mystery",4.9
+624,The Conviction,1991,92,Marco Bellocchio,"Vittorio Mezzogiorno, Andrzej Seweryn, Claire Nebout",Drama,6.1
+625,Wicked World,1991,103,Barry J. Gillis,"Patti Anne Crossman, Maria Delgado, Kelly Felhaber",Horror,3.3
+626,The Last Butterfly,1991,118,Karel Kachyna,"Tom Courtenay, Brigitte Fossey, Ingrid Held","Drama, War",7.0
+627,Heat Wave,1991,110,Hideo Gosha,"Kanako Higuchi, Tatsuya Nakadai, Keiko Oginome","Crime, Drama",6.6
+628,A Day in October,1991,97,"Kenneth Madsen, Kenneth Kort Madsen, Kenneth Kort Madsen","D.B. Sweeney, Kelly Wolf, Tovah Feldshuh","Drama, War",6.4
+629,Paris Awakens,1991,95,Olivier Assayas,"Judith Godrèche, Jean-Pierre Léaud, Thomas Langmann",Drama,6.3
+630,Invader,1991,95,Philip J. Cook,"Hans Bachmann, A. Thomas Smith, Kenneth W. Baker",Sci-Fi,4.2
+631,Lena's Holiday,1991,100,Michael Keusch,"Felicity Waterman, Chris Lemmon, Nick Mancuso","Comedy, Romance, Thriller",5.5
+632,Fatal Bond,1991,89,Vincent Monton,"Linda Blair, Jerome Ehlers, Donal Gibson","Drama, Thriller",4.0
+633,The House of Smiles,1991,110,Marco Ferreri,"Ingrid Thulin, Dado Ruspoli, Enzo Cannavale","Drama, Romance",6.5
+634,Paul McCartney's Get Back,1991,89,Richard Lester,"Paul McCartney, Linda McCartney, Hamish Stuart","Documentary, Music",7.1
+635,Love,1991,105,Valeriy Todorovskiy,"Evgeniy Mironov, Natalya Petrova, Dmitriy Maryanov",Romance,7.2
+636,The Great Pretenders,1991,95,Ronny Yu,"Tony Leung Chiu-wai, Raymond Pak-Ming Wong, Simon Yam",Comedy,5.1
+637,Millions,1991,110,Carlo Vanzina,"Billy Zane, Lauren Hutton, Carol Alt",Drama,3.6
+638,The Search for Signs of Intelligent Life in the Universe,1991,120,John Bailey,Lily Tomlin,Comedy,7.4
+639,Yodha,1991,142,Rahul Rawail,"Sunny Deol, Sanjay Dutt, Sangeeta Bijlani","Action, Drama",4.5
+640,Una storia semplice,1991,91,Emidio Greco,"Gian Maria Volontè, Ennio Fantastichini, Ricky Tognazzi",Drama,7.2
+641,The Gentle Twelve,1991,116,Shun Nakahara,"Kazuyuki Aijima, Michiko Hayashi, Zen Kajihara",Comedy,7.1
+642,Ambition,1991,100,Scott D. Goldstein,"Lou Diamond Phillips, Clancy Brown, Cecilia Peck","Drama, Thriller",4.8
+643,Out of the Rain,1991,95,Gary Winick,"Michael O'Keefe, John Seitz, Al Shannon","Drama, Thriller",4.7
+644,"Papa, umer Ded Moroz",1991,73,Evgeniy Yufit,"Anatoliy Egorov, Ivan Ganzha, Maksim Gribov",Horror,6.2
+645,Chinna Gounder,1991,150,R.V. Udhaya Kumar,"Vijayakanth, Sukanya, Aachi Manorama","Drama, Romance, Thriller",6.7
+646,Uncaged,1991,78,Lisa Hunt,"Leslie Bega, Jeffrey Dean Morgan, Pamella D'Pella",Thriller,4.4
+647,A Demon in My View,1991,98,Petra Haffter,"Anthony Perkins, Uwe Bohm, Sophie Ward","Horror, Thriller",4.7
+648,Silent Möbius,1991,50,"Kazuo Tomisawa, Michitaka Kikuchi","Naoko Matsui, Toshiko Fujita, Gara Takashima","Animation, Action, Drama",6.3
+649,Alan & Eric: Between Hello and Goodbye,1991,106,Peter Ho-Sun Chan,"Alan Tam, Maggie Cheung, Eric Tsang","Drama, Romance",7.0
+650,Missing Pieces,1991,94,Leonard Stern,"Eric Idle, Robert Wuhl, Lauren Hutton","Comedy, Mystery, Thriller",5.3
+651,Blonde Fist,1991,102,Frank Clarke,"Margi Clarke, Carroll Baker, Ken Hutchison","Action, Drama, Sport",4.6
+652,Freud Leaving Home,1991,103,Susanne Bier,"Ghita Nørby, Gunilla Röör, Palle Granditsky","Comedy, Drama",5.6
+653,Donne con le gonne,1991,115,Francesco Nuti,"Francesco Nuti, Carole Bouquet, Gastone Moschin","Comedy, Romance",6.0
+654,L'année de l'éveil,1991,102,Gérard Corbiau,"Laurent Grévill, Martin Lamotte, Chiara Caselli",Drama,6.0
+655,College Kickboxers,1991,89,Eric Sherman,"Ken McLeod, Tak-Wing Tang, Matthew Ray Cohen",Action,5.0
+656,The Magic Riddle,1991,93,Yoram Gross,"Ross Higgins, Robyn Moore, Keith Scott","Animation, Comedy, Family",5.8
+657,The Original of the Forgery,1991,117,Dragan Kresoja,"Lazar Ristovski, Dragan Nikolic, Velimir 'Bata' Zivojinovic",Drama,7.4
+658,Seetharamaiah Gari Manavaralu,1991,145,Kranthi Kumar,"Akkineni Nageswara Rao, Meena, Rohini Hattangadi",Drama,8.0
+659,Mission: Killfast,1991,97,Ted V. Mikels,"Tiger Yang, Sharon Hughes, Sonny King","Action, Adventure",3.5
+660,Becoming Colette,1991,97,Danny Huston,"Klaus Maria Brandauer, Mathilda May, Virginia Madsen","Biography, Drama, Romance",5.4
+661,Aayatya Gharat Gharoba,1991,138,Sachin Pilgaonkar,"Sachin Pilgaonkar, Jairam Kulkarni, Ashok Saraf","Comedy, Drama, Musical",7.9
+662,Marcellino,1991,92,Luigi Comencini,"Didier Bénureau, Sergio Bini Bustric, Alberto Cracco",Drama,5.9
+663,Extermineitors 3: La gran pelea final,1991,85,Carlos Galettini,"Guillermo Francella, Rand McClain, Adriana Salgueiro","Action, Adventure, Comedy",5.0
+664,A Mere Mortal,1991,85,Pierre Jolivet,"Philippe Volter, Christophe Bourseiller, Nathalie Roussel","Drama, Sci-Fi, Thriller",6.5
+665,Pelli Pustakam,1991,151,Bapu,"Rajendra Prasad, Divyavani, Gummadi","Comedy, Drama, Romance",8.0
+666,A Star for Two,1991,91,Jim Kaufman,"Lauren Bacall, Anthony Quinn, Jean-Pierre Aumont","Drama, Romance",5.9
+667,La reine blanche,1991,119,Jean-Loup Hubert,"Catherine Deneuve, Richard Bohringer, Bernard Giraudeau",Drama,6.1
+668,Zombie Cop,1991,90,J.R. Bookwalter,"Michael Kemper, Ken Jarosz, James Black",Horror,3.4
+669,Empire of the Dark,1991,93,Steve Barkett,"Steve Barkett, Christopher Barkett, Tera Hendrickson","Action, Adventure, Horror",4.8
+670,Urusei Yatsura 6: Always My Darling,1991,77,Katsuhisa Yamada,"Fumi Hirano, Toshio Furukawa, Naoko Matsui","Animation, Comedy, Sci-Fi",6.1
+671,Noga,1991,88,Nikita Tyagunov,"Ivan Okhlobystin, Pyotr Mamonov, Ivan Zakhava","Action, Drama, War",6.8
+672,Malizia 2000,1991,103,Salvatore Samperi,"Laura Antonelli, Turi Ferro, Roberto Alpi",Drama,5.0
+673,Assembly Rowdy,1991,125,Gopal B.,"Annapoorna, Mohan Babu, Divya Bharti","Action, Drama",6.6
+674,Sweet 'n Short,1991,89,Gray Hofmeyr,"Leon Schuster, Casper de Vries, Joanna Weinberg",Comedy,6.2
+675,The Singer Cat,1991,75,Kambuzia Partovi,"Pegah Ahangarani, Morteza Ahmadi, Mehdi Arian Nejad","Adventure, Comedy, Family",6.4
+676,Garip Bir Koleksiyoncu,1991,94,Nurettin Özel,"Orçun Sonat, Haluk Kurtoglu, Kemal Inci",Drama,7.4
+677,Uncle Bun,1991,136,Bhadran,"Mohanlal, Khushbu Sundar, Nedumudi Venu","Comedy, Drama, Romance",5.7
+678,The Junkman and His Sons,1991,96,Sahin Gök,"Kadir Inanir, Fikret Hakan, Levent Inanir",Drama,7.2
+679,A Climate for Killing,1991,103,J.S. Cardone,"John Beck, Katharine Ross, Steven Bauer",Drama,5.2
+680,Lapse of Memory,1991,85,Patrick Dewolf,"John Hurt, Marthe Keller, Mathew Mackay","Romance, Thriller",5.8
+681,Touch and Go,1991,97,Ringo Lam,"Billy Chow, Shui-Wah Fok, Shing Fui-On","Action, Drama",6.3
+682,The Quarrel,1991,85,Eli Cohen,"R.H. Thomson, Saul Rubinek, Merlee Shapiro",Drama,7.4
+683,Caged Fear,1991,93,Robert Houston,"Stanley DeSantis, David Keith, Kristen Cloke","Action, Thriller",4.5
+684,Meet the Parents,1991,75,Greg Glienna,"Tony Boswell, Jacqueline Cahill, Mary Ruth Clarke",Comedy,6.7
+685,Saathi,1991,175,Mahesh Bhatt,"Aditya Pancholi, Mohsin Khan, Varsha Usgaonkar","Action, Crime, Drama",6.3
+686,Sweet Justice,1991,90,Allen Plone,"Finn Carter, Frank Gorshin, Marc Singer","Action, Crime, Drama",4.0
+687,Little Noises,1991,73,Jane Spencer,"Tatum O'Neal, Crispin Glover, Nina Siemaszko","Comedy, Drama",5.8
+688,Nirnayam,1991,170,"Priyadarshan, R.R. Shinde","Nagarjuna Akkineni, Amala Akkineni, Murali Mohan","Action, Comedy, Drama",7.1
+689,Committed,1991,90,William A. Levey,"Jennifer O'Neill, Robert Forster, William Windom","Drama, Thriller",5.0
+690,Capital Punishment,1991,89,David Huey,"Gary Daniels, David Carradine, Tadashi Yamashita",Action,3.5
+691,Liquid Dreams,1991,92,Mark Manos,"Candice Daly, John Doe, Mark Manos","Sci-Fi, Thriller",5.0
+692,Ante geia...,1991,93,Yorgos Tsemberopoulos,"Ketty Papanika, Alkis Kourkoulos, Nikos Dimitratos","Drama, Romance",6.1
+693,Quiet Days in August,1991,108,Pantelis Voulgaris,"Aleka Paizi, Themis Bazaka, Thanasis Vengos",Drama,6.8
+694,Moya moryachka,1991,80,Anatoly Eyramdzhan,"Lyudmila Gurchenko, Mikhail Derzhavin, Tatyana Vasileva","Comedy, Musical",5.9
+695,Don Juan in Hell,1991,91,Gonzalo Suárez,"Fernando Guillén, Mario Pardo, Charo López","Drama, Romance",6.1
+696,The Hideaway,1991,70,Niels Gråbøl,"Kasper Tuxen, Allan Winther, Ditte Gråbøl",Drama,6.6
+697,Chaukat Raja,1991,150,Sanjay Soorkar,"Nayana Apte, Rajasi Bhaire, Sulabha Deshpande",Drama,7.9
+698,"11 Days, 11 Nights 2",1991,84,Joe D'Amato,"Kristine Rose, Ruth Collins, Frederick Lewis",Drama,4.0
+699,Off and Running,1991,86,Ed Bianchi,"Cyndi Lauper, David Keith, Johnny Pinto","Comedy, Drama, Thriller",5.1
+700,Chinna Thambi,1991,144,P. Vasu,"Prabhu, Khushbu Sundar, Aachi Manorama","Drama, Romance",6.8
+701,The Tigers,1991,100,Eric Tsang,"Andy Lau, Tony Leung Chiu-wai, Felix Wong","Action, Crime, Drama",6.1
+702,Old Men's School,1991,99,Ali Sajjadi Hosseini,"Akbar Abdi, Ahmad Reza Asadi, Reza Banafshekhah","Adventure, Comedy, Drama",5.8
+703,The Vampire,1991,110,Yevgeni Tatarsky,"Donatas Banionis, Viktor Melikhov, Andrey Sokolov",Horror,6.5
+704,"Sex, Drugs, Rock & Roll",1991,96,John McNaughton,Eric Bogosian,"Drama, Comedy, Documentary",7.0
+705,Appula Appa Rao,1991,139,E.V.V. Satyanarayana,"Rajendra Prasad, Shobana, Brahmanandam",Comedy,7.6
+706,Rowdy Alludu,1991,144,K. Raghavendra Rao,"Chiranjeevi, Divya Bharti, Shobana","Action, Comedy",7.4
+707,The Blue Jean Monster,1991,94,Kai-Ming Lai,"Shing Fui-On, Siu-Fung Wong, Wai-Kit Tse","Comedy, Horror, Sci-Fi",6.1
+708,Woman of the Port,1991,110,Arturo Ripstein,"Evangelina Sosa, Alejandro Parodi, Damián Alcázar",Drama,7.1
+709,The Man in the Golden Mask,1991,105,Éric Duret,"Jean Reno, Marlee Matlin, Marc Duret","Drama, Sport",5.5
+710,Dom pod zvyozdnym nebom,1991,121,Sergey Solovyov,"Mikhail Ulyanov, Alla Parfanyak, Aleksandra Turgan","Drama, Mystery, Thriller",6.1
+711,Crystal Hunt,1991,89,Hsu Hsia,"Donnie Yen, Sibelle Hu, Carrie Ng","Action, Adventure",5.9
+712,Somewhere in the East,1991,84,Nicolae Margineanu,"Remus Margineanu, Valentin Voicila, Dorel Visan","Action, Comedy, Drama",7.7
+713,Dhanam,1991,125,Sibi Malayil,"Mohanlal, Charmila, Santha Devi",Drama,6.9
+714,Azhakan,1991,154,K. Balachander,"Mammootty, Bhanupriya, Geetha","Drama, Romance",7.1
+715,Sukiny deti,1991,98,Leonid Filatov,"Vladimir Ilin, Larisa Udovichenko, Aleksandr Abdulov","Comedy, Drama",7.0
+716,L'assassin jouait du trombone,1991,96,Roger Cantin,"Germain Houde, Anaïs Goulet-Robitaille, Marc Labrèche","Comedy, Crime, Mystery",6.2
+717,Vito e gli altri,1991,83,Antonio Capuano,"Nando Triola, Giovanni Bruno, Pina Leone",Drama,6.6
+718,Dai yûkai,1991,120,Kihachi Okamoto,"Tôru Kazama, Hiroshi Nishikawa, Katsuyasu Uchida","Comedy, Crime",6.8
+719,Da jue zhan I: Liao shen zhan yi,1991,222,Jun Li,"Lin Su, Haiying Sun, Jun Wang","Drama, History, War",7.2
+720,Nadia: The Secret of Blue Water - The Motion Picture,1991,85,Masa Aono,"Yoshino Takamori, Noriko Hidaka, Kumiko Takizawa","Animation, Action, Sci-Fi",4.2
+721,Nobat e Asheghi,1995,75,Mohsen Makhmalbaf,"Shiva Gered, Abdurrahman Palay, Menderes Samancilar","Drama, Romance",6.4
+722,Taksi,1991,90,Arifin C. Noer,"Meriam Bellina, Dorman Borisman, Rano Karno",Drama,7.0
+723,Money,1991,105,Steven Hilliard Stern,"Eric Stoltz, Maryam d'Abo, Bruno Cremer","Drama, Thriller",4.9
+724,The Last Hour,1991,85,William Sachs,"Michael Paré, Shannon Tweed, Bobby Di Cicco","Action, Crime, Drama",4.4
+725,Unizhennye i oskorblennye,1991,106,Andrey Eshpay,"Nastassja Kinski, Nikita Mikhalkov, Anastasia Viazemskaya","Drama, Romance",6.6
+726,Prime Target,1991,86,"David Heavener, Phillip J. Roth","David Heavener, Tony Curtis, Isaac Hayes","Action, Comedy, Crime",4.2
+727,Grand Isle,1991,94,Mary Lambert,"Kelly McGillis, Jon DeVries, Adrian Pasdar","Drama, Romance",5.1
+728,The Killing Zone,1991,83,Addison Randall,"Deron McBee, Armando Silvestre, James Dalesandro",Action,3.9
+729,Masala,1991,106,Srinivas Krishna,"Srinivas Krishna, Sakina Jaffrey, Zohra Sehgal","Comedy, Music, Romance",6.5
+730,The Children Thief,1991,110,Christian de Chalonge,"Marcello Mastroianni, Ángela Molina, Michel Piccoli",Drama,5.9
+731,Games of Desire,1991,80,Pasquale Fanetti,"Malù, Branko Djuric, Lidija Zovkic",Drama,3.4
+732,Over the Hill,1991,99,George Miller,"Olympia Dukakis, Sigrid Thornton, Derek Fowlds","Drama, Romance",5.9
+733,Holiday in Sarajevo,1991,87,Benjamin Filipovic,"Mustafa Nadarevic, Slobodan Custic, Mirsad Tuka",Drama,7.1
+734,Lyrisch nitraat,1991,50,Peter Delpeut,"Lyda Borelli, Henny Porten, Anni Timm",Documentary,6.9
+735,Two and A Half Men,1991,90,Yadollah Samadi,"Faramarz Gharibian, Alireza Khamseh, Ateneh Faghih Nasiri","Comedy, Family",5.5
+736,"Abdulladzhan, ili posvyashchaetsya Stivenu Spilbergu",1991,89,Zulfikar Musakov,"Shukhrat Kayumov, Tuti Yusupova, Radzhab Adashev","Comedy, Sci-Fi",7.2
+737,In the Shadow of the Stars,1991,93,"Allie Light, Irving Saraf",William S. Jones,Documentary,6.5
+738,On My Own,1991,97,Antonio Tibaldi,"Matthew Ferguson, Judy Davis, David McIlwraith",Drama,6.2
+739,Killer Instinct,1991,92,David Tausik,"Scott Valentine, Vanessa Angel, Talia Balsam","Crime, Thriller",4.7
+740,The Ultimate Vampire,1991,88,Wai Keung Lau,"Ching-Ying Lam, Siu-Ho Chin, Ronald Wong","Comedy, Horror",6.2
+741,Lumumba: Death of a Prophet,1991,69,Raoul Peck,"Jacques Brassinne, Pierre Devos, Anicet Kashamura","Documentary, Biography, History",7.0
+742,Pizza Man,1991,87,J.F. Lawton,"Bill Maher, Annabelle Gurwitch, David McKnight","Comedy, Crime, Mystery",4.3
+743,Fragments: Chronicle of a Vanishing,1991,97,Zrinko Ogresta,"Zdenka Anusic, Etta Bortolazzi, Vanja Drach",Drama,6.5
+744,The Gambling Ghost,1991,93,Clifton Ko,"Sammo Kam-Bo Hung, Nina Li Chi, Hoi Mang","Action, Comedy, Fantasy",5.8
+745,Noc u kuci moje majke,1991,96,Zarko Dragojevic,"Igor Pervic, Zumreta Ibrahimovic, Ljubisa Samardzic",Drama,6.8
+746,Cup Final,1991,105,Eran Riklis,"Moshe Ivgy, Mohammad Bakri, Salim Daw","Drama, War",7.0
+747,Midnight Fear,1991,89,Bill Crain,"Craig Wasson, David Carradine, Page Fletcher",Thriller,4.6
+748,Prem Qaidi,1991,156,K. Muralimohana Rao,"Karisma Kapoor, Harish, Shafi Inamdar","Action, Romance",2.9
+749,Zodiac Killers,1991,97,Ann Hui,"Andy Lau, Cherie Chung, Jun'ichi Ishida","Crime, Drama, Romance",5.4
+750,Diksha,1991,120,Arun Kaul,"Sulabha Arya, Vijay Kashyap, Anubhav Mishra",Drama,7.6
+751,"Moy luchshiy drug, general Vasiliy, syn Iosifa",1991,102,Viktor Sadovsky,"Boris Shcherbakov, Vladimir Steklov, Andrei Boltnev","Biography, Comedy, Drama",6.5
+752,Legal Tender,1991,95,Jag Mundhra,"Robert Davi, Tanya Roberts, Morton Downey Jr.","Action, Thriller",3.9
+753,Dead Women in Lingerie,1991,86,Erica Fox,"John Romo, Maura Tierney, June Lockhart","Crime, Thriller",4.1
+754,Le ciel de Paris,1991,90,Michel Béna,"Sandrine Bonnaire, Marc Fourastier, Paul Blain","Drama, Romance",6.1
+755,Hidden Desire,1991,88,Fan Ho,"Chin Fei Lam, Veronica Yip, Rena Murakami",Drama,4.4
+756,The Cabinet of Dr. Ramirez,1991,111,Peter Sellars,"Mikhail Baryshnikov, Joan Cusack, Peter Gallagher","Drama, Music, Mystery",5.3
+757,Miss Litoral,1991,104,Mircea Muresan,"Jean Constantin, Alexandru Arsinel, Anca Turcasiu",Comedy,5.2
+758,Pookkalam Varavayi,1991,129,Kamal,"Jayaram, Shamili, Murali","Comedy, Drama, Family",7.5
+759,Tichá bolest,1991,95,Martin Hollý,"Rudolf Hrusínský, Ivan Jirík, Jakub Vrabec",Drama,7.9
+760,The Lunatic,1991,93,Lol Creme,"Julie T. Wallace, Paul Campbell, Carl Bradshaw","Comedy, Romance",6.3
+761,Bandidos,1991,95,Luis Estrada,"Eduardo Toussaint, Jorge Poza, Alan Gutiérrez","Action, Adventure, War",6.7
+762,Uslyszcie mój krzyk,1991,46,Maciej Drygas,"Ryszard Siwiec, Maria Siwiec, Innocenta Siwiec",Documentary,7.7
+763,Mikadoroido,1991,73,"Satoo Haraguchi, Tomoo Haraguchi","Hiroshi Atsumi, Sandayû Dokumamushi, Yoriko Dôguchi","Horror, Sci-Fi",5.6
+764,Spirit of the Eagle,1991,93,Boon Collins,"Dan Haggerty, William Smith, Trever Yarrish","Adventure, Drama",5.4
+765,Il conte Max,1991,88,Christian De Sica,"Christian De Sica, Ornella Muti, Galeazzo Benti",Comedy,4.4
+766,Project Eliminator,1991,90,H. Kaye Dyal,"David Carradine, Frank Zagarino, Hilary English","Action, Thriller",3.4
+767,The Beggar's Opera,1991,94,Jirí Menzel,"Josef Abrhám, Marián Labuda, Nina Divísková","Comedy, Drama",6.9
+768,Rama Dama,1991,107,Joseph Vilsmaier,"Dana Vávrová, Werner Stocker, Ivana Chýlková","Drama, Romance",6.4
+769,The Big Slice,1991,86,John Bradshaw,"Casey Siemaszko, Leslie Hope, Louis Ferreira","Comedy, Crime",4.1
+770,Discopríbeh 2,1991,80,Jaroslav Soukup,"Ladislav Potmesil, Rudolf Hrusínský, Veronika Kánská","Comedy, Music",3.9
+771,Da Jue Zhan II: Huai Hai Zhan Yi,1991,219,"Jiwei Cai, Mukui Jing, Jun Li","Xu Chen, Yang Guang, Lin Su","Drama, History, War",7.1
+772,Jericho,1991,90,Luis Alberto Lamata,"Cosme Cortázar, Francis Rueda, Alexander Milic","Adventure, Drama",7.0
+773,Immortal Sins,1991,80,Hervé Hachuel,"Cliff De Young, Maryam d'Abo, Shari Shattuck","Horror, Thriller",4.5
+774,An Eternal Combat,1991,90,Thomas Yip,"Ching-Ying Lam, Joey Wang, Shing Fui-On","Action, Comedy, Fantasy",5.7
+775,Georgekutty C/O Georgekutty,1991,133,K.K. Haridas,"Jayaram, Thilakan, Sunitha","Comedy, Drama",6.7
+776,Bak syv hav,1991,87,"Sajeed Anjum, Espen Thorstenson","Sajid Malik, Zafar Malik, Rubina J. Rana",Drama,3.0
+777,Trump: What's the Deal?,1991,83,Libby Handros,"Sheelsa Allen-Stevens, Jonathan Alter, Abraham Beame",Documentary,7.0
+778,Dreaming the Reality,1991,103,Chun-Ku Lu,"Sibelle Hu, Moon Lee, Yukari Ôshima",Action,6.5
+779,L'autostop,1991,56,Nikita Mikhalkov,"Massimo Venturiello, Nina Ruslanova, Vladimir Gostyukhin",Comedy,5.9
+780,Plaisir d'amour,1991,90,Nelly Kaplan,"Pierre Arditi, Françoise Fabian, Pierre Dux",Comedy,5.9
+781,Netchaïev est de retour,1991,110,Jacques Deray,"Yves Montand, Vincent Lindon, Patrick Chesnais","Crime, Drama, Thriller",5.2
+782,Dario Argento: Master of Horror,1991,60,Luigi Cozzi,"Dario Argento, Fabio Giovannini, Daria Nicolodi","Documentary, Horror",6.3
+783,Vengeance of the Punks,1991,90,Damián Acosta Esparza,"Juan Valentín, Olga Rios, Bruno Rey",Action,5.4
+784,Vasthuhara,1991,103,Govindan Aravindan,"Mohanlal, Neelanjana Mitra, Neena Gupta","Drama, Romance",7.5
+785,Her Fatal Ways II,1991,96,Alfred Cheung,"Do Do Cheng, Waise Lee, Alfred Cheung","Action, Comedy, Crime",6.0
+786,Babad Tanah Leluhur II,1991,78,Denny H.W.,"Fitria Anwar, Gito Gilas, Syamsuri Kaempuan",Action,6.9
+787,North,1991,88,Xavier Beauvois,"Xavier Beauvois, Bulle Ogier, Bernard Verley",Drama,6.4
+788,Forbidden Arsenal,1991,92,"Siu-Keung Cheng, Chun-Man Yuen","Cynthia Khan, Waise Lee, Gary Chow",Action,5.7
+789,The Raid,1991,100,"Siu-Tung Ching, Hark Tsui","Tony Ka Fai Leung, Jacky Cheung, Dean Shek","Action, Adventure, Comedy",5.9
+790,Alyas Batman en Robin,1991,129,Tony Y. Reyes,"Rene Requiestas, Dawn Zulueta, Vina Morales","Action, Comedy, Crime",5.2
+791,Ehmedê Xanî'den: Mem û Zîn,1991,83,Ümit Elçi,"Meltem Doganay, Yalçin Dümer, Levent Güner","Drama, Romance",7.2
+792,Ente Sooryaputhrikku,1991,121,Fazil,"Amala Akkineni, Srividya, Suresh Gopi","Comedy, Drama, Romance",6.8
+793,Pretty Woman,1991,93,Chi-Kin Yeung,"Veronica Yip, Alex Fong, Siu-Wah Chan","Action, Comedy, Crime",5.0
+794,Undying Love,1991,76,Gregory Lamberson,"Tommy Sweeney, Julie Lynch, Andrew Lee Barrett",Horror,3.1
+795,"One Ticket, Two Movies!",1991,88,Dariush Farhang,"Mehdi Hashemi, Dariush Farhang, Afsaneh Bayegan","Comedy, Drama",4.8
+796,Za posledney chertoy,1991,103,Nikolai Stambula,"Evgeniy Sidikhin, Igor Talkov, Alina Tarkinskaya","Action, Crime, Drama",7.0
+797,The Graveyard Story,1991,93,Bozidar D. Benedikt,"John Ireland, Adrian Paul, Keith Vinsonhaler",Horror,4.0
+798,Lokh pobeditel vody,1991,86,Arkadiy Tigay,"Sergei Kuryokhin, Larisa Borodina, Andrey Ponomaryov","Crime, Thriller",6.2
+799,Sea Wolves,1991,90,Siu-Keung Cheng,"Cynthia Khan, Simon Yam, Gary Chow","Action, Crime, Thriller",5.9
+800,The Last Match,1991,95,Fabrizio De Angelis,"Oliver Tobias, Ernest Borgnine, Charles Napier",Action,4.3
+801,Piata Universitatii - Romania,1991,72,"Stere Gulea, Sorin Iliesiu, Vivi Dragan Vasile","Petre Mihai Bacanu, Ana Blandiana, Silviu Brucan",Documentary,9.1
+802,Dark Cat,1991,60,Iku Suzuki,"Tsutomu Kashiwakura, Ryôtarô Okiayu, Yumi Tôma","Animation, Horror",4.2
+803,Bix,1991,100,Pupi Avati,"Bryant Weeks, Emile B. Levisetti, Julia Ewing","Biography, Drama, Music",6.2
+804,Happy Ghost V,1991,91,"Hok-Yan Chan, Raymond Pak-Ming Wong","Raymond Pak-Ming Wong, Kris Aquino, Roger Kwok","Comedy, Fantasy",5.7
+805,Street Soldiers,1991,93,Lee Harry,"Jun Chong, Jeff Rector, David Homb",Action,4.5
+806,Iskushenie B.,1991,84,Arkadi Sirenko,"Lembit Ulfsak, Oleg Borisov, Natalya Gundareva","Drama, Sci-Fi",6.7
+807,Tomcat Angels,1991,90,Don Edmonds,"Darren Bonilla, Kent Bryant, Daphne Cheung","Action, Comedy",2.8
+808,Shanti Kranti,1991,142,V. Ravichandran,"Nagarjuna Akkineni, V. Ravichandran, Juhi Chawla","Action, Musical, Romance",6.5
+809,Vishnulokam,1991,119,Kamal,"Mohanlal, Shanthi Krishna, Urvashi",Drama,6.5
+810,Queen of the Underworld,1991,96,Sherman Wong,"Amy Yip, Shing Fui-On, Patrick Hon","Comedy, Crime, Drama",5.3
+811,"Nad rzeka, której nie ma",1991,85,Andrzej Baranski,"Marek Bukowski, Joanna Trzepiecinska, Adrianna Biedrzynska","Comedy, Drama, Romance",6.8
+812,The Killers Edge,1991,90,Joseph Merhi,"Wings Hauser, Karen Black, Robert Z'Dar","Action, Crime, Thriller",4.7
+813,'Harry Lund' lägger näsan i blöt!,1991,105,Mats Arehn,"Johan Ulveson, Gösta Bredefeldt, Eva Dahlman","Comedy, Thriller",4.4
+814,I Was on Mars,1991,87,Dani Levy,"Maria Schrader, Dani Levy, Mario Giacalone",Comedy,6.4
+815,Pejme písen dohola,1991,103,Ondrej Trojan,"Václav Chalupa, Ulrika Kotajná, Ladislav Brothánek",Comedy,7.0
+816,Uroki v kontse vesny,1991,75,Oleg Kavun,"Danya Tolkachev, Yuriy Nazarov, Yuriy Mazhuga",Drama,6.8
+817,Banjaran,1991,145,Harmesh Malhotra,"Rishi Kapoor, Sridevi, Kulbhushan Kharbanda","Drama, Romance",4.8
+818,Bhabhi,1991,145,Kishore Vyas,"Bhanupriya, Govinda, Juhi Chawla","Comedy, Drama, Family",4.3
+819,The Malibu Beach Vampires,1991,96,Francis Creighton,"Kelly Galindo, Christina Walker, Mimi Spivak","Adventure, Comedy",1.5
+820,Mimics Parade,1991,127,Thulasidas,"Siddique, Jagadish, Innocent Vareed Thekkethala",Comedy,6.3
+821,Americano rosso,1991,98,Alessandro D'Alatri,"Burt Young, Fabrizio Bentivoglio, Valeria Milillo",Comedy,6.2
+822,Shuttlecock,1991,85,Andrew Piddington,"Alan Bates, Lambert Wilson, Kenneth Haigh","Drama, Mystery, Thriller",4.7
+823,Chuck Amuck: The Movie,1991,51,"Chuck Jones, John Needham, Abe Levitow","Chuck Jones, Maurice Noble, Lloyd Vaughan","Documentary, Biography",7.0
+824,Ciudad Baja (Downtown Heat),1991,94,Jesús Franco,"Mike Connors, Josephine Chaplin, Óscar Ladoire","Action, Thriller",3.9
+825,To the Death,1991,90,Darrell Roodt,"John Barrett, Michel Qissi, Robert Whitehead",Action,4.7
+826,Les Équilibristes,1991,119,Nikos Papatakis,"Michel Piccoli, Lilah Dadi, Polly Walker","Drama, Romance",7.0
+827,The Road to the Racetrack,1991,138,Jang Sun-woo,"Kim Bo-yeon, Jong-mi Im, Il-jong Kwon",Drama,6.2
+828,Beggars and Noblemen,1991,92,Asmaa El-Bakry,"Salah El-Saadany, Mahmood El-Gindi, Abdulaziz Makhyoon","Drama, Mystery",7.4
+829,Zitti e mosca,1991,96,Alessandro Benvenuti,"Alida Valli, Athina Cenci, Massimo Ghini",Comedy,5.6
+830,Secret Friends,1991,97,Dennis Potter,"Alan Bates, Gina Bellman, Frances Barber","Drama, Fantasy",5.0
+831,Triple Bogey on a Par Five Hole,1991,85,Amos Poe,"Eric Mitchell, Daisy Hall, Alba Clemente","Comedy, Crime, Drama",5.3
+832,Buster's Bedroom,1991,104,Rebecca Horn,"Donald Sutherland, Geraldine Chaplin, Valentina Cortese",Comedy,5.3
+833,Where Evil Lives,1991,93,"Richard L. Fox, Stephen A. Maier, Kevin G. Nunan","Claude Akins, Peggy Aydelotte, Mark Bender",Horror,3.8
+834,Indio 2 - La rivolta,1991,95,Antonio Margheriti,"Marvelous Marvin Hagler, Frank Cuervo, Dirk Galuba","Action, Adventure",5.5
+835,The Third Planet,1991,99,Aleksandr Rogozhkin,"Anna Matyukhina, Boris Sokolov, Svetlana Mikhalchenko",Sci-Fi,5.7
+836,Anna Karamazoff,1991,125,Rustam Khamdamov,"Jeanne Moreau, Elena Solovey, Natalya Leble",Drama,6.8
+837,Ultimate Desires,1991,93,Lloyd A. Simandl,"Tracy Scoggins, Marc Singer, Brion James","Action, Adventure, Drama",3.5
+838,Vrijeme ratnika,1991,95,Dejan Sorak,"Josip Genda, Krunoslav Saric, Edo Perocevic","Action, Drama",6.2
+839,I Will Wait for You in Heaven,1991,120,Carlos Siguion-Reyna,"Richard Gomez, Dawn Zulueta, Michael De Mesa","Drama, Romance",7.2
+840,Complex World,1991,81,Jim Wolpaw,"Stanley Matis, Margo Dionne, Allen Oliver","Action, Comedy, Musical",6.3
+841,Lyumi,1991,100,Vladimir Bragin,"Andrey Shcherbovich-Vecher, Vita Grebneva, Nadezhda Butyrtseva","Comedy, Horror, Thriller",5.9
+842,Kingdom of the Vampire,1991,70,J.R. Bookwalter,"Matthew Jason Walsh, Cherie Patry, Shannon Doyle",Horror,4.4
+843,Evil Blood,1991,102,Branko Schmidt,"Slobodan Custic, Fabijan Sovagovic, Asja Jovanovic",Drama,7.3
+844,Zabí král,1991,90,Juraj Herz,"Iris Berben, Michael Degen, Linda Rybová",Fantasy,5.7
+845,Chiedi la luna,1991,88,Giuseppe Piccioni,"Giulio Scarpati, Margherita Buy, Roberto Citran",Comedy,6.6
+846,The Good Woman of Bangkok,1991,82,Dennis O'Rourke,Yagwalak Chonchanakun,Drama,6.3
+847,Adayalam,1991,136,K. Madhu,"Mammootty, Rekha, Shobana","Crime, Mystery, Thriller",6.5
+848,Passion's Flower,1991,85,Joe D'Amato,"Kristine Rose, Robert LaBrosse, Cristine Frischnertz","Drama, Mystery, Romance",4.4
+849,Beder Meye Josna,1991,122,Tojammel Haque Bokul,"Anju Ghosh, Chiranjit, Shambhu Bhattacharya",Fantasy,4.9
+850,La neige et le feu,1991,100,Claude Pinoteau,"Vincent Perez, Géraldine Pailhas, Matthieu Rozé","Drama, Romance, War",5.9
+851,Dalí,1991,106,Antoni Ribas,"Lorenzo Quinn, Sarah Douglas, Michael Catlin","Biography, Drama",5.9
+852,The Pianist,1991,112,Claude Gagnon,"Gail Travers, Macha Grenon, Eiji Okuda",Romance,4.9
+853,The Bridge,1991,102,Syd Macartney,"Saskia Reeves, David O'Hara, Joss Ackland","Drama, Romance",6.7
+854,Sam & Me,1991,94,Deepa Mehta,"Ranjit Chowdhry, Peter Boretski, Om Puri",Drama,6.0
+855,Lest We Forget,1991,110,"Chantal Akerman, René Allio, Denis Amar","Paul Amar, Robert Badinter, Guy Bedos",Drama,5.9
+856,The Royal Scoundrel,1991,89,"Johnnie To, Kei-Yee Chik","Tony Leung Chiu-wai, Man-Tat Ng, Chien-Lien Wu","Action, Comedy, Crime",5.3
+857,Pratikar,1991,150,Rama Rao Tatineni,"Rakhee Gulzar, Anil Kapoor, Madhuri Dixit","Action, Crime, Drama",4.3
+858,The Man Who Lost His Shadow,1991,102,Alain Tanner,"Francisco Rabal, Dominic Gould, Ángela Molina",Drama,6.2
+859,In Between,1991,92,Thomas Constantinides,"Robert Forster, Wings Hauser, Robin Mattson","Comedy, Drama, Fantasy",5.4
+860,Gopura Vasalile,1991,143,Priyadarshan,"Karthik, Bhanupriya, Suchitra","Comedy, Romance",7.0
+861,The Beheaded 1000,1991,105,Shan-Hsi Ting,"Joey Wang, Jimmy Wang Yu, Monica Chan","Action, Drama, Fantasy",5.9
+862,Intimate Stranger,1991,60,Alan Berliner,Joseph Cassuto,Documentary,7.3
+863,Alice in Wondertown,1991,90,Daniel Díaz Torres,"Thais Valdés, Vanessa Carballido, Carlos Cruz",Comedy,6.2
+864,Ciudad de ciegos,1991,87,Alberto Cortés,"Gabriela Roel, Arcelia Ramírez, Verónica Merchant",Drama,6.4
+865,Antarnaad,1991,160,Shyam Benegal,"Shabana Azmi, Girish Karnad, Kulbhushan Kharbanda",Drama,7.9
+866,Nagi El-Ali,1991,109,Atef El-Tayeb,"Nour El-Sherif, Salim Kallas, Mahmood El-Gindi","Biography, Drama, History",6.8
+867,Forever,1991,96,Walter Hugo Khouri,"Ben Gazzara, Eva Grimaldi, Gioia Scola","Drama, Mystery",4.9
+868,Au Revoir Mon Amour,1991,126,Tony Au,"Anita Mui, Tony Ka Fai Leung, Hidekazu Akai","Drama, War",6.4
+869,La strana voglia,1991,84,Pasquale Fanetti,"Malù, Ángeles López Barea, Giancarlo Teodori",Drama,4.5
+870,The Little Brother,1991,90,Bakhtyar Khudojnazarov,"Timur Tursunov, Firus Sasaliyev, N. Arifova","Adventure, Drama",6.7
+871,Dove comincia la notte,1991,94,Maurizio Zaccaro,"Tom Gallop, Cara Wilder, Don Pearson",Horror,6.2
+872,Isabelle Eberhardt,1991,113,Ian Pringle,"Mathilda May, Tchéky Karyo, Peter O'Toole","Biography, Drama, History",5.1
+873,The Master Demon,1991,81,Samuel Oldham,"Eric Lee, Gerald Okamura, Kay Baxter Young","Horror, Action",3.1
+874,Kiss Me a Killer,1991,91,Marcus DeLeon,"Julie Carmen, Robert Beltran, Guy Boyd",Thriller,4.3
+875,Strip Jack Naked: Nighthawks II,1991,91,Ron Peck,"Ron Peck, John Brown, John Daimon","Documentary, Biography, History",6.4
+876,Motýlí cas,1991,84,Bretislav Pojar,"Ludek Navratil, Katerina Machácková, Jaromír Hanzlík","Family, Fantasy",6.5
+877,"Diably, diably",1991,86,Dorota Kedzierzawska,"Danuta Szaflarska, Monika Niemczyk, Jerzy Lapinski",Drama,5.9
+878,O Corpo,1991,80,José Antonio Garcia,"Antônio Fagundes, Marieta Severo, Cláudia Jimenez",Comedy,6.2
+879,Oh Boy!,1991,88,Orlow Seunke,"Orlow Seunke, Kees van Kooten, Monique Smets",Comedy,6.0
+880,California Casanova,1991,90,Nat Christian,"Jerry Orbach, Audrey Landers, Tyrone Power Jr.",Comedy,4.2
+881,The Three Muscatels,1991,90,Romell Foster-Owens,"Flynn Belaine, Cal Wilson, Reynaldo Rey",Comedy,2.9
+882,Keli,1991,122,Bharathan,"Jayaram, Charmila, Innocent Vareed Thekkethala","Crime, Drama, Romance",6.8
+883,The Loves of Lady Chatterley,1991,104,Pasquale Fanetti,"Malù, Anthony Steffen, Kieran Canter",Drama,4.8
+884,Mima,1991,84,Philomène Esposito,"Virginie Ledoyen, Nino Manfredi, Margarita Lozano","Crime, Drama",6.3
+885,William S. Burroughs: Commissioner of Sewers,1991,60,Klaus Maeck,"William S. Burroughs, Jürgen Ploog",Documentary,6.9
+886,Together Alone,1991,87,P.J. Castellaneta,"Terry Curry, Todd Stites",Drama,7.4
+887,Il diavolo nella carne,1991,84,Joe D'Amato,"Tracy Ray, Carmen Di Pietro, Nicole Grey","Drama, Romance, Thriller",4.0
+888,Femina,1991,84,Piotr Szulkin,"Hanna Dunowska, Alina Janowska, Hanna Skarzanka",Drama,5.3
+889,Alias 'La Gringa',1991,92,Alberto Durant,"Germán González, Elsa Olivero, Orlando Sacha","Action, Drama, Romance",6.7
+890,Molly and the Ghost,1991,87,Don Jones,"Ena O'Rourke, Lee Darling, Ron Moriarty",Horror,4.3
+891,Rossini! Rossini!,1991,155,Mario Monicelli,"Philippe Noiret, Jacqueline Bisset, Sergio Castellitto","Biography, Drama, Music",5.9
+892,Aspen,1991,146,Frederick Wiseman,John Denver,Documentary,7.1
+893,The Last Eunuch,1991,110,Zhuangzhuang Tian,"Wen Jiang, Xiaoqing Liu, Jiali Ding","Drama, History, Romance",6.5
+894,Neelagiri,1991,146,I.V. Sasi,"Mammootty, Madhoo, Sunitha","Action, Crime, Drama",5.4
+895,The End of the Golden Weather,1991,100,Ian Mune,"Stephen Fulford, Stephen Papps, Paul Gittins",Drama,6.2
+896,Chino,1991,138,Tulsi Ghimire,"Ramchandra Adhikari, Shrawan Ghimire, Tulsi Ghimire","Drama, Romance",7.7
+897,Nayam Vyakthamakkunnu,1991,137,Balachandra Menon,"Aby, Adoor Bhawani, Jagadish",Drama,7.0
+898,In Your Wildest Dreams,1991,85,Bruce Neibaur,"Trevor Black, Lise Wilburn, Sarah Schaub","Drama, Family",5.1
+899,My Father Is Coming,1991,82,Monika Treut,"Alfred Edel, Shelley Kästner, Annie Sprinkle","Comedy, Romance",5.6
+900,A unsprezecea porunca,1991,144,Mircea Daneliuc,"Constantin Dinulescu, Valentin Uritescu, Cecilia Bârbora",Drama,7.3
+901,The Golden Lotus: Love and Desire,1991,95,"Han Hsiang Li, Tsu-Hui Hsia, Fu-Ti Lin","Yin-chu Chang, Hok-chi Chiu, Charlie Cho","Drama, Romance",4.7
+902,Satana,1991,106,Viktor Aristov,"Svetlana Bragarnik, Sergei Kupriianov, Veniamin Malochevskiy","Drama, Thriller",6.8
+903,Alex,1991,118,Teresa Villaverde,"Ricardo Colares, Teresa Roby, Joaquim de Almeida",Drama,6.0
+904,Zazda strasti,1991,80,Andrey Kharitonov,"Anastasiya Vertinskaya, Viktor Rakov, Igor Kostolevskiy","Fantasy, Horror, Thriller",6.1
+905,Dukhov den,1991,117,Sergey Selyanov,"Yuriy Shevchuk, Boris Golyatkin, Gennadiy Garbuk","Drama, Sci-Fi",6.2
+906,Time of Darkness,1991,91,Vladimir Alenikov,"George Segal, Tamara Tana, Nikolay Kochegarov","History, Mystery, Thriller",5.3
+907,North of Vortex,1991,58,Constantine Giannaris,"Stavros Zalmas, Valda Z. Drabla, Howard Napper",Drama,5.4
+908,Behind the Mask,1991,75,Frank Martin,"John Fitzpatrick, Brenda Bruce, Jackson Burns","Documentary, War",8.2
+909,Turtle Vision,1991,60,Hisayasu Satô,"Rei Takagi, Naomi Sugishita, Miki Fukada","Drama, Horror",6.5
+910,Sztálin menyasszonya,1991,89,Péter Bacsó,"Juli Básti, Nina Petri, György Cserhalmi",Drama,6.2
+911,In the Eye of the Snake,1991,91,Max Reid,"Jason Cairns, Sydney Penny, Malcolm McDowell",Thriller,4.4
+912,The Road to Mecca,1991,105,"Athol Fugard, Peter Goldsmid","Yvonne Bryceland, Kathy Bates, Athol Fugard",Drama,6.8
+913,Siyabend and Xece,1991,98,Sahin Gök,"Tarik Akan, Mine Çayiroglu, Menderes Samancilar","Drama, Romance",4.6
+914,Høfeber,1991,90,Annelise Hovmand,"Frits Helmuth, Lisbet Dahl, Kirsten Lehfeldt",Comedy,4.8
+915,Spiritual Trinity,1991,93,Min Kan Ng,"Ching-Ying Lam, Kent Cheng, Siu-Fung Wong",Horror,5.7
+916,Harley,1991,84,Fred Holmes,"Lou Diamond Phillips, Eli Cummins, Jan DeWitt",Drama,4.7
+917,Age Isn't Everything,1991,90,Douglas Katz,"Jonathan Silverman, Robert Prosky, Rita Moreno","Comedy, Fantasy, Drama",4.2
+918,Showdown at Williams Creek,1991,96,Allan Kroeker,"Tom Burlinson, Stephen E. Miller, Michelle Thrush","Drama, Western",6.1
+919,Surya IPS,1991,144,A. Kodandarami Reddy,"Venkatesh Daggubati, Charu Haasan, Vallabaneni Janardhan","Action, Crime, Drama",6.5
+920,Çiplak,1991,120,Ali Özgentürk,"Sumru Yavrucuk, Hülya Karakas, Erdal Küçükkömürcü",Drama,5.3
+921,Khoon Ka Karz,1991,151,Mukul Anand,"Vinod Khanna, Dimple Kapadia, Rajinikanth","Action, Crime, Drama",4.0
+922,"Picture This: The Times of Peter Bogdanovich in Archer City, Texas",1991,58,George Hickenlooper,"Peter Bogdanovich, Sean Alsup, Antonia Bogdanovich",Documentary,7.1
+923,My Flying Wife,1991,91,Sing-Pui O,"Sammo Kam-Bo Hung, Li Yu, Fennie Yuen","Action, Comedy, Fantasy",5.6
+924,Edurinti Mogudu Pakkinti Pellam,1991,135,Narasimha Rao Relangi,"Rajendra Prasad, Divyavani, Aditya Y.S.",Comedy,7.3
+925,Narcosatanicos diabolicos,1991,90,José Juan Munguía,"Alfonso Zayas, Roberto 'Flaco' Guzmán, Lina Santos","Comedy, Horror",4.9
+926,Shikari: The Hunter,1991,162,"Latif Faiziyev, Umesh Mehra","Mithun Chakraborty, Naseeruddin Shah, Irina Kushnareva","Action, Adventure",4.6
+927,Street Wars,1991,92,Jamaa Fanaka,"A.J. Wone, Curtis Bush, Bridgid Coulter","Action, Drama",4.5
+928,Eye of the Widow,1991,95,Andrew V. McLaglen,"Mike Marshall, Benjamin Feitelson, Richard Young","Action, Adventure, Crime",3.7
+929,Comrades in Arms,1991,91,J. Christian Ingvordsen,"Lyle Alzado, Rick Washburn, J. Christian Ingvordsen","Action, Adventure",4.0
+930,Unde la soare e frig,1991,91,Bogdan Dreyer,"Oana Pellea, Gheorghe Visu, George Negoescu","Drama, Romance",6.9
+931,Final Embrace,1991,83,Oley Sassone,"Robert Rusler, Nancy Valen, Dick Van Patten","Mystery, Thriller",5.4
+932,Curse of the Crystal Eye,1991,73,Joe Tornatore,"Jameson Parker, Cynthia Rhodes, Mike Lane","Action, Adventure",4.8
+933,Desperate Crimes,1991,103,Andrea Marfori,"Denise Crosby, Van Quattro, Rena Niehaus","Crime, Drama",4.9
+934,Battle Gear,1991,96,Cirio H. Santiago,"David Carradine, Eb Lottimer, David Anthony Smith","Action, Adventure, War",5.3
+935,Ek Ghar,1991,100,Girish Kasaravalli,"Naseeruddin Shah, Deepti Naval, Chanda",Drama,6.9
+936,Death Falls,1991,83,June Samson,"Rip Torn, Roberts Blossom, Beverly Garland","Drama, Thriller",5.4
+937,Sleeping Beauty,1991,94,Stanislav Párnicky,"Dana Dinková, Jozef Adamovic, Judy Winter","Adventure, Fantasy",6.0
+938,Thank You and Good Night,1991,83,Jan Oxenberg,"Jean Bartolini, Ruth Bloch, Tim Braden",Documentary,7.6
+939,Jeszcze tylko ten las,1991,86,Jan Lomnicki,"Ryszarda Hanin, Joanna Friedman, Marta Klubowicz","Drama, War",7.1
+940,No Secrets,1991,92,Dezsö Magyar,"Adam Coleman Howard, Amy Locane, Heather Fairfield","Drama, Thriller",4.7
+941,The Channeler,1991,90,Grant Austin Waldman,"Dan Haggerty, David Homb, J. Cynthia Brooks",Horror,4.7
+942,Bathroom Intimacy,1991,78,Jaime Humberto Hermosillo,"Emilio Echevarría, Álvaro Guerrero, Martha Navarro",Drama,6.4
+943,Alludu Diddina Kapuram,1991,60,Krishna,Mohan Babu,Drama,8.9
+944,De nøgne træer,1991,104,Morten Henriksen,"Ole Lemmeke, Lena Nilsson, Michael Moritzen",War,5.7
+945,Les clés du paradis,1991,100,Philippe de Broca,"Gérard Jugnot, Pierre Arditi, Philippine Leroy-Beaulieu",Comedy,4.4
+946,Total Exposure,1991,0,John Quinn,"Michael Nouri, Season Hubley, Jeff Conaway","Action, Drama",4.3
+947,White Light,1991,90,Al Waxman,"Martin Kove, Allison Hossack, Martha Henry","Action, Drama, Fantasy",5.2
+948,Blood Ring,1991,90,Teddy Page,"Dale Cook, Andrea Lamatsch, Don Nakaya Neilsen",Action,4.2
+949,Maxim Xul,1991,90,Arthur Egeli,"Adam West, Jefferson Leinberger, Mary Schaeffer","Horror, Sci-Fi",3.7
+950,Preminger: Anatomy of a Filmmaker,1991,123,Valerie A. Robins,"Otto Preminger, Burgess Meredith, Saul Bass","Documentary, Biography",7.1
+951,La noche más larga,1991,82,José Luis García Sánchez,"Juan Echanove, Carmen Conesa, Gabino Diego","Drama, War",6.1
+952,Nowhere Man,1991,107,Naoto Takenaka,"Naoto Takenaka, Jun Fubuki, Kotaro Santo","Comedy, Drama",6.9
+953,Neria,1991,103,Godwin Mawuru,"Jesesi Mungoshi, Dominic Kanaventi, Violet Ndlovu",Drama,7.1
+954,Beyond's Diary,1991,90,Francis Sung,"Ka-Kui Wong, Kar-Keung Wong, Goon Chung Wong","Comedy, Music",6.3
+955,Cheb,1991,79,Rachid Bouchareb,"Mourad Bounaas, Nozha Khouadra, Pierre-Loup Rajot",Drama,5.0
+956,The Perfect Match,1991,91,Stephen Shin,"George Lam, Maggie Cheung, Jacky Cheung","Comedy, Romance",5.5
+957,Lethal Games,1991,83,John T. Bone,"Frank Stallone, Brenda Vaccaro, Dave Adams","Action, Thriller",4.3
+958,Atlantis,1991,83,Michael J. Murphy,"Patrick Olliver, Judith Holding, Phil Lyndon",Fantasy,4.4
+959,Shanghai jiaqi,1991,100,Ann Hui,"Kun-Hsuan Huang, Carina Lau, Peng Sun",Drama,6.0
+960,Death on the Beach,1991,75,Enrique Gómez Vadillo,"Andrés Bonfiglio, Sonia Infante, Rodolfo de Anda","Drama, Horror, Thriller",5.2
+961,Le brasier,1991,122,Eric Barbier,"Maruschka Detmers, Jean-Marc Barr, Tolsty",Drama,6.1
+962,Armavir,1991,130,Vadim Abdrashitov,"Sergey Koltakov, Sergey Shakurov, Elena Shevchenko",Drama,7.0
+963,The Sergeant,1991,86,Masud Kimiai,"Ahmad Najafi, Golchehre Sajadieh, Shahed Ahmadloo","Drama, Thriller, War",6.3
+964,The Death Merchant,1991,87,James Winburn,"Lawrence Tierney, Melody Munyon, Martina Castle","Action, Thriller",4.1
+965,La tribu,1991,100,Yves Boisset,"Stéphane Freiss, Catherine Wilkening, Maxime Leroux","Crime, Drama",5.4
+966,Vishnu-Devaa,1991,152,K. Pappu,"Sunny Deol, Aditya Pancholi, Neelam Kothari","Action, Crime, Drama",5.5
+967,A Little Stiff,1991,86,"Greg Watkins, Caveh Zahedi","Caveh Zahedi, Erin McKim, Arnold Barkus",Comedy,6.9
+968,Blobermouth,1991,86,Kent Skov,"Bob Buchholz, Connie Sue Cook, Frances Kelly","Comedy, Horror, Sci-Fi",6.1
+969,Lesbian Rape: Sweet Honey Juice,1991,59,Hisayasu Satô,"Rei Takagi, Emi Sugimoto, Kôichi Imaizumi","Drama, Horror",4.9
+970,Hippy Porn,1991,97,"Jacques Boyreau, Jon Moritsugu","Victor of Aquitaine, Elisabeth Canning, Marek Waldorf",Drama,5.2

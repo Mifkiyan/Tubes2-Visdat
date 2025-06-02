@@ -1,0 +1,965 @@
+ID,Name,Year,Duration,Directors,Actors,Genres,Rating
+1,Schindler's List,1993,195,Steven Spielberg,"Liam Neeson, Ralph Fiennes, Ben Kingsley","Biography, Drama, History",9.0
+2,Jurassic Park,1993,127,Steven Spielberg,"Sam Neill, Laura Dern, Jeff Goldblum","Action, Adventure, Sci-Fi",8.2
+3,Groundhog Day,1993,101,Harold Ramis,"Bill Murray, Andie MacDowell, Chris Elliott","Comedy, Drama, Fantasy",8.0
+4,The Nightmare Before Christmas,1993,76,Henry Selick,"Danny Elfman, Chris Sarandon, Catherine O'Hara","Animation, Family, Fantasy",7.9
+5,The Fugitive,1993,130,Andrew Davis,"Harrison Ford, Tommy Lee Jones, Sela Ward","Action, Crime, Drama",7.8
+6,Mrs. Doubtfire,1993,125,Chris Columbus,"Robin Williams, Sally Field, Pierce Brosnan","Comedy, Drama, Family",7.1
+7,Philadelphia,1993,125,Jonathan Demme,"Tom Hanks, Denzel Washington, Roberta Maxwell",Drama,7.7
+8,What's Eating Gilbert Grape,1993,118,Lasse Hallström,"Johnny Depp, Leonardo DiCaprio, Juliette Lewis",Drama,7.7
+9,True Romance,1993,119,Tony Scott,"Christian Slater, Patricia Arquette, Dennis Hopper","Crime, Drama, Romance",7.9
+10,Carlito's Way,1993,144,Brian De Palma,"Al Pacino, Sean Penn, Penelope Ann Miller","Crime, Drama, Thriller",7.9
+11,Falling Down,1993,113,Joel Schumacher,"Michael Douglas, Robert Duvall, Barbara Hershey","Crime, Drama, Thriller",7.6
+12,Dazed and Confused,1993,103,Richard Linklater,"Jason London, Wiley Wiggins, Matthew McConaughey",Comedy,7.6
+13,Demolition Man,1993,115,Marco Brambilla,"Sylvester Stallone, Wesley Snipes, Sandra Bullock","Action, Sci-Fi, Thriller",6.7
+14,Sleepless in Seattle,1993,105,Nora Ephron,"Tom Hanks, Meg Ryan, Ross Malinger","Comedy, Drama, Romance",6.8
+15,In the Name of the Father,1993,133,Jim Sheridan,"Daniel Day-Lewis, Pete Postlethwaite, Alison Crosbie","Biography, Crime, Drama",8.1
+16,Tombstone,1993,130,George P. Cosmatos,"Kurt Russell, Val Kilmer, Sam Elliott","Biography, Drama, History",7.8
+17,A Bronx Tale,1993,121,Robert De Niro,"Robert De Niro, Chazz Palminteri, Lillo Brancato","Crime, Drama",7.8
+18,Last Action Hero,1993,130,John McTiernan,"Arnold Schwarzenegger, F. Murray Abraham, Art Carney","Action, Adventure, Comedy",6.5
+19,Hocus Pocus,1993,96,Kenny Ortega,"Bette Midler, Sarah Jessica Parker, Kathy Najimy","Comedy, Family, Fantasy",6.9
+20,The Firm,1993,154,Sydney Pollack,"Tom Cruise, Jeanne Tripplehorn, Gene Hackman","Drama, Mystery, Thriller",6.9
+21,Cliffhanger,1993,113,Renny Harlin,"Sylvester Stallone, John Lithgow, Michael Rooker","Action, Adventure, Thriller",6.5
+22,Robin Hood: Men in Tights,1993,104,Mel Brooks,"Cary Elwes, Richard Lewis, Roger Rees","Adventure, Comedy, Musical",6.7
+23,In the Line of Fire,1993,128,Wolfgang Petersen,"Clint Eastwood, John Malkovich, Rene Russo","Action, Crime, Drama",7.2
+24,Cool Runnings,1993,98,Jon Turteltaub,"John Candy, Leon, Doug E. Doug","Adventure, Comedy, Family",7.0
+25,Addams Family Values,1993,94,Barry Sonnenfeld,"Anjelica Huston, Raul Julia, Christopher Lloyd","Comedy, Fantasy",6.8
+26,Three Colors: Blue,1993,98,Krzysztof Kieslowski,"Juliette Binoche, Zbigniew Zamachowski, Julie Delpy","Drama, Music, Mystery",7.8
+27,The Sandlot,1993,101,David Mickey Evans,"Tom Guiry, Mike Vitar, Art LaFleur","Comedy, Drama, Family",7.8
+28,Hot Shots! Part Deux,1993,86,Jim Abrahams,"Charlie Sheen, Lloyd Bridges, Valeria Golino","Action, Comedy",6.6
+29,The Pelican Brief,1993,141,Alan J. Pakula,"Julia Roberts, Denzel Washington, Sam Shepard","Crime, Drama, Mystery",6.6
+30,The Piano,1993,121,Jane Campion,"Holly Hunter, Harvey Keitel, Sam Neill","Drama, Music, Romance",7.5
+31,A Perfect World,1993,138,Clint Eastwood,"Kevin Costner, Clint Eastwood, Laura Dern","Crime, Drama, Thriller",7.5
+32,Wayne's World 2,1993,95,Stephen Surjik,"Mike Myers, Dana Carvey, Christopher Walken","Comedy, Music",6.2
+33,The Remains of the Day,1993,134,James Ivory,"Anthony Hopkins, Emma Thompson, John Haycraft","Drama, Romance",7.8
+34,Free Willy,1993,112,Simon Wincer,"Jason James Richter, Lori Petty, Michael Madsen","Adventure, Drama, Family",6.1
+35,Indecent Proposal,1993,117,Adrian Lyne,"Robert Redford, Demi Moore, Woody Harrelson","Drama, Romance",6.0
+36,Rudy,1993,114,David Anspaugh,"Sean Astin, Jon Favreau, Ned Beatty","Biography, Drama, Sport",7.5
+37,The Age of Innocence,1993,139,Martin Scorsese,"Daniel Day-Lewis, Michelle Pfeiffer, Winona Ryder","Drama, Romance",7.2
+38,Menace II Society,1993,97,"Albert Hughes, Allen Hughes","Tyrin Turner, Larenz Tate, June Kyoto Lu","Crime, Drama, Thriller",7.5
+39,Alive,1993,128,Frank Marshall,"Ethan Hawke, Vincent Spano, Josh Hamilton","Biography, Drama, Thriller",7.1
+40,Dennis the Menace,1993,94,Nick Castle,"Walter Matthau, Mason Gamble, Joan Plowright","Comedy, Family",5.7
+41,Super Mario Bros.,1993,104,"Annabel Jankel, Rocky Morton","Bob Hoskins, John Leguizamo, Dennis Hopper","Adventure, Comedy, Family",4.2
+42,Benny & Joon,1993,98,Jeremiah S. Chechik,"Johnny Depp, Mary Stuart Masterson, Aidan Quinn","Comedy, Drama, Romance",7.1
+43,The Three Musketeers,1993,105,Stephen Herek,"Charlie Sheen, Kiefer Sutherland, Chris O'Donnell","Action, Adventure, Romance",6.4
+44,Sister Act 2: Back in the Habit,1993,107,Bill Duke,"Whoopi Goldberg, Kathy Najimy, Maggie Smith","Comedy, Family, Music",5.7
+45,Batman: Mask of the Phantasm,1993,76,"Kevin Altieri, Boyd Kirkland, Frank Paur","Kevin Conroy, Dana Delany, Hart Bochner","Animation, Action, Adventure",7.8
+46,Kalifornia,1993,117,Dominic Sena,"Brad Pitt, Juliette Lewis, Kathy Larson","Crime, Drama, Thriller",6.7
+47,This Boy's Life,1993,115,Michael Caton-Jones,"Robert De Niro, Leonardo DiCaprio, Ellen Barkin","Biography, Drama",7.3
+48,Coneheads,1993,88,Steve Barron,"Dan Aykroyd, Jane Curtin, Robert Knott","Comedy, Sci-Fi",5.5
+49,Hard Target,1993,97,John Woo,"Jean-Claude Van Damme, Lance Henriksen, Yancy Butler","Action, Crime, Thriller",6.2
+50,Dave,1993,110,Ivan Reitman,"Kevin Kline, Sigourney Weaver, Frank Langella","Comedy, Romance",6.9
+51,RoboCop 3,1993,104,Fred Dekker,"Robert John Burke, Nancy Allen, Mario Machado","Action, Crime, Sci-Fi",4.2
+52,Grumpy Old Men,1993,103,Donald Petrie,"Jack Lemmon, Walter Matthau, Ann-Margret","Comedy, Drama, Romance",7.0
+53,Much Ado About Nothing,1993,111,Kenneth Branagh,"Kenneth Branagh, Emma Thompson, Keanu Reeves","Comedy, Drama, Romance",7.3
+54,Homeward Bound: The Incredible Journey,1993,84,Duwayne Dunham,"Michael J. Fox, Sally Field, Don Ameche","Adventure, Comedy, Drama",7.0
+55,Loaded Weapon 1,1993,84,Gene Quintano,"Emilio Estevez, Samuel L. Jackson, Jon Lovitz","Action, Comedy, Crime",6.2
+56,Rising Sun,1993,129,Philip Kaufman,"Sean Connery, Wesley Snipes, Harvey Keitel","Action, Crime, Drama",6.3
+57,Short Cuts,1993,188,Robert Altman,"Andie MacDowell, Julianne Moore, Tim Robbins","Comedy, Drama",7.6
+58,Manhattan Murder Mystery,1993,104,Woody Allen,"Woody Allen, Diane Keaton, Jerry Adler","Comedy, Mystery",7.3
+59,The Good Son,1993,87,Joseph Ruben,"Macaulay Culkin, Elijah Wood, Wendy Crewson","Drama, Thriller",6.4
+60,Arizona Dream,1993,142,Emir Kusturica,"Johnny Depp, Jerry Lewis, Faye Dunaway","Comedy, Drama, Fantasy",7.2
+61,Striking Distance,1993,102,Rowdy Herrington,"Bruce Willis, Sarah Jessica Parker, Dennis Farina","Action, Crime, Mystery",5.9
+62,The Secret Garden,1993,101,Agnieszka Holland,"Kate Maberly, Maggie Smith, Heydon Prowse","Drama, Family, Fantasy",7.3
+63,Naked,1993,131,Mike Leigh,"David Thewlis, Lesley Sharp, Katrin Cartlidge","Comedy, Drama",7.7
+64,So I Married an Axe Murderer,1993,93,Thomas Schlamme,"Mike Myers, Nancy Travis, Anthony LaPaglia","Comedy, Romance",6.5
+65,Searching for Bobby Fischer,1993,109,Steven Zaillian,"Joe Mantegna, Ben Kingsley, Max Pomeranc","Biography, Drama, Sport",7.4
+66,Ninja Scroll,1993,94,Yoshiaki Kawajiri,"Kôichi Yamadera, Emi Shinohara, Takeshi Aono","Animation, Action, Adventure",7.8
+67,The Visitors,1993,107,Jean-Marie Poiré,"Christian Clavier, Jean Reno, Valérie Lemercier","Comedy, Fantasy",7.0
+68,Jason Goes to Hell: The Final Friday,1993,87,Adam Marcus,"John D. LeMay, Kari Keegan, Kane Hodder","Fantasy, Horror, Thriller",4.1
+69,Teenage Mutant Ninja Turtles III,1993,96,Stuart Gillard,"Elias Koteas, Paige Turco, Stuart Wilson","Action, Adventure, Comedy",4.8
+70,"Blood In, Blood Out",1993,180,Taylor Hackford,"Damian Chapa, Jesse Borrego, Benjamin Bratt","Biography, Crime, Drama",7.9
+71,Sliver,1993,107,Phillip Noyce,"Sharon Stone, William Baldwin, Tom Berenger","Drama, Thriller",5.1
+72,Farewell My Concubine,1993,171,Kaige Chen,"Leslie Cheung, Fengyi Zhang, Gong Li","Drama, Music, Romance",8.1
+73,Dragon: The Bruce Lee Story,1993,120,Rob Cohen,"Jason Scott Lee, Lauren Holly, Robert Wagner","Action, Biography, Drama",7.0
+74,Gettysburg,1993,254,Ron Maxwell,"Tom Berenger, Martin Sheen, Stephen Lang","Drama, History, War",7.6
+75,Rookie of the Year,1993,103,Daniel Stern,"Thomas Ian Nicholas, Gary Busey, Albert Hall","Comedy, Family, Fantasy",6.1
+76,Leprechaun,1993,92,Mark Jones,"Warwick Davis, Jennifer Aniston, Ken Olandt","Comedy, Fantasy, Horror",4.8
+77,The Man Without a Face,1993,115,Mel Gibson,"Mel Gibson, Nick Stahl, Margaret Whitton",Drama,6.7
+78,Look Who's Talking Now,1993,96,Tom Ropelewski,"John Travolta, Kirstie Alley, David Gallagher","Comedy, Family, Romance",4.4
+79,Point of No Return,1993,109,John Badham,"Bridget Fonda, Gabriel Byrne, Dermot Mulroney","Action, Crime, Drama",6.1
+80,Baazigar,1993,175,"Abbas Alibhai Burmawalla, Mastan Alibhai Burmawalla","Shah Rukh Khan, Kajol, Dalip Tahil","Crime, Drama, Musical",7.6
+81,Beethoven's 2nd,1993,89,Rod Daniel,"Charles Grodin, Bonnie Hunt, Nicholle Tom","Comedy, Family, Romance",5.0
+82,Fire in the Sky,1993,109,Robert Lieberman,"D.B. Sweeney, Robert Patrick, Craig Sheffer","Biography, Drama, Fantasy",6.5
+83,Malice,1993,107,Harold Becker,"Alec Baldwin, Nicole Kidman, Bill Pullman","Crime, Mystery, Thriller",6.5
+84,The Vanishing,1993,109,George Sluizer,"Jeff Bridges, Kiefer Sutherland, Nancy Travis","Drama, Horror, Mystery",6.3
+85,Needful Things,1993,121,Fraser C. Heston,"Max von Sydow, Ed Harris, Bonnie Bedelia","Crime, Drama, Fantasy",6.3
+86,Nowhere to Run,1993,94,Robert Harmon,"Jean-Claude Van Damme, Rosanna Arquette, Kieran Culkin","Action, Drama, Romance",5.7
+87,Red Rock West,1993,98,John Dahl,"Nicolas Cage, Dennis Hopper, Lara Flynn Boyle","Crime, Drama, Thriller",7.0
+88,Darr,1993,178,Yash Chopra,"Sunny Deol, Juhi Chawla, Shah Rukh Khan","Action, Drama, Romance",7.6
+89,Sniper,1993,98,Luis Llosa,"Tom Berenger, Billy Zane, J.T. Walsh","Action, Thriller, War",6.1
+90,What's Love Got to Do with It,1993,118,Brian Gibson,"Angela Bassett, Laurence Fishburne, RaéVen Kelly","Biography, Drama, Music",7.3
+91,The House of the Spirits,1993,145,Bille August,"Jeremy Irons, Meryl Streep, Maria Conchita Alonso","Drama, Romance",6.9
+92,Fearless,1993,122,Peter Weir,"Jeff Bridges, Isabella Rossellini, Rosie Perez","Drama, Thriller",7.0
+93,Sonatine,1993,94,Takeshi Kitano,"Takeshi Kitano, Aya Kokumai, Tetsu Watanabe","Action, Comedy, Crime",7.5
+94,Sommersby,1993,114,Jon Amiel,"Richard Gere, Jodie Foster, Lanny Flaherty","Drama, Mystery, Romance",6.3
+95,Son in Law,1993,95,Steve Rash,"Pauly Shore, Carla Gugino, Lane Smith","Comedy, Drama, Romance",5.9
+96,Six Degrees of Separation,1993,112,Fred Schepisi,"Will Smith, Stockard Channing, Donald Sutherland","Comedy, Drama, Mystery",6.8
+97,The Crush,1993,89,Alan Shapiro,"Cary Elwes, Alicia Silverstone, Jennifer Rubin","Crime, Drama, Romance",5.8
+98,Mad Dog and Glory,1993,97,John McNaughton,"Robert De Niro, Uma Thurman, Bill Murray","Comedy, Crime, Drama",6.2
+99,Body Snatchers,1993,87,Abel Ferrara,"Gabrielle Anwar, Meg Tilly, Terry Kinney","Horror, Sci-Fi",6.0
+100,Killing Zoe,1993,96,Roger Avary,"Eric Stoltz, Julie Delpy, Martin Raymond","Crime, Drama, Thriller",6.4
+101,Shadowlands,1993,131,Richard Attenborough,"Anthony Hopkins, Debra Winger, Julian Fellowes","Biography, Drama, Romance",7.3
+102,The Dark Half,1993,122,George A. Romero,"Timothy Hutton, Patrick Brannan, Larry John Meyers","Horror, Mystery, Thriller",6.0
+103,The Beverly Hillbillies,1993,92,Penelope Spheeris,"Diedrich Bader, Erika Eleniak, Jim Varney","Comedy, Family",5.1
+104,Judgment Night,1993,110,Stephen Hopkins,"Emilio Estevez, Cuba Gooding Jr., Denis Leary","Action, Crime, Drama",6.6
+105,Heart and Souls,1993,104,Ron Underwood,"Robert Downey Jr., Charles Grodin, Alfre Woodard","Comedy, Drama, Fantasy",7.0
+106,The Joy Luck Club,1993,139,Wayne Wang,"Tamlyn Tomita, Rosalind Chao, Kieu Chinh",Drama,7.7
+107,Little Buddha,1993,123,Bernardo Bertolucci,"Keanu Reeves, Bridget Fonda, Ruocheng Ying",Drama,6.1
+108,Made in America,1993,111,Richard Benjamin,"Whoopi Goldberg, Ted Danson, Will Smith",Comedy,5.1
+109,The Wedding Banquet,1993,106,Ang Lee,"Winston Chao, May Chin, Ah-Lei Gua","Comedy, Drama, Romance",7.6
+110,Swing Kids,1993,112,Thomas Carter,"Robert Sean Leonard, Christian Bale, Frank Whaley","Drama, Music",6.8
+111,Return of the Living Dead III,1993,97,Brian Yuzna,"J. Trevor Edmond, Melinda Clarke, Kent McCord",Horror,5.9
+112,Iron Monkey,1993,85,Yuen Woo-Ping,"Rongguang Yu, Donnie Yen, Jean Wang","Action, Crime, Drama",7.5
+113,Poetic Justice,1993,109,John Singleton,"Janet Jackson, Tupac Shakur, Regina King","Drama, Romance",6.1
+114,Body of Evidence,1993,99,Uli Edel,"Madonna, Willem Dafoe, Joe Mantegna","Drama, Thriller",4.6
+115,We're Back! A Dinosaur's Story,1993,72,"Phil Nibbelink, Simon Wells, Dick Zondag","John Goodman, Charles Fleischer, Blaze Berdahl","Animation, Adventure, Comedy",6.0
+116,Ramayana: The Legend of Prince Rama,1993,135,"Ram Mohan, Yûgô Sakô, Koichi Saski","Arun Govil, Nikhil Kapoor, Edie Mirman","Animation, Action, Adventure",9.1
+117,Untamed Heart,1993,102,Tony Bill,"Christian Slater, Marisa Tomei, Rosie Perez","Drama, Romance",6.8
+118,For Love or Money,1993,96,Barry Sonnenfeld,"Michael J. Fox, Gabrielle Anwar, Anthony Higgins","Comedy, Drama, Romance",6.2
+119,Another Stakeout,1993,108,John Badham,"Richard Dreyfuss, Emilio Estevez, Rosie O'Donnell","Comedy, Crime",5.6
+120,Romeo Is Bleeding,1993,110,Peter Medak,"Gary Oldman, Lena Olin, Wallace Wood","Crime, Drama, Romance",6.5
+121,Bad Boy Bubby,1993,114,Rolf de Heer,"Nicholas Hope, Claire Benito, Ralph Cotterill","Comedy, Crime, Drama",7.3
+122,Kika,1993,114,Pedro Almodóvar,"Peter Coyote, Verónica Forqué, Victoria Abril",Comedy,6.5
+123,Heaven & Earth,1993,140,Oliver Stone,"Hiep Thi Le, Tommy Lee Jones, Haing S. Ngor","Action, Biography, Drama",6.8
+124,Weekend at Bernie's II,1993,97,Robert Klane,"Andrew McCarthy, Jonathan Silverman, Terry Kiser","Adventure, Comedy, Fantasy",4.8
+125,Geronimo: An American Legend,1993,115,Walter Hill,"Jason Patric, Gene Hackman, Robert Duvall","Drama, History, Western",6.6
+126,Boxing Helena,1993,107,Jennifer Lynch,"Julian Sands, Sherilyn Fenn, Bill Paxton","Drama, Mystery, Romance",4.8
+127,Manichithrathazhu,1993,169,Fazil,"Mohanlal, Shobana, Suresh Gopi","Comedy, Horror, Mystery",8.7
+128,Cannibal! The Musical,1993,95,Trey Parker,"Trey Parker, Dian Bachar, Stephen Blackpool","Comedy, Horror, Musical",6.9
+129,City Hunter,1993,100,Jing Wong,"Jackie Chan, Richard Norton, Joey Wang","Action, Comedy, Crime",6.3
+130,Matinee,1993,99,Joe Dante,"John Goodman, Cathy Moriarty, Simon Fenton","Comedy, Drama",6.9
+131,Dragon Ball Z: Broly - The Legendary Super Saiyan,1993,72,Shigeyasu Yamauchi,"Masako Nozawa, Toshio Furukawa, Mayumi Tanaka","Animation, Action, Fantasy",7.4
+132,My Life,1993,117,Bruce Joel Rubin,"Michael Keaton, Nicole Kidman, Bradley Whitford",Drama,6.8
+133,The Program,1993,112,David S. Ward,"James Caan, Halle Berry, Omar Epps","Action, Drama, Romance",6.5
+134,M. Butterfly,1993,101,David Cronenberg,"Jeremy Irons, John Lone, Barbara Sukowa","Drama, Romance",6.7
+135,Tai Chi Master,1993,96,Yuen Woo-Ping,"Jet Li, Michelle Yeoh, Siu-Ho Chin","Action, Comedy, Drama",7.2
+136,CB4,1993,89,Tamra Davis,"Chris Rock, Allen Payne, Deezer D","Comedy, Music",6.2
+137,The Scent of Green Papaya,1993,104,Anh Hung Tran,"Nu Yên-Khê Tran, Man San Lu, Thi Loc Truong","Drama, Music, Romance",7.3
+138,Mr. Nanny,1993,84,Michael Gottlieb,"Hulk Hogan, Sherman Hemsley, Afa Anoai","Action, Comedy, Family",3.8
+139,Undercover Blues,1993,90,Herbert Ross,"Kathleen Turner, Dennis Quaid, Fiona Shaw","Comedy, Crime",6.0
+140,Amos & Andrew,1993,96,E. Max Frye,"Nicolas Cage, Samuel L. Jackson, Michael Lerner","Comedy, Crime",5.7
+141,The Real McCoy,1993,105,Russell Mulcahy,"Kim Basinger, Val Kilmer, Terence Stamp","Crime, Drama, Thriller",5.5
+142,Dear Diary,1993,100,Nanni Moretti,"Nanni Moretti, Renato Carpentieri, Antonio Neiwiller","Biography, Comedy, Drama",7.2
+143,The Adventures of Huck Finn,1993,108,Stephen Sommers,"Elijah Wood, Courtney B. Vance, Robbie Coltrane","Adventure, Comedy, Drama",6.2
+144,"Faraway, So Close!",1993,140,Wim Wenders,"Otto Sander, Bruno Ganz, Peter Falk","Drama, Fantasy, Romance",7.2
+145,Cop & ½,1993,97,Henry Winkler,"Burt Reynolds, Norman D. Golden II, Ruby Dee","Comedy, Crime, Family",4.2
+146,Surf Ninjas,1993,87,Neal Israel,"Ernie Reyes Sr., Rob Schneider, Ernie Reyes Jr.","Action, Adventure, Comedy",5.1
+147,The Meteor Man,1993,100,Robert Townsend,"Robert Townsend, Marla Gibbs, Eddie Griffin","Action, Comedy, Fantasy",5.2
+148,King of the Hill,1993,103,Steven Soderbergh,"Jesse Bradford, Jeroen Krabbé, Lisa Eichhorn","Drama, History",7.3
+149,The Thing Called Love,1993,116,Peter Bogdanovich,"River Phoenix, Samantha Mathis, Dermot Mulroney","Comedy, Drama, Music",6.4
+150,Who's the Man?,1993,85,Ted Demme,"Ed Lover, Doctor Dré, Badja Djola","Comedy, Drama, Mystery",5.4
+151,Freaked,1993,80,"Tom Stern, Alex Winter","Brooke Shields, William Sadler, Eduardo Ricard","Comedy, Sci-Fi",6.4
+152,The Legend,1993,100,Corey Yuen,"Jet Li, Josephine Siao, Michelle Reis","Action, Comedy, History",7.1
+153,Trauma,1993,106,Dario Argento,"Christopher Rydell, Asia Argento, Piper Laurie","Horror, Mystery, Thriller",5.8
+154,Fatal Instinct,1993,91,Carl Reiner,"Armand Assante, Sherilyn Fenn, Kate Nelligan","Comedy, Crime, Thriller",5.7
+155,Beyond the Law,1993,108,Larry Ferguson,"Charlie Sheen, Linda Fiorentino, Michael Madsen","Crime, Drama, Thriller",6.4
+156,Airborne,1993,91,Rob Bowman,"Shane McDermott, Seth Green, Brittney Powell","Adventure, Comedy, Sport",6.3
+157,Even Cowgirls Get the Blues,1993,106,Gus Van Sant,"Uma Thurman, Lorraine Bracco, Pat Morita","Comedy, Drama, Romance",4.3
+158,Crime Story,1993,103,"Kirk Wong, Jackie Chan","Jackie Chan, Kent Cheng, Christine Ng","Action, Crime, Drama",6.7
+159,Mr. Jones,1993,114,"Mike Figgis, Jon Amiel","Richard Gere, Lena Olin, Anne Bancroft","Drama, Romance",5.8
+160,Dragon Ball Z: Bojack Unbound,1993,50,Yoshihiro Ueda,"Masako Nozawa, Toshio Furukawa, Mayumi Tanaka","Animation, Action, Fantasy",7.1
+161,Necronomicon: Book of Dead,1993,96,"Christophe Gans, Shûsuke Kaneko, Brian Yuzna","Jeffrey Combs, Tony Azito, Juan Fernández",Horror,5.8
+162,Warlock: The Armageddon,1993,98,Anthony Hickox,"Julian Sands, Chris Young, Paula Marshall","Action, Fantasy, Horror",5.4
+163,Only the Strong,1993,99,Sheldon Lettich,"Mark Dacascos, Stacey Travis, Geoffrey Lewis","Action, Drama",6.5
+164,Boiling Point,1993,92,James B. Harris,"Wesley Snipes, Dennis Hopper, Lolita Davidovich","Action, Crime, Drama",5.0
+165,Devasuram,1993,157,I.V. Sasi,"Mohanlal, Napolean, Revathi","Action, Crime, Drama",8.7
+166,Life with Mikey,1993,91,James Lapine,"Michael J. Fox, Christina Vidal, Nathan Lane","Comedy, Family",5.7
+167,Best of the Best II,1993,101,Robert Radler,"Eric Roberts, Phillip Rhee, Chris Penn","Action, Crime, Drama",5.6
+168,Flirting Scholar,1993,102,Lik-Chi Lee,"Stephen Chow, Gong Li, Pak-Cheung Chan","Comedy, Romance",7.6
+169,Joshua Tree,1993,106,Vic Armstrong,"Dolph Lundgren, George Segal, Kristian Alfonso","Action, Adventure, Crime",5.7
+170,Flesh and Bone,1993,126,Steve Kloves,"Dennis Quaid, Meg Ryan, James Caan","Drama, Mystery, Romance",6.3
+171,Hum Hain Rahi Pyar Ke,1993,163,Mahesh Bhatt,"Aamir Khan, Juhi Chawla, Sharokh Bharucha","Comedy, Drama, Romance",7.3
+172,Madadayo,1993,134,"Akira Kurosawa, Ishirô Honda","Tatsuo Matsumura, Hisashi Igawa, George Tokoro",Drama,7.3
+173,Godzilla vs. Mechagodzilla II,1993,105,"Takao Okawara, Kazuki Ômori","Masahiro Takashima, Ryoko Sano, Megumi Odaka","Action, Adventure, Drama",6.5
+174,Once Upon a Forest,1993,71,Charles Grosvenor,"Michael Crawford, Ben Vereen, Ellen Blain","Animation, Adventure, Drama",6.5
+175,"Clean, Shaven",1993,79,Lodge Kerrigan,"Peter Greene, Alice Levitt, Megan Owen","Crime, Drama, Thriller",7.0
+176,Son of the Pink Panther,1993,93,Blake Edwards,"Roberto Benigni, Herbert Lom, Claudia Cardinale","Comedy, Crime",3.9
+177,Indian Summer,1993,97,Mike Binder,"Alan Arkin, Matt Craven, Diane Lane","Comedy, Drama, Romance",6.6
+178,Ticks,1993,85,Tony Randel,"Rosalind Allen, Ami Dolenz, Seth Green","Horror, Sci-Fi",5.5
+179,Strawberry & Chocolate,1993,108,"Tomás Gutiérrez Alea, Juan Carlos Tabío","Jorge Perugorría, Vladimir Cruz, Mirta Ibarra","Comedy, Drama, Romance",7.4
+180,Guilty as Sin,1993,107,Sidney Lumet,"Rebecca De Mornay, Don Johnson, Stephen Lang","Crime, Drama, Thriller",5.7
+181,Mutant Action,1993,93,Álex de la Iglesia,"Antonio Resines, Álex Angulo, Frédérique Feder","Comedy, Fantasy, Sci-Fi",6.4
+182,Germinal,1993,160,Claude Berri,"Renaud, Gérard Depardieu, Miou-Miou","Drama, Romance",7.1
+183,Pumpkinhead II: Blood Wings,1993,88,Jeff Burr,"Andrew Robinson, Ami Dolenz, Soleil Moon Frye","Fantasy, Horror, Thriller",4.6
+184,The Cement Garden,1993,101,Andrew Birkin,"Charlotte Gainsbourg, Andrew Robertson, Alice Coulthard",Drama,7.0
+185,My Boyfriend's Back,1993,85,Bob Balaban,"Andrew Lowery, Traci Lind, Danny Zorn","Comedy, Fantasy, Horror",5.5
+186,Sune's Summer,1993,83,Stephan Apelgren,"Andreas Hoffer, Peter Haber, Carina Lidbom","Comedy, Family",7.0
+187,The Baby of Mâcon,1993,122,Peter Greenaway,"Julia Ormond, Ralph Fiennes, Philip Stone","Drama, History",6.9
+188,Posse,1993,111,Mario Van Peebles,"Mario Van Peebles, Stephen Baldwin, Charles Lane",Western,5.5
+189,Raining Stones,1993,90,Ken Loach,"Bruce Jones, Julie Brown, Gemma Phoenix","Comedy, Drama",7.3
+190,Man's Best Friend,1993,87,John Lafia,"Ally Sheedy, Lance Henriksen, Robert Costanzo","Comedy, Horror, Sci-Fi",5.2
+191,The Eight Immortals Restaurant: The Untold Story,1993,96,"Danny Lee, Herman Yau","Anthony Chau-Sang Wong, Danny Lee, Emily Kwan","Comedy, Crime, Horror",6.8
+192,The Thief and the Cobbler,1993,99,Richard Williams,"Vincent Price, Matthew Broderick, Jennifer Beals","Animation, Action, Adventure",7.1
+193,The Red Squirrel,1993,114,Julio Medem,"Emma Suárez, Nancho Novo, María Barranco","Comedy, Drama, Music",7.1
+194,The Heroic Trio,1993,88,Johnnie To,"Michelle Yeoh, Anita Mui, Maggie Cheung","Action, Fantasy, Thriller",6.6
+195,Patlabor 2: The Movie,1993,113,"Mamoru Oshii, Mizuho Nishikubo","Mîna Tominaga, Briony Glassco, Julie Ann Taylor","Animation, Action, Drama",7.5
+196,The Legend of Fong Sai-Yuk 2,1993,95,Corey Yuen,"Jet Li, Josephine Siao, Adam Cheng","Action, Adventure, Comedy",6.9
+197,Fear of a Black Hat,1993,88,Rusty Cundieff,"Larry B. Scott, Mark Christopher Lawrence, Rusty Cundieff","Comedy, Music",7.2
+198,Splitting Heirs,1993,87,Robert Young,"Eric Idle, Rick Moranis, Barbara Hershey","Comedy, Crime",5.5
+199,Supercop 2,1993,104,Stanley Tong,"Michelle Yeoh, Rongguang Yu, Emil Chau","Action, Comedy, Crime",6.1
+200,The War Room,1993,96,"Chris Hegedus, D.A. Pennebaker","James Carville, George Stephanopoulos, Heather Beckel","Documentary, History",7.4
+201,Carnosaur,1993,83,"Adam Simon, Darren Patrick Moloney","Diane Ladd, Raphael Sbarge, Jennifer Runyon","Horror, Sci-Fi",3.7
+202,Jack the Bear,1993,99,Marshall Herskovitz,"Danny DeVito, Gary Sinise, Robert J. Steinmiller Jr.","Comedy, Drama",6.5
+203,American Ninja 5,1993,102,Bob Bralver,"David Bradley, Lee Reyes, Anne Dupont","Action, Comedy, Romance",3.0
+204,Dangerous Game,1993,108,Abel Ferrara,"Harvey Keitel, Madonna, James Russo",Drama,5.6
+205,Money for Nothing,1993,100,Ramón Menéndez,"John Cusack, Debi Mazar, Michael Madsen","Comedy, Crime, Drama",5.7
+206,Totally F***ed Up,1993,78,Gregg Araki,"James Duval, Roko Belic, Susan Behshid","Comedy, Drama, Romance",6.5
+207,Doppelganger,1993,104,Avi Nesher,"Drew Barrymore, George Newbern, Dennis Christopher","Horror, Romance, Thriller",4.4
+208,Ghost in the Machine,1993,95,Rachel Talalay,"Karen Allen, Chris Mulkey, Ted Marcoux","Horror, Sci-Fi, Thriller",4.7
+209,Kung Fu Cult Master,1993,107,"Jing Wong, Sammo Kam-Bo Hung","Jet Li, Sharla Cheung, Chingmy Yau","Action, Fantasy, History",6.4
+210,Born Yesterday,1993,100,Luis Mandoki,"Melanie Griffith, John Goodman, Don Johnson","Comedy, Romance",5.2
+211,Twenty Bucks,1993,91,Keva Rosenfeld,"Linda Hunt, Brendan Fraser, Elisabeth Shue","Comedy, Drama",6.3
+212,Damini,1993,175,Rajkumar Santoshi,"Meenakshi Sheshadri, Rishi Kapoor, Sunny Deol","Crime, Drama",7.8
+213,A Home of Our Own,1993,104,Tony Bill,"Kathy Bates, Edward Furlong, Clarissa Lassig","Biography, Drama",7.1
+214,Body Melt,1993,81,Philip Brophy,"Gerard Kennedy, Andrew Daddo, Ian Smith","Horror, Comedy, Sci-Fi",5.3
+215,The Shadow Play,1993,103,Yavuz Turgul,"Sener Sen, Sevket Altug, Larissa Litichevskaya","Drama, Fantasy",7.7
+216,Deadfall,1993,98,Christopher Coppola,"Michael Biehn, Sarah Trigger, Nicolas Cage","Crime, Drama",4.0
+217,Golden Balls,1993,95,Bigas Luna,"Javier Bardem, Maria de Medeiros, Maribel Verdú","Comedy, Drama",6.1
+218,Thirty Two Short Films About Glenn Gould,1993,98,François Girard,"Colm Feore, Derek Keurvorst, Katya Ladan","Biography, Drama, Music",7.3
+219,Khalnayak,1993,190,Subhash Ghai,"Sanjay Dutt, Madhuri Dixit, Jackie Shroff","Action, Adventure, Crime",7.1
+220,The Bride with White Hair,1993,92,Ronny Yu,"Brigitte Lin, Leslie Cheung, Francis Ng","Action, Fantasy, Romance",6.8
+221,Gunmen,1993,94,Deran Sarafian,"Christopher Lambert, Mario Van Peebles, Denis Leary","Action, Comedy, Crime",5.2
+222,Green Snake,1993,99,Hark Tsui,"Joey Wang, Maggie Cheung, Wenzhuo Zhao","Drama, Fantasy, Romance",7.2
+223,A Far Off Place,1993,108,Mikael Salomon,"Reese Witherspoon, Ethan Embry, Jack Thompson","Adventure, Drama, Family",6.5
+224,Lost in Yonkers,1993,114,Martha Coolidge,"Richard Dreyfuss, Mercedes Ruehl, Irene Worth","Comedy, Drama",6.8
+225,The Temp,1993,96,Tom Holland,"Timothy Hutton, Lara Flynn Boyle, Dwight Schultz","Drama, Thriller",5.3
+226,The Dream House,1993,101,Peter Dalle,"Björn Skifs, Suzanne Reuter, Zara Zetterqvist",Comedy,5.6
+227,Hated: GG Allin & the Murder Junkies,1993,52,Todd Phillips,"GG Allin, Merle Allin, Brian Unk Hunter","Documentary, Biography, Music",7.2
+228,Last Hero in China,1993,111,Jing Wong,"Jet Li, Sharla Cheung, Dicky Cheung","Action, Comedy",6.6
+229,Schramm,1993,65,Jörg Buttgereit,"Florian Koerner von Gustorf, Monika M., Micha Brendel","Drama, Horror",5.7
+230,Mr. Wonderful,1993,98,Anthony Minghella,"Matt Dillon, Annabella Sciorra, Mary-Louise Parker","Comedy, Romance",5.9
+231,Father Hood,1993,95,Darrell Roodt,"Patrick Swayze, Halle Berry, Sabrina Lloyd","Adventure, Comedy, Crime",5.0
+232,Vatsalyam,1993,156,Cochin Hanifa,"Mammootty, Geetha, Siddique",Drama,8.4
+233,Wrestling Ernest Hemingway,1993,123,Randa Haines,"Robert Duvall, Richard Harris, Shirley MacLaine","Drama, Romance",7.0
+234,The Eagle Shooting Heroes,1993,103,Jeffrey Lau,"Leslie Cheung, Brigitte Lin, Maggie Cheung","Action, Comedy, Fantasy",7.0
+235,The Blue Kite,1993,140,Zhuangzhuang Tian,"Tian Yi, Wenyao Zhang, Xiaoman Chen","Drama, History",7.5
+236,Ruby in Paradise,1993,114,Victor Nunez,"Ashley Judd, Todd Field, Bentley Mitchum","Drama, Romance",6.9
+237,Dark Waters,1993,94,Mariano Baino,"Louise Salter, Venera Simmons, Mariya Kapnist","Drama, Horror, Mystery",6.0
+238,Aspen Extreme,1993,113,Patrick Hasburgh,"Paul Gross, Peter Berg, Finola Hughes","Drama, Romance, Sport",6.0
+239,King Uncle,1993,171,Rakesh Roshan,"Jackie Shroff, Shah Rukh Khan, Nagma","Comedy, Drama, Family",5.3
+240,Fanfan,1993,85,Alexandre Jardin,"Sophie Marceau, Vincent Perez, Marine Delterme","Comedy, Romance",6.7
+241,India,1993,90,Paul Harather,"Josef Hader, Alfred Dorfer, Maria Hofstätter","Comedy, Drama",7.9
+242,American Yakuza,1993,96,Frank A. Cappello,"Viggo Mortensen, Ryô Ishibashi, Michael Nouri","Action, Crime, Drama",5.6
+243,"The Wonderful, Horrible Life of Leni Riefenstahl",1993,183,Ray Müller,"Leni Riefenstahl, Marlene Dietrich, Arnold Fanck","Documentary, Biography, History",8.0
+244,From Karkheh to Rhein,1993,93,Ebrahim Hatamikia,"Ali Dehkordi, Homa Rusta, Hans Noiman","Drama, War",7.1
+245,The Night We Never Met,1993,99,Warren Leight,"Matthew Broderick, Jeanne Tripplehorn, Annabella Sciorra","Comedy, Romance",6.0
+246,Wittgenstein,1993,72,Derek Jarman,"Clancy Chassay, Jill Balcon, Sally Dexter","Biography, Comedy, Drama",6.9
+247,House of Cards,1993,109,Michael Lessac,"Kathleen Turner, Tommy Lee Jones, Asha Menina",Drama,6.1
+248,Sailor Moon R: The Movie: The Promise of the Rose,1993,61,Kunihiko Ikuhara,"Kotono Mitsuishi, Tôru Furuya, Michie Tomizawa","Animation, Action, Comedy",7.6
+249,Blue,1993,79,Derek Jarman,"Derek Jarman, Tilda Swinton, John Quentin","Biography, Drama",7.3
+250,Fire on the Amazon,1993,87,Luis Llosa,"Craig Sheffer, Sandra Bullock, Juan Fernández","Action, Adventure, Drama",3.5
+251,La estrategia del caracol,1993,116,Sergio Cabrera,"Fausto Cabrera, Frank Ramírez, Delfina Guido","Comedy, Drama",7.7
+252,Psycho Cop Returns,1993,80,Adam Rifkin,"Robert R. Shafer, Barbara Niven, Rod Sweitzer","Action, Drama, Horror",5.1
+253,The Saint of Fort Washington,1993,103,Tim Hunter,"Danny Glover, Matt Dillon, Rick Aviles",Drama,7.0
+254,Love and Human Remains,1993,100,Denys Arcand,"Thomas Gibson, Ruth Marshall, Cameron Bancroft","Comedy, Drama",6.6
+255,The Young Americans,1993,103,Danny Cannon,"Harvey Keitel, Iain Glen, John Wood","Crime, Drama",5.7
+256,Gentleman,1993,160,S. Shankar,"Arjun Sarja, Madhoo, Subhasri","Action, Drama, Thriller",7.8
+257,Undefeatable,1993,95,Godfrey Ho,"Cynthia Rothrock, Don Niam, John Miller","Action, Crime, Thriller",4.5
+258,The Nutcracker,1993,92,Emile Ardolino,"Darci Kistler, Damian Woetzel, Kyra Nichols","Family, Fantasy, Music",5.9
+259,The Music of Chance,1993,98,Philip Haas,"James Spader, Mandy Patinkin, M. Emmet Walsh",Drama,7.0
+260,Kein Pardon,1993,97,Hape Kerkeling,"Hape Kerkeling, Heinz Schenk, Elisabeth Volkmann",Comedy,7.2
+261,The Trial,1993,120,David Hugh Jones,"Kyle MacLachlan, Anthony Hopkins, Jason Robards","Drama, Thriller",6.0
+262,Texas - Doc Snyder hält die Welt in Atem,1993,86,"Ralf Huettner, Helge Schneider","Helge Schneider, Peter Thoms, Buddy Casino","Comedy, Western",6.6
+263,"Bodies, Rest & Motion",1993,95,Michael Steinberg,"Phoebe Cates, Bridget Fonda, Tim Roth",Drama,5.7
+264,Calendar Girl,1993,90,John Whitesell,"Jason Priestley, Gabriel Olds, Jerry O'Connell","Comedy, Drama",5.2
+265,Ernest Rides Again,1993,96,John R. Cherry III,"Jim Varney, Ron James, Tom Butler","Comedy, Family",4.8
+266,Ed and His Dead Mother,1993,93,Jonathan Wacks,"Eric Christmas, Steve Buscemi, Harper Roisman","Comedy, Horror",6.0
+267,My Crazy Life,1993,92,Allison Anders,"Angel Aviles, Seidy Lopez, Jacob Vargas","Crime, Drama",6.5
+268,Maya,1993,130,Ketan Mehta,"Deepa Sahi, Farooq Shaikh, Raj Babbar","Drama, Mystery, Romance",5.4
+269,Aankhen,1993,170,David Dhawan,"Govinda, Chunky Pandey, Raj Babbar","Action, Comedy, Crime",6.8
+270,Calendar,1993,74,Atom Egoyan,"Arsinée Khanjian, Ashot Adamyan, Atom Egoyan","Comedy, Drama, Romance",6.7
+271,Whistle If You Come Back,1993,84,Orhan Oguz,"Fikret Kuskan, Mevlüt Demiryay, Menderes Samancilar",Drama,7.3
+272,Stolen Spring,1993,89,Peter Schrøder,"Frits Helmuth, Tomas Villum Jensen, Jesper Langberg",Drama,7.4
+273,Scorned,1993,100,Andrew Stevens,"Andrew Stevens, Shannon Tweed, Kim Morgan Greene","Drama, Thriller",5.2
+274,Three Tickets to Hollywood,1993,118,Bozidar 'Bota' Nikolic,"Branislav Lecic, Bogdan Diklic, Ljubisa Samardzic",Comedy,7.8
+275,The Searchers,1993,108,"Peter Cartriers, Daniel Fridell","Liam Norberg, Ray Jones IV, Thorsten Flinck","Action, Crime, Drama",4.7
+276,Amerikali,1993,87,Serif Gören,"Sener Sen, Lale Mansur, Taner Barlas",Comedy,5.3
+277,Ethan Frome,1993,99,John Madden,"Liam Neeson, Patricia Arquette, Gil Rood","Drama, Romance",6.3
+278,The Mad Monk,1993,89,"Siu-Tung Ching, Johnnie To","Stephen Chow, Maggie Cheung, Man-Tat Ng","Comedy, Fantasy",6.2
+279,Prehysteria!,1993,84,"Albert Band, Charles Band","Brett Cullen, Colleen Morris, Samantha Mills","Adventure, Comedy, Family",4.6
+280,Tirangaa,1993,168,Mehul Kumar,"Raaj Kumar, Nana Patekar, Deepak Shirke","Action, Drama, Thriller",6.8
+281,Philadelphia Experiment II,1993,97,Stephen Cornwell,"Brad Johnson, Marjean Holden, Gerrit Graham","Action, Adventure, Sci-Fi",4.5
+282,Wide Sargasso Sea,1993,99,John Duigan,"Karina Lombard, Nathaniel Parker, Rachel Ward","Drama, Romance, Thriller",5.6
+283,The Slingshot,1993,102,Åke Sandgren,"Jesper Salén, Stellan Skarsgård, Basia Frydman",Drama,6.5
+284,My Favorite Season,1993,127,André Téchiné,"Catherine Deneuve, Daniel Auteuil, Marthe Villalonga","Drama, Romance",6.9
+285,The Advocate,1993,102,Leslie Megahey,"Colin Firth, Amina Annabi, Jim Carter","Comedy, Crime, Drama",6.6
+286,Fight Back to School III,1993,89,Jing Wong,"Stephen Chow, Anita Mui, Sharla Cheung","Comedy, Crime, Mystery",6.2
+287,Three of Hearts,1993,102,"Yurek Bogayevicz, Mitch Glazer","William Baldwin, Kelly Lynch, Sherilyn Fenn","Comedy, Romance",5.5
+288,Knights,1993,90,Albert Pyun,"Kathy Long, Kris Kristofferson, Lance Henriksen","Action, Adventure, Sci-Fi",4.6
+289,Suture,1993,96,"Scott McGehee, David Siegel","Dennis Haysbert, Mel Harris, Sab Shimono","Drama, Thriller",6.5
+290,Latcho Drom,1993,103,Tony Gatlif,La Caita,"Documentary, Music",8.1
+291,The Puppetmaster,1993,142,Hsiao-Hsien Hou,"Tien-Lu Li, Giong Lim, Kuei-Chung Cheng","Biography, Drama, War",7.0
+292,"Na Deribasovskoy khoroshaya pogoda, ili Na Brayton-Bich opyat idut dozhdi",1993,91,Leonid Gaidai,"Dmitriy Kharatyan, Kelly McGrill, Andrey Myagkov","Action, Comedy, Crime",6.0
+293,A Dangerous Woman,1993,102,Stephen Gyllenhaal,"Debra Winger, Barbara Hershey, Gabriel Byrne","Drama, Romance",5.7
+294,Kitchen with Apartment,1993,94,Philippe Muyl,"Jean-Pierre Bacri, Agnès Jaoui, Zabou Breitman","Comedy, Drama",7.1
+295,Sose halunk meg,1993,95,Róbert Koltai,"Róbert Koltai, Mihály Szabados, Gábor Máté","Comedy, Drama",7.6
+296,Dhruvam,1993,138,Joshiy,"Mammootty, Jayaram, Suresh Gopi","Action, Drama, Thriller",8.1
+297,Witchboard 2,1993,98,Kevin Tenney,"Ami Dolenz, Christopher Michael Moore, Laraine Newman","Horror, Mystery",5.0
+298,Yankee Zulu,1993,100,Gray Hofmeyr,"Leon Schuster, John Matshikiza, Wilson Dunster","Comedy, Drama",6.4
+299,Snapdragon,1993,98,Worth Keeter,"Steven Bauer, Chelsea Field, Pamela Anderson","Mystery, Thriller",3.8
+300,Smoking/No Smoking,1993,298,Alain Resnais,"Pierre Arditi, Sabine Azéma, Peter Hudson","Comedy, Drama",7.4
+301,The Jungle Creature: Hugo,1993,68,"Stefan Fjeldmark, Flemming Quist Møller","Jesper Klein, Kaya Brüel, Jytte Abildstrøm","Animation, Adventure, Family",6.2
+302,The Earth's Most Beloved Son,1993,138,Serban Marinescu,"Stefan Iordache, Gheorghe Dinica, Dorel Visan",Drama,8.4
+303,Hexed,1993,90,Alan Spencer,"Arye Gross, Claudia Christian, Adrienne Shelly","Comedy, Crime, Mystery",5.5
+304,Wilder Napalm,1993,109,Glenn Gordon Caron,"Debra Winger, Dennis Quaid, Arliss Howard","Comedy, Drama, Fantasy",5.5
+305,The Ballad of Little Jo,1993,121,Maggie Greenwald,"Suzy Amis, Bo Hopkins, Ian McKellen","Drama, Romance, Western",6.7
+306,Reckless Kelly,1993,80,Yahoo Serious,"Yahoo Serious, Melora Hardin, Alexei Sayle",Comedy,5.1
+307,"The Tree, the Mayor and the Mediatheque",1993,105,Éric Rohmer,"Pascal Greggory, Arielle Dombasle, Fabrice Luchini","Comedy, Drama",6.9
+308,Wild Tango,1993,124,Marcelo Piñeyro,"Fernán Mirás, Cecilia Dopazo, Imanol Arias","Biography, Drama, Music",6.7
+309,Naked in New York,1993,95,Daniel Algrant,"Eric Stoltz, Mary-Louise Parker, Ralph Macchio","Comedy, Romance",5.6
+310,Waqt Hamara Hai,1993,148,Bharat Rangachary,"Akshay Kumar, Suniel Shetty, Ayesha Jhulka","Action, Comedy, Romance",5.9
+311,The Innocent,1993,119,John Schlesinger,"Isabella Rossellini, Anthony Hopkins, Campbell Scott",Drama,5.6
+312,Swordsman III: The East Is Red,1993,98,"Siu-Tung Ching, Raymond Lee","Brigitte Lin, Joey Wang, Rongguang Yu","Action, Romance",6.1
+313,Robot Wars,1993,72,Albert Band,"Don Michael Paul, Barbara Crampton, James Staley","Action, Sci-Fi",3.9
+314,Heroic Trio 2: Executioners,1993,101,"Siu-Tung Ching, Johnnie To","Maggie Cheung, Michelle Yeoh, Anita Mui","Action, Sci-Fi, Thriller",5.8
+315,American Cyborg: Steel Warrior,1993,94,Boaz Davidson,"Joe Lara, Nicole Hansen, John Saint Ryan","Action, Sci-Fi",4.3
+316,TC 2000,1993,95,T.J. Scott,"Billy Blanks, Bolo Yeung, Jalal Merhi","Action, Sci-Fi",4.5
+317,Josh and S.A.M.,1993,96,Billy Weber,"Jacob Tierney, Noah Fleiss, Martha Plimpton","Adventure, Comedy, Drama",5.7
+318,Fantozzi in Heaven,1993,98,Neri Parenti,"Paolo Villaggio, Milena Vukotic, Anna Mazzamauro","Comedy, Romance",5.6
+319,Window to Paris,1993,115,"Yuri Mamin, Arkadiy Tigay","Sergey Dreyden, Agnès Soral, Viktor Mikhailov","Comedy, Drama, Fantasy",7.3
+320,Excessive Force,1993,87,Jon Hess,"Thomas Ian Griffith, James Earl Jones, Lance Henriksen",Action,5.3
+321,Hercules Returns,1993,82,David Parker,"David Argue, Michael Carman, Mary Coustas",Comedy,7.2
+322,The Secret Adventures of Tom Thumb,1993,60,Dave Borthwick,"Nick Upton, Deborah Collard, Frank Passingham","Animation, Adventure, Drama",7.2
+323,Future Cops,1993,95,Jing Wong,"Andy Lau, Jacky Cheung, Aaron Kwok","Action, Comedy, Sci-Fi",6.0
+324,The Hidden II,1993,93,Seth Pinsker,"Raphael Sbarge, Kate Hodge, Jovin Montanaro","Crime, Horror, Sci-Fi",3.1
+325,Abraham's Valley,1993,187,Manoel de Oliveira,"Leonor Silveira, Cécile Sanz de Alba, Luís Miguel Cintra",Drama,7.3
+326,"Oh, Woe Is Me",1993,95,Jean-Luc Godard,"Gérard Depardieu, Laurence Masliah, Bernard Verley","Comedy, Drama, Fantasy",6.1
+327,Night Terrors,1993,98,Tobe Hooper,"Robert Englund, Zoe Trilling, Alona Kimhi",Horror,3.6
+328,Shootfighter: Fight to the Death,1993,96,Patrick Alan,"Bolo Yeung, Maryam d'Abo, William Zabka",Action,5.5
+329,Chained Heat 2,1993,99,Lloyd A. Simandl,"Brigitte Nielsen, Paul Koslo, Kimberley Kates","Crime, Drama, Horror",3.5
+330,Todos a la cárcel,1993,99,Luis García Berlanga,"José Sazatornil, José Sacristán, Agustín González","Comedy, Drama",6.0
+331,Berlin in Berlin,1993,99,Sinan Çetin,"Hülya Avsar, Cem Özer, Armin Block",Drama,5.5
+332,Fit to Kill,1993,97,Andy Sidaris,"Dona Speir, Roberta Vasquez, Bruce Penhall","Action, Crime, Drama",4.2
+333,Thiruda Thiruda,1993,140,Mani Ratnam,"Prashanth, Anand, Heera Rajgopal","Action, Crime, Drama",7.1
+334,Extreme Justice,1993,96,Mark L. Lester,"Lou Diamond Phillips, Scott Glenn, Chelsea Field","Action, Crime, Drama",5.6
+335,Midhunam,1993,147,Priyadarshan,"Mohanlal, Sreenivasan, Urvashi","Comedy, Drama, Musical",7.9
+336,Ad Fundum,1993,98,Erik Van Looy,"Tom Van Landuyt, Mathias Sercu, Tom Van Bauwel",Drama,6.7
+337,Brandbilen som försvann,1993,90,Hajo Gies,"Gösta Ekman, Kjell Bergqvist, Rolf Lassgård","Crime, Drama, Thriller",5.9
+338,Once Upon a Time in China IV,1993,101,Bun Yuen,"Wenzhuo Zhao, Jean Wang, Mok Siu-Chung",Action,5.9
+339,A House in the Hills,1993,95,Ken Wiederhorn,"Michael Madsen, Helen Slater, Jeffrey Tambor","Romance, Thriller",5.5
+340,Shhh!,1993,135,Upendra,"Kumar Govind, Kashinath, Suresh Heblikar","Horror, Mystery, Thriller",8.6
+341,Mannen på balkongen,1993,91,Daniel Alfredson,"Gösta Ekman, Kjell Bergqvist, Rolf Lassgård","Crime, Drama, Mystery",6.2
+342,Hear No Evil,1993,97,Robert Greenwald,"Marlee Matlin, D.B. Sweeney, Martin Sheen",Thriller,5.0
+343,Tango,1993,88,Patrice Leconte,"Philippe Noiret, Richard Bohringer, Thierry Lhermitte","Comedy, Crime",6.2
+344,Cyborg Cop,1993,95,Sam Firstenberg,"David Bradley, John Rhys-Davies, Todd Jensen","Action, Sci-Fi",4.2
+345,Sainik,1993,145,Sikander Bharti,"Akshay Kumar, Ashwini Bhave, Farheen","Action, Drama, Romance",6.0
+346,Sendhoorapandi,1993,138,S.A. Chandrashekhar,"Joseph Vijay, Vijayakanth, Gautami","Action, Drama, Romance",7.7
+347,The Cool Surface,1993,88,Erik Greenberg Anjou,"Robert Patrick, Steve Tyler, Teri Hatcher",Thriller,4.8
+348,Silent Tongue,1993,102,Sam Shepard,"Alan Bates, Richard Harris, River Phoenix","Drama, Horror, Western",5.2
+349,Showdown,1993,98,Robert Radler,"Billy Blanks, Kenn Scott, Christine Taylor",Action,5.2
+350,The Silver Brumby,1993,93,John Tatoulis,"Caroline Goodall, Russell Crowe, Amiel Daemion","Drama, Family",5.8
+351,No More Mr. Nice Guy,1993,92,Detlev Buck,"Joachim Król, Horst Krause, Konstantin Kotljarov",Comedy,7.3
+352,Barschel: A Murder in Geneva,1993,74,"Uwe Boll, Frank Lustig","Michael Rasmussen, Peter Schwab, Karl-Friedrich Gerster",Drama,1.6
+353,The Dead Mother,1993,111,Juanma Bajo Ulloa,"Karra Elejalde, Ana Álvarez, Lio","Drama, Thriller",6.9
+354,Roseanna,1993,95,Daniel Alfredson,"Gösta Ekman, Kjell Bergqvist, Rolf Lassgård","Crime, Drama, Thriller",6.2
+355,Beach Babes from Beyond,1993,75,David DeCoteau,"Joe Estevez, Don Swayze, Joey Travolta","Comedy, Sci-Fi",3.7
+356,Butterfly and Sword,1993,88,Michael Mak,"Tony Leung Chiu-wai, Michelle Yeoh, Joey Wang","Action, Adventure, Fantasy",5.9
+357,Murder at the Savoy,1993,91,Pelle Berglund,"Gösta Ekman, Kjell Bergqvist, Rolf Lassgård","Crime, Drama, Mystery",5.9
+358,Jamba Lakidi Pamba,1993,131,E.V.V. Satyanarayana,"V.K. Naresh, Aamani, Brahmanandam",Comedy,8.3
+359,Bhaji on the Beach,1993,101,Gurinder Chadha,"Kim Vithana, Jimmi Harkishin, Sarita Khajuria","Adventure, Comedy, Drama",6.4
+360,Head Above Water,1993,97,Nils Gaup,"Lene Elise Bergum, Svein Roger Karlsen, Morten Abel","Comedy, Thriller",6.5
+361,Parampara,1993,155,Yash Chopra,"Sunil Dutt, Vinod Khanna, Aamir Khan","Action, Drama, Romance",5.1
+362,Zapatlela,1993,168,Mahesh Kothare,"Laxmikant Berde, Mahesh Kothare, Kishori Ambiye","Comedy, Drama, Horror",7.7
+363,Fiorile,1993,118,"Paolo Taviani, Vittorio Taviani","Claudio Bigagli, Galatea Ranzi, Michael Vartan",Drama,6.8
+364,Métisse,1993,94,Mathieu Kassovitz,"Julie Mauduech, Hubert Koundé, Mathieu Kassovitz","Comedy, Romance",6.1
+365,The Bride with White Hair II,1993,80,David Wu,"Brigitte Lin, Leslie Cheung, Christy Chung","Action, Fantasy, Romance",5.8
+366,Household Saints,1993,124,Nancy Savoca,"Tracey Ullman, Vincent D'Onofrio, Lili Taylor",Drama,6.9
+367,Time Runner,1993,90,Michael Mazo,"Mark Hamill, Rae Dawn Chong, Brion James","Action, Adventure, Sci-Fi",4.1
+368,Slaughter of the Innocents,1993,104,James Glickenhaus,"Jan Broberg, Elizabeth Johnson, Jesse Cameron-Glickenhaus","Crime, Horror, Mystery",5.1
+369,È pericoloso sporgersi,1993,104,Nae Caranfil,"Nathalie Bonnifay, George Alexandru, Marius Stanescu","Comedy, Drama",7.9
+370,Frauds,1993,90,Stephan Elliott,"Mitchell McMahon, Andrew McMahon, Rebel Penfold-Russell","Comedy, Crime, Thriller",5.9
+371,Arctic Blue,1993,95,Peter Masterson,"Rutger Hauer, Dylan Walsh, Rya Kihlstedt","Action, Thriller",5.1
+372,Enemy Gold,1993,92,Christian Drew Sidaris,"Bruce Penhall, Mark Barriere, Suzi Simpson","Action, Crime",4.2
+373,Sopyonje,1993,112,Im Kwon-taek,"Kim Myung-gon, Jung-hae Oh, Kim Kyu-chul","Drama, Music",7.6
+374,Thirst for Gold,1993,81,Gérard Oury,"Christian Clavier, Tsilla Chelton, Catherine Jacob","Adventure, Comedy, Crime",4.7
+375,Bells from the Deep: Faith and Superstition in Russia,1993,60,Werner Herzog,"Werner Herzog, Anna Hitch, Vissarion",Documentary,7.3
+376,Moving,1993,125,Shinji Sômai,"Kiichi Nakai, Junko Sakurada, Tomoko Tabata",Drama,7.6
+377,The Gospel According to Matthew,1993,258,Regardt van den Bergh,"Richard Kiley, Bruce Marchiano, Gerrit Schoonhoven","Adventure, Biography, Drama",7.9
+378,The Hit List,1993,93,William Webb,"Jeff Fahey, Yancy Butler, James Coburn","Action, Thriller",5.4
+379,The Little Blonde Dead,1993,95,Jean van de Velde,"Antonie Kamerling, Olivier Tuinier, Loes Wouterson",Drama,6.7
+380,Night Train to Venice,1993,98,Carlo U. Quinterio,"Hugh Grant, Tahnee Welch, Malcolm McDowell","Mystery, Thriller",2.3
+381,Skeeter,1993,95,Clark Brandon,"Tracy Griffith, Jim Youngs, Charles Napier","Action, Horror, Sci-Fi",3.3
+382,Deadly Maria,1993,106,Tom Tykwer,"Nina Petri, Katja Studt, Juliane Heinemann","Drama, Thriller, Fantasy",7.0
+383,The Queen of Beauty and the King of Thieves,1993,190,Satish Kaushik,"Anil Kapoor, Sridevi, Anupam Kher","Action, Drama, Musical",4.8
+384,Gumrah,1993,149,Mahesh Bhatt,"Sanjay Dutt, Sridevi, Anupam Kher","Action, Crime, Drama",6.1
+385,Trouble Bound,1993,90,Jeffrey Reiner,"Michael Madsen, Patricia Arquette, Sal Jenco","Action, Comedy, Crime",5.5
+386,Prison Heat,1993,91,Joel Silberg,"Rebecca Chambers, Lori Jo Hendrix, Kena Land","Crime, Drama, Thriller",4.2
+387,Outrage,1993,103,Carlos Saura,"Francesca Neri, Antonio Banderas, Eulàlia Ramon","Drama, Romance, Thriller",6.0
+388,The Bare-Footed Kid,1993,90,"Johnnie To, Patrick Leung, Johnny Mak","Aaron Kwok, Maggie Cheung, Lung Ti","Action, Drama",6.4
+389,Bopha!,1993,120,Morgan Freeman,"Danny Glover, Malcolm McDowell, Alfre Woodard",Drama,6.5
+390,From the East,1993,107,Chantal Akerman,Natalia Chakhovskaia,Documentary,7.2
+391,Padma Nadir Majhi,1993,126,Goutam Ghose,"Raisul Islam Asad, Champa, Roopa Ganguly",Drama,8.2
+392,For the Moment,1993,120,Aaron Kim Johnston,"Russell Crowe, Christianne Hirt, Wanda Cannon","Romance, War, Drama",6.0
+393,Monolith,1993,95,John Eyres,"Bill Paxton, Lindsay Frost, John Hurt","Action, Sci-Fi",4.5
+394,Färyad,1993,78,Ceyhun Mirzäyev,"Ceyhun Mirzäyev, Mälik Dadashev, Haci Ismayilov","Drama, War",8.9
+395,Chenkol,1993,163,Sibi Malayil,"Mohanlal, Thilakan, Mohan Raj","Action, Drama",7.8
+396,Theremin: An Electronic Odyssey,1993,83,Steven M. Martin,"Leon Theremin, Robert Moog, Clara Rockmore","Documentary, Biography, History",7.3
+397,Public Access,1993,90,Bryan Singer,"Ron Marquette, Bert Williams, Leigh Hunt","Drama, Thriller",5.2
+398,Gardish,1993,153,Priyadarshan,"Jackie Shroff, Amrish Puri, Dimple Kapadia","Action, Crime, Drama",7.6
+399,The Curse of the Dragon,1993,90,"Tom Kuhn, Fred Weintraub","George Takei, Bruce Lee, Steve McQueen","Documentary, Action, Biography",6.9
+400,The Cemetery Club,1993,106,Bill Duke,"Ellen Burstyn, Olympia Dukakis, Diane Ladd",Comedy,5.7
+401,The Dark,1993,87,Craig Pryce,"Stephen McHattie, Scott Wickware, Brion James","Horror, Sci-Fi",4.7
+402,"C'est la vie, mon chéri",1993,105,Derek Tung-Sing Yee,"Ching-Wan Lau, Anita Yuen, Carina Lau","Drama, Romance",7.6
+403,La scorta,1993,96,Ricky Tognazzi,"Carlo Cecchi, Enrico Lo Verso, Claudio Amendola","Action, Crime, Drama",6.6
+404,Dil Tera Aashiq,1993,151,Lawrence D'Souza,"Madhuri Dixit, Salman Khan, Kader Khan","Comedy, Drama, Romance",4.9
+405,The Making of '...and God Spoke',1993,82,Arthur Borman,"Michael Riley, Stephen Rappaport, Tamara Mello",Comedy,6.7
+406,Lotta 2 - Lotta flyttar hemifrån,1993,83,Johanna Hald,"Grete Havnesköld, Linn Gloppestad, Martin Andersson","Comedy, Family",5.9
+407,Major Chandrakanth,1993,156,K. Raghavendra Rao,"N.T. Rama Rao, Mohan Babu, Brahmanandam","Action, Drama, Thriller",7.0
+408,Taxi Hunter,1993,89,Herman Yau,"Anthony Chau-Sang Wong, Rongguang Yu, Man-Tat Ng","Crime, Drama, Thriller",6.6
+409,"1, 2, 3, Freeze",1993,104,Bertrand Blier,"Anouk Grinberg, Myriam Boyer, Olivier Martinez","Comedy, Drama",6.3
+410,Street Knight,1993,91,Albert Magnoli,"Jeff Speakman, Christopher Neame, Lewis Van Bergen","Action, Crime, Drama",5.3
+411,Chandra Mukhi,1993,152,Debaloy Dey,"Maya Alagh, Tinnu Anand, Rana Jung Bahadur","Comedy, Fantasy, Romance",4.0
+412,The Washing Machine,1993,90,Ruggero Deodato,"Philippe Caroit, Ilaria Borrelli, Katarzyna Figura","Crime, Drama, Horror",5.3
+413,Champagne and Bullets,1993,90,"John De Hart, James Paradise","John De Hart, Wings Hauser, William Smith","Action, Crime, Drama",4.1
+414,Bitter Harvest,1993,98,Duane Clark,"Patsy Kensit, Stephen Baldwin, Jennifer Rubin","Action, Comedy, Thriller",4.6
+415,Wild Target,1993,87,Pierre Salvadori,"Jean Rochefort, Marie Trintignant, Guillaume Depardieu","Comedy, Drama, Crime",6.9
+416,Tähminä,1993,107,Rasim Ojagov,"Meral Konrat, Fäxräddin Manafov, Zarnigyar Agakishiyeva","Drama, Romance",8.5
+417,It's All True: Based on an Unfinished Film by Orson Welles,1993,87,"Bill Krohn, Myron Meisel, Orson Welles","Manuel 'Jacare' Olimpio Meira, Jeronimo André De Souza, Raimundo 'Tata' Correia Lima",Documentary,7.1
+418,Legend of the Galactic Heroes: Overture to a New War,1993,90,"Noboru Ishiguro, Kenichi Maejima, Keizô Shimizu","Ryô Horikawa, Kei Tomiyama, Masashi Hironaka","Animation, Action, Drama",7.8
+419,Tout ça... pour ça!,1993,120,Claude Lelouch,"Marie-Sophie L., Francis Huster, Fabrice Luchini","Comedy, Crime, Romance",6.0
+420,Sankofa,1993,125,Haile Gerima,"Kofi Ghanaba, Oyafunmike Ogunlano, Alexandra Duah",Drama,7.0
+421,Little Ninjas,1993,100,Emmett Alston,"Douglas Ivan, Steven Nelson, Jonathan Anzaldo","Action, Adventure, Comedy",2.4
+422,Sardar,1993,175,Ketan Mehta,"Paresh Rawal, Tom Alter, Deepika Amin","Biography, Drama, History",8.0
+423,The Bikini Carwash Company II,1993,89,Gary Dean Orona,"Kristi Ducati, Sara Suzanne Brown, Neriah Davis",Comedy,3.5
+424,Firepower,1993,95,Richard Pepin,"Chad McQueen, Gary Daniels, George Murdock","Action, Crime, Sci-Fi",5.1
+425,Grey Knight,1993,82,George Hickenlooper,"Corbin Bernsen, Adrian Pasdar, Ray Wise","Horror, War",4.6
+426,The Chill Factor,1993,86,Christopher Webster,"Dawn Laurrie, Aaron Kjenaas, Connie Snyder",Horror,4.1
+427,The Wrong Man,1993,104,Jim McBride,"Rosanna Arquette, Kevin Anderson, John Lithgow","Romance, Thriller",5.8
+428,Last Dance,1993,113,Colin Nutley,"Helena Bergström, Reine Brynolfsson, Ewa Fröling","Drama, Thriller",5.1
+429,Run and Kill,1993,90,Billy Hin-Shing Tang,"Kent Cheng, Simon Yam, Danny Lee","Action, Crime, Drama",6.6
+430,Kureyon Shinchan: Action Kamen vs Haigure Maô,1993,93,Mitsuru Hongô,"Akiko Yajima, Miki Narahashi, Keiji Fujiwara","Animation, Adventure, Comedy",6.7
+431,Treacherous,1993,95,Kevin Brodie,"C. Thomas Howell, Tia Carrere, Adam Baldwin",Thriller,3.4
+432,Doraemon: Nobita and the Tin Labyrinth,1993,100,Tsutomu Shibayama,"Nobuyo Ôyama, Noriko Ohara, Michiko Nomura","Animation, Action, Adventure",7.0
+433,Body of Influence,1993,96,Gregory Dark,"Nick Cassavetes, Shannon Whirry, Richard Roundtree","Drama, Thriller",4.6
+434,Zero Patience,1993,101,John Greyson,"John Robinson, Normand Fauteux, Dianne Heatherington",Musical,6.2
+435,Sara,1993,102,Dariush Mehrjui,"Niki Karimi, Yassamin Maleknasr, Faramarz Roshanayi",Drama,6.6
+436,Aaina,1993,149,Deepak Sareen,"Jackie Shroff, Juhi Chawla, Amrita Singh","Drama, Romance",6.1
+437,The Secret Life: Jeffrey Dahmer,1993,99,David R. Bowen,"Carl Crew, Cassidy Phillips, Donna Stewart Bowen","Biography, Crime, Drama",5.5
+438,Point of Impact,1993,96,Bob Misiorowski,"Michael Paré, Barbara Carrera, Michael Ironside","Action, Crime, Drama",3.6
+439,Meleparambil Aanveedu,1993,160,Rajasenan,"Jayaram, Narendra Prasad, Meena","Comedy, Drama, Musical",7.9
+440,Ejamaan,1993,153,R.V. Udhaya Kumar,"Rajinikanth, Meena, Napolean","Drama, Romance",6.5
+441,The Harvest,1993,97,David Marconi,"Miguel Ferrer, Leilani Sarelle, Henry Silva","Crime, Thriller",5.5
+442,Sins of Desire,1993,87,Jim Wynorski,"Gail Thackray, John Henry Richardson, Delia Sheppard","Crime, Thriller",4.1
+443,Kshatriya,1993,187,J.P. Dutta,"Sunil Dutt, Dharmendra, Vinod Khanna","Action, Drama, War",5.9
+444,Sud,1993,86,Gabriele Salvatores,"Silvio Orlando, Claudio Bisio, Francesca Neri",Drama,6.4
+445,The Pickle,1993,103,Paul Mazursky,"Danny Aiello, Dyan Cannon, Clotilde Courau","Comedy, Drama",4.4
+446,Dirty Weekend,1993,102,Michael Winner,"Lia Williams, Rufus Sewell, Michael Cule","Crime, Drama, Thriller",5.3
+447,The Last Bolshevik,1993,120,Chris Marker,"Léonor Graser, Nikolai Izvolov, Kira Paramonova","Documentary, Biography, History",7.8
+448,Daughter of Darkness,1993,96,Kai-Ming Lai,"Lily Chung, Hugo Ng, Anthony Chau-Sang Wong","Comedy, Horror, Thriller",5.7
+449,Misfits to Yuppies,1993,87,Stefan Jarl,"Stefan Jarl, Eva Blondin, Kenneth 'Kenta' Gustafsson",Documentary,6.5
+450,The Skateboard Kid,1993,83,Larry Swerdlove,"Timothy Busfield, Bess Armstrong, Cliff De Young","Comedy, Family, Fantasy",2.8
+451,Crazy Love,1993,77,Roman Cheung,"Shui-Wah Fok, Shing Fui-On, Loletta Lee","Comedy, Romance",5.4
+452,The Actor,1993,88,Mohsen Makhmalbaf,"Akbar Abdi, Azita Hajian, Hamideh Kheirabadi","Comedy, Drama",6.7
+453,The Heartbreak Kid,1993,97,Michael Jenkins,"Claudia Karvan, Alex Dimitriades, Steve Bastoni","Drama, Romance",6.2
+454,Jack Be Nimble,1993,92,Garth Maxwell,"Alexis Arquette, Sarah Smuts-Kennedy, Bruno Lawrence","Horror, Thriller",5.9
+455,Cold Sweat,1993,93,Gail Harvey,"Ben Cross, Adam Baldwin, Shannon Tweed","Drama, Romance, Thriller",4.6
+456,Ring of Fire II: Blood and Steel,1993,94,Richard W. Munchkin,"Don Wilson, Maria Ford, Sy Richardson","Action, Drama, Sport",4.5
+457,Keyamot Theke Keyamot,1993,160,Sohanur Rahman Sohan,"Salman Shah, Mousumi, Rajib","Drama, Romance",8.0
+458,Heroes Among Heroes,1993,91,"Chin-Chung Chan, Yuen Woo-Ping","Donnie Yen, Yuk Wong, Dickson Ga-Sing Lee","Action, Drama",6.0
+459,Benefit of the Doubt,1993,90,Jonathan Heap,"Donald Sutherland, Amy Irving, Rider Strong",Thriller,5.1
+460,The Telegraphist,1993,102,Erik Gustavson,"Bjørn Floberg, Marie Richardson, Jarl Kulle","Comedy, Drama",6.5
+461,Amongst Friends,1993,86,Rob Weiss,"Joseph Granda, Patrick McGaw, Steve Parlavecchio","Crime, Drama",5.5
+462,Crazy Hong Kong,1993,91,Wellson Chin,"N!xau, Carina Lau, Cecilia Yip","Adventure, Comedy",4.3
+463,A Man in Uniform,1993,99,David Wellington,"Tom McCamus, Brigitte Bako, Kevin Tighe","Drama, Thriller",6.8
+464,Younger and Younger,1993,99,Percy Adlon,"Donald Sutherland, Lolita Davidovich, Brendan Fraser","Comedy, Drama, Fantasy",4.9
+465,Johnny One Hundred Pesos,1993,90,Gustavo Graef Marino,"Armando Araiza, Patricia Rivera, Willy Semler","Crime, Drama, Thriller",6.6
+466,The Last Party,1993,96,"Mark Benjamin, Marc Levin","Robert Downey Jr., Bill Clinton, Ann Palmer","Documentary, History",6.6
+467,Love Bites,1993,98,Malcolm Marmorstein,"Adam Ant, Kimberly Foster, Roger Rose","Comedy, Horror, Romance",5.4
+468,Uuno Turhapuron poika,1993,91,Spede Pasanen,"Vesa-Matti Loiri, Jukka Puotila, Tapio Hämäläinen",Comedy,4.1
+469,Hammers Over the Anvil,1993,97,Ann Turner,"Charlotte Rampling, Russell Crowe, Alexander Outhred","Biography, Drama, Romance",5.6
+470,Romanovin kivet,1993,94,Aleksi Mäkelä,"Samuli Edelmann, Santeri Kinnunen, Stig Fransman","Action, Thriller",4.8
+471,Watch It,1993,102,Tom Flynn,"Peter Gallagher, Suzy Amis, John C. McGinley",Comedy,6.2
+472,"Gatica, the Monkey",1993,136,Leonardo Favio,"Edgardo Nieva, Horacio Taicher, Juan Costa","Biography, Drama, Sport",7.2
+473,Night Eyes Three,1993,97,Andrew Stevens,"Andrew Stevens, Shannon Tweed, Tracy Tweed","Drama, Thriller",4.1
+474,Naked Killer 2,1993,97,Wai Keung Lau,"Simon Yam, Chingmy Yau, Mark Ho-nam Cheng","Crime, Horror, Thriller",5.6
+475,Jancio Wodnik,1993,101,Jan Jakub Kolski,"Franciszek Pieczka, Grazyna Blecka-Kolska, Boguslaw Linda","Comedy, Drama",7.4
+476,Mandroid,1993,81,Jack Ersgard,"Brian Cousins, Jane Caldwell, Michael Della Femina","Action, Sci-Fi",4.2
+477,Anari,1993,171,K. Muralimohana Rao,"Rakhee Gulzar, Venkatesh Daggubati, Karisma Kapoor","Action, Comedy, Drama",5.3
+478,Storia di una capinera,1993,106,Franco Zeffirelli,"Angela Bettis, Johnathon Schaech, Eva Alexander",Drama,6.7
+479,Fish Out of Water,1993,97,Erik Clausen,"Erik Clausen, Helle Ryslinge, Leif Sylvester","Comedy, Drama",6.8
+480,Sex for Sale,1993,82,Yeung Kong,"Pauline Chan, Chun-Chung Tong, Sharon Kwok","Action, Crime",5.2
+481,CIA II: Target Alexa,1993,90,Lorenzo Lamas,"Lorenzo Lamas, Kathleen Kinmont, John Savage","Action, Thriller",3.8
+482,Indecent Behavior,1993,93,Lawrence Lanoff,"Shannon Tweed, Gary Hudson, Michelle Moffett","Drama, Mystery, Thriller",3.8
+483,Making Up!,1993,55,Katja von Garnier,"Katja Riemann, Nina Kronjäger, Gedeon Burkhard","Comedy, Romance",6.4
+484,Rage and Honor II,1993,98,Guy Norris,"Cynthia Rothrock, Richard Norton, Patrick Muldoon","Action, Crime, Drama",5.2
+485,Beretta's Island,1993,97,Michael Preece,"Franco Columbu, Ken Kercheval, Elizabeth Kaitan","Action, Adventure, Comedy",2.7
+486,Rudaali,1993,128,Kalpana Lajmi,"Rakhee Gulzar, Dimple Kapadia, Raj Babbar",Drama,7.3
+487,Emmanuelle 7,1993,90,Francis Leroi,"Sylvia Kristel, Caroline Laurence, Carolyn Monroe","Drama, Fantasy, Romance",3.6
+488,Il grande cocomero,1993,95,Francesca Archibugi,"Sergio Castellitto, Anna Galiena, Alessia Fugardi","Drama, Family",6.8
+489,The Nostril Picker,1993,76,Mark Nowicki,"Carl Zschering, Edward Tanner, Laura Cummings","Comedy, Horror",3.7
+490,Morning Glory,1993,96,Steven Hilliard Stern,"Christopher Reeve, Deborah Raffin, Lloyd Bochner",Drama,6.6
+491,Where the Rivers Flow North,1993,106,Jay Craven,"Rip Torn, Tantoo Cardinal, Bill Raymond",Drama,6.5
+492,Ashaant,1993,141,Keshu Ramsay,"Akshay Kumar, Vishnuvardhan, Ashwini Bhave","Action, Thriller",4.4
+493,Flying Dagger,1993,86,Yen-Ping Chu,"Tony Ka Fai Leung, Sharla Cheung, Jimmy Lin","Comedy, Fantasy",6.0
+494,Bank Robber,1993,91,Nick Mead,"Patrick Dempsey, Lisa Bonet, Judge Reinhold","Comedy, Crime, Romance",4.4
+495,"Paris, France",1993,112,Jerry Ciccoritti,"Leslie Hope, Peter Outerbridge, Victor Ertmanis","Comedy, Drama, Thriller",5.2
+496,Betrayal of the Dove,1993,93,Strathford Hamilton,"Helen Slater, Billy Zane, Kelly LeBrock","Crime, Thriller",4.6
+497,Shadowhunter,1993,97,J.S. Cardone,"Scott Glenn, Angela Alvarado, Benjamin Bratt","Action, Drama, Horror",4.8
+498,The Young Girls Turn 25,1993,64,Agnès Varda,"Catherine Deneuve, Agnès Varda, Michel Legrand","Documentary, Music",7.0
+499,Better Than Escape,1993,110,Miroslav Lekic,"Zarko Lausevic, Claire Beckman, Aleksandar Bercek","Drama, Romance",7.6
+500,Kayda Kanoon,1993,150,Pradeep Maini,"Akshay Kumar, Sudesh Berry, Ashwini Bhave","Action, Crime, Drama",4.1
+501,Gynaikes dilitirio,1993,98,Nikos Zervos,"Spiros Papadopoulos, Ilias Logothetis, Nadia Mourouzi",Comedy,6.1
+502,Dil Ki Baazi,1993,162,Anil Ganguly,"Rakhee Gulzar, Avinash Wadhawan, Akshay Kumar","Action, Drama",4.5
+503,Why Do They Call It Love When They Mean Sex?,1993,99,Manuel Gómez Pereira,"Verónica Forqué, Jorge Sanz, Rosa Maria Sardà",Comedy,5.7
+504,Akvaariorakkaus,1993,99,Claes Olsson,"Tiina Lymi, Nicke Lignell, Minna Pirilä",Drama,4.6
+505,Sunset Grill,1993,105,Kevin Connor,"Peter Weller, Lori Singer, Stacy Keach",Thriller,4.8
+506,"All's Well, Ends Well Too",1993,85,Clifton Ko,"Samuel Hui, Leslie Cheung, Rosamund Kwan","Comedy, Romance",6.2
+507,The Neighbor,1993,93,Rodney Gibbons,"Rod Steiger, Linda Kozlowski, Ron Lea","Horror, Thriller",5.5
+508,La Florida,1993,112,George Mihalka,"Rémy Girard, Pauline Lapointe, Yvan Canuel",Comedy,5.8
+509,Piccolo grande amore,1993,105,Carlo Vanzina,"Barbara Snellenburg, Raoul Bova, David Warner","Drama, Romance",4.0
+510,Legacy,1993,53,Kieth Merrill,"Kathleen Beller, Benton Jennings, Steve Abolt","Drama, History, Western",7.1
+511,El amante bilingüe,1993,105,Vicente Aranda,"Imanol Arias, Ornella Muti, Loles León","Comedy, Drama",5.0
+512,Byzantine Blue,1993,88,Dragan Marinkovic,"Katarina Zutic, Lazar Ristovski, Srdjan 'Zika' Todorovic","Fantasy, Romance",5.7
+513,Silverlake Life: The View from Here,1993,99,"Peter Friedman, Tom Joslin","Liane Bonin, Tom Joslin, Mark Massi",Documentary,8.1
+514,Pretty Boy,1993,86,Carsten Sønder,"Christian Tafdrup, Dicte, Rami Nathan Sverdlin",Drama,5.6
+515,Divine Horsemen: The Living Gods of Haiti,1993,52,"Maya Deren, Cherel Ito, Teiji Itô","John Genke, Joan Pape",Documentary,6.7
+516,Teenage Bonnie and Klepto Clyde,1993,90,John Shepphird,"Maureen Flannigan, Scott Wolf, Bentley Mitchum","Action, Drama",5.6
+517,Uprowadzenie Agaty,1993,76,Marek Piwowski,"Karolina Rosinska, Slawomir Federowicz, Pola Raksa","Comedy, Drama, Romance",5.3
+518,Kanehsatake: 270 Years of Resistance,1993,119,Alanis Obomsawin,"Jack Burning, Herbie Barnes, Alanis Obomsawin",Documentary,7.9
+519,Say Why Have You Left Me,1993,90,Oleg Novkovic,"Zarko Lausevic, Milica Mihajlovic, Ljubisa Samardzic",Drama,7.1
+520,White Wolves: A Cry in the Wild II,1993,90,Catherine Cyran,"Matt McCoy, David Moscow, Mark-Paul Gosselaar","Action, Adventure, Family",5.8
+521,The Last Border: Viimeisellä rajalla,1993,105,Mika Kaurismäki,"Jolyon Baker, Jürgen Prochnow, Fanny Bastien","Action, Adventure, Drama",4.5
+522,Entangled,1993,98,Max Fischer,"Judd Nelson, Pierce Brosnan, Laurence Treil","Crime, Drama, Thriller",4.0
+523,Darkness in Tallinn,1993,99,Ilkka Järvi-Laturi,"Ivo Uukkivi, Milena Gulbe, Monika Mäger","Comedy, Crime, Thriller",6.6
+524,The Hawk,1993,88,David Hayman,"Daryl Webster, Thomas Taplin, Joshua Taplin","Drama, Thriller",5.3
+525,Gross Misconduct,1993,95,George Miller,"Naomi Watts, Jimmy Smits, Sarah Chadwick","Drama, Thriller",5.3
+526,Anchoress,1993,108,Chris Newby,"Natalie Morse, Gene Bervoets, Toyah Willcox",Drama,6.4
+527,Gaayam,1993,140,Ram Gopal Varma,"Jagapathi Babu, Revathi, Kota Srinivasa Rao","Action, Crime, Drama",7.5
+528,Ty u menya odna,1993,92,Dmitriy Astrakhan,"Aleksandr Zbruev, Mark Goronok, Marina Neyolova",Drama,7.1
+529,Kaspar Hauser,1993,139,Peter Sehr,"André Eisermann, Udo Samel, Jeremy Clyde","Drama, History, Mystery",6.8
+530,Buford's Beach Bunnies,1993,101,Mark Pirro,"Jim Hanks, Rikki Brando, Monique Parent",Comedy,2.9
+531,Angelfist,1993,80,Cirio H. Santiago,"Catya Sassoon, Melissa Moore, Michael Shaner","Action, Thriller",4.8
+532,The Birth of Love,1993,94,Philippe Garrel,"Lou Castel, Jean-Pierre Léaud, Johanna ter Steege",Drama,6.9
+533,Ozone,1993,83,J.R. Bookwalter,"James Black, Tom Hoover, Bill Morrison",Horror,4.5
+534,He Ain't Heavy... He's My Father,1993,97,Peter Ho-Sun Chan,"Tony Leung Chiu-wai, Tony Ka Fai Leung, Anita Yuen","Comedy, Drama, Fantasy",7.0
+535,The Beginning and the End,1993,188,Arturo Ripstein,"Ernesto Laguardia, Julieta Egurrola, Blanca Guerra",Drama,7.9
+536,Quick,1993,94,Rick King,"Teri Polo, Martin Donovan, Jeff Fahey","Action, Crime",5.1
+537,Un crime,1993,83,Jacques Deray,"Alain Delon, Manuel Blanc, Sophie Broustal","Crime, Drama",5.5
+538,The Land of Happiness,1993,103,Markku Pölönen,"Katariina Kaitue, Pertti Koivula, Anja Pohjola","Comedy, Drama",6.8
+539,Uzhaippaali,1993,156,P. Vasu,"Rajinikanth, Roja, Radha Ravi","Action, Comedy, Romance",6.4
+540,Blade of Fury,1993,105,Sammo Kam-Bo Hung,"Fan Yang, Cynthia Khan, Rosamund Kwan",Drama,6.7
+541,Deadly Heroes,1993,105,Menahem Golan,"Michael Paré, Claudette Mink, Jan-Michael Vincent","Action, Drama",3.6
+542,Matusalem,1993,105,Roger Cantin,"Marc Labrèche, Jessica Barker, Maxime Collin","Adventure, Family, Fantasy",6.4
+543,Look to the Sky,1993,100,Roberto Faenza,"Jean-Hugues Anglade, Juliet Aubrey, Jenner Del Vecchio",Drama,6.7
+544,Running Cool,1993,106,"Beverly Sebastian, Ferd Sebastian","Andrew Divoff, Tracy Sebastian, Dedee Pfeiffer",Action,5.8
+545,Sakalí léta,1993,110,Jan Hrebejk,"Jakub Spalek, Martin Dejdar, Josef Abrhám","Comedy, Musical",6.5
+546,The Most Terrible Time in My Life,1993,92,Kaizô Hayashi,"Masatoshi Nagase, Shirô Sano, Kiyotaka Nanbara","Drama, Thriller",6.9
+547,Ordinary Magic,1993,103,Giles Walker,"Ryan Reynolds, Glenne Headly, David Fox",Drama,6.0
+548,My Life's in Turnaround,1993,84,"Eric Schaeffer, Donal Lardner Ward","Eric Schaeffer, Donal Lardner Ward, Dolores McDougal","Comedy, Drama, Romance",4.9
+549,Face the Music,1993,93,Carol Wiseman,"Molly Ringwald, Patrick Dempsey, Lysette Anthony","Comedy, Drama",4.7
+550,De zevende hemel,1993,94,Jean-Paul Lilienfeld,"Urbanus, Renée Soutendijk, Hilde Van Mieghem","Comedy, Romance",5.3
+551,Night Trap,1993,93,David A. Prior,"Robert Davi, Michael Ironside, Lesley-Anne Down","Horror, Thriller",4.1
+552,Oeroeg,1993,100,Hans Hylkema,"Jeroen Krabbé, Rik Launspach, Martin Schwab",Drama,6.7
+553,Les marmottes,1993,104,Élie Chouraqui,"Jean-Hugues Anglade, Jacqueline Bisset, Christine Boisson","Comedy, Drama, Romance",5.1
+554,Dracula Rising,1993,85,Fred Gallo,"Christopher Atkins, Stacey Travis, Doug Wert","Horror, Romance",3.1
+555,The Magic Crane,1993,96,Benny Chan,"Tony Leung Chiu-wai, Anita Mui, Rosamund Kwan","Action, Fantasy",6.4
+556,Angel Eyes,1993,84,Gary Graver,"Erik Estrada, John Phillip Law, Monique Gabrielle","Crime, Drama, Horror",4.4
+557,Little Miss Millions,1993,90,Jim Wynorski,"Howard Hesseman, Jennifer Love Hewitt, Anita Morris","Comedy, Family",5.1
+558,Century,1993,112,Stephen Poliakoff,"Charles Dance, Clive Owen, Miranda Richardson","Drama, Romance",6.2
+559,Mutamestri,1993,163,A. Kodandarami Reddy,"Chiranjeevi, Meena, Roja","Action, Drama",7.1
+560,Woman Sesame Oil Maker,1993,105,Fei Xie,"Siqin Gaowa, Yujuan Wu, Kesheng Lei",Drama,7.3
+561,Memories and Confessions,1993,73,Manoel de Oliveira,"Manoel de Oliveira, Maria Isabel de Oliveira, Diogo Dória","Biography, History",7.1
+562,Time Indefinite,1993,114,Ross McElwee,"Steve Ascher, Michael Blumenthal, Robert Gardner","Documentary, Biography",7.7
+563,Full Contact,1993,96,Rick Jacobson,"Jerry Trimble, Howard Jackson, Alvin Prouder","Action, Crime, Drama",5.4
+564,The Secret of the Old Woods,1993,134,Ermanno Olmi,"Paolo Villaggio, Giulio Brogi, Riccardo Zannantonio","Family, Fantasy",6.8
+565,Sir,1993,151,Mahesh Bhatt,"Naseeruddin Shah, Pooja Bhatt, Atul Agnihotri","Crime, Drama, Romance",6.0
+566,Liceenii în alerta,1993,94,Mircea Plângau,"Mihai Constantin, Oana Sîrbu, Cosmin Sofron",Comedy,5.8
+567,Giovanni Falcone,1993,124,Giuseppe Ferrara,"Michele Placido, Anna Bonaiuto, Massimo Bonetti","Biography, Crime, Drama",7.0
+568,I Don't Want to Talk About It,1993,102,María Luisa Bemberg,"Marcello Mastroianni, Luisina Brando, Alejandra Podesta","Drama, Romance",6.9
+569,Acting on Impulse,1993,93,Sam Irvin,"C. Thomas Howell, Linda Fiorentino, Nancy Allen","Comedy, Drama, Mystery",5.4
+570,Kamen Rider ZO,1993,50,Keita Amemiya,"Hiroshi Tsuchikado, Shohei Shibata, Isao Sasaki","Action, Adventure, Drama",7.0
+571,Sins of the Night,1993,85,Gregory Dark,"Nick Cassavetes, Deborah Shelton, Miles O'Keeffe","Crime, Thriller",4.6
+572,Craving Desire,1993,97,Sergio Martino,"Vittoria Belvedere, Ron Nummi, Simona Borioni","Drama, Thriller",4.7
+573,A Night in Nude,1993,110,Takashi Ishii,"Naoto Takenaka, Kimiko Yo, Jinpachi Nezu","Crime, Thriller",6.5
+574,Lady Dragon 2,1993,95,David Worth,"Cynthia Rothrock, Billy Drago, Sam J. Jones","Action, Crime, Drama",4.3
+575,Akashadoothu,1993,145,Sibi Malayil,"Madhavi, Murali, Nedumudi Venu",Drama,7.8
+576,Muqabla,1993,162,Rama Rao Tatineni,"Govinda, Karisma Kapoor, Farha Naaz","Action, Crime, Drama",4.7
+577,Invisible: The Chronicles of Benjamin Knight,1993,83,Jack Ersgard,"Brian Cousins, Jennifer Nash, Michael Della Femina","Action, Sci-Fi",4.1
+578,The Little Apocalypse,1993,110,Costa-Gavras,"André Dussollier, Pierre Arditi, Jirí Menzel",Comedy,6.0
+579,Temptation of a Monk,1993,118,Clara Law,"Joan Chen, Hsing-Kuo Wu, Fengyi Zhang","Adventure, Drama, Romance",6.4
+580,Conflict of Interest,1993,88,Gary Davis,"Christopher McDonald, Joey Katz, Tabby Hanson","Action, Drama",4.4
+581,Three Days of a Blind Girl,1993,88,Wing-Chiu Chan,"Anthony Chau-Sang Wong, Veronica Yip, Anthony Chan","Drama, Horror, Thriller",5.6
+582,Slight Fever of a 20-Year-Old,1993,114,Ryosuke Hashiguchi,"Yoshihiko Hakamada, Reiko Kataoka, Masashi Endô","Drama, Romance",6.2
+583,Pehla Nasha,1993,131,Ashutosh Gowariker,"Deepak Tijori, Pooja Bhatt, Raveena Tandon","Mystery, Romance, Thriller",4.8
+584,Intimate Bed,1993,102,Mircea Daneliuc,"Gheorghe Dinica, Coca Bloos, Valentin Teodosiu",Comedy,6.8
+585,Wild Cactus,1993,92,Jag Mundhra,"David Naughton, India Allen, Gary Hudson","Drama, Thriller",4.6
+586,Intruso,1993,86,Vicente Aranda,"Victoria Abril, Imanol Arias, Antonio Valero","Drama, Romance",5.7
+587,Pölynimurikauppiaat,1993,58,John Webster,"Kimmo Sädeaho, Sami Ahtola, Kristiina Marin","Documentary, Comedy, Drama",7.6
+588,The Immortal Aunt,1993,98,Zdenek Zelenka,"Jirina Bohdalová, Filip Blazek, Barbora Bobulova","Comedy, Fantasy",6.0
+589,South Beach,1993,93,"Fred Williamson, Alain Zaloum","Fred Williamson, Peter Fonda, Gary Busey","Thriller, Action, Crime",4.0
+590,The Custodian,1993,109,John Dingwall,"Anthony LaPaglia, Hugo Weaving, Barry Otto","Drama, Romance",5.4
+591,Glädjekällan,1993,89,Richard Hobert,"Sven Lindberg, Göran Stangertz, Camilla Lundén",Drama,6.6
+592,Love in Limbo,1993,95,David Elfick,"Craig Adams, Rhondda Findleton, Martin Sacks",Comedy,5.4
+593,Secondløitnanten,1993,102,Hans Petter Moland,"Espen Skjønberg, Lars Andreas Larssen, Gard B. Eidsvold","Biography, Drama, War",6.5
+594,Lootere,1993,156,Dharmesh Darshan,"Sunny Deol, Juhi Chawla, Dinesh Anand","Action, Crime, Romance",5.2
+595,Grief,1993,87,Richard Glatzer,"Craig Chester, Illeana Douglas, Jackie Beat",Comedy,5.6
+596,Perdido por perdido,1993,93,Alberto Lecchi,"Ricardo Darín, Enrique Pinti, Carolina Papaleo","Drama, Mystery, Thriller",6.5
+597,Bikini Squad,1993,88,Valerie Breiman,"Lucky O'Boyle, J.C. Palermo, Rebecca Rocheford Davies",Comedy,3.4
+598,My Family Treasure,1993,95,"Rolfe Kanefsky, Edward Staroselsky","Dee Wallace, Theodore Bikel, Bitty Schram","Adventure, Comedy, Drama",5.9
+599,Normal People Are Nothing Exceptional,1993,95,Laurence Ferreira Barbosa,"Valeria Bruni Tedeschi, Melvil Poupaud, Marc Citti","Drama, Comedy",6.8
+600,Tropical Heat,1993,86,Jag Mundhra,"Rick Rossovich, Maryam d'Abo, Lee Anne Beaman","Crime, Drama, Mystery",4.5
+601,Sny,1993,78,"Aleksandr Borodyanskiy, Karen Shakhnazarov","Oleg Basilashvili, Amaliya Mordvinova, Armen Dzhigarkhanyan","Comedy, History",6.5
+602,Distant Cousins,1993,92,Andrew Lane,"Mel Harris, David Keith, William Katt",Thriller,5.3
+603,U.F.O.,1993,79,Tony Dow,"Roy 'Chubby' Brown, Sara Stockbridge, Mandi Symonds","Comedy, Fantasy, Sci-Fi",5.0
+604,Aa Okkati Adakku,1993,155,E.V.V. Satyanarayana,"Rajendra Prasad, Rambha, Raogopalrao",Comedy,7.9
+605,Ninja Vengeance,1993,87,Karl Armstrong,"Janet Pawlak, David Paul Lord, Craig Boyett","Action, Drama",2.6
+606,De blå ulvene,1993,95,Morten Kolstad,"Håvard Bakke, Tommy Karlsen, Viggo Jønsberg","Action, Crime, Drama",5.5
+607,Little Corey Gorey,1993,90,Bill Morroni,"Todd Fortune, Pat Gallagher, Brenda Pope","Comedy, Horror",5.5
+608,The Son of the Shark,1993,90,Agnès Merlet,"Ludovic Vandendaele, Eric da Silva, Sandrine Blancke","Crime, Drama",6.7
+609,Robot in the Family,1993,85,"Mark Harry Richardson, Jack Shaoul","Joe Pantoliano, John Rhys-Davies, Danny Gerard","Comedy, Family, Fantasy",1.7
+610,The Eye of Vichy,1993,110,Claude Chabrol,"Michel Bouquet, Brian Cox, Maquisard Alfonso","Documentary, War",7.2
+611,Ripa Hits the Skids,1993,80,Christian Lindblad,"Sam Huber, Mari Vainio, Merja Larivaara","Comedy, Drama",6.2
+612,Wet and Wild Summer!,1993,95,Maurice Murphy,"Christopher Atkins, Julian McMahon, Rebecca Cross",Comedy,4.2
+613,Tomcat: Dangerous Desires,1993,85,Paul Donovan,"Richard Grieco, Natalie Radford, Maryam d'Abo","Horror, Sci-Fi, Thriller",3.8
+614,American Kickboxer 2,1993,93,Jenõ Hódi,"Dale Cook, Evan Lurie, Kathy Shower","Action, Romance, Sport",4.2
+615,Phir Teri Kahani Yaad Aayee,1993,105,Mahesh Bhatt,"Pooja Bhatt, Rahul Roy, Pooja Bedi","Romance, Drama",5.8
+616,Red Hot,1993,95,Paul Haggis,"Balthazar Getty, Carla Gugino, Jan Niklas","Drama, Music",5.5
+617,Bullshit,1993,104,Memduh Ün,"Menderes Samancilar, Emre Akyildiz, Günay Girik","Biography, Drama",7.6
+618,Tout le monde n'a pas eu la chance d'avoir des parents communistes,1993,90,Jean-Jacques Zilbermann,"Josiane Balasko, Maurice Bénichou, Catherine Hiegel","Comedy, Fantasy",5.6
+619,Boys Are Easy,1993,97,Jing Wong,"Richard Ng, Brigitte Lin, Maggie Cheung","Comedy, Romance",6.4
+620,Dhanwaan,1993,149,K. Viswanath,"Ajay Devgn, Manisha Koirala, Karisma Kapoor","Comedy, Drama, Romance",3.9
+621,Baby on Board,1993,90,Francis Schaeffer,"Garfield Andrews, Themmis Anno, Barry Ashley",Comedy,4.5
+622,When Pigs Fly,1993,94,Sara Driver,"Alfred Molina, Marianne Faithfull, Rachael Bella",Comedy,6.0
+623,My Forgotten Man,1993,95,Frank Howson,"Guy Pearce, Steven Berkoff, Claudia Karvan","Biography, Drama",5.0
+624,Paithrukam,1993,130,Jayaraj,"Suresh Gopi, Narendra Prasad, Geetha",Drama,7.8
+625,Ci hai rotto papà,1993,99,"Franco Castellano, Giuseppe Moccia","Elio Germano, Luca Virgulti, Paolo Vivio","Comedy, Family",5.4
+626,L'enfant lion,1993,86,Patrick Grandperret,"Wéré Wéré Liking, Souleyman Koli, Salif Keïta",Family,6.2
+627,Laser Moon,1993,91,Douglas K. Grimm,"Traci Lords, Crystal Shaw Martell, Harrison Le Duke","Crime, Drama, Thriller",2.3
+628,El acto en cuestión,1993,106,Alejandro Agresti,"Carlos Roffé, Sergio Poves Campos, Lorenzo Quinteros",Drama,7.7
+629,Diary of a Maniac,1993,94,Marco Ferreri,"Jerry Calà, Sabrina Ferilli, Valentino Macchi","Comedy, Drama",6.3
+630,A Moment of Romance II,1993,87,Benny Chan,"Aaron Kwok, Chien-Lien Wu, Roger Kwok","Action, Crime, Romance",6.1
+631,Two Mikes Don't Make a Wright,1993,80,"Michael Moore, Dean Parisot, Mike Leigh","Rowan Atkinson, Rhonda Britton, Jim Broadbent","Documentary, Comedy",2.9
+632,Toxic Affair,1993,89,Philomène Esposito,"Isabelle Adjani, Hippolyte Girardot, Clémentine Célarié",Comedy,4.6
+633,Pétain,1993,132,Jean Marboeuf,"Jacques Dufilho, Jean Yanne, Jean-Pierre Cassel","Crime, Drama, History",6.0
+634,Ardh el-Ahlam,1993,118,Daoud Abdel Sayed,"Faten Hamama, Yehia El-Fakharany, Hesham Selim","Comedy, Drama, Family",7.2
+635,Terminal USA,1993,54,Jon Moritsugu,"Sharon Omi, Ken Narasaki, Lenny Lang",Comedy,6.5
+636,Holy Weapon,1993,98,"Jing Wong, Dennis Chan","Michelle Yeoh, Do Do Cheng, Maggie Cheung","Action, Comedy, Fantasy",5.8
+637,Konec básníku v Cechách,1993,115,Dusan Klein,"Pavel Kríz, David Matásek, Tereza Brodská","Comedy, Romance",5.7
+638,Louis: The Child King,1993,160,Roger Planchon,"Carmen Maura, Maxime Mansion, Paolo Graziosi","Biography, Drama, History",6.1
+639,Gandharvam,1993,155,Sangeeth Sivan,"Mohanlal, Kanchan, Paravoor Bharathan","Drama, Romance",6.4
+640,All Men Are Brothers: Blood of the Leopard,1993,97,Billy Chan,"Wai Lam, Ching-Wan Lau, Shun Lau","Action, Drama",6.3
+641,Terminator Woman,1993,105,Michel Qissi,"Jerry Trimble, Karen Sheperd, Michel Qissi",Action,4.0
+642,Die Watching,1993,88,Charles Davis,"Christopher Atkins, Vali Ashton, Mike Jacobs Jr.","Horror, Romance, Thriller",4.3
+643,The Last Dance,1993,116,Jûzô Itami,"Rentarô Mikuni, Masahiko Tsugawa, Nobuko Miyamoto","Comedy, Drama",6.9
+644,Amaravathi,1993,146,Selva,"Ajith Kumar, Sanghavi, Kalyana Kumar",Romance,6.1
+645,Low Profile,1993,106,Claude Zidi,"Patrick Bruel, Sandra Speichert, Didier Bezace","Action, Crime, Drama",5.5
+646,Hero Beyond the Boundary of Time,1993,94,Blackie Shou-Liang Ko,"Tony Leung Chiu-wai, Dicky Cheung, Veronica Yip","Comedy, Fantasy",5.6
+647,Predskazaniye,1993,119,Eldar Ryazanov,"Oleg Basilashvili, Irène Jacob, Andrey Sokolov","Mystery, Romance, Thriller",6.2
+648,Killing Car,1993,89,Jean Rollin,"Tiki Tsang, Frederique Haymann, Jean-Jacques Lefeuvre","Action, Crime, Drama",4.2
+649,Me and the Kid,1993,94,Dan Curtis,"Danny Aiello, Alex Zuckerman, Joe Pantoliano","Comedy, Crime, Drama",5.4
+650,Little Devils: The Birth,1993,100,George Pavlou,"Russ Tamblyn, Marc Price, Nancy Valen","Comedy, Horror",3.4
+651,Kizhakku Seemayile,1993,147,Bharathiraja,"Vijayakumar, Radhika Sarathkumar, Napolean",Drama,7.3
+652,The Bed You Sleep In,1993,117,Jon Jost,"Tom Blair, Marshall Gaddis, Ellen McLaughlin",Drama,7.4
+653,Routasydän,1993,83,Tuomas Sallinen,"Mats Långbacka, Katja Kiuru, Konsta Väänänen","Drama, Sci-Fi, Thriller",5.4
+654,Tombés du ciel,1993,91,Philippe Lioret,"Jean Rochefort, Marisa Paredes, Ticky Holgado","Comedy, Drama",6.2
+655,The Nostradamus Kid,1993,120,Bob Ellis,"Noah Taylor, Miranda Otto, Arthur Dignam","Drama, Romance",5.7
+656,Pekko Aikamiespojan poikamiesaika,1993,89,Sina Kujansuu,"Timo Koivusalo, Satu Silvo, Tuija Piepponen",Comedy,3.8
+657,Mazeppa,1993,111,Bartabas,"Miguel Bosé, Bartabas, Brigitte Marty",Drama,7.2
+658,Ivan & Abraham,1993,105,Yolande Zauberman,"Roma Alexandrovitch, Aleksandr Yakovlev, Vladimir Mashkov",Drama,6.7
+659,Konstruktor krasnogo tsveta,1993,76,"Andrey I., Armen Petrosyan",Anna Syomkina,"Documentary, Horror, Sci-Fi",5.8
+660,Rang,1993,150,Talat Jani,"Jeetendra, Amrita Singh, Kamal Sadanah","Drama, Romance",4.7
+661,Secret Games 2: The Escort,1993,85,Gregory Dark,"Martin Hewitt, Marie Leroux, Amy Rochelle","Drama, Thriller",4.5
+662,Abbronzatissimi 2 - Un anno dopo,1993,105,Bruno Gaburro,"Jerry Calà, Eva Grimaldi, Vanessa Gravina",Comedy,3.5
+663,Kalaignan,1993,143,G.B. Vijay,"Kamal Haasan, Bindiya, Farheen","Action, Drama, Thriller",6.3
+664,Half Japanese: The Band That Would Be King,1993,90,Jeff Feuerzeig,"Byron Coley, David Fair, Jad Fair",Documentary,7.5
+665,Tadipaar,1993,134,Mahesh Bhatt,"Mithun Chakraborty, Pooja Bhatt, Anupam Kher","Action, Drama",4.9
+666,Bare Exposure,1993,86,Ralph E. Portillo,"Tammy Parks, Ashlie Rhey, Andrea Suzzane",Comedy,3.9
+667,"Per amore, solo per amore",1993,114,Giovanni Veronesi,"Diego Abatantuono, Penélope Cruz, Stefania Sandrelli",History,5.9
+668,Divya Shakti,1993,180,Sameer Malkan,"Ajay Devgn, Raveena Tandon, Satyendra Kapoor","Action, Drama",4.5
+669,A Class to Remember,1993,128,Yôji Yamada,"Toshiyuki Nishida, Keiko Takeshita, Masato Hagiwara",Drama,7.0
+670,New York Cop,1993,93,Tôru Murakawa,"Tôru Nakamura, Chad McQueen, Mira Sorvino","Action, Crime, Drama",4.3
+671,"Tom, Dick and Hairy",1993,99,"Peter Ho-Sun Chan, Chi-Ngai Lee","Tony Leung Chiu-wai, Tony Ka Fai Leung, Lawrence Cheng",Comedy,6.7
+672,Un muro de silencio,1993,105,Lita Stantic,"Vanessa Redgrave, Ofelia Medina, Lautaro Murúa",Drama,6.6
+673,Russian Holiday,1993,89,Greydon Clark,"Susan Blakely, Barry Bostwick, E.G. Marshall","Crime, Drama, Thriller",3.8
+674,Bedevil,1993,90,Tracey Moffatt,"Diana Davidson, Jack Charles, Ben Kennedy",Horror,5.7
+675,Midnight Kiss,1993,85,Joel Bender,"Michelle Owens, Michael McMillen, Gregory A. Greer",Horror,4.4
+676,Kalippattam,1993,130,Venu Nagavalli,"Mohanlal, Urvashi, Kalpana",Drama,7.0
+677,Perfect Exchange,1993,105,Jing Wong,"Andy Lau, Tony Ka Fai Leung, Christy Chung","Comedy, Crime",6.0
+678,The Forbidden Quest,1993,75,Peter Delpeut,"Joseph O'Conor, Roy Ward",Adventure,6.6
+679,Digger,1993,92,Rob Turner,"Adam Hann-Byrd, Joshua Jackson, Timothy Bottoms","Family, Comedy, Drama",5.3
+680,Full Moon Over Belgrade,1993,92,Dragan Kresoja,"Dragan Bjelogrlic, Ruzica Sokic, Rade Markovic","Comedy, Drama, Horror",5.9
+681,Mind Twister,1993,94,Fred Olen Ray,"Telly Savalas, Erika Nann, Gary Hudson","Drama, Mystery, Thriller",4.1
+682,¡¡Semos peligrosos!! (uséase Makinavaja 2),1993,91,Carlos Suárez,"Andrés Pajares, Jesús Bonilla, Mario Pardo",Comedy,5.2
+683,Phool Aur Angaar,1993,146,Ashok Gaekwad,"Govardhan Asrani, Bajrangi, Arun Bali","Action, Drama",5.8
+684,Ziemassvetku jampadracis,1993,72,Varis Brasla,"Kaspars Adamsons, Roberts Bekeris, Nora Bidere","Comedy, Drama, Family",7.7
+685,Sangram,1993,156,Lawrence D'Souza,"Ajay Devgn, Ayesha Jhulka, Karisma Kapoor","Action, Drama, Romance",3.7
+686,Buccaneer Soul,1993,112,Carlos Reichenbach,"Bertrand Duarte, Jandir Ferrari, Andrea Richa",Drama,7.2
+687,Night Owl,1993,77,Jeffrey Arsenault,"John Leguizamo, Lisa Napoli, David Roya","Crime, Drama, Horror",5.2
+688,East Wind,1993,110,Robert Enrico,"Malcolm McDowell, Pierre Vaneck, Jean-François Balmer",Drama,6.8
+689,Platform,1993,150,Deepak Pawar,"Ajay Devgn, Tisca Chopra, Priya","Action, Crime, Drama",4.0
+690,Karamati Coat,1993,86,Ajay Karthik,"Prachi Save, Swapnesh Sawant, Vikram Acharya","Comedy, Family, Fantasy",7.4
+691,Ek Hi Raasta,1993,130,Deepak Bahry,"Ajay Devgn, Raveena Tandon, Saeed Jaffrey",Action,3.9
+692,N Is a Number: A Portrait of Paul Erdös,1993,57,George Paul Csicsery,"Paul Erdös, Ronald Graham, Joel Spencer","Documentary, Biography",7.5
+693,Wind Dancer,1993,90,Craig Clyde,"Mel Harris, Matt McCoy, Raeanin Simpson","Drama, Family",5.1
+694,The Seventh Coin,1993,92,Dror Soref,"Alexandra Powers, Navin Chowdhry, Peter O'Toole",Adventure,4.6
+695,Gorilla Bathes at Noon,1993,83,Dusan Makavejev,"Svetozar Cvetkovic, Anita Mancic, Alexandra Rohmig",Comedy,5.6
+696,Blood Warriors,1993,95,Sam Firstenberg,"David Bradley, Frank Zagarino, Jennifer Campbell","Action, Crime, Drama",4.2
+697,Back from Hell,1993,82,Matt Jaissle,"Larry DuBois, Shawn Scarbrough, Don Reum",Horror,3.4
+698,The Assassin,1993,78,Siu-Hung Chung,"Fengyi Zhang, Rosamund Kwan, Mok Siu-Chung",Action,6.0
+699,Obracun u kazino kabareu,1993,81,Zoran Calic,"Slobodan 'Boda' Ninkovic, Dragan Nikolic, Dragomir Bojanic-Gidra",Comedy,3.7
+700,Seasons of the Heart,1993,99,T.C. Christensen,"Leigh Lombardi, Sam Hennings, Claude Akins","Drama, Family",6.4
+701,Arriva la bufera,1993,110,Daniele Luchetti,"Diego Abatantuono, Margherita Buy, Silvio Orlando","Comedy, Crime, Drama",5.6
+702,Streets of Rage,1993,84,Richard Elfman,"Mimi Lesseos, Oliver Page, Christopher Cass","Action, Crime, Drama",3.8
+703,Golanthara Vartha,1993,133,Sathyan Anthikad,"Mammootty, Shobana, Sreenivasan","Comedy, Drama",6.8
+704,Ghost Lantern,1993,92,Wai Keung Lau,"Tony Ka Fai Leung, Chingmy Yau, Kwong-Leung Wong","Action, Comedy, Fantasy",6.0
+705,Sombras en una batalla,1993,106,Mario Camus,"Carmen Maura, Joaquim de Almeida, Tito Valverde","Drama, Thriller",6.2
+706,Two Cops,1993,110,Kang Woo-suk,"Park Joong-hoon, Ahn Sung-ki, Ji Su-Won","Action, Comedy",6.3
+707,Le sexe des étoiles,1993,104,Paule Baillargeon,"Marianne Coquelicot Mercier, Denis Mercier, Tobie Pelletier",Drama,6.3
+708,No Escape No Return,1993,91,Charles T. Kanganis,"Maxwell Caulfield, Dustin Nguyen, Denise Loveday",Action,4.1
+709,Full Impact,1993,72,David Huey,"Gary Daniels, Kent Ducanon, Linda Bennett",Action,3.2
+710,The Diary of Lady M,1993,113,Alain Tanner,"Myriam Mézières, Juanjo Puigcorbé, Félicité Wouassi",Drama,5.2
+711,Shaktiman,1993,155,K.C. Bokadia,"Ajay Devgn, Karisma Kapoor, Mukesh Khanna","Action, Drama, Romance",3.4
+712,Vsetko co mam rad,1993,90,Martin Sulík,"Juraj Nvota, Gina Bellman, Zdena Studenková",Drama,6.9
+713,Padheyam,1993,140,Bharathan,"Mammootty, Chippy, Nedumudi Venu",Drama,7.2
+714,Nishkarsha,1993,140,Sunil Kumar Desai,"Vishnuvardhan, Anant Nag, B.C. Patil","Action, Thriller",8.2
+715,The Gray Wolves,1993,115,Igor Gostev,"Rolan Bykov, Aleksandr Belyavskiy, Lev Durov","Action, Biography, History",6.8
+716,Hum Hain Kamaal Ke,1993,142,Vijay Reddy,"Sheeba Agarwal, Sujoy Mukherjee, Kader Khan","Action, Comedy, Crime",5.8
+717,I Am a Promise: The Children of Stanton Elementary School,1993,89,Susan Raymond,"Susan Raymond, Deanna Burney, Clary Jansson",Documentary,7.0
+718,Bound and Gagged: A Love Story,1993,94,Daniel B. Appleby,"Ginger Lynn, Karen Black, Chris Denton","Crime, Drama",4.5
+719,Midnight Witness,1993,90,Peter Foldy,"Paul Johansson, Maxwell Caulfield, Karen Moncrieff","Action, Thriller",4.2
+720,Dragon Fire,1993,90,Rick Jacobson,"Dominick LaBanca, Pamela Pond, Kisu","Action, Drama, Sci-Fi",4.2
+721,Fist of Honor,1993,95,Richard Pepin,"Sam J. Jones, Joey House, Abe Vigoda","Action, Drama",4.5
+722,Bad Behaviour,1993,104,Les Blair,"Stephen Rea, Sinéad Cusack, Philip Jackson","Comedy, Drama, Romance",5.8
+723,Eight Hundred Leagues Down the Amazon,1993,85,Luis Llosa,"Daphne Zuniga, Tom Verica, Barry Bostwick","Action, Adventure",4.4
+724,Speak Up! It's So Dark...,1993,83,Suzanne Osten,"Etienne Glaser, Simon Norrthon, Anna-Yrsa Falenius",Drama,6.3
+725,Makarov,1993,99,Vladimir Khotinenko,"Sergey Makovetskiy, Elena Mayorova, Irina Metlitskaya","Drama, Thriller",6.7
+726,Kill Zone,1993,81,Cirio H. Santiago,"David Carradine, Tony Dorsett, Rob Youngblood","Action, War",4.2
+727,After Separation,1993,95,Gang Xia,"You Ge, Ting Li, Yi Liu",Romance,7.3
+728,Things,1993,81,"Dennis Devine, Eugene James, Jay Woelfel","Kinder Hunt, Maegen, Jesse Lizarraga",Horror,3.7
+729,Justiz,1993,106,Hans W. Geissendörfer,"Maximilian Schell, Thomas Heinze, Anna Thalbach",Drama,6.4
+730,Women on the Run,1993,89,"David Lai, Corey Yuen","Tamara Guo, Farini Cheung, Wai-Tak Wong","Action, Thriller",5.7
+731,Høyere enn himmelen,1993,90,Berit Nesheim,"Inger Lise Winjevoll, Harriet Andersson, Arne Willy Granli Johnsen","Drama, Family",6.1
+732,Joey Breaker,1993,92,Steven Starr,"Richard Edson, Cedella Marley, Fred Fondren","Comedy, Drama, Romance",4.5
+733,Project Vampire,1993,88,Peter Flynn,"Myron Natwick, Brian Knudson, Mary Louise Gemmill","Action, Horror",2.9
+734,Sanmao Joins the Army,1993,90,Jianya Zhang,"Lin Jia, Zongwan Wei, Jie Cui","Comedy, Drama, War",7.3
+735,October 32nd,1993,115,Paul Hunt,"Nadia Cameron-Blakey, Rodney Wood, Richard Lynch","Action, Adventure, Fantasy",3.6
+736,Sahibaan,1993,133,Ramesh Talwar,"Rishi Kapoor, Sanjay Dutt, Madhuri Dixit","Romance, Drama",4.9
+737,Madregilda,1993,113,Francisco Regueiro,"José Sacristán, Juan Echanove, Barbara Auer",Drama,6.0
+738,Legend of the Liquid Sword,1993,82,"Jing Wong, Wai-Yip Yeung","Aaron Kwok, Chingmy Yau, Sharla Cheung","Action, Adventure, Comedy",5.5
+739,Don't Stop My Crazy Love for You,1993,92,Wei Tat Hon,"Yvonne Hung Yung, Simon Yam, Michael Wong","Crime, Thriller",5.8
+740,Akasmika,1993,146,T.S. Nagabharana,"Rajkumar, Geetha, Madhavi","Action, Crime, Thriller",7.8
+741,Losses to Be Expected,1993,118,Ulrich Seidl,"Paula Hutterová, Vladimir Kundrát, Rusena Machaloyá",Documentary,7.3
+742,Return of the Roller Blade Seven,1993,78,Donald G. Jackson,"Scott Shaw, Joe Estevez, Allison Coleman","Action, Sci-Fi",2.0
+743,Money,1993,131,Siva Nageshwara Rao,"Jayasudha, Chinna, J.D. Chakravarthi","Action, Comedy, Drama",7.4
+744,Pehchaan,1993,138,Deepak S. Shivdasani,"Suniel Shetty, Saif Ali Khan, Shilpa Shirodkar","Action, Drama, Thriller",4.6
+745,Young Werther,1993,94,Jacques Doillon,"Ismaël Jolé-Ménébhi, Faye Gatteau, Jessica Tharaud",Drama,6.5
+746,A New Life,1993,117,Olivier Assayas,"Sophie Aubry, Judith Godrèche, Bernard Giraudeau",Drama,6.4
+747,Rajendrudu Gajendrudu,1993,152,"S.V. Krishna Reddy, Ranga Rao Kurra","Rajendra Prasad, Soundarya, Kota Srinivasa Rao","Comedy, Drama",7.4
+748,The Sword Stained with Royal Blood,1993,96,Hoi-Ching Cheung,"Biao Yuen, Sharla Cheung, Danny Lee","Action, Comedy, Drama",6.1
+749,Au nom du Christ,1993,90,Roger Gnoan M'Bala,"Armand Romauld Anotchi, Albert Ayatollah, Akissi Delta","Comedy, Drama",6.1
+750,The Outfit,1993,92,J. Christian Ingvordsen,"Lance Henriksen, Martin Kove, Billy Drago","Crime, Action, Thriller",3.5
+751,À la mode,1993,82,Rémy Duchemin,"Kên Higelin, Jean Yanne, Florence Darel",Comedy,5.7
+752,Love to Kill,1993,87,"Siu-Hung Chung, Kirk Wong","Danny Lee, Elizabeth Lee, Anthony Chau-Sang Wong","Comedy, Crime, Thriller",5.9
+753,Kleptomania,1993,90,Don Boyd,"Amy Irving, Patsy Kensit, Victor Garber","Action, Drama, Thriller",4.7
+754,Frameup,1993,91,Jon Jost,"Howard Swain, Nancy Carlin, Kathryn Sannella","Crime, Drama, Romance",7.5
+755,The Blue Exile,1993,108,Erden Kiral,"Kürsat Alniaçik, Mevlüt Demiryay, Suavi Eren","Biography, Drama",6.1
+756,The Ice Runner,1993,110,Barry Samson,"Edward Albert, Olga Kabo, Victor Wong","Adventure, Drama, Thriller",5.4
+757,"Pacco, doppio pacco e contropaccotto",1993,118,Nanni Loy,"Tommaso Bianco, Enzo Cannavale, Italo Celoro",Comedy,6.7
+758,Ultimate Desire,1993,94,Rodney McDonald,"Martin Kemp, Kate Hodge, Robert Miranda",Thriller,4.2
+759,One Nation Under God,1993,83,"Teodoro Maniaci, Francine Rzeznik","Ralph Blair, Pat Buchanan, Michael Bussee",Documentary,7.3
+760,The Lotus Eaters,1993,101,Paul Shapiro,"Tara Frederick, Aloka McLean, R.H. Thomson",Drama,6.7
+761,Bulund,1993,132,M.R. Shahjahan,"Somy Ali, Mohnish Behl, Laxmikant Berde",Action,4.2
+762,Black Harvest,1993,120,Anders Refn,"Ole Ernst, Sofie Gråbøl, Marika Lagercrantz",Drama,6.6
+763,Gurudev,1993,147,Vinod Mehra,"Rishi Kapoor, Sridevi, Anil Kapoor","Action, Drama, Romance",4.6
+764,Magnificat,1993,95,Pupi Avati,"Luigi Diberti, Arnaldo Ninchi, Massimo Bellinzoni","Drama, History",6.7
+765,Genghis Cohn,1993,79,Elijah Moshinsky,"Antony Sher, Robert Lindsay, Matthew Marsh","Comedy, Drama",6.8
+766,Dark Carnival,1993,90,Eric Worthington,"Miki Welling, Lynnie M. Horrigan, Micail Buse",Horror,2.5
+767,The Wolf's Trail,1993,96,Masud Kimiai,"Faramarz Gharibian, Golchehre Sajadieh, Niki Karimi","Action, Drama",5.3
+768,"Stand Straight, Never Give In",1993,110,Jianxin Huang,"Gong Feng, Zhenhua Niu, Shichang Da","Comedy, Drama",7.1
+769,Fuchzhou,1993,86,Mikhail Ilyenko,"Taras Denisenko, Ivan Ilenko, Nina Maslova",Drama,7.2
+770,"Justinien Trouvé, ou le bâtard de Dieu",1993,160,Christian Fechner,"Pierre-Olivier Mornas, Ticky Holgado, Bernard-Pierre Donnadieu","Drama, History",6.4
+771,Kreola,1993,87,Antonio Bonifacio,"Demetra Hampton, Teodosio Losito, John Armstead",Drama,3.7
+772,Amore!,1993,90,Lorenzo Doumani,"Jack Scalia, Kathy Ireland, Marion Archey",Comedy,4.5
+773,Vulpe - vânator,1993,102,Stere Gulea,"Oana Pellea, Dan Condurache, Mara Grigore","Drama, History",7.2
+774,The Rebel,1993,88,Aurelio Grimaldi,"Penélope Cruz, Stefano Dionisi, Lorenza Indovina",Drama,5.1
+775,Red Spirit Lake,1993,69,Charles Pinion,"Annabelle Davies, Holly Adams, Rick Hall",Horror,5.2
+776,Gorotica,1993,60,Hugh Gallagher,"Ghetty Chasun, Dingo Jones, Bushrude Gutterman",Horror,4.8
+777,Lolo,1993,88,Francisco Athié,"Roberto Sosa, Esperanza Mozo, Lucha Villa","Action, Crime, Drama",6.7
+778,Our Father...,1993,88,Veikko Aaltonen,"Hannu Kivioja, Martti Katajisto, Elina Hurme",Drama,6.7
+779,All Under the Moon,1993,109,Yôichi Sai,"Gorô Kishitani, Ruby Moreno, Moeko Ezawa","Comedy, Drama, Romance",6.5
+780,The Vampire Wedding,1993,94,Jaroslav Soukup,"Rudolf Hrusínský, Iveta Bartosová, Petr Nározný","Comedy, Fantasy, Horror",5.7
+781,Beijing Bastards,1993,88,Yuan Zhang,"Jian Cui, Wen Li, Xiaodong Liu",Drama,5.4
+782,Aasoo Bane Angaarey,1993,150,Mehul Kumar,"Jeetendra, Madhuri Dixit, Kiran Kumar","Drama, Thriller",3.7
+783,The Days,1993,80,Xiaoshuai Wang,"Xiaodong Liu, Ye Lou, Hong Yu",Drama,6.6
+784,Bedardi,1993,146,Krishnakant Pandya,"Ajay Devgn, Urmila Matondkar, Reena Roy","Action, Crime",4.3
+785,Zohar,1993,116,Eran Riklis,"Shaul Mizrahi, Dafna Dekel, Juliano Mer-Khamis","Biography, Drama",7.0
+786,Rowdy Mogudu,1993,129,Mohan Gandhi,"Mohan Babu, Brahmanandam","Action, Drama, Romance",8.8
+787,Aadmi Khilona Hai,1993,158,J. Om Prakash,"Jeetendra, Reena Roy, Govinda","Drama, Romance",4.9
+788,Family Prayers,1993,108,Scott M. Rosenfelt,"Joe Mantegna, Anne Archer, Tzvi Ratner-Stauber",Drama,5.3
+789,Warriors: The Black Panther,1993,91,Clarence Fok,"Alan Tang, Brigitte Lin, Dicky Cheung","Action, Comedy, Crime",5.3
+790,The Boot,1993,60,Mohammad Ali Talebi,"Ali Atashkar, Samaneh Jafar-Jalali, Raya Nasiri","Drama, Family",7.1
+791,"Luck, Trust & Ketchup: Robert Altman in Carver Country",1993,90,"John Dorr, Mike Kaplan","Robert Altman, Tim Robbins, Fred Ward",Documentary,7.0
+792,Lord of East China Sea,1993,150,Man Kit Poon,"Ray Lui, Kent Cheng, Carina Lau","Crime, Drama, Mystery",6.8
+793,Mercedes,1993,108,Yousry Nasrallah,"Seif Abdelrahman, Ahmed Kamal, Abla Kamel",Drama,5.9
+794,Two Small Bodies,1993,88,Beth B,"Fred Ward, Suzy Amis","Crime, Drama, Romance",5.7
+795,Malenkiy gigant bolshogo seksa,1993,79,Nikolay Dostal,"Gennadiy Khazanov, Irina Rozanova, Irina Sabanova",Comedy,5.2
+796,Private Wars,1993,88,John Weidner,"Steve Railsback, Michael Champion, Dan Tullis Jr.",Action,5.1
+797,Pariserhjulet,1993,106,Clas Lindberg,"Jakob Eklund, Helena Bergström, Claes Malmberg",Drama,4.6
+798,Night of the Beast,1993,92,Eric Louzil,"Robert May, Gene LeBrock, Shanna McCullough",Horror,3.2
+799,What About Me,1993,87,Rachel Amodeo,"Rachel Amodeo, Judy Carne, Gregory Corso",Drama,6.2
+800,Hidden Fears,1993,90,Jean Bodon,"Meg Foster, Frederic Forrest, Mariah Reed",Thriller,4.3
+801,Live by the Fist,1993,77,Cirio H. Santiago,"Jerry Trimble, George Takei, Ted Markland","Action, Crime, Drama",4.4
+802,Sezonat na kanarchetata,1993,128,Evgeni Mihailov,"Paraskeva Djukelova, Plamena Getova, Mikhael Dontchev",Drama,7.6
+803,Antareen,1993,91,Mrinal Sen,"Anjan Dutt, Dimple Kapadia, Tathagata Sanyal",Drama,7.1
+804,The Sacred Mound,1993,84,Hrafn Gunnlaugsson,"Steinþór Rafn Matthíasson, Alda Sigurðardóttir, Helgi Skúlason",Drama,6.0
+805,Dreamrider,1993,92,"Bill Brown, Steve Grass","Matthew Geriak, James Earl Jones, Leigh Taylor-Young","Biography, Drama",5.5
+806,Mille bolle blu,1993,87,Leone Pompucci,"Carla Benedetti, Matteo Fadda, Giacomo Fadda","Comedy, Romance",6.5
+807,The Brutal Insanity of Love,1993,101,Toshiharu Ikeda,"Shirô Sano, Megumi Yokoyama, Kimiko Yo","Crime, Horror, Mystery",5.0
+808,El pájaro de la felicidad,1993,115,Pilar Miró,"Mercedes Sampietro, Aitana Sánchez-Gijón, José Sacristán",Drama,6.3
+809,Odds and Evens,1993,90,Bakhtyar Khudojnazarov,"Paulina Gálvez, Daler Madzhidov, Alisher Kasimov","Drama, War",6.6
+810,Paper Hearts,1993,88,Rod McCall,"James Brolin, Sally Kirkland, Pamela Gidley","Drama, Romance, Western",5.0
+811,L'ombre du doute,1993,105,Aline Issermann,"Mireille Perrier, Alain Bashung, Sandrine Blancke","Drama, Thriller",6.2
+812,Always on My Mind,1993,104,Chi Leung 'Jacob' Cheung,"Josephine Siao, Michael Hui, Siu-Ha Chan",Comedy,7.1
+813,The Kids Play Russian,1993,60,Jean-Luc Godard,"László Szabó, Jean-Luc Godard, Bernard Eisenschitz",Drama,5.9
+814,Maryam and Mitil,1993,100,Fathali Oveisi,"Niaz Taremi, Afsaneh Bayegan, Hamid Jebeli","Drama, Family",5.6
+815,Priveste înainte cu mânie,1993,81,Nicolae Margineanu,"Remus Margineanu, Luminita Gheorghiu, Ion Haiduc",Drama,7.3
+816,Supernova,1993,80,Juan Miñón,"Marta Sánchez, Javier Gurruchaga, Gabino Diego","Comedy, Sci-Fi",2.3
+817,Libera me,1993,75,Alain Cavalier,"Ange Andréani, Alexandra Arnould, Claude-Maurice Baille",Drama,6.7
+818,Mr. Pellam,1993,123,Bapu,"Rajendra Prasad, Aamani, A.V.S. Subramanyam","Comedy, Drama",7.7
+819,Deti chugunnykh bogov,1993,80,Tamás Tóth,"Evgeniy Sidikhin, Aleksandr Kalyagin, Yuriy Yakovlev",Drama,6.7
+820,My Life and Times with Antonin Artaud,1993,90,Gérard Mordillat,"Sami Frey, Marc Barbé, Julie Jézéquel","Biography, Drama",6.9
+821,Russkiy biznes,1993,78,"Mark Ayzenberg, Mikhail Kokshenov","Mikhail Kokshenov, Semyon Farada, Saveliy Kramarov",Comedy,4.2
+822,The Baby Doll Murders,1993,90,Paul Leder,"Jeff Kober, John Saxon, Melanie Smith",Thriller,4.2
+823,Monstry,1993,89,Sergey Kuchkov,"Boris Shcherbakov, Vladimir Antonik, Georgiy Nikolaenko","Sci-Fi, Thriller",2.5
+824,Al-kompars,1993,100,Nabil Maleh,"Bassam Kousa, Samar Sami, Wafaa Mouselley","Comedy, Drama, Romance",7.8
+825,Khal-Naaikaa,1993,147,Saawan Kumar Tak,"Jeetendra, Jaya Prada, Anu Agarwal","Crime, Drama, Thriller",3.7
+826,The Myth of the Male Orgasm,1993,90,John Hamilton,"Bruce Dinsmore, Miranda de Pencier, Mark Camacho","Comedy, Romance",5.6
+827,The Avenging Quartet,1993,96,Stanley Wing Siu,"Cynthia Khan, Moon Lee, Yukari Ôshima",Action,5.2
+828,Un'anima divisa in due,1993,124,Silvio Soldini,"Fabrizio Bentivoglio, Maria Bakò, Philippine Leroy-Beaulieu",Romance,7.1
+829,Strelets neprikayannyy,1993,96,Georgiy Shengeliya,"Vladimir Ilin, Tatyana Dogileva, Irina Feofanova",Romance,6.8
+830,Sex and the Single Alien,1993,89,Peter Daskaloff,"Eric Kohner, Melanie Rose, Frank Fowler","Comedy, Sci-Fi",3.8
+831,Stefano Quantestorie,1993,92,Maurizio Nichetti,"Maurizio Nichetti, Elena Sofia Ricci, Amanda Sandrelli","Comedy, Drama",6.7
+832,Teste rasate,1993,94,Claudio Fragasso,"Gianmarco Tognazzi, Franca Bettoia, Flavio Bucci","Action, Drama",5.0
+833,Anmol,1993,163,Ketan Desai,"Maya Alagh, Sudha Chopra, Anil Dhawan","Drama, Family, Romance",5.2
+834,The Abadanis,1993,93,Kianoush Ayari,"Saeed Poursamimi, Hassan Rezai, Saeed Sheikhzadeh","Drama, War",7.1
+835,Strike a Pose,1993,75,Dean Hamilton,"Robert Eastwick, Michele Brin, Margie Peterson",Thriller,3.7
+836,I'm Thinking of You,1993,95,"Jean-Pierre Dardenne, Luc Dardenne","Robin Renucci, Fabienne Babe, Tolsty",Drama,6.1
+837,Çizme,1993,84,Ismail Günes,"Engin Inal, Macit Flordun, Ertaç Ünsal",Drama,6.2
+838,Combination Platter,1993,84,Tony Chan,"Jeffrey Lau, Coleen O'Brien, Chit-Man Chan",Drama,6.4
+839,The Blonde,1993,111,Sergio Rubini,"Sergio Rubini, Nastassja Kinski, Ennio Fantastichini",Thriller,5.3
+840,The Witching,1993,64,Matthew Jason Walsh,"Auggi Alvarez, Mike Hellman, Frank Dunlay","Comedy, Horror",3.2
+841,Hidden Obsession,1993,92,John Stewart,"Jan-Michael Vincent, Heather Thomas, Nicholas Celozzi",Thriller,4.4
+842,"Help, My Daughter Wants to Marry",1993,95,Per Pallesen,"Kurt Ravn, Peter Schrøder, Niels Olsen",Comedy,5.5
+843,The Flesh Merchant,1993,100,Mike Tristano,"Neil Delama, Joe Estevez, Don Stroud","Drama, Thriller",4.6
+844,Shreemaan Aashique,1993,152,Deepak Anand,"Rishi Kapoor, Urmila Matondkar, Bindu Desai","Comedy, Romance",4.0
+845,Thieves Quartet,1993,90,Joe Chappelle,"R. Lewis Blake, Michele Cole, James Denton","Crime, Drama, Thriller",4.6
+846,Henry's Romance,1993,110,Thomas Koerfer,"Thibault de Montalembert, Andreas Schmid, Florence Darel","Drama, Romance",5.7
+847,To the Starry Island,1993,102,Park Kwang-su,"So-yeong Ahn, Kim Bo-kyung, Hyung-in Choi","Drama, Fantasy",7.0
+848,Michael Laudrup - en fodboldspiller,1993,74,Jørgen Leth,"Michael Laudrup, Johan Cruijff, Jørgen Leth","Documentary, Biography, Sport",6.7
+849,Rosa rosae,1993,93,Fernando Colomo,"Ana Belén, María Barranco, Juanjo Puigcorbé",Comedy,4.7
+850,Lefteris Dimakopoulos,1993,105,Periklis Hoursoglou,"Nikos Georgakis, Maria Skoula, Nikos Orfanos",Drama,6.6
+851,"Mario, Maria e Mario",1993,102,Ettore Scola,"Giulio Scarpati, Valeria Cavalli, Enrico Lo Verso","Comedy, Drama, Romance",5.7
+852,Lord of East China Sea II,1993,104,Man Kit Poon,"Ray Lui, Kent Cheng, Carina Lau","Crime, Drama, Mystery",6.9
+853,Yolcu,1993,102,Basar Sabuncu,"Tarik Akan, Müjde Ar, Halil Ergün",Drama,6.3
+854,Marathon,1993,130,Carlos Saura,"Dieter Baumann, Larry Bird, Hassiba Boulmerka","Documentary, Sport",6.7
+855,Over the Line,1993,108,"Ovidio G. Assonitis, Roberto D'Ettorre Piazzoli","Lesley-Anne Down, John Enos III, Lady B. Pearl","Drama, Thriller",4.2
+856,The Night of the Executioner,1993,93,Paul Naschy,"Paul Naschy, Manuel Zarzo, Paloma Cela","Crime, Drama, Horror",5.5
+857,Almost Blue,1993,85,Keoni Waxman,"Michael Madsen, Lynette Walden, Garrett Morris","Drama, Thriller",4.8
+858,Come the Morning,1993,60,Michael O. Sajbel,"Susan Howard, Travis Knight, Heather Ramsey",Drama,6.0
+859,Her Fatal Ways III,1993,98,Alfred Cheung,"Do Do Cheng, Alfred Cheung, Sung-Young Chen","Comedy, Crime",6.0
+860,Beauty School,1993,92,Ernest G. Sauer,"Sylvia Kristel, Kevin Bernhardt, Veronica Hart",Comedy,3.1
+861,Friends,1993,105,Elaine Proctor,"Kerry Fox, Dambisa Kente, Michele Burgers","Crime, Drama",6.2
+862,Family Matters,1993,98,Susanne Bier,"Philip Zandén, Ghita Nørby, Ernst-Hugo Järegård",Drama,5.3
+863,The Satan Killer,1993,94,Steve Sayre,"Steve Sayre, Billy Franklin, James Westbrook","Action, Crime, Thriller",3.6
+864,Legal Briefs,1993,95,Joe Coppoletta,"Lisa Hasslehurst, Jeff Rose, Bob Wyatt","Comedy, Romance",5.4
+865,Passage to Buddha,1993,136,Jang Sun-woo,"Won Mi-kyung, Oh Tae-kyung, Kim Hye Sun",Drama,6.8
+866,Navodneniye,1993,99,Igor Minaiev,"Isabelle Huppert, Boris Nevzorov, Svetlana Kryuchkova","Crime, Drama, Mystery",6.6
+867,Dalaal,1993,160,Partho Ghosh,"Mithun Chakraborty, Ayesha Jhulka, Ravi Behl","Action, Crime, Drama",4.9
+868,Private Lessons II,1993,85,Akiyoshi Kimata,"Gorô Inagaki, Joanna Pacula, Masahiro Nakai","Comedy, Drama, Romance",3.8
+869,Miroslava,1993,100,Alejandro Pelayo,"Arielle Dombasle, Claudio Brook, Milosh Trnka",Drama,6.5
+870,Balanga,1993,76,Lukasz Wylezalek,"Jacek Palucha, Pawel Fesolowicz, Jan Tesarz",Drama,5.0
+871,Ap' to hioni,1993,90,Sotiris Goritsas,"Gerasimos Skiadaresis, Vasias Eleftheriadis, Andonis Manolas",Drama,6.6
+872,Dil Hai Betaab,1993,157,K.C. Bokadia,"Vivek Mushran, Ajay Devgn, Pratibha Sinha","Action, Drama, Romance",4.0
+873,Fontána pre Zuzanu 2,1993,112,Dusan Rapos,"Eva Vejmelková, Pavol Habera, Helena Ruzicková","Comedy, Musical",4.2
+874,Caino e Caino,1993,102,Alessandro Benvenuti,"Enrico Montesano, Alessandro Benvenuti, Daniela Poggi","Comedy, Drama",4.8
+875,Ekattorer Jishu,1993,100,Nasiruddin Yousuff,"Pijush Bandyopadhyay, Humayun Faridi, Zahir Uddin Piar","Drama, War",8.1
+876,Alive: 20 Years Later,1993,51,Jill Fullerton-Smith,"Martin Sheen, Laura Canessa, Roberto Canessa",Documentary,7.2
+877,Prinz in Hölleland,1993,96,Michael Stock,"Wolfram Haack, Stefan Laarmann, Michael Stock",Drama,5.5
+878,Eye of the Stranger,1993,96,David Heavener,"David Heavener, Martin Landau, Sally Kirkland",Drama,3.5
+879,Mayalodu,1993,149,"S.V. Krishna Reddy, Ranga Rao Kurra","Rajendra Prasad, Soundarya, Brahmanandam","Comedy, Drama",6.7
+880,Death by Misadventure: The Mysterious Life of Bruce Lee,1993,92,Toby Russell,"Brandon Lee, Peter Wu, Sheun-Leung Wong","Documentary, Action",6.6
+881,Death Dancers,1993,77,Jason Holt,"Deborah Dutch, Mitchell Scott, Jack Margolis","Horror, Thriller",2.8
+882,Kickboxer,1993,93,Wu Ma,"Biao Yuen, Hsiu-Ling Lu, Wah Yuen",Action,5.9
+883,Conspiracy of Silence,1993,60,Nick Gray,"Lawrence E. King Jr., John DeCamp, Robert Hupp",Documentary,7.5
+884,La cavale des fous,1993,92,Marco Pico,"Pierre Richard, Michel Piccoli, Dominique Pinon","Comedy, Drama",5.7
+885,Harjunpää and the Persecutors,1993,102,Åke Lindman,"Kari Heiskanen, Riitta Havukainen, Mats Långbacka","Crime, Drama, Thriller",5.7
+886,Finale in Blood,1993,94,Fruit Chan,"Lawrence Cheng, Ruth Winona Tao, Chikako Aoyama","Comedy, Drama, Horror",5.8
+887,Child Murders,1993,78,Ildikó Szabó,"Barnabás Tóth, Mari Balogh, Ilona Kállay",Drama,6.5
+888,Da Vinci's War,1993,94,Raymond Martino,"Michael Nouri, Joey Travolta, Vanity",Action,3.9
+889,A Day Without Policeman,1993,98,Gwing-Gai Lee,"Simon Yam, Li Yu, Kwong-Leung Wong",Crime,5.5
+890,El laberinto griego,1993,96,Rafael Alcázar,"Omero Antonutti, Aitana Sánchez-Gijón, Eusebio Poncela",Thriller,4.9
+891,Pajeczarki,1993,105,Barbara Sass,"Adrianna Biedrzynska, Maria Pakulnis, Jan Nowicki","Action, Comedy",5.0
+892,Jack L. Warner: The Last Mogul,1993,104,Gregory Orr,"Efrem Zimbalist Jr., Jack L. Warner, Lina Basquette","Documentary, Biography",6.7
+893,Aadmi,1993,153,Arshad Khan,"Vikas Anand, Sulabha Arya, Rakesh Bedi","Action, Crime, Drama",5.4
+894,Rage,1993,93,Anthony Maharaj,"Richard Norton, Karen Moncrieff, Chuck Jeffreys",Action,4.7
+895,Lza ksiecia ciemnosci,1993,93,"Marek Piestrak, Villem Indrikson, Airi Kasera","Hanna Dunowska, Tomasz Stockinger, Vasiliy Lanovoy",Horror,4.1
+896,Road Scholar,1993,82,Roger Weisberg,"Andrei Codrescu, Allen Ginsberg",Documentary,7.2
+897,Marupadiyam,1993,138,Balu Mahendra,"Revathi, Nizhalgal Ravi, Arvind Swamy","Drama, Family",7.5
+898,Cadillac Girls,1993,96,Nicholas Kendall,"Mia Kirshner, Morrissey Dunn, Benita Ha",Drama,5.8
+899,Dirty Love 2: The Love Games,1993,88,Bruno Gaburro,"Valentine Demy, Alessandro Freyberger, David D'Ingeo",Romance,4.6
+900,The Secret Rapture,1993,97,Howard Davies,"Juliet Stevenson, Joanne Whalley, Penelope Wilton","Drama, Romance, Thriller",5.7
+901,Dikiy vostok,1993,98,Rashid Nugmanov,"Aleksandr Aksyonov, Farkhad Amankulov, Konstantin Fyodorov",Action,5.8
+902,The Goodbye Bird,1993,91,"William Clark, William Tannen","Christopher Pettiet, Cindy Pickett, Concetta Tomei","Adventure, Drama, Family",5.1
+903,The Man on the Shore,1993,106,Raoul Peck,"Jennifer Zubar, Toto Bissainthe, Patrick Rameau","Drama, History, War",6.5
+904,Maharasan,1993,144,G.N. Rangarajan,"Kamal Haasan, Bhanupriya, Ramesh Aravind","Comedy, Drama",5.6
+905,First Shot,1993,100,David Lam,"Lung Ti, Maggie Cheung, Simon Yam","Action, Thriller",6.4
+906,Fatal Love,1993,90,Kin Lo,"Ellen Chan, Michael Wong, Maria Cordero","Drama, Horror, Mystery",5.1
+907,Blue Flame,1993,88,Cassian Elwes,"Charley Hayward, Jad Mager, Kerri Green","Drama, Sci-Fi",4.2
+908,Allari Alludu,1993,132,A. Kodandarami Reddy,"Nagarjuna Akkineni, Vanisri, Meena","Comedy, Drama, Romance",6.6
+909,The Viper,1993,105,Mohamad Reza Aalami,"Jamshid Hashempur, Iloosh Khoshabe, Ali Amjadi","Action, Thriller",4.9
+910,L.A. Goddess,1993,96,Jag Mundhra,"Kathy Shower, David Heavener, Joe Estevez","Comedy, Drama, Romance",3.7
+911,Veerta,1993,129,Shibu Mitra,"Sunny Deol, Jagdarshan Samra, Jaya Prada","Action, Crime, Drama",4.7
+912,The Criminal Mind,1993,93,Joseph Vittorie,"Frank Rossi, Ben Cross, Tahnee Welch","Action, Crime, Drama",3.7
+913,Days of Tomorrow,1993,93,Jeffrey Lau,"Andy Lau, Jay Lau, Carrie Ng",Drama,6.4
+914,Because Why,1993,104,Arto Paragamian,"Michael Riley, Martine Rochon, Doru Bandol","Comedy, Romance",5.9
+915,Uninvited,1993,90,Michael Derek Bohusz,"Jack Elam, Christopher Boyer, Bari Buckner","Horror, Western",3.6
+916,François Truffaut: Portraits volés,1993,88,"Michel Pascal, Serge Toubiana","Fanny Ardant, Olivier Assayas, Alexandre Astruc",Documentary,7.6
+917,For Fun,1993,97,Ying Ning,"Zongluo Huang, Wenjie Huang, Shanxu Han","Comedy, Drama",6.8
+918,Laughter of the Water Margins,1993,84,Clifton Ko,"Samuel Hui, Teresa Sun-Kwan Mo, Ricky Hui","Comedy, Crime",5.4
+919,Horror Story,1993,99,Jaroslav Brabec,"Ondrej Pavelka, Klára Jirsáková, Raoul Schránil","Adventure, Comedy, Fantasy",6.2
+920,My Hero 2,1993,93,Joseph Chi,"Dicky Cheung, Man-Tat Ng, Vivian Lai","Comedy, Crime",5.4
+921,The Sword of Many Lovers,1993,111,Man Kit Poon,"Leon Lai, Sharla Cheung, Michelle Reis","Action, Drama",5.5
+922,Blackfellas,1993,95,James Ricketson,"John Moore, David Ngoombujarra, Jaylene Riley",Drama,6.3
+923,Trahir,1993,103,Radu Mihaileanu,"Johan Leysen, Alexandru Repan, Mireille Perrier","Drama, History",7.1
+924,Lightning in a Bottle,1993,109,Jeff Kwitny,"Lynda Carter, Dee Wallace, Martin Kove",Drama,5.7
+925,Squanderers,1996,95,John Sjogren,"Chad McQueen, Don Swayze, Joe Estevez",Action,4.1
+926,La fine è nota,1993,97,Cristina Comencini,"Fabrizio Bentivoglio, Carlo Cecchi, Valérie Kaprisky",Thriller,6.0
+927,Diabolical Inheritance,1993,78,Alfredo Salazar,"Lorena Herrera, Roberto Guinar, Holda Ramírez",Horror,4.5
+928,La guagua aérea,1993,80,Luis Molina Casanova,"Chavito Marrero, Idalia Pérez Garay, Teofilo Torres","Comedy, Drama",7.5
+929,"Yesteryou, Yesterme, Yesterday",1993,93,Leung-Chun Chiu,"Ann Bridgewater, Bo-Bo Fung, Leng-Leng Ho","Comedy, Romance",6.7
+930,The Little Dolphins,1993,98,Dinos Dimopoulos,"Stavros Dogiakos, Konstadina Alevra, Spyros Pantazis","Comedy, Drama, Family",7.8
+931,Mechanic Alludu,1993,147,Gopal B.,"Chiranjeevi, Akkineni Nageswara Rao, Vijayashanti",Comedy,5.7
+932,Pudhiya Mugam,1993,123,Suresh Chandra Menon,"Suresh Chandra Menon, Nirmala, Revathi","Action, Drama, Thriller",6.3
+933,Naked Instinct,1993,90,David DeCoteau,"Michelle Bauer, De'Ann Power, David A. Poole","Comedy, Drama",4.6
+934,Gunaah,1993,117,Mahesh Bhatt,"Sunny Deol, Dimple Kapadia, Sumeet Saigal","Action, Thriller",4.2
+935,Rail of the Star,1993,76,"Toshio Hirata, Satoru Namekawa","Ken'ichi Ogata, Reiko Suzuki, Tomoko Maruo","Animation, Biography, Drama",6.9
+936,Sweet Killing,1993,87,Eddy Matalon,"Anthony Higgins, Leslie Hope, F. Murray Abraham","Comedy, Crime, Drama",5.2
+937,The Crude Oasis,1993,81,Alex Graves,"Jennifer Taylor, Aaron Shields, Robert Peterson","Drama, Romance, Thriller",4.9
+938,Slave of the Sword,1994,79,Yen-Ping Chu,"Pauline Chan, Shu-Chun Ni, Hsuan Shao","Action, Drama",4.9
+939,Den russiske sangerinde,1993,119,Morten Arnfred,"Ole Lemmeke, Elena Butenko, Vsevolod Larionov","Romance, Thriller",5.7
+940,Il lungo silenzio,1993,98,Margarethe von Trotta,"Carla Gravina, Jacques Perrin, Paolo Graziosi",Drama,6.6
+941,Lorry Driver,1993,135,Gopal B.,"Nandamuri Balakrishna, Vijayashanti, Raogopalrao","Action, Drama",5.9
+942,Living Naked,1993,102,Robert Salis,"Eric Bulard, Gaby Cespedes, Marc-Alain Descamps",Documentary,6.6
+943,Záhada hlavolamu,1993,97,Petr Kotek,"Ondrej Host, Martin Voldrich, David Divis","Family, Mystery",6.5
+944,Ishi: The Last Yahi,1993,57,"Jed Riffe, Pamela Roberts","Rayna Green, Linda Hunt",Documentary,8.1
+945,Varasudu,1993,158,E.V.V. Satyanarayana,"Nagarjuna Akkineni, Nagma, Krishna","Action, Drama",6.6
+946,Walter Vetrivel,1993,147,P. Vasu,"Prabhu Deva, Goundamani, Sathyaraj","Action, Drama",6.2
+947,Abbaigaru,1993,154,E.V.V. Satyanarayana,"Venkatesh Daggubati, Meena, Jayachitra","Comedy, Drama",6.9
+948,O Fio do Horizonte,1993,91,Fernando Lopes,"Claude Brasseur, Andréa Ferréol, Ana Padrão","Drama, Mystery, Thriller",6.4
+949,The Return of the North Wind,1993,77,Maite Ruiz de Austri,"Asun Iturriagagoitia, Xebe Atencia, Kepa Cueto",Animation,5.7
+950,Roosters,1993,110,Robert M. Young,"Edward James Olmos, Sonia Braga, Sarah Lassez",Drama,6.3
+951,Fares al-madina,1993,115,Mohamed Khan,"Mahmoud Hemida, Lucy, Abdulmoniem Aakef",Drama,7.3
+952,Stella polaris,1993,89,Knut Erik Jensen,"Anne Krigsvoll, Ketil Høegh, Thomas Bastholm","Drama, History, War",6.0
+953,Rex: A Dinosaur's Story,1993,106,Haruki Kadokawa,"Yumi Adachi, Shinobu Ôtake, Tsunehiko Watase","Family, Fantasy, Sci-Fi",6.0
+954,Libera,1993,83,Pappi Corsicato,"Iaia Forte, Cristina Donadio, Ciro Piscopo",Comedy,6.7
+955,Sequence of Feelings,1993,105,Radoslaw Piwowarski,"Daniel Olbrychski, Maria Seweryn, Eugeniusz Priwieziencew","Drama, Comedy, Romance",5.3
+956,Pro biznesmena Fomu,1993,77,Valeri Chikov,"Mikhail Evdokimov, Aleksandra Livanskaya, Valeri Mironov","Comedy, Drama",6.1
+957,Sex Is...,1993,82,Marc Huestis,"Larry Brinkin, Danny Castellow, Alex Chee",Documentary,6.7
+958,Death Triangle,1993,98,"Kin-Kwok Lai, Stanley Wing Siu","Cynthia Khan, Moon Lee, Eric Tsang",Action,5.3
+959,Killing Grandpa,1993,115,Luis César D'Angiolillo,"Federico Luppi, Inés Estévez, Mirta Busnelli","Comedy, Drama",5.6
+960,Manhattan by Numbers,1993,110,Amir Naderi,"John Wojda, Daniel Oreskes, Mary F. Geng",Drama,7.1
+961,Marie,1993,85,Marian Handwerker,"Marie Gillain, Alessandro Sigona, Aurore Clément",Drama,6.7
+962,Dikaya lyubov,1993,122,Villen Novak,"Kseniya Kachalina, Vladimir Shchegolkov, Kseniya Bogolepova",Drama,6.4
+963,Kyôso tanjô,1993,95,Toshihiro Tenma,"Masato Hagiwara, Kôji Tamaki, Ittoku Kishibe",Comedy,7.4
+964,Sthalathe Pradhana Payyans,1993,148,Shaji Kailas,"Jagadish, Narendra Prasad, Janardanan","Action, Crime, Thriller",5.8

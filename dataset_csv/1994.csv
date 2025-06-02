@@ -1,0 +1,974 @@
+ID,Name,Year,Duration,Directors,Actors,Genres,Rating
+1,The Shawshank Redemption,1994,142,Frank Darabont,"Tim Robbins, Morgan Freeman, Bob Gunton",Drama,9.3
+2,Forrest Gump,1994,142,Robert Zemeckis,"Tom Hanks, Robin Wright, Gary Sinise","Drama, Romance",8.8
+3,Pulp Fiction,1994,154,Quentin Tarantino,"John Travolta, Uma Thurman, Samuel L. Jackson","Crime, Drama",8.9
+4,Léon: The Professional,1994,110,Luc Besson,"Jean Reno, Gary Oldman, Natalie Portman","Action, Crime, Drama",8.5
+5,The Lion King,1994,88,"Roger Allers, Rob Minkoff","Matthew Broderick, Jeremy Irons, James Earl Jones","Animation, Adventure, Drama",8.5
+6,The Mask,1994,101,Chuck Russell,"Jim Carrey, Cameron Diaz, Peter Riegert","Comedy, Crime, Fantasy",7.0
+7,Dumb and Dumber,1994,107,"Peter Farrelly, Bobby Farrelly","Jim Carrey, Jeff Daniels, Lauren Holly",Comedy,7.3
+8,Speed,1994,116,Jan de Bont,"Keanu Reeves, Dennis Hopper, Sandra Bullock","Action, Adventure, Thriller",7.3
+9,Interview with the Vampire,1994,123,Neil Jordan,"Brad Pitt, Tom Cruise, Antonio Banderas","Drama, Fantasy, Horror",7.5
+10,Ace Ventura: Pet Detective,1994,86,Tom Shadyac,"Jim Carrey, Courteney Cox, Sean Young",Comedy,6.9
+11,True Lies,1994,141,James Cameron,"Arnold Schwarzenegger, Jamie Lee Curtis, Tom Arnold","Action, Comedy, Thriller",7.3
+12,Natural Born Killers,1994,119,Oliver Stone,"Woody Harrelson, Juliette Lewis, O-Lan Jones","Crime, Romance",7.2
+13,Clerks,1994,92,Kevin Smith,"Brian O'Halloran, Jeff Anderson, Marilyn Ghigliotti",Comedy,7.7
+14,The Crow,1994,102,Alex Proyas,"Brandon Lee, Michael Wincott, Rochelle Davis","Action, Crime, Drama",7.5
+15,Stargate,1994,116,Roland Emmerich,"Kurt Russell, James Spader, Jaye Davidson","Action, Adventure, Sci-Fi",7.0
+16,Legends of the Fall,1994,133,Edward Zwick,"Brad Pitt, Anthony Hopkins, Aidan Quinn","Drama, Romance, War",7.5
+17,Ed Wood,1994,127,Tim Burton,"Johnny Depp, Martin Landau, Sarah Jessica Parker","Biography, Comedy, Drama",7.8
+18,Four Weddings and a Funeral,1994,117,Mike Newell,"Hugh Grant, Andie MacDowell, James Fleet","Comedy, Drama, Romance",7.1
+19,The Santa Clause,1994,97,John Pasquin,"Tim Allen, Judge Reinhold, Wendy Crewson","Comedy, Drama, Family",6.6
+20,Maverick,1994,127,Richard Donner,"Mel Gibson, Jodie Foster, James Garner","Action, Adventure, Comedy",7.0
+21,Naked Gun 33 1/3: The Final Insult,1994,83,Peter Segal,"Leslie Nielsen, Priscilla Presley, George Kennedy","Comedy, Crime",6.5
+22,Three Colors: Red,1994,99,Krzysztof Kieslowski,"Irène Jacob, Jean-Louis Trintignant, Frédérique Feder","Drama, Mystery, Romance",8.1
+23,Clear and Present Danger,1994,141,Phillip Noyce,"Harrison Ford, Willem Dafoe, Anne Archer","Action, Crime, Drama",6.9
+24,Chungking Express,1994,102,Wong Kar-Wai,"Brigitte Lin, Takeshi Kaneshiro, Tony Leung Chiu-wai","Comedy, Crime, Drama",7.9
+25,Beverly Hills Cop III,1994,104,John Landis,"Eddie Murphy, Jon Tenney, Joey Travolta","Action, Comedy, Crime",5.5
+26,The Flintstones,1994,91,Brian Levant,"John Goodman, Rick Moranis, Rosie O'Donnell","Comedy, Family, Fantasy",5.0
+27,Star Trek: Generations,1994,118,David Carson,"Patrick Stewart, William Shatner, Malcolm McDowell","Action, Adventure, Mystery",6.6
+28,The Hudsucker Proxy,1994,111,"Joel Coen, Ethan Coen","Tim Robbins, Paul Newman, Jennifer Jason Leigh","Comedy, Drama, Fantasy",7.2
+29,In the Mouth of Madness,1994,95,John Carpenter,"Sam Neill, Jürgen Prochnow, Julie Carmen","Drama, Fantasy, Horror",7.1
+30,Three Colors: White,1994,92,Krzysztof Kieslowski,"Zbigniew Zamachowski, Julie Delpy, Janusz Gajos","Comedy, Drama, Romance",7.6
+31,Street Fighter,1994,102,Steven E. de Souza,"Jean-Claude Van Damme, Raul Julia, Ming-Na Wen","Action, Adventure, Comedy",4.1
+32,The Client,1994,119,Joel Schumacher,"Susan Sarandon, Tommy Lee Jones, Brad Renfro","Crime, Drama, Mystery",6.7
+33,Richie Rich,1994,95,Donald Petrie,"Macaulay Culkin, Edward Herrmann, John Larroquette","Comedy, Family",5.4
+34,Quiz Show,1994,133,Robert Redford,"Ralph Fiennes, John Turturro, Rob Morrow","Biography, Drama, History",7.5
+35,Junior,1994,109,Ivan Reitman,"Arnold Schwarzenegger, Danny DeVito, Emma Thompson","Comedy, Romance, Sci-Fi",4.7
+36,The Specialist,1994,110,Luis Llosa,"Sylvester Stallone, Sharon Stone, James Woods","Action, Drama, Thriller",5.6
+37,Heavenly Creatures,1994,99,Peter Jackson,"Melanie Lynskey, Kate Winslet, Sarah Peirse","Biography, Crime, Drama",7.2
+38,Shallow Grave,1994,89,Danny Boyle,"Kerry Fox, Christopher Eccleston, Ewan McGregor","Crime, Drama, Thriller",7.2
+39,New Nightmare,1994,112,Wes Craven,"Heather Langenkamp, Robert Englund, Jf Davis","Fantasy, Horror, Mystery",6.4
+40,Timecop,1994,99,Peter Hyams,"Jean-Claude Van Damme, Mia Sara, Ron Silver","Action, Crime, Sci-Fi",5.9
+41,Little Women,1994,115,Gillian Armstrong,"Susan Sarandon, Winona Ryder, Kirsten Dunst","Drama, Family, Romance",7.3
+42,Wolf,1994,125,Mike Nichols,"Jack Nicholson, Michelle Pfeiffer, James Spader","Drama, Horror, Romance",6.3
+43,Frankenstein,1994,123,Kenneth Branagh,"Robert De Niro, Kenneth Branagh, Helena Bonham Carter","Drama, Horror, Romance",6.3
+44,The Little Rascals,1994,82,Penelope Spheeris,"Travis Tedford, Bug Hall, Brittany Ashton Holmes","Comedy, Family, Romance",6.3
+45,"The Adventures of Priscilla, Queen of the Desert",1994,104,Stephan Elliott,"Hugo Weaving, Guy Pearce, Terence Stamp","Comedy, Music",7.5
+46,Baby's Day Out,1994,99,Patrick Read Johnson,"Lara Flynn Boyle, Joe Mantegna, Joe Pantoliano","Adventure, Comedy, Crime",6.2
+47,Airheads,1994,92,Michael Lehmann,"Brendan Fraser, Steve Buscemi, Adam Sandler","Comedy, Crime, Music",6.2
+48,Wyatt Earp,1994,191,Lawrence Kasdan,"Kevin Costner, Dennis Quaid, Gene Hackman","Adventure, Biography, Drama",6.7
+49,Andaz Apna Apna,1994,160,Rajkumar Santoshi,"Aamir Khan, Salman Khan, Raveena Tandon","Action, Comedy, Romance",8.0
+50,Disclosure,1994,128,Barry Levinson,"Michael Douglas, Demi Moore, Donald Sutherland","Drama, Thriller",6.2
+51,Reality Bites,1994,99,Ben Stiller,"Winona Ryder, Ethan Hawke, Janeane Garofalo","Comedy, Drama, Romance",6.6
+52,Don Juan DeMarco,1994,97,Jeremy Leven,"Johnny Depp, Marlon Brando, Faye Dunaway","Comedy, Drama, Romance",6.7
+53,The River Wild,1994,111,Curtis Hanson,"Meryl Streep, Kevin Bacon, David Strathairn","Adventure, Crime, Thriller",6.5
+54,Drunken Master II,1994,102,"Chia-Liang Liu, Jackie Chan","Jackie Chan, Ho-Sung Pak, Lung Ti","Action, Comedy",7.5
+55,Miracle on 34th Street,1994,114,Les Mayfield,"Richard Attenborough, Elizabeth Perkins, Dylan McDermott","Drama, Family, Fantasy",6.6
+56,It Could Happen to You,1994,101,Andrew Bergman,"Nicolas Cage, Bridget Fonda, Rosie Perez","Comedy, Drama, Romance",6.4
+57,D2: The Mighty Ducks,1994,106,Sam Weisman,"Emilio Estevez, Kathryn Erbe, Michael Tucker","Comedy, Drama, Family",6.1
+58,Muriel's Wedding,1994,106,P.J. Hogan,"Toni Collette, Rachel Griffiths, Bill Hunter","Comedy, Drama",7.2
+59,Bullets Over Broadway,1994,98,Woody Allen,"John Cusack, Dianne Wiest, Jennifer Tilly","Comedy, Crime",7.4
+60,The Postman,1994,108,Michael Radford,"Massimo Troisi, Philippe Noiret, Maria Grazia Cucinotta","Biography, Comedy, Drama",7.8
+61,Once Were Warriors,1994,102,Lee Tamahori,"Rena Owen, Temuera Morrison, Mamaengaroa Kerr-Bell","Crime, Drama",7.9
+62,Police Academy: Mission to Moscow,1994,83,Alan Metter,"G.W. Bailey, George Gaynes, Michael Winslow","Comedy, Crime",3.5
+63,Pom Poko,1994,119,Isao Takahata,"Shinchô Kokontei, Makoto Nonomura, Yuriko Ishida","Animation, Comedy, Drama",7.3
+64,Serial Mom,1994,95,John Waters,"Kathleen Turner, Sam Waterston, Ricki Lake","Comedy, Crime, Thriller",6.8
+65,Angels in the Outfield,1994,102,William Dear,"Danny Glover, Brenda Fricker, Tony Danza","Comedy, Drama, Family",6.2
+66,The Next Karate Kid,1994,107,Christopher Cain,"Pat Morita, Hilary Swank, Michael Ironside","Action, Drama, Family",4.6
+67,Blown Away,1994,121,Stephen Hopkins,"Jeff Bridges, Tommy Lee Jones, Suzy Amis","Action, Crime, Drama",6.2
+68,Little Giants,1994,107,Duwayne Dunham,"Rick Moranis, Ed O'Neill, Shawna Waldron","Comedy, Family, Sport",6.5
+69,Nell,1994,112,Michael Apted,"Jodie Foster, Liam Neeson, Natasha Richardson",Drama,6.5
+70,Major League II,1994,105,David S. Ward,"Charlie Sheen, Tom Berenger, Corbin Bernsen","Comedy, Sport",5.6
+71,Hoop Dreams,1994,170,Steve James,"William Gates, Arthur Agee, Emma Gates","Documentary, Drama, Sport",8.3
+72,The Swan Princess,1994,90,Richard Rich,"Jack Palance, Howard McGillin, Michelle Nicastro","Animation, Adventure, Comedy",6.4
+73,The Shadow,1994,108,Russell Mulcahy,"Alec Baldwin, John Lone, Penelope Ann Miller","Action, Adventure, Crime",6.1
+74,Death and the Maiden,1994,103,Roman Polanski,"Sigourney Weaver, Ben Kingsley, Stuart Wilson","Drama, Mystery, Thriller",7.2
+75,The Ref,1994,97,Ted Demme,"Denis Leary, Judy Davis, Kevin Spacey","Comedy, Crime, Drama",6.9
+76,Only You,1994,109,Norman Jewison,"Marisa Tomei, Robert Downey Jr., Bonnie Hunt","Comedy, Romance",6.5
+77,Texas Chainsaw Massacre: The Next Generation,1994,87,Kim Henkel,"Renée Zellweger, Matthew McConaughey, Robert Jacks","Comedy, Horror, Thriller",3.4
+78,The Last Seduction,1994,110,John Dahl,"Linda Fiorentino, Peter Berg, Bill Pullman","Crime, Drama, Romance",7.0
+79,I.Q.,1994,100,Fred Schepisi,"Tim Robbins, Meg Ryan, Walter Matthau","Comedy, Romance",6.2
+80,Immortal Beloved,1994,121,Bernard Rose,"Gary Oldman, Jeroen Krabbé, Isabella Rossellini","Biography, Drama, Music",7.4
+81,Color of Night,1994,121,Richard Rush,"Bruce Willis, Jane March, Rubén Blades","Drama, Mystery, Romance",5.2
+82,The Pagemaster,1994,80,"Pixote Hunt, Joe Johnston","Macaulay Culkin, Christopher Lloyd, Kanin Howell","Animation, Adventure, Comedy",6.2
+83,On Deadly Ground,1994,101,Steven Seagal,"Steven Seagal, Michael Caine, Joan Chen","Action, Adventure, Thriller",4.6
+84,Fist of Legend,1994,103,Gordon Chan,"Jet Li, Shinobu Nakayama, Siu-Ho Chin","Action, Drama",7.5
+85,Swimming with Sharks,1994,93,George Huang,"Kevin Spacey, Frank Whaley, Michelle Forbes","Comedy, Crime",7.0
+86,Cemetery Man,1994,103,Michele Soavi,"Rupert Everett, François Hadji-Lazaro, Anna Falchi","Comedy, Horror",7.0
+87,When a Man Loves a Woman,1994,126,Luis Mandoki,"Meg Ryan, Andy Garcia, Ellen Burstyn","Drama, Romance",6.6
+88,Eat Drink Man Woman,1994,124,Ang Lee,"Sihung Lung, Kuei-Mei Yang, Wang Yu-wen","Comedy, Drama, Romance",7.8
+89,Nobody's Fool,1994,110,Robert Benton,"Paul Newman, Bruce Willis, Jessica Tandy","Comedy, Drama",7.3
+90,No Escape,1994,118,Martin Campbell,"Ray Liotta, Lance Henriksen, Stuart Wilson","Action, Drama, Sci-Fi",6.1
+91,Hum Aapke Hain Koun..!,1994,206,Sooraj R. Barjatya,"Madhuri Dixit, Salman Khan, Mohnish Behl","Comedy, Drama, Musical",7.5
+92,Blank Check,1994,93,Rupert Wainwright,"Brian Bonsall, Karen Duffy, James Rebhorn","Comedy, Crime, Family",5.3
+93,The Chase,1994,94,Adam Rifkin,"Charlie Sheen, Kristy Swanson, Henry Rollins","Action, Adventure, Comedy",5.9
+94,Highlander: The Final Dimension,1994,99,Andrew Morahan,"Christopher Lambert, Mario Van Peebles, Deborah Kara Unger","Action, Fantasy, Romance",4.5
+95,Drop Zone,1994,101,John Badham,"Wesley Snipes, Gary Busey, Yancy Butler","Action, Adventure, Thriller",5.6
+96,Crumb,1994,119,Terry Zwigoff,"Robert Crumb, Aline Kominsky-Crumb, Charles Crumb","Documentary, Biography, Comedy",8.0
+97,Exotica,1994,103,Atom Egoyan,"Bruce Greenwood, Elias Koteas, Don McKellar",Drama,7.0
+98,My Girl 2,1994,99,Howard Zieff,"Dan Aykroyd, Jamie Lee Curtis, Anna Chlumsky","Comedy, Drama, Family",5.3
+99,To Live,1994,133,Yimou Zhang,"You Ge, Gong Li, Ben Niu","Drama, War",8.3
+100,City Slickers II: The Legend of Curly's Gold,1994,116,Paul Weiland,"Billy Crystal, Jack Palance, Daniel Stern","Comedy, Western",5.6
+101,The Getaway,1994,115,Roger Donaldson,"Alec Baldwin, Kim Basinger, Michael Madsen","Action, Adventure, Crime",5.8
+102,Guarding Tess,1994,96,Hugh Wilson,"Shirley MacLaine, Nicolas Cage, Austin Pendleton","Comedy, Drama",6.2
+103,Kabhi Haan Kabhi Naa,1994,158,Kundan Shah,"Shah Rukh Khan, Suchitra Krishnamoorthi, Deepak Tijori","Comedy, Drama, Music",7.6
+104,Queen Margot,1994,161,Patrice Chéreau,"Isabelle Adjani, Daniel Auteuil, Jean-Hugues Anglade","Biography, Drama, History",7.4
+105,Renaissance Man,1994,128,Penny Marshall,"Danny DeVito, Gregory Hines, James Remar","Comedy, Drama",6.2
+106,Nightwatch,1994,107,Ole Bornedal,"Nikolaj Coster-Waldau, Sofie Gråbøl, Kim Bodnia",Thriller,7.2
+107,The Jungle Book,1994,111,Stephen Sommers,"Jason Scott Lee, Cary Elwes, Lena Headey","Adventure, Family, Fantasy",6.1
+108,Thumbelina,1994,86,"Don Bluth, Gary Goldman","Jodi Benson, Gary Imhoff, Gino Conforti","Animation, Adventure, Family",6.2
+109,The Madness of King George,1994,110,Nicholas Hytner,"Nigel Hawthorne, Helen Mirren, Rupert Graves","Biography, Comedy, Drama",7.2
+110,Ashes of Time,1994,93,Wong Kar-Wai,"Brigitte Lin, Maggie Cheung, Leslie Cheung","Action, Drama",7.0
+111,Above the Rim,1994,96,Jeff Pollack,"Duane Martin, Tupac Shakur, Leon","Crime, Drama, Sport",6.6
+112,Trapped in Paradise,1994,111,George Gallo,"Nicolas Cage, Jon Lovitz, Dana Carvey","Adventure, Comedy, Crime",5.9
+113,With Honors,1994,101,Alek Keshishian,"Joe Pesci, Brendan Fraser, Moira Kelly","Comedy, Drama",6.7
+114,Burnt by the Sun,1994,135,Nikita Mikhalkov,"Nikita Mikhalkov, Ingeborga Dapkunaite, Oleg Menshikov","Drama, War",7.8
+115,The Paper,1994,112,Ron Howard,"Michael Keaton, Glenn Close, Robert Duvall","Comedy, Drama",6.7
+116,Greedy,1994,113,Jonathan Lynn,"Michael J. Fox, Kirk Douglas, Nancy Travis",Comedy,6.3
+117,Before the Rain,1994,113,Milcho Manchevski,"Katrin Cartlidge, Rade Serbedzija, Grégoire Colin","Drama, Romance, War",7.8
+118,Ready to Wear,1994,133,Robert Altman,"Sophia Loren, Julia Roberts, Marcello Mastroianni","Comedy, Drama",5.2
+119,Blue Chips,1994,108,William Friedkin,"Nick Nolte, Mary McDonnell, J.T. Walsh","Drama, Sport",6.3
+120,Fresh,1994,114,Boaz Yakin,"Sean Nelson, Giancarlo Esposito, Samuel L. Jackson","Crime, Drama, Thriller",7.5
+121,North,1994,87,Rob Reiner,"Elijah Wood, Bruce Willis, Jason Alexander","Adventure, Comedy, Drama",4.5
+122,In the Army Now,1994,91,Daniel Petrie Jr.,"Pauly Shore, Lori Petty, Andy Dick","Comedy, War",5.0
+123,Terminal Velocity,1994,102,Deran Sarafian,"Charlie Sheen, Nastassja Kinski, James Gandolfini","Action, Mystery, Romance",5.5
+124,PCU,1994,79,Hart Bochner,"Jeremy Piven, Chris Young, Megan Ward",Comedy,6.6
+125,"Corrina, Corrina",1994,115,Jessie Nelson,"Ray Liotta, Whoopi Goldberg, Tina Majorino","Comedy, Drama, Romance",6.6
+126,Double Dragon,1994,96,James Yukich,"Robert Patrick, Mark Dacascos, Scott Wolf","Action, Adventure, Comedy",3.9
+127,Mixed Nuts,1994,97,Nora Ephron,"Steve Martin, Madeline Kahn, Robert Klein","Comedy, Drama",5.4
+128,Threesome,1994,93,Andrew Fleming,"Lara Flynn Boyle, Josh Charles, Stephen Baldwin","Comedy, Drama, Romance",6.3
+129,The War,1994,126,Jon Avnet,"Elijah Wood, Kevin Costner, Mare Winningham","Drama, History, War",6.8
+130,Bad Girls,1994,99,Jonathan Kaplan,"Madeleine Stowe, Mary Stuart Masterson, Andie MacDowell","Action, Adventure, Drama",5.2
+131,Surviving the Game,1994,96,Ernest R. Dickerson,"Rutger Hauer, Ice-T, Charles S. Dutton","Action, Adventure, Crime",6.2
+132,Brainscan,1994,96,John Flynn,"Edward Furlong, Frank Langella, T. Ryder Smith","Horror, Sci-Fi",6.0
+133,The Road to Wellville,1994,118,Alan Parker,"Anthony Hopkins, Bridget Fonda, Matthew Broderick","Comedy, Drama",5.9
+134,Milk Money,1994,110,Richard Benjamin,"Melanie Griffith, Ed Harris, Michael Patrick Carter","Comedy, Romance",5.7
+135,Satantango,1994,439,Béla Tarr,"Mihály Vig, Putyi Horváth, László feLugossy",Drama,8.2
+136,A Pure Formality,1994,108,Giuseppe Tornatore,"Gérard Depardieu, Roman Polanski, Sergio Rubini","Crime, Drama, Thriller",7.5
+137,I Love Trouble,1994,123,Charles Shyer,"Nick Nolte, Julia Roberts, Saul Rubinek","Action, Comedy, Romance",5.4
+138,The NeverEnding Story III,1994,95,Peter MacDonald,"Jason James Richter, Melody Kay, Jack Black","Adventure, Comedy, Family",3.2
+139,Leprechaun 2,1994,85,Rodman Flender,"Warwick Davis, Charlie Heath, Shevonne Durkin","Comedy, Fantasy, Horror",4.7
+140,Little Big League,1994,119,Andrew Scheinman,"Luke Edwards, Timothy Busfield, John Ashton","Comedy, Family, Sport",6.2
+141,My Father the Hero,1994,90,Steve Miner,"Gérard Depardieu, Katherine Heigl, Dalton James","Comedy, Romance",5.5
+142,Sirens,1994,98,John Duigan,"Hugh Grant, Tara Fitzgerald, Sam Neill","Comedy, Drama, Romance",5.9
+143,The Monster,1994,112,Roberto Benigni,"Roberto Benigni, Michel Blanc, Nicoletta Braschi","Comedy, Crime, Mystery",7.3
+144,Crooklyn,1994,115,Spike Lee,"Alfre Woodard, Delroy Lindo, David Patrick Kelly","Comedy, Drama",7.0
+145,Priest,1994,98,Antonia Bird,"Linus Roache, Tom Wilkinson, Robert Carlyle","Drama, Romance",7.1
+146,Camp Nowhere,1994,96,Jonathan Prince,"Jonathan Jackson, Christopher Lloyd, John Putch","Adventure, Comedy, Family",6.1
+147,Phantasm III: Lord of the Dead,1994,91,Don Coscarelli,"Reggie Bannister, A. Michael Baldwin, Bill Thornbury","Action, Fantasy, Horror",6.0
+148,Black Beauty,1994,88,Caroline Thompson,"Sean Bean, David Thewlis, Docs Keepin Time","Adventure, Drama, Family",6.6
+149,Fear City: A Family-Style Comedy,1994,100,Alain Berbérian,"Chantal Lauby, Alain Chabat, Dominique Farrugia","Comedy, Horror",7.5
+150,Through the Olive Trees,1994,103,Abbas Kiarostami,"Mohamad Ali Keshavarz, Farhad Kheradmand, Zarifeh Shiva",Drama,7.7
+151,Blankman,1994,92,Mike Binder,"Damon Wayans, David Alan Grier, Robin Givens","Action, Comedy, Crime",5.1
+152,It's Pat: The Movie,1994,77,Adam Bernstein,"Julia Sweeney, Dave Foley, Charles Rocket",Comedy,2.8
+153,Street Fighter II: The Animated Movie,1994,102,Gisaburô Sugii,"Kôjiro Shimizu, Kenji Haga, Miki Fujitani","Animation, Action, Adventure",7.2
+154,3 Ninjas Kick Back,1994,93,Charles T. Kanganis,"Victor Wong, Max Elliott Slade, Sean Fox","Action, Comedy, Family",4.6
+155,The Secret of Roan Inish,1994,103,John Sayles,"Jeni Courtney, Eileen Colgan, Mick Lally","Drama, Family, Fantasy",7.4
+156,The Puppet Masters,1994,109,Stuart Orme,"Donald Sutherland, Eric Thal, Julie Warner","Horror, Sci-Fi, Thriller",5.9
+157,Iron Will,1994,108,Charles Haid,"Mackenzie Astin, Kevin Spacey, David Ogden Stiers","Adventure, Family",6.6
+158,The Air Up There,1994,107,Paul Michael Glaser,"Kevin Bacon, Charles Gitonga Maina, Yolanda Vazquez","Comedy, Family, Sport",5.6
+159,Little Odessa,1994,98,James Gray,"Tim Roth, Edward Furlong, Moira Kelly","Crime, Drama",6.7
+160,The Cowboy Way,1994,102,Gregg Champion,"Woody Harrelson, Kiefer Sutherland, Dylan McDermott","Action, Comedy, Crime",5.9
+161,Blink,1994,106,Michael Apted,"Madeleine Stowe, Aidan Quinn, James Remar","Crime, Drama, Mystery",6.2
+162,Death Wish: The Face of Death,1994,95,Allan A. Goldstein,"Charles Bronson, Lesley-Anne Down, Michael Parks","Action, Crime, Drama",4.9
+163,Cabin Boy,1994,80,Adam Resnick,"Chris Elliott, Ritch Brinkley, James Gammon","Adventure, Comedy, Romance",5.3
+164,Intersection,1994,98,Mark Rydell,"Richard Gere, Sharon Stone, Lolita Davidovich","Drama, Romance",5.4
+165,71 Fragments of a Chronology of Chance,1994,100,Michael Haneke,"Gabriel Cosmin Urdes, Lukas Miko, Otto Grünmandl","Crime, Drama",7.1
+166,Getting Even with Dad,1994,109,Howard Deutch,"Macaulay Culkin, Ted Danson, Glenne Headly","Comedy, Crime, Family",4.9
+167,Clifford,1994,90,Paul Flaherty,"Martin Short, Charles Grodin, Mary Steenburgen",Comedy,5.5
+168,Mohra,1994,177,Rajiv Rai,"Akshay Kumar, Suniel Shetty, Raveena Tandon","Action, Drama, Thriller",7.0
+169,Asterix in America,1994,85,Gerhard Hahn,"Roger Carel, Pierre Tornade, Henri Labussière","Animation, Adventure, Comedy",5.9
+170,Blue Sky,1994,101,Tony Richardson,"Jessica Lange, Tommy Lee Jones, Powers Boothe","Drama, Romance",6.4
+171,From Beijing with Love,1994,84,"Stephen Chow, Lik-Chi Lee","Stephen Chow, Anita Yuen, Kar-Ying Law","Action, Comedy, Thriller",7.1
+172,Cobb,1994,128,Ron Shelton,"Tommy Lee Jones, Robert Wuhl, Lolita Davidovich","Biography, Drama, Sport",6.4
+173,China Moon,1994,99,John Bailey,"Ed Harris, Madeleine Stowe, Charles Dance","Crime, Drama, Mystery",6.3
+174,A Low Down Dirty Shame,1994,100,Keenen Ivory Wayans,"Keenen Ivory Wayans, Charles S. Dutton, Jada Pinkett Smith","Action, Comedy, Crime",5.9
+175,The Fantastic Four,1994,90,Oley Sassone,"Alex Hyde-White, Jay Underwood, Rebecca Staab","Action, Adventure, Family",3.8
+176,Cops and Robbersons,1994,93,Michael Ritchie,"Chevy Chase, Jack Palance, Dianne Wiest","Comedy, Crime, Thriller",5.2
+177,Farinelli,1994,111,Gérard Corbiau,"Stefano Dionisi, Enrico Lo Verso, Elsa Zylberstein","Biography, Drama, Music",6.8
+178,Anjaam,1994,170,Rahul Rawail,"Madhuri Dixit, Shah Rukh Khan, Tinnu Anand","Crime, Drama, Thriller",6.6
+179,A Troll in Central Park,1994,76,"Don Bluth, Gary Goldman","Dom DeLuise, Cloris Leachman, Charles Nelson Reilly","Animation, Adventure, Comedy",5.3
+180,Exit to Eden,1994,113,Garry Marshall,"Dana Delany, Dan Aykroyd, Rosie O'Donnell","Comedy, Crime, Romance",4.3
+181,Andre,1994,94,George Miller,"Tina Majorino, Keith Carradine, Chelsea Field","Adventure, Drama, Family",5.7
+182,Chasers,1994,102,Dennis Hopper,"Tom Berenger, Erika Eleniak, William McNamara","Action, Comedy, Drama",5.2
+183,Monkey Trouble,1994,96,Franco Amurri,"Thora Birch, Harvey Keitel, Finster","Adventure, Comedy, Crime",5.3
+184,Lightning Jack,1994,98,Simon Wincer,"Paul Hogan, Cuba Gooding Jr., Beverly D'Angelo","Comedy, Western",5.5
+185,Amateur,1994,105,Hal Hartley,"Isabelle Huppert, Martin Donovan, Elina Löwensohn","Comedy, Crime, Drama",6.7
+186,The Scout,1994,101,Michael Ritchie,"Albert Brooks, Brendan Fraser, Dianne Wiest","Comedy, Drama, Sport",5.4
+187,Wild Reeds,1994,110,André Téchiné,"Élodie Bouchez, Gaël Morel, Stéphane Rideau",Drama,7.3
+188,Spanking the Monkey,1994,100,David O. Russell,"Jeremy Davies, Alberta Watson, Benjamin Hendrickson","Comedy, Drama",6.3
+189,Night of the Demons 2,1994,96,Brian Trenchard-Smith,"Cristi Harris, Darin Heames, Bobby Jacoby","Comedy, Fantasy, Horror",5.9
+190,Lassie,1994,94,Daniel Petrie,"Helen Slater, Tom Guiry, Jon Tenney","Family, Adventure",5.8
+191,Hell,1994,102,Claude Chabrol,"Emmanuelle Béart, François Cluzet, Nathalie Cardone","Crime, Drama, Thriller",7.0
+192,Barcelona,1994,101,Whit Stillman,"Taylor Nichols, Chris Eigeman, Tushka Bergen","Comedy, Drama, Romance",7.0
+193,Backbeat,1994,100,Iain Softley,"Stephen Dorff, Sheryl Lee, Ian Hart","Biography, Drama, Music",6.7
+194,Dragon Ball Z: Broly - Second Coming,1994,48,Shigeyasu Yamauchi,"Masako Nozawa, Mayumi Tanaka, Takeshi Kusao","Animation, Action, Adventure",6.5
+195,Main Khiladi Tu Anari,1994,175,Sameer Malkan,"Akshay Kumar, Saif Ali Khan, Shilpa Shetty Kundra","Action, Comedy, Drama",6.5
+196,Dream Lover,1994,103,Nicholas Kazan,"James Spader, Mädchen Amick, Fredric Lehne","Drama, Mystery, Thriller",6.2
+197,Wagons East,1994,107,Peter Markle,"John Candy, Joe Bays, Abraham Benrubi","Adventure, Comedy, Western",4.8
+198,Maybe... Maybe Not,1994,93,Sönke Wortmann,"Til Schweiger, Katja Riemann, Joachim Król",Comedy,6.5
+199,A Simple Twist of Fate,1994,106,Gillies MacKinnon,"Steve Martin, Gabriel Byrne, Laura Linney","Comedy, Drama",6.3
+200,The New Legend of Shaolin,1994,95,Jing Wong,"Jet Li, Chingmy Yau, Deanie lp","Action, Adventure, Comedy",6.3
+201,Dragon Ball Z: Bio-Broly,1994,47,Yoshihiro Ueda,"Masako Nozawa, Takeshi Kusao, Daisuke Gôri","Animation, Action, Sci-Fi",5.8
+202,Tammy and the T-Rex,1994,82,Stewart Raffill,"Denise Richards, Theo Forsett, Paul Walker","Comedy, Sci-Fi",5.3
+203,The Silence of the Hams,1994,81,Ezio Greggio,"Ezio Greggio, Dom DeLuise, Billy Zane","Comedy, Thriller",4.7
+204,8 Seconds,1994,105,John G. Avildsen,"Luke Perry, Stephen Baldwin, James Rebhorn","Biography, Drama, Sport",6.6
+205,Godzilla vs. SpaceGodzilla,1994,106,"Kenshô Yamashita, Takao Okawara, Kazuki Ômori","Jun Hashizume, Megumi Odaka, Zenkichi Yoneyama","Action, Adventure, Sci-Fi",5.8
+206,The Sum of Us,1994,100,"Geoff Burton, Kevin Dowling","Jack Thompson, Russell Crowe, John Polson","Comedy, Drama",7.3
+207,In the Heat of the Sun,1994,134,Wen Jiang,"Yu Xia, Wei Chen, Shaobo Dai","Drama, Romance",8.1
+208,The Bodyguard from Beijing,1994,92,Corey Yuen,"Jet Li, Christy Chung, Wai-Kwok Ng","Action, Crime, Thriller",6.4
+209,House Party 3,1994,100,Eric Meza,"Christopher Reid, Christopher Martin, David Edwards","Comedy, Music",4.7
+210,Lisbon Story,1994,100,Wim Wenders,"Rüdiger Vogler, Patrick Bauchau, Vasco Sequeira","Drama, Music",7.1
+211,Bandit Queen,1994,119,Shekhar Kapur,"Seema Biswas, Nirmal Pandey, Rajesh Vivek","Biography, Crime, Drama",7.5
+212,Speechless,1994,99,Ron Underwood,"Michael Keaton, Geena Davis, Christopher Reeve","Comedy, Romance",5.8
+213,The Stöned Age,1994,90,James Melkonian,"Michael Kopelow, Bradford Tatum, China Kantner","Comedy, Music",6.2
+214,S.F.W.,1994,96,Jefery Levy,"Stephen Dorff, Reese Witherspoon, Jake Busey","Comedy, Drama",5.7
+215,Rapa Nui,1994,107,Kevin Reynolds,"Jason Scott Lee, Esai Morales, Sandrine Holt","Action, Adventure, Drama",6.4
+216,Vanya on 42nd Street,1994,119,Louis Malle,"Wallace Shawn, Phoebe Brand, George Gaynes","Comedy, Drama, Romance",7.3
+217,Felidae,1994,82,Michael Schaack,"Ulrich Tukur, Mario Adorf, Helge Schneider","Animation, Drama, Mystery",7.0
+218,Love Affair,1994,108,Glenn Gordon Caron,"Warren Beatty, Annette Bening, Katharine Hepburn","Comedy, Drama, Romance",6.0
+219,Vive L'Amour,1994,118,Tsai Ming-liang,"Chen Chao-jung, Kang-sheng Lee, Kuei-Mei Yang","Drama, Romance",7.3
+220,Death Machine,1994,120,Stephen Norrington,"Brad Dourif, Ely Pouget, William Hootkins","Action, Horror, Sci-Fi",5.6
+221,Silent Fall,1994,101,Bruce Beresford,"Richard Dreyfuss, Linda Hamilton, John Lithgow","Drama, Mystery, Thriller",5.9
+222,Sugar Hill,1994,123,Leon Ichaso,"Wesley Snipes, Michael Wright, Khandi Alexander","Action, Crime, Drama",5.8
+223,Hail the Judge,1994,106,Jing Wong,"Stephen Chow, Sharla Cheung, Man-Tat Ng",Comedy,7.5
+224,Love and a .45,1994,101,C.M. Talkington,"Gil Bellows, Renée Zellweger, Rory Cochrane","Crime, Romance, Thriller",6.0
+225,Mrs. Parker and the Vicious Circle,1994,125,Alan Rudolph,"Jennifer Jason Leigh, Campbell Scott, Matthew Broderick","Biography, Drama",6.4
+226,Jason's Lyric,1994,119,Doug McHenry,"Allen Payne, Jada Pinkett Smith, Bokeem Woodbine","Crime, Drama, Romance",6.6
+227,"Little Indian, Big City",1994,90,Hervé Palud,"Thierry Lhermitte, Ludwig Briand, Patrick Timsit","Adventure, Comedy, Romance",5.7
+228,Yeh Dillagi,1994,155,Naresh Malhotra,"Kajol, Akshay Kumar, Saif Ali Khan","Comedy, Drama, Musical",5.9
+229,Men of War,1994,102,Perry Lang,"Dolph Lundgren, Charlotte Lewis, BD Wong","Action, Drama, Thriller",5.6
+230,Troublemakers,1994,107,Terence Hill,"Terence Hill, Bud Spencer, Boots Southerland","Comedy, Family, Western",6.0
+231,War of the Buttons,1994,94,John Roberts,"Gregg Fitzgerald, Gerard Kearney, Darragh Naughton","Adventure, Drama, Family",7.3
+232,Mahanadi,1994,162,Santhana Bharathi,"Kamal Haasan, Sukanya, Poornam Vishwanathan","Crime, Drama",8.6
+233,"Car 54, Where Are You?",1994,89,Bill Fishman,"David Johansen, John C. McGinley, Fran Drescher",Comedy,2.6
+234,Faust,1994,97,Jan Svankmajer,"Petr Cepek, Jan Kraus, Vladimír Kudla","Animation, Comedy, Drama",7.4
+235,Yrrol - En kolossalt genomtänkt film,1994,88,Peter Dalle,"Suzanne Reuter, Peter Dalle, Ulla Skoog",Comedy,6.8
+236,Being Human,1994,122,Bill Forsyth,"Robin Williams, John Turturro, Kelly Hunter","Comedy, Drama",5.3
+237,Clean Slate,1994,107,Mick Jackson,"Dana Carvey, Valeria Golino, James Earl Jones","Comedy, Mystery",5.7
+238,The Voyeur,1994,98,Tinto Brass,"Katarina Vasilissa, Francesco Casale, Cristina Garavaglia","Drama, Romance",5.5
+239,"Take Care of Your Scarf, Tatiana",1994,62,Aki Kaurismäki,"Kati Outinen, Matti Pellonpää, Kirsi Tykkyläinen","Comedy, Romance",7.1
+240,Radioland Murders,1994,108,Mel Smith,"Brian Benben, Mary Stuart Masterson, Ned Beatty","Comedy, Crime, Drama",6.2
+241,Hellbound,1994,95,Aaron Norris,"Chuck Norris, Calvin Levels, Christopher Neame","Action, Fantasy, Horror",4.8
+242,Love on Delivery,1994,100,Lik-Chi Lee,"Stephen Chow, Christy Chung, Man-Tat Ng","Action, Comedy, Romance",6.9
+243,Ladybird Ladybird,1994,101,Ken Loach,"Crissy Rock, Vladimir Vega, Sandie Lavelle",Drama,7.4
+244,Guyver: Dark Hero,1994,127,Steve Wang,"David Hayter, Kathy Christopherson, Bruno Patrick","Action, Horror, Sci-Fi",5.8
+245,Kickboxer 4: The Aggressor,1994,90,Albert Pyun,"Sasha Mitchell, Kamel Krifa, Brad Thornton","Action, Sport",4.0
+246,Sister My Sister,1994,86,Nancy Meckler,"Julie Walters, Joely Richardson, Jodhi May","Drama, Thriller",6.5
+247,Mother's Boys,1994,96,Yves Simoneau,"Jamie Lee Curtis, Peter Gallagher, Joanne Whalley","Drama, Thriller",5.4
+248,1942: A Love Story,1994,157,Vidhu Vinod Chopra,"Anil Kapoor, Jackie Shroff, Manisha Koirala","Action, Drama, History",7.2
+249,Jimmy Hollywood,1994,112,Barry Levinson,"Joe Pesci, Christian Slater, Victoria Abril","Comedy, Crime, Drama",5.3
+250,Oleanna,1994,89,David Mamet,"William H. Macy, Debra Eisenstadt, Diego Pineda","Drama, Thriller",6.5
+251,Block C,1994,92,Zeki Demirkubuz,"Serap Aksoy, Fikret Kuskan, Zuhal Gencer",Drama,6.1
+252,The Browning Version,1994,97,Mike Figgis,"Albert Finney, Greta Scacchi, Matthew Modine",Drama,7.2
+253,Voll normaaal,1994,91,Ralf Huettner,"Tom Gerhardt, Hilmi Sözer, Veronica Ferres","Animation, Comedy, Thriller",5.4
+254,Revenge of the Musketeers,1994,125,Bertrand Tavernier,"Sophie Marceau, Philippe Noiret, Claude Rich","Action, Adventure, Comedy",5.8
+255,Nadja,1994,93,Michael Almereyda,"Elina Löwensohn, Peter Fonda, Nic Ratner","Drama, Horror",6.0
+256,Wing Chun,1994,96,Yuen Woo-Ping,"Michelle Yeoh, Donnie Yen, King-Tan Yuen","Action, Comedy, Drama",6.9
+257,Time Chasers,1994,89,David Giancola,"Matthew Bruch, Bonnie Pritchard, Peter Harrington",Sci-Fi,2.4
+258,The Glass Shield,1994,109,Charles Burnett,"Michael Boatman, Lori Petty, Erich Anderson","Crime, Drama",6.1
+259,The Tit and the Moon,1994,90,Bigas Luna,"Biel Duran, Mathilda May, Gérard Darmon","Comedy, Romance",6.3
+260,Aguner Poroshmoni,1994,123,Humayun Ahmed,"Bipasha Hayat, Asaduzzaman Noor, Abul Hayat","Drama, War",9.1
+261,Thenmavin Kombath,1994,164,Priyadarshan,"Mohanlal, Nedumudi Venu, Sreenivasan","Comedy, Drama, Romance",8.1
+262,Good Old Daze,1994,101,Cédric Klapisch,"Romain Duris, Vincent Elbaz, Nicolas Koretzky","Comedy, Drama, Romance",7.2
+263,Raja Babu,1994,161,David Dhawan,"Govinda, Karisma Kapoor, Shakti Kapoor","Comedy, Drama, Romance",6.4
+264,Getting Any?,1994,108,Takeshi Kitano,"Duncan, Tokie Hidari, Akiji Kobayashi",Comedy,6.1
+265,The Favor,1994,97,Donald Petrie,"Harley Jane Kozak, Elizabeth McGovern, Bill Pullman","Comedy, Romance",5.2
+266,Dilwale,1994,172,Harry Baweja,"Ajay Devgn, Suniel Shetty, Raveena Tandon","Action, Drama, Romance",5.7
+267,Nostradamus,1994,119,Roger Christian,"Tchéky Karyo, F. Murray Abraham, Rutger Hauer","Biography, Drama",5.8
+268,Shopping,1994,87,Paul W.S. Anderson,"Sadie Frost, Jude Law, Sean Pertwee","Action, Crime, Drama",5.4
+269,Mosquito,1994,92,Gary Jones,"Gunnar Hansen, Ron Asheton, Steve Dixon","Horror, Sci-Fi",4.9
+270,Princess Caraboo,1994,97,Michael Austin,"Phoebe Cates, Jim Broadbent, Wendy Hughes","Comedy, Drama, History",6.0
+271,Ernest Goes to School,1994,89,Coke Sams,"Jim Varney, Linda Kash, Bill Byrge","Comedy, Family, Sport",4.6
+272,The Return of the God of Gamblers,1994,126,Jing Wong,"Chow Yun-Fat, Tony Ka Fai Leung, Chien-Lien Wu","Action, Drama",6.7
+273,I'll Do Anything,1994,115,James L. Brooks,"Nick Nolte, Albert Brooks, Whittni Wright","Comedy, Drama",5.5
+274,Sleep with Me,1994,86,Rory Kelly,"Craig Sheffer, Eric Stoltz, Meg Tilly","Comedy, Drama, Romance",5.7
+275,Uncovered,1994,103,Jim McBride,"Kate Beckinsale, John Wood, Sinéad Cusack","Mystery, Thriller",5.7
+276,Psy 2. Ostatnia krew,1994,100,Wladyslaw Pasikowski,"Boguslaw Linda, Cezary Pazura, Artur Zmijewski","Action, Crime, Drama",6.7
+277,A Good Man in Africa,1994,94,Bruce Beresford,"Colin Friels, Sean Connery, Joanne Whalley",Comedy,5.1
+278,00 Schneider - Jagd auf Nihil Baxter,1994,90,"Christoph Schlingensief, Helge Schneider","Helge Schneider, Helmut Körschgen, Andreas Kunze",Comedy,6.9
+279,White Fang 2: Myth of the White Wolf,1994,106,Ken Olin,"Scott Bairstow, Charmaine Craig, Al Harrington","Adventure, Family",5.4
+280,Royal Deceit,1994,107,Gabriel Axel,"Gabriel Byrne, Helen Mirren, Christian Bale","Adventure, Drama",5.4
+281,Captives,1994,100,Angela Pope,"Julia Ormond, Tim Roth, Keith Allen","Crime, Drama, Romance",6.2
+282,River of Grass,1994,76,Kelly Reichardt,"Lisa Donaldson, Larry Fessenden, Dick Russell",Drama,6.5
+283,Of Love and Shadows,1994,103,Betty Kaplan,"Antonio Banderas, Jennifer Connelly, Stefania Sandrelli","Drama, Romance, Thriller",4.9
+284,Curse of the Starving Class,1994,102,J. Michael McClary,"James Woods, Kathy Bates, Randy Quaid",Drama,5.5
+285,Krantiveer,1994,147,Mehul Kumar,"Nana Patekar, Dimple Kapadia, Atul Agnihotri","Action, Crime, Drama",7.4
+286,What Happened Was...,1994,91,Tom Noonan,"Tom Noonan, Karen Sillas","Comedy, Drama, Romance",7.2
+287,Go Fish,1994,83,Rose Troche,"V.S. Brodie, Guinevere Turner, T. Wendy McMillan","Comedy, Drama, Romance",5.7
+288,Lamerica,1994,116,Gianni Amelio,"Enrico Lo Verso, Michele Placido, Piro Milkani","Comedy, Drama",7.4
+289,House of Angels: The Second Summer,1994,137,Colin Nutley,"Helena Bergström, Rikard Wolff, Ernst Günther","Comedy, Drama",5.4
+290,Angie,1994,107,Martha Coolidge,"Geena Davis, Stephen Rea, James Gandolfini","Comedy, Drama, Romance",5.5
+291,Numbered Days,1994,93,Imanol Uribe,"Carmelo Gómez, Ruth Gabriel, Javier Bardem","Crime, Drama, Thriller",6.5
+292,Cold Water,1994,95,Olivier Assayas,"Virginie Ledoyen, Cyprien Fouquet, László Szabó",Drama,7.0
+293,Sailor Moon S: The Movie - Hearts in Ice,1994,60,Hiroki Shibata,"Kotono Mitsuishi, Aya Hisakawa, Michie Tomizawa","Animation, Action, Comedy",7.6
+294,Trading Mom,1994,82,Tia Brelis,"Sissy Spacek, Anna Chlumsky, Aaron Michael Metchik","Comedy, Family, Fantasy",5.4
+295,The Endless Summer 2,1994,109,Bruce Brown,"Patrick O'Connell, Robert 'Wingnut' Weaver, Robert August","Documentary, Adventure, Sport",7.6
+296,Kaadhalan,1994,168,S. Shankar,"Prabhu Deva, Nagma, Vadivelu","Action, Drama, Romance",7.1
+297,Mother's Day,1994,95,Harald Sicheritz,"Alfred Dorfer, Reinhard Nowak, Andrea Händler",Comedy,7.9
+298,Dead Tired,1994,92,Michel Blanc,"Michel Blanc, Carole Bouquet, Philippe Noiret",Comedy,6.4
+299,Trial by Jury,1994,107,Heywood Gould,"Joanne Whalley, Armand Assante, Gabriel Byrne","Crime, Drama, Thriller",5.4
+300,When the Bough Breaks,1994,105,Michael Cohn,"Ally Walker, Martin Sheen, Ron Perlman","Crime, Drama, Mystery",5.9
+301,Gordy,1994,90,Mark Lewis,"Kristy Young, Doug Stone, James Donadio","Comedy, Drama, Family",3.8
+302,Colonel Chabert,1994,110,Yves Angelo,"Gérard Depardieu, Fanny Ardant, Fabrice Luchini","Drama, History, Romance",6.9
+303,Suhaag,1994,145,Kuku Kohli,"Ajay Devgn, Akshay Kumar, Karisma Kapoor","Action, Comedy, Drama",5.8
+304,Pentathlon,1994,101,Bruce Malmuth,"Dolph Lundgren, David Soul, Renée Coleman","Action, Drama, Thriller",4.3
+305,Second Best,1994,105,Chris Menges,"William Hurt, Nathan Yapp, Keith Allen",Drama,6.8
+306,Lurking Fear,1994,76,C. Courtney Joyner,"Jon Finch, Blake Adams, Ashley Laurence","Action, Horror",4.5
+307,Widows' Peak,1994,101,John Irvin,"Joan Plowright, Mia Farrow, Natasha Richardson","Comedy, Crime, Drama",6.7
+308,The Search for One-eye Jimmy,1994,84,Sam Henry Kass,"Holt McCallany, Michael Badalucco, Nicholas Turturro",Comedy,6.0
+309,I Like It Like That,1994,104,Darnell Martin,"Luna Lauren Velez, Jon Seda, Tomas Melly","Comedy, Drama, Romance",6.7
+310,Tom & Viv,1994,115,Brian Gilbert,"Willem Dafoe, Miranda Richardson, Rosemary Harris","Biography, Drama, Romance",6.2
+311,Dinosaur Island,1994,85,"Fred Olen Ray, Jim Wynorski","Ross Hagen, Richard Gabai, Antonia Dorian","Adventure, Comedy, Fantasy",3.9
+312,Leningrad Cowboys Meet Moses,1994,94,Aki Kaurismäki,"Twist-Twist Erkinharju, Ben Granfelt, Sakke Järvenpää","Adventure, Comedy, Music",5.6
+313,Al-irhabi,1994,130,Nader Galal,"Adel Emam, Salah Zulfikar, Sherine","Drama, Romance, Thriller",6.3
+314,Class of 1999 II: The Substitute,1994,87,Spiro Razatos,"Sasha Mitchell, Caitlin Dulany, Nick Cassavetes","Action, Horror, Sci-Fi",4.4
+315,My Summer Story,1994,85,Bob Clark,"Charles Grodin, Kieran Culkin, Mary Steenburgen","Comedy, Family",5.6
+316,The Road Killers,1994,89,Deran Sarafian,"Christopher Lambert, Craig Sheffer, David Arquette","Action, Crime, Drama",5.1
+317,That's Entertainment! III,1994,113,"Bud Friedgen, Michael J. Sheridan","Debbie Reynolds, Gene Kelly, Ann Miller","Documentary, Family, Musical",7.5
+318,Imaginary Crimes,1994,107,Anthony Drazan,"Harvey Keitel, Fairuza Balk, Kelly Lynch",Drama,6.4
+319,A Confucian Confusion,1994,125,Edward Yang,"Li-Mei Chen, Shiang-chyi Chen, Danny Deng","Comedy, Drama, Romance",7.5
+320,Oblivion,1994,94,Sam Irvin,"Richard Joseph Paul, Jackie Swanson, Andrew Divoff","Adventure, Comedy, Crime",4.8
+321,S.P.Q.R. 2000 e 1/2 anni fa,1994,95,Carlo Vanzina,"Christian De Sica, Massimo Boldi, Leslie Nielsen","Comedy, Fantasy",3.7
+322,Frank & Jesse,1994,105,Robert Boris,"Rob Lowe, Bill Paxton, Randy Travis","Biography, Drama, Western",5.7
+323,Shrunken Heads,1994,86,Richard Elfman,"Julius Harris, Meg Foster, Aeryk Egan","Comedy, Horror, Thriller",5.1
+324,Save Me,1994,93,Alan Roberts,"Harry Hamlin, Lysette Anthony, Michael Ironside","Mystery, Thriller",4.1
+325,Holy Matrimony,1994,93,Leonard Nimoy,"Patricia Arquette, Joseph Gordon-Levitt, Armin Mueller-Stahl","Comedy, Crime",5.1
+326,Accumulator 1,1994,102,Jan Sverák,"Petr Forman, Edita Brychta, Zdenek Sverák","Comedy, Fantasy, Romance",7.0
+327,The Patriots,1994,138,Eric Rochant,"Yvan Attal, Richard Masur, Allen Garfield","Drama, Thriller",7.3
+328,Vidheyan,1994,112,Adoor Gopalakrishnan,"Mammootty, M.R. Gopakumar, Tanvi Azmi",Drama,8.2
+329,The Inkwell,1994,110,Matty Rich,"Larenz Tate, Joe Morton, Suzzanne Douglas","Comedy, Drama, Romance",6.3
+330,Cyber Tracker,1994,91,Richard Pepin,"Don Wilson, Richard Norton, Stacie Foster","Action, Sci-Fi",3.8
+331,A Chinese Torture Chamber Story,1994,93,Bosco Lam,"Yvonne Hung Yung, Lawrence Ng, Mai Ching","Comedy, Drama, Horror",5.9
+332,Raw Justice,1994,92,David A. Prior,"David Keith, Robert Hays, Pamela Anderson","Action, Thriller",4.2
+333,Laadla,1994,169,Raj Kanwar,"Anil Kapoor, Sridevi, Raveena Tandon","Drama, Family",5.9
+334,Ski School 2,1994,92,David Mitchell,"Dean Cameron, Heather Campbell, Doug Copithorne","Comedy, Sport",4.0
+335,The Paperboy,1994,94,Douglas Jackson,"Alexandra Paul, Marc Marut, Brigid Tierney","Horror, Thriller",5.1
+336,Angel Dust,1994,116,Gakuryû Ishii,"Kaho Minami, Takeshi Wakamatsu, Etsushi Toyokawa","Drama, Horror, Romance",6.7
+337,Squanto: A Warrior's Tale,1994,102,Xavier Koller,"Adam Beach, Mandy Patinkin, Sheldon Peters Wolfchild","Adventure, Biography, Drama",6.1
+338,Funny Man,1994,93,Simon Sprackling,"Tim James, Christopher Lee, Benny Young","Comedy, Horror",4.4
+339,Chicken Park,1994,98,Jerry Calà,"Jerry Calà, Demetra Hampton, Rossy de Palma",Comedy,2.5
+340,Skinner,1994,88,Ivan Nagy,"Ted Raimi, Ricki Lake, David Warshofsky",Horror,5.2
+341,See How They Fall,1994,90,Jacques Audiard,"Jean-Louis Trintignant, Jean Yanne, Mathieu Kassovitz","Crime, Drama",6.5
+342,I Can't Sleep,1994,110,Claire Denis,"Yekaterina Golubeva, Richard Courcet, Vincent Dupont","Drama, Mystery, Romance",6.8
+343,Amoklauf,1994,65,Uwe Boll,"Michael Rasmussen, Birgit Stein, Christian Kahrmann",Horror,2.2
+344,"Class of Nuke 'Em High Part 3: The Good, the Bad and the Subhumanoid",1994,102,Eric Louzil,"Brick Bronsky, Lisa Star, John Tallman","Action, Comedy, Horror",4.1
+345,Floundering,1994,96,Peter McCarthy,"James Le Gros, Shaka, Zander Schloss",Comedy,5.8
+346,Dance Me Outside,1994,84,Bruce McDonald,"Ryan Rajendra Black, Adam Beach, Jennifer Podemski","Comedy, Drama",7.1
+347,Minnaram,1994,150,Priyadarshan,"Mohanlal, Shobana, Thilakan","Comedy, Drama",7.6
+348,Safe Passage,1994,98,Robert Allan Ackerman,"Susan Sarandon, Sam Shepard, Nick Stahl",Drama,6.3
+349,Hail Caesar,1994,100,Anthony Michael Hall,"Anthony Michael Hall, Bobbie Phillips, Leslie Danon","Comedy, Music",3.2
+350,Stockholm Marathon,1994,87,Peter Keglevic,"Gösta Ekman, Kjell Bergqvist, Rolf Lassgård","Crime, Drama, Thriller",5.5
+351,Fatal Fury: The Motion Picture,1994,100,Masami Ôbari,"Mark Hildreth, Peter Wilds, Jason Gray-Stanford","Animation, Action, Fantasy",6.4
+352,Fun,1994,105,Rafal Zielinski,"Renée Humphrey, Alicia Witt, William R. Moses","Crime, Drama",6.8
+353,"He's a Woman, She's a Man",1994,107,"Peter Ho-Sun Chan, Chi Lee","Leslie Cheung, Carina Lau, Anita Yuen","Comedy, Romance",7.3
+354,The New Age,1994,112,Michael Tolkin,"Peter Weller, Judy Davis, Patrick Bauchau","Comedy, Drama",5.6
+355,The Dallas Connection,1994,94,Christian Drew Sidaris,"Bruce Penhall, Mark Barriere, Julie Strain",Action,4.3
+356,Once Upon a Time in China V,1994,101,Hark Tsui,"Wenzhuo Zhao, Rosamund Kwan, Mok Siu-Chung","Action, Drama",5.9
+357,Double Happiness,1994,87,Mina Shum,"Sandra Oh, Stephen Chang, Claudette Carracedo","Drama, Romance",7.1
+358,Nobody Loves Me,1994,104,Doris Dörrie,"Maria Schrader, Pierre Sanoussi-Bliss, Michael von Au","Comedy, Drama",7.1
+359,A Man of No Importance,1994,99,Suri Krishnamma,"Albert Finney, Brenda Fricker, Michael Gambon","Comedy, Drama",6.7
+360,A.P.E.X.,1994,98,Phillip J. Roth,"Richard Keats, Mitchell Cox, Lisa Ann Russell","Action, Sci-Fi",4.4
+361,Turkish Passion,1994,112,Vicente Aranda,"Ana Belén, Georges Corraface, Ramon Madaula","Drama, Romance",5.3
+362,Yvonne's Perfume,1994,89,Patrice Leconte,"Jean-Pierre Marielle, Hippolyte Girardot, Sandra Extercatte","Drama, Romance",6.3
+363,In the Middle of Nowhere,1994,100,Milos 'Misa' Radivojevic,"Svetozar Cvetkovic, Bojana Maljevic, Branislav Lecic",Drama,7.5
+364,Hong Kong 97,1994,91,Albert Pyun,"Robert Patrick, Brion James, Tim Thomerson","Action, Drama, Thriller",4.5
+365,The Last Spring,1994,90,Tom Dempsey,"Jim Fitzpatrick, Billy Gillespie, Tom Nowicki","Drama, Sport",8.1
+366,Picture Bride,1994,94,Kayo Hatta,"Yûki Kudô, Akira Takayama, Cary-Hiroyuki Tagawa","Drama, Romance",6.6
+367,There Goes My Baby,1994,99,Floyd Mutrux,"Dermot Mulroney, Ricky Schroder, Kelli Williams","Comedy, Drama",6.3
+368,Mesmer,1994,107,Roger Spottiswoode,"Donal Donnelly, David Burke, Peter Dvorsky","Biography, Drama",5.8
+369,Al-mohager,1994,129,Youssef Chahine,"Youssra, Khaled Nabawy, Mahmoud Hemida",Drama,6.5
+370,The Separation,1994,88,Christian Vincent,"Isabelle Huppert, Daniel Auteuil, Jérôme Deschamps","Drama, Romance",6.9
+371,The Ride,1994,90,Jan Sverák,"Anna Geislerová, Radek Pastrnák, Filip Renc","Comedy, Drama, Romance",7.3
+372,The Silences of the Palace,1994,116,Moufida Tlatli,"Hind Sabri, Ghalya Lacroix, Nejia Ouerghi",Drama,7.3
+373,The Police Murderer,1994,89,Peter Keglevic,"Gösta Ekman, Kjell Bergqvist, Rolf Lassgård","Crime, Drama, Mystery",5.8
+374,Giorgino,1994,177,Laurent Boutonnat,"Jeff Dahlgren, Mylène Farmer, Joss Ackland","Adventure, Drama, Horror",7.3
+375,U2: Zoo TV Live from Sydney,1994,118,David Mallet,"Bono, The Edge, Adam Clayton","Documentary, Music",8.8
+376,Un été inoubliable,1994,82,Lucian Pintilie,"Kristin Scott Thomas, Claudiu Bleont, Olga Tudorache","Drama, Romance, War",7.3
+377,Perdiamoci di vista,1994,115,Carlo Verdone,"Carlo Verdone, Asia Argento, Aldo Maccione",Comedy,6.2
+378,Down to Earth,1994,110,Pedro Costa,"Inês de Medeiros, Isaach De Bankolé, Edith Scob",Drama,6.9
+379,Inside the Goldmine,1994,92,Josh Evans,"Alan Marshall, Josh Evans, Tully Jensen","Crime, Drama, Mystery",3.0
+380,Martin Lawrence: You So Crazy,1994,84,Thomas Schlamme,Martin Lawrence,"Documentary, Comedy",6.6
+381,Gopi Kishan,1994,161,Mukesh Duggal,"Suniel Shetty, Karisma Kapoor, Shilpa Shirodkar","Action, Comedy, Drama",5.8
+382,The Lovers,1994,107,Hark Tsui,"Nicky Wu, Charlie Yeung, Carrie Ng","Comedy, Drama, Fantasy",7.3
+383,Mina Tannenbaum,1994,128,Martine Dugowson,"Romane Bohringer, Elsa Zylberstein, Florence Thomassin",Drama,7.1
+384,Doraemon: Nobita's Three Visionary Swordsmen,1994,98,Tsutomu Shibayama,"Nobuyo Ôyama, Noriko Ohara, Michiko Nomura","Animation, Adventure, Comedy",7.3
+385,Camilla,1994,95,Deepa Mehta,"Jessica Tandy, Bridget Fonda, Hume Cronyn",Drama,6.0
+386,Ponthan Mada,1994,119,T.V. Chandran,"Janardanan, Salu Koottanad, Lakshmi Krishnamurthy",Drama,8.0
+387,Burning Paradise,1994,104,Ringo Lam,"Willie Chi, John Ching, Yamson Domingo","Adventure, Action, Fantasy",7.0
+388,Bhairava Dweepam,1994,162,Singeetam Srinivasa Rao,"Nandamuri Balakrishna, Roja, Kaikala Satyanarayana","Action, Adventure, Comedy",8.1
+389,Cyborg Cop II,1994,97,Sam Firstenberg,"David Bradley, Morgan Hunter, Jill Pierce","Action, Sci-Fi, Thriller",3.6
+390,The Castle,1994,120,Aleksey Balabanov,"Nikolay Stotskiy, Svetlana Pismichenko, Anvar Libabov",Drama,6.9
+391,Total Balalaika Show,1994,57,Aki Kaurismäki,"Alexandrov Red Army Ensemble, Twist-Twist Erkinharju, Ben Granfelt","Documentary, Comedy, Music",6.9
+392,Golden Gate,1994,91,John Madden,"Matt Dillon, Joan Chen, Elizabeth Morehead","Crime, Drama",5.3
+393,Crackerjack,1994,96,Michael Mazo,"Thomas Ian Griffith, Nastassja Kinski, Christopher Plummer","Action, Thriller",4.5
+394,Elaan,1994,146,Guddu Dhanoa,"Akshay Kumar, Amrish Puri, Madhoo","Action, Crime, Thriller",5.1
+395,Pavithram,1994,156,T.K. Rajeev Kumar,"Mohanlal, Shobana, Vinduja Menon","Comedy, Drama",8.0
+396,Rasigan,1994,140,S.A. Chandrashekhar,"Joseph Vijay, Goundamani, Aachi Manorama","Action, Romance",6.9
+397,A Million to Juan,1994,97,Paul Rodriguez,"Paul Rodriguez, Tony Plana, Bert Rosario",Comedy,5.7
+398,Nammavar,1994,178,K.S. Sethumadhavan,"Kamal Haasan, Gautami, Nagesh",Drama,7.7
+399,Aatish: Feel the Fire,1994,155,Sanjay Gupta,"Sanjay Dutt, Aditya Pancholi, Raveena Tandon","Action, Crime, Drama",5.9
+400,Das Versprechen,1994,115,Margarethe von Trotta,"Corinna Harfouch, Meret Becker, August Zirner","Drama, Romance",6.7
+401,Bosna!,1994,117,"Alain Ferrari, Bernard-Henri Lévy",Bernard-Henri Lévy,Documentary,3.9
+402,Red to Kill,1994,91,Billy Hin-Shing Tang,"Lily Chung, Si-Man Hui, Money Lo",Horror,6.1
+403,Vukovar Poste Restante,1994,96,Boro Draskovic,"Mirjana Jokovic, Boris Isakovic, Monika Romic","Drama, Romance, War",7.1
+404,Joan the Maid 1: The Battles,1994,160,Jacques Rivette,"Tatiana Moukhine, Sandrine Bonnaire, Jean-Marie Richier","Biography, Drama, History",7.1
+405,Blue Tiger,1994,88,Norberto Barba,"Virginia Madsen, Tôru Nakamura, Dean Hallo","Action, Crime, Thriller",5.4
+406,Canción de cuna,1994,101,José Luis Garci,"Fiorella Faltoyano, Amparo Larrañaga, Maribel Verdú",Drama,6.4
+407,Watchers III,1994,84,Jeremy Stanford,"Wings Hauser, Gregory Scott Cummins, Daryl Keith Roach","Sci-Fi, Horror",3.7
+408,Back in Action,1994,93,"Steve DiMarco, Paul Ziller","Billy Blanks, Roddy Piper, Bobbie Phillips","Action, Crime, Drama",5.4
+409,Undo,1994,47,Shunji Iwai,"Etsushi Toyokawa, Tomoko Yamaguchi, Tomorô Taguchi","Drama, Romance",6.6
+410,F.T.W.,1994,100,Michael Karbelnikoff,"Mickey Rourke, Aaron Neville, Peter Berg","Crime, Drama, Romance",5.3
+411,Vijaypath,1994,163,Farogh Siddique,"Ajay Devgn, Tabu, Suresh Oberoi","Action, Drama, Musical",5.1
+412,Country Life,1994,118,Michael Blakemore,"Sam Neill, Greta Scacchi, John Hargreaves","Drama, Romance",6.6
+413,Octobre,1994,97,Pierre Falardeau,"Hugo Dubé, Luc Picard, Pierre Rivard","Crime, Drama, History",7.3
+414,"The Night, Angel and Our Children",1994,101,Atif Yilmaz,"Derya Arbas, Deniz Türkali, Uzay Hepari",Drama,7.2
+415,Yu Yu Hakusho: Fight for the Netherworld,1994,91,Masakatsu Iijima,"Nozomu Sasaki, Shigeru Chiba, Megumi Ogata","Animation, Action, Fantasy",6.7
+416,Woman of Desire,1994,97,Robert Ginty,"Jeff Fahey, Bo Derek, Steven Bauer","Drama, Mystery, Thriller",4.0
+417,Pontiac Moon,1994,108,Peter Medak,"Ted Danson, Mary Steenburgen, Ryan Todd",Drama,5.6
+418,"Back to Back, Face to Face",1994,148,"Jianxin Huang, Yazhou Yang","Zhenhua Niu, Kesheng Lei, Qiang Li","Comedy, Drama",8.2
+419,Somebody to Love,1994,102,Alexandre Rockwell,"Rosie Perez, Harvey Keitel, Anthony Quinn","Comedy, Drama",5.5
+420,Chaand Kaa Tukdaa,1994,155,Saawan Kumar Tak,"Sridevi, Salman Khan, Anupam Kher","Action, Comedy, Crime",3.9
+421,JLG/JLG: Self-Portrait in December,1994,62,Jean-Luc Godard,"Brigitte Bastien, Bernard Eisenschitz, Jean-Luc Godard","Documentary, Drama",7.1
+422,Genesis: The Creation and the Flood,1994,91,Ermanno Olmi,"Omero Antonutti, Paul Scofield","Adventure, Drama, Fantasy",5.5
+423,Staggered,1994,95,Martin Clunes,"Martin Clunes, Michael Praed, Michèle Winstanley",Comedy,5.8
+424,Sensation,1994,102,Brian Grant,"Eric Roberts, Kari Wuhrer, Ron Perlman","Drama, Thriller",5.1
+425,Crayon Shin-chan: The Hidden Treasure of the Buri Buri Kingdom,1994,95,Keiichi Hara,"Akiko Yajima, Miki Narahashi, Keiji Fujiwara","Animation, Adventure, Comedy",6.6
+426,The Invincibles,1994,130,Dominik Graf,"Herbert Knaup, Katja Flint, Hansa Czypionka","Action, Drama, Thriller",6.4
+427,Bulletproof Heart,1994,95,Mark Malone,"Anthony LaPaglia, Mimi Rogers, Matt Craven","Crime, Drama, Romance",5.9
+428,Trigger Fast,1994,96,David Lister,"Jürgen Prochnow, Martin Sheen, Corbin Bernsen","Drama, Western",2.8
+429,London,1994,85,Patrick Keiller,"Paul Scofield, John Major, Norma Major",Documentary,7.3
+430,Shatter Dead,1994,84,Scooter McCrae,"Stark Raven, Flora Fauna, Daniel 'Smalls' Johnson",Horror,4.2
+431,Punya Bhoomi Naa Desam,1994,140,A. Kodandarami Reddy,"Mohan Babu, Manoj Kumar Manchu, Meena",Action,5.4
+432,Boy Meets Girl,1994,93,Ray Brady,"Tim Poole, Danielle Sanderson, Margot Steinberg","Drama, Horror",4.8
+433,Walker Texas Ranger 3: Deadly Reunion,1994,88,Michael Preece,"Chuck Norris, Michael Alton, R.G. Armstrong","Action, Crime, Drama",5.0
+434,Joan the Maid 2: The Prisons,1994,176,Jacques Rivette,"Sandrine Bonnaire, André Marcon, Jean-Louis Richard","Biography, Drama, History",7.3
+435,Le nuove comiche,1994,102,Neri Parenti,"Paolo Villaggio, Renato Pozzetto, Luigi Petrucci",Comedy,4.7
+436,Dangerous Touch,1994,101,Lou Diamond Phillips,"Kate Vernon, Robert Prentiss, Bill Allen",Thriller,4.3
+437,La machine,1994,96,François Dupeyron,"Gérard Depardieu, Nathalie Baye, Didier Bourdon","Horror, Sci-Fi, Thriller",5.4
+438,The Smile,1994,85,Claude Miller,"Jean-Pierre Marielle, Richard Bohringer, Emmanuelle Seigner","Comedy, Drama",5.6
+439,Veera,1994,162,Suresh Krishna,"Rajinikanth, Meena, Roja","Comedy, Romance",6.6
+440,Nina Takes a Lover,1994,98,Alan Jacobs,"Laura San Giacomo, Paul Rhys, Michael O'Keefe","Comedy, Drama, Romance",5.4
+441,Red Sun Rising,1994,99,Francis Megahy,"Don Wilson, Terry Farrell, Mako",Action,5.3
+442,Anna ot 6 do 18,1994,100,Nikita Mikhalkov,"Nikita Mikhalkov, Anna Mikhalkova, Nadezhda Mikhalkova","Documentary, Biography",7.3
+443,Esa ja Vesa - auringonlaskun ratsastajat,1994,88,Aleksi Mäkelä,"Santeri Kinnunen, Juha Veijonen, Minna Pirilä","Action, Adventure, Comedy",5.6
+444,Return to Two Moon Junction,1995,96,Farhad Mann,"Melinda Clarke, John Clayton Schafer, Louise Fletcher","Drama, Romance",3.9
+445,Freefall,1994,96,John Irvin,"Eric Roberts, Jeff Fahey, Pamela Gidley","Action, Adventure, Drama",4.6
+446,T-Force,1994,105,Richard Pepin,"Jack Scalia, Evan Lurie, Erin Gray","Action, Sci-Fi",4.8
+447,Sangdil Sanam,1994,156,Shomu Mukherjee,"Anand Balraj, Beena Banerjee, Kishore Bhanushali","Drama, Romance",4.2
+448,Crows,1994,66,Dorota Kedzierzawska,"Karolina Ostrozna, Katarzyna Szczepanik, Malgorzata Hajewska-Krzysztofik",Drama,7.2
+449,Dragonworld,1994,86,Ted Nicolaou,"Courtland Mead, Janet Henfrey, Stuart Campbell","Adventure, Family, Fantasy",5.4
+450,Charlie & Louise - Das doppelte Lottchen,1994,98,Joseph Vilsmaier,"Fritzi Eichhorn, Floriane Eichhorn, Heiner Lauterbach","Comedy, Family",5.7
+451,Commissioner,1994,175,Shaji Kailas,"Suresh Gopi, Shobana, Ratheesh","Action, Crime, Thriller",7.7
+452,Jai Kishen,1994,129,Sunil Agnihotri,"Akshay Kumar, Ayesha Jhulka, Chandni","Action, Drama",4.7
+453,Ti kniver i hjertet,1994,96,Marius Holst,"Martin Dahl Garfalk, Trond Halbo, Jan Devo Kornstad","Drama, Mystery",6.5
+454,Zero Tolerance,1994,88,Joseph Merhi,"Robert Patrick, Titus Welliver, Mick Fleetwood","Action, Crime, Drama",5.3
+455,Pingami,1994,138,Sathyan Anthikad,"Mohanlal, Thilakan, Sukumaran","Action, Comedy, Drama",7.4
+456,The Crew,1994,95,Carl Colpaert,"Viggo Mortensen, Donal Logue, Jeremy Sisto","Drama, Thriller",4.0
+457,The Watermill Princess,1994,99,Zdenek Troska,"Radek Valenta, Andrea Cerná, Yvetta Blanarovicová","Comedy, Family, Fantasy",6.0
+458,Hum Hain Bemisaal,1994,145,Deepak Bahry,"Akshay Kumar, Suniel Shetty, Shilpa Shirodkar","Action, Crime, Drama",4.4
+459,Boulevard,1994,95,Penelope Buitenhuis,"Rae Dawn Chong, Kari Wuhrer, Lou Diamond Phillips","Crime, Drama",5.2
+460,Ikke Pe Ikka,1994,134,Raj N. Sippy,"Akshay Kumar, Shanti Priya, Prithvi Vazir","Action, Comedy",3.3
+461,Mirror Images II,1994,92,Gregory Dark,"Shannon Whirry, Luca Bercovici, Tom Reilly","Drama, Thriller",5.1
+462,All Men Are the Same,1994,102,Manuel Gómez Pereira,"Imanol Arias, Antonio Resines, Juanjo Puigcorbé","Comedy, Romance",6.2
+463,Drop Squad,1994,86,David C. Johnson,"Eriq La Salle, Vondie Curtis-Hall, Ving Rhames","Comedy, Drama, Thriller",4.9
+464,Whispering Pages,1994,77,Aleksandr Sokurov,"Aleksandr Cherednik, Elizaveta Koroleva, Sergey Barkovskiy",Drama,6.9
+465,Suite 16,1994,106,Dominique Deruddere,"Pete Postlethwaite, Antonie Kamerling, Géraldine Pailhas","Drama, Thriller",5.7
+466,La vie sexuelle des Belges 1950-1978,1994,85,Jan Bucquoy,"Jean-Henri Compère, Noe Francq, Isabelle Legros","Biography, Comedy, Romance",5.7
+467,The High Crusade,1994,100,"Klaus Knoesel, Holger Neuhäuser","John Rhys-Davies, Rick Overton, Michael Des Barres","Adventure, Comedy, Sci-Fi",5.2
+468,1-900,1994,87,Theo van Gogh,"Ariane Schluter, Ad van Kempen","Romance, Drama",6.2
+469,Magalir Mattum,1994,132,Singeetam Srinivasa Rao,"Revathi, Urvashi, Rohini","Comedy, Drama, Thriller",7.4
+470,Me and the Mob,1994,87,Frank Rainone,"Sandy Colosimo, James Lorinz, Stephen Lee",Comedy,3.9
+471,Chain of Command,1994,97,David Worth,"Michael Dudikoff, Todd Curtis, Keren Tishman","Action, Thriller",4.2
+472,Cari fottutissimi amici,1994,110,Mario Monicelli,"Paolo Villaggio, Massimo Ceccherini, Vittorio Rap",Comedy,6.6
+473,Neuf mois,1994,110,Patrick Braoudé,"Philippine Leroy-Beaulieu, Catherine Jacob, Patrick Braoudé",Comedy,5.7
+474,Los peores años de nuestra vida,1994,100,Emilio Martínez Lázaro,"Gabino Diego, Ariadna Gil, Jorge Sanz","Comedy, Romance",6.6
+475,Slam Dunk: Zenkoku Seiha da! Sakuragi Hanamichi,1994,45,Toshihiko Arisako,"Akiko Hiramatsu, Hideyuki Hori, Takeshi Kusao","Animation, Comedy, Drama",7.7
+476,The Maidens of Heavenly Mountains,1994,96,Andy Wing-Keung Chin,"Brigitte Lin, Sharla Cheung, Gong Li","Action, Fantasy",5.9
+477,Breaking Point,1994,92,Paul Ziller,"Gary Busey, Kim Cattrall, Darlanne Fluegel",Thriller,4.9
+478,Treasure Hunt,1994,111,Jeffrey Lau,"Chow Yun-Fat, Chien-Lien Wu, Chia-Hui Liu","Action, Comedy, Crime",6.1
+479,Illicit Dreams,1994,93,Andrew Stevens,"Andrew Stevens, Shannon Tweed, Joe Cortese","Drama, Thriller",3.9
+480,Amaanat,1994,140,Raj N. Sippy,"Sanjay Dutt, Akshay Kumar, Heera Rajgopal","Action, Drama",4.2
+481,Zaalim,1994,131,Sikander Bharti,"Akshay Kumar, Madhoo, Vishnuvardhan","Action, Drama",4.4
+482,La vengeance d'une blonde,1994,95,Jeannot Szwarc,"Christian Clavier, Marie-Anne Chazel, Clémentine Célarié",Comedy,4.0
+483,Nastya,1994,89,Georgiy Daneliya,"Polina Kutepova, Irina Markova, Valeriy Nikolaev","Comedy, Romance",6.8
+484,Warriors,1994,101,Shimon Dotan,"Gary Busey, Michael Paré, Wendii Fulford","Action, Drama",4.4
+485,Rampo,1994,100,"Rintarô Mayuzumi, Kazuyoshi Okuyama","Naoto Takenaka, Michiko Hada, Masahiro Motoki","Drama, Mystery",6.7
+486,Mirror Mirror 2: Raven Dance,1994,91,Jimmy Lifton,"Tracy Wells, Roddy McDowall, Sally Kellerman",Horror,3.7
+487,Shaolin Popey,1994,92,Yen-Ping Chu,"Jimmy Lin, Shao-Wen Hao, Ashton Chen","Action, Comedy, Romance",6.4
+488,Krummerne 3 - fars gode idé,1994,90,Sven Methling,"Dick Kaysø, Karen-Lise Mynster, Benjamin Rothenborg Vibe","Comedy, Family",4.7
+489,Zivot a neobycejna dobrodruzstvi vojaka Ivana Conkina,1994,106,Jirí Menzel,"Gennadiy Nazarov, Zoya Buryak, Aleksey Zharkov","Comedy, Romance, War",7.0
+490,Love Is a Gun,1994,105,David Hartwell,"Eric Roberts, Kelly Preston, Eliza Roberts","Crime, Drama, Mystery",4.9
+491,Todo es mentira,1994,99,Álvaro Fernández Armero,"Penélope Cruz, Coque Malla, Jordi Mollà","Comedy, Drama, Romance",6.5
+492,Bad Blood,1994,90,Tibor Takács,"Lorenzo Lamas, Frankie Lou Thorn, Hank Cheyne","Action, Drama",4.6
+493,Dead Connection,1994,93,Nigel Dick,"Michael Madsen, Lisa Sinclair, Paul Leslie Disley","Crime, Drama, Thriller",4.8
+494,A New Love in Tokyo,1994,115,Banmei Takahashi,"Sawa Suzuki, Reiko Kataoka, Aya Sugimoto","Drama, Romance",6.3
+495,Bar Girls,1994,93,Marita Giovanni,"Nancy Allison Wolfe, Liza D'Agostino, Camila Griggs",Drama,5.0
+496,Getting In,1994,94,Doug Liman,"Stephen Mailer, Grahame Wood, Kristy Swanson","Comedy, Romance, Thriller",5.2
+497,Hello Brother,1994,158,E.V.V. Satyanarayana,"Nagarjuna Akkineni, Ramya Krishnan, Soundarya","Action, Comedy, Drama",7.4
+498,Darkside Blues,1994,83,Yoriyasu Kogawa,"Akio Ôtsuka, Hideyuki Hori, Kotono Mitsuishi","Animation, Action, Drama",5.4
+499,Radio Inside,1994,91,Jeffrey Bell,"William McNamara, Elisabeth Shue, Dylan Walsh","Drama, Romance",6.2
+500,Blue Helmet,1994,98,Gérard Jugnot,"Gérard Jugnot, Victoria Abril, Valérie Lemercier","Comedy, Drama",5.3
+501,Max,1994,91,Freddy Coppens,"Jacques Vermeire, Greet Rouffaer, Danni Heylen",Comedy,5.6
+502,I manegen med Glenn Killing - Live,1994,90,Walter Söderlund,"Robert Gustafsson, Jonas Inde, Johan Rheborg",Comedy,7.7
+503,The Club,1994,90,Brenton Spencer,"J.H. Wyman, Kim Coates, Andrea Roth",Horror,4.4
+504,Unishe April,1994,138,Rituparno Ghosh,"Aparna Sen, Debashree Roy, Dipankar Dey",Drama,7.7
+505,Criminal,1994,123,Mahesh Bhatt,"Nagarjuna Akkineni, Manisha Koirala, Ramya Krishnan","Action, Romance, Thriller",5.7
+506,Almost Dead,1994,92,Ruben Preuss,"Shannen Doherty, Costas Mandylor, John Diehl","Horror, Mystery, Thriller",4.6
+507,The Heroes,1994,100,Carlo Vanzina,"Claudio Amendola, Monica Bellucci, Ricky Memphis","Comedy, Crime",5.5
+508,Whale Music,1994,107,Richard J. Lewis,"Maury Chaykin, Cynthia Preston, Paul Gross","Comedy, Drama",7.1
+509,Amaidhi Padai,1994,172,Manivannan,"Manivannan, Ranjitha, Sathyaraj","Action, Crime, Drama",7.7
+510,King of the Airways,1994,95,Michel Poulette,"Martin Drainville, Zhenhu Han, Chantal Fontaine","Comedy, Romance",6.1
+511,Loaded,1994,96,Anna Campion,"Oliver Milburn, Dearbhla Molloy, Danny Cunningham","Drama, Thriller, Mystery",4.5
+512,47 Ronin,1994,132,Kon Ichikawa,"Ken Takakura, Kiichi Nakai, Rie Miyazawa","Action, Drama, War",6.4
+513,A Dangerous Place,1994,97,Jerry P. Jacobs,"Ted Jan Roberts, Corey Feldman, Mako","Action, Thriller",5.3
+514,Night Fire,1994,97,Mike Sedan,"Shannon Tweed, John Laughlin, Rochelle Swanson","Drama, Thriller",4.1
+515,Metal Skin,1994,115,Geoffrey Wright,"Aden Young, Tara Morice, Nadine Garner","Action, Drama, Romance",6.1
+516,Guardian Angel,1994,97,Richard W. Munchkin,"Cynthia Rothrock, Daniel McVicar, Lydie Denier","Action, Drama, Thriller",4.9
+517,Future Shock,1994,98,"Eric Parkinson, Matt Reeves, Oley Sassone","Vivian Schilling, Martin Kove, Brion James","Sci-Fi, Horror",4.2
+518,L'ange noir,1994,95,Jean-Claude Brisseau,"Sylvie Vartan, Michel Piccoli, Tchéky Karyo","Crime, Drama, Thriller",5.8
+519,Pillertrillaren,1994,111,Björn Gunnarsson,"Jakob Eklund, Kayo Shekoni, Kent Andersson","Comedy, Romance, Thriller",3.4
+520,Pet Shop,1994,87,Hope Perello,"Terry Kiser, Leigh Ann Orsi, Spencer Vrooman","Comedy, Family, Sci-Fi",4.3
+521,Mod Fuck Explosion,1994,67,Jon Moritsugu,"Amy Davis, Desi del Valle, Bonnie Steiger","Comedy, Drama, Horror",6.3
+522,Aswang,1994,82,"Wrye Martin, Barry Poltermann","Norman Moses, Tina Ona Paukstelis, John Kishline",Horror,5.5
+523,Teresa's Tattoo,1994,88,Julie Cypher,"C. Thomas Howell, Nancy McKeon, Lou Diamond Phillips","Comedy, Crime",4.5
+524,Beyond Bedlam,1994,89,Vadim Jean,"Craig Fairbrass, Elizabeth Hurley, Keith Allen","Comedy, Horror, Mystery",3.2
+525,Mammo,1994,130,Shyam Benegal,"Farida Jalal, Surekha Sikri, Amit Phalke",Drama,7.8
+526,La constellation Jodorowsky,1994,91,Louis Mouchet,"Fernando Arrabal, Peter Gabriel, Alejandro Jodorowsky","Documentary, Biography",6.7
+527,Le fils préféré,1994,100,Nicole Garcia,"Gérard Lanvin, Bernard Giraudeau, Jean-Marc Barr",Drama,6.8
+528,Deadly Melody,1994,91,Min Kan Ng,"Brigitte Lin, Biao Yuen, Carina Lau","Action, Thriller",6.3
+529,Cheyenne Warrior,1994,90,Mark Griffiths,"Kelly Preston, Bo Hopkins, Dan Haggerty","Action, Western",6.4
+530,A Feast at Midnight,1994,105,Justin Hardy,"John Hurley, Freddie Findlay, Sebastian Armesto","Comedy, Drama, Family",6.6
+531,Tersine Dünya,1994,97,Ersin Pertan,"Demet Akbag, Rasim Öztekin, Lale Mansur",Comedy,6.0
+532,Sioux City,1994,102,Lou Diamond Phillips,"Lou Diamond Phillips, Salli Richardson-Whitfield, Melinda Dillon","Drama, Mystery, Thriller",5.8
+533,Maya Lin: A Strong Clear Vision,1994,105,Freida Lee Mock,Maya Lin,"Documentary, Biography",7.3
+534,Lion Strike,1994,90,"Rick Jacobson, Jacobsen Hart, Paul G. Volk","Don Wilson, Bobbie Phillips, Marcus Aurelius","Action, Crime, Thriller",4.8
+535,Not Angels But Angels,1994,80,Wiktor Grodecki,"Eda, Joseph Gregori, Honza",Documentary,6.4
+536,Sherlock: Undercover Dog,1994,78,Richard Harding Gardner,"Benjamin Eroen, Anthony Simmons, Cooper Cameron","Adventure, Comedy, Crime",2.7
+537,Criminal Passion,1994,96,Donna Deitch,"Joan Severance, Tony Denison, John Allen Nelson","Drama, Mystery, Thriller",4.7
+538,"Boys Life: Three Stories of Love, Lust, and Liberation",1994,91,"Robert Lee King, Raoul O'Connell, Brian Sloan","James Andrews, Mary Beth Aylesworth, Mike Barbour",Drama,7.2
+539,Andaz,1994,167,David Dhawan,"Anil Kapoor, Juhi Chawla, Karisma Kapoor","Action, Comedy, Drama",4.5
+540,Red Scorpion 2,1994,95,Michael Kennedy,"Matt McColm, John Savage, Jennifer Rubin","Action, Drama",3.6
+541,Vääpeli Körmy - Taisteluni,1994,107,Ere Kokkonen,"Heikki Kinnunen, Kalevi Kahra, Pentti Siimes",Comedy,4.7
+542,Justino,1994,96,"Santiago Aguilar, Luis Guridi","Saturnino García, Juanjo Puigcorbé, Carlos Lucas","Comedy, Crime, Drama",6.4
+543,Day of the Angel,1994,82,Behruz Afkhami,"Ezzatolah Entezami, Akbar Abdi, Mina Lakani","Comedy, Fantasy",6.4
+544,Indecent Behavior II,1994,89,Carlo Gustaff,"Shannon Tweed, James Brolin, Chad McQueen","Drama, Mystery, Thriller",4.0
+545,Sicario,1994,107,Joseph Novoa,"Laureano Olivarez, Herman Gil, Néstor Terán",Drama,6.3
+546,"Red Firecracker, Green Firecracker",1994,111,Ping He,"Jing Ning, Gang Wu, Xiaorui Zhao","Drama, Romance",6.8
+547,A Soul Haunted by Painting,1994,130,Shuqin Huang,"Gong Li, Fang-Tsen, Shichang Da","Biography, Drama, Romance",6.6
+548,Zakhmi Dil,1994,151,Raju Subramaniam,"Akshay Kumar, Ashwini Bhave, Ravi Kishan","Action, Drama, Romance",3.0
+549,Venus in Furs,1994,70,"Victor Nieuwenhuijs, Maartje Seyferth","Anne van de Ven, André Arend van de Noord, Raymond Thiry","Drama, Romance",5.1
+550,Daughter of Darkness 2,1994,97,Kai-Ming Lai,"Yim Lai Cheng, Ben Ngai-Cheung Ng, Dick Lau","Comedy, Thriller",5.5
+551,The Liars' Club,1994,95,Jeffrey Porter,"Wil Wheaton, Brian Krause, Michael Cudlitz","Drama, Thriller",5.6
+552,Oglinda,1994,160,Sergiu Nicolaescu,"Ion Siminie, Adrian Vâlcu, Gheorghe Dinica","Drama, History",7.5
+553,A Great Day in Harlem,1994,60,Jean Bach,"Dizzy Gillespie, Milt Hinton, Marian McPartland","Documentary, Music",7.4
+554,A Business Affair,1994,98,Charlotte Brändström,"Christopher Walken, Carole Bouquet, Jonathan Pryce","Comedy, Romance",5.5
+555,Drunken Master III,1994,91,Chia-Liang Liu,"Andy Lau, Ka-Kui Ho, Michelle Reis","Action, Adventure",5.1
+556,Federal Hill,1994,97,Michael Corrente,"Nicholas Turturro, Anthony DeSando, Libby Langdon","Crime, Drama",6.3
+557,Droh Kaal,1994,162,Govind Nihalani,"Om Puri, Naseeruddin Shah, Mita Vashisht","Action, Crime, Drama",7.8
+558,Plughead Rewired: Circuitry Man II,1994,98,"Robert Lovy, Steven Lovy","Vernon Wells, Deborah Shelton, Jim Metzler",Sci-Fi,3.5
+559,"Six Days, Six Nights",1994,98,Diane Kurys,"Anne Parillaud, Béatrice Dalle, Patrick Aurignac","Comedy, Drama, Mystery",5.5
+560,Immortal Combat,1994,109,Dan Neira,"Shin'ichi Chiba, Roddy Piper, Meg Foster","Action, Adventure, Fantasy",4.9
+561,Ice,1994,91,Brook Yeaton,"Traci Lords, Phillip Troy Linger, Zach Galligan","Action, Crime",3.9
+562,Playmaker,1994,91,Yuri Zeltser,"Colin Firth, Jennifer Rubin, John Getz","Drama, Mystery, Thriller",5.1
+563,Taxandria,1994,82,Raoul Servais,"Armin Mueller-Stahl, Elliott Spiers, Katja Studt","Adventure, Fantasy",6.4
+564,Heaven's a Drag,1994,101,Peter Mackenzie Litten,"Ian Williams, Thomas Arklie, Gordon Alexander","Comedy, Drama, Romance",5.6
+565,"Ryaba, My Chicken",1994,117,Andrei Konchalovsky,"Inna Churikova, Viktor Mikhaylov, Aleksandr Surin",Comedy,6.4
+566,The Unborn II,1994,83,Rick Jacobson,"Michele Greene, Robin Curtis, Scott Valentine","Horror, Sci-Fi",4.2
+567,Angel of Destruction,1994,86,Charles Philip Moore,"Maria Ford, Charlie Spradling, Jessica Mark","Action, Adventure, Thriller",5.2
+568,The Gods Must Be Funny in China,1994,85,Kin-Nam Cho,"N!xau, Kent Cheng, Pei-Pei Cheng",Comedy,3.8
+569,Lamarca,1994,130,Sergio Rezende,"Paulo Betti, Carla Camurati, José de Abreu","Action, Biography, Drama",6.5
+570,Khuddar,1994,167,Iqbal Durrani,"Govinda, Karisma Kapoor, Shakti Kapoor","Action, Drama, Thriller",5.4
+571,Ermo,1994,98,Xiaowen Zhou,"Liya Ai, Peiqi Liu, Zhijun Ge","Comedy, Drama",7.1
+572,The Mummy Lives,1994,97,Gerry O'Hara,"Tony Curtis, Leslie Hardy, Greg Wrangler",Horror,3.4
+573,Mahakaal,1994,132,"Shyam Ramsay, Tulsi Ramsay","Karan Shah, Archana Puran Singh, Johny Lever","Comedy, Horror",4.8
+574,Caged Heat II: Stripped of Freedom,1994,72,Cirio H. Santiago,"Jewel Shepard, Pamella D'Pella, Susan Harvey","Action, Crime, Thriller",3.7
+575,The Golden Ball,1994,93,Cheik Doukouré,"Aboubacar Sidiki Sumah, Agnès Soral, Habib Hammoud","Comedy, Drama, Family",6.3
+576,Dark Tide,1994,94,Luca Bercovici,"Chris Sarandon, Brigitte Bako, Richard Tyson",Thriller,4.6
+577,Black Is... Black Ain't,1994,87,Marlon Riggs,"Angela Davis, Essex Hemphill, bell hooks",Documentary,7.7
+578,The Bull,1994,105,Carlo Mazzacurati,"Diego Abatantuono, Roberto Citran, Marco Messeri","Comedy, Drama",6.8
+579,De flat,1994,105,Ben Verbong,"Renée Soutendijk, Victor Löw, Hans Hoes","Mystery, Romance, Thriller",5.3
+580,Saturnin,1994,97,Jirí Vercák,"Oldrich Vízner, Ondrej Havelka, Lucie Zednícková",Comedy,7.6
+581,Mutant Species,1994,100,David A. Prior,"Leo Rossi, Ted Prior, Denise Crosby","Horror, Sci-Fi",3.5
+582,Tigrero: A Film That Was Never Made,1994,75,Mika Kaurismäki,"Samuel Fuller, Jim Jarmusch","Documentary, Drama",6.8
+583,Imtihaan,1994,152,Harry Baweja,"Sunny Deol, Saif Ali Khan, Raveena Tandon","Action, Drama, Romance",5.5
+584,Shaolin Popey II: Messy Temple,1994,90,Yen-Ping Chu,"Shao-Wen Hao, Ashton Chen, Man-Tat Ng","Action, Comedy",5.9
+585,Jonathan degli orsi,1994,88,Enzo G. Castellari,"Franco Nero, John Saxon, Floyd 'Red Crow' Westerman","Action, Western",6.2
+586,Beanstalk,1994,78,Michael Davis,"J.D. Daniels, Amy Stoch, Patrick Renna","Comedy, Family, Fantasy",4.8
+587,Body Shot,1994,98,Dimitri Logothetis,"Robert Patrick, Michelle Johnson, Ray Wise",Thriller,4.7
+588,Katya Ismailova,1994,96,Valeriy Todorovskiy,"Vladimir Mashkov, Ingeborga Dapkunaite, Aleksandr Feklistov",Drama,6.3
+589,Elles n'oublient jamais,1994,107,Christopher Frank,"Thierry Lhermitte, Maruschka Detmers, Nadia Farès","Drama, Thriller",5.8
+590,The Skateboard Kid 2,1994,90,Andrew Stevens,"Dee Wallace, Bruce Davison, Andrew Stevens","Comedy, Family, Fantasy",3.8
+591,Beyond Forgiveness,1994,95,Bob Misiorowski,"Thomas Ian Griffith, Artur Zmijewski, Bozena Szymanska","Action, Thriller",4.6
+592,Lady in Waiting,1994,84,Fred Gallo,"Michael Nouri, Robert Costanzo, Shannon Whirry","Crime, Drama, Mystery",4.2
+593,Sahmaran,1994,97,Zülfü Livaneli,"Türkan Soray, Mehmet Balkiz, Rana Cabbar","Adventure, Family",6.3
+594,The Box,1994,93,Manoel de Oliveira,"Luís Miguel Cintra, Glicínia Quartin, Ruy de Carvalho","Comedy, Drama",6.8
+595,Chinese Kamasutra,1994,85,Joe D'Amato,"Giorgia Emerald, Leo Gamboa, Marc Gosálvez","Fantasy, Romance",4.0
+596,Yengeç Sepeti,1994,96,Yavuz Özkan,"Sadri Alisik, Macide Tanir, Mehmet Aslantug",Drama,6.3
+597,Erotique,1994,120,"Lizzie Borden, Clara Law, Ana Maria Magalhães","Kamala Lopez, Bryan Cranston, Liane Curtis",Drama,4.8
+598,Project Shadowchaser II,1994,94,John Eyres,"Frank Zagarino, Bryan Genesse, Beth Toussaint","Action, Sci-Fi",4.2
+599,Flashfire,1994,88,Elliot Silverstein,"Billy Zane, Louis Gossett Jr., Kristin Minter","Action, Crime, Thriller",4.5
+600,L.A. Wars,1994,92,"Tony Kandah, Martin Morris","Vince Murdocco, Mary E. Zilba, A.J. Stephans","Action, Drama",5.6
+601,Dead On,1994,87,Ralph Hemecker,"Matt McCoy, Shari Shattuck, David Ackroyd","Crime, Drama, Thriller",4.8
+602,Angel 4: Undercover,1994,94,Richard Schenkman,"Darlene Vogel, Shane Fraser, Alan Picardi","Action, Drama",3.8
+603,ChickenHawk,1994,55,Adi Sideman,"Barbara Adler, Mimi Turner, Bill Andriette","Documentary, Crime",6.8
+604,Paperback Romance,1994,88,Ben Lewin,"Gia Carides, Anthony LaPaglia, Rebecca Gibney","Comedy, Romance",6.1
+605,Uuno Turhapuron veli,1994,75,Hannu Seikkula,"Esko Salminen, Anu Hälvä, Tapio Hämäläinen",Comedy,2.6
+606,The Dangerous,1995,96,"Rod Hewitt, David Winters","Robert Davi, Michael Paré, John Savage","Action, Thriller",4.0
+607,Hand Gun,1994,90,Whitney Ransick,"Treat Williams, Seymour Cassel, Paul Schulze","Action, Crime, Thriller",5.4
+608,"The Beans of Egypt, Maine",1994,99,Jennifer Warren,"Martha Plimpton, Kelly Lynch, Rutger Hauer",Drama,5.3
+609,Woyzeck,1994,93,János Szász,"Lajos Kovács, Diana Vacaru, Éva Igó",Drama,7.0
+610,Slatko od snova,1994,96,Vladimir Zivkovic,"Dragana Mirkovic, Velimir 'Bata' Zivojinovic, Nebojsa Bakocevic","Comedy, Musical, Romance",3.5
+611,Komedia malzenska,1994,95,Roman Zaluski,"Ewa Kasprzyk, Jan Englert, Ewa Dalkowska",Comedy,6.4
+612,Zeiram 2,1994,107,Keita Amemiya,"Mitsuo Abe, Makio Hiraiwa, Yukijirô Hotaru","Action, Comedy, Sci-Fi",6.4
+613,Govindha Govindha,1994,145,Ram Gopal Varma,"Nagarjuna Akkineni, Sridevi, Kota Srinivasa Rao","Action, Crime, Drama",6.7
+614,Munchie Strikes Back,1994,94,Jim Wynorski,"Lesley-Anne Down, Andrew Stevens, Trenton Knight","Comedy, Family, Fantasy",3.2
+615,Eena Meena Deeka,1994,133,David Dhawan,"Vinod Khanna, Rishi Kapoor, Juhi Chawla","Action, Comedy, Crime",4.6
+616,Alegre ma non troppo,1994,97,Fernando Colomo,"Penélope Cruz, Pere Ponce, Óscar Ladoire","Comedy, Music, Romance",5.6
+617,In Custody,1994,126,Ismail Merchant,"Shashi Kapoor, Shabana Azmi, Om Puri","Comedy, Drama",7.1
+618,The Other Man,1994,96,Jag Mundhra,"Diana Barton, Doug Jeffery, John Laughlin",Thriller,3.9
+619,Cage II,1994,106,Lang Elliott,"Candra Adams, Lou Ferrigno, Richard Ardi","Action, Drama",4.1
+620,Backstreet Justice,1994,91,Chris McIntyre,"Linda Kozlowski, Paul Sorvino, Hector Elizondo","Crime, Drama",4.5
+621,Relative Fear,1994,94,George Mihalka,"Darlanne Fluegel, Martin Neufeld, James Brolin","Drama, Horror, Thriller",5.5
+622,The Crazysitter,1994,92,Michael McDonald,"Beverly D'Angelo, Ed Begley Jr., Carol Kane","Comedy, Crime, Drama",4.9
+623,Plook mun kuen ma kah 4,1994,85,"Towatchai Ladloy, Prapon Petchinn, Panna Rittikrai","Bradford Hutson, Tony Jaa, Jai Janmulltree",Action,4.2
+624,The St. Tammany Miracle,1994,90,"Joy N. Houck Jr., Jim McCullough Sr.","Mark-Paul Gosselaar, Soleil Moon Frye, Jamie Luner","Drama, Sport",4.9
+625,"CID Unnikrishnan B.A., B.Ed.",1994,150,Rajasenan,"Jayaram, Maniyanpilla Raju, Jagathy Sreekumar","Comedy, Mystery",6.8
+626,The Killing Machine,1994,100,David Mitchell,"Jeff Wincott, Michael Ironside, Terri Hawkes","Action, Crime, Drama",4.4
+627,Caroline at Midnight,1994,88,Scott McGinnis,"Clayton Rohner, Mia Sara, Tim Daly","Romance, Thriller",4.9
+628,Shades of Fear,1994,93,Beeban Kidron,"Vanessa Redgrave, John Hurt, Jonathan Pryce","Comedy, Drama, Mystery",6.0
+629,The Teddy Bear,1994,105,Jacques Deray,"Alain Delon, Laure Killing, Regina Bianchi","Drama, Romance, Thriller",5.1
+630,Freedom on My Mind,1994,105,"Connie Field, Marilyn Mulford","Chude Pamela Allen, Ella Baker, Fred Berger",Documentary,7.9
+631,The Killing of a Cat,1994,89,Raimo O. Niemi,"Marja Pyykkö, Kalle Ahola, Kaija Kangas","Drama, Thriller",5.8
+632,Deadly Target,1994,100,Charla Driver,"Gary Daniels, Ken McLeod, Byron Mann","Action, Crime, Drama",5.0
+633,Allari Police,1994,141,Narayana Rao Uppalapati,"Mohan Babu, Aamani, Mohammad Ali","Action, Comedy",5.4
+634,Private Lessons: Another Story,1994,86,Dominique Othenin-Girard,"Mariana Morgan, Ray Garaza, Deirdre Haj",Drama,4.3
+635,The Three Swordsmen,1994,86,Taylor Wong,"Brigitte Lin, Andy Lau, Elvis Tsui","Action, Comedy",5.2
+636,Movie Days,1994,82,Friðrik Þór Friðriksson,"Örvar Jens Arnarsson, Rúrik Haraldsson, Sigrún Hjálmtýsdóttir",Drama,6.5
+637,Revenge of the Red Baron,1994,100,Robert Gordon,"Mickey Rooney, Tobey Maguire, Laraine Newman","Comedy, Fantasy, Horror",3.4
+638,Foreign Student,1994,90,Eva Sereny,"Robin Givens, Marco Hofschneider, Rick Johnson",Drama,5.9
+639,La bella vita,1994,97,Paolo Virzì,"Claudio Bigagli, Sabrina Ferilli, Massimo Ghini",Comedy,6.4
+640,Takeru Yamato,1994,105,Takao Okawara,"Masahiro Takashima, Yasuko Sawaguchi, Hiroshi Fujioka","Adventure, Fantasy",6.3
+641,Danger in Paradise,1994,0,Philip Marcus,"Franco Columbu, Barbara Niven, Frank Stallone",Action,3.9
+642,The Last Good Time,1994,90,Bob Balaban,"Armin Mueller-Stahl, Olivia d'Abo, Lionel Stander","Drama, Romance",6.6
+643,Le Franc,1994,46,Djibril Diop Mambéty,"Dieye Ma, Aminata Fall, Demba Bâ",Comedy,6.7
+644,Fleshtone,1994,91,Harry Hurwitz,"Martin Kemp, Lise Cutter, Tim Thomerson","Horror, Mystery, Thriller",4.7
+645,Felony,1994,93,David A. Prior,"Jeffrey Combs, Ashley Laurence, Leo Rossi","Action, Drama, Thriller",4.4
+646,The Night and the Moment,1994,90,Anna Maria Tatò,"Lena Olin, Willem Dafoe, Miranda Richardson",Drama,5.3
+647,Return to a Better Tomorrow,1994,103,Jing Wong,"Ekin Cheng, Ching-Wan Lau, Michael Wong","Action, Crime, Thriller",5.9
+648,Red Rose White Rose,1994,110,Stanley Kwan,"Joan Chen, Veronica Yip, Winston Chao","Drama, Romance",7.1
+649,Zorn,1994,126,Gunnar Hellström,"Gunnar Hellström, Linda Kozlowski, Liv Ullmann","Biography, Drama, History",5.7
+650,Wonder Seven,1994,90,Siu-Tung Ching,"Michelle Yeoh, Ning Li, Andy Chi-On Hui",Action,5.5
+651,Bonsoir,1994,85,Jean-Pierre Mocky,"Michel Serrault, Jean-Claude Dreyfus, Claude Jade",Comedy,5.7
+652,Deadly Advice,1994,91,Mandie Fletcher,"Jane Horrocks, Brenda Fricker, Imelda Staunton","Comedy, Drama",6.1
+653,A Borrowed Life,1994,167,Nien-Jen Wu,"Akio Chen, Shu-Fang Chen, Jun Fu",Drama,7.4
+654,Midnight Tease,1994,83,Scott P. Levy,"Lisa Boyle, Justin Carroll, Rachel Reed","Mystery, Thriller",3.7
+655,Tollbooth,1994,108,Salomé Breziner,"Fairuza Balk, Lenny von Dohlen, Will Patton","Action, Drama, Thriller",5.5
+656,Fredrikssons fabrikk - The movie,1994,92,Bo Hermansson,"Magnus Härenstam, Brit Elisabeth Haagensli, Geir Kvarme",Comedy,4.9
+657,Across the Moon,1994,88,Lisa Gottlieb,"Christina Applegate, Elizabeth Peña, Michael Mundra","Comedy, Drama, Romance",4.8
+658,Caught in the Acts,1994,109,Raymond Depardon,Michèle Bernard-Requin,Documentary,7.7
+659,No Ordinary Love,1994,104,Doug Witkins,"Fred Blanco, Randy Brown, Angel Ceja","Comedy, Romance",4.3
+660,The Quality of Mercy,1994,105,Andreas Gruber,"Elfriede Irrall, Rainer Egger, Oliver Broumis","Drama, War",7.2
+661,Dos crímenes,1994,108,Roberto Sneider,"Damián Alcázar, José Carlos Ruiz, Pedro Armendáriz Jr.","Comedy, Crime, Drama",7.3
+662,Ring of Steel,1994,94,David Frost,"Joe Don Baker, Carol Alt, Robert Chapin","Action, Drama",5.0
+663,Men Behind the Sun 3: A Narrow Escape,1994,93,Godfrey Ho,"Te-Lo Mai, Andrew Yu, Gong Zhu",Drama,3.5
+664,The Goat Horn,1994,88,Nikolay Volev,"Aleksandr Morfov, Elena Petrova, Petar Popyordanov",Drama,7.5
+665,A Century of Cinema,1994,72,Caroline Thomas,"Don Ameche, Richard Attenborough, Dan Aykroyd",Documentary,6.5
+666,Hard Vice,1994,86,Joey Travolta,"Sam J. Jones, Shannon Tweed, James Gammon","Crime, Drama, Thriller",3.8
+667,Insaniyat,1994,180,Tony Juneja,"Amitabh Bachchan, Sunny Deol, Chunky Pandey","Action, Crime, Drama",3.0
+668,Senza pelle,1994,90,Alessandro D'Alatri,"Anna Galiena, Massimo Ghini, Kim Rossi Stuart","Drama, Romance",6.6
+669,Dead on Sight,1994,95,Ruben Preuss,"Jennifer Beals, Daniel Baldwin, Kurtwood Smith","Mystery, Thriller",4.6
+670,Direct Hit,1994,89,"Joseph Merhi, Paul G. Volk","William Forsythe, Jo Champa, Richard Norton","Action, Drama",4.3
+671,Duet,1994,156,K. Balachander,"Prabhu, Ramesh Aravind, Meenakshi Sheshadri","Musical, Romance",6.4
+672,Unveiled,1994,103,William Cole,"Lisa Zane, Nick Chinlund, Whip Hubley","Action, Drama, Thriller",4.9
+673,Passions,1994,111,Kira Muratova,"Aleksei Bokatov, Yevgeni Golubenko, Mariya Gudyma",Drama,6.8
+674,Nattamai,1994,153,K.S. Ravikumar,"R. Sarathkumar, Khushbu Sundar, Meena","Action, Drama",6.9
+675,Crucea de piatra,1994,96,Andrei Blaier,"Gheorghe Dinica, Florina Cercel, Coca Bloos",Comedy,7.0
+676,Dark Future,1994,88,Greydon Clark,"Darby Hinton, Leonard Donato, Andria Mann","Action, Sci-Fi",2.5
+677,Midnight Dancers,1994,100,Mel Chionglo,"Alex Del Rosario, Gandong Cervantes, Lawrence David","Crime, Drama",5.5
+678,Dead Funny,1994,96,John Feldman,"Elizabeth Peña, Andrew McCarthy, Paige Turco",Drama,4.9
+679,End of an Era,1994,98,Antonis Kokkinos,"Kostas Kazanas, Dimosthenis Papadopoulos, Yorgos Pirpassopoulos",Drama,7.0
+680,The Rice People,1994,125,Rithy Panh,"Peng Phan, Mom Soth, Chhim Naline",Drama,7.1
+681,The Secret of Queen Anne or Musketeers Thirty Years After,1994,158,Georgi Yungvald-Khilkevich,"Mikhail Boyarskiy, Alisa Freyndlikh, Dmitriy Kharatyan","Action, History",5.6
+682,The Pamela Principle 2,1994,97,Edward Holzman,"India Allen, Alina Thompson, Nick Rafter","Drama, Romance",4.1
+683,Inner Sanctum II,1994,82,Fred Olen Ray,"Michael Nouri, Tracy Brooks Swope, Sandahl Bergman","Drama, Horror, Romance",3.6
+684,Iavnana,1994,75,Nana Janelidze,"Nato Murvanidze, Niko Tavadze, Nino Abuladze",Drama,7.8
+685,Aag,1994,139,K. Ravi Shankar,"Govinda, Shilpa Shetty Kundra, Sonali Bendre","Action, Comedy, Drama",4.6
+686,The Soft Kill,1994,94,Eli Cohen,"Michael Harris, Brion James, Carrie-Anne Moss","Mystery, Thriller",4.6
+687,Pakshe,1994,154,Mohan,"Mohanlal, Shanthi Krishna, Shobana","Drama, Romance",7.2
+688,Yamaleela,1994,140,"S.V. Krishna Reddy, Ranga Rao Kurra","Mohammad Ali, Pooja Dadwal, Kaikala Satyanarayana","Comedy, Drama, Fantasy",7.6
+689,Lipstick Camera,1994,91,Mike Bonifer,"Brian Wimmer, Ele Keats, Corey Feldman","Action, Thriller",4.1
+690,Death Match,1994,94,Joe Coppoletta,"Ian Jacklin, Martin Kove, Matthias Hues","Action, Drama",4.5
+691,Spider & Rose,1994,94,Bill Bennett,"Ruth Cracknell, Simon Bossell, Max Cullen",Comedy,6.8
+692,Moondance,1994,92,Dagmar Hirtz,"Rúaidhrí Conroy, Ian Shaw, Julia Brendler","Drama, Romance",5.9
+693,Pavithra,1994,138,K. Subhash,"Radhika Sarathkumar, Nassar, Ajith Kumar","Drama, Romance",5.8
+694,Gospel According to Harry,1994,82,Lech Majewski,"Andy Rivera, Alhassane Barry, David Baty","Comedy, Drama, Fantasy",6.0
+695,Vildbassen,1994,85,Sven Methling,"Robert Hansen, Peter Hoffmeyer, Jacob Rasmussen","Comedy, Family",5.1
+696,It's a Wonderful Life,1994,94,Clifton Ko,"Leslie Cheung, Teresa Sun-Kwan Mo, Tony Ka Fai Leung","Comedy, Family",6.3
+697,Crest of Betrayal,1994,106,Kinji Fukasaku,"Kôichi Satô, Saki Takaoka, Keiko Oginome","Action, Drama, Horror",6.4
+698,Whore 2,1994,85,Amos Kollek,"Nancy McPherson, Pat 'Delightful' Kelly, Sylvia Hill",Drama,4.9
+699,Lookin' Italian,1994,97,Guy Magar,"Jay Acovone, Matt LeBlanc, Stephanie Richards","Crime, Drama, Romance",4.8
+700,Forget Me,1994,95,Noémie Lvovsky,"Valeria Bruni Tedeschi, Emmanuelle Devos, Laurent Grévill",Drama,6.3
+701,Solitaire for 2,1994,106,Gary Sinyor,"Mark Frankel, Amanda Pays, Roshan Seth","Comedy, Romance",5.2
+702,The Great Conqueror's Concubine,1994,165,Stephen Shin,"Ray Lui, Rosamund Kwan, Gong Li","Action, Drama, History",6.6
+703,"No Dessert, Dad, Till You Mow the Lawn",1994,89,Howard McCain,"Joshua Schaefer, Robert Hays, Joanna Kerns",Comedy,4.9
+704,Heaven Sent,1994,91,Craig Clyde,"David Bowe, Wilford Brimley, Mary Beth McDonough","Drama, Fantasy",5.4
+705,Forced to Kill,1994,93,Russell Solberg,"Corey Michael Eubanks, Michael Ironside, Rance Howard","Action, Thriller",5.0
+706,The Cow,1994,86,Karel Kachyna,"Radek Holub, Alena Mihulová, Valérie Zawadská",Drama,7.5
+707,A Passion to Kill,1994,95,Rick King,"Scott Bakula, Chelsea Field, Sheila Kelley","Drama, Mystery, Thriller",4.7
+708,The Underground Banker,1994,91,Bosco Lam,"Anthony Chau-Sang Wong, Lawrence Ng, Chi-Yeung Wong","Crime, Horror, Thriller",6.2
+709,Sainyam,1994,194,Joshiy,"Mammootty, Mukesh, Mohini","Action, Drama, Thriller",6.3
+710,Boca,1994,91,"Walter Avancini, Zalman King","Rae Dawn Chong, Martin Kemp, Tarcísio Meira","Crime, Drama, Mystery",5.7
+711,Díky za kazdé nové ráno,1994,100,Milan Steindler,"Ivana Chýlková, Franciszek Pieczka, Alena Vránová",Comedy,7.0
+712,In the Heat of Passion II: Unfaithful,1994,88,Catherine Cyran,"Barry Bostwick, Matt McCoy, Lesley-Anne Down","Thriller, Drama",4.5
+713,Temptation,1994,91,Strathford Hamilton,"Jeff Fahey, Alison Doody, Philip Casnoff",Thriller,4.5
+714,Replikator,1994,97,G. Philip Jackson,"Michael St. Gerard, Brigitte Bako, Ned Beatty",Sci-Fi,2.9
+715,Organized Crime & Triad Bureau,1994,90,Kirk Wong,"Danny Lee, Cecilia Yip, Anthony Chau-Sang Wong","Action, Crime, Thriller",6.8
+716,Büvös vadász,1994,106,Ildikó Enyedi,"Gary Kemp, Sadie Frost, Aleksandr Kaydanovskiy","Drama, Fantasy",6.2
+717,The Spouse,1994,100,Mehdi Fakhimzadeh,"Mehdi Hashemi, Fatemah Motamed-Aria, Nasrin Moghanloo","Drama, Family",6.5
+718,Magic Kid II,1994,87,Stephen Furst,"Stephen Furst, Ted Jan Roberts, Dana Barron","Comedy, Family",3.8
+719,The Color of Fear,1994,90,Mun-Wah Lee,"Roberto Almazán, David Lee, Roberto Almanzán",Documentary,8.4
+720,Picture of Light,1994,83,Peter Mettler,"Gavin Connor, Brian Ladoon, Don Lind",Documentary,7.2
+721,El detective y la muerte,1994,108,Gonzalo Suárez,"Javier Bardem, Maria de Medeiros, Carmelo Gómez",Thriller,5.2
+722,The House of Pleasure,1994,81,Joe D'Amato,"Irina Kramer, Nick Nicholson, Marc Gosálvez",Drama,4.4
+723,The Tibetan Book of the Dead: A Way of Life,1994,46,"Yukari Hayashi, Barrie McLean","Leonard Cohen, The Dalai Lama, Ram Dass",Documentary,7.4
+724,Jack Brown Genius,1996,85,Tony Hiles,"Timothy Balme, Nicola Murphy, Marton Csokas","Comedy, Fantasy, Sci-Fi",5.1
+725,Historias de la puta mili,1994,97,Manel Esteban,"Juan Echanove, Jordi Mollà, Achero Mañas","Action, Comedy, Drama",3.8
+726,Dead Can Dance: Toward the Within,1994,77,Mark Magidson,"Dead Can Dance, Lisa Gerrard, Brendan Perry","Documentary, Music",8.7
+727,Every Breath,1994,88,Steve Bing,"Judd Nelson, Joanna Pacula, Patrick Bauchau",Thriller,4.0
+728,Lost in Africa,1994,100,Stewart Raffill,"Jennifer McComb, Ashley Hamilton, Mohamed Nangurai","Action, Adventure",5.3
+729,Rhythm Thief,1994,88,Matthew Harrison,"Jason Andrews, Eddie Daniels, Kevin Corrigan",Drama,6.3
+730,Object of Obsession,1994,91,Gregory Dark,"Scott Valentine, Erika Anderson, Elizabeth Whitcraft",Drama,4.4
+731,Kamen Rider J,1994,45,Keita Amemiya,"Yuuta Mochizuki, Yûka Nomura, Rikako Aikawa","Action, Adventure, Drama",6.6
+732,The Last Tattoo,1994,112,John Reid,"Desmond Kelly, Katie Wolfe, Mark Raffety","Drama, Mystery, Romance",5.9
+733,Miracolo italiano,1994,104,Enrico Oldoini,"Renato Pozzetto, Ezio Greggio, Nino Frassica",Comedy,4.5
+734,Brave,1994,58,Richard Stanley,"Josie Ayers, Russell Copley, Raymond Sawyer","Drama, Music",7.2
+735,Windrunner,1994,98,"William Clark, William Tannen","Jason Wiles, Russell Means, Margot Kidder","Family, Fantasy",6.2
+736,Miasto prywatne,1994,73,Jacek Skalski,"Maciej Kozlowski, Boguslaw Linda, Maria Gladkowska","Action, Crime, Drama",5.1
+737,World and Time Enough,1994,90,Eric Mueller,"Matt Guidry, Gregory Gifford Giles, Kraig Swartz","Drama, Romance",5.8
+738,Tryst,1994,101,Peter Foldy,"Barbara Carrera, David Warner, Louise Fletcher","Romance, Thriller",4.2
+739,The Day the Sun Turned Cold,1994,99,Ho Yim,"Siqin Gaowa, Chung-Hua Tou, Jingwu Ma","Crime, Drama, Mystery",7.1
+740,Girls Unbutton,1994,89,Taylor Wong,"Loletta Lee, See-Ho Leung, Chun Hung Cheung","Comedy, Romance",4.8
+741,New Crime City,1994,86,Jonathan Winfrey,"Rick Rossovich, Sherrie Rose, Stacy Keach","Action, Sci-Fi",4.3
+742,Alma's Rainbow,1994,89,Ayoka Chenzira,"Kim Weston-Moran, Victoria Gabrielle Platt, Mizan Kirby","Comedy, Drama",6.5
+743,Postcards from America,1994,92,Steve McLean,"James Lyons, Michael Tighe, Olmo Tighe",Drama,6.0
+744,Sujon Sokhi,1994,136,Shah Alam Kiron,"Salman Shah, Shabnur, Raisul Islam Asad",Romance,7.9
+745,Smierc jak kromka chleba,1994,116,Kazimierz Kutz,"Janusz Gajos, Jerzy Trela, Jerzy Radziwilowicz","Drama, History",6.9
+746,Fresh Kill,1994,80,Shu Lea Cheang,"Sarita Choudhury, Pedro Pietri, Ching Gonzalez","Drama, Sci-Fi",6.0
+747,Improper Conduct,1994,93,Jag Mundhra,"Steven Bauer, Tahnee Welch, John Laughlin",Thriller,4.2
+748,Parole Violators,1994,90,Patrick G. Donahue,"Sean P. Donahue, Pamela Bosley, Michael Kiel","Action, Crime, Drama",4.8
+749,The Chess Game,1994,110,Yves Hanchar,"Olivier Maes, Pierre Richard, Christian Maillet","Comedy, Drama",6.3
+750,The Gentleman,1994,161,Mahesh Bhatt,"Chiranjeevi, Juhi Chawla, Kulbhushan Kharbanda","Action, Drama",5.0
+751,Dead Beat,1994,93,Adam Dubov,"Bruce Ramsay, Balthazar Getty, Max Perlich",Thriller,5.3
+752,Carnaval fi Dachra,1994,120,Mohamed Oukassi,"Athmane Ariouet, Salah Aougrout, Lakhder Boukhers",Comedy,9.1
+753,Faustina: The Apostle of Divine Mercy,1994,73,Jerzy Lukaszewicz,"Dorota Segda, Danuta Szaflarska, Agnieszka Czekanska","Biography, Drama",6.6
+754,Vukovar se vraca kuci,1994,99,Branko Schmidt,"Goran Navojec, Sanja Marin, Horst Janson","Drama, War",5.3
+755,Fire Dragon,1994,90,Yuen Woo-Ping,"Brigitte Lin, Mok Siu-Chung, Sandra Ng","Action, Comedy, Drama",6.2
+756,Never Say Die,1994,99,Yossi Wein,"Frank Zagarino, Billy Drago, Jenny McShane","Action, Drama, Thriller",4.4
+757,The Return of Tommy Tricker,1994,97,Michael Rubbo,"Michael Stevens, Joshawa Mathers, Heather Goodsell","Adventure, Family, Fantasy",5.4
+758,A Diary of Insults,1994,95,Zdravko Sotra,"Vera Cukic, Marko Nikolic, Milivoje 'Mica' Tomic",Drama,6.4
+759,"Married People, Single Sex",1994,90,Mike Sedan,"Chase Masterson, Bob Rudd, Darla Haun","Drama, Thriller",3.6
+760,Lock-Up: The Prisoners of Rikers Island,1994,75,"Jon Alpert, Nina Rosenblum","Jon Alpert, Sean Bryan, Jackie","Documentary, Crime",7.5
+761,Stalked,1994,95,Douglas Jackson,"Maryam d'Abo, Tod Fennell, Jay Underwood","Crime, Thriller, Horror",5.2
+762,The Fence,1994,91,Peter Pistor,"Freddy Rodríguez, Stacy Logan, Anne Jacques","Action, Crime, Drama",4.8
+763,Belle al bar,1994,110,Alessandro Benvenuti,"Alessandro Benvenuti, Eva Robins, Andrea Brambilla",Comedy,6.4
+764,Rio's Love Song,1994,104,Carlos Diegues,"Catarina Abdalla, Karen Acioly, Carla Alexandar",Drama,6.4
+765,Gore Whore,1994,74,Hugh Gallagher,"Audrey Street, Brady Debussey, D'Lana Tunnell",Horror,4.2
+766,Fortunes of War,1994,107,Thierry Notz,"Matt Salinger, Sam Sorbo, Haing S. Ngor","Action, Thriller",4.8
+767,Coming to Terms with the Dead,1994,104,Pascale Ferran,"Didier Sandre, Alexandre Zloto, Catherine Ferran",Drama,6.7
+768,Amerika,1994,90,Vladimír Michálek,"Olga Charvatova, Martin Dejdar, Radim Hladík Sr.","Drama, Mystery",6.1
+769,The Wooden Man's Bride,1994,113,Jianxin Huang,"Shih Chang, Lan Wang, Yumei Wang","Drama, Romance",6.8
+770,Aao Pyaar Karen,1994,141,Ravindra Peepat,"Saif Ali Khan, Shilpa Shetty Kundra, Somy Ali",Romance,3.6
+771,Yaar Gaddar,1994,155,Umesh Mehra,"Saif Ali Khan, Sweta, Somy Ali","Action, Drama, Mystery",3.7
+772,Natsu no niwa: The Friends,1994,113,Shinji Sômai,"Rentarô Mikuni, Naoki Sakata, Yasutaka Oh","Comedy, Drama",7.3
+773,Killer Kid,1994,90,Gilles de Maistre,"Tewfik Jallab, Younesse Boudache, Salah Teskouk","Drama, War",7.1
+774,The Taebaek Mountains,1994,168,Im Kwon-taek,"Dong-joon Choi, Pang Eun-jin, Lee Ho-jae","Drama, War",6.9
+775,Sukrutham,1994,148,Harikumar,"Mammootty, Gautami, Manoj K. Jayan",Drama,7.7
+776,Mi hermano del alma,1994,93,Mariano Barroso,"Juanjo Puigcorbé, Carlos Hipólito, Lydia Bosch",Thriller,6.1
+777,That Little Monster,1994,56,Paul Bunnell,"Melissa Baum, Reggie Bannister, Andi Wenning","Adventure, Comedy, Crime",5.3
+778,Zlatne godine,1994,110,Davor Zmegac,"Igor Galo, Goran Grgic, Sasha Turjak",Drama,6.8
+779,Händerna,1994,93,Richard Hobert,"Boman Oscarsson, Sven-Bertil Taube, Camilla Lundén","Drama, Thriller",5.2
+780,Aux petits bonheurs,1994,103,Michel Deville,"Anémone, Xavier Beauvois, André Dussollier","Comedy, Drama",6.9
+781,Swaham,1994,141,Shaji N. Karun,"Aswani, Hari Dass, Bharat Gopy",Drama,7.4
+782,Granitza,1994,85,"Hristian Nochev, Ilian Simeonov","Petar Popyordanov, Elena Petrova, Marian Valev",Drama,6.9
+783,Something Fishy,1994,100,Tonie Marshall,"Anémone, Michel Roux, Roland Bertin","Comedy, Drama, Crime",6.3
+784,Girls with Guns,1994,90,Jean-Paul Salomé,"Catherine Jacob, Clémentine Célarié, Alexandra Kazan","Comedy, Crime",4.6
+785,Come due coccodrilli,1994,100,Giacomo Campiotti,"Fabrizio Bentivoglio, Giancarlo Giannini, Ignazio Oliva",Drama,6.5
+786,Don't Do It,1994,90,Gene Hess,"James Le Gros, Heather Graham, Esai Morales","Comedy, Romance",4.1
+787,The Queen of the Night,1994,117,Arturo Ripstein,"Patricia Reyes Spíndola, Alberto Estrella, Blanca Guerra","Drama, Romance",6.9
+788,One Man Army,1994,79,Cirio H. Santiago,"Jerry Trimble, Melissa Moore, Dennis Hayden","Action, Crime",4.0
+789,Dark Waters,1994,83,Kutlug Ataman,"Gönen Bozbey, Metin Uygun, Daniel Chace","Fantasy, Horror",5.8
+790,Reflections on a Crime,1994,94,Jon Purdy,"Mimi Rogers, Billy Zane, John Terry","Crime, Drama, Thriller",4.9
+791,Bab El Oued City,1994,93,Merzak Allouache,"Nadia Kaci, Mohamed Ourdache, Hassan Abidou","Comedy, Drama",6.5
+792,Sex and the Emperor,1994,92,Sherman Wong,"Yvonne Hung Yung, Pounh Chong Soong, See-Ho Leung","Comedy, Drama, Romance",4.7
+793,Getting Better,1994,84,Milan Zivkovic,"Dragan Nikolic, Maja Sabljic, Slobodan 'Boda' Ninkovic","Comedy, Drama",5.6
+794,Kaikki pelissä,1994,96,Matti Kassila,"Esko Salminen, Hannele Lauri, Satu Silvo","Crime, Drama, Romance",5.6
+795,Demon Keeper,1994,72,Joe Tornatore,"Dirk Benedict, Edward Albert, Mike Lane",Horror,3.6
+796,Police Rescue,1994,94,Michael Carson,"Gary Sweet, Zoe Carides, Steve Bastoni","Action, Crime",5.5
+797,What Price Survival,1994,96,Daniel Lee,"David Chiang, Norman Chu, Jack Kao","Action, Drama, Romance",5.8
+798,Russian Symphony,1994,108,Konstantin Lopushanskiy,"Viktor Mikhaylov, Aleksandr Ilin, Valentin Golubenko","Drama, Fantasy",6.5
+799,Rock and Roll Fantasy,1994,91,David Michael Latt,"Attila, April Lerman, Kim Little","Comedy, Romance",3.4
+800,Mr. Write,1994,89,Charlie Loventhal,"Paul Reiser, Jessica Tuck, Martin Mull","Comedy, Drama",3.7
+801,Metal and Melancholy,1994,80,Heddy Honigmann,"Víctor Talledo, Señor English, Mercedes Aguilar","Documentary, Drama",7.9
+802,Death of a Nation: The Timor Conspiracy,1994,60,David Munro,"John Pilger, Alan Clark, James Dunn",Documentary,8.1
+803,Deep Down,1994,85,John Travers,"George Segal, Judith Scarpone, Roderick Thorp",Thriller,4.4
+804,Brother of Darkness,1994,84,Billy Hin-Shing Tang,"Lily Chung, Hugo Ng, Ka-Kui Ho","Crime, Drama, Horror",5.7
+805,Saints and Sinners,1994,100,Paul Mones,"Damian Chapa, Jennifer Rubin, Scott Plank","Action, Crime, Drama",5.2
+806,The Ascent,1994,96,Donald Shebib,"Vincent Spano, Ben Cross, Tony Lo Bianco","Adventure, War",5.7
+807,Karuththamma,1994,153,Bharathiraja,"Maheshwari, Periyadhasan, Raja",Drama,7.3
+808,Mon amie Max,1994,106,Michel Brault,"Geneviève Bujold, Marthe Keller, Johanne McKay",Drama,7.3
+809,Eclipse,1994,95,Jeremy Podeswa,"Von Flores, John Gilbert, Pascale Montpetit","Drama, Romance",5.9
+810,Skins,1994,86,Wings Hauser,"Wings Hauser, Linda Blair, Cole Hauser","Crime, Drama, Thriller",3.3
+811,The Pack,1994,93,Marco Risi,"Giampiero Lisarelli, Ricky Memphis, Giorgio Tirabassi","Crime, Drama",6.3
+812,Huck and the King of Hearts,1994,98,Michael Keusch,"Chauncey Leopardi, Graham Greene, Dee Wallace",Adventure,5.5
+813,"Two Brothers, My Sister",1994,108,Teresa Villaverde,"Maria de Medeiros, Marcello Urgeghe, Evgeniy Sidikhin",Drama,6.9
+814,Concealed Weapon,1994,80,"Dave Payne, Milan Zivkovic","Daryl Haney, Suzanne Wouk, Julie Baltay",Thriller,3.8
+815,Nestore l'ultima corsa,1994,105,Alberto Sordi,"Alberto Sordi, Matteo Ripaldi, Cinzia Cannarozzo",Drama,5.6
+816,The Fox with Nine Tails,1994,115,Hun-Su Park,"Ko So-young, Jung Woo-sung, Bang Eun-hee","Fantasy, Romance",4.7
+817,Ich gelobe,1994,115,Wolfgang Murnberger,"Christoph Dostal, Andreas Lust, Andreas Simma",Drama,6.9
+818,Mario and the Magician,1994,127,Klaus Maria Brandauer,"Julian Sands, Anna Galiena, Jan Wachtel",Drama,5.4
+819,The Great Bikini Off-Road Adventure,1994,90,Gary Dean Orona,"Lauren Hays, Floyd Irons, Avalon Anders",Comedy,4.6
+820,Heaven and Earth,1994,140,David Lai,"Andy Lau, Damian Lau, Siu-Ha Chan","Action, Crime, Drama",6.1
+821,Cinema of Vengeance,1994,85,Toby Russell,"Jackie Chan, John Woo, Bruce Li",Documentary,6.6
+822,A Wind from Wyoming,1994,99,André Forcier,"François Cluzet, Sarah-Jeanne Salvy, France Castel","Comedy, Drama",6.5
+823,Silk Degrees,1994,81,Armand Garabidian,"Marc Singer, Deborah Shelton, Mark Hamill","Action, Drama, Thriller",3.9
+824,Double Exposure,1994,93,Claudia Hoover,"Ron Perlman, Ian Buchanan, Dedee Pfeiffer","Crime, Drama",4.3
+825,Mermaid Got Married,1994,96,Norman Law Man,"Ekin Cheng, Christy Chung, Takeshi Kaneshiro","Comedy, Fantasy, Romance",6.1
+826,Malappuram Haji Mahanaya Joji,1994,140,Thulasidas,"Mukesh, Siddique, Madhu",Comedy,6.3
+827,Naaraaz,1994,128,Mahesh Bhatt,"Pooja Bhatt, Mithun Chakraborty, Atul Agnihotri","Action, Crime, Drama",4.7
+828,Tracking Down Maggie: The Unofficial Biography of Margaret Thatcher,1994,87,Nick Broomfield,"Nick Broomfield, Margaret Thatcher, Ari Ben-Menashe","Documentary, Biography",6.7
+829,Bikini Med School,1994,81,Michael Paul Girard,"Kim Sill, Konstantine Greco, Tamara Landry",Comedy,2.0
+830,Kanoon,1994,104,Sushama Shiromanee,"Ajay Devgn, Urmila Matondkar, Kiran Kumar","Action, Comedy, Drama",3.5
+831,Green Ashes,1994,98,Ebrahim Hatamikia,"Atila Pesiani, Zlata Plsková, Barbora Bobulova","Drama, War",6.0
+832,Asian Cop: High Voltage,1994,90,"Yeung-Wah Kam, Donnie Yen","Donnie Yen, Roy Cheung, Edu Manzano","Action, Crime, Thriller",5.5
+833,The Long and Winding Road,1994,104,Gordon Chan,"Leslie Cheung, Tony Ka Fai Leung, Dayo Wong","Comedy, Drama",6.2
+834,Anth,1994,136,Sanjay Khanna,"Suniel Shetty, Somy Ali, Paresh Rawal",Action,4.9
+835,Saajan Ka Ghar,1994,153,Surendra Kumar Bohra,"Rishi Kapoor, Juhi Chawla, Deepak Tijori",Drama,4.3
+836,Natural Causes,1994,90,James Becket,"Janis Paige, Ken Wisan, Joke Tachalom","Action, Drama, Thriller",5.0
+837,"Carl, My Childhood Symphony",1994,125,Erik Clausen,"Morten Gundel, Anders Forchhammer, Nikolaj Lie Kaas","Biography, Drama, Music",6.2
+838,Pigalle,1994,93,Karim Dridi,"Véra Briole, Francis Renaud, Raymond Gil","Crime, Drama, Music",5.4
+839,Sexual Outlaws,1994,87,Edwin Brown,"Mitchell Gaylord, Elizabeth Sandifer, Kim Sill",Thriller,4.2
+840,White Angel,1994,96,Chris Jones,"Peter Firth, Harriet Robinson, Don Henderson","Drama, Mystery, Thriller",5.4
+841,Coming Out Under Fire,1994,72,Arthur Dong,"Salome Jens, Phillis Abry, David Barrett","Documentary, Biography, History",7.6
+842,Relics: Einstein's Brain,1994,65,Kevin Hull,"William S. Burroughs, Kenji Sugimoto",Documentary,7.7
+843,Kiz Kulesi Asiklari,1994,112,Irfan Tözüm,"Beklan Algan, Nurseli Idiz, Ayla Algan",Drama,3.3
+844,The Kung Fu Scholar,1994,94,Norman Law Man,"Dicky Cheung, Aaron Kwok, Vivian Chow","Action, Comedy",5.8
+845,Savage Land,1994,98,Dean Hamilton,"Corbin Bernsen, Vivian Schilling, Brion James",Adventure,4.5
+846,Alone in the Night,1994,108,Takashi Ishii,"Yui Natsukawa, Jinpachi Nezu, Toshiyuki Nagashima","Crime, Drama, Thriller",6.4
+847,In the Living Years,1994,90,"John Harwood, Johnny Remo","John Ashton, Thom Mathews, Mario Van Peebles","Drama, Family",5.0
+848,Inevitable Grace,1994,103,Alex Monty Canawati,"Maxwell Caulfield, Stephanie Knights, Jennifer Nicholson","Drama, Thriller",3.5
+849,Bienvenido-Welcome,1994,102,Gabriel Retes,"Gabriel Retes, Lourdes Elizarrarás, Luis Felipe Tovar","Comedy, Drama",6.9
+850,Hunting List,1994,89,Yen-Ping Chu,"Ray Lui, Suk-Fong Lo, Vivian Hsu","Action, Crime",5.3
+851,Hollywood Dreams,1994,82,Ralph E. Portillo,"Kelly Jaye, Danny Smith, Debra K. Beatty",Comedy,2.9
+852,L.A. AIDS Jabber,1994,78,Drew Godderis,"Jason Majik, Marcy Lynn, Justin Mack",Horror,4.6
+853,Otaku,1994,52,"Jackie Bastide, Jean-Jacques Beineix","Akitoshi Ashida, Hiroki Hashimoto, Noriko Kato",Documentary,6.7
+854,Ontore Ontore,1994,135,Shibli Sadique,"Salman Shah, Mousumi, Anowara","Family, Romance",7.2
+855,Desert Winds,1994,97,Michael A. Nickles,"Adam Ant, Heather Graham, Jessica Hamilton","Drama, Mystery, Romance",5.5
+856,Bleeding Hearts,1994,92,Gregory Hines,"Mark Jacobs, Karen Kirkland, Ruben Santiago-Hudson","Drama, Romance",4.9
+857,Dallas Doll,1994,104,Ann Turner,"Sandra Bernhard, Victoria Longley, Frank Gallacher",Comedy,5.0
+858,Eyes of the Serpent,1994,87,Ricardo Jacques Gale,"Chuck Mavich, David Michael Sterling, Diana Frank","Action, Adventure, Fantasy",3.7
+859,Teesra Kaun?,1994,160,Partho Ghosh,"Mithun Chakraborty, Chunky Pandey, Somy Ali","Comedy, Thriller",5.2
+860,God sobaki,1994,133,Semyon Aranovich,"Inna Churikova, Igor Sklyar, Aleksandr Feklistov","Drama, Romance",6.9
+861,I Love the Earth,1994,97,Abolhassan Davoodi,"Alireza Khamseh, Behzad Khodaveisi, Fariborz Arabnia","Comedy, Family, Sci-Fi",5.6
+862,Sixten,1994,78,Catti Edfeldt,"Peter Viitanen, Hans Henriksson, Jonas Magnusson","Comedy, Family",5.3
+863,"English, August",1994,118,Dev Benegal,"Tanvi Azmi, Rahul Bose, Rupen Bose","Drama, Comedy",7.6
+864,Babyfever,1994,109,"Victoria Foyt, Henry Jaglom","Victoria Foyt, Matt Salinger, Frances Fisher","Comedy, Drama, Romance",5.4
+865,Trollsyn,1994,93,Ola Solum,"Julia Onsager Steen, Liv Bernhoft Osa, Bjørn Willberg Andersen","Drama, History",6.2
+866,Weird Tales,1994,82,Sandro Baldoni,"Flavio Bonacci, Consuelo Strangarone, Ivano Marescotti",Drama,6.9
+867,A Taste of Killing and Romance,1994,93,Veronica Chan,"Andy Lau, Anita Yuen, Mark Ho-nam Cheng","Action, Crime, Romance",5.8
+868,Operation Golden Phoenix,1994,95,Jalal Merhi,"Jalal Merhi, Loren Avedon, James Hong",Action,3.5
+869,Rock N'Roll Cop,1994,92,Kirk Wong,"Anthony Chau-Sang Wong, Hsing-Kuo Wu, Rongguang Yu","Action, Crime, Thriller",6.4
+870,A Brilliant Disguise,1994,95,Nick Vallelonga,"Lysette Anthony, Tony Denison, Corbin Bernsen",Thriller,4.3
+871,Fatal Past,1994,87,"Clive Fleury, Richard Ryan","Costas Mandylor, Katarzyna Figura, Terence Cooper","Drama, Thriller",4.2
+872,Yes Sir! Madame...,1994,75,Robert Morin,Robert Morin,Comedy,8.0
+873,Bir Sonbahar Hikayesi,1994,115,Yavuz Özkan,"Can Basak, Haluk Bozgeyikli, Alp Bugdayci",Drama,6.1
+874,Love - Zero = Infinity,1994,63,Hisayasu Satô,"Kiyomi Itô, Takeshi Itô, Ryûmei Homura",Horror,6.2
+875,The Raffle,1994,100,Gavin Wilding,"Nicholas Lea, Bob Dawson, Jennifer Clement","Comedy, Drama, Romance",3.7
+876,Shortcut to Paradise,1994,97,Gerardo Herrero,"Axel Anderson, Harry Caramanos, Charles Dance",Thriller,5.3
+877,Tulivesi,1994,94,Hardi Volmer,"Epp Eespäev, Erik Ruus, Jaan Tätte","Crime, Drama",6.7
+878,Con gli occhi chiusi,1994,113,Francesca Archibugi,"Stefania Sandrelli, Marco Messeri, Debora Caprioglio",Drama,5.6
+879,Lovers,1994,88,Catherine Corsini,"Nathalie Richard, Pascal Cervo, Olaf Lubaszenko","Drama, Romance",6.3
+880,Chasing the Deer,1994,97,Graham Holloway,"Brian Blessed, Iain Cuthbertson, Matthew Zajac","History, War",5.2
+881,...and the Earth Did Not Swallow Him,1994,99,Severo Perez,"Jose Alcala, Rose Portillo, Art Bonilla",Drama,6.7
+882,El silencio de Neto,1994,106,Luis Argueta,"Oscar Almengor, Pablo Arenales, Hector Argueta",Drama,6.6
+883,Manisa Tarzani,1994,101,Orhan Oguz,"Talat Bulut, Serap Saglar, Pinar Afsar","Biography, Drama",5.8
+884,May Madham,1994,149,VenusBalu,"Janakaraj, Sonali Kulkarni, Aachi Manorama","Drama, Musical, Romance",6.4
+885,The Whores,1994,85,Aurelio Grimaldi,"Ida Di Benedetto, Guia Jelo, Lucia Sardo",Drama,6.3
+886,Mouvements du désir,1994,93,Léa Pool,"Valérie Kaprisky, Jean-François Pichette, Jolianne L'Allier-Matteau","Drama, Romance",6.7
+887,Sommarmord,1994,105,Lars Molin,"Peter Haber, Lena T. Hansson, Ulrika Hansson",Thriller,4.9
+888,Kyosei Waisetsu Shimai,1994,60,Satoru Kobayashi,"Hitomi Kudô, Kiichirô Mutô, Yumi Yoshiyuki","Drama, Romance",6.8
+889,Soft Deceit,1994,95,Jorge Montesi,"Patrick Bergin, Kate Vernon, John Wesley Shipp","Action, Crime, Drama",4.8
+890,Deceptions II: Edge of Deception,1994,100,George Mihalka,"Mariel Hemingway, Stephen Shellen, Jennifer Rubin","Drama, Thriller",4.5
+891,Paint Cans,1994,100,Paul Donovan,"Chas Lawther, Martha Burns, Bruce Greenwood",Comedy,5.5
+892,Fed Up,1994,93,Mircea Daneliuc,"Horatiu Malaele, Ion Besoiu, Alexandru Bindea",Comedy,6.1
+893,Femme Fontaine: Killer Babe for the C.I.A.,1994,93,Margot Hope,"Margot Hope, James Hong, Catherine Dao","Action, Comedy",3.9
+894,Hard Drive,1994,92,James Merendino,"Edward Albert, Robin Joi Brown, Jane Damian",Thriller,4.3
+895,Iron Horsemen,1994,84,Gilles Charmant,"Dominic Gould, Laura Favali, Kari Väänänen","Action, Comedy",4.5
+896,Snøvsen ta'r springet,1994,80,Jørgen Vestergaard,"Bjarke Smitt Vestermark, Jannie Faurschou, Søren Sætter-Lassen","Comedy, Family, Fantasy",4.8
+897,Sh'Chur,1994,100,Shmuel Hasfari,"Gila Almagor, Ronit Elkabetz, Eti Adar",Drama,6.8
+898,Regenerated Man,1994,89,Ted A. Bohus,"Pete DeLorenzo, James Benvenuto, John Bianco","Horror, Sci-Fi",4.0
+899,Making Waves,1994,105,George Saunders,"Mickey Rooney, Nicola Kelly, George Saunders","Comedy, Fantasy",6.9
+900,Uttoran,1994,90,Sandip Ray,"Beena Banerjee, Lily Chakravarty, Soumitra Chatterjee",Drama,7.6
+901,Ceremony,1994,74,Joe Castro,"Emilie Talbot, Forrest J. Ackerman, Amy Rohren",Horror,3.2
+902,I Have a Date with Spring,1994,86,Clifton Ko,"Radium Cheung, Bo-Bo Fung, Wai-Hung Fung","Drama, Musical",7.1
+903,A Terceira Margem do Rio,1994,98,Nelson Pereira dos Santos,"Lavoisier Albernaz, Denise Alvarez, Barbara Brandt","Drama, Fantasy",5.6
+904,Parinayam,1994,163,T. Hariharan,"Mohini, Vineeth, Manoj K. Jayan",Drama,7.7
+905,Al otro lado del túnel,1994,105,Jaime de Armiñán,"Fernando Rey, Maribel Verdú, Gonzalo Vega",Comedy,5.7
+906,The Final Option,1994,103,Gordon Chan,"Michael Wong, Kam-Cheong Yung, Kwok-Pong Chan","Action, Crime",5.8
+907,Midnight Confessions,1994,81,Duck Dumont,"Callie Michael, Steve Michael, Alexa Fiery","Action, Drama",3.2
+908,Pumuckl und der blaue Klabauter,1994,86,"Alfred Deutsch, Horst Schier","Gustl Bayrhammer, Towje Kleiner, Enzi Fuchs","Animation, Family",5.2
+909,Greater Tuna,1994,102,"Jim Borden, Ed Howard","Joe Sears, Jaston Williams",Comedy,7.9
+910,Shanghai Fever,1994,91,Kwok-Lap Li,"Hong Pan, Ching-Wan Lau, Jintang Chen","Comedy, Drama",7.0
+911,Circus Kids,1994,94,Wu Ma,"Biao Yuen, Irene Wan, Donnie Yen","Action, Drama",5.7
+912,A Single Child's Story,1994,89,Guo Lin,"Shuo Yang, Shuqin Yan, Baohua Liu",Drama,7.2
+913,Sethupathi I.P.S,1994,166,P. Vasu,"Vijayakanth, Meena, M.N. Nambiar",Action,6.4
+914,Born to Be a Warrior,1994,84,Guido Zurli,"Rik Battaglia, Slobodan Custic, Goran Danicic","Action, Drama",5.3
+915,"Thalassa, Thalassa! Return to the Sea",1994,89,Bogdan Dreyer,"Silvia Gheorghe, Alexandru Cirstea, Alexandru Anghel","Comedy, Drama, Family",6.8
+916,Siete mil días juntos,1994,100,Fernando Fernán Gómez,"José Sacristán, María Barranco, Pilar Bardem",Comedy,6.6
+917,Vadhu Doctoranu,1994,134,K.K. Haridas,"Jayaram, Nadia Moidu, Jagathy Sreekumar","Comedy, Drama",6.1
+918,Quand j'avais 5 ans je m'ai tué,1994,100,Jean-Claude Sussfeld,"Hippolyte Girardot, Patrick Bouchitey, Salomé Lelouch",Drama,6.4
+919,Moving the Mountain,1994,83,Michael Apted,"Jinming Zhang, Yiming Huang, Yi-fen Kan","Documentary, History",7.2
+920,Aa Gale Lag Jaa,1994,158,Hamid Ali,"Jugal Hansraj, Urmila Matondkar, Paresh Rawal","Mystery, Romance",4.4
+921,Master of Zen,1994,89,Brandy Yuen,"Derek Tung-Sing Yee, Chi-Shing Chan, Sung-Young Chen","Action, Drama, Fantasy",6.9
+922,Amor propio,1994,111,Mario Camus,"Verónica Forqué, Antonio Resines, Tito Valverde","Crime, Drama",6.0
+923,Without Compassion,1994,120,Francisco J. Lombardi,"Diego Bertie, Adriana Dávila, Jorge Chiarella","Crime, Drama",7.1
+924,Amnesia,1994,90,Gonzalo Justiniano,"Julio Jung, Pedro Vicuña, José Secall","Comedy, Drama",6.4
+925,Briganti: Amore e libertà,1994,95,Marco Modugno,"Claudio Amendola, Monica Bellucci, Ricky Memphis",Drama,5.5
+926,To Live and Die in Tsimshatsui,1994,100,"Wai Keung Lau, Jing Wong","Jacky Cheung, Chien-Lien Wu, Tony Ka Fai Leung","Action, Crime, Thriller",6.5
+927,Zhizn i priklyucheniya chetyrekh druzei 3. Igra s ognem. 4. Kot v meshke.,1994,60,"Valeri Smirnov, Oleg Yeryshev","Boris Sokolov, Petr Shelokhonov, Yefim Kamenetsky","Animation, Adventure, Comedy",7.2
+928,Stranglehold,1994,73,Cirio H. Santiago,"Jerry Trimble, Jillian McWhirter, Vernon Wells",Action,4.8
+929,Rockwell,1994,105,Richard Lloyd Dewey,"Randy Gleave, Scott Christopher, John Bozung",Western,2.8
+930,Battle of Oil Tankers,1994,95,Muhammad Bozorgnia,"Majid Mozaffari, Firouz Behjat Mohammadi, Jamshid Jahanzadeh","Action, Drama, War",5.0
+931,Subhalagnam,1994,145,"S.V. Krishna Reddy, Ranga Rao Kurra","Jagapathi Babu, Aamani, Roja",Drama,7.5
+932,Confessions of a Hitman,1994,93,Larry Leahy,"James Remar, Michael Wright, Emily Longstreth","Crime, Drama",5.3
+933,Love and the City,1994,98,Jeffrey Lau,"Liz Kong, Leon Lai, Kam-Fung Miu","Drama, Romance",6.9
+934,Hammer and Sickle,1994,93,Sergey Livnev,"Aleksey Serebryakov, Evdokiya Germanova, Marina Kajdalova",Drama,6.4
+935,Black Belt Angels,1994,84,Chi Kim,"Shawna Larson, Rebekah Bartlett, Shannon Marketic","Action, Family",3.6
+936,L'histoire du garçon qui voulait qu'on l'embrasse,1994,95,Philippe Harel,"Julien Collet, Marion Cotillard, Hélène Médigue","Drama, Romance",6.0
+937,Occhi senza volto,1994,83,Bruno Mattei,"Monica Carpanese, Gabriele Gori, Emy Valentino","Horror, Thriller",4.8
+938,Sagaram Sakshi,1994,152,Sibi Malayil,"Dileep, Cochin Hanifa, Johny",Drama,6.3
+939,Paradjanov: A Requiem,1994,59,Ron Holloway,Sergei Parajanov,Documentary,7.0
+940,Ancient Chinese Whorehouse,1994,96,Kai-Ming Lai,"Yvonne Hung Yung, Kent Cheng, Dick Lau","Comedy, Romance",4.9
+941,The Childhood Friend,1994,100,Pupi Avati,"Joe Ryan, Jason Robards III, Amy Galper","Horror, Thriller",5.6
+942,S. P. Parasuram,1994,140,"Ravi Raja Pinisetty, Revi Raj, Pini Shetty","Chiranjeevi, Sridevi, Harish","Action, Drama",5.2
+943,The Stolen Joy,1994,120,Daoud Abdel Sayed,"Lucy, Maged El-Masri, Hassan Hosny",Comedy,6.3
+944,"I Like You, I Like You Very Much",1994,58,Hiroyuki Oki,"Chano, Kazunori Shibuya, Hisanori Kitakaze",Drama,5.9
+945,Convivencia,1994,97,Carlos Galettini,"José Sacristán, Luis Brandoni, Cecilia Dopazo","Comedy, Drama",5.6
+946,Mr. Azaad,1994,123,Rama Rao Tatineni,"Anil Kapoor, Niki Walia, Ishrat Ali","Action, Comedy, Drama",3.9
+947,C'était le 12 du 12 et Chili avait les blues,1994,100,Charles Binamé,"Roy Dupuis, Lucie Laurier, Joëlle Morin","Romance, Drama",6.0
+948,A Pin for the Butterfly,1994,113,Susan Kodicek,"Florence Hoath, Joan Plowright, Hugh Laurie","Comedy, Drama",6.3
+949,Street Pirates,1994,94,Lee Stanley,"Lee Stanley, Shane Stanley, Manuel Amparano",Documentary,8.4
+950,New York Nights,1994,89,Ernest G. Sauer,"Marilyn Chambers, Julia Parton, Susan Napoli",Drama,3.2
+951,Jai Maa Vaishno Devi,1994,195,Shatilal Soni,"Aloka Mukherjee, Arun Govil, Gajendra Chauhan","Drama, Fantasy",8.1
+952,Anche i commercialisti hanno un'anima,1994,110,Maurizio Ponzi,"Renato Pozzetto, Enrico Montesano, Sabrina Ferilli",Comedy,4.5
+953,Bobbili Simham,1994,126,A. Kodandarami Reddy,"Mahesh Anand, Nandamuri Balakrishna, Brahmanandam",Drama,6.7
+954,Dark Side of Genius,1994,85,Phedon Papamichael,"Brent David Fraser, Finola Hughes, Glenn Shadix","Drama, Romance, Thriller",4.9
+955,Delitto passionale,1994,102,Flavio Mogherini,"Serena Grandi, Paul Martignetti, Vesela Dimitrova","Drama, Mystery, Thriller",4.4
+956,Lipstiek Dipstiek,1994,96,Willie Esterhuizen,"Lizz Meiring, Francois Coertze, Julie Hartley",Comedy,6.6
+957,Running Free,1994,91,Steve Kroschel,"Jesse Montgomery-Sythe, Jamie Lee Misfeldt, Michael Peña","Family, Drama",5.4
+958,Novia que te vea,1994,114,Guita Schyfter,"Claudette Maillé, Maya Mishalska, Angélica Aragón","Comedy, Drama",7.0
+959,Il giudice ragazzino,1994,92,Alessandro Di Robilant,"Giulio Scarpati, Sabrina Ferilli, Leopoldo Trieste",Drama,6.7
+960,Personne ne m'aime,1994,93,Marion Vernoux,"Bernadette Lafont, Bulle Ogier, Lio","Comedy, Drama",6.5
+961,Lust,1994,100,Janne Wallin,"Gerhard Hoberstorfer, Cia Berg, Kjell Bergqvist","Drama, Romance",2.3
+962,The Rapist,1994,91,Chuen-Yee Cha,"Dickson Ga-Sing Lee, Kwok-Pong Chan, Farini Cheung","Crime, Horror",5.2
+963,Uma Vida Normal,1994,110,Joaquim Leitão,"Joaquim de Almeida, María Barranco, Anamar","Comedy, Drama",6.4
+964,¡Por fin solos!,1994,99,Antonio del Real,"Alfredo Landa, María José Alfonso, Amparo Larrañaga",Comedy,4.8
+965,Tejasvini,1994,169,N. Chandra,"Vijayashanti, Deepak Malhotra, Kulbhushan Kharbanda","Action, Drama",6.1
+966,Ask Ölümden Soguktur,1994,100,Canan Gerede,"Kadir Inanir, Bennu Gerede, Tuncel Kurtiz",Drama,4.8
+967,Cache Cash,1994,90,Claude Pinoteau,"Michel Duchaussoy, Georges Wilson, Jean-Pierre Darroussin","Adventure, Comedy, Crime",6.4
+968,Peshawar Waltz,1994,86,"Timur Bekmambetov, Gennadiy Kayumov","O. Chernyshev, Gennadiy Kayumov, Barry Kushner",War,4.5
+969,Once Upon a Time... This Morning,1994,140,Bhandit Rittakol,"Santisuk Promsiri, Chintara Sukapatana, Ronnarong Buranat",Drama,7.3
+970,Tafelspitz,1994,99,Xaver Schwarzenberger,"Christiane Hörbiger, Otto Schenk, Jan Niklas",Comedy,6.1
+971,Charachar,1994,97,Buddhadev Dasgupta,"Shankar Chakraborty, Indrani Haldar, Rajit Kapoor",Drama,7.2
+972,Il labirinto dei sensi,1994,86,Joe D'Amato,"Monica Carpanese, Steven Rogers, Lora Luna",Drama,4.2
+973,Thin Ice,1994,88,Fiona Cunningham-Reid,"Charlotte Avery, Sabra Williams, James Dreyfus","Comedy, Romance, Sport",6.4

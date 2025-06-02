@@ -1,0 +1,970 @@
+ID,Name,Year,Duration,Directors,Actors,Genres,Rating
+1,Reservoir Dogs,1992,99,Quentin Tarantino,"Harvey Keitel, Tim Roth, Michael Madsen","Crime, Thriller",8.3
+2,Aladdin,1992,90,"Ron Clements, John Musker","Scott Weinger, Robin Williams, Linda Larkin","Animation, Adventure, Comedy",8.0
+3,Unforgiven,1992,130,Clint Eastwood,"Clint Eastwood, Gene Hackman, Morgan Freeman","Drama, Western",8.2
+4,Home Alone 2: Lost in New York,1992,120,Chris Columbus,"Macaulay Culkin, Joe Pesci, Daniel Stern","Adventure, Comedy, Crime",6.9
+5,Scent of a Woman,1992,156,Martin Brest,"Al Pacino, Chris O'Donnell, James Rebhorn",Drama,8.0
+6,Alien³,1992,114,David Fincher,"Sigourney Weaver, Charles S. Dutton, Charles Dance","Action, Horror, Sci-Fi",6.4
+7,Batman Returns,1992,126,Tim Burton,"Michael Keaton, Danny DeVito, Michelle Pfeiffer","Action, Crime, Fantasy",7.1
+8,A Few Good Men,1992,138,Rob Reiner,"Tom Cruise, Jack Nicholson, Demi Moore","Drama, Thriller",7.7
+9,Dracula,1992,128,Francis Ford Coppola,"Gary Oldman, Winona Ryder, Anthony Hopkins","Fantasy, Horror, Romance",7.4
+10,Basic Instinct,1992,127,Paul Verhoeven,"Michael Douglas, Sharon Stone, George Dzundza","Drama, Mystery, Thriller",7.1
+11,Army of Darkness,1992,81,Sam Raimi,"Bruce Campbell, Embeth Davidtz, Marcus Gilbert","Comedy, Horror",7.4
+12,The Last of the Mohicans,1992,112,Michael Mann,"Daniel Day-Lewis, Madeleine Stowe, Russell Means","Action, Adventure, Drama",7.6
+13,Lethal Weapon 3,1992,118,Richard Donner,"Mel Gibson, Danny Glover, Joe Pesci","Action, Crime, Thriller",6.7
+14,Wayne's World,1992,94,Penelope Spheeris,"Mike Myers, Dana Carvey, Rob Lowe","Comedy, Music",7.0
+15,The Bodyguard,1992,129,Mick Jackson,"Kevin Costner, Whitney Houston, Gary Kemp","Drama, Music, Romance",6.4
+16,My Cousin Vinny,1992,120,Jonathan Lynn,"Joe Pesci, Marisa Tomei, Ralph Macchio","Comedy, Crime",7.6
+17,Death Becomes Her,1992,104,Robert Zemeckis,"Meryl Streep, Bruce Willis, Goldie Hawn","Comedy, Fantasy, Horror",6.7
+18,A League of Their Own,1992,128,Penny Marshall,"Tom Hanks, Geena Davis, Lori Petty","Comedy, Drama, Sport",7.4
+19,Patriot Games,1992,117,Phillip Noyce,"Harrison Ford, Sean Bean, Anne Archer","Action, Thriller",6.8
+20,Glengarry Glen Ross,1992,100,James Foley,"Al Pacino, Jack Lemmon, Alec Baldwin","Crime, Drama, Mystery",7.7
+21,Sister Act,1992,100,Emile Ardolino,"Whoopi Goldberg, Maggie Smith, Harvey Keitel","Comedy, Family, Music",6.5
+22,Twin Peaks: Fire Walk with Me,1992,134,David Lynch,"Sheryl Lee, Ray Wise, Mädchen Amick","Drama, Horror, Mystery",7.3
+23,Porco Rosso,1992,94,Hayao Miyazaki,"Shûichirô Moriyama, Tokiko Katô, Bunshi Katsura VI","Animation, Adventure, Comedy",7.7
+24,Dead Alive,1992,104,Peter Jackson,"Timothy Balme, Diana Peñalver, Elizabeth Moody","Comedy, Fantasy, Horror",7.5
+25,Malcolm X,1992,202,Spike Lee,"Denzel Washington, Angela Bassett, Delroy Lindo","Biography, Drama, History",7.7
+26,Candyman,1992,99,Bernard Rose,"Virginia Madsen, Xander Berkeley, Tony Todd","Horror, Thriller",6.7
+27,White Men Can't Jump,1992,115,Ron Shelton,"Wesley Snipes, Woody Harrelson, Rosie Perez","Comedy, Sport",6.8
+28,Universal Soldier,1992,102,Roland Emmerich,"Jean-Claude Van Damme, Dolph Lundgren, Ally Walker","Action, Sci-Fi",6.1
+29,Under Siege,1992,103,Andrew Davis,"Steven Seagal, Gary Busey, Tommy Lee Jones","Action, Thriller",6.5
+30,Beethoven,1992,87,Brian Levant,"Charles Grodin, Bonnie Hunt, Dean Jones","Comedy, Drama, Family",5.7
+31,The Muppet Christmas Carol,1992,85,Brian Henson,"Michael Caine, Dave Goelz, Steve Whitmire","Comedy, Drama, Family",7.8
+32,The Mighty Ducks,1992,104,Stephen Herek,"Emilio Estevez, Joss Ackland, Lane Smith","Comedy, Drama, Family",6.6
+33,El Mariachi,1992,81,Robert Rodriguez,"Carlos Gallardo, Consuelo Gómez, Jaime de Hoyos","Action, Crime, Thriller",6.8
+34,Far and Away,1992,140,Ron Howard,"Tom Cruise, Nicole Kidman, Thomas Gibson","Adventure, Drama, Romance",6.6
+35,The Player,1992,124,Robert Altman,"Tim Robbins, Greta Scacchi, Fred Ward","Comedy, Crime, Drama",7.5
+36,A River Runs Through It,1992,123,Robert Redford,"Craig Sheffer, Brad Pitt, Tom Skerritt",Drama,7.2
+37,Sneakers,1992,126,Phil Alden Robinson,"Robert Redford, Dan Aykroyd, Sidney Poitier","Comedy, Crime, Drama",7.1
+38,Chaplin,1992,143,Richard Attenborough,"Robert Downey Jr., Geraldine Chaplin, Paul Rhys","Biography, Comedy, Drama",7.5
+39,The Crying Game,1992,112,Neil Jordan,"Stephen Rea, Jaye Davidson, Forest Whitaker","Crime, Drama, Romance",7.2
+40,Hard Boiled,1992,128,John Woo,"Chow Yun-Fat, Tony Leung Chiu-wai, Teresa Sun-Kwan Mo","Action, Crime, Thriller",7.7
+41,Passenger 57,1992,84,Kevin Hooks,"Wesley Snipes, Bruce Payne, Tom Sizemore","Action, Crime, Thriller",5.9
+42,Buffy the Vampire Slayer,1992,86,Fran Rubel Kuzui,"Kristy Swanson, Donald Sutherland, Paul Reubens","Action, Comedy, Fantasy",5.7
+43,Forever Young,1992,102,Steve Miner,"Mel Gibson, Jamie Lee Curtis, Elijah Wood","Drama, Romance, Sci-Fi",6.4
+44,The Hand That Rocks the Cradle,1992,110,Curtis Hanson,"Annabella Sciorra, Rebecca De Mornay, Matt McCoy","Drama, Thriller",6.7
+45,Bad Lieutenant,1992,96,Abel Ferrara,"Harvey Keitel, Brian McElroy, Frank Acciarito","Crime, Drama, Thriller",7.0
+46,Of Mice and Men,1992,115,Gary Sinise,"John Malkovich, Gary Sinise, Ray Walston","Drama, Western",7.4
+47,"Honey, I Blew Up the Kid",1992,89,Randal Kleiser,"Rick Moranis, Marcia Strassman, Robert Oliveri","Adventure, Comedy, Family",4.9
+48,Encino Man,1992,88,Les Mayfield,"Sean Astin, Brendan Fraser, Pauly Shore",Comedy,5.9
+49,Stop! Or My Mom Will Shoot,1992,87,Roger Spottiswoode,"Sylvester Stallone, Estelle Getty, JoBeth Williams","Action, Comedy",4.4
+50,Man Bites Dog,1992,95,"Rémy Belvaux, André Bonzel, Benoît Poelvoorde","Benoît Poelvoorde, Jacqueline Poelvoorde-Pappaert, Nelly Pappaert","Comedy, Crime, Drama",7.4
+51,Bitter Moon,1992,139,Roman Polanski,"Hugh Grant, Kristin Scott Thomas, Emmanuelle Seigner","Drama, Romance, Thriller",7.2
+52,Single White Female,1992,107,Barbet Schroeder,"Bridget Fonda, Jennifer Jason Leigh, Steven Weber","Drama, Thriller",6.4
+53,Romper Stomper,1992,94,Geoffrey Wright,"Russell Crowe, Daniel Pollock, Jacqueline McKenzie","Crime, Drama, Thriller",6.8
+54,Baraka,1992,96,Ron Fricke,Patrick Disanto,Documentary,8.5
+55,The Lawnmower Man,1992,108,Brett Leonard,"Jeff Fahey, Pierce Brosnan, Jenny Wright","Horror, Sci-Fi",5.4
+56,Howards End,1992,142,James Ivory,"Anthony Hopkins, Emma Thompson, Vanessa Redgrave","Drama, Romance",7.4
+57,Hellraiser III: Hell on Earth,1992,97,Anthony Hickox,"Terry Farrell, Doug Bradley, Kevin Bernhardt",Horror,5.5
+58,FernGully: The Last Rainforest,1992,76,Bill Kroyer,"Samantha Mathis, Christian Slater, Robin Williams","Animation, Adventure, Family",6.6
+59,Cronos,1992,94,Guillermo del Toro,"Federico Luppi, Ron Perlman, Claudio Brook","Drama, Fantasy, Horror",6.7
+60,Toys,1992,118,Barry Levinson,"Robin Williams, Michael Gambon, Joan Cusack","Adventure, Comedy, Drama",5.1
+61,Singles,1992,99,Cameron Crowe,"Bridget Fonda, Campbell Scott, Kyra Sedgwick","Comedy, Drama, Music",6.7
+62,1492: Conquest of Paradise,1992,154,Ridley Scott,"Gérard Depardieu, Armand Assante, Sigourney Weaver","Adventure, Biography, Drama",6.4
+63,Boomerang,1992,117,Reginald Hudlin,"Eddie Murphy, Robin Givens, Halle Berry","Comedy, Drama, Romance",5.6
+64,Husbands and Wives,1992,108,Woody Allen,"Woody Allen, Mia Farrow, Sydney Pollack","Comedy, Drama, Romance",7.5
+65,Juice,1992,95,Ernest R. Dickerson,"Omar Epps, Tupac Shakur, Jermaine Hopkins","Action, Crime, Drama",7.0
+66,Fortress,1992,95,Stuart Gordon,"Christopher Lambert, Loryn Locklin, Kurtwood Smith","Action, Crime, Sci-Fi",5.9
+67,Strictly Ballroom,1992,94,Baz Luhrmann,"Paul Mercurio, Tara Morice, Bill Hunter","Comedy, Drama, Music",7.2
+68,School Ties,1992,106,Robert Mandel,"Brendan Fraser, Matt Damon, Chris O'Donnell",Drama,6.9
+69,Memoirs of an Invisible Man,1992,99,John Carpenter,"Chevy Chase, Daryl Hannah, Sam Neill","Comedy, Romance, Sci-Fi",6.0
+70,HouseSitter,1992,102,Frank Oz,"Steve Martin, Goldie Hawn, Dana Delany","Comedy, Romance",6.2
+71,Cool World,1992,102,Ralph Bakshi,"Gabriel Byrne, Kim Basinger, Janni Brenn","Animation, Comedy, Fantasy",4.8
+72,Sleepwalkers,1992,91,Mick Garris,"Brian Krause, Mädchen Amick, Alice Krige","Fantasy, Horror",5.4
+73,Supercop,1992,91,Stanley Tong,"Jackie Chan, Michelle Yeoh, Maggie Cheung","Action, Comedy, Crime",7.0
+74,Jo Jeeta Wohi Sikandar,1992,174,Mansoor Khan,"Aamir Khan, Ayesha Jhulka, Deepak Tijori","Comedy, Drama, Romance",8.1
+75,Hoffa,1992,140,Danny DeVito,"Jack Nicholson, Danny DeVito, Armand Assante","Biography, Crime, Drama",6.6
+76,Medicine Man,1992,106,John McTiernan,"Sean Connery, Lorraine Bracco, José Wilker","Adventure, Drama, Romance",6.0
+77,Lorenzo's Oil,1992,129,George Miller,"Nick Nolte, Susan Sarandon, Peter Ustinov","Biography, Drama",7.3
+78,Hero,1992,119,Stephen Frears,"Dustin Hoffman, Geena Davis, Andy Garcia","Comedy, Drama, Romance",6.5
+79,The Lover,1992,115,Jean-Jacques Annaud,"Jane March, Tony Ka Fai Leung, Jeanne Moreau","Biography, Drama, Romance",6.8
+80,Pet Sematary II,1992,100,Mary Lambert,"Edward Furlong, Anthony Edwards, Clancy Brown","Fantasy, Horror, Thriller",4.9
+81,3 Ninjas,1992,84,Jon Turteltaub,"Victor Wong, Michael Treanor, Max Elliott Slade","Action, Comedy, Family",5.4
+82,The Cutting Edge,1992,101,Paul Michael Glaser,"D.B. Sweeney, Moira Kelly, Roy Dotrice","Comedy, Drama, Romance",6.9
+83,Captain Ron,1992,100,Thom Eberhardt,"Kurt Russell, Martin Short, Mary Kay Place","Adventure, Comedy",5.8
+84,Newsies,1992,121,Kenny Ortega,"Christian Bale, Bill Pullman, Robert Duvall","Drama, Family, History",6.9
+85,Damage,1992,111,Louis Malle,"Jeremy Irons, Juliette Binoche, Miranda Richardson","Drama, Romance",6.7
+86,Poison Ivy,1992,93,Katt Shea,"Drew Barrymore, Sara Gilbert, Tom Skerritt","Drama, Thriller",5.4
+87,Unlawful Entry,1992,111,Jonathan Kaplan,"Kurt Russell, Ray Liotta, Madeleine Stowe","Crime, Drama, Thriller",6.4
+88,Orlando,1992,94,Sally Potter,"Tilda Swinton, Billy Zane, Quentin Crisp","Biography, Drama, Fantasy",7.1
+89,Benny's Video,1992,110,Michael Haneke,"Arno Frisch, Angela Winkler, Ulrich Mühe","Crime, Drama",7.1
+90,Honeymoon in Vegas,1992,96,Andrew Bergman,"James Caan, Nicolas Cage, Sarah Jessica Parker","Comedy, Romance, Thriller",5.9
+91,Like Water for Chocolate,1992,105,Alfonso Arau,"Marco Leonardi, Lumi Cavazos, Regina Torné","Drama, Romance",7.1
+92,Jennifer 8,1992,124,Bruce Robinson,"Andy Garcia, Uma Thurman, Lance Henriksen","Crime, Drama, Mystery",6.3
+93,Thunderheart,1992,119,Michael Apted,"Val Kilmer, Sam Shepard, Graham Greene","Crime, Mystery, Thriller",6.8
+94,Raising Cain,1992,92,Brian De Palma,"John Lithgow, Lolita Davidovich, Steven Bauer","Crime, Drama, Horror",6.1
+95,Freejack,1992,110,Geoff Murphy,"Emilio Estevez, Mick Jagger, Rene Russo","Action, Crime, Sci-Fi",5.4
+96,Split Second,1992,90,Tony Maylam,"Rutger Hauer, Kim Cattrall, Alastair Duncan","Action, Crime, Horror",6.0
+97,The Distinguished Gentleman,1992,112,Jonathan Lynn,"Eddie Murphy, Lane Smith, Sheryl Lee Ralph","Comedy, Crime",5.9
+98,Bob Roberts,1992,102,Tim Robbins,"Tim Robbins, Giancarlo Esposito, Alan Rickman","Comedy, Drama",7.0
+99,"Jamón, Jamón",1992,95,Bigas Luna,"Penélope Cruz, Stefania Sandrelli, Anna Galiena","Comedy, Drama, Romance",6.4
+100,Final Analysis,1992,124,Phil Joanou,"Richard Gere, Kim Basinger, Uma Thurman","Drama, Thriller",5.9
+101,Love Potion No. 9,1992,92,Dale Launer,"Tate Donovan, Sandra Bullock, Mary Mara","Comedy, Fantasy, Romance",5.7
+102,Deep Cover,1992,107,Bill Duke,"Laurence Fishburne, Jeff Goldblum, Lira Angel","Action, Crime, Thriller",7.0
+103,Leap of Faith,1992,108,Richard Pearce,"Steve Martin, Debra Winger, Lolita Davidovich","Comedy, Drama, Romance",6.1
+104,Stay Tuned,1992,88,Peter Hyams,"John Ritter, Pam Dawber, Jeffrey Jones","Adventure, Comedy, Fantasy",6.3
+105,Wuthering Heights,1992,105,Peter Kosminsky,"Juliette Binoche, Ralph Fiennes, Janet McTeer","Drama, History, Romance",6.6
+106,Radio Flyer,1992,114,"Richard Donner, David Mickey Evans","Lorraine Bracco, John Heard, Adam Baldwin",Drama,6.9
+107,Trespass,1992,101,Walter Hill,"Bill Paxton, Ice-T, William Sadler","Action, Thriller",6.3
+108,Roja,1992,137,Mani Ratnam,"Arvind Swamy, Madhoo, Pankaj Kapur","Drama, Romance, Thriller",8.1
+109,Twin Dragons,1992,104,"Ringo Lam, Hark Tsui","Jackie Chan, Maggie Cheung, Teddy Robin Kwan","Action, Comedy",6.4
+110,Noises Off...,1992,101,Peter Bogdanovich,"Michael Caine, Carol Burnett, Denholm Elliott",Comedy,7.4
+111,Tom and Jerry: The Movie,1992,84,Phil Roman,"Richard Kind, Dana Hill, Anndi McAfee","Animation, Adventure, Comedy",5.4
+112,Mr. Baseball,1992,108,Fred Schepisi,"Tom Selleck, Ken Takakura, Aya Takanashi","Comedy, Romance, Sport",6.0
+113,Peter's Friends,1992,101,Kenneth Branagh,"Hugh Laurie, Stephen Fry, Emma Thompson","Comedy, Drama, Romance",7.0
+114,Kuffs,1992,102,Bruce A. Evans,"Christian Slater, Milla Jovovich, Ric Roman Waugh","Action, Comedy, Crime",5.9
+115,The Babe,1992,115,Arthur Hiller,"John Goodman, Kelly McGillis, Trini Alvarado","Biography, Drama, Sport",5.9
+116,Belle Epoque,1992,109,Fernando Trueba,"Fernando Fernán Gómez, Jorge Sanz, Penélope Cruz","Comedy, Drama, Romance",7.1
+117,Innocent Blood,1992,112,John Landis,"Anne Parillaud, Anthony LaPaglia, Robert Loggia","Action, Comedy, Crime",6.2
+118,Indochine,1992,160,Régis Wargnier,"Catherine Deneuve, Vincent Perez, Linh-Dan Pham","Drama, Romance, War",7.0
+119,Gladiator,1992,101,Rowdy Herrington,"James Marshall, Cuba Gooding Jr., Brian Dennehy","Action, Drama, Sport",6.5
+120,Shining Through,1992,132,David Seltzer,"Michael Douglas, Melanie Griffith, Liam Neeson","Drama, Romance, Thriller",6.4
+121,A Heart in Winter,1992,105,Claude Sautet,"Daniel Auteuil, Emmanuelle Béart, André Dussollier","Drama, Music, Romance",7.6
+122,The Power of One,1992,127,John G. Avildsen,"Stephen Dorff, Armin Mueller-Stahl, Morgan Freeman","Drama, Sport",7.1
+123,Once Upon a Time in China II,1992,113,Hark Tsui,"Jet Li, Rosamund Kwan, Mok Siu-Chung","Action, Adventure, Biography",7.3
+124,American Me,1992,125,Edward James Olmos,"Edward James Olmos, William Forsythe, Sal Lopez","Biography, Crime, Drama",7.1
+125,Ladybugs,1992,90,Sidney J. Furie,"Rodney Dangerfield, Jackée Harry, Jonathan Brandis","Comedy, Sport",5.5
+126,Rapid Fire,1992,95,Dwight H. Little,"Brandon Lee, Powers Boothe, Nick Mancuso","Action, Crime, Drama",6.3
+127,Light Sleeper,1992,103,Paul Schrader,"Willem Dafoe, Susan Sarandon, Dana Delany","Crime, Drama",6.9
+128,Sidekicks,1992,101,Aaron Norris,"Chuck Norris, Beau Bridges, Jonathan Brandis","Action, Adventure, Comedy",5.2
+129,A Midnight Clear,1992,108,Keith Gordon,"Peter Berg, Kevin Dillon, Arye Gross","Drama, War",7.1
+130,Children of the Corn II: The Final Sacrifice,1992,92,David Price,"Terence Knox, Paul Scherrer, Ryan Bollman","Horror, Thriller",4.4
+131,We Are Not Angels,1992,98,Srdjan Dragojevic,"Nikola Kojo, Milena Pavlovic, Branka Katic","Comedy, Fantasy, Romance",8.3
+132,Knight Moves,1992,116,Carl Schenkel,"Christopher Lambert, Tom Skerritt, Codie Lucas Wilbee","Crime, Drama, Mystery",6.1
+133,White Sands,1992,101,Roger Donaldson,"Willem Dafoe, Mary Elizabeth Mastrantonio, Mickey Rourke","Action, Crime, Drama",6.0
+134,Dragon Ball Z: The Return of Cooler,1992,45,Daisuke Nishio,"Masako Nozawa, Toshio Furukawa, Mayumi Tanaka","Animation, Action, Fantasy",6.9
+135,Critters 4,1992,87,Rupert Harvey,"Don Keith Opper, Terrence Mann, Paul Whitthorne","Horror, Sci-Fi",4.1
+136,Khiladi,1992,157,"Abbas Alibhai Burmawalla, Mastan Alibhai Burmawalla","Akshay Kumar, Ayesha Jhulka, Deepak Tijori","Action, Comedy, Musical",7.1
+137,Prelude to a Kiss,1992,105,Norman René,"Meg Ryan, Alec Baldwin, Kathy Bates","Comedy, Fantasy, Romance",5.6
+138,Consenting Adults,1992,99,Alan J. Pakula,"Kevin Kline, Mary Elizabeth Mastrantonio, Kevin Spacey","Crime, Drama, Mystery",5.7
+139,Raju Ban Gaya Gentleman,1992,152,Aziz Mirza,"Shah Rukh Khan, Juhi Chawla, Nana Patekar","Comedy, Drama, Musical",6.7
+140,Thevar Magan,1992,145,Bharathan,"Kamal Haasan, Shivaji Ganesan, Nassar","Action, Drama, Romance",8.7
+141,Mo' Money,1992,89,Peter MacDonald,"Damon Wayans, Stacey Dash, Marlon Wayans","Action, Comedy, Crime",5.5
+142,Diggstown,1992,98,Michael Ritchie,"James Woods, Louis Gossett Jr., Bruce Dern","Drama, Sport",6.9
+143,Dragon Ball Z: Super Android 13!,1992,46,Daisuke Nishio,"Masako Nozawa, Toshio Furukawa, Mayumi Tanaka","Animation, Action, Sci-Fi",7.0
+144,Class Act,1992,98,Randall Miller,"Christopher Reid, Christopher Martin, Andre Rosey Brown",Comedy,6.1
+145,And Life Goes On,1992,95,Abbas Kiarostami,"Farhad Kheradmand, Pouya Payvar, Behrouz Abedini","Adventure, Drama",7.9
+146,Dr. Giggles,1992,95,Manny Coto,"Larry Drake, Holly Marie Combs, Cliff De Young","Comedy, Drama, Horror",5.3
+147,Once Upon a Time in China III,1992,125,Hark Tsui,"Jet Li, Rosamund Kwan, Mok Siu-Chung","Action, Adventure, Biography",6.7
+148,Deewana,1992,185,Raj Kanwar,"Rishi Kapoor, Divya Bharti, Shah Rukh Khan","Action, Comedy, Drama",6.7
+149,Leolo,1992,107,Jean-Claude Lauzon,"Maxime Collin, Ginette Reno, Gilbert Sicotte","Comedy, Drama, Fantasy",7.4
+150,Chamatkar,1992,171,Rajiv Mehra,"Naseeruddin Shah, Shah Rukh Khan, Urmila Matondkar","Comedy, Drama, Fantasy",6.5
+151,Nemesis,1992,95,Albert Pyun,"Olivier Gruner, Tim Thomerson, Cary-Hiroyuki Tagawa","Action, Drama, Sci-Fi",5.4
+152,All Ladies Do It,1992,97,Tinto Brass,"Claudia Koll, Paolo Lanza, Franco Branciaroli","Comedy, Drama",5.2
+153,South Central,1992,98,Stephen Milburn Anderson,"Glenn Plummer, Byron Minns, Lexie Bigham","Crime, Drama",6.8
+154,The Story of Qiu Ju,1992,100,Yimou Zhang,"Gong Li, Peiqi Liu, Liuchun Yang","Comedy, Drama",7.5
+155,The Bohemian Life,1992,103,Aki Kaurismäki,"Matti Pellonpää, Evelyne Didi, André Wilms","Comedy, Drama, Romance",7.6
+156,A Tale of Winter,1992,114,Éric Rohmer,"Charlotte Véry, Frédéric van den Driessche, Michel Voletti","Drama, Romance",7.2
+157,Mr. Saturday Night,1992,119,Billy Crystal,"Billy Crystal, David Paymer, Julie Warner","Comedy, Drama",5.9
+158,Tito and Me,1992,104,Goran Markovic,"Dimitrije Vojnov, Lazar Ristovski, Predrag 'Miki' Manojlovic","Comedy, Drama, Romance",7.9
+159,Passion Fish,1992,135,John Sayles,"Mary McDonnell, Alfre Woodard, Angela Bassett",Drama,7.3
+160,Dust Devil,1992,87,Richard Stanley,"Robert John Burke, Chelsea Field, Zakes Mokae","Horror, Mystery, Thriller",6.2
+161,The Mambo Kings,1992,104,Arne Glimcher,"Armand Assante, Antonio Banderas, Pablo Calogero","Drama, Music",6.4
+162,Godzilla and Mothra: The Battle for Earth,1992,100,Takao Okawara,"Tetsuya Bessho, Satomi Kobayashi, Takehiro Murata","Adventure, Fantasy, Sci-Fi",6.1
+163,Rebels of the Neon God,1992,106,Tsai Ming-liang,"Wang Yu-wen, Chen Chao-jung, Kang-sheng Lee","Crime, Drama, Romance",7.5
+164,City of Joy,1992,132,Roland Joffé,"Patrick Swayze, Pauline Collins, Om Puri","Crime, Drama",6.5
+165,Psy,1992,104,Wladyslaw Pasikowski,"Boguslaw Linda, Marek Kondrat, Cezary Pazura","Action, Crime, Drama",7.6
+166,Once Upon a Crime...,1992,94,Eugene Levy,"John Candy, Jim Belushi, Cybill Shepherd","Comedy, Crime, Mystery",5.8
+167,Bebe's Kids,1992,72,Bruce W. Smith,"Faizon Love, Vanessa Bell Calloway, Robin Harris","Animation, Comedy, Fantasy",5.8
+168,Pure Country,1992,112,Christopher Cain,"George Strait, Lesley Ann Warren, Isabel Glasser","Drama, Music, Romance",7.1
+169,House of Angels,1992,127,Colin Nutley,"Helena Bergström, Rikard Wolff, Sven Wollter","Comedy, Drama",6.4
+170,Maniac Cop 3: Badge of Silence,1992,85,William Lustig,"Robert Davi, Robert Z'Dar, Caitlin Dulany","Action, Horror",5.0
+171,Mom and Dad Save the World,1992,88,Greg Beeman,"Teri Garr, Jeffrey Jones, Jon Lovitz","Adventure, Comedy, Family",5.4
+172,Tetsuo II: Body Hammer,1992,83,Shin'ya Tsukamoto,"Tomorô Taguchi, Shin'ya Tsukamoto, Nobu Kanaoka","Drama, Fantasy, Horror",6.4
+173,Night and the City,1992,105,Irwin Winkler,"Robert De Niro, Jessica Lange, Cliff Gorman","Crime, Drama",5.8
+174,Flodder in Amerika!,1992,120,Dick Maas,"Huub Stapel, Nelly Frijda, René van 't Hof","Comedy, Family",5.7
+175,Waxwork II: Lost in Time,1992,104,Anthony Hickox,"Zach Galligan, Monika Schnarre, Martin Kemp","Comedy, Fantasy, Horror",5.4
+176,Yoddha,1992,149,Sangeeth Sivan,"Mohanlal, Siddharth Lama, Madhoo","Action, Comedy, Drama",8.4
+177,Full Contact,1992,99,Ringo Lam,"Chow Yun-Fat, Simon Yam, Ann Bridgewater","Action, Crime, Thriller",7.1
+178,Dragon Inn,1992,88,"Raymond Lee, Siu-Tung Ching, Hark Tsui","Tony Ka Fai Leung, Brigitte Lin, Maggie Cheung","Action, Thriller",7.2
+179,For a Lost Soldier,1992,92,Roeland Kerbosch,"Maarten Smit, Andrew Kelley, Jeroen Krabbé","Drama, Romance, War",7.5
+180,Manufacturing Consent: Noam Chomsky and the Media,1992,167,"Mark Achbar, Peter Wintonick","Noam Chomsky, Mark Achbar, Karin Aguilar-San Juan","Documentary, Biography, War",8.1
+181,Swordsman II,1992,112,Siu-Tung Ching,"Jet Li, Brigitte Lin, Michelle Reis","Action, Comedy, Fantasy",7.1
+182,Simple Men,1992,105,Hal Hartley,"Robert John Burke, Bill Sage, Martin Donovan","Crime, Drama, Romance",7.1
+183,Brain Donors,1992,80,Dennis Dugan,"John Turturro, Bob Nelson, Mel Smith",Comedy,6.9
+184,The Public Eye,1992,99,Howard Franklin,"Joe Pesci, Barbara Hershey, Richard Riehle","Crime, Drama, Romance",6.5
+185,In the Soup,1992,96,Alexandre Rockwell,"Steve Buscemi, Seymour Cassel, Jennifer Beals","Comedy, Drama",7.1
+186,Love Field,1992,105,Jonathan Kaplan,"Michelle Pfeiffer, Dennis Haysbert, Stephanie McFadden",Drama,6.5
+187,Gas Food Lodging,1992,101,Allison Anders,"Brooke Adams, Ione Skye, Fairuza Balk","Drama, Romance",6.6
+188,Daens,1992,138,Stijn Coninx,"Jan Decleir, Gérard Desarthe, Antje de Boeck","Biography, Drama, History",7.5
+189,A Stranger Among Us,1992,110,Sidney Lumet,"Melanie Griffith, Eric Thal, John Pankow","Crime, Drama, Mystery",5.6
+190,King of Beggars,1992,101,Gordon Chan,"Stephen Chow, Sharla Cheung, Man-Tat Ng","Action, Comedy, Drama",6.9
+191,Royal Tramp,1992,110,Jing Wong,"Stephen Chow, Sharla Cheung, Chingmy Yau","Action, Comedy, Crime",7.1
+192,Midori,1992,55,Hiroshi Harada,"Minako Naka, Norihiko Morishita, Keinosuke Okamoto","Animation, Drama, Horror",6.3
+193,Brother's Keeper,1992,104,"Joe Berlinger, Bruce Sinofsky","Delbert Ward, Roscoe Ward, Lyman Ward","Documentary, Crime, Mystery",7.5
+194,The Dark Side of the Heart,1992,127,Eliseo Subiela,"Darío Grandinetti, Sandra Ballesteros, Nacha Guevara","Comedy, Romance, Drama",7.3
+195,The Waterdance,1992,106,"Neal Jimenez, Michael Steinberg","Eric Stoltz, Helen Hunt, Wesley Snipes","Comedy, Drama, Romance",6.8
+196,Schtonk,1992,115,Helmut Dietl,"Götz George, Uwe Ochsenknecht, Christiane Hörbiger","Comedy, Crime",7.1
+197,The Long Day Closes,1992,85,Terence Davies,"Leigh McCormack, Marjorie Yates, Anthony Watson","Biography, Drama",7.3
+198,Straight Talk,1992,91,Barnet Kellman,"Dolly Parton, James Woods, Griffin Dunne","Comedy, Drama, Romance",5.7
+199,Live Wire,1992,85,Christian Duguay,"Pierce Brosnan, Ron Silver, Ben Cross","Action, Drama, Thriller",5.6
+200,Where the Day Takes You,1992,105,Marc Rocco,"Dermot Mulroney, Robert Knepper, Laura San Giacomo","Crime, Drama, Thriller",6.5
+201,The Oak,1992,105,Lucian Pintilie,"Maia Morgenstern, Razvan Vasilescu, Victor Rebengiuc","Comedy, Drama",7.9
+202,Cows,1992,96,Julio Medem,"Emma Suárez, Carmelo Gómez, Ana Torrent","Drama, Mystery, Romance",7.1
+203,The Living End,1992,81,Gregg Araki,"Mike Dytri, Craig Gilmore, Mark Finch","Comedy, Crime, Drama",6.5
+204,Evil Toons,1992,90,Fred Olen Ray,"David Carradine, Arte Johnson, Dick Miller","Animation, Comedy, Fantasy",4.2
+205,Tokyo Decadence,1992,112,Ryû Murakami,"Miho Nikaido, Yayoi Kusama, Sayoko Amano",Drama,5.9
+206,The Black Bomber,1992,116,Darko Bajic,"Dragan Bjelogrlic, Anica Dobra, Srdjan 'Zika' Todorovic",Drama,7.8
+207,The Yellow Mercedes,1992,99,Bay Okan,"Ilyas Salman, Valérie Lemoine, Micky Sébastian","Comedy, Drama",7.8
+208,American Heart,1992,113,Martin Bell,"Jeff Bridges, Edward Furlong, John Boylan","Crime, Drama, Romance",6.7
+209,Kickboxer 3: The Art of War,1992,92,Rick King,"Sasha Mitchell, Dennis Chan, Richard Comar","Action, Sport, Thriller",4.2
+210,Article 99,1992,100,Howard Deutch,"Ray Liotta, Kiefer Sutherland, Forest Whitaker","Comedy, Drama",6.1
+211,The Terrorism and the Kebab,1992,105,"Sherif Arafa, Sherif Arafa, Yehia Hassanein","Adel Emam, Youssra, Kamal El-Shinnawi","Action, Comedy, Crime",7.7
+212,The Best Intentions,1992,182,Bille August,"Samuel Fröler, Pernilla August, Max von Sydow","Biography, Drama, Romance",7.7
+213,Man Trouble,1992,100,Bob Rafelson,"Jack Nicholson, Ellen Barkin, Harry Dean Stanton","Comedy, Romance",4.7
+214,Mikey,1992,92,Dennis Dimster,"Brian Bonsall, Josie Bissett, Ashley Laurence","Horror, Thriller",5.7
+215,Map of the Human Heart,1992,109,Vincent Ward,"Jason Scott Lee, Anne Parillaud, Patrick Bergin","Adventure, Drama, Romance",7.0
+216,The Northerners,1992,108,Alex van Warmerdam,"Jack Wouterse, Annet Malherbe, Rudolf Lucieer","Comedy, Drama",7.3
+217,Visions of Light,1992,92,"Arnold Glassman, Todd McCarthy, Stuart Samuels","Conrad L. Hall, John Bailey, Vilmos Zsigmond","Documentary, History",7.7
+218,That Night,1992,89,Craig Bolotin,"C. Thomas Howell, Juliette Lewis, Helen Shaver","Drama, Romance",6.6
+219,Christopher Columbus: The Discovery,1992,120,John Glen,"Marlon Brando, Tom Selleck, Georges Corraface","Adventure, Biography, Drama",4.4
+220,"Justice, My Foot!",1992,102,Johnnie To,"Stephen Chow, Anita Mui, Man-Tat Ng","Action, Comedy, Crime",6.8
+221,Into the West,1992,97,Mike Newell,"Gabriel Byrne, Ellen Barkin, Ciarán Fitzgerald","Adventure, Family, Fantasy",7.0
+222,Aces: Iron Eagle III,1992,98,John Glen,"Louis Gossett Jr., Rachel McLish, Paul Freeman",Action,3.8
+223,Jönssonligan & den svarta diamanten,1992,104,Hans Åke Gabrielsson,"Ulf Brunnberg, Björn Gustafson, Peter Haber","Comedy, Crime",5.5
+224,Fight Back to School II,1992,106,Gordon Chan,"Stephen Chow, Sharla Cheung, Man-Tat Ng","Action, Comedy, Crime",6.6
+225,Wind,1992,126,Carroll Ballard,"Matthew Modine, Jennifer Grey, Cliff Robertson","Action, Drama, Sport",6.4
+226,Royal Tramp II,1992,98,Jing Wong,"Stephen Chow, Brigitte Lin, Chingmy Yau","Action, Comedy, Crime",7.0
+227,The Master,1992,88,Hark Tsui,"Jet Li, Wah Yuen, Crystal Kwok","Action, Comedy, Crime",5.7
+228,Aileen Wuornos: The Selling of a Serial Killer,1992,87,Nick Broomfield,"Aileen Wuornos, Nick Broomfield, Arlene Pralle","Documentary, Crime",6.9
+229,Only You,1992,85,Betty Thomas,"Tom McFadden, Andrew McCarthy, Joel Murray","Comedy, Romance",5.3
+230,The Stolen Children,1992,114,Gianni Amelio,"Enrico Lo Verso, Valentina Scalici, Giuseppe Ieracitano","Crime, Drama",7.6
+231,Blame It on the Bellboy,1992,78,Mark Herman,"Bronson Pinchot, Dudley Moore, Bryan Brown",Comedy,5.5
+232,Folks!,1992,107,Ted Kotcheff,"Tom Selleck, Don Ameche, Anne Jackson","Comedy, Drama",5.7
+233,A Place in the World,1992,120,Adolfo Aristarain,"José Sacristán, Federico Luppi, Leonor Benedetto",Drama,7.7
+234,Naked Killer,1992,89,Clarence Fok,"Chingmy Yau, Simon Yam, Carrie Ng","Action, Crime, Thriller",5.9
+235,Guncrazy,1992,97,Tamra Davis,"Drew Barrymore, James Le Gros, Robert Greenberg","Crime, Drama, Romance",5.5
+236,The Inheritance or Fuckoffguysgoodday,1992,120,Vera Chytilová,"Bolek Polívka, Miroslav Donutil, Anna Pantuckova",Comedy,7.6
+237,"All's Well, Ends Well",1992,100,Clifton Ko,"Leslie Cheung, Stephen Chow, Raymond Pak-Ming Wong","Comedy, Romance",7.2
+238,Carry on Columbus,1992,91,Gerald Thomas,"Rik Mayall, Nigel Planer, Andrew Bailey","Action, Adventure, Comedy",3.4
+239,"Dearest Relatives, Poisonous Relations",1992,105,Mario Monicelli,"Tommaso Bianco, Renato Cecchetto, Marina Confalone",Comedy,7.3
+240,Deception,1992,90,Graeme Clifford,"Andie MacDowell, Liam Neeson, Viggo Mortensen","Mystery, Thriller",5.0
+241,Meatballs 4,1992,84,Bob Logan,"Corey Feldman, Jack Nance, Sarah Douglas",Comedy,3.5
+242,Beta,1992,171,Indra Kumar,"Anil Kapoor, Madhuri Dixit, Aruna Irani","Drama, Romance",6.2
+243,Annamalai,1992,164,Suresh Krishna,"Rajinikanth, Sarath Babu, Khushbu Sundar","Comedy, Drama, Musical",7.7
+244,Waterland,1992,95,Stephen Gyllenhaal,"Jeremy Irons, Sinéad Cusack, Ethan Hawke","Drama, Mystery",6.5
+245,Doctor Mordrid,1992,74,"Albert Band, Charles Band","Jeffrey Combs, Yvette Nipar, Jay Acovone","Action, Fantasy, Horror",5.4
+246,Savage Nights,1992,126,Cyril Collard,"Cyril Collard, Romane Bohringer, Carlos López","Biography, Crime, Drama",6.8
+247,Whispers in the Dark,1992,103,Christopher Crowe,"Annabella Sciorra, Jamey Sheridan, Alan Alda","Drama, Mystery, Thriller",5.6
+248,Mistress,1992,110,Barry Primus,"Robert Wuhl, Martin Landau, Vasek Simek","Comedy, Drama",5.4
+249,Comet in Moominland,1992,70,"Masayuki Kojima, Hiroshi Saitô","Rabbe Smedlund, Jyrki Kovaleff, Elina Salo","Animation, Adventure, Family",7.6
+250,Sarafina!,1992,117,Darrell Roodt,"Whoopi Goldberg, Leleti Khumalo, Miriam Makeba","Drama, Musical",6.3
+251,"Ciao, Professore!",1992,100,Lina Wertmüller,"Paolo Villaggio, Isa Danieli, Gigio Morra",Comedy,6.9
+252,CrissCross,1992,100,Chris Menges,"Goldie Hawn, Arliss Howard, James Gammon","Crime, Drama",5.8
+253,Khuda Gawah,1992,193,Mukul Anand,"Amitabh Bachchan, Sridevi, Nagarjuna Akkineni","Action, Adventure, Drama",6.6
+254,Double Trouble,1992,86,John Paragon,"Peter Paul, David Paul, Roddy McDowall","Action, Comedy, Crime",4.2
+255,Dream of Light,1992,133,Víctor Erice,"Antonio López, María Moreno, Enrique Gran",Biography,7.6
+256,High Strung,1992,93,Roger Nygard,"Steve Oedekerk, Tom Wilson, Denise Crosby",Comedy,6.5
+257,L.627,1992,145,Bertrand Tavernier,"Didier Bezace, Jean-Paul Comart, Charlotte Kady","Crime, Drama, Thriller",7.2
+258,American Samurai,1992,94,Sam Firstenberg,"David Bradley, Mark Dacascos, Valarie Trapp",Action,4.9
+259,The Vagrant,1992,91,Chris Walas,"Bill Paxton, Michael Ironside, Marshall Bell","Comedy, Horror, Thriller",5.8
+260,Ax 'Em,1992,71,Michael Mfume,"Michael Mfume, Sandra Pulley, Joe Clair","Comedy, Horror, Mystery",1.3
+261,Out on a Limb,1992,93,Francis Veber,"Matthew Broderick, Jeffrey Jones, Heidi Kling",Comedy,5.3
+262,Tatar Ramazan: Sürgünde,1992,80,Melih Gülgen,"Kadir Inanir, Esin Moralioglu, Hayati Hamzaoglu",Drama,8.0
+263,"588, rue Paradis",1992,130,Henri Verneuil,"Richard Berry, Omar Sharif, Nathalie Roussel",Drama,6.9
+264,Miracle Beach,1992,88,Skott Snider,"Dean Cameron, Ami Dolenz, Felicity Waterman","Comedy, Romance",5.5
+265,Otto - Der Liebesfilm,1992,90,"Otto Waalkes, Bernd Eilert","Otto Waalkes, Jessika Cardinahl, Juraj Kukura","Comedy, Drama, Romance",5.0
+266,Swoon,1992,93,Tom Kalin,"Daniel Schlachet, Craig Chester, Ron Vawter","Crime, Drama",6.6
+267,Traces of Red,1992,105,Andy Wolk,"Jim Belushi, Lorraine Bracco, Tony Goldwyn","Crime, Drama, Mystery",5.2
+268,Careful,1992,100,Guy Maddin,"Kyle McCulloch, Gosia Dobrowolska, Sarah Neville","Comedy, Drama, Horror",7.0
+269,Used People,1992,115,Beeban Kidron,"Shirley MacLaine, Kathy Bates, Jessica Tandy","Comedy, Drama, Romance",6.1
+270,"Olivier, Olivier",1992,110,Agnieszka Holland,"Brigitte Roüan, François Cluzet, Jean-François Stévenin","Adventure, Crime, Drama",7.5
+271,Dil Aashna Hai (...The Heart Knows),1992,164,Hema Malini,"Jeetendra, Mithun Chakraborty, Dimple Kapadia","Drama, Romance",4.9
+272,Blue Ice,1992,105,Russell Mulcahy,"Michael Caine, Sean Young, Ian Holm","Action, Mystery, Romance",5.2
+273,Surviving Desire,1992,53,Hal Hartley,"Martin Donovan, Matt Malloy, Rebecca Nelson","Comedy, Drama, Romance",7.2
+274,The Gun in Betty Lou's Handbag,1992,89,Allan Moyle,"Penelope Ann Miller, Eric Thal, Alfre Woodard","Comedy, Mystery",5.1
+275,Wild Desire,1992,110,Khairy Beshara,"Nadia El Gendy, Mahmoud Hemida, Hanan Turk",Drama,4.5
+276,Year of the Comet,1992,91,Peter Yates,"Penelope Ann Miller, Tim Daly, Louis Jourdan","Action, Adventure, Romance",5.8
+277,Puerto Escondido,1992,110,Gabriele Salvatores,"Diego Abatantuono, Valeria Golino, Claudio Bisio","Comedy, Crime",6.6
+278,Betty,1992,103,Claude Chabrol,"Marie Trintignant, Stéphane Audran, Jean-François Garreaud",Drama,6.8
+279,Jersey Girl,1992,95,David Burton Morris,"Jami Gertz, Dylan McDermott, Sheryl Lee","Comedy, Drama, Romance",6.1
+280,Maledetto il giorno che t'ho incontrato,1992,112,Carlo Verdone,"Carlo Verdone, Margherita Buy, Giancarlo Dettori",Comedy,6.8
+281,Ruby,1992,110,John Mackenzie,"Danny Aiello, Sherilyn Fenn, Frank Orsatti","Biography, Crime, Drama",5.5
+282,Sun of the Sleepless,1992,123,Temur Babluani,"Elguja Burduli, David Kazishvili, Lia Babluani","Drama, Crime",8.4
+283,Mission in Tel Aviv,1992,118,"Nashat Abdullatif, Nader Galal","Saeed Abdulghani, Uthman Muhammad Ali, Adel Ammar","Action, Thriller",4.3
+284,Leaving Normal,1992,110,Edward Zwick,"Christine Lahti, Meg Tilly, Patrika Darbo","Comedy, Drama",6.5
+285,Lotta på Bråkmakargatan,1992,74,Johanna Hald,"Grete Havnesköld, Linn Gloppestad, Martin Andersson","Family, Comedy",5.9
+286,Killer Tomatoes Eat France!,1992,94,John De Bello,"Ed Brassard, Marc Price, Angela Visser",Comedy,3.8
+287,1991: The Year Punk Broke,1992,99,David Markey,"Sonic Youth, Kim Gordon, Lee Ranaldo","Documentary, History, Music",7.3
+288,Vishwatma,1992,174,Rajiv Rai,"Sunny Deol, Naseeruddin Shah, Chunky Pandey","Action, Drama, Thriller",6.4
+289,Vietnam Colony,1992,154,"Lal, Siddique","Mohanlal, Innocent Vareed Thekkethala, Kanaka","Action, Comedy, Drama",7.8
+290,La crise,1992,95,Coline Serreau,"Vincent Lindon, Patrick Timsit, Zabou Breitman","Comedy, Music",6.9
+291,Passed Away,1992,96,Charlie Peters,"Bob Hoskins, Jack Warden, William Petersen",Comedy,5.7
+292,Little Sharks,1992,87,Sönke Wortmann,"Jürgen Vogel, Kai Wiesinger, Gedeon Burkhard","Comedy, Romance",7.5
+293,Zebrahead,1992,100,Anthony Drazan,"Michael Rapaport, DeShonn Castle, Kevin Corrigan","Drama, Romance",6.3
+294,Last Dance,1992,83,Tony Markes,"Cynthia Basinet, Elaine Hendrix, Kurt T. Williams",Thriller,4.1
+295,Hard Hunted,1992,97,Andy Sidaris,"Dona Speir, Roberta Vasquez, Bruce Penhall","Action, Adventure, Crime",4.2
+296,Storyville,1992,113,Mark Frost,"James Spader, Joanne Whalley, Jason Robards","Drama, Mystery, Thriller",5.7
+297,Roadside Prophets,1992,96,Abbe Wool,"John Doe, Adam Horovitz, David Anthony Marshall","Adventure, Comedy, Drama",6.3
+298,This Is My Life,1992,105,Nora Ephron,"Julie Kavner, Samantha Mathis, Gaby Hoffmann",Drama,6.0
+299,Just Another Girl on the I.R.T.,1992,97,Leslie Harris,"Ariyan A. Johnson, Kevin Thigpen, Ebony Jerido","Drama, Romance",6.3
+300,The Naked Truth,1992,104,Nico Mastorakis,"Robert Caso, Kevin Schon, Courtney Gibbs",Comedy,3.7
+301,Hyenas,1992,110,Djibril Diop Mambéty,"Mansour Diouf, Ami Diakhate, Mamadou Mahourédia Gueye","Comedy, Drama",7.4
+302,Seedpeople,1992,81,Peter Manoogian,"Sam Hennings, Andrea Roth, Dane Witherspoon","Horror, Sci-Fi",4.4
+303,Raat,1992,127,Ram Gopal Varma,"Revathi, Rohini Hattangadi, Om Puri",Horror,7.0
+304,The Lost World,1992,99,Timothy Bond,"John Rhys-Davies, David Warner, Eric McCormack","Adventure, Fantasy, Sci-Fi",5.3
+305,Equinox,1992,110,Alan Rudolph,"Matthew Modine, Lara Flynn Boyle, Fred Ward","Crime, Drama, Mystery",5.6
+306,Ek Ladka Ek Ladki,1992,162,Vijay Sadanah,"Salman Khan, Neelam Kothari, Anupam Kher","Comedy, Romance",5.8
+307,Naalaiya Theerpu,1992,140,S.A. Chandrashekhar,"Joseph Vijay, Keerthana, Easwari Rao","Drama, Romance",7.3
+308,Tiger Claws,1992,92,Kelly Makin,"Cynthia Rothrock, Nick Dibley, Fern Figueiredo",Action,5.4
+309,The Playboys,1992,117,Gillies MacKinnon,"Albert Finney, Aidan Quinn, Robin Wright","Drama, Romance",6.2
+310,Netherworld,1992,85,David Schmoeller,"Michael Bendetti, Denise Gentile, Anjanette Comer",Horror,4.3
+311,Pappayude Swantham Appoos,1992,146,Fazil,"Mammootty, Shobana, Suresh Gopi",Drama,7.7
+312,German Fried Movie,1992,88,"Uwe Boll, Frank Lustig","Jo Betzing, Jürg Löw, Alexander Leuschen",Comedy,1.5
+313,Love Crimes,1992,90,Lizzie Borden,"Sean Young, Patrick Bergin, Arnetia Walker","Romance, Thriller",4.3
+314,The Burning Moon,1992,86,Olaf Ittenbach,"Beate Neumeyer, Bernd Muggenthaler, Ellen Fischer",Horror,5.2
+315,Suryavanshi,1992,161,Rakesh Kumar,"Salman Khan, Amrita Singh, Sheeba Agarwal","Action, Fantasy, Horror",4.4
+316,Incident at Oglala,1992,89,Michael Apted,"Robert Redford, Norman Zigrossi, Robert Sikma","Documentary, History",7.5
+317,Boulevard of the Revolution,1992,99,Vladimir Blazevski,"Bojana Maljevic, Branislav Lecic, Miralem Zupcevic",Drama,7.1
+318,There Goes the Neighborhood,1992,88,Bill Phillips,"Jeff Daniels, Catherine O'Hara, Hector Elizondo","Comedy, Crime, Romance",5.8
+319,Shola Aur Shabnam,1992,165,David Dhawan,"Govinda, Divya Bharti, Gulshan Grover","Action, Comedy, Drama",6.5
+320,The Nutt House,1992,94,"Adam Rifkin, Scott Spiegel","Stephen Kearney, Amy Yasbeck, Robert Trebor","Comedy, Drama, Fantasy",3.7
+321,Travellers,1992,90,Bahram Beyzaie,"Mozhdeh Shamsai, Homa Rusta, Jamileh Sheikhi",Drama,7.4
+322,The Democratic Terrorist,1992,96,Pelle Berglund,"Stellan Skarsgård, Katja Flint, Burkhard Driest","Action, Thriller",5.8
+323,Desire,1992,110,Andrew Birkin,"Greta Scacchi, Vincent D'Onofrio, Anaïs Jeanneret","Drama, Romance",6.1
+324,Munchie,1992,80,Jim Wynorski,"Loni Anderson, Andrew Stevens, Jamie McEnnan","Comedy, Family, Fantasy",3.5
+325,Laws of Gravity,1992,100,Nick Gomez,"Peter Greene, Adam Trese, Edie Falco","Crime, Drama",6.7
+326,The Unnamable II: The Statement of Randolph Carter,1992,104,Jean-Paul Ouellette,"Mark Kinsey Stephenson, Charles Klausmeyer, Maria Ford",Horror,5.1
+327,"Once Upon a Time, Cinema",1992,92,Mohsen Makhmalbaf,"Ezzatolah Entezami, Mehdi Hashemi, Mohamad Ali Keshavarz","Comedy, Drama, Fantasy",7.3
+328,Against the Government,1992,116,Atef El-Tayeb,"Ahmed Zaki, Lebleba, Afaf Shoieb",Drama,7.6
+329,When the Party's Over,1992,114,Matthew Irmas,"Rae Dawn Chong, Sandra Bullock, Kris Kamm","Comedy, Drama, Romance",4.8
+330,The Chekist,1992,93,Aleksandr Rogozhkin,"Igor Sergeev, Aleksey Poluyan, Mikhail Vasserbaum",Drama,7.0
+331,Liceenii Rock 'n' Roll,1992,98,Nicolae Corjos,"Tamara Buciuceanu-Botez, Stefan Banica Jr., Oana Sîrbu","Comedy, Musical, Romance",7.0
+332,The Bikini Carwash Company,1992,87,Ed Hansen,"Joe Dusic, Kristi Ducati, Rikki Brando",Comedy,4.5
+333,Jaagruti,1993,134,Suresh Krishna,"Salman Khan, Karisma Kapoor, Ashok Saraf","Action, Drama",4.6
+334,Minbo,1992,123,Jûzô Itami,"Nobuko Miyamoto, Yasuo Daichi, Takehiro Murata",Comedy,7.4
+335,The Love-stricken,1992,91,Ali Hatami,"Faramarz Sadighi, Amin Tarokh, Akbar Abdi","Drama, History, Music",7.4
+336,The Panama Deception,1992,91,Barbara Trent,"Elizabeth Montgomery, Maxwell Thurman, Pete Williams","Documentary, History, War",7.5
+337,Praying with Anger,1992,101,M. Night Shyamalan,"M. Night Shyamalan, Mike Muthu, K. Subramanian","Comedy, Drama",4.4
+338,Remote Control,1992,78,Óskar Jónasson,"Björn Jörundur Friðbjörnsson, Þórarinn Eyfjörð, Thorarinn Oskar Thorarinsson","Comedy, Crime",7.6
+339,Diên Biên Phú,1992,140,Pierre Schoendoerffer,"Donald Pleasence, Patrick Catalifo, Jean-François Balmer","Drama, War",6.2
+340,The Wicked City,1992,96,Tai-Kit Mak,"Leon Lai, Jacky Cheung, Michelle Reis","Action, Drama, Fantasy",5.7
+341,Auntie Lee's Meat Pies,1992,100,Joseph F. Robertson,"Karen Black, Pat Morita, Kristine Rose","Comedy, Fantasy, Horror",5.1
+342,Sadayam,1992,147,Sibi Malayil,"Mohanlal, Augustine, Janardanan","Drama, Thriller",8.4
+343,The Tune,1992,69,Bill Plympton,"Daniel Neiden, Maureen McElheron, Marty Nelson","Animation, Comedy, Fantasy",6.9
+344,Mac,1992,117,John Turturro,"John Turturro, Michael Badalucco, Carl Capotorto",Drama,6.2
+345,Claire of the Moon,1992,107,Nicole Conn,"Trisha Todd, Karen Trumbo, Faith McDevitt","Drama, Romance",5.1
+346,Shadow of the Wolf,1992,112,Jacques Dorfmann,"Lou Diamond Phillips, Toshirô Mifune, Jennifer Tilly","Adventure, Drama, Thriller",5.8
+347,The Moon Warriors,1992,87,Sammo Kam-Bo Hung,"Andy Lau, Kenny Bee, Anita Mui","Action, Romance, Thriller",6.4
+348,Zikina zenidba,1992,92,Zoran Calic,"Dragomir Bojanic-Gidra, Marko Todorovic, Jelena Zigon",Comedy,4.9
+349,Body Puzzle,1992,98,Lamberto Bava,"Joanna Pacula, Tomas Arana, François Montagut","Horror, Mystery, Thriller",5.3
+350,The Last Days of Chez Nous,1992,96,Gillian Armstrong,"Lisa Harrow, Bruno Ganz, Kerry Fox","Comedy, Drama, Romance",6.5
+351,Round Trip to Heaven,1992,97,Alan Roberts,"Ray Sharkey, Earl Finn, Frank Torres",Comedy,4.2
+352,The Seventh Horse of the Sun,1992,130,Shyam Benegal,"Rajit Kapoor, Raghubir Yadav, Siraj Ahmed","Drama, Romance",7.9
+353,Rage and Honor,1992,89,Terence H. Winkless,"Cynthia Rothrock, Richard Norton, Terri Treas","Action, Crime, Drama",5.1
+354,"Sumo Do, Sumo Don't",1992,105,Masayuki Suô,"Masahiro Motoki, Misa Shimizu, Naoto Takenaka","Comedy, Drama, Sport",7.1
+355,The Accompanist,1992,102,Claude Miller,"Richard Bohringer, Elena Safonova, Romane Bohringer","Drama, Music, Romance",6.9
+356,"Ranma ½: The Movie 2, Nihao My Concubine",1992,60,Iku Suzuki,"Kappei Yamaguchi, Megumi Hayashibara, Noriko Hidaka","Animation, Action, Adventure",7.2
+357,Mannan,1992,154,P. Vasu,"Rajinikanth, Vijayashanti, Khushbu Sundar","Action, Comedy, Drama",7.2
+358,Dr. Lamb,1992,89,"Danny Lee, Billy Hin-Shing Tang","Danny Lee, Simon Yam, Kent Cheng","Comedy, Crime, Horror",5.9
+359,Uuno Turhapuro Suomen Tasavallan Herra Presidentti,1992,84,Ere Kokkonen,"Vesa-Matti Loiri, Tapio Hämäläinen, Marjatta Raita",Comedy,4.9
+360,Cthulhu Mansion,1992,92,Juan Piquer Simón,"Frank Finlay, Marcia Layton, Luis Fernando Alvés",Horror,4.1
+361,The Plague,1992,148,Luis Puenzo,"William Hurt, Sandrine Bonnaire, Jean-Marc Barr",Drama,5.6
+362,Evil Dead Trap 2,1992,97,Izô Hashimoto,"Shoko Nakajima, Rie Kondoh, Shirô Sano","Drama, Horror, Mystery",5.4
+363,The Magic Voyage,1992,82,Michael Schoemann,"Corey Feldman, Irene Cara, Dom DeLuise","Animation, Adventure, Family",3.5
+364,Honor and Glory,1992,84,Godfrey Ho,"Cynthia Rothrock, Donna Jason, John Miller","Action, Thriller",4.2
+365,Crossing the Bridge,1992,103,Mike Binder,"Josh Charles, Jason Gedrick, Stephen Baldwin","Comedy, Drama",6.2
+366,Rescue Me,1992,99,Arthur Allan Seidelman,"Michael Dudikoff, Stephen Dorff, Ami Dolenz","Action, Comedy",5.0
+367,Daulat Ki Jung,1992,143,S.A. Kader,"Aamir Khan, Juhi Chawla, Shafi Inamdar","Action, Adventure, Romance",5.1
+368,Bol Radha Bol,1992,164,David Dhawan,"Rishi Kapoor, Juhi Chawla, Kader Khan","Action, Comedy, Crime",6.0
+369,Fifty/Fifty,1992,101,Charles Martin Smith,"Peter Weller, Robert Hays, Charles Martin Smith","Action, Adventure, Comedy",5.6
+370,Rich in Love,1992,105,Bruce Beresford,"Albert Finney, Jill Clayburgh, Kathryn Erbe",Drama,6.1
+371,Cropped Head,1992,75,Martín Rejtman,"Ezequiel Cavia, Damián Dreizik, Mirta Busnelli","Comedy, Drama",6.6
+372,Courage,1992,161,Farogh Siddique,"Ajay Devgn, Karisma Kapoor, Ajit Khan","Action, Drama, Romance",5.1
+373,Don Quixote,1992,116,Orson Welles,"Francisco Reiguera, Akim Tamiroff, Pepe Mediavilla","Comedy, Drama",6.0
+374,Crumb at a Gallop,1992,97,Sven Methling,"Laus Høybye, Dick Kaysø, Karen-Lise Mynster","Comedy, Family",5.6
+375,Fathers & Sons,1992,109,Paul Mones,"Jeff Goldblum, Rory Cochrane, Famke Janssen","Drama, Thriller",4.9
+376,Tango Argentino,1992,91,Goran Paskaljevic,"Mija Aleksic, Predrag 'Miki' Manojlovic, Nikola Zarkovic","Drama, Music",7.2
+377,Little Nothings,1992,95,Cédric Klapisch,"Fabrice Luchini, Daniel Berlioux, Marc Berman","Comedy, Drama",6.4
+378,The Sentinel,1992,139,Arnaud Desplechin,"Emmanuel Salinger, Thibault de Montalembert, Jean-Louis Richard","Drama, Mystery, Thriller",6.5
+379,Dark Horse,1992,98,David Hemmings,"Ed Begley Jr., Mimi Rogers, Ari Meyers","Drama, Family",6.8
+380,Sunday's Children,1992,118,Daniel Bergman,"Henrik Linnros, Thommy Berggren, Lena Endre","Adventure, Biography, Drama",6.9
+381,Roncsfilm,1992,89,György Szomjas,"Ági Szirtes, Zoltán Mucsi, Sándor Gáspár","Comedy, Drama",6.8
+382,Ricky & Barabba,1992,83,Christian De Sica,"Renato Pozzetto, Christian De Sica, Franco Fabrizi",Comedy,5.6
+383,Monster in a Box,1992,87,Nick Broomfield,Spalding Gray,"Comedy, Drama",7.5
+384,Prikosnoveniye,1992,97,Albert S. Mkrtchyan,"Aleksandr Zuev, Maryana Polteva, Stanislav Zhitaryov","Horror, Thriller",6.5
+385,Kauravar,1992,149,Joshiy,"Mammootty, Thilakan, Babu Antony","Crime, Drama",7.8
+386,Al lupo al lupo,1992,112,Carlo Verdone,"Carlo Verdone, Sergio Rubini, Francesca Neri",Comedy,6.2
+387,My New Gun,1992,99,Stacy Cochran,"Diane Lane, James Le Gros, Stephen Collins",Comedy,5.3
+388,All Night Long,1992,90,Katsuya Matsumura,"Eisuke Tsunoda, Ryôsuke Suzuki, Yôji Ietomi","Crime, Horror, Mystery",5.7
+389,La belle histoire,1992,210,Claude Lelouch,"Gérard Lanvin, Béatrice Dalle, Vincent Lindon","Adventure, Drama, Fantasy",6.6
+390,The Journey,1992,150,Fernando E. Solanas,"Walter Quiroz, Soledad Alfaro, Ricardo Bartis","Adventure, Drama",7.1
+391,Hellmaster,1992,96,Douglas Schulze,"John Saxon, David Emge, Amy Raasch","Horror, Thriller",3.9
+392,CIA Code Name: Alexa,1992,93,Joseph Merhi,"Kathleen Kinmont, Lorenzo Lamas, O.J. Simpson","Action, Adventure, Thriller",4.3
+393,The Johnsons,1992,103,Rudolf van den Berg,"Monique van de Ven, Esmée de la Bretonière, Kenneth Herdigein",Horror,6.0
+394,Freddie as F.R.O.7.,1992,90,Jon Acevski,"Ben Kingsley, Jenny Agutter, David Ashton","Animation, Adventure, Comedy",5.1
+395,Doraemon: Nobita and the Kingdom of Clouds,1992,97,Tsutomu Shibayama,"Nobuyo Ôyama, Noriko Ohara, Michiko Nomura","Animation, Adventure, Comedy",7.1
+396,Blackbelt,1992,85,"Charles Philip Moore, Rick Jacobson","Don Wilson, Deirdre Haj, Matthias Hues",Action,5.1
+397,The Opposite Sex and How to Live with Them,1992,86,Matthew Meshekoff,"Arye Gross, Courteney Cox, Kevin Pollak","Comedy, Romance",4.9
+398,Max & Jeremie,1992,115,Claire Devers,"Philippe Noiret, Christopher Lambert, Jean-Pierre Marielle","Crime, Drama, Thriller",6.0
+399,Tale of a Vampire,1992,93,Shimako Sato,"Julian Sands, Suzanna Hamilton, Kenneth Cranham","Horror, Drama, Romance",5.2
+400,No Place to Hide,1992,98,Richard Danus,"Kris Kristofferson, Drew Barrymore, Illana Diamant","Crime, Horror, Thriller",5.1
+401,The Fencing Master,1992,88,Pedro Olea,"Omero Antonutti, Assumpta Serna, Joaquim de Almeida","Drama, Fantasy, History",6.7
+402,Cerní baroni,1992,99,Zdenek Sirový,"Pavel Landovský, Bronislav Poloczek, Alois Svehlík",Comedy,7.6
+403,The Policeman from the Cock's Hill,1992,91,Mihailo Vukobratovic,"Ljubisa Samardzic, Milena Dravic, Svetlana Bojkovic","Comedy, Crime, Family",6.8
+404,The Finest Hour,1992,105,Shimon Dotan,"Rob Lowe, Gale Hansen, Tracy Griffith","Drama, War",4.7
+405,IP5: The Island of Pachyderms,1992,119,Jean-Jacques Beineix,"Yves Montand, Olivier Martinez, Sekkou Sall","Adventure, Crime, Drama",6.3
+406,Severed Ties,1992,92,Damon Santostefano,"Oliver Reed, Elke Sommer, Garrett Morris","Comedy, Horror, Sci-Fi",4.5
+407,Lady Dragon,1992,97,David Worth,"Cynthia Rothrock, Richard Norton, Robert Ginty","Action, Crime, Drama",5.0
+408,Fist of Fury 1991 II,1992,93,"Rico Chu, Corey Yuen","Stephen Chow, Josephine Siao, Kenny Bee","Action, Comedy",6.5
+409,Svart Lucia,1992,114,Rumle Hammerich,"Tova Magnusson, Figge Norling, Björn Kjellman","Mystery, Thriller",4.9
+410,Breaking the Rules,1992,100,Neal Israel,"Jason Bateman, C. Thomas Howell, Jonathan Silverman","Comedy, Drama",5.5
+411,Divertimento,1992,125,Jacques Rivette,"Michel Piccoli, Jane Birkin, Emmanuelle Béart",Drama,7.4
+412,Interceptor,1992,92,Michael Cohn,"Jürgen Prochnow, Andrew Divoff, Elizabeth Morehead","Action, Sci-Fi",4.8
+413,Foxy Lady,1992,82,Sergio Martino,"Debora Caprioglio, Steve Bond, Sharon Marino",Thriller,4.4
+414,Falling from Grace,1992,100,John Mellencamp,"John Mellencamp, Mariel Hemingway, Claude Akins","Drama, Music",5.6
+415,Maruta 2: Laboratory of the Devil,1992,96,Godfrey Ho,"Yishou Jiang, Yuen-Ching Leung, Xingqiang Li","Drama, Horror, Thriller",4.4
+416,Nervous Ticks,1992,95,Rocky Lang,"Bill Pullman, Julie Brown, Peter Boyle","Comedy, Romance",5.8
+417,Prototype,1992,98,Phillip J. Roth,"Lane Lenhart, Robert Tossberg, Brenda Swanson","Action, Sci-Fi",3.0
+418,Mr. Bond,1992,127,Raj N. Sippy,"Akshay Kumar, Sheeba Agarwal, Saathi Ganguly","Action, Adventure, Thriller",3.4
+419,Videograms of a Revolution,1992,106,"Harun Farocki, Andrei Ujica","Ion Caramitru, Elena Ceausescu, Nicolae Ceausescu","Documentary, History, War",8.0
+420,Isi Ka Naam Zindagi,1992,140,Kalidas,"Aamir Khan, Farha Naaz, Govardhan Asrani","Action, Comedy, Drama",4.9
+421,Talons of the Eagle,1992,96,Michael Kennedy,"Jalal Merhi, Billy Blanks, James Hong","Action, Adventure",5.0
+422,Return to the Lost World,1992,94,Timothy Bond,"John Rhys-Davies, David Warner, Eric McCormack","Adventure, Sci-Fi",5.0
+423,Junoon,1992,123,Mahesh Bhatt,"Rahul Roy, Pooja Bhatt, Avinash Wadhawan","Drama, Horror, Musical",5.6
+424,Singaaravelan,1992,151,R.V. Udhaya Kumar,"Kamal Haasan, Khushbu Sundar, Goundamani",Comedy,7.2
+425,Shooting Elizabeth,1992,91,Baz Taylor,"Jeff Goldblum, Mimi Rogers, Juan Echanove","Comedy, Thriller",5.2
+426,Final Impact,1992,99,"Joseph Merhi, Stephen Smoke","Lorenzo Lamas, Kathleen Kinmont, Michael Worth","Action, Drama",4.6
+427,Operation Scorpio,1992,99,David Lai,"Ka-Lok Chin, Chia-Liang Liu, Won Jin","Action, Comedy",6.9
+428,"Dear Emma, Sweet Böbe",1992,90,István Szabó,"Johanna ter Steege, Enikö Börcsök, Péter Andorai","Drama, Romance",7.1
+429,Life According to Agfa,1992,100,Assi Dayan,"Gila Almagor, Akram Tillawi, Smadar Kilchinsky",Drama,7.2
+430,Céline,1992,88,Jean-Claude Brisseau,"Isabelle Pasco, María Luisa García, Danièle Lebrun",Drama,7.0
+431,Nishchaiy,1992,146,"Jaidev Chakraborty, Esmayeel Shroff","Vinod Khanna, Salman Khan, Karisma Kapoor","Action, Drama, Romance",4.4
+432,Being at Home with Claude,1992,85,Jean Beaudin,"Roy Dupuis, Jacques Godin, Jean-François Pichette","Crime, Drama, Romance",7.0
+433,Le zèbre,1992,95,Jean Poiret,"Thierry Lhermitte, Caroline Cellier, Christian Pereira","Comedy, Romance",5.8
+434,Le souper,1992,90,Édouard Molinaro,"Michel Piccoli, Claude Brasseur, Claude Rich","Drama, History",7.4
+435,Deedar,1992,130,Pramod Chakravorty,"Akshay Kumar, Karisma Kapoor, Laxmikant Berde","Drama, Romance",4.0
+436,Khel,1992,152,Rakesh Roshan,"Aparajita, Prem Chopra, Madhuri Dixit","Comedy, Drama, Romance",6.2
+437,Kamaladalam,1992,154,Sibi Malayil,"Mohanlal, Parvathi, Monisha","Drama, Musical",8.0
+438,Ha ett underbart liv,1992,89,Ulf Malmros,"Per Löfberg, Lina Perned, Kjell Bergqvist","Comedy, Drama, Romance",5.6
+439,Gharana Mogudu,1992,149,K. Raghavendra Rao,"Chiranjeevi, Nagma, Raogopalrao","Action, Comedy, Drama",7.5
+440,Hold Me Thrill Me Kiss Me,1992,92,Joel Hershman,"Max Parrish, Adrienne Shelly, Sean Young",Comedy,5.9
+441,The Turn of the Screw,1992,95,Rusty Lemorande,"Patsy Kensit, Stéphane Audran, Julian Sands","Drama, Horror, Thriller",5.4
+442,The Lady,1992,115,Dariush Mehrjui,"Bita Farahi, Fathali Oveisi, Sima Tirandaz",Drama,6.8
+443,Violent Shit II,1992,82,Andreas Schnaas,"Anke Prothmann, Andreas Schnaas, Claudia von Bihl",Horror,3.8
+444,The Butterfly Hunt,1992,115,Otar Iosseliani,"Narda Blanchet, Pierette Pompom Bailhache, Aleksandr Cherkasov","Comedy, Drama",7.0
+445,"Please, Ladies, Don't Cry",1992,88,"Stavros Tsiolis, Hristos Vakalopoulos","Argyris Bakirtzis, Dimitris Vlahos, Dora Masklavanou","Comedy, Drama",7.1
+446,The Return of Casanova,1992,93,Edouard Niermans,"Alain Delon, Fabrice Luchini, Elsa Lunghini","Comedy, Drama, Romance",5.8
+447,Le bal des casse-pieds,1992,99,Yves Robert,"Jean Rochefort, Miou-Miou, Jean Carmet",Comedy,5.4
+448,Afghan Breakdown,1992,140,Vladimir Bortko,"Michele Placido, Tatyana Dogileva, Mikhail Zhigalov",War,7.0
+449,Ironheart,1992,92,Robert Clouse,"Britton K. Lee, Bolo Yeung, Richard Norton","Action, Crime, Drama",3.4
+450,Frozen Assets,1992,96,George Miller,"Shelley Long, Corbin Bernsen, Larry Miller",Comedy,3.3
+451,Wishman,1992,90,Mike Marvin,"Paul Le Mat, Geoffrey Lewis, Paul Gleason","Comedy, Fantasy",2.3
+452,"Oh, What a Night",1992,93,Eric Till,"Corey Haim, Barbara Williams, Keir Dullea",Comedy,5.8
+453,Mad at the Moon,1992,98,Martin Donovan,"Mary Stuart Masterson, Hart Bochner, Stephen Blake","Horror, Romance, Western",4.7
+454,Blinky Bill: The Mischievous Koala,1992,97,Yoram Gross,"Robyn Moore, Keith Scott, Ross Higgins","Animation, Adventure, Family",6.2
+455,Leon the Pig Farmer,1992,98,"Vadim Jean, Gary Sinyor","Mark Frankel, Janet Suzman, Brian Glover","Comedy, Crime",5.7
+456,The Guard from Underground,1992,96,Kiyoshi Kurosawa,"Makiko Kuno, Yutaka Matsushige, Hatsunori Hasegawa","Crime, Drama, Horror",5.8
+457,Stranger in the House,1992,104,Georges Lautner,"Jean-Paul Belmondo, Cristiana Reali, Sandrine Kiberlain","Crime, Drama",6.1
+458,Flight of the Innocent,1992,105,Carlo Carlei,"Manuel Colao, Federico Pacifici, Sal Borgese","Adventure, Crime, Drama",6.9
+459,Dust of Angels,1992,110,Hsiao-Ming Hsu,"Shih Chang, Sung-Young Chen, Jack Kao","Action, Crime, Drama",7.3
+460,Crush,1992,97,Alison Maclean,"Marcia Gay Harden, Donogh Rees, Caitlin Bossley",Drama,6.0
+461,Veturimiehet heiluttaa,1992,86,Kari Paljakka,"Santeri Kinnunen, Samuli Edelmann, Liisa Mustonen",Drama,6.4
+462,Hurricane Smith,1992,86,Colin Budds,"Carl Weathers, Jürgen Prochnow, Cassandra Delaney","Action, Drama",4.4
+463,The Moon Is... The Sun's Dream,1992,103,Park Chan-wook,"Seung-hwan Song, Seung-Chul Lee, Bang Eun-hee","Crime, Romance, Thriller",4.9
+464,Just Like a Woman,1992,105,Christopher Monger,"Julie Walters, Adrian Pasdar, Paul Freeman","Comedy, Drama, Romance",6.1
+465,Second Glance,1992,50,Rich Christiano,"David A.R. White, Blaine Pickett, Lance Zitron","Drama, Family",3.8
+466,Das war der wilde Osten,1992,100,"Wolfgang Büld, Reinhard Klooss","Wolfgang Stumph, Marie Gruber, Claudia Schmutzler",Comedy,4.6
+467,Vääpeli Körmy ja etelän hetelmät,1992,104,Ere Kokkonen,"Heikki Kinnunen, Kalevi Kahra, Pentti Siimes",Comedy,4.6
+468,Yalgaar,1992,192,Feroz Khan,"Feroz Khan, Sanjay Dutt, Kabir Bedi","Action, Drama, Thriller",5.5
+469,Rock Hudson's Home Movies,1992,63,Mark Rappaport,"Eric Farr, Lauren Bacall, Cyd Charisse","Documentary, Biography",6.0
+470,The Turning,1992,91,L.A. Puopolo,"Karen Allen, Raymond J. Barry, Michael Dolan",Drama,4.3
+471,Luna Park,1992,111,Pavel Lungin,"Oleg Borisov, Andrei Gutin, Natalya Egorova",Drama,6.2
+472,Dance Macabre,1992,97,Greydon Clark,"Robert Englund, Michelle Zeitlin, Marianna Moen","Crime, Horror, Thriller",4.0
+473,Back in the U.S.S.R.,1992,87,Deran Sarafian,"Frank Whaley, Natalya Negoda, Roman Polanski","Crime, Drama, Thriller",4.9
+474,Soorya Manasam,1992,113,Viji Thampi,"Mammootty, Raghuvaran, Siddique",Drama,7.6
+475,Infelici e contenti,1992,101,Neri Parenti,"Renato Pozzetto, Ezio Greggio, Marina Suma",Comedy,5.7
+476,Terror 2000 - Intensivstation Deutschland,1992,79,Christoph Schlingensief,"Margit Carstensen, Peter Kern, Susanne Bredehöft","Comedy, Horror",5.8
+477,Bikini Summer II,1992,85,Jeff Conaway,"Jessica Hahn, Maureen Flaherty, Melinda Armstrong",Comedy,3.3
+478,Cilveka berns,1992,98,Janis Streics,"Romualds Ancans, Martins Dancausks, Signe Dundure","Comedy, Drama, Fantasy",8.0
+479,Pain of Love,1992,115,Nils Malmros,"Tanja Skov, Martin Berg, Marianne Pedersen",Drama,7.0
+480,"Makinavaja, el último choriso",1992,105,Carlos Suárez,"Andrés Pajares, Jesús Bonilla, Mario Pardo",Comedy,5.7
+481,Out for Blood,1992,90,Richard W. Munchkin,"Don Wilson, Shari Shattuck, Michael DeLano",Action,4.7
+482,Dreaming About You,1992,90,Marisa Sistach,"Martín Altomaro, Leticia Perdigón, Socorro Bonilla","Comedy, Romance",5.8
+483,Casino Tycoon,1992,133,Jing Wong,"Andy Lau, Chingmy Yau, Alex Man","Action, Crime, Drama",5.9
+484,Mirror Images,1992,93,Gregory Dark,"Delia Sheppard, Jeff Conaway, Richard Arbolino","Drama, Thriller",4.2
+485,To Sleep with a Vampire,1992,81,Adam Friedman,"Scott Valentine, Charlie Spradling, Richard Zobel","Drama, Horror, Romance",5.1
+486,Fatal Instinct,1992,95,John Dirlam,"Michael Madsen, Laura Johnson, Antony Hamilton",Thriller,4.1
+487,Chain of Desire,1992,107,Temístocles López,"Linda Fiorentino, Elias Koteas, Angel Aviles","Drama, Romance",4.8
+488,Zipperface,1992,90,Mansour Pourmand,"Dona Adams, Jonathan Mandell, David Clover","Thriller, Horror, Mystery",3.3
+489,Swathi Kiranam,1992,130,K. Viswanath,"Manjunath Nayaker, Radhika Sarathkumar, Mammootty","Drama, Musical",8.2
+490,Alan & Naomi,1992,96,Sterling Van Wagenen,"Lukas Haas, Vanessa Zaoui, Michael Gross","Drama, Family",6.7
+491,The Little Prince Said,1992,105,Christine Pascal,"Richard Berry, Anémone, Marie Kleiber",Drama,6.9
+492,Star Time,1992,85,Alexander Cassini,"John P. Ryan, Michael St. Gerard, Maureen Teefy","Crime, Horror, Mystery",5.8
+493,Aapathbandavudu,1992,173,K. Viswanath,"Chiranjeevi, Jandhyala, Meenakshi Sheshadri","Drama, Musical",7.9
+494,Handsome Siblings,1992,102,Eric Tsang,"Andy Lau, Brigitte Lin, Sharla Cheung","Action, Comedy, Romance",5.8
+495,Gongofer,1992,98,Bakhyt Kilibayev,"Viktor Stepanov, Ivan Martynov, Yekaterina Kmit","Comedy, Horror, Mystery",6.1
+496,Cazibe Hanim'in Gündüz Düsleri,1992,105,Irfan Tözüm,"Hale Soygazi, Ugur Polat, Macit Koper",Drama,6.1
+497,Talking Head,1992,105,Mamoru Oshii,"Shigeru Chiba, Tomoko Ishimura, Fumihiko Tachiki","Drama, Mystery, Thriller",6.8
+498,El bulto,1992,114,Gabriel Retes,"Gabriel Retes, Héctor Bonilla, Lourdes Elizarrarás","Comedy, Drama",7.0
+499,Die Antigone des Sophokles nach der Hölderlinschen Übertragung für die Bühne bearbeitet von Brecht 1948 (Suhrkamp Verlag),1992,100,"Danièle Huillet, Jean-Marie Straub","Astrid Ofner, Ursula Ofner, Hans Diehl",Drama,6.6
+500,They Bite,1992,98,Brett Piper,"Donna Frotscher, Nick Baldasare, Christina Veronica","Comedy, Horror, Sci-Fi",4.6
+501,Hedd Wyn,1992,123,Paul Turner,"Huw Garmon, Catrin Fychan, Ceri Cunnington","Drama, Romance, War",7.0
+502,Mobile Suit Gundam 0083: The Afterglow of Zeon,1992,120,"Kazuki Akane, Takashi Imanishi, Atsuko Kase","Yôsuke Akimoto, Shin Aomori, Kae Araki","Animation, Action, Sci-Fi",7.2
+503,The Swordsman,1992,92,Michael Kennedy,"Lorenzo Lamas, Claire Stansfield, Michael Champion","Action, Crime, Drama",3.7
+504,Dance with Death,1992,90,Charles Philip Moore,"Maxwell Caulfield, Barbara Alyn Woods, Martin Mull",Thriller,4.6
+505,92 Legendary La Rose Noire,1992,100,Jeffrey Lau,"Maggie Siu, Tony Ka Fai Leung, Wan-Si Wong","Action, Comedy, Musical",6.5
+506,Min store tjocke far,1992,102,Kjell-Åke Andersson,"Nick Börjlind, Rolf Lassgård, Ann Petrén",Drama,5.4
+507,Frogtown II,1992,90,Donald G. Jackson,"Robert Z'Dar, Denice Duff, Kelsey","Sci-Fi, Action",3.3
+508,Anni 90,1992,95,Enrico Oldoini,"Christian De Sica, Massimo Boldi, Ezio Greggio",Comedy,4.6
+509,Requiem for a Handsome Bastard,1992,93,Robert Morin,"Gildor Roy, Jean-Guy Bouchard, Brigitte Paquette","Crime, Drama",7.4
+510,Secret Love in Peach Blossom Land,1992,107,Stan Lai,"Brigitte Lin, Shih-Chieh King, Pao-Ming Ku","Comedy, Drama, History",7.6
+511,Anne of Green Gables: Road to Green Gables,1992,100,Isao Takahata,"Eiko Yamada, Fumie Kitahara, Ryûji Saikachi","Animation, Drama, Family",7.2
+512,Ice Cream in Gleam,1992,120,Khairy Beshara,"Ezzat Abu Ouf, Ashraf Abdel Baky, Umar Bulinoo","Musical, Romance",6.1
+513,The Silencer,1992,92,Amy Goldstein,"Lynette Walden, Chris Mulkey, Paul Ganus","Action, Crime, Thriller",4.0
+514,The Prodigal Son,1992,97,Veikko Aaltonen,"Hannu Kivioja, Esko Salminen, Leea Klemola","Drama, Thriller",6.9
+515,Delta Heat,1992,91,Michael Fischa,"Anthony Edwards, Lance Henriksen, Betsy Russell","Action, Drama",5.1
+516,Aclà,1992,86,Aurelio Grimaldi,"Francesco Cusimano, Tony Sperandeo, Luigi Maria Burruano",Drama,7.1
+517,Aswang,1992,125,"Peque Gallaga, Lore Reyes","Alma Moreno, Manilyn Reynes, Ice Seguerra",Horror,6.2
+518,Hill of No Return,1992,165,Toon Wang,"Jen Chang-bin, Xianmei Chen, Pin-Yuan Huang","Crime, Drama, History",8.1
+519,Spider,1992,98,Vasili Mass,"Aurelija Anuzhite, Liubomiras Laucevicius, Algirdas Paulavicius","Drama, Horror",6.6
+520,Velika frka,1992,92,Milan Jelic,"Dragan Nikolic, Radmila Zivkovic, Olivera Markovic",Comedy,6.2
+521,Sweetheart,1992,107,Michel Deville,"Patrick Bruel, Jacques Dutronc, Mathilda May","Comedy, Crime, Drama",5.9
+522,Legend of the Roller Blade Seven,1992,90,Donald G. Jackson,"Scott Shaw, Frank Stallone, Karen Black","Action, Sci-Fi",2.0
+523,Guelwaar,1992,115,Ousmane Sembene,"Abou Camara, Marie Augustine Diatta, Yama Diedhiou",Drama,7.3
+524,Color Adjustment,1992,86,Marlon Riggs,"Ruby Dee, Steven Bochco, Diahann Carroll","Documentary, History",7.4
+525,Deadly Bet,1992,92,Richard W. Munchkin,"Jeff Wincott, Steven Vincent Leigh, Charlene Tilton","Action, Crime, Drama",4.9
+526,Shake Rattle & Roll IV,1992,113,"Peque Gallaga, Lore Reyes","Edu Manzano, Manilyn Reynes, Aljon Jimenez","Comedy, Horror",6.5
+527,Le grand pardon II,1992,127,Alexandre Arcady,"Roger Hanin, Richard Berry, Gérard Darmon",Crime,4.4
+528,Tahalka,1992,168,Anil Sharma,"Dharmendra, Naseeruddin Shah, Mukesh Khanna","Action, Adventure, Thriller",5.6
+529,Maximum Force,1992,90,Joseph Merhi,"Sam J. Jones, Sherrie Rose, Jason Lively","Action, Crime, Drama",4.5
+530,Death of a Neapolitan Mathematician,1992,108,Mario Martone,"Carlo Cecchi, Anna Bonaiuto, Renato Carpentieri","Biography, Drama",6.7
+531,Love After Love,1992,104,Diane Kurys,"Isabelle Huppert, Bernard Giraudeau, Hippolyte Girardot","Comedy, Drama, Romance",6.0
+532,The Railway Station Man,1992,96,Michael Whyte,"Julie Christie, Donald Sutherland, John Lynch","Drama, Romance",6.0
+533,Requiem for a Maiden,1992,99,Filip Renc,"Anna Geislerová, Barbora Hrzánová, Sona Valentová","Drama, Thriller",7.2
+534,Desperate Remedies,1992,93,"Stewart Main, Peter Wells","Jennifer Ward-Lealand, Kevin Smith, Lisa Chappell","Comedy, Drama, Music",6.5
+535,Belovy,1992,60,Victor Kossakovsky,"Anna Fyodorovna Belova, Mikhail Fyodorovich Belov, Vasiliy Fyodorovich Belov",Documentary,7.4
+536,Titanica,1992,96,Stephen Low,"Leonard Nimoy, Steven Biel, Steve Blasco","Documentary, History",6.4
+537,Illicit Behavior,1992,101,Worth Keeter,"Robert Davi, Joan Severance, Jack Scalia","Action, Thriller",5.0
+538,La marrana,1992,100,José Luis Cuerda,"Alfredo Landa, Antonio Resines, Manuel Alexandre","Comedy, History",6.0
+539,Baduk,1992,89,Majid Majidi,"Mohammad Kasebi, Mehrollah Mazarehi, Allahnour Barahouei","Drama, Family",6.6
+540,I Don't Buy Kisses Anymore,1992,110,Robert Marcarelli,"Jason Alexander, Nia Peeples, Lainie Kazan","Comedy, Romance",5.8
+541,Autumn Moon,1992,108,Clara Law,"Masatoshi Nagase, Pei-Hui Li, Siu Wan Choi","Comedy, Drama",7.2
+542,Inside Monkey Zetterland,1992,93,Jefery Levy,"Steve Antin, Katherine Helmond, Patricia Arquette",Comedy,4.9
+543,Dharavi,1992,120,Sudhir Mishra,"Somesh Agarwal, Shabana Azmi, Pramod Bala","Crime, Drama",7.3
+544,Muskurahat,1992,135,Priyadarshan,"Jay Mehta, Revathi, Annu Kapoor","Comedy, Drama",7.3
+545,Tribulation 99: Alien Anomalies Under America,1992,48,Craig Baldwin,"Maurice Bishop, Jimmy Carter, Fidel Castro","Comedy, Sci-Fi",6.2
+546,The Days of Being Dumb,1992,91,Blackie Shou-Liang Ko,"Tony Leung Chiu-wai, Jacky Cheung, Eric Tsang","Action, Comedy, Crime",6.6
+547,Giftige løgner,1992,86,Martin Asphaug,"Håvard Bakke, Tommy Karlsen, Helle Beck Figenschow","Action, Crime, Drama",5.3
+548,Black Ice,1992,95,Neill Fearnley,"Lee J. Campbell, Victor Cowie, Michael Ironside","Crime, Thriller",4.7
+549,In the Land of the Deaf,1992,99,Nicolas Philibert,"Jean-Claude Poulain, Abou Bakar, Anh Tuan",Documentary,7.6
+550,Prison Planet,1992,90,Armand Gazarian,"James Phillips, Michael M. Foley, Dtduda1","Action, Sci-Fi",2.7
+551,Angaar,1992,176,Shashilal K. Nair,"Jackie Shroff, Dimple Kapadia, Nana Patekar","Action, Crime, Drama",6.7
+552,Turtle Beach,1992,90,Stephen Wallace,"Greta Scacchi, Joan Chen, Jack Thompson","Drama, Thriller",4.7
+553,Night Rhythms,1992,99,Gregory Dark,"Martin Hewitt, David Carradine, Sam J. Jones","Crime, Mystery, Thriller",5.0
+554,Black Harvest,1992,90,"Robin Anderson, Bob Connolly",Joe Leahy,Documentary,7.7
+555,The Jar,1992,82,Ebrahim Forouzesh,"Behzad Khodaveisi, Fatemeh Azrah, Abbas Khavaninzadeh","Drama, Family",7.2
+556,Advaitham,1992,181,Priyadarshan,"Mohanlal, Jayaram, Revathi","Action, Crime, Drama",7.3
+557,Raiders of the Sun,1992,80,Cirio H. Santiago,"Richard Norton, Brigitta Stenberg, Rick Dean","Action, Adventure, Sci-Fi",4.1
+558,Narges,1992,95,Rakhshan Banietemad,"Farimah Farjami, Abolfazl Poorarab, Atefeh Razavi",Drama,6.6
+559,Little Sister,1992,94,Jimmy Zeilinger,"Jonathan Silverman, Alyssa Milano, George Newbern",Comedy,5.5
+560,Dangerous Seductress,1992,95,H. Tjut Djalil,"Kristin Anin, Tonya Lawson, Joseph Cassano","Action, Fantasy, Horror",4.9
+561,Dream Deceivers,1992,60,David Van Taylor,"K.K. Downing, Suellen Fulstone, Erich Granzen","Documentary, Music",7.2
+562,The Last Dive,1992,88,João César Monteiro,"Fabienne Babe, Canto e Castro, Francesca Prandi",Drama,7.0
+563,Casino Tycoon II,1992,114,Jing Wong,"Andy Lau, Chingmy Yau, Michelle Reis","Comedy, Crime, Drama",5.6
+564,Mr. Vampire 1992,1992,88,Ricky Lau,"Ching-Ying Lam, Ricky Hui, Siu-Ho Chin",Fantasy,6.3
+565,Unfaithful Wife: Shameful Torture,1992,64,Hisayasu Satô,"Kiyomi Itô, Momori Asano, Kyôko Nakamura","Drama, Thriller",5.5
+566,Unbecoming Age,1992,92,"Alfredo Ringel, Deborah Ringel","Diane Louise Salinger, John Calvin, Colleen Camp",Comedy,4.2
+567,The Blue Hour,1992,87,Marcel Gisler,"Andreas Herder, Dina Leipzig, Cyrille Rey-Coquais",Drama,6.1
+568,"Mind, Body & Soul",1992,93,Rick Sloane,"Ginger Lynn, Wings Hauser, John Henry Richardson","Horror, Thriller",3.5
+569,Düs Gezginleri,1992,104,Atif Yilmaz,"Meral Oguz, Lale Mansur, Deniz Türkali",Drama,6.4
+570,My Grandpa Is a Vampire,1992,95,David Blyth,"Al Lewis, Justin Gocke, Milan Borich","Comedy, Drama, Family",4.7
+571,Eddie Presley,1992,106,Jeff Burr,"Duane Whitaker, Robert Lowden, Rick Askew","Comedy, Drama",5.4
+572,Snøvsen,1992,89,Jørgen Vestergaard,"Ina-Miriam Rosenbaum, Jess Ingerslev, Henrik Koefoed","Family, Fantasy",5.4
+573,"Encore, Once More Encore!",1992,96,Pyotr Todorovskiy,"Valentin Gaft, Irina Rozanova, Evgeniy Mironov","Comedy, Drama, Romance",6.9
+574,Old Rascal,1992,100,Gérard Jourd'hui,"Michel Serrault, Anna Galiena, Pierre Richard","Comedy, Crime, Thriller",6.1
+575,The Stone,1992,83,Aleksandr Sokurov,"Leonid Mozgovoy, Pyotr Aleksandrov, Vadim Semyonov","Drama, Fantasy",6.9
+576,Black Cat 2,1992,90,Stephen Shin,"Jade Leung, Robin Shou, Zoltan Buday","Action, Crime, Thriller",5.2
+577,Split Infinity,1992,90,Stan Ferguson,"Melora Slover, Marcia Dangerfield, Devin Healey","Drama, Family, Fantasy",6.4
+578,The Triple Cross,1992,108,Kinji Fukasaku,"Ken'ichi Hagiwara, Kazuya Kimura, Keiko Oginome","Drama, Action, Crime",6.5
+579,Forbidden Love: The Unashamed Stories of Lesbian Lives,1992,85,"Lynne Fernie, Aerlyn Weissman","Keely Moll, Stephanie Ozard, Ann Bannon",Documentary,7.3
+580,Samrat Ashok,1992,160,N.T. Rama Rao,"N.T. Rama Rao, Mohan Babu, Bhanumathi Ramakrishna","Action, Drama, History",8.7
+581,Rain Without Thunder,1992,85,Gary O. Bennett,"Betty Buckley, Carolyn McCormick, Iona Morris","Drama, Sci-Fi",5.0
+582,Das Fest des Huhnes,1992,55,Walter Wippersberg,"Frank Oladeinde, El Hadji Malick Cisse, Klaus Fenzl",Comedy,7.3
+583,Pierscionek z orlem w koronie,1992,104,Andrzej Wajda,"Rafal Królikowski, Adrianna Biedrzynska, Cezary Pazura","Drama, War",6.4
+584,Lammas all paremas nurgas,1992,85,Lembit Ulfsak,"Tõnu Kark, Margus Alver, Kaur Sinissaar","Comedy, Family",7.6
+585,Erotic Ghost Story III,1992,94,Kai-Ming Lai,"Pauline Chan, Tak-Bun Wong, Shing Fui-On","Fantasy, Horror, Thriller",5.3
+586,Barjo,1992,85,Jérôme Boivin,"Richard Bohringer, Anne Brochet, Hippolyte Girardot","Comedy, Drama, Romance",5.6
+587,Painted Skin,1992,94,King Hu,"Li-hua Chang, Adam Cheng, Ting Chou",Horror,5.5
+588,Herr Ober!,1992,93,"Gerhard Polt, Fred Unger","Gerhard Polt, Christiane Hörbiger, Ulrike Kriener",Comedy,6.2
+589,Kairat,1992,72,Darezhan Omirbayev,"Talgat Assetov, Samat Beysenbin, Baljan Bisembekova",Drama,7.0
+590,Ostinato destino,1992,93,Gianfranco Albano,"Monica Bellucci, Alessandro Gassmann, Angela Finocchiaro",Comedy,4.7
+591,Bikini Beach Race,1992,105,Eric Louzil,"Dana Plato, Xavier Barquet, Nick Santa Maria","Adventure, Comedy, Romance",3.3
+592,Komediya strogogo rezhima,1992,78,"Mikhail Grigorev, Vladimir Studennikov","Viktor Sukhorukov, Ivan Krivoruchko, Nadezhda Zharikova",Comedy,7.0
+593,Versailles Rive-Gauche,1992,45,Bruno Podalydès,"Denis Podalydès, Isabelle Candelier, Philippe Uchan","Comedy, Romance",6.8
+594,Pink Sauce,1992,86,Manuel Gómez Pereira,"Verónica Forqué, Maribel Verdú, Juanjo Puigcorbé",Comedy,5.0
+595,To Protect and Serve,1992,92,Eric Weston,"C. Thomas Howell, Lezlie Deane, Richard Romanus","Action, Thriller",4.8
+596,The Touch,1992,92,Krzysztof Zanussi,"Max von Sydow, Lothaire Bluteau, Sarah Miles","Drama, Music",6.3
+597,Extermineitors 4: Como Hermanos Gemelos,1992,90,Carlos Galettini,"Guillermo Francella, Rand McClain, Javier Belgeri","Action, Adventure, Comedy",4.8
+598,Russian Pizza Blues,1992,93,"Steen Rasmussen, Michael Wikke","Michael Wikke, Steen Rasmussen, Sergey Gazarov",Comedy,6.9
+599,Killer Image,1992,94,David Winning,"M. Emmet Walsh, John Pyper-Ferguson, Michael Ironside",Thriller,4.5
+600,Boys,1992,90,Jan Verheyen,"Michael Pas, Tom Van Bauwel, Hilde Heijnen",Comedy,5.2
+601,The Need,1992,82,Alireza Davoudnejad,"Mohammad Reza Davoudnejad, Tarahom Fathi, Shojaoddin Habibian",Drama,7.0
+602,Chanti,1992,139,Ravi Raja Pinisetty,"Venkatesh Daggubati, Meena, Brahmanandam","Drama, Romance",6.9
+603,Malootty,1992,106,Bharathan,"Jayaram, Urvashi, Shamili","Comedy, Drama",7.2
+604,Johnnie Walker,1992,127,Jayaraj,"Mammootty, Ranjitha, Kamal Gaur",Drama,6.5
+605,Ein Fall für TKKG - Drachenauge,1992,84,Ulrich König,"Tomi Renjak, Max Sittel, Steffen Raddatz","Action, Adventure, Family",5.1
+606,In the Heat of Passion,1992,102,Rodman Flender,"Sally Kirkland, Andre Rosey Brown, Carlos Carrasco",Thriller,5.1
+607,Lakki... The Boy Who Could Fly,1992,102,Svend Wam,"Anders Borchgrevink, Nina Gunke, Bjørn Skagestad",Drama,5.2
+608,Bloodlust,1992,85,"Jon Hewitt, Richard Wolstencroft","Jane Stuart Wallace, Kelly Chapman, Robert James O'Neill","Action, Horror",3.2
+609,The Room,1992,92,Sion Sono,"Akaji Maro, Yoriko Dôguchi, Shirô Sano","Drama, Mystery, Thriller",6.1
+610,Prem Deewane,1992,160,Sachin Pilgaonkar,"Pooja Bhatt, Bharat Bhushan, Kamal Chopra","Action, Comedy, Drama",4.9
+611,American Streetfighter,1992,89,Steven L. Austin,"Gary Daniels, Ian Jacklin, Gerald Okamura","Action, Thriller",3.7
+612,Aayushkalam,1992,132,Kamal,"Mukesh, Jayaram, Sreenivasan","Comedy, Mystery, Thriller",6.9
+613,Cageman,1992,145,Chi Leung 'Jacob' Cheung,"Michael Ming-Yang Lee, Roy Chiao, Kai-Chi Liu",Drama,7.8
+614,Pandian,1992,149,S.P. Muthuraman,"Rajinikanth, Khushbu Sundar, Archana Puran Singh","Action, Crime",5.1
+615,Forbidden Homework,1992,80,Jaime Humberto Hermosillo,"María Rojo, Esteban Soberanes, Julián Pastor","Comedy, Drama",5.2
+616,Lethal Ninja,1992,97,Yossi Wein,"Ross Kettle, Norman Coombes, David Webb","Action, Drama",3.4
+617,Balwaan,1992,142,Deepak Anand,"Suniel Shetty, Divya Bharti, Danny Denzongpa","Action, Adventure",4.7
+618,Venice/Venice,1992,108,Henry Jaglom,"Nelly Alard, Henry Jaglom, Melissa Leo","Drama, Romance",6.2
+619,Gô-hime,1992,142,Hiroshi Teshigahara,"Rie Miyazawa, Tatsuya Nakadai, Toshiya Nagasawa","Drama, History",6.8
+620,I Don't Just Want You to Love Me: The filmmaker Rainer Werner Fassbinder,1992,96,Hans Günther Pflaum,"Harry Baer, Michael Ballhaus, Karlheinz Braun","Documentary, Biography",7.2
+621,Intimate Obsession,1992,91,Lawrence Lanoff,"Jodie Fisher, James Quattrochi, Richard Abbott","Romance, Thriller",4.0
+622,Gypsy Eyes,1992,87,Vinci Vogue Anzlovar,"Jim Metzler, Claire Forlani, George DiCenzo","Action, Drama, Romance",4.5
+623,Hostage,1992,98,Robert Young,"Sam Neill, Talisa Soto, James Fox","Action, Drama, Thriller",4.8
+624,Fly by Night,1992,93,Steve Gomer,"Jeffrey D. Sams, Ron Brice, David Adami","Drama, Music",5.4
+625,Sognando la California,1992,115,Carlo Vanzina,"Massimo Boldi, Nino Frassica, Maurizio Ferrini",Comedy,4.8
+626,Legend of the Galactic Heroes Gaiden: Golden Wings,1992,60,"Keizô Shimizu, Yoshihiro Ueda","Hikaru Midorikawa, Takehito Koyasu, Hiromi Murata","Animation, Action, Drama",6.3
+627,Body Waves,1992,80,P.J. Pesce,"Bill Calvert, Leah Lail, Larry Linville",Comedy,3.5
+628,Desert Kickboxer,1992,86,Isaac Florentine,"John Newton, Paul L. Smith, Judie Aronson","Action, Drama, Western",4.2
+629,Ghost Punting,1992,94,"Sammo Kam-Bo Hung, Ricky Lau, Eric Tsang","Sammo Kam-Bo Hung, Eric Tsang, Stanley Sui-Fan Fung","Action, Comedy, Horror",5.4
+630,Dil Ka Kya Kasoor,1992,157,Lawrence D'Souza,"Prithvi Vazir, Divya Bharti, Sanam","Musical, Romance",5.7
+631,Our Twisted Hero,1992,119,Jong-won Park,"Choi Min-sik, Hong Kyoung-in, Shin Goo",Drama,7.5
+632,Iki Kadin,1992,132,Yavuz Özkan,"Haluk Bilginer, Zuhal Olcay, Serap Aksoy",Drama,6.3
+633,Bride of Killer Nerd,1992,75,"Mark Steven Bosko, Wayne Alan Harold","Toby Radloff, Michael Anderson, Marc Andreyko","Comedy, Horror",4.2
+634,Soft Top Hard Shoulder,1992,91,Stefan Schwartz,"Peter Capaldi, Frances Barber, Catherine Russell",Drama,6.1
+635,Street Crimes,1992,94,Stephen Smoke,"Dennis Farina, Michael Worth, Patricia Zehentmayr","Action, Drama",4.9
+636,Twogether,1992,120,Andrew Chiaramonte,"Nick Cassavetes, Brenda Bakke, Jeremy Piven","Comedy, Drama, Romance",4.6
+637,Samba Traoré,1992,85,Idrissa Ouedraogo,"Bakary Sangaré, Mariam Kaba, Abdoulaye Komboudri",Drama,6.9
+638,What's Up?,1992,110,Tahmineh Milani,"Mahaya Petrossian, Danial Hakimi, Jahangir Almasi","Comedy, Sci-Fi",5.7
+639,Immaculate Conception,1992,120,Jamil Dehlavi,"James Wilby, Melissa Leo, Shabana Azmi","Drama, Romance",6.2
+640,Szwadron,1992,100,Juliusz Machulski,"Aleksander Bednarz, Grzegorz Damiecki, Bernard-Pierre Donnadieu","Drama, History, Romance",6.2
+641,Roots of Evil,1992,95,Gary Graver,"Alex Cord, Delia Sheppard, Charles Dierkop","Crime, Drama",3.9
+642,Amoureuse,1992,99,Jacques Doillon,"Charlotte Gainsbourg, Yvan Attal, Thomas Langmann","Comedy, Drama, Romance",5.4
+643,Bekhudi,1992,140,Rahul Rawail,"Kamal Sadanah, Kajol, Ajay Mankotia","Action, Crime, Drama",4.3
+644,Det skaldede spøgelse,1992,75,Brita Wielopolska,"Benjamin Rothenborg Vibe, Jannie Faurschou, Søren Østergaard",Drama,5.5
+645,Kill Fee,1992,95,James Becket,"Thomas Ian Griffith, Craig Shugart, David Efron","Action, Drama",5.1
+646,Utz,1992,94,George Sluizer,"Armin Mueller-Stahl, Brenda Fricker, Peter Riegert","Adventure, Drama",6.5
+647,Pickpockets Don't Go to Heaven,1992,94,Abolhassan Davoodi,"Mohammad Ali Dashti, Ateneh Faghih Nasiri, Alireza Khamseh","Comedy, Drama",5.0
+648,Birthplace,1992,47,Pawel Lozinski,Henryk Grynberg,Documentary,8.0
+649,The Legend of Wolf Mountain,1992,91,Craig Clyde,"Bo Hopkins, Robert Z'Dar, David 'Shark' Fralick","Adventure, Family, Western",4.4
+650,Sangeet,1992,144,K. Viswanath,"Madhuri Dixit, Jackie Shroff, Nitish Bharadwaj","Drama, Romance",5.4
+651,Lady Killer,1992,67,Zoran Calic,"Velimir 'Bata' Zivojinovic, Boro Stjepanovic, Nikola-Kole Angelovski","Comedy, Crime",4.5
+652,For Those About to Rock: Monsters in Moscow,1992,84,Wayne Isham,"AC/DC, Phil Anselmo, The Black Crowes","Documentary, Music",8.9
+653,"Happy Birthday, Türke!",1992,109,Doris Dörrie,"Hansa Czypionka, Özay Fecht, Meret Becker","Crime, Thriller",6.4
+654,"Up, Down and Sideways",1992,108,Michael Cacoyannis,"Irene Papas, Stratos George o'Glou, Panos Mihalopoulos",Comedy,5.3
+655,Sofie,1992,146,Liv Ullmann,"Karen-Lise Mynster, Erland Josephson, Ghita Nørby",Drama,6.6
+656,Little White Dove,1992,125,Raúl Ruiz,"Beatriz Lapido, Rodrigo Ureta, Mónica Díaz","Comedy, Drama, Romance",7.0
+657,Play Nice,1992,90,Terri Treas,"Ed O'Ross, Louise Robey, Michael Zand","Horror, Thriller",4.0
+658,The Rocking Horsemen,1992,135,Nobuhiko Ôbayashi,"Ryô Amamiya, Aiko Asano, Tadanobu Asano",Comedy,7.3
+659,Exorcist Master,1992,91,Wu Ma,"Ching-Ying Lam, Wu Ma, Collin Chou","Action, Comedy, Horror",5.8
+660,White Badge,1992,122,Jeong Ji-yeong,"Ahn Sung-ki, Lee Kyoung-young, Shim Hye-jin",War,6.7
+661,Dva kapitana II,1992,70,Sergey Debizhev,"Boris Grebenshchikov, Sergei Kuryokhin, Mikhail Faynshteyn","Documentary, Adventure, Comedy",6.9
+662,Angel Terminators,1992,92,Lieh Wei,"Carrie Ng, Kara Ying Hung Wai, Dick Wei",Action,6.1
+663,Blink of an Eye,1992,93,Bob Misiorowski,"Michael Paré, Janis Lee, Uri Gavriel",Adventure,3.5
+664,Lee Rock III,1992,73,Lawrence Ah-Mon,"Andy Lau, Chingmy Yau, Sharla Cheung","Crime, Drama",6.6
+665,Out of Order,1992,110,Knut Bohwim,"Rolv Wesenlund, Nils Vogt, Kari Simonsen",Comedy,6.8
+666,We're Talkin' Serious Money,1992,91,James Lemmo,"Dennis Farina, Leo Rossi, Fran Drescher","Comedy, Crime",5.4
+667,Fraternity Demon,1992,86,C.B. Rubin,"Trixxie Bowie, Charles Laulette, Deborah Carlin",Comedy,3.4
+668,The Paint Job,1992,90,Michael Taav,"Will Patton, Bebe Neuwirth, Robert Pastorelli","Comedy, Thriller",5.4
+669,Hot Under the Collar,1992,87,Richard Gabai,"Richard Gabai, Melinda Clarke, Rajnish Babakan",Comedy,3.2
+670,Double X: The Name of the Game,1992,97,Shani Grewal,"Norman Wisdom, William Katt, Gemma Craven","Crime, Drama, Thriller",4.1
+671,Angel Terminators II,1992,93,"Lau Chan, Chun-Ku Lu","Sibelle Hu, Moon Lee, Yukari Ôshima","Action, Crime, Thriller",6.6
+672,Parajanov: The Last Spring,1992,60,"Mikhail Vartanov, Sergei Parajanov","Sergei Parajanov, Mikhail Vartanov, Sofiko Chiaureli",Documentary,7.3
+673,Escape from Brothel,1992,97,Lung-Wei Wang,"Alex Fong, Pauline Chan, Billy Chow","Action, Crime, Drama",5.5
+674,Back to the USSR,1992,94,Jari Halonen,"Jorma Tommila, Ulla Koivuranta, Sanna-Maria Salmi","Comedy, Drama",5.6
+675,Galaxy of the Dinosaurs,1992,65,J.R. Bookwalter,"James Black, Christine Morrison, Tom Hoover","Adventure, Sci-Fi",2.0
+676,Aham,1992,119,T. Rajeevnath,"Mohanlal, Suresh Gopi, Nedumudi Venu",Drama,7.0
+677,Moscow Parade,1992,108,Ivan Dykhovichnyy,"Aleksandr Feklistov, Ute Lemper, Evgeniy Sidikhin","Drama, History",6.5
+678,Allari Mogudu,1992,104,K. Raghavendra Rao,"Mohan Babu, Meena, Ramya Krishnan","Drama, Comedy",6.4
+679,Shogun & Little Kitchen,1992,93,Ronny Yu,"Biao Yuen, Leon Lai, Man-Tat Ng","Comedy, Romance",4.8
+680,To Liv(e),1992,102,Evans Chan,"Lindzay Chan, Kin Chung Fung, Ping Ha",Drama,7.6
+681,Day of Despair,1992,75,Manoel de Oliveira,"Teresa Madruga, Mário Barroso, Luís Miguel Cintra","Biography, Drama",6.7
+682,"Saint Tropez, Saint Tropez",1992,104,"Franco Castellano, Giuseppe Moccia","Jerry Calà, Debora Caprioglio, Serena Grandi",Comedy,3.8
+683,Hirer Angti,1992,111,Rituparno Ghosh,"Vasant Choudhury, Gyanesh Mukherjee, Sunil Mukherjee","Drama, Family, Fantasy",7.6
+684,Hit the Dutchman,1992,116,Menahem Golan,"Bruce Nozick, Jack Conley, Sally Kirkland","Crime, Drama",5.5
+685,Center of the Web,1992,92,David A. Prior,"Robert Davi, Charlene Tilton, Ted Prior","Action, Crime, Drama",4.4
+686,Captain Blood: His Odyssey,1992,141,Andrei Prachenko,"Yves Lambrecht, Valérie Jeannet, Leonid Yarmolnik",Adventure,7.0
+687,Child's Play,1992,111,Wolfgang Becker,"Jonas Kipp, Angelika Bartsch, Burghart Klaußner",Drama,7.2
+688,Okoge,1992,120,Takehiro Nakajima,"Misa Shimizu, Takehiro Murata, Takeo Nakahara","Drama, Romance",7.1
+689,Ángel de fuego,1992,95,Dana Rotberg,"Evangelina Sosa, Lilia Aragón, Roberto Sosa",Drama,6.5
+690,Double Threat,1992,93,David A. Prior,"Sally Kirkland, Andrew Stevens, Sherrie Rose",Thriller,4.8
+691,Saviour of the Soul II,1992,92,"David Lai, Corey Yuen","Andy Lau, Rosamund Kwan, Corey Yuen","Comedy, Fantasy, Romance",4.9
+692,The Magic Touch,1992,100,Michael Hui,"Michael Hui, Leon Lai, Kong Fong","Comedy, Crime",6.3
+693,Eyes of the Beholder,1992,89,Lawrence L. Simeone,"Joanna Pacula, Matt McCoy, George Lazenby","Horror, Mystery, Thriller",4.1
+694,A skorpió megeszi az ikreket reggelire,1992,89,Péter Gárdos,"Péter Rudolf, Enikõ Eszenyi, Mari Törőcsik","Comedy, Drama, Romance",7.2
+695,Domnisoara Christina,1992,109,Viorel Sergovici,"Adrian Pintea, Dragos Pîslaru, Irina Petrescu","Horror, Mystery, Thriller",7.3
+696,The Perfect Husband,1992,89,Beda Docampo Feijóo,"Tim Roth, Peter Firth, Ana Belén",Drama,6.0
+697,Menyaly,1992,93,Georgiy Shengeliya,"Vladimir Ilin, Andrey Ponomaryov, Vadim Zakharchenko",Comedy,6.9
+698,Heer Ranjha,1992,159,Harmesh Malhotra,"Anil Kapoor, Sridevi, Anupam Kher","Drama, Romance",5.1
+699,Onna goroshi abura no jigoku,1992,115,Hideo Gosha,"Kanako Higuchi, Miwako Fujitani, Shin'ichi Tsutsumi",Drama,6.5
+700,Feast,1992,87,Mike Tristano,"Chuck Gavoian, Al Troupe, Sharon Mitchell","Horror, Comedy",5.2
+701,An Independent Life,1992,97,Vitali Kanevsky,"Pavel Nazarov, Dinara Drukarova, Toshihiro Vatanabe",Drama,6.5
+702,Soulmates,1992,80,Thunder Levin,"Tristan Rogers, Arabella Holzbog, Tyrone Power Jr.",Horror,3.7
+703,Liar's Edge,1992,97,Ron Oliver,"Nicholas Shields, Shannon Tweed, David Keith","Drama, Thriller",4.4
+704,Blue Black Permanent,1992,86,Margaret Tait,"Celia Imrie, Jack Shepherd, Gerda Stevenson",Drama,6.4
+705,Cheetah on Fire,1992,87,Thomas Yip,"Sharla Cheung, Donnie Yen, Carrie Ng",Action,5.1
+706,Gun & Rose,1992,99,Clarence Fok,"Alan Tang, Andy Lau, Leon Lai","Action, Comedy, Crime",5.9
+707,What a Hero!,1992,96,Benny Chan,"Andy Lau, Maggie Cheung, Anthony Chau-Sang Wong","Action, Comedy",5.1
+708,The Little Punk,1992,74,"Michael Schaack, Greg Tiernan","Rainer Strecker, Ilona Schulz, Reinhard Krökel","Animation, Comedy, Drama",5.4
+709,Music for the Movies: Bernard Herrmann,1992,58,Joshua Waletzky,"Philip Bosco, Elmer Bernstein, Claudine Bouché","Documentary, Biography, Music",7.6
+710,Can It Be Love,1992,90,Peter Maris,"Charles Klausmeyer, Richard Beaumont, Mary Ann Mixon",Comedy,4.4
+711,I Am My Own Woman,1992,91,Rosa von Praunheim,"Charlotte von Mahlsdorf, Jens Taschner, Ichgola Androgyn","Documentary, Biography, Drama",7.3
+712,The Weathering Continent,1992,54,Kôichi Mashimo,"Minami Takayama, Toshihiko Seki, Yûsaku Yara","Animation, Action, Adventure",5.9
+713,Deep Blues,1992,91,Robert Mugge,"Robert Palmer, David A. Stewart, Abraham Schwab","Documentary, Music",7.3
+714,Wallpaper: An Erotic Love Story,1992,85,Júlíus Kemp,"Baltasar Kormákur, Steinn Ármann Magnússon, Ingibjörg Stefánsdóttir","Drama, Romance",5.5
+715,Sargam,1992,141,T. Hariharan,"Vineeth, Manoj K. Jayan, Rambha","Drama, Musical, Romance",7.7
+716,Ayalathe Addeham,1992,141,Rajasenan,"Jayaram, Gautami, Siddique","Comedy, Drama, Family",6.9
+717,The Berlin Conspiracy,1992,80,Terence H. Winkless,"Mary Crosby, Stefan Danailov, Stephen Davies",Action,4.0
+718,Aaj Ka Goonda Raaj,1992,159,Ravi Raja Pinisetty,"Chiranjeevi, Meenakshi Sheshadri, Raj Babbar","Action, Thriller",5.4
+719,Cash on Delivery,1992,95,Terry Kay-Ming Tong,"Simon Yam, Veronica Yip, Sandra Ng","Comedy, Crime, Drama",4.5
+720,Even Hitler Had a Girlfriend,1992,98,Ronnie Cramer,"Andren Scott, Sarah Young, Jean Wolf",Comedy,5.1
+721,Antham,1992,128,Ram Gopal Varma,"Nagarjuna Akkineni, Urmila Matondkar, Danny Denzongpa","Action, Crime, Thriller",6.1
+722,Tharle Nan Maga,1992,109,Upendra,"Anjali, Vaijanath Biradar, Jaggesh",Comedy,8.3
+723,Need vanad armastuskirjad,1992,127,Mati Põldre,"Rain Simmul, Liis Tappo, Ülle Kaljuste","Biography, Drama, Music",7.2
+724,Body Parts,1992,85,"Michael Paul Girard, Jan Marlyn Reesman","Teri Marlow, Richard Monda, Clement von Franckenstein","Comedy, Horror, Thriller",3.9
+725,Frankenstein 2000,1992,93,Joe D'Amato,"Donald O'Brien, Cinzia Monreale, Robin Tazusky",Horror,3.9
+726,Jaan Tere Naam,1992,150,Deepak Balraj Vij,"Ronit Roy, Farheen, Sulabha Deshpande","Drama, Romance",5.7
+727,Hotel de lux,1992,105,Dan Pita,"Valentin Popescu, Stefan Iordache, Irina Petrescu",Drama,6.9
+728,Warsaw: Year 5703,1992,110,Janusz Kijowski,"Lambert Wilson, Hanna Schygulla, Julie Delpy","Drama, Romance, War",6.4
+729,The Clean Machine,1992,90,Jean Beaudry,"Vincent Bolduc, Pierre-Luc Brillant, Delphine Piperni","Adventure, Comedy, Drama",6.4
+730,Sundara Kanda,1992,147,K. Raghavendra Rao,"Venkatesh Daggubati, Aparna, Meena","Comedy, Romance",6.9
+731,Huang Fei Hong xiao zhuan,1992,93,Lik-Chi Lee,"Charine Chan, Siu-Wah Chan, Kuo Hua Chang","Action, Comedy, Crime",5.9
+732,Feed,1992,76,"Kevin Rafferty, James Ridgeway","Jacques Barzaghi, Jerry Brown, Pat Buchanan",Documentary,6.4
+733,Ultraviolet,1992,80,Mark Griffiths,"Esai Morales, Patricia Healy, Stephen Meadows","Action, Thriller",4.9
+734,Cyber Eden,1992,108,Mario Orfini,"Adriano Celentano, Kate Vernon, Salvatore Cascio","Comedy, Sci-Fi",4.4
+735,Al-lail,1992,116,Mohamed Malas,"Sabah Al Jazaery, Fares Helou, Hazar Awad","Drama, History, War",7.6
+736,Cousin Bobby,1992,70,Jonathan Demme,"Robert W. Castle, Jane Castle Moulton, Kate Castle","Documentary, Biography",6.4
+737,Rebecca's Daughters,1992,96,Karl Francis,"Peter O'Toole, Paul Rhys, Joely Richardson",Comedy,6.6
+738,The Strange Tale of Oyuki,1992,116,Kaneto Shindô,"Masahiko Tsugawa, Yuki Sumida, Kazuyo Asari","Biography, Drama",7.0
+739,Primary Motive,1992,91,Daniel Adams,"Judd Nelson, Richard Jordan, Sally Kirkland",Thriller,5.5
+740,Oxygen Starvation,1992,92,Andriy Donchyk,"Pyotr Benyuk, Taras Denisenko, Aleksey Gorbunov","Drama, War",6.8
+741,Double Edge,1992,81,Amos Kollek,"Faye Dunaway, Amos Kollek, Shmuel Shiloh","Drama, Thriller",5.4
+742,Nitrate Kisses,1992,67,Barbara Hammer,"Jerre, Maria, Ruth",Documentary,7.1
+743,Chitemma Mogudu,1992,140,Kodi Ramakrishna,"Mohan Babu, Pooja Bedi, Divya Bharti",Comedy,8.6
+744,Shadow on the Snow,1992,72,Attila Janisch,"Éva Almássy Albert, Zsófia Baji, Miroslaw Baka","Drama, Thriller",6.8
+745,The JFK Assassination: The Jim Garrison Tapes,1992,96,John Barbour,"Jim Garrison, Bill Alford, F. Irvin Dymond",Documentary,8.0
+746,Off Season,1992,95,Daniel Schmid,"Sami Frey, Carlos Devesa, Ingrid Caven","Comedy, Drama",6.5
+747,Blind Vision,1992,92,Shuki Levy,"Joe Banks, Ned Beatty, Lenny von Dohlen",Thriller,4.5
+748,Game Kids,1992,95,Gordon Chan,"Lawrence Cheng, Mark King, Rosamund Kwan","Action, Comedy",5.0
+749,Secrets,1992,92,Michael Pattinson,"Beth Champion, Malcolm Kennard, Dannii Minogue","Drama, Music",5.3
+750,"Now You See It, Now You Don't",1992,97,"Mabel Cheung, Alex Law","Chow Yun-Fat, Do Do Cheng, Teresa Sun-Kwan Mo","Comedy, Drama, Romance",6.3
+751,Chitram Bhalare Vichitram,1992,144,Ramachandra Rao P.N.,"V.K. Naresh, Brahmanandam, Raajivi",Comedy,7.4
+752,Chechu y familia,1992,81,Álvaro Sáenz de Heredia,"Fernando Fernán Gómez, César Lucendo, Neus Asensi",Comedy,4.5
+753,Mere Sajana Saath Nibhana,1992,141,Rajesh Vakil,"Mithun Chakraborty, Juhi Chawla, Shanti Priya","Drama, Musical",4.6
+754,Sapne Saajan Ke,1992,162,Lawrence D'Souza,"Jackie Shroff, Dimple Kapadia, Karisma Kapoor","Drama, Romance",3.8
+755,Me Myself and I,1992,97,Pablo Ferro,"JoBeth Williams, George Segal, Don Calfa",Comedy,4.9
+756,Double Obsession,1992,88,Eduardo Montes-Bradley,"Margaux Hemingway, Maryam d'Abo, Frederic Forrest","Horror, Thriller",3.6
+757,Rote Ohren Fetzen Durch Asche,1992,89,"Ursula Puerrer, A. Hans Scheirl, Dietmar Schipek","Susana Helmayr, Ursula Puerrer, A. Hans Scheirl","Fantasy, Sci-Fi",5.4
+758,Beau fixe,1992,92,Christian Vincent,"Isabelle Carré, Estelle Larrivaz, Judith Rémy",Drama,6.3
+759,Amazing Grace,1992,95,Amos Guttman,"Sharon Alexander, Rivka Michaeli, Gal Hoyberger",Drama,6.6
+760,Deserter,1992,109,Zivojin Pavlovic,"Rados Bajic, Rade Serbedzija, Milena Pavlovic","Drama, Romance, War",6.2
+761,Wild West,1992,85,David Attwood,"Naveen Andrews, Sarita Choudhury, Ronny Jhutti","Adventure, Comedy",5.7
+762,Time Will Tell,1992,90,Declan Lowney,Bob Marley,"Documentary, Biography, Music",8.0
+763,The Men's Choir,1992,93,Guðný Halldórsdóttir,"Ragnhildur Gísladóttir, Garðar E. Cortes, Egill Ólafsson",Comedy,6.5
+764,Trhala fialky dynamitem,1992,90,Milan Ruzicka,"Helena Ruzicková, Jirí Ruzicka, Lubomír Kostelka",Comedy,2.6
+765,Dream Kiss,1992,119,Rafael Moreno Alba,"Maribel Verdú, Juan Diego, Eusebio Poncela",Thriller,5.6
+766,Tahader Katha,1992,95,Buddhadev Dasgupta,"Mithun Chakraborty, Anusuya Majumdar, Dipankar Dey",Drama,7.6
+767,Crystal Force,1992,82,Laura Keats,"Sharon Kane, Angst Argyle, Lisa Turco","Fantasy, Horror",3.5
+768,Sürgün,1992,100,Mehmet Tanrisever,"Bulut Aras, Gamze Tunar, Mehmet Akça",Drama,6.8
+769,Mutande pazze,1992,97,Roberto D'Agostino,"Monica Guerritore, Eva Grimaldi, Marisa Merlini",Comedy,3.9
+770,Dark Vengeance,1992,92,Faruque Ahmed,"Jay Roberts Jr., Denice Duff, John Croshaw","Action, Sci-Fi",2.8
+771,Drohi,1992,130,"Gurdip Singh, Ram Gopal Varma","Nagarjuna Akkineni, Urmila Matondkar, Danny Denzongpa","Action, Crime, Romance",5.8
+772,Zulm Ki Hukumat,1992,152,Bharat Rangachary,"Dharmendra, Moushumi Chatterjee, Govinda","Action, Crime, Drama",5.2
+773,Rajashilpi,1992,113,R. Sukumaran,"Mohanlal, Bhanupriya, Nedumudi Venu","Drama, Romance",6.4
+774,Avetik,1992,100,Don Askarian,"Alik Asatryan, Mikhail Stepanyan, Karen Dzhanibekyan",Drama,7.0
+775,Another Girl Another Planet,1992,62,Michael Almereyda,"Barry Del Sherman, Isabel Gillies, Bob Gosse",Drama,6.4
+776,Red Mob,1992,112,Vsevolod Plotkin,"Vladimir Menshov, Aleksandr Rozenbaum, Sergey Veksler","Action, Thriller",5.4
+777,Infinity,1992,206,Marlen Khutsiev,"Vladislav Pilnikov, Aleksei Zelenov, Marina Khazova",Drama,7.3
+778,Dead Boyz Can't Fly,1992,102,Cecil Howard,"David John, Brad Friedman, Ruth Collins","Drama, Thriller",4.1
+779,Hitz,1992,85,William Sachs,"Elliott Gould, Emilia Crow, Karen Black","Crime, Drama, Music",4.3
+780,Buried on Sunday,1992,94,Paul Donovan,"Nancy Marshall, Michael Gencher, Jeremy Akerman","Comedy, Drama",6.2
+781,The Postmistress,1992,97,Gilles Carle,"Chloé Sainte-Marie, Nicolas François Rives, Steve Gendron",Comedy,5.2
+782,Inside Edge,1992,84,"Warren Clarke, William Tannen","Michael Madsen, Richard Lynch, Rosie Vela","Action, Crime",3.6
+783,Soorya Gayathri,1992,110,P. Anil,"Mohanlal, Urvashi, Parvathi","Drama, Musical",6.4
+784,Hugh Hefner: Once Upon a Time,1992,91,Robert Heath,"James Coburn, Hugh Hefner, Barbi Benton","Documentary, Biography",6.7
+785,Fighting Spirit,1992,92,Teddy Page,"Loren Avedon, Sean P. Donahue, Greg Douglass","Action, Fantasy",3.7
+786,Sevillanas,1992,53,Carlos Saura,"Manuela Carrasco, Matilde Coral, Camarón de la Isla","Documentary, Musical",7.3
+787,Forever,1992,93,Thomas Palmer Jr.,"Sean Young, Terence Knox, Diane Ladd","Horror, Mystery",4.1
+788,The Fall of Otrar,1992,176,Ardak Amirkulov,"Dokhdurbek Kydyraliyev, Tungyshpai Zhamankulov, Bolot Beyshenaliev","Drama, History, War",7.5
+789,Disha,1992,135,Sai Paranjpye,"Shabana Azmi, Nana Patekar, Raghubir Yadav","Comedy, Drama, Musical",7.7
+790,Canvas,1992,94,Alain Zaloum,"Gary Busey, John Rhys-Davies, Vittorio Rossi","Crime, Drama",4.3
+791,Galaxies Are Colliding,1992,93,John Ryman,"Dwier Brown, Susan Walters, Karen Medak",Comedy,5.2
+792,La fille de l'air,1992,103,Maroun Bagdadi,"Béatrice Dalle, Thierry Fortineau, Hippolyte Girardot","Crime, Drama, Thriller",6.0
+793,Coyote,1992,99,Richard Ciupka,"Mitsou, Patrick Labbé, Thierry Magnier","Drama, Romance",4.5
+794,Bibir Mer,1992,95,Arifin C. Noer,"Bella Esperance, Fadli, Galeb Husein","Comedy, Drama",6.8
+795,The Girl Who Came Late,1992,82,Kathy Mueller,"Miranda Otto, Martin Kemp, Gia Carides",Romance,4.6
+796,Perfume de Gardênia,1992,118,Guilherme de Almeida Prado,"Christiane Torloni, José Mayer, Walter Quiroz",Drama,6.9
+797,Nero,1992,100,Giancarlo Soldi,"Sergio Castellitto, Chiara Caselli, Carlo Colnaghi","Comedy, Crime",6.1
+798,Nordkurve,1992,105,Adolf Winkelmann,"Renate Krößner, Christian Tasche, Daniel Berger","Comedy, Drama",6.2
+799,The Blue Eyes of Yonta,1992,90,Flora Gomes,"Maysa Marta, Pedro Dias, Antonio Simao Mendes",Drama,6.6
+800,I'll Love You Forever... Tonight,1992,88,Edgar Michael Bravo,"Thomas Jane, Ash Adams, Steve Bollinger",Drama,5.6
+801,Rowdy Inspector,1992,143,Gopal B.,"Nandamuri Balakrishna, Annapoorna, Brahmanandam","Action, Drama",6.8
+802,Stepping Razor: Red X,1992,103,Nicholas Campbell,"Edward 'Bigs' Allen, Lloyd 'Rocky' Allen, Andrea Davis","Documentary, Music",7.7
+803,The Sentimental Policeman,1992,115,"Yevgeni Golubenko, Kira Muratova","Nikolai Shatokhin, Irina Kovalenko, Natalya Ralleva",Comedy,6.9
+804,Beyond the Call of Duty,1992,85,Cirio H. Santiago,"Jan-Michael Vincent, Eb Lottimer, Jillian McWhirter","Action, Adventure, War",3.7
+805,Twinkle,1992,98,Joji Matsuoka,"Hiroko Yakushimaru, Etsushi Toyokawa, Michitaka Tsutsui","Comedy, Drama, Romance",6.3
+806,Me and Veronica,1992,97,Don Scardino,"Elizabeth McGovern, Patricia Wettig, Michael O'Keefe","Comedy, Drama",5.5
+807,Una mujer bajo la lluvia,1992,89,Gerardo Vera,"Ángela Molina, Antonio Banderas, Imanol Arias",Comedy,5.0
+808,Chickboxer,1992,70,Scott P. Plummer,"Julie Suscinski, Shawna Baer, James Black","Action, Comedy, Crime",2.9
+809,Twist,1992,74,Ron Mann,"Cholly Atkins, Hank Ballard, Betty Begg","Documentary, History, Music",7.6
+810,Ameriken boy,1992,117,Boris Kvashnev,"Aleksandr Peskov, Vladimir Gostyukhin, Oleg Rogachyov","Action, Thriller",5.8
+811,My Samurai,1992,87,Fred H. Dresch,"Julian Lee, Tupper Cullum, C. Edward McNeil",Action,3.9
+812,Near Mrs.,1992,93,Baz Taylor,"Judge Reinhold, Casey Siemaszko, Cécile Paoli",Comedy,5.1
+813,La reina anónima,1992,85,Gonzalo Suárez,"Carmen Maura, Marisa Paredes, Juanjo Puigcorbé",Comedy,5.1
+814,Wielka wsypa,1992,98,Jan Lomnicki,"Jan Englert, Krzysztof Wakulinski, Marzena Trybala","Comedy, Drama",6.0
+815,Is That All There Is?,1992,52,Lindsay Anderson,"Lindsay Anderson, Alexander Anderson, Murray Anderson",Comedy,7.1
+816,Dark at Noon,1992,100,Raúl Ruiz,"John Hurt, Didier Bourdon, Lorraine Evanoff","Comedy, Fantasy",6.5
+817,Tridtsatogo unichtozhit!,1992,93,Viktor Dotsenko,"Igor Livanov, Aristarkh Livanov, Marina Zudina",Action,5.0
+818,Dark Harvest,1992,89,James I. Nicholson,"David Zyler, Jamee Natella, Debbie O'Der",Horror,3.9
+819,It Was a Wonderful Life,1992,82,Michèle Ohayon,"Jodie Foster, Lou Hall, Reena Sands",Documentary,7.1
+820,Jaan Se Pyaara,1992,180,Anand,"Govinda, Divya Bharti, Aruna Irani","Action, Crime, Drama",5.2
+821,My Dear Muthachan,1992,147,Sathyan Anthikad,"Thilakan, Murali, Jayaram","Comedy, Drama",6.4
+822,Bezness,1992,100,Nouri Bouzid,"Abdellatif Kechiche, Ghalya Lacroix, Jacques Penot",Drama,6.1
+823,Alex,1992,93,Megan Simpson Huberman,"Lauren A Jackson, Chris Haywood, Josh Picker","Drama, Sport",6.2
+824,Rhythm of Destiny,1992,93,Wai Keung Lau,"Danny Lee, Aaron Kwok, Sharla Cheung","Crime, Drama",6.1
+825,Stilles Land,1992,95,Andreas Dresen,"Thorsten Merten, Jeannette Arndt, Kurt Böwe","Comedy, Drama",6.8
+826,Ville à vendre,1992,100,Jean-Pierre Mocky,"Michel Serrault, Richard Bohringer, Féodor Atkine","Comedy, Crime",5.9
+827,De bunker,1992,105,Gerard Soeteman,"Thom Hoffman, Huub van der Lubbe, Dolf de Vries","Drama, War",6.7
+828,Bad Love,1992,93,Jill Goldman,"Pamela Gidley, Tom Sizemore, Richard Edson",Drama,5.3
+829,Dyuba-Dyuba,1992,140,Aleksandr Khvan,"Oleg Menshikov, Anzhela Belyanskaya, Aleksandr Negreba","Crime, Drama, Romance",6.5
+830,List of Merite,1992,97,Charles Nemes,"Guillaume de Tonquédec, Claude Jade, Philippe Khorsand","Comedy, Family",4.4
+831,Quiet Rage: The Stanford Prison Experiment,1992,52,Ken Musen,Richard Yacco,Documentary,6.8
+832,The Undeclared War,1992,247,Bertrand Tavernier,"Patrick Rotman, Bertrand Tavernier","Documentary, History, War",7.6
+833,Killer,1992,160,Fazil,"Nagarjuna Akkineni, Nagma, Sharada","Action, Crime, Drama",6.1
+834,Harmony Cats,1992,104,Sandy Wilson,"Hoyt Axton, Constance Barnes, Lisa Brokop",Comedy,6.7
+835,The Setting Sun,1992,152,Rou Tomono,"Masaya Katô, Diane Lane, Biao Yuen",Drama,5.7
+836,Papierowe malzenstwo,1992,84,Krzysztof Lang,"Gary Kemp, Joanna Trzepiecinska, Rita Tushingham",Drama,5.7
+837,Al Basha,1992,108,Tarek Alarian,"Ahmed Zaki, Mona Abdel Ghani, Mahmoud Hemida","Action, Crime, Thriller",6.3
+838,War Is Menstrual Envy,1992,77,Nick Zedd,"Kembra Pfahler, Annie Sprinkle, Steven Oddo","Fantasy, Sci-Fi",4.7
+839,Erotic Liaisons,1992,95,Kôji Wakamatsu,"Yûya Uchida, Rie Miyazawa, Jennifer Galin","Comedy, Crime, Drama",5.3
+840,Kick Boxer's Tears,1992,87,Da Wei Shen,"Moon Lee, Wilson Lam, Mark Ho-nam Cheng",Crime,6.0
+841,Sunset Strip,1992,95,Paul G. Volk,"Jeff Conaway, Michelle Foreman, Cameron","Drama, Thriller",3.6
+842,Last Supper,1992,60,Robert Frank,"Zohra Lampert, William Youmans, William Rice",Drama,7.1
+843,Knockouts,1992,89,John T. Bone,"Brad Zutaut, Robert Rhine, Bill McGovern","Action, Comedy",4.7
+844,Kiks,1992,95,Sergey Livnev,"Evdokiya Germanova, Lyubov Germanova, Aleksandr Pankratov-Chyornyy","Adventure, Drama",7.0
+845,Ninja Zombie,1992,87,Mark Bessenger,"John Beaton Hill, Michael Correll, Kelly Anchors",Action,4.7
+846,High Lonesome: The Story of Bluegrass Music,1992,95,Rachel Liebling,"Sam Bush, Curly Ray Cline, Pat Enright","Documentary, Music",7.8
+847,Ossessione fatale,1992,87,Joe D'Amato,"Carmen Di Pietro, Jonathan Bertuccelli, David Dahlgren",Thriller,4.5
+848,Genghis Khan: The Story of a Lifetime,1992,120,"Ken Annakin, Peter Duffell","Richard Tyson, Daming Chen, Bekim Fehmiu","Biography, History",6.5
+849,Yaad Rakhegi Duniya,1992,153,Deepak Anand,"Aditya Pancholi, Rukhsar Rehman, Tinnu Anand","Drama, Romance",6.9
+850,It's Better to Be Wealthy and Healthy Than Poor and Ill,1992,108,Juraj Jakubisko,"Deana Horváthová, Dagmar Havlová, Juraj Kukura","Comedy, Drama",6.4
+851,Pushed to the Limit,1992,96,Michael Mileham,"Mimi Lesseos, Eidan Hanzei, Verrel Reed","Action, Drama",4.1
+852,Close Friends,1992,110,Michele Placido,"Asia Argento, Carlotta Natoli, Claudia Pandolfi","Drama, Romance",6.2
+853,Corpse Fucking Art,1992,60,Jörg Buttgereit,"Jörg Buttgereit, Monika M.",Documentary,6.4
+854,Silent Möbius 2,1992,58,Yasunori Ide,"Gorô Naya, Lisa Ann Beley, Don Brown","Animation, Action, Drama",6.1
+855,Narcos,1992,105,Giuseppe Ferrara,"Juan José Pinero, José Maldonado, Cristobal Cornes",Drama,7.2
+856,O-Roshiya-koku suimu-tan,1992,123,Jun'ya Satô,"Ken Ogata, Toshiyuki Nishida, Takuzô Kawatani","Biography, Drama, History",7.1
+857,Where Are We? Our Trip Through America,1992,73,"Rob Epstein, Jeffrey Friedman",Chris Owens,Documentary,6.7
+858,Mad Dog Coll,1992,101,"Greydon Clark, Ken Stein","Christopher Bradley, Bruce Nozick, Rachel York","Action, Crime, Drama",4.7
+859,Prokleta je Amerika,1992,58,"Ales Kurt, Marko Marinkovic, Slobodan Skerlic","Slobodan Custic, Davor Dujmovic, Sasa Petrovic","Comedy, Drama",7.2
+860,Maa,1992,145,Ajay Kashyap,"Jeetendra, Jaya Prada, Aruna Irani","Drama, Fantasy, Horror",5.9
+861,Jeevana Chaitra,1992,157,"S.K. Bhagavan, B. Dorai Raj","Rajkumar, Madhavi, Pandari Bai",Drama,8.0
+862,Byron: Ballad for a Daemon,1992,138,Nikos Koundouros,"Manos Vakousis, Vera Sotnikova, Vasilis Laggos","Biography, Drama",5.5
+863,Dil Hi To Hai,1992,164,Govardhan Asrani,"Jackie Shroff, Divya Bharti, Gulshan Grover","Drama, Romance",5.3
+864,Cured of Fears,1992,90,"Adolfo Martínez Solares, Gilberto Martínez Solares","Alfonso Zayas, Roberto 'Flaco' Guzmán, Lina Santos","Comedy, Fantasy, Horror",5.9
+865,The Death of the Horse,1992,80,Saimir Kumbaro,"Timo Flloko, Raimonda Bulku, Niko Kanxheri",Drama,7.3
+866,Motor Psycho,1992,84,Alex Downs,"Guy Blanchard, Sarah Bratton, Lenore Braun","Horror, Thriller, Action",4.1
+867,The Restless Conscience: Resistance to Hitler Within Germany 1933-1945,1992,113,Hava Kohav Beller,"John Dildine, Roland Freisler, Carl Friedrich Goerdeler",Documentary,7.5
+868,The Neighbor,1992,92,Götz Spielmann,"Rudolf Wessely, Dana Vávrová, Wolfgang Böck",Drama,6.9
+869,Strange Horizons,1992,79,G. Philip Jackson,"David Ferry, Olga Prokhorova, Ken Lemaire",Sci-Fi,3.3
+870,Kamarád do deste II - Príbeh z Brooklynu,1992,84,Jaroslav Soukup,"Lukás Vaculík, Sagvan Tofi, Simona Krainová","Crime, Comedy",4.9
+871,Ek Hota Vidushak,1992,145,Jabbar Patel,"Mohan Agashe, Satish Alekar, Laxmikant Berde","Comedy, Drama",8.2
+872,Lyrics and Lace,1992,85,Matti Ijäs,"Paavo Pentikäinen, Mikko Reitala, Kristiina Elstelä","Comedy, Drama",5.1
+873,Deuce Coupe,1992,106,Mark Deimel,"Kieran Mulroney, Brian Bloom, Danielle von Zerneck","Drama, Romance, Sport",5.4
+874,Vaaname Ellai,1992,145,K. Balachander,"Anand Babu, Bhanupriya, Ramya Krishnan",Drama,7.0
+875,Shadow of the Dragon,1992,97,Jimmy Williams,"William Smith, Robert Z'Dar, Sandy Palm","Action, Crime",3.7
+876,Sexes faibles!,1992,87,Serge Meynard,"François Cluzet, Valérie Lemercier, André Wilms",Comedy,3.6
+877,Babylon - Im Bett mit dem Teufel,1992,94,Ralf Huettner,"Natja Brunckhorst, Veronica Ferres, Michael Greiling","Drama, Horror, Thriller",6.1
+878,The Long Winter,1992,135,Jaime Camino,"Vittorio Gassman, Jacques Penot, Elizabeth Hurley","Drama, History, War",5.8
+879,Earth and the American Dream,1992,78,Bill Couturié,"Zalmar Zahir, Frank Salsedo, J.J. Paladino",Documentary,6.8
+880,Der Papagei,1992,90,Ralf Huettner,"Harald Juhnke, Dominic Raacke, Ilse Zielstorff",Comedy,6.6
+881,David Cole Interviews Dr. Franciszek Piper,1992,62,David Abravanel Stein,"David Abravanel Stein, Franciszek Piper","Documentary, History",8.0
+882,Die Tigerin,1992,83,Karin Howard,"Valentina Vargas, James Remar, George Peppard","Crime, Drama",5.1
+883,The Prince of Temple Street,1992,95,Jeffrey Chiang,"Andy Lau, Joey Wang, Man-Tat Ng","Action, Crime, Romance",5.6
+884,Shadow Force,1992,80,Ken Lamkin,"Dirk Benedict, Lise Cutter, Lance LeGault","Action, Crime, Drama",7.1
+885,The Inspector Wears Skirts IV,1992,93,Wellson Chin,"Cynthia Khan, Moon Lee, Sandra Ng","Action, Comedy",5.4
+886,Eternal Fist,1992,95,Teddy Page,"Cynthia Khan, Dale Cook, Don Nakaya Neilsen","Action, Sci-Fi",4.6
+887,Gole ruggenti,1992,98,Pier Francesco Pingitore,"Pippo Franco, Pamela Prati, Leo Gullotta","Comedy, Music",4.6
+888,Chyornyy kvadrat,1992,123,Yuriy Moroz,"Dmitriy Kharatyan, Vitali Solomin, Elena Yakovleva","Crime, Mystery",6.1
+889,Naked Making Lunch,1992,52,Chris Rodley,"Anthony Best, William S. Burroughs, David Cronenberg",Documentary,7.1
+890,The Stolen Diary,1992,110,Christine Lipinska,"Élodie Bouchez, Edwige Navarro, Benoît Magimel","Drama, Romance",6.5
+891,Beauty Investigator,1992,86,Tso Nam Lee,"Yukari Ôshima, Moon Lee, Chi-Ji Chin",Action,5.5
+892,Huang Fei Hong xi lie: Zhi yi dai shi,1992,93,"Jeong-lee Hwang, Chuen Lee","Ka-Lok Chin, Ching-Ying Lam, Jacqueline Ng","Action, Adventure, Crime",6.0
+893,Jatt Jeona Mour,1992,149,Ravinder Ravi,"Guggu Gill, Gurkirtan, Manjeet Kular","Action, Crime, Drama",7.9
+894,The Musical Vampire,1992,90,Wilson Tong,"Stanley Sui-Fan Fung, Dickson Ga-Sing Lee, Xiong Xinxin","Comedy, Fantasy",5.4
+895,Hashire Melos!,1992,107,Masaaki Ôsumi,"Takeshi Aono, Ryûsaku Chijiwa, Nobuaki Fukuda","Animation, Drama",7.2
+896,Krystallines nyhtes,1992,138,Tonia Marketaki,"François Delaive, Michele Valley, Tania Trypi","Drama, Fantasy, Horror",6.1
+897,Suburb Murder,1992,80,Kin-Ping Cheng,"King-Kong Lam, Shui-Ting Ng, Teddy Lin","Crime, Drama, Thriller",5.2
+898,Humanoids from Atlantis,1992,45,J.R. Bookwalter,"James L. Edwards, Sandra Wurzer, Christine Morrison","Comedy, Sci-Fi",3.9
+899,Vansh,1992,135,"Pappu Verma, Ajit Sinha","Sudesh Berry, Anupam Kher, Ekta Sohini","Action, Crime, Drama",5.8
+900,Original Sin,1992,117,Takashi Ishii,"Shinobu Ôtake, Masatoshi Nagase, Hideo Murota","Drama, Romance, Thriller",6.6
+901,Alibi perfetto,1992,92,Aldo Lado,"Michael Woods, Kay Rush, Annie Girardot","Action, Drama, Mystery",4.4
+902,Landslide,1992,95,Jean-Claude Lord,"Anthony Edwards, Tom Burlinson, Melody Anderson","Drama, Thriller",4.8
+903,Submission of a Woman,1992,96,Alessandro Lucidi,"Daniela Poggi, Gianluca Favilla, Paolo Lorimer","Horror, Thriller",4.0
+904,Steele's Law,1992,90,Fred Williamson,"Fred Williamson, Bo Svenson, Doran Ingrham","Action, Thriller",6.5
+905,Arbitr,1992,85,Ivan Okhlobystin,"Aleksandr Solovyov, Rolan Bykov, Ivan Okhlobystin","Action, Crime, Drama",6.1
+906,The Prom,1992,49,Steven Shainberg,"Andras Jones, Jennifer Jason Leigh, Michael Malotta",Drama,5.9
+907,The Girls from China,1992,100,Ying-Lok Lee,"Isabella Chow, Pauline Chan, Jimmy Au",Drama,4.8
+908,Samurai Vampire Bikers from Hell,1992,84,Scott Shaw,"Scott Shaw, Kenneth H. Kim, Roger Ellis","Action, Fantasy, Horror",6.5
+909,Progulka po eshafotu,1992,123,Isaakas Fridbergas,"Dmitriy Pevtsov, Olga Drozdova, Boris Plotnikov","Fantasy, Horror, Mystery",6.4
+910,The Magical World of Chuck Jones,1992,93,George Daugherty,"Ray Bradbury, Linda Jones Clough, Chris Connelly",Documentary,6.8
+911,Svarte pantere,1992,85,Thomas Robsahm,"Henrik Mestad, Anneli Drecker, Guro Sibeko","Action, Drama",5.5
+912,Our Hollywood Education,1992,85,Michael Beltrami,"Paul Bartel, James Blakeley, Tom Bliss",Documentary,5.0
+913,"Africa, I Will Fleece You",1992,88,Jean-Marie Téno,"Jean-Marie Téno, Narcisse Kouokam, Marie Claire Dati","Documentary, History",6.8
+914,Cheluvi,1992,102,Girish Karnad,"Girish Karnad, Sonali Kulkarni, Prashant Rao",Drama,8.4
+915,"Golem, the Spirit of the Exile",1992,105,Amos Gitai,"Hanna Schygulla, Vittorio Mezzogiorno, Ophrah Shemesh",Drama,5.4
+916,The Sting,1992,93,Wen-Yun Huang,"Andy Lau, Rosamund Kwan, Simon Lui","Comedy, Crime",4.7
+917,Too Much Heart,1992,95,Eduardo Campoy,"Victoria Abril, Manuel Bandera, Pastora Vega","Drama, Thriller",5.7
+918,The Naked Target,1992,96,Javier Elorrieta,"Clayton Rohner, Cristina Piaget, José Luis López Vázquez",Comedy,5.1
+919,Kung Fu Rascals,1992,101,Steve Wang,"Steve Wang, Troy Fromin, Johnnie Saiko",Family,6.1
+920,She Starts the Fire,1992,87,Lawrence Cheng,"Chingmy Yau, Lawrence Cheng, Do Do Cheng","Comedy, Romance, Sci-Fi",4.8
+921,8 Man,1992,83,Yasuhiro Horiuchi,"Kai Shishido, Etsushi Takahashi, Sachiko Ayase","Action, Sci-Fi",5.4
+922,Wizard's Curse,1992,91,Cheung-Yan Yuen,"Ching-Ying Lam, Ellen Chan, Kwok-Keung Cheung","Comedy, Crime, Fantasy",5.9
+923,Kiekeboe: Het witte bloed,1992,78,"Herman Fabri, Johan Thiels","Dirk Bosschaert, Annemie Gils, Anne Somers","Adventure, Comedy, Family",3.5
+924,"It's a Mad Mad Mad World, Too",1992,82,"Clifton Ko, Francis Sung","Bill Tung, Lydia Shum, Elsie Chan",Comedy,6.6
+925,Backsliding,1992,88,Simon Target,"Tim Roth, Jim Holt, Odile Le Clezio","Drama, Thriller",4.9
+926,Tel Aviv Stories,1992,108,"Ayelet Menahemi, Nirit Yaron","Yaël Abecassis, Sharon Alexander, Doron Avrahami","Comedy, Drama, Romance",6.5
+927,Round Numbers,1992,98,Nancy Zala,"Kate Mulgrew, Samantha Eggar, Shani Wallis",Comedy,5.6
+928,"Deystvuy, Manya!",1992,110,Roman Ershov,"Sergey Bekhterev, Yuliya Menshova, Evgeniy Vesnik","Comedy, Fantasy",4.8
+929,Invasion of the Scream Queens,1992,82,Donald Farmer,"Michelle Bauer, Martine Beswick, Janus Blythe",Documentary,6.1
+930,Nickel & Dime,1992,95,Ben Moses,"C. Thomas Howell, Wallace Shawn, Lise Cutter",Comedy,5.0
+931,Mary from Beijing,1992,97,Sylvia Chang,"Gong Li, Kenny Bee, Wilson Lam","Drama, Romance",6.2
+932,Arrest the Restless,1992,112,Lawrence Ah-Mon,"Leslie Cheung, Vivian Chow, Charles Heung","Comedy, Crime, Drama",6.2
+933,Best of the Best,1992,96,Herman Yau,"Jacky Cheung, Sammi Cheng, Man-Tat Ng","Action, Crime, Drama",6.1
+934,Saatwan Aasman,1992,130,Mahesh Bhatt,"Vivek Mushran, Pooja Bhatt, Avtar Gill",Drama,5.4
+935,Distant Justice,1992,94,Tôru Murakawa,"Bunta Sugawara, David Carradine, George Kennedy","Action, Drama",4.8
+936,The Warrior's Heart,1992,102,Leidulv Risan,"Anneke von der Lippe, Peter Snickars, Thomas Kretschmann","Drama, War",6.5
+937,Le mirage,1992,100,Jean-Claude Guiguet,"Louise Marleau, Fabienne Babe, Marco Hofschneider","Drama, Romance",7.0
+938,The Runner,1992,91,Chris Jones,"Terence Ford, Paris Jefferson, Andrew Mitchell","Action, Thriller",4.5
+939,An Answer from Heaven,1992,88,Junzheng Wang,"Chen Shi, Ding Li, Xiong Xiao","Drama, Family",7.4
+940,Bewaffa Se Waffa,1992,172,Saawan Kumar Tak,"Vivek Mushran, Juhi Chawla, Nagma",Romance,5.0
+941,Jeena Marna Tere Sang,1992,150,Vijay Reddy,"Sanjay Dutt, Raveena Tandon, Jaaved Jaaferi","Action, Romance",5.1
+942,Deadend Besiegers,1992,80,"Hsiao-hui Chang, Hsin-Yen Chang","Cynthia Khan, Rongguang Yu, Yung Chang","Action, Comedy",5.8
+943,Demaa Ala Al Esfelt,1992,110,Atef El-Tayeb,"Nour El-Sherif, Eman El Tokhy, Hassan Hosny",Drama,7.0
+944,The Boer War,1992,81,Andrew Aitken,"Robert Powell, Robert Baden-Powell, Louis Botha","Documentary, History, War",6.6
+945,The Finishing Touch,1992,81,Fred Gallo,"Michael Nader, Shelley Hack, Arnold Vosloo",Thriller,5.3
+946,Glaza,1992,83,Valentin Khovenko,"Sergey Steblov, Inga Ilm, Svetlana Kryuchkova",Romance,6.8
+947,The Long Shadow,1992,80,Vilmos Zsigmond,"Liv Ullmann, Michael York, Oded Teomi",Drama,5.7
+948,Európa kemping,1992,72,"Mária Dobos, György Pálos, András Szöke","Sándor Badár, János Horváth, András Szöke",Comedy,6.0
+949,Union of the God,1992,85,Ebrahim Hatamikia,"Hassan Abbasi, Kobra Farrokhi, Habibollah Bahmani","Drama, War",5.6
+950,China Dolls,1992,91,Chi-Kin Yeung,"Amy Yip, Yuet-Sin Lee, Charlie Cho","Comedy, Crime, Drama",4.6
+951,Girls Without Tomorrow,1992,100,David Lam,"Pauline Chan, Ekin Cheng, John Ching",Drama,6.1
+952,Between Heaven and Earth,1992,80,Marion Hänsel,"Carmen Maura, Jean-Pierre Cassel, Didier Bezace",Drama,6.1
+953,Quartier Mozart,1992,80,Jean-Pierre Bekolo,"Serge Amougou, Saïdou Abatcha, Timoléon Boyoguenou",Comedy,6.3
+954,Tusea si junghiul,1992,91,Mircea Daneliuc,"Cecilia Bârbora, Ernest Maftei, Olga Tudorache","Comedy, Drama",7.5
+955,Beck - De gesloten kamer,1992,100,Jacob Bijl,"Jan Decleir, Els Dottermans, Warre Borgmans",Crime,5.7
+956,Lucky Encounter,1992,88,Johnnie To,"Tony Leung Chiu-wai, Kent Cheng, Pak Lam Cheng","Comedy, Fantasy",5.2
+957,Prague,1992,88,Ian Sellar,"Alan Cumming, Sandrine Bonnaire, Bruno Ganz",Drama,6.2
+958,Police Officer,1992,158,Ashok Gaekwad,"Jackie Shroff, Karisma Kapoor, Aruna Irani",Action,4.1
+959,As You Like It,1992,117,Christine Edzard,"James Fox, Cyril Cusack, Andrew Tiernan","Drama, Romance",5.6
+960,Mad Mad Ghost,1992,91,Billy Chan,"Ching-Ying Lam, Wai-Guen Law, Shih-Erh Chin",Fantasy,5.7
+961,Another Life,1992,95,Carlo Mazzacurati,"Silvio Orlando, Adrianna Biedrzynska, Monica Scattini","Comedy, Drama, Romance",7.6
+962,To Miss with Love,1992,90,Yen-Ping Chu,"Jimmy Lin, Sharla Cheung, Dicky Cheung","Comedy, Drama, Romance",5.5
+963,Assolto per aver commesso il fatto,1992,118,Alberto Sordi,"Alberto Sordi, Angela Finocchiaro, Enzo Monteduro",Comedy,6.1
+964,Le retour des Charlots,1992,90,Jean Sarrus,"Jean Sarrus, Gérard Filippelli, Richard Bonnot",Comedy,2.9
+965,Jesus vender tilbage,1992,104,Jens Jørgen Thorsen,"Marco Di Stefano, Johnny Melville, Jed Curtis","Action, Comedy, Romance",4.3
+966,Armed for Action,1992,90,Bret McCormick,"Joe Estevez, Rocky Patterson, David Harrod",Action,4.2
+967,Jaanam,1992,127,Vikram Bhatt,"Rahul Roy, Pooja Bhatt, Paresh Rawal",Romance,5.1
+968,Obnazhyonnaya v shlyape,1992,68,Aleksandr Polynnikov,"Aleksey Serebryakov, Anna Nazareva, Evelina Arkhangelskaya","Adventure, Comedy",5.5
+969,Patrioticheskaya komediya,1992,109,Vladimir Khotinenko,"Larisa Guzeeva, Aleksey Serebryakov, Leonid Okunyov","Comedy, Fantasy",6.0

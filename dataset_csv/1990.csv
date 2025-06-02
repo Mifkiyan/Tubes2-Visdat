@@ -1,0 +1,964 @@
+ID,Name,Year,Duration,Directors,Actors,Genres,Rating
+1,Goodfellas,1990,145,Martin Scorsese,"Robert De Niro, Ray Liotta, Joe Pesci","Biography, Crime, Drama",8.7
+2,Home Alone,1990,103,Chris Columbus,"Macaulay Culkin, Joe Pesci, Daniel Stern","Comedy, Family",7.7
+3,Edward Scissorhands,1990,105,Tim Burton,"Johnny Depp, Winona Ryder, Dianne Wiest","Drama, Fantasy, Romance",7.8
+4,Back to the Future Part III,1990,118,Robert Zemeckis,"Michael J. Fox, Christopher Lloyd, Mary Steenburgen","Adventure, Comedy, Sci-Fi",7.5
+5,The Godfather Part III,1990,162,Francis Ford Coppola,"Al Pacino, Diane Keaton, Andy Garcia","Crime, Drama",7.6
+6,Die Hard 2,1990,124,Renny Harlin,"Bruce Willis, William Atherton, Bonnie Bedelia","Action, Thriller",7.1
+7,Pretty Woman,1990,119,Garry Marshall,"Richard Gere, Julia Roberts, Jason Alexander","Comedy, Romance",7.1
+8,Total Recall,1990,113,Paul Verhoeven,"Arnold Schwarzenegger, Sharon Stone, Michael Ironside","Action, Adventure, Sci-Fi",7.5
+9,Dances with Wolves,1990,181,Kevin Costner,"Kevin Costner, Mary McDonnell, Graham Greene","Adventure, Drama, Western",8.0
+10,Misery,1990,107,Rob Reiner,"James Caan, Kathy Bates, Richard Farnsworth","Drama, Thriller",7.8
+11,Ghost,1990,126,Jerry Zucker,"Patrick Swayze, Demi Moore, Whoopi Goldberg","Drama, Fantasy, Romance",7.1
+12,The Hunt for Red October,1990,135,John McTiernan,"Sean Connery, Alec Baldwin, Scott Glenn","Action, Adventure, Thriller",7.5
+13,Predator 2,1990,108,Stephen Hopkins,"Danny Glover, Gary Busey, Kevin Peter Hall","Action, Horror, Sci-Fi",6.3
+14,Kindergarten Cop,1990,111,Ivan Reitman,"Arnold Schwarzenegger, Penelope Ann Miller, Pamela Reed","Action, Comedy, Crime",6.3
+15,Awakenings,1990,121,Penny Marshall,"Robert De Niro, Robin Williams, Julie Kavner","Biography, Drama",7.8
+16,Tremors,1990,96,Ron Underwood,"Kevin Bacon, Fred Ward, Finn Carter","Comedy, Horror",7.2
+17,Rocky V,1990,104,John G. Avildsen,"Sylvester Stallone, Talia Shire, Burt Young","Drama, Sport",5.4
+18,Miller's Crossing,1990,115,"Joel Coen, Ethan Coen","Gabriel Byrne, Albert Finney, John Turturro","Crime, Drama, Thriller",7.7
+19,Jacob's Ladder,1990,113,Adrian Lyne,"Tim Robbins, Elizabeth Peña, Danny Aiello","Drama, Horror, Mystery",7.4
+20,Gremlins 2: The New Batch,1990,106,Joe Dante,"Zach Galligan, Phoebe Cates, Howie Mandel","Comedy, Fantasy, Horror",6.4
+21,Teenage Mutant Ninja Turtles,1990,93,Steve Barron,"Judith Hoag, Elias Koteas, Josh Pais","Action, Adventure, Comedy",6.8
+22,Wild at Heart,1990,125,David Lynch,"Nicolas Cage, Laura Dern, Willem Dafoe","Crime, Drama, Thriller",7.2
+23,Days of Thunder,1990,107,Tony Scott,"Tom Cruise, Nicole Kidman, Robert Duvall","Action, Drama, Sport",6.1
+24,RoboCop 2,1990,117,Irvin Kershner,"Peter Weller, Nancy Allen, Belinda Bauer","Action, Crime, Sci-Fi",5.8
+25,Flatliners,1990,115,Joel Schumacher,"Kiefer Sutherland, Kevin Bacon, Julia Roberts","Drama, Horror, Sci-Fi",6.6
+26,La Femme Nikita,1990,117,Luc Besson,"Anne Parillaud, Marc Duret, Patrick Fontana","Action, Crime, Drama",7.3
+27,Arachnophobia,1990,109,Frank Marshall,"Jeff Daniels, Julian Sands, John Goodman","Comedy, Horror, Thriller",6.5
+28,Darkman,1990,96,Sam Raimi,"Liam Neeson, Frances McDormand, Colin Friels","Action, Sci-Fi, Thriller",6.4
+29,Dick Tracy,1990,105,Warren Beatty,"Warren Beatty, Madonna, Al Pacino","Action, Comedy, Crime",6.2
+30,Cry-Baby,1990,85,John Waters,"Johnny Depp, Ricki Lake, Amy Locane","Comedy, Musical",6.5
+31,Child's Play 2,1990,84,John Lafia,"Alex Vincent, Jenny Agutter, Gerrit Graham","Horror, Thriller",6.0
+32,The Witches,1990,91,Nicolas Roeg,"Anjelica Huston, Mai Zetterling, Jasen Fisher","Adventure, Comedy, Family",6.8
+33,Presumed Innocent,1990,127,Alan J. Pakula,"Harrison Ford, Raul Julia, Greta Scacchi","Mystery, Thriller",6.9
+34,Look Who's Talking Too,1990,81,Amy Heckerling,"John Travolta, Kirstie Alley, Olympia Dukakis","Comedy, Family, Romance",4.7
+35,Bird on a Wire,1990,110,John Badham,"Mel Gibson, Goldie Hawn, David Carradine","Action, Comedy, Crime",6.0
+36,The Rescuers Down Under,1990,77,"Hendel Butoy, Mike Gabriel","Bob Newhart, Eva Gabor, John Candy","Animation, Adventure, Comedy",6.8
+37,Night of the Living Dead,1990,92,Tom Savini,"Tony Todd, Patricia Tallman, Tom Towles",Horror,6.8
+38,Another 48 Hrs.,1990,95,Walter Hill,"Eddie Murphy, Nick Nolte, Brion James","Action, Comedy, Crime",5.9
+39,King of New York,1990,103,Abel Ferrara,"Christopher Walken, David Caruso, Laurence Fishburne","Crime, Thriller",6.9
+40,Lionheart,1990,108,Sheldon Lettich,"Jean-Claude Van Damme, Harrison Page, Deborah Rennard","Action, Crime, Drama",6.2
+41,The Exorcist III,1990,110,William Peter Blatty,"George C. Scott, Ed Flanders, Brad Dourif","Drama, Horror, Mystery",6.5
+42,Joe Versus the Volcano,1990,102,John Patrick Shanley,"Tom Hanks, Meg Ryan, Lloyd Bridges","Comedy, Romance",5.9
+43,Young Guns II,1990,104,Geoff Murphy,"Emilio Estevez, Kiefer Sutherland, Lou Diamond Phillips","Action, Drama, Western",6.5
+44,Mermaids,1990,110,Richard Benjamin,"Cher, Bob Hoskins, Winona Ryder","Comedy, Drama, Romance",6.7
+45,Troll 2,1990,95,Claudio Fragasso,"Michael Paul Stephenson, George Hardy, Margo Prey","Comedy, Fantasy, Horror",3.0
+46,Lord of the Flies,1990,90,Harry Hook,"Balthazar Getty, Chris Furrh, Danuel Pipoly","Adventure, Drama, Thriller",6.4
+47,Problem Child,1990,81,Dennis Dugan,"Michael Oliver, John Ritter, Jack Warden","Comedy, Family",5.5
+48,Hard to Kill,1990,96,Bruce Malmuth,"Steven Seagal, Kelly LeBrock, William Sadler","Action, Crime, Drama",5.8
+49,Pump Up the Volume,1990,102,Allan Moyle,"Christian Slater, Samantha Mathis, Anthony Luke Lucero","Comedy, Drama, Music",7.2
+50,The Grifters,1990,110,Stephen Frears,"Anjelica Huston, John Cusack, Annette Bening","Crime, Drama, Thriller",6.9
+51,Air America,1990,113,Roger Spottiswoode,"Mel Gibson, Robert Downey Jr., Nancy Travis","Action, Comedy, War",5.8
+52,Memphis Belle,1990,107,Michael Caton-Jones,"Matthew Modine, Eric Stoltz, Tate Donovan","Action, Drama, War",6.9
+53,Dreams,1990,119,"Akira Kurosawa, Ishirô Honda","Akira Terao, Mitsuko Baishô, Toshie Negishi","Drama, Fantasy",7.7
+54,The Rookie,1990,120,Clint Eastwood,"Clint Eastwood, Charlie Sheen, Raul Julia","Action, Crime, Drama",5.9
+55,DuckTales the Movie: Treasure of the Lost Lamp,1990,74,Bob Hathcock,"Alan Young, Christopher Lloyd, Terence McGovern","Animation, Adventure, Comedy",6.8
+56,Men at Work,1990,98,Emilio Estevez,"Charlie Sheen, Emilio Estevez, Leslie Hope","Action, Comedy, Crime",5.9
+57,The NeverEnding Story II: The Next Chapter,1990,89,George Miller,"Jonathan Brandis, Kenny Morrison, Clarissa Burt","Adventure, Drama, Family",5.1
+58,Three Men and a Little Lady,1990,104,Emile Ardolino,"Tom Selleck, Steve Guttenberg, Ted Danson","Comedy, Drama, Family",5.5
+59,Nightbreed,1990,102,Clive Barker,"Craig Sheffer, David Cronenberg, Anne Bobby","Action, Fantasy, Horror",6.5
+60,The Bonfire of the Vanities,1990,125,Brian De Palma,"Tom Hanks, Bruce Willis, Melanie Griffith","Comedy, Drama, Romance",5.6
+61,State of Grace,1990,134,Phil Joanou,"Sean Penn, Ed Harris, Gary Oldman","Action, Crime, Drama",7.2
+62,Days of Being Wild,1990,94,Wong Kar-Wai,"Leslie Cheung, Maggie Cheung, Andy Lau","Crime, Drama, Romance",7.4
+63,Cyrano de Bergerac,1990,137,Jean-Paul Rappeneau,"Gérard Depardieu, Anne Brochet, Vincent Perez","Comedy, Drama, History",7.5
+64,Green Card,1990,107,Peter Weir,"Gérard Depardieu, Andie MacDowell, Bebe Neuwirth","Comedy, Drama, Romance",6.3
+65,Quigley Down Under,1990,119,Simon Wincer,"Tom Selleck, Laura San Giacomo, Alan Rickman","Action, Adventure, Drama",6.9
+66,Marked for Death,1990,93,Dwight H. Little,"Steven Seagal, Joanna Pacula, Basil Wallace","Action, Crime, Drama",5.9
+67,Close-Up,1990,98,Abbas Kiarostami,"Hossain Sabzian, Mohsen Makhmalbaf, Abolfazl Ahankhah","Biography, Crime, Drama",8.2
+68,Rosencrantz & Guildenstern Are Dead,1990,117,Tom Stoppard,"Gary Oldman, Tim Roth, Richard Dreyfuss","Comedy, Drama",7.3
+69,Slacker,1990,97,Richard Linklater,"Richard Linklater, Rudy Basquez, Jean Caffeine","Comedy, Drama",7.0
+70,Hamlet,1990,135,Franco Zeffirelli,"Mel Gibson, Glenn Close, Alan Bates",Drama,6.7
+71,Pacific Heights,1990,102,John Schlesinger,"Melanie Griffith, Matthew Modine, Michael Keaton","Drama, Mystery, Thriller",6.4
+72,Internal Affairs,1990,115,Mike Figgis,"Richard Gere, Andy Garcia, Nancy Travis","Crime, Drama, Thriller",6.5
+73,Quick Change,1990,89,"Howard Franklin, Bill Murray","Bill Murray, Geena Davis, Randy Quaid","Comedy, Crime",6.8
+74,My Blue Heaven,1990,97,Herbert Ross,"Steve Martin, Rick Moranis, Joan Cusack","Comedy, Crime",6.2
+75,The Freshman,1990,102,Andrew Bergman,"Marlon Brando, Matthew Broderick, Bruno Kirby","Comedy, Crime",6.5
+76,Death Warrant,1990,89,Deran Sarafian,"Jean-Claude Van Damme, Robert Guillaume, Cynthia Gibb","Action, Crime, Mystery",5.7
+77,Revenge,1990,124,Tony Scott,"Kevin Costner, Anthony Quinn, Madeleine Stowe","Action, Crime, Drama",6.2
+78,Leatherface: Texas Chainsaw Massacre III,1990,85,Jeff Burr,"Kate Hodge, Ken Foree, R.A. Mihailoff","Horror, Thriller",5.0
+79,Postcards from the Edge,1990,101,Mike Nichols,"Meryl Streep, Shirley MacLaine, Dennis Quaid","Comedy, Drama",6.7
+80,Reversal of Fortune,1990,111,Barbet Schroeder,"Jeremy Irons, Glenn Close, Ron Silver","Biography, Drama, Mystery",7.2
+81,Tales from the Darkside: The Movie,1990,93,John Harrison,"Debbie Harry, Matthew Lawrence, Christian Slater","Comedy, Fantasy, Horror",6.2
+82,The Adventures of Ford Fairlane,1990,104,Renny Harlin,"Andrew Dice Clay, Lauren Holly, Wayne Newton","Action, Adventure, Comedy",6.4
+83,Paris Is Burning,1990,78,Jennie Livingston,"Brooke Xtravaganza, André Christian, Dorian Corey",Documentary,8.2
+84,Blue Steel,1990,102,Kathryn Bigelow,"Jamie Lee Curtis, Ron Silver, Clancy Brown","Action, Crime, Drama",5.8
+85,Navy Seals,1990,113,Lewis Teague,"Charlie Sheen, Michael Biehn, Joanne Whalley","Action, Adventure, Thriller",5.6
+86,The Russia House,1990,123,Fred Schepisi,"Sean Connery, Michelle Pfeiffer, Roy Scheider","Drama, Romance, Thriller",6.1
+87,Bride of Re-Animator,1990,96,Brian Yuzna,"Jeffrey Combs, Bruce Abbott, Claude Earl Jones","Comedy, Horror, Sci-Fi",6.2
+88,Europa Europa,1990,112,Agnieszka Holland,"Solomon Perel, Marco Hofschneider, René Hofschneider","Drama, History, War",7.5
+89,House Party,1990,100,Reginald Hudlin,"Christopher Reid, Robin Harris, Christopher Martin","Comedy, Music",6.5
+90,Hardware,1990,94,Richard Stanley,"Dylan McDermott, Stacey Travis, John Lynch","Horror, Sci-Fi, Thriller",5.9
+91,Cadillac Man,1990,97,Roger Donaldson,"Robin Williams, Tim Robbins, Pamela Reed","Comedy, Crime",5.7
+92,The Two Jakes,1990,137,Jack Nicholson,"Jack Nicholson, Harvey Keitel, Meg Tilly","Crime, Drama, Mystery",6.1
+93,I Love You to Death,1990,97,Lawrence Kasdan,"Kevin Kline, Tracey Ullman, William Hurt","Comedy, Crime",6.4
+94,Alice,1990,106,Woody Allen,"Mia Farrow, William Hurt, Joe Mantegna","Comedy, Romance",6.6
+95,Captain America,1990,97,Albert Pyun,"Matt Salinger, Ronny Cox, Ned Beatty","Action, Adventure, Sci-Fi",3.2
+96,Dark Angel,1990,91,Craig R. Baxley,"Dolph Lundgren, Brian Benben, Betsy Brantley","Action, Crime, Horror",6.1
+97,Frankenhooker,1990,85,Frank Henenlotter,"James Lorinz, Joanne Ritchie, Patty Mullen","Comedy, Horror, Sci-Fi",6.2
+98,Henry & June,1990,136,Philip Kaufman,"Fred Ward, Uma Thurman, Maria de Medeiros","Biography, Drama",6.3
+99,The Hot Spot,1990,130,Dennis Hopper,"Don Johnson, Virginia Madsen, Jennifer Connelly","Crime, Drama, Romance",6.4
+100,The Sheltering Sky,1990,138,Bernardo Bertolucci,"Debra Winger, John Malkovich, Campbell Scott","Adventure, Drama",6.7
+101,Mo' Better Blues,1990,130,Spike Lee,"Denzel Washington, Spike Lee, Wesley Snipes","Drama, Music, Romance",6.7
+102,Mr. Destiny,1990,116,James Orr,"Jim Belushi, Linda Hamilton, Michael Caine","Comedy, Fantasy, Romance",6.4
+103,White Hunter Black Heart,1990,112,Clint Eastwood,"Clint Eastwood, Jeff Fahey, Charlotte Cornwell","Adventure, Drama",6.5
+104,Graveyard Shift,1990,86,Ralph S. Singleton,"David Andrews, Kelly Wolf, Stephen Macht",Horror,5.0
+105,The Match Factory Girl,1990,69,Aki Kaurismäki,"Kati Outinen, Elina Salo, Esko Nikkari","Comedy, Crime, Drama",7.5
+106,Trust,1990,107,Hal Hartley,"Adrienne Shelly, Martin Donovan, Rebecca Nelson","Comedy, Crime, Drama",7.4
+107,Bullet in the Head,1990,136,John Woo,"Tony Leung Chiu-wai, Jacky Cheung, Waise Lee","Action, Crime, Drama",7.5
+108,Bad Influence,1990,99,Curtis Hanson,"Rob Lowe, James Spader, Palmer Lee Todd","Drama, Thriller",6.3
+109,Life Is Sweet,1990,103,Mike Leigh,"Alison Steadman, Jim Broadbent, Claire Skinner","Comedy, Drama",7.4
+110,The Handmaid's Tale,1990,108,Volker Schlöndorff,"Natasha Richardson, Faye Dunaway, Aidan Quinn","Drama, Romance, Sci-Fi",6.0
+111,Narrow Margin,1990,97,Peter Hyams,"Gene Hackman, Anne Archer, James Sikking","Action, Crime, Thriller",6.6
+112,Miami Blues,1990,97,George Armitage,"Fred Ward, Alec Baldwin, Jennifer Jason Leigh","Comedy, Crime, Drama",6.4
+113,The Hairdresser's Husband,1990,82,Patrice Leconte,"Jean Rochefort, Anna Galiena, Roland Bertin","Comedy, Drama, Romance",7.1
+114,Repossessed,1990,80,Bob Logan,"Leslie Nielsen, Linda Blair, Ned Beatty","Comedy, Fantasy, Horror",4.8
+115,Ernest Goes to Jail,1990,81,John R. Cherry III,"Jim Varney, Gailard Sartain, Bill Byrge","Comedy, Crime, Family",5.4
+116,Truly Madly Deeply,1990,106,Anthony Minghella,"Juliet Stevenson, Alan Rickman, Jenny Howe","Comedy, Drama, Fantasy",7.2
+117,The Reflecting Skin,1990,96,Philip Ridley,"Viggo Mortensen, Lindsay Duncan, Jeremy Cooper","Drama, Horror, Thriller",6.7
+118,Taking Care of Business,1990,108,Arthur Hiller,"Jim Belushi, Charles Grodin, Anne DeSalvo",Comedy,6.4
+119,Agneepath,1990,174,Mukul Anand,"Amitabh Bachchan, Mithun Chakraborty, Madhavi","Action, Crime, Drama",7.6
+120,Class of 1999,1990,99,Mark L. Lester,"Bradley Gregg, Traci Lind, Malcolm McDowell","Action, Horror, Sci-Fi",5.9
+121,Nuns on the Run,1990,89,Jonathan Lynn,"Eric Idle, Robbie Coltrane, Camille Coduri","Comedy, Crime",6.0
+122,White Palace,1990,103,Luis Mandoki,"Susan Sarandon, James Spader, Jason Alexander","Drama, Romance",6.5
+123,The Krays,1990,120,Peter Medak,"Gary Kemp, Martin Kemp, Billie Whitelaw","Biography, Crime, Drama",6.6
+124,Ju Dou,1990,95,"Yimou Zhang, Fengliang Yang","Gong Li, Wei Li, Baotian Li","Drama, Romance",7.6
+125,Maniac Cop 2,1990,90,William Lustig,"Robert Davi, Claudia Christian, Michael Lerner","Action, Crime, Horror",5.9
+126,Dragon Ball Z: The Tree of Might,1990,60,Daisuke Nishio,"Masako Nozawa, Mayumi Tanaka, Tôru Furuya","Animation, Action, Adventure",6.7
+127,An Angel at My Table,1990,158,Jane Campion,"Kerry Fox, Alexia Keogh, Karen Fergusson","Biography, Drama",7.4
+128,Graffiti Bridge,1990,90,"Prince, Craig Laurence Rice","Prince, Morris Day, Ingrid Chavez","Drama, Music",4.7
+129,Desperate Hours,1990,105,Michael Cimino,"Mickey Rourke, Anthony Hopkins, Mimi Rogers","Action, Crime, Drama",5.4
+130,Stanley & Iris,1990,104,Martin Ritt,"Jane Fonda, Robert De Niro, Swoosie Kurtz","Drama, Romance",6.3
+131,Havana,1990,144,Sydney Pollack,"Robert Redford, Lena Olin, Alan Arkin","Drama, Romance, War",6.1
+132,Two Evil Eyes,1990,120,"Dario Argento, George A. Romero","Adrienne Barbeau, Harvey Keitel, Ramy Zada",Horror,6.1
+133,Ghost Dad,1990,83,Sidney Poitier,"Bill Cosby, Kimberly Russell, Denise Nicholas","Comedy, Family, Fantasy",4.4
+134,Delta Force 2: The Colombian Connection,1990,111,Aaron Norris,"Chuck Norris, John P. Ryan, Billy Drago","Action, Adventure, Crime",4.9
+135,I Hired a Contract Killer,1990,79,Aki Kaurismäki,"Jean-Pierre Léaud, Margi Clarke, Kenneth Colley","Comedy, Crime, Drama",7.2
+136,Boiling Point,1990,96,Takeshi Kitano,"Takeshi Kitano, Yûrei Yanagi, Yuriko Ishida","Action, Comedy, Crime",6.7
+137,Dragon Ball Z: The World's Strongest,1990,59,Daisuke Nishio,"Masako Nozawa, Toshio Furukawa, Mayumi Tanaka","Animation, Action, Adventure",6.6
+138,Fire Birds,1990,85,David Green,"Nicolas Cage, Tommy Lee Jones, Sean Young","Action, Adventure",4.8
+139,Hamoun,1990,120,Dariush Mehrjui,"Khosro Shakibai, Ezzatolah Entezami, Hossein Sarshar",Drama,7.9
+140,Q&A,1990,132,Sidney Lumet,"Nick Nolte, Timothy Hutton, Armand Assante","Crime, Drama, Thriller",6.6
+141,My Father's Glory,1990,105,Yves Robert,"Philippe Caubère, Nathalie Roussel, Didier Pain","Adventure, Biography, Drama",7.6
+142,Avalon,1990,128,Barry Levinson,"Aidan Quinn, Elizabeth Perkins, Leo Fuchs",Drama,7.2
+143,The Field,1990,107,Jim Sheridan,"Richard Harris, John Hurt, Sean Bean","Drama, Thriller",7.3
+144,The Comfort of Strangers,1990,107,Paul Schrader,"Christopher Walken, Rupert Everett, Natasha Richardson","Crime, Drama, Fantasy",6.3
+145,The Guardian,1990,92,William Friedkin,"Jenny Seagrove, Dwier Brown, Carey Lowell","Drama, Fantasy, Horror",5.4
+146,Werner and the Wizard of Booze,1990,93,"Gerhard Hahn, Niki List, Michael Schaack","Klaus Büchner, Andi Feldmann, Kulle Westphal","Animation, Action, Adventure",6.7
+147,"Welcome Home, Roxy Carmichael",1990,95,Jim Abrahams,"Winona Ryder, Jeff Daniels, Laila Robins","Comedy, Drama",5.9
+148,Cadence,1990,97,Martin Sheen,"Charlie Sheen, Martin Sheen, Jay Brazeau",Drama,6.5
+149,A Tale of Springtime,1990,108,Éric Rohmer,"Anne Teyssèdre, Hugues Quester, Florence Darel","Comedy, Drama, Romance",7.1
+150,A Shock to the System,1990,88,Jan Egleson,"Michael Caine, Elizabeth McGovern, Peter Riegert","Comedy, Crime, Thriller",6.6
+151,Basket Case 2,1990,90,Frank Henenlotter,"Kevin VanHentenryck, Judy Grafe, Annie Ross","Comedy, Horror",5.4
+152,Moon 44,1990,98,Roland Emmerich,"Michael Paré, Lisa Eichhorn, Dean Devlin","Action, Sci-Fi, Thriller",5.1
+153,Brain Dead,1990,85,Adam Simon,"Bill Pullman, Bill Paxton, Bud Cort","Horror, Mystery, Sci-Fi",5.9
+154,Dil,1990,172,Indra Kumar,"Aamir Khan, Madhuri Dixit, Saeed Jaffrey","Comedy, Drama, Romance",6.6
+155,Jetsons: The Movie,1990,82,"Iwao Takamoto, Joseph Barbera, William Hanna","George O'Hanlon, Penny Singleton, Mel Blanc","Animation, Comedy, Family",5.5
+156,My Mother's Castle,1990,98,Yves Robert,"Julien Ciamaca, Philippe Caubère, Nathalie Roussel","Adventure, Biography, Comedy",7.6
+157,Flashback,1990,108,Franco Amurri,"Dennis Hopper, Kiefer Sutherland, Carol Kane","Action, Adventure, Comedy",6.2
+158,American Ninja 4: The Annihilation,1990,99,Cedric Sundstrom,"Michael Dudikoff, David Bradley, James Booth","Action, Crime, Drama",4.0
+159,Loose Cannons,1990,94,Bob Clark,"Gene Hackman, Dan Aykroyd, Dom DeLuise","Action, Comedy, Crime",4.9
+160,Michael Madana Kama Rajan,1990,162,Singeetam Srinivasa Rao,"Kamal Haasan, Urvashi, Komal Mahuvakar",Comedy,8.5
+161,Ghayal,1990,163,Rajkumar Santoshi,"Sunny Deol, Amrish Puri, Meenakshi Sheshadri","Action, Crime, Drama",7.7
+162,Mother,1990,108,Ali Hatami,"Rogheyeh Chehreh-Azad, Mohamad Ali Keshavarz, Farimah Farjami",Drama,8.5
+163,The Long Walk Home,1990,97,Richard Pearce,"Sissy Spacek, Whoopi Goldberg, Dwight Schultz","Drama, History",7.3
+164,The First Power,1990,98,Robert Resnikoff,"Lou Diamond Phillips, Tracy Griffith, Jeff Kober","Crime, Horror, Thriller",5.7
+165,Almost an Angel,1990,95,John Cornell,"Paul Hogan, Linda Kozlowski, Elias Koteas","Comedy, Drama",5.6
+166,Crazy People,1990,90,"Tony Bill, Barry L. Young","Dudley Moore, Daryl Hannah, Paul Reiser","Comedy, Drama",6.0
+167,Hidden Agenda,1990,108,Ken Loach,"Frances McDormand, Maurice Roëves, Robert Patterson","Drama, Thriller",6.9
+168,Catchfire,1990,116,Dennis Hopper,"Dennis Hopper, Jodie Foster, Dean Stockwell","Action, Comedy, Crime",5.3
+169,The Ambulance,1990,96,Larry Cohen,"Eric Roberts, James Earl Jones, Megan Gallagher","Action, Comedy, Horror",6.0
+170,Everybody's Fine,1990,118,Giuseppe Tornatore,"Marcello Mastroianni, Michèle Morgan, Valeria Cavalli",Drama,7.7
+171,The Unforgettable Director of Love Movies,1990,106,Yavuz Turgul,"Sener Sen, Pitircik Akerman, Aytaç Yörükaslan","Comedy, Drama",7.6
+172,"After Dark, My Sweet",1990,114,James Foley,"Jason Patric, Rachel Ward, Bruce Dern","Crime, Drama, Mystery",6.5
+173,Mountains of the Moon,1990,136,Bob Rafelson,"Patrick Bergin, Iain Glen, Richard E. Grant","Adventure, Drama, History",7.1
+174,The Ages of Lulu,1990,95,Bigas Luna,"Francesca Neri, Óscar Ladoire, María Barranco",Drama,5.5
+175,The Laughing Man,1990,91,Kartal Tibet,"Kemal Sunal, Aydan Burhan, Ahmet Sezerel","Comedy, Drama",6.9
+176,Ski Patrol,1990,91,Richard Correll,"Roger Rose, T.K. Carter, Yvette Nipar","Action, Comedy, Sport",5.1
+177,Frankenstein Unbound,1990,85,Roger Corman,"John Hurt, Raul Julia, Nick Brimble","Drama, Horror, Sci-Fi",5.4
+178,In Harihar Nagar,1990,133,"Lal, Siddique","Mukesh, Siddique, Jagadish","Comedy, Crime, Mystery",8.6
+179,Vincent & Theo,1990,138,Robert Altman,"Tim Roth, Paul Rhys, Adrian Brine","Biography, Drama",6.9
+180,Heart Condition,1990,100,James D. Parriott,"Bob Hoskins, Denzel Washington, Chloe Webb","Comedy, Crime, Drama",5.5
+181,A Chinese Ghost Story II,1990,104,Siu-Tung Ching,"Leslie Cheung, Joey Wang, Michelle Reis","Action, Comedy, Fantasy",6.9
+182,Betsy's Wedding,1990,94,Alan Alda,"Alan Alda, Molly Ringwald, Joey Bishop","Comedy, Romance",5.7
+183,Spaced Invaders,1990,100,Patrick Read Johnson,"Douglas Barr, Royal Dano, Ariana Richards","Adventure, Comedy, Sci-Fi",5.3
+184,A Cat in the Brain,1990,93,Lucio Fulci,"Lucio Fulci, Brett Halsey, Ria De Simone","Comedy, Fantasy, Horror",5.5
+185,Soultaker,1990,94,Michael Rissi,"Joe Estevez, Vivian Schilling, Gregg Thomsen","Fantasy, Horror",2.5
+186,The Invisible Maniac,1990,86,Adam Rifkin,"Noel Peters, Savannah, Stephanie Blake","Comedy, Horror, Sci-Fi",4.3
+187,Madhouse,1990,90,Tom Ropelewski,"Richard Alexander, Kirstie Alley, John Larroquette",Comedy,5.4
+188,Auntie Danielle,1990,110,Étienne Chatiliez,"Tsilla Chelton, Catherine Jacob, Isabelle Nanty","Comedy, Drama, Romance",7.1
+189,God of Gamblers II,1990,99,Jing Wong,"Andy Lau, Stephen Chow, Man-Tat Ng","Action, Adventure, Comedy",6.8
+190,Mr. & Mrs. Bridge,1990,126,James Ivory,"Paul Newman, Joanne Woodward, Saundra McClain",Drama,6.6
+191,Slumber Party Massacre III,1990,87,Sally Mattison,"Keely Christian, Brittain Frye, Michael Harris","Comedy, Horror",4.5
+192,Tatar Ramazan,1990,95,Melih Gülgen,"Kadir Inanir, Esin Moralioglu, Hayati Hamzaoglu",Drama,7.9
+193,Demon Wind,1990,96,Charles Philip Moore,"Eric Larson, Francine Lapensée, Jack Forcinito",Horror,4.8
+194,May Fools,1990,107,Louis Malle,"Miou-Miou, Michel Piccoli, Michel Duchaussoy","Comedy, Romance",7.2
+195,The Voice of the Moon,1990,126,Federico Fellini,"Roberto Benigni, Paolo Villaggio, Nadia Ottaviani","Comedy, Drama",6.3
+196,Sgt. Kabukiman N.Y.P.D.,1990,105,"Michael Herz, Lloyd Kaufman","Rick Gianasi, Susan Byun, Bill Weeden","Action, Comedy, Crime",5.7
+197,Opportunity Knocks,1990,103,Donald Petrie,"Dana Carvey, Robert Loggia, Todd Graff","Action, Comedy, Romance",6.0
+198,"Oh, Carmela!",1990,102,Carlos Saura,"Carmen Maura, Andrés Pajares, Gabino Diego","Comedy, Drama, War",7.1
+199,The Boyfriend School,1990,101,Malcolm Mowbray,"Steve Guttenberg, Jami Gertz, Shelley Long","Comedy, Romance",5.7
+200,Mindwalk,1990,112,Bernt Amadeus Capra,"Liv Ullmann, Sam Waterston, John Heard",Drama,7.6
+201,Shipwrecked,1990,92,Nils Gaup,"Stian Smestad, Gabriel Byrne, Louisa Milwood-Haigh","Adventure, Family",6.5
+202,Anjali,1990,150,Mani Ratnam,"Shamili, Revathi, Raghuvaran",Drama,8.2
+203,Texasville,1990,126,Peter Bogdanovich,"Jeff Bridges, Cybill Shepherd, Timothy Bottoms","Drama, Romance",6.0
+204,Come See the Paradise,1990,138,Alan Parker,"Dennis Quaid, Tamlyn Tomita, Sab Shimono","Drama, Romance, War",6.7
+205,The Rift,1990,83,Juan Piquer Simón,"Jack Scalia, R. Lee Ermey, Ray Wise","Action, Adventure, Horror",4.7
+206,To Sleep with Anger,1990,102,Charles Burnett,"Danny Glover, Paul Butler, DeVaughn Nixon",Drama,7.1
+207,The Dark Side of the Moon,1990,87,D.J. Webster,"Robert Sampson, Will Bledsoe, Joe Turkel","Action, Drama, Fantasy",4.9
+208,Sibling Rivalry,1990,87,Carl Reiner,"Kirstie Alley, Bill Pullman, Carrie Fisher",Comedy,5.4
+209,The Death King,1990,80,Jörg Buttgereit,"Hermann Kopp, Heinrich Ebber, Michael Krause","Drama, Horror",6.3
+210,Singapore Sling,1990,111,Nikos Nikolaidis,"Meredyth Herold, Panos Thanassoulis, Michele Valley","Drama, Horror",6.4
+211,Stella,1990,109,John Erman,"Bette Midler, John Goodman, Trini Alvarado","Drama, Romance",6.1
+212,All for the Winner,1990,101,"Jeffrey Lau, Corey Yuen","Stephen Chow, Man-Tat Ng, Sharla Cheung","Action, Comedy, Crime",6.8
+213,Mister Frost,1990,104,Philippe Setbon,"Jeff Goldblum, Kathy Baker, Alan Bates","Crime, Drama, Horror",5.9
+214,Prayer of the Rollerboys,1990,95,Rick King,"Corey Haim, Patricia Arquette, Christopher Collet","Action, Crime, Drama",5.5
+215,Across the Tracks,1990,100,Sandy Tung,"Ricky Schroder, Brad Pitt, Carrie Snodgress","Drama, Sport",5.8
+216,Men Don't Leave,1990,115,Paul Brickman,"Jessica Lange, Kathy Bates, Arliss Howard","Comedy, Drama",6.6
+217,The Nasty Girl,1990,92,Michael Verhoeven,"Lena Stolze, Hans-Reinhard Müller, Monika Baumgartner","Comedy, Drama, History",7.3
+218,Short Time,1990,97,Gregg Champion,"Dabney Coleman, Matt Frewer, Teri Garr","Action, Comedy, Crime",6.4
+219,Seat Trouble,1990,85,Kartal Tibet,"Kemal Sunal, Sema Çeyrekbasi, Berna Laçin","Comedy, Drama",7.0
+220,Gate 2: The Trespassers,1990,93,Tibor Takács,"Louis Tripp, Simon Reynolds, James Villemaire","Comedy, Fantasy, Horror",4.8
+221,The Juniper Tree,1990,78,Nietzchka Keene,"Björk, Bryndis Petra Bragadóttir, Valdimar Örn Flygenring","Drama, Fantasy",6.8
+222,Meet the Applegates,1990,90,Michael Lehmann,"Ed Begley Jr., Stockard Channing, Dabney Coleman","Comedy, Fantasy, Horror",5.5
+223,Prom Night III: The Last Kiss,1990,97,"Ron Oliver, Peter R. Simpson","Tim Conlon, Cynthia Preston, David Stratton","Comedy, Horror",4.6
+224,The Nutcracker Prince,1990,75,Paul Schibli,"Kiefer Sutherland, Megan Follows, Peter O'Toole","Animation, Adventure, Family",6.8
+225,Coupe de Ville,1990,99,Joe Roth,"Patrick Dempsey, Arye Gross, Daniel Stern","Comedy, Drama",6.7
+226,Shakma,1990,100,"Hugh Parks, Tom Logan","Christopher Atkins, Amanda Wyss, Ari Meyers","Horror, Sci-Fi, Thriller",5.0
+227,Swordsman,1990,118,"Siu-Tung Ching, King Hu, Raymond Lee","Samuel Hui, Cecilia Yip, Jacky Cheung","Action, Comedy, History",6.8
+228,Def by Temptation,1990,95,James Bond III,"James Bond III, Kadeem Hardison, Bill Nunn",Horror,5.2
+229,Side Out,1990,100,Peter Israelson,"C. Thomas Howell, Peter Horton, Courtney Thorne-Smith","Comedy, Drama, Romance",5.6
+230,"Abraxas, Guardian of the Universe",1990,87,Damian Lee,"Jesse Ventura, Sven-Ole Thorsen, Damian Lee","Action, Drama, Sci-Fi",2.9
+231,Baby Blood,1990,88,Alain Robak,"Emmanuelle Escourrou, Christian Sinniger, Jean-François Gallotte",Horror,6.0
+232,Sorority House Massacre II,1990,77,Jim Wynorski,"Gail Thackray, Melissa Moore, Stacia Zhivago","Comedy, Crime, Horror",4.8
+233,Lisa,1990,95,Gary Sherman,"Staci Keanan, Cheryl Ladd, D.W. Moffett","Drama, Horror, Thriller",5.9
+234,Mirror Mirror,1990,104,Marina Sargenti,"Karen Black, Yvonne De Carlo, William Sanderson","Horror, Thriller",5.5
+235,Koko Flanel,1990,95,"Stijn Coninx, Jef Van de Water","Urbanus, Bea Van Der Maat, Willeke van Ammelrooy","Comedy, Romance",6.3
+236,Journey of Hope,1990,105,Xavier Koller,"Necmettin Çobanoglu, Nur Sürer, Emin Sivas","Adventure, Drama",7.5
+237,My New Partner at the Races,1990,107,Claude Zidi,"Philippe Noiret, Thierry Lhermitte, Guy Marchand","Action, Comedy, Crime",6.2
+238,Downtown,1990,96,Richard Benjamin,"Anthony Edwards, Forest Whitaker, Penelope Ann Miller","Action, Comedy, Crime",5.7
+239,Demonia,1990,88,Lucio Fulci,"Brett Halsey, Meg Register, Lino Salemme","Horror, Mystery",4.6
+240,Halfaouine: Boy of the Terraces,1990,98,Férid Boughedir,"Selim Boughedir, Mustapha Adouani, Rabiah Ben-Abdullah","Drama, Comedy",6.7
+241,Hired to Kill,1990,96,"Nico Mastorakis, Peter Rader","Brian Thompson, Oliver Reed, George Kennedy","Action, Thriller",4.9
+242,Red Dawn,1990,96,Jorge Fons,"Héctor Bonilla, María Rojo, Jorge Fegán","Drama, Thriller",8.0
+243,Solar Crisis,1990,112,"Richard C. Sarafian, Arthur Marks","Tim Matheson, Charlton Heston, Peter Boyle","Sci-Fi, Thriller",4.1
+244,Aashiqui,1990,152,Mahesh Bhatt,"Rahul Roy, Anu Agarwal, Avtar Gill","Musical, Drama, Romance",6.3
+245,The Fourth War,1990,91,John Frankenheimer,"Roy Scheider, Jürgen Prochnow, Tim Reid","Drama, Thriller",5.5
+246,The King of the Kickboxers,1990,99,Lucas Lowe,"Loren Avedon, Richard Jaeckel, Don Stroud","Action, Crime, Drama",5.9
+247,Tune in Tomorrow...,1990,107,Jon Amiel,"Barbara Hershey, Keanu Reeves, Peter Falk","Comedy, Romance",6.1
+248,Taxi Blues,1990,110,Pavel Lungin,"Pyotr Mamonov, Pyotr Zaychenko, Vladimir Kashpur","Comedy, Drama",7.3
+249,A Moment of Romance,1990,92,Benny Chan,"Andy Lau, Chien-Lien Wu, Man-Tat Ng","Action, Crime, Drama",7.3
+250,BlackJack,1990,111,Colin Nutley,"Helena Bergström, Reine Brynolfsson, Johannes Brost","Drama, Music",5.7
+251,The Forbidden Dance,1990,97,Greydon Clark,"Laura Harring, Jeff James, Barbra Brighton","Drama, Music, Romance",4.0
+252,Baaghi: A Rebel for Love,1990,157,Deepak S. Shivdasani,"Salman Khan, Nagma, Shakti Kapoor","Action, Drama, Romance",5.8
+253,Alienator,1990,93,Fred Olen Ray,"Jan-Michael Vincent, John Phillip Law, Ross Hagen","Action, Drama, Fantasy",3.3
+254,Disturbed,1990,96,Charles Winkler,"Malcolm McDowell, Geoffrey Lewis, Priscilla Pointer","Horror, Thriller",5.1
+255,In the Cold of the Night,1990,112,Nico Mastorakis,"Jeff Lester, Adrianne Sachs, Marc Singer","Drama, Mystery, Thriller",4.7
+256,Swarg,1990,160,David Dhawan,"Rajesh Khanna, Govinda, Madhavi",Drama,6.7
+257,A Nymphoid Barbarian in Dinosaur Hell,1990,82,Brett Piper,"Paul Guzzi, Linda Corwin, Alex Pirnie","Adventure, Fantasy, Horror",2.7
+258,Where the Heart Is,1990,107,John Boorman,"Dabney Coleman, Uma Thurman, Joanna Cassidy","Comedy, Drama",5.9
+259,China O'Brien,1990,86,Robert Clouse,"Cynthia Rothrock, Richard Norton, Keith Cooke","Action, Crime, Drama",5.4
+260,Flesh Gordon Meets the Cosmic Cheerleaders,1990,98,Howard Ziehm,"Vince Murdocco, Robyn Kelly, Tony Travis","Comedy, Sci-Fi",3.7
+261,Archangel,1990,78,Guy Maddin,"Michael Gottli, David Falkenberg, Michael O'Sullivan","Comedy, Drama, Romance",6.3
+262,The Last of the Finest,1990,106,John Mackenzie,"Brian Dennehy, Joe Pantoliano, Jeff Fahey","Action, Crime, Drama",5.8
+263,Mathilukal,1990,120,Adoor Gopalakrishnan,"Mammootty, Thilakan, Karamana Janardanan Nair","Drama, Romance",8.2
+264,The Local Stigmatic,1990,56,David F. Wheeler,"Al Pacino, Paul Guilfoyle, Joseph Maher",Drama,5.6
+265,Korczak,1990,118,Andrzej Wajda,"Wojciech Pszoniak, Ewa Dalkowska, Teresa Budzisz-Krzyzanowska","Biography, Drama, War",7.4
+266,I Bought a Vampire Motorcycle,1990,101,Dirk Campbell,"Neil Morrissey, Amanda Noar, Michael Elphick","Comedy, Crime, Fantasy",5.4
+267,The Crawlers,1990,91,"Fabrizio Laurenti, Joe D'Amato","Wanja Mary Sellers, Jason Saucier, Bubba Reeves","Horror, Sci-Fi, Thriller",2.9
+268,Fantozzi alla riscossa,1990,105,Neri Parenti,"Paolo Villaggio, Milena Vukotic, Gigi Reder",Comedy,5.8
+269,New Wave,1990,89,Jean-Luc Godard,"Alain Delon, Domiziana Giordano, Jacques Dacqmine",Drama,6.4
+270,The Comies,1990,90,Neri Parenti,"Renato Pozzetto, Paolo Villaggio, Enzo Cannavale",Comedy,5.8
+271,Death at Oslo Central,1990,99,Eva Isaksen,"Håvard Bakke, Tommy Karlsen, Helle Beck Figenschow","Action, Crime, Drama",6.1
+272,Ek Doctor Ki Maut,1990,122,Tapan Sinha,"Shabana Azmi, Pankaj Kapur, Irrfan Khan","Biography, Drama",8.3
+273,Guns,1990,96,Andy Sidaris,"Erik Estrada, Dona Speir, Roberta Vasquez",Action,4.5
+274,Bullseye!,1990,95,Michael Winner,"Michael Caine, Roger Moore, Sally Kirkland","Comedy, Crime",4.5
+275,Deja vu,1990,108,Juliusz Machulski,"Jerzy Stuhr, Vladimir Golovin, Wojciech Wysocki","Comedy, Crime, History",7.5
+276,The Exorcist III: Legion,1990,105,William Peter Blatty,"George C. Scott, Ed Flanders, Brad Dourif","Horror, Mystery, Thriller",7.3
+277,Funny About Love,1990,101,Leonard Nimoy,"Gene Wilder, Christine Lahti, Mary Stuart Masterson","Comedy, Romance",4.8
+278,Blood Games,1990,90,Tanya Rosenberg,"Gregory Scott Cummins, Laura Albert, Lee Benton","Action, Horror, Thriller",5.4
+279,Death in Brunswick,1990,109,John Ruane,"Sam Neill, Zoe Carides, John Clarke","Comedy, Crime, Thriller",6.4
+280,Shadowzone,1990,88,J.S. Cardone,"Louise Fletcher, David Beecroft, James Hong","Horror, Sci-Fi",5.0
+281,The Suckling,1990,89,Francis Teri,"Lisa Patruno, Tim Martin Crouse, Janet Sovey","Drama, Fantasy, Horror",4.6
+282,The Shrimp on the Barbie,1990,90,Michael Gottlieb,"Cheech Marin, Emma Samms, Vernon Wells",Comedy,5.6
+283,The Rainbow Thief,1990,87,Alejandro Jodorowsky,"Peter O'Toole, Omar Sharif, Christopher Lee","Fantasy, Drama",5.8
+284,Impulse,1990,109,Sondra Locke,"Theresa Russell, Jeff Fahey, George Dzundza","Crime, Drama, Thriller",5.8
+285,Uranus,1990,100,Claude Berri,"Philippe Noiret, Gérard Depardieu, Michel Blanc","Comedy, Drama, History",7.0
+286,The Big Steal,1990,99,Nadia Tass,"Ben Mendelsohn, Claudia Karvan, Marshall Napier",Comedy,6.8
+287,Love at Large,1990,97,Alan Rudolph,"Tom Berenger, Elizabeth Perkins, Anne Archer","Comedy, Drama, Mystery",5.7
+288,Hard to Die,1990,77,Jim Wynorski,"Gail Thackray, Karen Mayo-Chandler, Deborah Dutch","Action, Comedy, Fantasy",4.8
+289,Ajooba,1990,178,"Shashi Kapoor, Gennadiy Vasilev","Amitabh Bachchan, Dimple Kapadia, Rishi Kapoor","Action, Adventure, Comedy",5.2
+290,Crossing the Line,1990,93,David Leland,"Kenny Ireland, Liam Neeson, Joanne Whalley","Crime, Drama, Sport",5.7
+291,Akkare Akkare Akkare,1990,156,Priyadarshan,"Mohanlal, Sreenivasan, Mukesh",Comedy,7.7
+292,His Highness Abdullah,1990,156,Sibi Malayil,"Mohanlal, Nedumudi Venu, Gautami","Drama, Musical, Thriller",7.9
+293,Why Me?,1990,87,Gene Quintano,"Christopher Lambert, Kim Greist, Christopher Lloyd","Action, Adventure, Comedy",5.7
+294,A Gnome Named Gnorm,1990,84,Stan Winston,"Anthony Michael Hall, Jerry Orbach, Claudia Christian","Adventure, Family, Fantasy",4.4
+295,Everybody Wins,1990,97,Karel Reisz,"Debra Winger, Nick Nolte, Will Patton","Drama, Mystery, Thriller",5.1
+296,Tiger Cage II,1990,95,Yuen Woo-Ping,"Donnie Yen, Rosamund Kwan, David Wu","Action, Comedy, Crime",6.9
+297,Strangers in Good Company,1990,101,Cynthia Scott,"Alice Diabo, Constance Garneau, Beth Webber","Adventure, Drama",7.6
+298,Caged Fury,1990,95,Bill Milling,"Kascha, Gregory Scott Cummins, Elizabeth Hicks",Action,3.9
+299,Abuk Sabuk Bir Film,1990,94,Serif Gören,"Kemal Sunal, Siva Gerede, Murat Ilker","Comedy, Drama",6.2
+300,No: 20 Madras Mail,1990,177,Joshiy,"Mohanlal, Maniyanpilla Raju, Jagadish","Comedy, Crime, Drama",7.8
+301,Watchers II,1990,101,Thierry Notz,"Marc Singer, Tracy Scoggins, Jonathan Farwell","Horror, Sci-Fi",4.5
+302,Deadly Manor,1990,86,José Ramón Larraz,"Clark Tufts, Greg Rhodes, Claudia Franjul",Horror,4.7
+303,Faces of Death IV,1990,90,"John Alan Schwartz, Susumu Saegusa, Andrew Theopolis","James B. Schwartz, John Zimmerman, John Alan Schwartz","Documentary, Horror",3.5
+304,A Holy Place,1990,90,Djordje Kadijevic,"Dragan Jovanovic, Branka Pujic, Aleksandar Bercek","Drama, Horror",7.1
+305,Book of Love,1990,82,Robert Shaye,"Chris Young, Keith Coogan, Aeryk Egan","Comedy, Romance",6.2
+306,Rockula,1990,91,Luca Bercovici,"Dean Cameron, Toni Basil, Thomas Dolby","Comedy, Horror, Musical",5.2
+307,Far Out Man,1990,81,Tommy Chong,"Tommy Chong, C. Thomas Howell, Rae Dawn Chong",Comedy,4.9
+308,Thief of Dolls,1990,77,Mohamad Reza Honarmand,"Ebrahim Abadi, Akbar Abdi, Mehri Sadat Alagha","Adventure, Comedy, Family",6.3
+309,The Voyage of Captain Fracassa,1990,132,Ettore Scola,"Vincent Perez, Emmanuelle Béart, Massimo Troisi","Adventure, Comedy, History",7.2
+310,"No Fear, No Die",1990,90,Claire Denis,"Isaach De Bankolé, Alex Descas, Solveig Dommartin",Drama,6.7
+311,Twilight,1990,105,György Fehér,"Péter Haumann, János Derzsi, Judit Pogány","Crime, Drama, Mystery",7.2
+312,Maniac Nurses find Ecstasy,1990,75,Léon Paul De Bruyn,"Susanna Makay, Hajni Brown, Celia Farago","Action, Comedy, Horror",2.8
+313,Mister Johnson,1990,101,Bruce Beresford,"Pierce Brosnan, Edward Woodward, Maynard Eziashi",Drama,6.4
+314,Pasport,1990,103,Georgiy Daneliya,"Gérard Darmon, Natalya Gundareva, Oleg Yankovskiy","Adventure, Comedy, Drama",7.4
+315,Erotic Ghost Story,1990,90,Ngai Choi Lam,"Amy Yip, Hitomi Kudô, So Man","Fantasy, Horror",5.7
+316,Escape from the 'Liberty' Cinema,1990,92,Wojciech Marczewski,"Janusz Gajos, Zbigniew Zamachowski, Teresa Marczewska","Comedy, Drama, Fantasy",7.1
+317,A Cry in the Wild,1990,82,Mark Griffiths,"Jared Rushton, Ned Beatty, Pamela Sue Martin","Action, Adventure, Thriller",5.8
+318,First Rank,1990,150,Dev Anand,"Dev Anand, Aamir Khan, Ekta Sohini","Action, Drama, Sport",4.5
+319,Night Killer,1990,93,"Claudio Fragasso, Bruno Mattei","Peter Hooten, Tara Buckman, Richard Foster","Crime, Drama, Horror",4.3
+320,Steel and Lace,1990,92,Ernest Farino,"Clare Wren, Bruce Davison, Stacy Haiduk","Action, Horror, Sci-Fi",5.2
+321,Macken - Roy's & Roger's Bilservice,1990,92,Claes Eriksson,"Anders Eriksson, Jan Rippe, Kerstin Granlund","Comedy, Music",6.0
+322,Midnight Ride,1990,93,Bob Bralver,"Michael Dudikoff, Mark Hamill, Savina Gersak","Action, Horror, Thriller",5.1
+323,The Egg and the Stone,1990,98,Ali Abdel-Khalek,"Ahmed Zaki, Maali Zayed, Mamdouh Wafi","Comedy, Drama",7.6
+324,Lambada,1990,104,Joel Silberg,"J. Eddie Peck, Melora Hardin, Adolfo Quinones",Drama,3.5
+325,The Garden,1990,92,Derek Jarman,"Tilda Swinton, Johnny Mills, Philip MacDonald",Drama,6.3
+326,Boynu Bükük Küheylan,1990,85,Erdogan Tokatli,"Kemal Sunal, Füsun Demirel, Aydan Burhan","Comedy, Drama",6.2
+327,Metamorphosis: The Alien Factor,1990,98,Glenn Takakjian,"Matt Kulis, Patrick Barnes, Tara Leigh","Horror, Sci-Fi, Thriller",5.0
+328,Metamorphosis,1990,96,George Eastman,"Gene LeBrock, Catherine Baranov, Harry Cason","Horror, Sci-Fi",4.0
+329,Jagadeka Veerudu Athiloka Sundari,1990,153,K. Raghavendra Rao,"Chiranjeevi, Sridevi, Tanikella Bharani","Action, Comedy, Family",8.0
+330,Nils Karlsson Pyssling,1990,75,Staffan Götestam,"Jonatan Lindoff, Oskar Löfkvist, Britta Pettersson","Family, Fantasy",5.7
+331,"No Retreat, No Surrender 3: Blood Brothers",1990,101,Lucas Lowe,"Loren Avedon, Keith Vitali, Joseph Campanella","Action, Crime, Drama",5.3
+332,Lua de Cristal,1990,90,Tizuka Yamasaki,"Xuxa, Sergio Mallandro, Selvagem Big Abreu","Comedy, Family, Fantasy",4.6
+333,Heaven and Earth,1990,125,Haruki Kadokawa,"Takaaki Enoki, Masahiko Tsugawa, Atsuko Asano","Action, Adventure, Drama",6.8
+334,Grim Prairie Tales,1990,86,Wayne Coe,"James Earl Jones, Brad Dourif, Will Hare","Horror, Western",5.4
+335,Rodrigo D: No futuro,1990,93,Víctor Gaviria,"Ramiro Meneses, Carlos Mario Restrepo, Jackson Idrian Gallego","Crime, Drama, Music",7.0
+336,"Feuer, Eis & Dynamit",1990,106,Willy Bogner,"Roger Moore, Shari Belafonte, Simon Shepherd","Action, Comedy, Sport",3.9
+337,Hanafi el-Ubbahah,1990,120,Mohamed Abdelaziz,"Adel Emam, Farouk Al-Fishawy, Zainab Abduh","Comedy, Crime",5.9
+338,Deewana Mujh Sa Nahin,1990,130,"Y. Nageswara Rao, M. Parvez","Aamir Khan, Madhuri Dixit, Khushbu Sundar","Romance, Comedy, Drama",5.0
+339,"God afton, herr Wallenberg",1990,115,Kjell Grede,"Stellan Skarsgård, Katharina Thalbach, Károly Eperjes","Biography, Drama, War",6.5
+340,Curry and Pepper,1990,101,Blackie Shou-Liang Ko,"Stephen Chow, Jacky Cheung, Ann Bridgewater","Action, Comedy",6.5
+341,The Haunting of Morella,1990,82,Jim Wynorski,"Nicole Eggert, David McCallum, Christopher Halsted","Horror, Romance, Thriller",4.5
+342,Turné,1990,91,Gabriele Salvatores,"Diego Abatantuono, Laura Morante, Fabrizio Bentivoglio","Comedy, Drama",7.0
+343,All the Vermeers in New York,1990,87,Jon Jost,"Emmanuelle Chaulet, Stephen Lack, Katie Garner","Comedy, Drama, Romance",6.4
+344,La discrète,1990,94,Christian Vincent,"Fabrice Luchini, Judith Henry, Maurice Garrel","Drama, Romance",7.0
+345,Wings of Fame,1990,109,Otakar Votocek,"Peter O'Toole, Colin Firth, Marie Trintignant","Comedy, Drama, Fantasy",6.8
+346,Open Doors,1990,108,Gianni Amelio,"Gian Maria Volontè, Ennio Fantastichini, Renato Carpentieri","Crime, Drama",7.1
+347,Les 1001 nuits,1990,98,Philippe de Broca,"Catherine Zeta-Jones, Gérard Jugnot, Stéphane Freiss","Adventure, Comedy, Fantasy",5.5
+348,"Look Out, Officer!",1990,92,Sze-Yu Lau,"Stephen Chow, Bill Tung, Stanley Sui-Fan Fung","Action, Comedy, Crime",5.8
+349,American Dream,1990,98,"Barbara Kopple, Cathy Caplan, Thomas Haneke","Lewie Anderson, R.J. Bergstrom, Ron Bergstrom",Documentary,7.8
+350,Circuitry Man,1990,93,Steven Lovy,"Jim Metzler, Dana Wheeler-Nicholson, Lu Leonard","Action, Comedy, Sci-Fi",4.7
+351,Chains of Gold,1990,95,Rod Holcomb,"John Travolta, Marilu Henner, Joey Lawrence","Action, Crime, Drama",5.1
+352,Tum Mere Ho,1990,129,Tahir Hussain,"Aamir Khan, Juhi Chawla, Ajit Vachani","Fantasy, Horror, Romance",3.9
+353,Men of Respect,1990,113,William Reilly,"John Turturro, Katherine Borowitz, Dennis Farina","Crime, Drama, Thriller",5.5
+354,"No, or the Vain Glory of Command",1990,110,Manoel de Oliveira,"Luís Miguel Cintra, Diogo Dória, Miguel Guilherme","Drama, History, War",7.2
+355,Blood Oath,1990,108,Stephen Wallace,"Bryan Brown, George Takei, Terry O'Quinn","Drama, War",6.4
+356,C'est la vie,1990,110,Diane Kurys,"Nathalie Baye, Julie Bataille, Richard Berry","Comedy, Drama, Romance",6.2
+357,Beyond Darkness,1990,95,Claudio Fragasso,"Gene LeBrock, David Brandon, Barbara Bingham",Horror,4.3
+358,Freeze Die Come to Life,1990,105,Vitali Kanevsky,"Dinara Drukarova, Pavel Nazarov, Elena Popova",Drama,7.5
+359,Mom,1990,95,Patrick Rand,"Mark Thomas Miller, Jeanne Bates, Brion James","Comedy, Fantasy, Horror",5.2
+360,Kill Cruise,1990,98,Peter Keglevic,"Jürgen Prochnow, Patsy Kensit, Elizabeth Hurley","Adventure, Drama, Thriller",4.8
+361,War of the Birds,1990,68,"Jannik Hastrup, Lou Scheimer","Emil Tarding, Lasse Jonsson, Sofie Bredesen","Animation, Adventure, Comedy",7.1
+362,Quest for the Mighty Sword,1990,94,Joe D'Amato,"Eric Allan Kramer, Margaret Lenzey, Donald O'Brien","Adventure, Fantasy",2.7
+363,Kottayam Kunjachan,1990,120,T.S. Suresh Babu,"Mammootty, Renjini, Innocent Vareed Thekkethala","Action, Comedy, Drama",7.4
+364,Blackest Heart,1990,63,Christoph Schlingensief,"Karina Fallenstein, Susanne Bredehöft, Artur Albrecht","Comedy, Horror",5.0
+365,Streets,1990,85,Katt Shea,"Christina Applegate, David Mendenhall, Eb Lottimer","Action, Drama, Thriller",5.7
+366,Night Sun,1990,113,"Paolo Taviani, Vittorio Taviani","Julian Sands, Charlotte Gainsbourg, Massimo Bonetti","Drama, Romance",7.1
+367,Angel Town,1990,106,Eric Karson,"Olivier Gruner, Peter Kwong, Theresa Saldana","Action, Drama",5.0
+368,Killer Crocodile 2,1990,87,Giannetto De Rossi,"Richard Anthony Crenna, Debra Karr, Ennio Girolami",Horror,4.4
+369,The King's Whore,1990,115,Axel Corti,"Valeria Golino, Robin Renucci, Paul Crauchet","Drama, History, Romance",5.7
+370,Vital Signs,1990,103,Marisa Silver,"Adrian Pasdar, Diane Lane, Jack Gwaltney","Drama, Romance",5.5
+371,Daddy's Dyin'... Who's Got the Will?,1990,95,Jack Fisk,"Beau Bridges, Keith Carradine, Beverly D'Angelo",Comedy,5.8
+372,The Spirit of '76,1990,82,Lucas Reiner,"Mark Mothersbaugh, Gerald Casale, Carl Reiner","Comedy, Sci-Fi",5.8
+373,Ultra Warrior,1990,81,"Augusto Tamayo San Román, Kevin Tent","Dack Rambo, Clare Beresford, Meshach Taylor","Action, Adventure, Sci-Fi",2.0
+374,A Show of Force,1990,95,Bruno Barreto,"Amy Irving, Robert Duvall, Andy Garcia","Drama, Thriller",5.3
+375,Daddy Nostalgia,1990,105,Bertrand Tavernier,"Dirk Bogarde, Jane Birkin, Odette Laure","Drama, Romance",6.8
+376,Cloud-Paradise,1990,76,Nikolay Dostal,"Andrey Zhigalov, Sergey Batalov, Irina Rozanova",Drama,7.7
+377,The Branches of the Tree,1990,130,Satyajit Ray,"Ajit Banerjee, Haradhan Bannerjee, Soumitra Chatterjee",Drama,7.7
+378,Thazhvaram,1990,130,Bharathan,"Mohanlal, Salim Ghouse, Sumalatha","Crime, Drama, Musical",8.2
+379,Magic Cop,1990,87,Wei Tung,"Ching-Ying Lam, Wilson Lam, Michael Kiu Wai Miu","Comedy, Crime, Fantasy",6.8
+380,Future Zone,1990,82,David A. Prior,"David Carradine, Ted Prior, Patrick Culliton","Action, Comedy, Crime",3.4
+381,Night Angel,1990,88,Dominique Othenin-Girard,"Isa Jank, Linden Ashby, Debra Feuer",Horror,4.6
+382,Bloodfist II,1990,85,Andy Blumenthal,"Don Wilson, Rina Reyes, Joe Mari Avellana","Action, Sport",4.9
+383,Dr. Petiot,1990,102,Christian de Chalonge,"Michel Serrault, Pierre Romans, Bérangère Bonvoisin","Biography, Crime, Drama",6.8
+384,Homework,1990,121,Jaime Humberto Hermosillo,"María Rojo, José Alonso","Comedy, Drama, Romance",6.3
+385,Pale Blood,1990,93,"V.V. Dachin Hsu, Michael W. Leighton","George Chakiris, Wings Hauser, Pamela Ludwig",Horror,4.9
+386,Bloodmoon,1990,100,Alec Mills,"Leon Lissek, Christine Amor, Ian Williams","Horror, Thriller",4.6
+387,Syngenor,1990,98,George Elanjian Jr.,"Starr Andreeff, Mitchell Laurance, David Gale","Horror, Sci-Fi",4.3
+388,Kishen Kanhaiya,1990,160,Rakesh Roshan,"Vikas Anand, Ranjeet Bedi, Bindu Desai","Action, Comedy, Drama",5.9
+389,Night Eyes,1990,97,Jag Mundhra,"Andrew Stevens, Tanya Roberts, Cooper Huckabee","Drama, Thriller",4.2
+390,Chicago Joe and the Showgirl,1990,103,Bernard Rose,"Emily Lloyd, Kiefer Sutherland, John Lahr","Crime, Drama, Romance",5.0
+391,Mr. Chief,1990,80,Mesut Uçakan,"Haluk Kurtoglu, Murat Soydan, Ümit Acar",Drama,7.6
+392,Quiet Days in Clichy,1990,120,Claude Chabrol,"Andrew McCarthy, Nigel Havers, Barbara De Rossi",Drama,4.8
+393,Skinny Tiger and Fatty Dragon,1990,105,Liu Chia-Yung,"Sammo Kam-Bo Hung, Karl Maka, Ming Yan Lung","Action, Comedy, Crime",6.6
+394,Carobnjakov sesir,1990,75,Milan Blazekovic,"Dragan Milivojevic, Ivo Rogulja, Emil Glad","Animation, Family, Fantasy",8.4
+395,"Chyornaya roza - emblema pechali, krasnaya roza - emblema lyubvi",1990,131,Sergey Solovyov,"Tatyana Drubich, Aleksandr Abdulov, Mikhail Rozanov","Comedy, Drama, Romance",7.2
+396,The Second Circle,1990,92,Aleksandr Sokurov,"Pyotr Aleksandrov, Nadezhda Rodnova, Tamara Timofeeva",Drama,7.1
+397,Kid,1990,91,John Mark Robinson,"C. Thomas Howell, Sarah Trigger, Brian Austin Green","Action, Thriller",6.2
+398,Samrajyam,1990,122,Jomon,"Ashokan, Vishnu, Mammootty","Action, Crime, Thriller",7.4
+399,Berkeley in the Sixties,1990,117,Mark Kitchell,"Jentri Anders, Joan Baez, Frank Bardacke","Documentary, History",7.5
+400,Vacanze di Natale '90,1990,97,Enrico Oldoini,"Massimo Boldi, Christian De Sica, Diego Abatantuono","Comedy, Romance",4.6
+401,Deceit,1990,90,Albert Pyun,"Samantha Phillips, Norbert Weisser, Scott Paulin","Comedy, Sci-Fi",4.8
+402,Bright Angel,1990,93,Michael Fields,"Dermot Mulroney, Lili Taylor, Sam Shepard","Drama, Thriller",5.5
+403,When Fortune Smiles,1990,90,Anthony Chan,"Stephen Chow, Sandra Ng, Anthony Chan","Action, Comedy, Crime",6.2
+404,Uunon huikeat poikamiesvuodet maaseudulla,1990,94,Pertti Melasniemi,"Vesa-Matti Loiri, Olavi Ahonen, Simo Salminen",Comedy,5.1
+405,Naked Tango,1990,93,Leonard Schrader,"Mathilda May, Fernando Rey, Tony Payne","Crime, Drama, Romance",5.7
+406,Paper Mask,1990,105,Christopher Morahan,"Paul McGann, Amanda Donohoe, Frederick Treves","Crime, Drama, Fantasy",6.6
+407,Thousand Pieces of Gold,1990,105,Nancy Kelly,"Rosalind Chao, Chris Cooper, Michael Paul Chan","Romance, Western",6.9
+408,Echoes From a Somber Empire,1990,91,Werner Herzog,"Michael Goldsmith, Werner Herzog, Augustine Assemat",Documentary,7.1
+409,Tonight at Alice's,1990,123,Carlo Verdone,"Carlo Verdone, Ornella Muti, Sergio Castellitto",Comedy,5.8
+410,Bad Girls from Mars,1990,86,Fred Olen Ray,"Edy Williams, Oliver Darrow, Brinke Stevens",Comedy,3.6
+411,She Shoots Straight,1990,87,Corey Yuen,"Sammo Kam-Bo Hung, Joyce Godenzi, Tony Ka Fai Leung","Action, Crime",6.7
+412,"I, the Worst of All",1990,105,María Luisa Bemberg,"Assumpta Serna, Dominique Sanda, Héctor Alterio","Biography, Drama, History",7.1
+413,Skinned Alive,1990,77,Jon Killough,"Mary Jackson, Scott Spiegel, Susan Rothacker","Comedy, Horror",3.8
+414,Jawani Zindabad,1990,163,Arun Bhatt,"Aamir Khan, Farha Naaz, Jaaved Jaaferi","Drama, Romance",5.0
+415,Vaikai is Amerikos viesbucio,1990,88,Raimundas Banionis,"Augustas Savialis, Gabija Jaraminaite, Jurate Onaityte","Drama, History, Music",8.0
+416,Red Dust,1990,94,Ho Yim,"Brigitte Lin, Chin Han, Maggie Cheung","Drama, Romance, War",6.9
+417,Vääpeli Körmy ja marsalkan sauva,1990,111,Ere Kokkonen,"Heikki Kinnunen, Pekka Huotari, Pertti Koivula",Comedy,5.4
+418,Aaj Ka Arjun,1990,164,K.C. Bokadia,"Amitabh Bachchan, Jaya Prada, Radhika Sarathkumar","Action, Crime, Drama",4.6
+419,Whispers,1990,100,Douglas Jackson,"Victoria Tennant, Jean Leclerc, Chris Sarandon","Horror, Mystery, Thriller",4.5
+420,Omega Cop,1990,87,Paul Kyriazi,"Ronald L. Marchini, Adam West, Meg Thayer","Action, Sci-Fi",2.9
+421,Without You I'm Nothing,1990,89,John Boskovich,"Sandra Bernhard, John Doe, Steve Antin","Comedy, Musical",6.4
+422,Ding et Dong le film,1990,96,Alain Chartrand,"Serge Thériault, Claude Meunier, Raymond Bouchard",Comedy,6.0
+423,Masters of Menace,1990,97,Daniel Raskov,"David Rasche, Catherine Bach, Tino Insana",Comedy,5.2
+424,The Law,1990,81,Idrissa Ouedraogo,"Rasmané Ouédraogo, Ina Cissé, Roukietou Barry","Drama, Romance",6.9
+425,Kurt Olsson - Filmen om mitt liv som mej själv,1990,88,Håkan Wennberg,"Lars Brandeby, Hans Wiktorsson, Anki Rahlskog",Comedy,4.8
+426,Mad Jake,1990,98,Tucker Johnston,"Danny Nelson, Lori Birdsong, Christian Hesler","Comedy, Horror",5.0
+427,Thalayanamanthram,1990,135,Sathyan Anthikad,"Sreenivasan, Urvashi, Jayaram","Comedy, Drama",7.8
+428,The Crossing,1990,92,George Ogilvie,"Russell Crowe, Robert Mammone, Danielle Spencer","Drama, Romance",5.5
+429,Peacemaker,1990,100,Kevin Tenney,"Robert Forster, Lance Edwards, Hilary Shepard","Action, Romance, Sci-Fi",5.2
+430,The Sleeping Car,1990,96,Douglas Curtis,"David Naughton, Judie Aronson, Kevin McCarthy","Horror, Comedy",4.7
+431,Hajde da se volimo 3,1990,92,Stanko Crnobrnja,"Lepa Brena, Lazar Ristovski, Emir Hadzihafizbegovic","Comedy, Musical",4.4
+432,Aye Auto,1990,137,Venu Nagavalli,"Mohanlal, Rekha, Murali","Comedy, Romance",7.1
+433,Ragazzi fuori,1990,110,Marco Risi,"Francesco Benigno, Alessandra Di Sanzo, Roberto Mariano",Drama,6.9
+434,Iron & Silk,1990,92,Shirley Sun,"Mark Salzman, Qingfu Pan, Hangcheng Dong","Comedy, Drama",6.9
+435,Blue Desert,1990,97,Bradley Battersby,"D.B. Sweeney, Courteney Cox, Craig Sheffer",Thriller,5.2
+436,I Don't Owe 100 Times,1990,91,Alejandro Doria,"Norma Aleandro, Luis Brandoni, Andrea Del Boca",Comedy,6.4
+437,Vice Academy Part 2,1990,93,Rick Sloane,"Ginger Lynn, Linnea Quigley, Jayne Hamil","Comedy, Crime",4.3
+438,Doraemon: Nobita and the Animal Planet,1990,99,Tsutomu Shibayama,"Nobuyo Ôyama, Noriko Ohara, Michiko Nomura","Animation, Adventure, Family",6.8
+439,Le party,1990,103,Pierre Falardeau,"Charlotte Laurier, Benoît Dagenais, Julien Poulin","Comedy, Drama",7.0
+440,Waiting for the Light,1990,94,Christopher Monger,"Shirley MacLaine, Teri Garr, Louis Guzzo",Comedy,6.0
+441,Song of the Exile,1990,100,Ann Hui,"Maggie Cheung, Siu-Kwong Chung, Tan Lang Jachi Tian",Drama,7.4
+442,There Were Days... and Moons,1990,117,Claude Lelouch,"Gérard Lanvin, Patrick Chesnais, Annie Girardot","Comedy, Drama",6.0
+443,Ronin Gai,1990,117,"Kazuo Kuroki, Masahiro Makino","Yoshio Harada, Kanako Higuchi, Renji Ishibashi","Action, Drama",6.6
+444,China Cry: A True Story,1990,101,James F. Collier,"Julia Nickson, France Nuyen, James Shigeta","Biography, Drama, History",6.7
+445,The Palermo Connection,1990,100,Francesco Rosi,"Jim Belushi, Mimi Rogers, Joss Ackland","Crime, Drama, Thriller",5.6
+446,"Chastnyy detektiv, ili operatsiya 'Kooperatsiya'",1990,94,Leonid Gaidai,"Dmitriy Kharatyan, Irina Feofanova, Spartak Mishulin","Comedy, Crime, Drama",5.3
+447,Porno,1990,78,Marek Koterski,"Zbigniew Rola, Agnieszka Wojcik, Iwona Katarzyna Pawlak","Comedy, Romance",5.6
+448,Ben ming nian,1990,107,Fei Xie,"Wen Jiang, Cheng Lin, Hong Yue","Crime, Drama",7.3
+449,Amazon,1990,96,Mika Kaurismäki,"Kari Väänänen, Robert Davi, Rae Dawn Chong","Adventure, Drama",5.6
+450,Sügis,1990,85,Arvo Kruusement,"Margus Lepa, Liina Tennosaar, Anne Reemann","Comedy, Drama",7.0
+451,Avariya - doch menta,1990,99,Mikhail Tumanishvili,"Oksana Arbuzova, Vladimir Ilin, Anastasiya Voznesenskaya",Drama,6.7
+452,Eminent Domain,1990,106,John Irvin,"Donald Sutherland, Anne Archer, Jodhi May","Drama, Thriller",5.9
+453,Too Much Sun,1990,97,Robert Downey Sr.,"Robert Downey Jr., Howard Duff, Laura Ernst",Comedy,4.2
+454,A Man Called Sarge,1990,88,Stuart Gillard,"Gary Kroeger, Gretchen German, Marc Singer","Comedy, War",4.4
+455,The Rain Killer,1990,94,Ken Stein,"Ray Sharkey, David Beecroft, Tania Coleridge","Crime, Horror, Mystery",4.7
+456,12 Hours of Terror,1990,94,Jing Wong,"Alan Tam, Andy Lau, Eric Tsang","Action, Comedy, Crime",6.5
+457,Ee Thanutha Veluppan Kalathu,1990,140,Joshiy,"Mammootty, Suresh Gopi, Sumalatha","Mystery, Thriller",7.5
+458,Nuit d'été en ville,1990,85,Michel Deville,"Jean-Hugues Anglade, Marie Trintignant","Drama, Romance",6.1
+459,Herman,1990,88,Erik Gustavson,"Anders Danielsen Lie, Frank Robert, Elisabeth Sand","Drama, Family",6.1
+460,Love Is Love,1990,95,Tommy Ga-Shu Leung,"Stephen Chow, Sandra Ng, Shing Fui-On","Comedy, Drama, Romance",6.1
+461,Promotion canapé,1990,92,Didier Kaminka,"Grace de Capitani, Thierry Lhermitte, Michel Sardou",Comedy,4.4
+462,Cold Dog Soup,1990,87,Alan Metter,"Randy Quaid, Frank Whaley, Christine Harnos",Comedy,5.6
+463,Body Chemistry,1990,84,Kristine Peterson,"Marc Singer, Lisa Pescia, Mary Crosby","Drama, Thriller",4.4
+464,Enid Is Sleeping,1990,105,Maurice Phillips,"Elizabeth Perkins, Judge Reinhold, Jeffrey Jones","Comedy, Crime",5.4
+465,The Disenchanted,1990,78,Benoît Jacquot,"Judith Godrèche, Marcel Bozonnet, Thérèse Liotard","Drama, Romance",6.1
+466,Dr. M,1990,116,Claude Chabrol,"Alan Bates, Jennifer Beals, Jan Niklas","Crime, Drama, Mystery",4.8
+467,Semya vurdalakov,1990,82,"Gennadiy Klimov, Igor Shavlak","Yelena Karadzhova, Yuriy Katin-Yartsev, Vsevolod Khabarov",Horror,6.1
+468,Stalingrad,1990,196,Yuriy Ozerov,"Powers Boothe, Liubomiras Laucevicius, Sergey Nikonenko","Drama, War",6.8
+469,The Return of Superfly,1990,95,Sig Shore,"Nathan Purdee, Margaret Avery, Leonard L. Thomas","Action, Crime, Drama",4.1
+470,The Little Gangster,1990,100,Jacques Doillon,"Richard Anconina, Gérald Thomassin, Clotilde Courau",Drama,6.7
+471,Haatim Tai,1990,125,Babubhai Mistry,"Jeetendra, Sangeeta Bijlani, Sonu Walia","Drama, Fantasy, Romance",5.8
+472,The Dragon from Russia,1990,96,Clarence Fok,"Samuel Hui, Maggie Cheung, Nina Li Chi",Action,5.4
+473,Fatal Exam,1990,114,Jack Snyder,"Mike Coleman, Terry Comer, Carol Carlberg-Snyder","Crime, Drama, Fantasy",3.7
+474,Bakenbardy,1990,100,Yuri Mamin,"Viktor Sukhorukov, Aleksandr Medvedev, Artur Vakha",Comedy,7.4
+475,Al imbrator,1990,115,Tarek Alarian,"Ahmed Zaki, Raghda, Mahmoud Hemida","Crime, Drama",6.3
+476,Ghar Ho To Aisa,1990,155,Kalpataru,"Anil Kapoor, Meenakshi Sheshadri, Raj Kiran",Drama,6.0
+477,Mirage,1990,85,Bill Crain,"Jennifer McAllister, Todd Caldecott, Kenny Johnson","Action, Horror, Thriller",5.2
+478,Kizhakku Vasal,1990,144,R.V. Udhaya Kumar,"Karthik, Revathi, Khushbu Sundar","Drama, Romance",8.1
+479,Red Blooded American Girl,1990,89,David Blyth,"Andrew Stevens, Heather Thomas, Christopher Plummer","Comedy, Horror, Sci-Fi",3.9
+480,Adisaya Piravi,1990,145,S.P. Muthuraman,"Rajinikanth, Sheeba Agarwal, Chinnijayanth","Action, Comedy, Fantasy",6.8
+481,The Best of the Martial Arts Films,1990,91,Sandra Weintraub,"John Saxon, Kareem Abdul-Jabbar, Chris Casamassa","Documentary, Action",6.9
+482,Silent Gunpowder,1990,116,Bahrudin 'Bato' Cengic,"Mustafa Nadarevic, Branislav Lecic, Fabijan Sovagovic","Drama, War",7.5
+483,My Hero,1990,93,Ka-Yan Leung,"Stephen Chow, Wilson Lam, Shing Fui-On","Action, Comedy, Crime",5.7
+484,De gulle minnaar,1990,100,Mady Saks,"Peter Faber, Mariska Van Kolck, Ian Smith","Comedy, Romance",3.7
+485,Sink or Swim,1990,48,Su Friedrich,Jessica Meyerson,Documentary,7.2
+486,Dancin' Thru the Dark,1990,91,Mike Ockrent,"Ben Murphy, Con O'Neill, Peter Beckett",Comedy,6.8
+487,The Sting of Death,1990,115,Kôhei Oguri,"Keiko Matsuzaka, Ittoku Kishibe, Midori Kiuchi",Drama,6.8
+488,Thanedaar,1990,151,Raj N. Sippy,"Jeetendra, Sanjay Dutt, Jaya Prada","Action, Crime, Drama",5.4
+489,Undeclared War,1990,107,Ringo Lam,"Danny Lee, Olivia Hussey, Peter Liapis","Action, Crime, Thriller",6.2
+490,Spirits,1990,88,Fred Olen Ray,"Erik Estrada, Robert Quarry, Brinke Stevens","Drama, Fantasy, Horror",3.7
+491,Women's Ward,1990,146,Halit Refig,"Kadir Inanir, Hülya Koçyigit, Perihan Savas",Drama,7.4
+492,Cold Light of Day,1990,80,Fhiona-Louise,"Bob Flag, Martin Byrne-Quinn, Geoffrey Greenhill","Biography, Crime, Horror",5.4
+493,Kodama Simham,1990,141,K. Muralimohana Rao,"Chiranjeevi, Sonam, Radha","Action, Adventure, Drama",7.1
+494,The Unmatchable Match,1990,98,Parkman Wong,"Stephen Chow, Michael Wai-Man Chan, Vivian Chow","Action, Crime, Drama",6.2
+495,"Like the Clouds, Like the Wind",1990,79,Hisayuki Toriumi,"Ryoko Sano, Atsuko Takahata, Ikuko Tani","Animation, Comedy, Drama",6.5
+496,Click: The Calendar Girl Killer,1990,87,"Ross Hagen, John Stewart","Troy Donahue, Ross Hagen, Hoke Howell","Horror, Thriller",3.2
+497,Bethune: The Making of a Hero,1990,115,Phillip Borsos,"Donald Sutherland, Helen Mirren, Helen Shaver","Biography, Drama, Romance",6.4
+498,Lekin...,1990,171,Gulzar,"Vinod Khanna, Dimple Kapadia, Amjad Khan","Drama, Fantasy, Musical",7.9
+499,Bandh Darwaza,1990,145,"Shyam Ramsay, Tulsi Ramsay","Hashmat Khan, Manjeet Kular, Kunika Sadanand","Action, Drama, Horror",5.4
+500,Aftershock,1990,91,Frank Harris,"James Lew, Michael Standing, Elizabeth Kaitan","Action, Sci-Fi",4.2
+501,Pastime,1990,94,Robin B. Armstrong,"William Russ, Glenn Plummer, Noble Willingham","Drama, Sport",6.6
+502,Triple Cross,1990,77,Ackyl Anwari,"Cynthia Rothrock, Chris Barnes, Peter O'Brian",Action,4.3
+503,Panakkaran,1990,147,P. Vasu,"Rajinikanth, Gowthami, Janakaraj",Drama,6.8
+504,"Shake, Rattle & Roll 2",1990,120,"Peque Gallaga, Lore Reyes","Janice De Belen, Eric Quizon, Eddie Gutierrez","Comedy, Horror, Thriller",6.5
+505,Love Hurts,1990,106,Bud Yorkin,"Jeff Daniels, Cynthia Sikes Yorkin, Judith Ivey","Comedy, Drama",5.4
+506,Aquí huele a muerto... (¡pues yo no he sido!),1990,88,Álvaro Sáenz de Heredia,"Josema Yuste, Millán Salcedo, Ana Álvarez","Comedy, Horror",4.0
+507,Her Fatal Ways,1990,100,Alfred Cheung,"Do Do Cheng, Tony Ka Fai Leung, Alfred Cheung","Action, Comedy, Crime",6.7
+508,The Revenger,1990,87,Cedric Sundstrom,"Oliver Reed, Frank Zagarino, Jeff Celentano","Action, Adventure, Drama",4.9
+509,Baap Numbri Beta Dus Numbri,1990,152,Aziz Sejawal,"Govardhan Asrani, Gulshan Grover, Jamuna","Action, Comedy, Crime",6.0
+510,Tetri bairagebi,1990,168,Giga Lortkipanidze,"Giorgi Khobua, Ketevan Kiknadze, Gia Burjanadze",Drama,8.6
+511,O Iran,1990,110,Nasser Taghvai,"Akbar Abdi, Hossein Sarshar, Soraya Hekmat","Comedy, Drama, Family",6.6
+512,To Play or to Die,1990,48,Frank Krom,"Tjebbo Gerritsma, Simon Gribling, Joost Hienen",Drama,6.2
+513,City Hunter: Bay City Wars,1990,45,Kenji Kodama,"Akira Kamiya, Kazue Ikura, Yôko Asagami","Animation, Action, Comedy",6.8
+514,My Cinemas,1990,90,"Füruzan, Gülsün Karamustafa","Hülya Avsar, Sema Aybars, Yaman Okay",Drama,5.9
+515,Julia Has Two Lovers,1990,86,Bashar Shbib,"Daphna Kastner, David Duchovny, David Charles","Comedy, Drama, Romance",5.1
+516,Dead Girls,1990,106,Dennis Devine,"Diana Karanikas, Angela Eads, Kay Schaber","Thriller, Horror",4.4
+517,Dance of the Polar Bears,1990,89,Birger Larsen,"Anders Schoubye, Tommy Kenter, Birthe Neumann","Drama, Family",6.4
+518,Moskovskaya elegiya,1990,88,Aleksandr Sokurov,"Andrei Tarkovsky, Tonino Guerra, Domiziana Giordano",Documentary,7.2
+519,Time Barbarians,1990,96,Joseph John Barmettler,"Deron McBee, Joann Ayers, Daniel Martine","Fantasy, Sci-Fi",3.2
+520,Kung Fu vs. Acrobatic,1990,99,Taylor Wong,"Pak-Cheung Chan, Jing Chen, Shing Fui-On","Action, Comedy, Fantasy",5.6
+521,Dancing Machine,1990,107,Gilles Béhat,"Alain Delon, Claude Brasseur, Patrick Dupond",Thriller,4.1
+522,L'avaro,1990,117,Tonino Cervi,"Alberto Sordi, Laura Antonelli, Valérie Allain",Comedy,6.0
+523,Lal Salam,1990,146,Venu Nagavalli,"Mohanlal, Kollam Ajith, Lalu Alex",Drama,7.5
+524,Prince of the Sun,1990,84,"Wellson Chin, Shan Hua","Conan Lee, Pak Lam Cheng, Sheila Chan","Action, Adventure, Comedy",5.3
+525,Kwagga Strikes Back,1990,92,David Lister,"Leon Schuster, Bill Flynn, Casper de Vries",Comedy,6.3
+526,In the Spirit,1990,94,Sandra Seacat,"Marlo Thomas, Elaine May, Jeannie Berlin",Comedy,5.1
+527,Mukham,1990,118,Mohan,"Mohanlal, Renjini, Nassar","Crime, Mystery, Thriller",6.8
+528,The Station,1990,92,Sergio Rubini,"Sergio Rubini, Margherita Buy, Ennio Fantastichini","Comedy, Drama, Thriller",6.9
+529,Kalikkalam,1990,127,Sathyan Anthikad,"Mammootty, Murali, Sreenivasan","Comedy, Drama, Thriller",7.2
+530,December Bride,1990,88,Thaddeus O'Sullivan,"Donal McCann, Saskia Reeves, Ciarán Hinds",Drama,6.4
+531,Meteo,1990,98,András Monory Mész,"Judit László, Péter Geltz, Károly Eperjes","Drama, Mystery, Sci-Fi",6.6
+532,Kondaveeti Donga,1990,151,A. Kodandarami Reddy,"Chiranjeevi, Vijayashanti, Amrish Puri","Action, Adventure, Drama",7.2
+533,Jezebel's Kiss,1990,96,Harvey Keith,"Katherine Barrese, Malcolm McDowell, Meredith Baxter","Drama, Thriller",4.4
+534,Peter in Magicland,1990,80,Wolfgang Urchs,"André Schmidtsdorf, Nathalie del Castillo, Manfred Lichtenfeld","Animation, Adventure, Family",7.3
+535,The Immigrant,1990,95,Ebrahim Hatamikia,"Seyed Ali Reza Khatami, Seyed Ebrahim Asgharzadeh, Ali Reza Heydari","Drama, War",5.9
+536,L'Élégant Criminel,1990,120,Francis Girod,"Daniel Auteuil, Jean Poiret, Jacques Weber","Biography, Crime, Drama",6.1
+537,Iyer the Great,1990,123,Bhadran,"Mammootty, Geetha, Devan",Thriller,7.0
+538,Club Fed,1990,93,Nat Christian,"Burt Young, Allen Garfield, Judy Landers",Comedy,3.3
+539,Diving In,1990,93,Strathford Hamilton,"Matt Adler, Kristy Swanson, Burt Young","Comedy, Drama, Sport",4.9
+540,Revenge of the Radioactive Reporter,1990,84,Craig Pryce,"David Scammell, Kathryn Boese, Derrick Strange","Comedy, Horror",4.3
+541,The Final Alliance,1990,90,Mario DiLeo,"David Hasselhoff, Bo Hopkins, John Saxon","Action, Drama",4.3
+542,The Last Island,1990,101,Marleen Gorris,"Paul Freeman, Shelagh McLeod, Patricia Hayes","Adventure, Drama, Sci-Fi",6.3
+543,Playroom,1990,90,Manny Coto,"Lisa Aliff, Aron Eisenberg, Christopher McDonald","Horror, Thriller",4.8
+544,Cross My Heart,1990,105,Jacques Fansten,"Sylvain Copans, Nicolas Parodi, Olivier Montiege","Adventure, Drama, Romance",6.6
+545,Dhadakebaaz,1990,138,Mahesh Kothare,"Laxmikant Berde, Ravindra Berde, Ashwini Bhave",Comedy,7.7
+546,Warsaw Bridge,1990,85,Pere Portabella,"Carme Elias, Francisco Guijar, Jordi Dauder",Drama,6.6
+547,Tales of a Golden Geisha,1990,114,Jûzô Itami,"Nobuko Miyamoto, Masahiko Tsugawa, Hiroshi Ôkôchi","Comedy, Drama, Romance",6.4
+548,The Giant of Thunder Mountain,1990,94,James W. Roberson,"Richard Kiel, Cloris Leachman, Lynne Seus","Drama, Family, Western",6.0
+549,O Mistério de Robin Hood,1990,90,José Alvarenga Jr.,"Renato Aragão, Beto Carrero, Amadeu Celestino","Family, Comedy",3.9
+550,Cyber-C.H.I.C.,1990,102,"Ed Hansen, Jeffrey Mandel","Kathy Shower, Jennifer Daly, Burt Ward","Action, Comedy, Sci-Fi",2.5
+551,Living Doll,1990,95,"George Dugdale, Peter Mackenzie Litten","Mark Jax, Katie Orgill, Gary Martin","Drama, Fantasy, Horror",5.5
+552,Step Across the Border,1990,90,"Nicolas Humbert, Werner Penzel","Jonas Mekas, Julia Judge, John Spacely","Documentary, Music",8.0
+553,Berdel,1990,85,Atif Yilmaz,"Türkan Soray, Tarik Akan, Mine Çayiroglu","Drama, Romance",6.9
+554,El-Raqesah wa el-Seyasi,1990,97,Samir Seif,"Nabila Ebeid, Salah Qabil, Mustafa Metwalli",Drama,6.5
+555,Uma Escola Atrapalhada,1990,90,Del Rangel,"Angélica, Jandira Martini, Supla","Family, Comedy",4.8
+556,Tom et Lola,1990,97,Bertrand Arthuys,"Cécile Magnet, Marc Berman, Catherine Frot",Sci-Fi,6.3
+557,Soerabaja '45,1990,120,Imam Tantowi,"Usman Effendy, Leo Kristi, Tuty Kusnendar","Drama, War",7.2
+558,Dead Sleep,1990,86,Alec Mills,"Linda Blair, Tony Bonner, Andrew Booth","Mystery, Thriller",4.7
+559,Superstar: The Life and Times of Andy Warhol,1990,87,Chuck Workman,"John Warhola, Viva, Dennis Hopper","Documentary, Biography",6.9
+560,Black Cobra 3: The Manila Connection,1990,92,Edoardo Margheriti,"Fred Williamson, Forry Smith, Debra Ward",Action,4.6
+561,Street Hunter,1990,95,John A. Gallagher,"Steve James, Reb Brown, John Leguizamo","Action, Drama",5.0
+562,Vincent and Me,1990,100,Michael Rubbo,"Tchéky Karyo, Nina Petronzio, Christopher Forrest","Drama, Family, Fantasy",6.2
+563,Lethal Panther,1990,90,Godfrey Ho,"Alex Fong, Eric Hahn, Ka-Kui Ho",Action,5.4
+564,Naked Obsession,1990,93,Dan Golden,"William Katt, Rick Dean, Maria Ford","Drama, Thriller",4.9
+565,City Hunter: Million Dollar Conspiracy,1990,45,Kenji Kodama,"Akira Kamiya, Kazue Ikura, Yôko Asagami","Animation, Action, Comedy",7.0
+566,"The Fun, the Luck & the Tycoon",1990,90,Johnnie To,"Chow Yun-Fat, Sylvia Chang, Nina Li Chi","Comedy, Romance",6.1
+567,Minyeli Abdullah,1990,105,Yücel Çakmakli,"Ulvi Alacakaptan, Burcin Arisan, Ferdi Atuner",Drama,6.5
+568,Ameriikan raitti,1990,120,Lauri Törhönen,"Kari Sorvali, Mari Rantasila, Jari Järvimaa","Crime, Drama",5.3
+569,Denial,1990,103,Erin Dignam,"Robin Wright, Jason Patric, Barry Primus",Drama,4.8
+570,Eating,1990,110,Henry Jaglom,"Frances Bergen, Lisa Blake Richards, Nelly Alard","Comedy, Drama",6.2
+571,The Last Samurai,1990,90,Paul Mayersberg,"John Fujioka, Lance Henriksen, Arabella Holzbog","Action, Adventure, Drama",4.5
+572,In nome del popolo sovrano,1990,110,Luigi Magni,"Luca Barbareschi, Nino Manfredi, Jacques Perrin","Drama, History",6.6
+573,Kaboria,1990,110,Khairy Beshara,"Ahmed Zaki, Raghda, Hussien El Imam","Comedy, Drama",5.6
+574,Dead Men Don't Die,1990,94,Malcolm Marmorstein,"Elliott Gould, Melissa Sue Anderson, Mark Moses","Comedy, Crime, Horror",4.3
+575,Demon Cop,1990,81,"Rocco Karega, Hal Miles","Cameron Mitchell, Rocco Karega, Theresa Fenneaux","Crime, Horror",2.3
+576,Mutthina Haara,1990,162,S.V. Rajendra Singh Babu,"Master Anand, K.S. Ashwath, Sadashiva Brahmavar","Drama, Romance, War",8.2
+577,"Out of Sight, Out of Mind",1990,94,Greydon Clark,"Susan Blakely, Edward Albert, Wings Hauser","Mystery, Thriller",3.6
+578,Dream Trap,1990,90,"Tom Logan, Hugh Parks","Kristy Swanson, Sasha Jenson, Jeanie Moore","Comedy, Romance, Sci-Fi",5.4
+579,Perfectly Normal,1990,107,Yves Simoneau,"Robbie Coltrane, Michael Riley, Deborah Duchene","Comedy, Musical",6.1
+580,Farewell China,1990,114,Clara Law,"Tony Ka Fai Leung, Maggie Cheung, Chit-Man Chan","Drama, Romance",7.0
+581,Zipang,1990,119,Kaizô Hayashi,"Masahiro Takashima, Narumi Yasuda, Bengal","Action, Adventure, Fantasy",5.9
+582,Backstreet Dreams,1990,96,"Rupert Hitzig, Jason O'Malley","Brooke Shields, Jason O'Malley, Anthony Franciosa","Crime, Drama, Romance",4.8
+583,Fertilize the Blaspheming Bombshell,1990,90,Jeff Hathcock,"Bo Hopkins, Rick Hill, Robert Tessier",Horror,3.3
+584,Erotas sti hourmadia,1990,82,Stavros Tsiolis,"Argyris Bakirtzis, Lazaros Andreou, Dora Masklavanou","Comedy, Romance",7.0
+585,White Room,1990,110,Patricia Rozema,"Kate Nelligan, Maurice Godin, Margot Kidder",Drama,6.2
+586,In the Line of Duty 5: Middle Man,1990,94,Chuen-Yee Cha,"Cynthia Khan, David Wu, Elvina Kong","Action, Crime, Drama",5.6
+587,Lung Fung Restaurant,1990,88,Man Kit Poon,"Mok Siu-Chung, Stephen Chow, Ellen Chan","Action, Comedy, Crime",5.6
+588,Megaville,1990,95,Peter Lehner,"Billy Zane, J.C. Quinn, Grace Zabriskie","Mystery, Sci-Fi, Thriller",3.8
+589,The Architects,1990,95,Peter Kahane,"Kurt Naumann, Rita Feldmeier, Judith Richter",Drama,7.0
+590,Snake's Fang,1990,105,Masud Kimiai,"Faramarz Sadighi, Golchehre Sajadieh, Ahmad Najafi","Action, Drama, Thriller",6.2
+591,Time Off,1990,45,Eytan Fox,"Gil Frank, Hanoch Re'im, Tzufit Grant","Action, Drama, Romance",6.9
+592,Forbidden Love,1990,91,Helmut Dziuba,"Julia Brendler, Hans-Peter Dahm, Gudrun Ritter","Drama, Romance",6.8
+593,Twisted Justice,1990,94,David Heavener,"David Heavener, Erik Estrada, Shannon Tweed","Action, Crime, Drama",3.6
+594,An American Summer,1990,100,James Slocum,"Michael Landes, Brian Austin Green, Joanna Kerns","Comedy, Drama",5.4
+595,The Nights of Zayandeh-Rood,1990,65,Mohsen Makhmalbaf,"Manuchehr Esmaili, Mojgan Naderi, Parvaneh Goharani",Drama,6.4
+596,Against the Wind,1990,95,Paco Periñán,"Antonio Banderas, Emma Suárez, Bruce McGuire",Drama,5.4
+597,Ready for the Grave,1990,96,Milan Steindler,"Milan Steindler, Dana Batulková, Klára Pollertová",Comedy,7.0
+598,Modern Love,1990,105,Robby Benson,"Robby Benson, Karla DeVito, Rue McClanahan",Comedy,5.0
+599,Voodoo Dawn,1990,84,Steven Fierberg,"Raymond St. Jacques, Theresa Merritt, Gina Gershon",Horror,3.4
+600,Repo Jake,1990,86,Joseph Merhi,"Dan Haggerty, Dana Bentley, Steve Hansbourgh","Action, Crime",3.4
+601,Caídos del cielo,1990,121,Francisco J. Lombardi,"Gustavo Bueno, Diana Quijano, Leontina Antonina","Drama, Romance",7.1
+602,Bei mir liegen Sie richtig,1990,84,Ulrich Stark,"Dieter Hallervorden, Rosel Zech, Ezard Haußmann",Comedy,5.5
+603,Aanaval Mothiram,1990,134,G.S. Vijayan,"Sreenivasan, Suresh Gopi, Saranya Ponvannan","Action, Comedy, Thriller",7.4
+604,"Saturday, Sunday and Monday",1990,119,Lina Wertmüller,"Sophia Loren, Luca De Filippo, Luciano De Crescenzo",Comedy,6.5
+605,Podzemelye vedm,1990,85,Yuriy Moroz,"Sergey Zhigunov, Marina Levtova, Nikolay Karachentsov","Adventure, Fantasy, Romance",5.6
+606,Decay,1990,103,Mikhail Belikov,"Sergey Shakurov, Tatyana Kochemasova, Stanislav Stankevich",Drama,6.6
+607,The Cherry Orchard,1990,96,Shun Nakahara,"Hiroko Nakajima, Miho Tsumiki, Yasuyo Shirashima",Drama,7.1
+608,Nagarangalil Chennu Raparkam,1990,155,Viji Thampi,"Sreenivasan, Jayaram, Suparna Anand",Comedy,7.0
+609,The Lost Platoon,1990,86,David A. Prior,"William Frederick Knight, David Parry, Stephen Quadros","Action, Horror, War",4.1
+610,Romeo.Juliet,1990,120,Armondo Linus Acosta,"John Hurt, Robert Powell, Francesca Annis","Drama, Romance",7.1
+611,Outlaw Brothers,1990,97,Frankie Chan,"Frankie Chan, Mok Siu-Chung, Michael Kiu Wai Miu","Action, Crime, Thriller",6.7
+612,A Woman's Revenge,1990,133,Jacques Doillon,"Isabelle Huppert, Béatrice Dalle, Jean-Louis Murat",Drama,5.9
+613,The General's Son,1990,108,Im Kwon-taek,"Park Sang-min, Shin Hyeon-jun, Lee Il-jae","Action, Crime, Drama",6.4
+614,Towards Evening,1990,99,Francesca Archibugi,"Marcello Mastroianni, Sandrine Bonnaire, Zoe Incrocci",Drama,6.4
+615,It Was Cold and Raining,1990,93,Engin Ayça,"Türkan Soray, Ekrem Bora, Gülsen Tuncer","Drama, Romance",6.9
+616,Born in '45,1990,100,Jürgen Böttcher,"Monika Hildebrand, Rolf Römer, Paul Eichbaum","Drama, Romance",6.5
+617,A Home Too Far,1990,100,"Yen-Ping Chu, Edward Yang","Andy Lau, Ko Chun-Hsiung, Chung-Hua Tou",War,7.3
+618,Keaton's Cop,1990,100,Robert Burge,"Lee Majors, Abe Vigoda, Don Rickles","Action, Crime, Drama",4.2
+619,The Judas Project,1990,97,James H. Barden,"John O'Banion, Ramy Zada, Richard Herd","Action, Drama, Fantasy",3.7
+620,Karartma Geceleri,1990,85,Yusuf Kurçenli,"Tarik Akan, Bülent Bilgiç, Nurseli Idiz",Drama,6.7
+621,Back Stab,1990,91,Jim Kaufman,"James Brolin, Dorothée Berryman, Meg Foster","Crime, Drama, Mystery",5.2
+622,Alludugaru,1990,144,K. Raghavendra Rao,"Mohan Babu, Shobana, Kongara Jaggaiah","Drama, Comedy",6.7
+623,Ee Kannikoodi,1990,138,K.G. George,"Saikumar, Ashwini, Shyam Mohan","Mystery, Thriller",7.5
+624,Delay - raz!,1990,85,Andrey Malyukov,"Evgeniy Mironov, Vladimir Mashkov, Aleksei Burykin",Drama,6.9
+625,Diary for My Father and Mother,1990,119,Márta Mészáros,"Zsuzsa Czinkóczi, Jan Nowicki, Tamás Végvári","Biography, Drama",6.6
+626,Confessing to Laura,1990,90,Jaime Osorio Gómez,"Vicky Hernández, Gustavo Londoño, María Cristina Gálvez",Drama,7.1
+627,Pierino torna a scuola,1990,96,Mariano Laurenti,"Alvaro Vitali, Nadia Bengala, Elena Fabrizi",Comedy,5.1
+628,The Crown of Fire,1990,94,Sergiu Nicolaescu,"Sergiu Nicolaescu, George Alexandru, Vladimir Gaitan","Adventure, History, War",6.6
+629,Fatal Termination,1990,94,Yeung-Wah Kam,"Mike Abbott, Cheuk Yan Chan, Collin Cheung","Action, Drama, Thriller",6.2
+630,Mondo Weirdo,1990,55,Carl Andersen,"Soledad Marceignac, Frank Khunne, David Hollman","Drama, Horror, Mystery",4.6
+631,Front Page,1990,92,Philip Chan,"Michael Hui, Samuel Hui, Ricky Hui",Comedy,6.5
+632,Lovushka dlya odinokogo muzhchiny,1990,92,Aleksey Korenev,"Nikolay Karachentsov, Yuriy Yakovlev, Irina Shmelyova","Comedy, Crime, Mystery",6.7
+633,Panama Sugar,1990,110,Marcello Avallone,"Scott Plank, Oliver Reed, Lucrezia Lante della Rovere",Comedy,4.5
+634,Kroadh,1990,144,Shashilal K. Nair,"Sanjay Dutt, Sunny Deol, Amrita Singh","Action, Crime, Drama",4.7
+635,Bobbili Raja,1990,155,Gopal B.,"Venkatesh Daggubati, Divya Bharti, Vanisri","Action, Romance",6.9
+636,Las cartas de Alou,1990,100,Montxo Armendáriz,"Mulie Jarju, Eulàlia Ramon, Ahmed El-Maaroufi",Drama,6.4
+637,Kawashima Yoshiko,1990,96,Eddie Ling-Ching Fong,"Anita Mui, Andy Lau, Derek Tung-Sing Yee","Biography, Crime, Drama",6.5
+638,Hasan Boguldu,1990,89,Orhan Aksoy,"Hülya Avsar, Yalçin Dümer, Güzin Özyagcilar","Drama, Romance",6.4
+639,Fools of Fortune,1990,109,Pat O'Connor,"Iain Glen, Mary Elizabeth Mastrantonio, Sean T. McClory","Drama, Romance",5.3
+640,Adrénaline,1990,77,"Anita Assal, Barthélémy Bompard, Philippe Dorison","Clémentine Célarié, Franck Baruk, Alain Aithnard",Horror,6.3
+641,Childhood Days,1990,119,Masahiro Shinoda,"Tetsuya Fujita, Yuji Horioka, Katsuhisa Yamazaki",Drama,7.4
+642,Pacific Palisades,1990,92,Bernard Schmitt,"Sophie Marceau, Adam Coleman Howard, Anne E. Curry",Comedy,3.6
+643,His Nickname Is Beast,1990,88,Aleksandr Muratov,"Dmitriy Pevtsov, Tatyana Skorokhodova, Boris Shcherbakov","Action, Crime",5.6
+644,"Dragon Ball: Son Goku Fights, Son Goku Wins",1990,105,Ryong Wang,"Heo Sung-tae, Hyung-rae Shim, Ju-hie Lee","Adventure, Fantasy",4.8
+645,Terminal Bliss,1990,93,Jordan Alan,"Tim Owen, Luke Perry, Estee Chandler",Drama,4.4
+646,Sleazy Dizzy,1990,88,Yuen Chor,"Stephen Chow, Sibelle Hu, Chen Kuan-Tai","Comedy, Crime, Mystery",5.2
+647,Paavam Paavam Rajakumaran,1990,117,Kamal,"Sreenivasan, Rekha, Siddique",Comedy,7.4
+648,Fatal Vacation,1990,96,Eric Tsang,"Eric Tsang, Irene Wan, Kwong-Leung Wong","Action, Crime, Drama",6.2
+649,Sex-partijski neprijatelj br. 1,1990,93,Dusan Sabo,"Branko Vidakovic, Velimir 'Bata' Zivojinovic, Mihailo 'Misa' Janketic",Comedy,6.5
+650,Corporate Affairs,1990,82,Terence H. Winkless,"Peter Scolari, Mary Crosby, Richard Herd",Comedy,3.6
+651,Down the Drain,1990,105,Robert Hughes,"Andrew Stevens, Teri Copley, John Matuszak","Comedy, Crime",3.8
+652,Posrednik,1990,228,Vladimir Potapov,"Olesya Sudzilovskaya, Andrey Tarasenko, Dasha Sidorina","Action, Sci-Fi",6.9
+653,Benvenuti in casa Gori,1990,96,Alessandro Benvenuti,"Athina Cenci, Ilaria Occhini, Carlo Monni","Comedy, Drama",7.0
+654,Bad Jim,1990,90,Clyde Ware,"James Brolin, Richard Roundtree, John Clark Gable","Drama, Western",4.1
+655,Un week-end sur deux,1990,104,Nicole Garcia,"Nathalie Baye, Joachim Serreau, Félicie Pasotti",Drama,5.7
+656,The End of Innocence,1990,102,Dyan Cannon,"Dyan Cannon, John Heard, George Coe",Drama,5.3
+657,Izzatdaar,1990,164,"K. Bapaiah, Jasti Hemambar","Dilip Kumar, Govinda, Madhuri Dixit","Action, Crime, Drama",5.0
+658,Sárkány és papucs,1990,72,Tibor Hernádi,"István Sztankay, Éva Almási, János Gálvölgyi",Animation,6.9
+659,Räpsy & Dolly eli Pariisi odottaa,1990,101,Matti Ijäs,"Matti Pellonpää, Raija Paalanen, Kari Väänänen","Comedy, Crime, Drama",6.2
+660,Dragon Hunt,1990,90,Charlie Wiener,"Michael McNamara, Martin McNamara, B. Bob",Action,3.0
+661,Boom Boom,1990,90,Rosa Vergés,"Viktor Lazlo, Sergi Mateu, Fernando Guillén Cuervo","Comedy, Romance",5.8
+662,Demonstone,1990,88,Andrew Prowse,"R. Lee Ermey, Jan-Michael Vincent, Nancy Everhard","Action, Crime, Fantasy",4.6
+663,Springflod,1990,105,Eddie Thomas Petersen,"Jesper Gredeli Jensen, Trine Dyrholm, Kirsten Olesen","Drama, Romance",5.9
+664,Sorority Girls and the Creature from Hell,1990,85,John McBrearty,"Len Lesser, Deborah Dutch, Eric Clark",Horror,3.4
+665,Ono,1990,124,Sergei Ovcharov,"Rolan Bykov, Natalya Gundareva, Svetlana Kryuchkova","Comedy, Drama, History",6.8
+666,Pantyhose Hero,1990,99,Sammo Kam-Bo Hung,"Philip Chan, Billy Sau Yat Ching, Kam Kong Chow","Action, Comedy, Thriller",6.4
+667,Le radeau de la Méduse,1990,130,Iradj Azimi,"Jean Yanne, Daniel Mesguich, Claude Jade","Adventure, Drama, History",5.7
+668,Jeevan Ek Sanghursh,1990,159,Rahul Rawail,"Rakhee Gulzar, Anil Kapoor, Madhuri Dixit",Drama,4.5
+669,Alberto Express,1990,92,Arthur Joffé,"Sergio Castellitto, Nino Manfredi, Marie Trintignant","Action, Adventure, Comedy",6.2
+670,Secret Agent OO Soul,1990,97,Julius LeFlore,"Billy Dee Williams, Amanda LeFlore, Jaime Cardriche","Action, Comedy",3.4
+671,Thodasa Roomani Ho Jaayen,1990,160,Amol Palekar,"Anita Kanwar, Nana Patekar, Riju Bajaj","Comedy, Drama, Musical",7.5
+672,The Champion,1990,92,Elisabeta Bostan,"Izabela Moldovan, Mircea Diaconu, Carmen Galin","Drama, Sport",6.5
+673,Happy Ghost 4,1990,88,Clifton Ko,"Raymond Pak-Ming Wong, Pauline Yeung, Goon Chung Wong","Comedy, Fantasy, Horror",6.1
+674,Vampire Cop,1990,89,Donald Farmer,"Ed Cannon, Melissa Moore, Mal Arnold","Action, Horror",2.9
+675,Arangetra Velai,1990,154,Fazil,"Prabhu, Revathi, V.K. Ramasamy","Comedy, Thriller",7.4
+676,Shaking the Tree,1990,97,Duane Clark,"Arye Gross, Gale Hansen, Doug Savant","Comedy, Drama",4.7
+677,Harry and Harriet,1990,90,Cyril Frankel,"Petra Wagner, Barbara vom Baur, Mandy Perryment","Comedy, Fantasy, Romance",2.7
+678,Coldfire,1990,102,Wings Hauser,"Wings Hauser, Michael Easton, Kamar de los Reyes","Action, Thriller",3.9
+679,Kuttettan,1990,133,Joshiy,"Mammootty, Jagadish, Saritha","Comedy, Drama",6.3
+680,Tekken,1990,128,Junji Sakamoto,"Takeshi Yamato, Bunta Sugawara, Karen Kirishima",Drama,5.0
+681,Listen Up: The Lives of Quincy Jones,1990,115,Ellen Weissbrod,"Clarence Avant, George Benson, Big Daddy Kane","Documentary, Music",6.0
+682,ABC da Greve,1990,75,Leon Hirszman,"Lélia Abramo, Luiz Inácio Lula da Silva, Vinicius de Moraes",Documentary,7.9
+683,The Final Sanction,1990,85,David A. Prior,"Ted Prior, Robert Z'Dar, Renée Cline","Action, Sci-Fi",4.2
+684,Awaargi,1990,149,Mahesh Bhatt,"Anil Kapoor, Meenakshi Sheshadri, Govinda",Drama,6.0
+685,Long Arm of the Law: Part 4,1990,100,Michael Mak,"Elvis Tsui, Jing Chen, Siu-Lung Ching","Action, Crime, Thriller",6.8
+686,Night of the Dribbler,1990,87,Jack Bravman,"Fred Travalena, Gregory Calpakis, Flavia Carrozzi","Comedy, Horror",2.9
+687,Kaninmannen,1990,97,Stig Larsson,"Börje Ahlstedt, Leif Andrée, Stina Ekblad",Drama,5.6
+688,The Fortune Code,1990,89,Kent Cheng,"Andy Lau, Anita Mui, Alan Tam","Action, Comedy",6.0
+689,Ganeshana Madhuve,1990,141,H.S. Phani Ramchandra,"Anjali, Ramesh Bhat, Mukhyamantri Chandru",Comedy,8.3
+690,The Road to God Knows Where,1990,90,Uli M. Schüppel,"Blixa Bargeld, Nick Cave, Mick Harvey",Documentary,7.0
+691,Swan Lake: The Zone,1990,96,Yuri Ilyenko,"Viktor Solovyov, Lyudmila Efimenko, Pylyp Illienko","Comedy, Drama, Romance",6.7
+692,Camdan Kalp,1990,104,Fehmi Yasar,"Genco Erkal, Deniz Gökçer, Serif Sezer",Drama,6.7
+693,Occhio alla perestrojka,1990,98,"Franco Castellano, Giuseppe Moccia","Jerry Calà, Ezio Greggio, Rodolfo Laganà",Comedy,4.1
+694,Captive of the Desert,1990,96,Raymond Depardon,"Sandrine Bonnaire, Dobi Koré, Fadi Taha","Adventure, Crime, Drama",6.4
+695,Shredder Orpheus,1990,88,Robert McGinley,"Robert McGinley, Megan Murphy, Steven Jesse Bernstein",Horror,5.1
+696,Pokhorony Stalina,1990,109,Yevgeniy Yevtushenko,"Denis Konstantinov, Yevgeny Platokhin, Vanessa Redgrave","Drama, Romance",6.0
+697,Sex et perestroïka,1990,90,"François Jouffa, Francis Leroi","Elena Massourenkova, Evgeniya Kryukova, Ekaterina Grokhovskaya",Comedy,4.3
+698,Maha-Sangram,1990,159,Mukul Anand,"Vinod Khanna, Madhuri Dixit, Govinda","Action, Drama, Romance",5.4
+699,Ruff Sex,1990,58,Hisayasu Satô,"Kanako Kishi, Kazuhiro Sano, Yuri Sasaki","Drama, Horror",4.8
+700,Beautiful Dreamers,1990,105,John Kent Harrison,"Colm Feore, Rip Torn, Wendel Meldrum",Drama,7.0
+701,Hollywood Hot Tubs 2: Educating Crystal,1990,100,Kenneth Raich,"Jewel Shepard, Remy O'Neill, David Tiefen",Comedy,3.5
+702,A Man Called... Rainbo,1990,99,"David Casci, Robert Allen Schnitzer","Sylvester Stallone, Jeffrey Hilton, Tony Page",Comedy,4.7
+703,"No Risk, No Gain: Casino Raiders - The Sequel",1990,108,"Jimmy Heung, Taylor Wong","Pak-Cheung Chan, Andy Lau, Alan Tam","Comedy, Crime, Drama",5.7
+704,Dragon in Jail,1990,97,Kent Cheng,"Andy Lau, Kenny Ho, Gigi Lai","Action, Crime, Drama",6.0
+705,Torn Apart,1990,96,Jack Fisher,"Adrian Pasdar, Cecilia Peck, Tal Assif","Drama, Romance, War",5.7
+706,Strike It Rich,1990,87,James Scott,"Robert Lindsay, Molly Ringwald, Marianne Price",Comedy,4.8
+707,Cartel,1990,106,John Stewart,"Miles O'Keeffe, Don Stroud, Crystal Carson","Action, Thriller",4.4
+708,Fatal Sky,1990,92,Frank Shields,"Michael Nouri, Darlanne Fluegel, Maxwell Caulfield","Action, Sci-Fi, Thriller",3.7
+709,Central Park,1990,176,Frederick Wiseman,"LeVar Burton, Francis Ford Coppola, Luciano Pavarotti",Documentary,7.5
+710,Eternity,1990,110,Steven Paul,"Jon Voight, Armand Assante, Wilford Brimley",Drama,2.8
+711,Mat,1990,200,Gleb Panfilov,"Inna Churikova, Viktor Rakov, Aleksandr Shishonok","Drama, History",7.4
+712,Legion of Iron,1990,90,Yakov Bentsvi,"Kevin T. Walsh, Erika Nann, Camille Carrigan","Action, Horror, Sci-Fi",4.0
+713,La risa en vacaciones,1990,90,René Cardona Jr.,"Pedro Romo, Pablo Ferrel, Paco Ibáñez",Comedy,4.8
+714,My Private War,1990,90,"Harriet Eder, Thomas Kufus",Erich von Manstein,"Documentary, War",7.4
+715,Tolgo il disturbo,1990,94,Dino Risi,"Vittorio Gassman, Dominique Sanda, Elliott Gould",Drama,6.8
+716,Genuine Risk,1990,90,Kurt Voss,"Terence Stamp, Peter Berg, Michelle Johnson","Crime, Thriller",4.8
+717,Mounam Sammadham,1990,144,K. Madhu,"Amala Akkineni, Charlie, Jaishankar","Crime, Drama",7.1
+718,Father,1990,106,John Power,"Max von Sydow, Carol Drinkwater, Julia Blake","Drama, War",7.0
+719,Vroom,1990,89,Beeban Kidron,"Diana Quick, Clive Owen, David Thewlis","Drama, Romance",5.2
+720,Mortuary Blues,1990,92,Jeffrey Lau,"Corey Yuen, Sandra Ng, Lowell Lo","Comedy, Horror",5.8
+721,Sonho de Verão,1990,80,Paulo Sérgio de Almeida,"Sergio Mallandro, Paquitas, Ana Paula Almeida","Comedy, Family, Musical",4.7
+722,The Guard,1990,96,Aleksandr Rogozhkin,"Aleksey Buldakov, Sergei Kupriianov, Aleksey Poluyan",Drama,7.0
+723,Breath of Life,1990,96,Beppe Cino,"Franco Nero, Lucrezia Lante della Rovere, Fernando Rey",Drama,6.6
+724,Fazilet,1990,87,Irfan Tözüm,"Hülya Avsar, Yaman Okay, Engin Inal",Drama,5.9
+725,Caluga o menta,1990,100,Gonzalo Justiniano,"Hector Vega Mauricio, Patricia Rivadeneira, Aldo Parodi","Crime, Drama",6.0
+726,The Color of Evening,1990,90,Steve Stafford,"Martin Landau, Ellen Burstyn, Ione Skye","Drama, Romance",5.3
+727,La Luna en el Espejo,1990,75,Silvio Caiozzi,"Gloria Münchmeyer, Rafael Benavente, Ernesto Beadle",Drama,6.6
+728,Naked Rage,1990,88,Antonio Bonifacio,"Mirella Banti, Andy J. Forest, Mary Lindstrom","Drama, Thriller",4.1
+729,Dragonfight,1990,83,Warren A. Stevens,"Robert Z'Dar, Paul Coufos, Michael Paré","Fantasy, Sci-Fi",3.2
+730,Jurm,1990,103,Mahesh Bhatt,"Vinod Khanna, Meenakshi Sheshadri, Sangeeta Bijlani","Action, Crime, Romance",5.8
+731,Street Asylum,1990,94,Gregory Dark,"Wings Hauser, Alex Cord, G. Gordon Liddy","Action, Sci-Fi, Thriller",5.0
+732,Triad Story,1990,95,Wai Shum,"Ko Chun-Hsiung, Wu Ma, Shing Fui-On","Action, Crime, Drama",5.7
+733,Porttikielto taivaaseen,1990,99,Tapio Suominen,"Satu Silvo, Riikka Suikkari, Niina Nurminen","Drama, Romance",4.4
+734,Terminal City Ricochet,1990,107,Zale Dalen,"Peter Breck, Germain Houde, Jello Biafra","Comedy, Sci-Fi",5.6
+735,Pratibandh,1990,159,Ravi Raja Pinisetty,"Chiranjeevi, Juhi Chawla, Rami Reddy","Action, Drama",6.5
+736,Dr. Pasupathy,1990,130,Shaji Kailas,"Innocent Vareed Thekkethala, Rizabawa, Parvathi",Comedy,6.9
+737,Indrajaalam,1990,152,Thampi Kannanthanam,"Mohanlal, Rajan P. Dev, Vijayaraghavan","Action, Crime, Thriller",6.2
+738,Il male oscuro,1990,114,Mario Monicelli,"Giancarlo Giannini, Emmanuelle Seigner, Stefania Sandrelli","Comedy, Drama",6.4
+739,Treasure of the Bitch Islands,1990,108,F.J. Ossang,"Stéphane Ferrara, Diogo Dória, José Wallenstein","Mystery, Sci-Fi",5.6
+740,Thieves of Fortune,1990,100,Michael MacCarthy,"Michael Nouri, Lee Van Cleef, Shawn Weatherly","Action, Adventure, Comedy",4.5
+741,Doodh Ka Karz,1990,151,"Ashok Gaekwad, Ashok Gaikwad","Tom Alter, Sadashiv Amrapurkar, Birbal","Action, Drama, Fantasy",4.7
+742,The Man Inside,1990,93,Bobby Roth,"Jürgen Prochnow, Peter Coyote, Nathalie Baye",Drama,5.3
+743,Police Public,1990,127,Esmayeel Shroff,"Vijay Aidasani, Jayshree Arora, Ila Arun","Crime, Thriller",6.6
+744,Dames galantes,1990,120,Jean-Charles Tacchella,"Richard Bohringer, Isabella Rossellini, Marianne Basler",Comedy,5.6
+745,Return Engagement,1990,108,Tung Cho 'Joe' Cheung,"Alan Tang, Elizabeth Lee, May Mei-Mei Lo","Action, Drama",6.3
+746,Terrorgram,1990,88,Stephen M. Kienzle,"James Earl Jones, Steven Field, J.T. Wallace","Drama, Fantasy, Horror",5.0
+747,Apartment No.13,1990,98,Yadollah Samadi,"Alireza Khamseh, Jamshid Esmailkhani, Katayoun Riahi","Comedy, Drama",6.0
+748,Tiger on the Beat 2,1990,94,Chia-Liang Liu,"Danny Lee, Conan Lee, Ellen Chan","Action, Comedy, Crime",5.8
+749,Big Bad John,1990,92,Burt Kennedy,"Jimmy Dean, Jack Elam, Ned Beatty","Action, Drama, Western",5.5
+750,Instant Karma,1990,101,Roderick Taylor,"Craig Sheffer, Annette Sinclair, Orson Bean","Drama, Romance",4.2
+751,A Killer's Romance,1990,92,Phillip Ko,"Simon Yam, Joey Wang, Yasuhiro Shikamura","Action, Thriller",5.5
+752,...Almost,1990,84,Michael Pattinson,"Rosanna Arquette, Bruce Spence, Hugo Weaving","Drama, Fantasy, Romance",5.1
+753,Shanghai Shanghai,1990,87,Teddy Robin Kwan,"Biao Yuen, Anita Mui, Sammo Kam-Bo Hung","Action, Drama",6.1
+754,Sure Fire,1990,83,Jon Jost,"Tom Blair, Kristi Hager, Robert Ernst",Drama,7.1
+755,"Enfermero de día, camarero de noche",1990,93,Aníbal Di Salvo,"Tristán, Susana Traverso, Rolo Puente",Comedy,2.8
+756,Babnik,1990,74,Anatoly Eyramdzhan,"Aleksandr Shirvindt, Irina Muravyova, Maksim Voronkov",Comedy,5.2
+757,Living to Die,1990,84,Wings Hauser,"Wings Hauser, Darcy DeMoss, Asher Brauner","Crime, Mystery",4.6
+758,Border Shootout,1990,96,Chris McIntyre,"Michael Forest, Cody Glenn, Michael Horse",Western,3.7
+759,Hunting,1990,97,Frank Howson,"John Savage, Kerry Armstrong, Jeffrey Thomas",Drama,4.5
+760,"Vietnam, Texas",1990,92,Robert Ginty,"Robert Ginty, Haing S. Ngor, Kieu Chinh","Action, Crime, Drama",4.5
+761,Kamillions,1990,90,Mike B. Anderson,"Christopher Gasti, Dru-Anne Perry, Kate Alexander","Comedy, Horror, Romance",5.0
+762,Césio 137 - O Pesadelo de Goiânia,1990,115,Roberto Pires,"Nelson Xavier, Joana Fomm, Paulo Betti",Drama,6.5
+763,Pyar Ka Devta,1990,148,K. Bapaiah,"Mithun Chakraborty, Madhuri Dixit, Bharat Bhushan","Action, Comedy, Drama",3.6
+764,Horseplayer,1990,89,Kurt Voss,"Brad Dourif, Sammi Davis, Michael Harris","Drama, Thriller",6.2
+765,Doctor Vampire,1990,98,Jamie Luk,"Bowie Lam, Ellen Chan, Sheila Chan","Comedy, Horror",5.8
+766,The Sword of Bushido,1990,104,Adrian Carr,"Richard Norton, Rochelle Ashana, Toshishiro Obata",Action,4.5
+767,Innisfree,1990,110,José Luis Guerín,"Michael Killanin, Padraig O'Feeney, Bartley O'Feeney",Documentary,7.2
+768,The Guardian Angel,1990,108,Suzanne Osten,"Pia Bäckström, Malin Ek, Etienne Glaser",Drama,5.7
+769,The March,1990,100,David Wheatley,"Malick Bowens, Juliet Stevenson, Joseph Mydell",Drama,6.2
+770,False Identity,1990,93,James Keach,"Stacy Keach, Geneviève Bujold, Tobin Bell","Crime, Mystery, Thriller",5.1
+771,The Scarlet Scorpion,1990,90,Ivan Cardoso,"Andrea Beltrão, Herson Capri, Nuno Leal Maia",Comedy,6.2
+772,Les noces de papier,1990,95,Michel Brault,"Geneviève Bujold, Manuel Aranguiz, Dorothée Berryman",Drama,7.2
+773,Malizia Today,1990,100,Sergio Bergonzelli,"Valentine Demy, Antonio Marsina, Debora Calì",Drama,4.4
+774,Full Fathom Five,1990,82,Carl Franklin,"Michael Moriarty, Maria Rangel, Diego Bertie","Action, Adventure, Drama",3.2
+775,Al-bahths an Al-Sayyid Marzuq,1990,85,Daoud Abdel Sayed,"Hussein El Sherif, Athar El-Hakim, Nour El-Sherif",Drama,7.2
+776,H,1990,94,Darrell Wasyk,"Martin Neufeld, Pascale Montpetit, Ingrid Veninger",Drama,6.4
+777,Princes in Exile,1990,103,Giles Walker,"Zachary Ansley, Nicholas Shields, Stacie Mistysyn",Drama,7.3
+778,Resident Alien,1990,85,Jonathan Nossiter,"Quentin Crisp, Peter Walker, Gilbert Stafford",Documentary,6.7
+779,Tugumi,1990,105,Jun Ichikawa,"Riho Makise, Tomoko Nakajima, Yasuyo Shirashima",Drama,6.4
+780,A Girl to Kill For,1990,88,Richard Oliver,"Karen Medak, Sasha Jenson, Alex Cord","Crime, Romance",4.9
+781,North Korean Partisan in South Korea,1990,157,Jeong Ji-yeong,"Ahn Sung-ki, Choi Jin-shil, Choi Min-soo",War,6.5
+782,The Closer,1990,87,Dimitri Logothetis,"Danny Aiello, James Karen, Kenneth Dowd",Drama,4.8
+783,The Golden Boat,1990,83,Raúl Ruiz,"Michael Kirby, Federico Muchnik, Brett Alexander","Adventure, Comedy, Crime",6.2
+784,Silent Scream,1990,85,David Hayman,"Iain Glen, Andrew Barr, Kenneth Glenaan","Biography, Crime, Drama",5.6
+785,Stan the Flasher,1990,67,Serge Gainsbourg,"Claude Berri, Aurore Clément, Élodie Bouchez",Drama,4.9
+786,Pocetni udarac,1990,110,Darko Bajic,"Nikola Kojo, Anita Mancic, Danilo Lazovic",Drama,6.8
+787,The Disturbance,1990,93,Cliff Guest,"Timothy Greeson, Lisa Geoffrion, Ken Ceresne","Crime, Drama, Horror",5.1
+788,"Good News: Newspaper Salesmen, Dead Dogs and Other People from Vienna",1990,130,Ulrich Seidl,"Salah Abdel, Mustafa Muhammed, Kumar Saha Probil",Documentary,7.5
+789,Rafales,1990,88,André Melançon,"Denis Bouchard, Raymond Legault, Pipo Gagnon","Crime, Drama, Thriller",6.6
+790,Alligator Eyes,1990,101,John Feldman,"Annabelle Larsen, Roger Kabler, Mary McLain","Comedy, Drama, Romance",4.5
+791,Une histoire inventée,1990,100,André Forcier,"Jean Lapointe, Louise Marleau, Charlotte Laurier",Drama,6.5
+792,High Finance Woman,1990,100,Joe D'Amato,"Tara Buckman, Charlie Edwards, Louie Elias","Drama, Romance",4.0
+793,Enemy,1990,84,George Rowe,"Peter Fonda, Tia Carrere, Mako","Action, Adventure, Drama",4.3
+794,Catman in Lethal Track,1990,90,Godfrey Ho,"Jonathan Isgar, Howard Anderson, Johanna Brownstein","Action, Adventure",4.2
+795,Palach,1990,166,Viktor Sergeev,"Irina Metlitskaya, Andrey Sokolov, Larisa Guzeeva","Crime, Drama",6.3
+796,Gaspard et Robinson,1990,93,Tony Gatlif,"Gérard Darmon, Vincent Lindon, Suzanne Flon","Comedy, Drama",6.5
+797,Ra: Path of the Sun God,1990,72,"Lesley Keen, Ishu Patel","Tamara Kennedy, Michael MacKenzie","Animation, Drama, Fantasy",7.7
+798,Nazar,1990,84,Mani Kaul,"Shekhar Kapur, Shambhavi Kaul, Surekha Sikri",Drama,6.2
+799,Cop Target,1990,89,Umberto Lenzi,"Robert Ginty, Barbara Bingham, Charles Napier","Action, Crime, Thriller",4.6
+800,Nadigan,1990,135,P. Vasu,"Sathyaraj, Khushbu Sundar, Goundamani","Comedy, Romance",6.9
+801,The Passion of Bernadette,1990,106,Jean Delannoy,"Sydney Penny, Emmanuelle Riva, Catherine de Seynes","Biography, Drama, History",6.6
+802,Shiva,1990,162,Ram Gopal Varma,"Nagarjuna Akkineni, Amala Akkineni, Raj Zutshi","Action, Crime, Drama",7.6
+803,New Kid in town,1990,88,Kar-Yung Lau,"Siu-Ho Chin, Moon Lee, Chia-Liang Liu",Action,5.4
+804,Die Klage der Kaiserin,1990,106,Pina Bausch,"Anne Marie Benati, Bénédicte Billiet, Rolando Brenes Calvo","Musical, Drama, Comedy",7.4
+805,Pogrzeb kartofla,1990,96,Jan Jakub Kolski,"Franciszek Pieczka, Adam Ferency, Mariusz Saniternik",Drama,7.1
+806,Büyük Yalnizlik,1990,78,Yavuz Özkan,"Sezen Aksu, Ferhan Sensoy","Drama, Romance",4.7
+807,Desire,1990,94,Bruno Mattei,"Peter Marc Jacobson, Josie Bissett, Cort McCown",Drama,4.3
+808,A Bullet in the Head,1990,89,Attila Bertalan,"Kathy Horner, Andrew Campbell, Jan Stychalsky",Drama,6.8
+809,Struck by Lightning,1990,105,Jerzy Domaradzki,"Garry McDonald, Brian Vriends, Catherine McClements","Comedy, Drama, Sport",7.0
+810,Rimeinzu: Utsukushiki yuusha-tachi,1990,107,Shin'ichi Chiba,"Hiroyuki Sanada, Mika Muramatsu, Akira Kurosaki","Adventure, Horror, Thriller",6.2
+811,Lonely in America,1990,96,Barry Alexander Brown,"Ranjit Chowdhry, Tirlok Malik, Adelaide Miller","Comedy, Romance",4.7
+812,Burndown,1990,86,James Allen,"Peter Firth, Cathy Moriarty, Hal Orlandini",Thriller,3.6
+813,Black Republic,1990,100,Park Kwang-su,"Shim Hye-jin, Park Joong-hoon, Jin-hui Kim",Drama,6.8
+814,Back to Back,1990,95,John Kincade,"Bill Paxton, Todd Field, Apollonia Kotero","Action, Drama",4.2
+815,Pulan Visaaranai,1990,150,R.K. Selvamani,"Vijayakanth, Komal Mahuvakar, M.N. Nambiar","Action, Crime, Thriller",6.8
+816,Night of the Cyclone,1990,85,David Irving,"Kris Kristofferson, Jeffrey Meek, Marisa Berenson","Action, Crime, Drama",4.1
+817,Gorgasm,1990,82,Hugh Gallagher,"Gabriela, Rik Billock, Paula Hendricks",Horror,4.0
+818,Return Home,1990,87,Ray Argall,"Dennis Coard, Frankie J. Holden, Ben Mendelsohn",Drama,6.6
+819,Tôkyô jôkû irasshaimase,1990,109,Shinji Sômai,"Kiichi Nakai, Riho Makise, Tsurube Shôfukutei",Drama,6.4
+820,The Bachelor,1990,105,Roberto Faenza,"Keith Carradine, Miranda Richardson, Kristin Scott Thomas",Drama,6.4
+821,Little Vegas,1990,91,Perry Lang,"Tony Denison, Catherine O'Hara, Anne Francis","Comedy, Drama, Romance",4.4
+822,O Quinto Macaco,1990,93,Éric Rochat,"Ben Kingsley, Mika Lins, Vera Fischer",Drama,5.1
+823,An Eye for an Eye,1990,93,Sing-Pui O,"John Ching, Hiu-Hung Fong, Wang-Tat Foo","Action, Crime",5.6
+824,Karate Rock (The Kid with Iron Hands),1990,90,Fabrizio De Angelis,"Antonio Sabato Jr., Natalie Hendrix Tate, Dorian D. Field","Action, Adventure",3.5
+825,En Veedu En Kanavar,1990,130,Senbaga Raman,"Suresh, Nadia Moidu, Aachi Manorama",Drama,4.2
+826,Zabitá nedele,1990,78,Drahomíra Vihanová,"Ivan Palúch, Míla Myslíková, Otakar Zebrák",Drama,6.5
+827,Raja Vikramarka,1990,153,Ravi Raja Pinisetty,"Chiranjeevi, Amala Akkineni, Radhika Sarathkumar","Action, Comedy, Family",6.7
+828,Tak zhit nelzya,1990,115,Stanislav Govorukhin,"Stanislav Govorukhin, Aleksandr Nevzorov, Olya Dvoretskaya",Documentary,6.4
+829,Zimnyaya vishnya 2,1990,96,Igor Maslennikov,"Vitali Solomin, Elena Safonova, Irina Miroshnichenko",Romance,5.4
+830,Appu,1990,139,Dennis Joseph,"Mohanlal, Murali, Sunitha","Comedy, Drama, Thriller",6.0
+831,Italia-Germania 4-3,1990,84,Andrea Barzini,"Massimo Ghini, Giuseppe Cederna, Fabrizio Bentivoglio",Comedy,6.3
+832,Crossing the Line,1990,94,Gary Graver,"Rick Hearst, Jon Stafford, Paul L. Smith","Action, Drama, Sport",5.0
+833,Bienvenue à bord!,1990,85,Jean-Louis Leconte,"Pierre Richard, Martin Lamotte, Evelyne Bouix","Comedy, Drama, Thriller",5.1
+834,Overexposed,1990,80,Larry Brand,"Catherine Oxenberg, David Naughton, Ernest Alexander","Mystery, Thriller",4.1
+835,Romeo,1990,94,Rita Horst,"Monique van de Ven, Johan Leysen, Ottolien Boeschoten",Drama,7.3
+836,Hollywood Boulevard II,1990,82,Steve Barnett,"Ginger Lynn, Kelly Monteith, Eddie Deezen",Comedy,4.8
+837,Invasion Force,1990,83,David A. Prior,"Renée Cline, Walter Cox, Douglas Harter",Action,4.2
+838,Sandino,1990,135,Miguel Littin,"Kris Kristofferson, Joaquim de Almeida, Dean Stockwell","Biography, Drama",6.2
+839,Vzbesivshiysya avtobus,1990,112,Georgi Natanson,"Ivars Kalnins, Igor Bochkin, Anna Samokhina",Crime,6.1
+840,Licence to Steal,1990,90,Billy Chan,"Joyce Godenzi, Biao Yuen, Richard Ng","Action, Comedy",6.3
+841,The Burning Times,1990,57,Donna Read,"Martha Henry, Barbara Pecarich, Starhawk",Documentary,7.3
+842,Zahreelay,1990,163,Jyotin Goel,"Jeetendra, Bhanupriya, Sanjay Dutt","Action, Drama",4.5
+843,Cellini: A Violent Life,1990,118,Giacomo Battiato,"Wadeck Stanczak, Max von Sydow, Bernard-Pierre Donnadieu","Biography, Drama, History",7.0
+844,Jitensha toiki,1990,93,Sion Sono,"Sion Sono, Masahiro Sugiyama, Hiroko Yamamoto",Drama,5.4
+845,Breakfast in Bed,1990,76,Ernest G. Sauer,"Marilyn Chambers, Michael Rose, Courtenay James","Comedy, Romance",3.0
+846,The Treasure,1990,87,Robert Cording,"John Weisbarth, Freddy Rible, Frank Jimison",Adventure,4.6
+847,My Blue Heaven,1990,95,Ronald Beer,"Ruud de Wolff, Ivon Pelasula, Koen Wauters",Drama,5.1
+848,Beijo 2348/72,1990,100,Walter Rogério,"Chiquinho Brandão, Maitê Proença, Fernanda Torres",Drama,6.8
+849,The Day We Met,1990,95,Sam Firstenberg,"Yehuda Barkan, Rami Danon, Zachi Noy","Comedy, Drama",6.1
+850,The Inspector Wears Skirts III,1990,96,Wellson Chin,"Sandra Ng, Kara Ying Hung Wai, Amy Yip","Action, Comedy, Crime",5.2
+851,Küçük Baliklar Üzerine Bir Masal,1990,133,Baris Pirhasan,"Hale Soygazi, Nihat Ileri, Derya Köroglu","Drama, Romance",6.2
+852,Overseas,1990,94,Brigitte Roüan,"Nicole Garcia, Marianne Basler, Brigitte Roüan",Drama,6.5
+853,L'aria serena dell'Ovest,1990,110,Silvio Soldini,"Fabrizio Bentivoglio, Antonella Fattori, Ivano Marescotti",Drama,7.1
+854,Privilege,1990,103,Yvonne Rainer,"Daniel Martin Berkey, Blaire Baron, Gabrielle Made",Drama,7.1
+855,Class of Fear,1990,105,Don Murphy,"Noah Blake, Julianne McNamara, Brandon Hooper","Crime, Drama, Thriller",4.5
+856,Love or Money,1990,90,Todd Hallowell,"Tim Daly, Michael Garin, Haviland Morris",Comedy,4.5
+857,Jayammu Nischayammu Raa!,1990,143,Jandhyala,"Rajendra Prasad, Sumalatha, Chandramohan","Comedy, Romance",7.4
+858,Wildest Dreams,1990,80,Chuck Vincent,"James Davies, Heidi Paine, Tracey Adams","Comedy, Fantasy, Romance",4.0
+859,Easy Kill,1990,89,Josh Spencer,"Frank Stallone, Jane Badler, Cameron Mitchell","Action, Crime, Thriller",3.7
+860,L'Autrichienne,1990,98,Pierre Granier-Deferre,"Ute Lemper, Patrick Chesnais, Daniel Mesguich","Biography, Drama, History",6.1
+861,Shuroo,1990,85,Savi Gabizon,"Moshe Ivgy, Sharon Hacohen, Sinai Peter",Comedy,6.7
+862,The Children,1990,115,Tony Palmer,"Ben Kingsley, Kim Novak, Siri Neal",Drama,6.1
+863,Any Man's Death,1990,108,Tom Clegg,"John Savage, William Hickey, Mia Sara","Adventure, Drama, Thriller",4.3
+864,"Dovidenia v pekle, priatelia",1990,73,Juraj Jakubisko,"Míla Beran, Nino Besozzi, Jana Brezinová","Drama, Mystery",6.6
+865,Fathers' Day,1990,83,Joy Fleury,"Thierry Lhermitte, Alain Souchon, Gunilla Karlzen","Comedy, Family, Romance",4.6
+866,Bullet for Hire,1990,95,Chun-Man Yuen,"Jacky Cheung, Simon Yam, Lo Lieh","Action, Crime",5.9
+867,Cézanne - Conversation with Joachim Gasquet,1990,52,"Danièle Huillet, Jean-Marie Straub","Danièle Huillet, Jean-Marie Straub",Documentary,6.7
+868,Powrót wilczycy,1990,90,Marek Piestrak,"Jerzy Zelnik, Marzena Trybala, Malgorzata Prazmowska","Horror, Mystery",3.8
+869,Ritual of Death,1990,84,Fauzi Mansur,"Olair Coan, Karina Palatnik, Tião Hoover",Horror,4.9
+870,The Fool,1990,135,Christine Edzard,"Derek Jacobi, Paul Brooke, Julian Firth","Crime, Drama",6.2
+871,Camping,1990,100,Sune Lund-Sørensen,"Søren Pilmark, Per Pallesen, Kirsten Norholt",Comedy,3.3
+872,The Girl I Want,1990,92,David DeCoteau,"Elizabeth Kaitan, Steven Craig Daugherty, John Schouweiler",Comedy,5.1
+873,Lovers in Woomuk-Baemi,1990,114,Jang Sun-woo,"Lee Dae-kun, Park Joong-hoon, Seo Kap-sook","Drama, Romance",6.4
+874,Keladi Kanmani,1990,140,Vasanth,"S.P. Balasubrahmanyam, Radhika Sarathkumar, Anju Aravind",Drama,7.3
+875,Sasneham,1990,146,Sathyan Anthikad,"Balachandra Menon, Innocent Vareed Thekkethala, K.P.A.C. Lalitha","Comedy, Drama",7.3
+876,A Matter of Degrees,1990,88,W.T. Morgan,"Za Za Dupre, Arye Gross, Tom Sizemore",Comedy,5.2
+877,"Ystävät, toverit",1990,132,Rauni Mollberg,"Mikk Mikiver, Stina Ekblad, Hannu Lauri",Drama,5.8
+878,Fantasy Romance,1990,86,Taylor Wong,"Tony Leung Chiu-wai, Joey Wang, Deanie lp","Comedy, Fantasy, Romance",5.0
+879,Border,1990,100,Zoran Masirevic,"Mirjana Jokovic, Marko Ratic, Davor Janjic",Drama,7.1
+880,March Caresses,1990,89,Radoslaw Piwowarski,"Malgorzata Piorun, Monika Bolly, Robert Kowalski",Drama,6.7
+881,Dubrovsky,1990,104,Vyacheslav Nikiforov,"Mikhail Efremov, Marina Zudina, Vladimir Samoylov","Drama, History",6.8
+882,"Don Juan, mi querido fantasma",1990,100,Antonio Mercero,"Juan Luis Galiardo, María Barranco, Loles León","Comedy, Romance",5.4
+883,Ovejas negras,1990,84,José María Carreño,"Maribel Verdú, José Sazatornil, Juan Diego Botto","Comedy, Crime, Drama",5.8
+884,Ragin' Cajun,1990,91,William Byron Hillman,"Charlene Tilton, David Heavener, Allan Rich","Action, Drama, Music",4.1
+885,Simon les nuages,1990,83,Roger Cantin,"Hugolin Chevrette-Landesque, Patrick St-Pierre, Jessica Barker","Adventure, Family, Fantasy",6.5
+886,My Dear Marthandan,1990,114,Prathap Pothen,"Goundamani, Prabhu, R.S. Shivaji","Drama, Romance",6.1
+887,Spies Inc.,1992,93,Antony Thomas,"Brian Kerwin, Alice Krige, Robert Loggia","Adventure, Comedy",4.1
+888,Den lyubvi,1990,90,Aleksandr Polynnikov,"Andrei Boltnev, Anna Nazareva, Andrey Smolyakov","Action, Crime, Drama",5.2
+889,Highway to Hell,1990,90,Bret McCormick,"Benton Jennings, Richard Harrison, Blue Thompson","Action, Thriller, Horror",4.8
+890,Pas de répit pour Mélanie,1990,95,Jean Beaudry,"Marie-Stéphane Gaudry, Kesnamelly Neff, Madeleine Langlois","Comedy, Drama, Family",6.0
+891,Khatarnaak,1990,223,Bharat Rangachary,"Sanjay Dutt, Anita Raj, Farha Naaz","Action, Crime, Drama",4.9
+892,Tsarskaya okhota,1990,134,Vitaliy Melnikov,"Nikolay Yeryomenko, Svetlana Kryuchkova, Anna Samokhina","Drama, History",6.6
+893,Supermarket,1990,104,Mohamed Khan,"Naglaa Fathi, Adel Adham, Mamdouh Abdel Alim","Comedy, Crime, Drama",7.0
+894,Présumé dangereux,1990,100,Georges Lautner,"Michael Brandon, Sophie Duez, Robert Mitchum","Action, Thriller",3.9
+895,Pueblo de madera,1990,98,Juan Antonio de la Riva,"Alonso Echánove, Gabriela Roel, Ignacio Guadalupe",Drama,6.7
+896,One Woman Is Not Enough,1990,123,Enas El-Degheidy,"Ahmed Zaki, Youssra, Younes Shalaby",Drama,5.5
+897,Drishti,1990,171,Govind Nihalani,"Dimple Kapadia, Shekhar Kapur, Mita Vashisht",Drama,7.3
+898,Karthavyam,1990,152,Mohan Gandhi,"Vijayashanti, Vinod Kumar, Atluri Pundarikakshaiah","Action, Drama",6.6
+899,Cursed,1990,85,Mychel Arsenault,"Ron Lea, Catherine Colvey, Tom Rack",Horror,3.6
+900,Threesome Wild,1990,89,Mario Gariazzo,"David D'Ingeo, Valentine Demy, Antonio Zequila","Drama, Romance",4.4
+901,Hush-a-Bye Baby,1990,72,Margo Harkin,"Emer McCourt, Michael Liebmann, Cathy Casey",Romance,6.4
+902,Imdat ile Zarife,1990,91,Nesli Çölgeçen,"Sevket Altug, Üstün Asutay","Comedy, Drama",7.3
+903,The Spring,1990,102,John D. Patterson,"Dack Rambo, Shari Shattuck, Gedde Watanabe",Adventure,5.0
+904,Retorno a Aztlán,1990,95,Juan Mora Catlett,"Rodrigo Puebla, Rafael Cortes, José Chávez","Drama, History",7.1
+905,Tre colonne in cronaca,1990,100,Carlo Vanzina,"Gian Maria Volontè, Massimo Dapporto, Sergio Castellitto","Crime, Drama, Thriller",5.9
+906,Last Waltz in Sarajevo,1990,119,Nikola Stojanovic,"Davor Janjic, Radmila Zivkovic, Vita Mavric","Comedy, Drama, History",7.0
+907,C'era un Castello con Quaranta Cani,1990,98,Duccio Tessari,"Peter Ustinov, Delphine Forest, Roberto Alpi",Comedy,5.0
+908,Still Life: The Fine Art of Murder,1990,83,Graeme Campbell,"Jason Gedrick, Jessica Steen, Stephen Shellen","Crime, Drama, Mystery",4.4
+909,Top Cop,1990,96,Mark L. Maness,"Stephen P. Sides, Len Schlientz, Tiffany Dossey","Action, Crime, Drama",3.6
+910,Golden Braid,1990,91,Paul Cox,"Chris Haywood, Gosia Dobrowolska, Paul Chubb","Drama, Fantasy, Romance",6.2
+911,Christo in Paris,1990,58,"Deborah Dickson, Susan Froemke, Albert Maysles","Jacques Chirac, Christo, Jeanne-Claude",Documentary,7.4
+912,La batalla de los Tres Reyes,1990,245,"Souheil Ben-Barka, Uchkun Nazarov","Massimo Ghini, Claudia Cardinale, Ugo Tognazzi","Action, Drama, History",6.3
+913,Hollywood Mavericks,1990,90,"Florence Dauman, Dale Ann Stieber, Lance Bird","Martin Scorsese, Paul Schrader, Peter Bogdanovich",Documentary,6.9
+914,Electra,1990,96,Jay Raskin,"Robin O'Dell, Greg Pitts, Paula Cale",Drama,3.3
+915,Erastes sti mihani tou hronou,1990,85,Dimitris Panayiotatos,"Benoît Rossel, Christine Skaza, Takis Moshos","Mystery, Romance, Sci-Fi",6.3
+916,Pod severnym siyaniyem,1990,127,"Petras Abukiavicus, Toshio Gotô, Sergey Vronskiy","Kôji Yakusho, Andrei Boltnev, Marina Zudina","Adventure, Drama, History",6.3
+917,Torment,1990,90,Michael J. Murphy,"Debbi Stevens, Rob Bartlett, Phil Lyndon",Thriller,4.7
+918,Gross Out,1990,82,Bill Osco,"Dino Lee, Susie Campbell, Frank Fears",Comedy,2.9
+919,Five Girls and a Rope,1990,123,Hung-Wei Yeh,"Jing Ai, Shih Chang, Ying Chang",Drama,7.5
+920,International Gorillay,1990,167,Jan Mohammed,"Afzaal Ahmad, Albela, Ghulam Mohiuddin","Action, Thriller",2.9
+921,Payback,1990,94,Russell Solberg,"Corey Michael Eubanks, Michael Ironside, Teresa Blake","Action, Crime, Drama",5.0
+922,Karot,1990,136,Frunze Dovlatyan,"Rafael Atoyan, Galya Novents, Ashot Melikdzhanyan",Drama,7.1
+923,Kickboxer from Hell,1990,91,Godfrey Ho,"Mark Houghton, Sooni Shroof, Wayne Archer","Action, Horror",3.9
+924,Sweet Murder,1990,101,Percival Rubens,"Helene Udy, Russell Todd, Danny Keogh",Thriller,4.8
+925,Lockdown,1990,90,Frank Harris,"Richard Lynch, Chris DeRose, Chuck Jeffreys","Action, Crime, Drama",5.2
+926,Sobachiy pir,1990,112,Leonid Menaker,"Natalya Gundareva, Sergey Shakurov, Larisa Udovichenko",Drama,7.0
+927,Sheshnaag,1990,145,K.R. Reddy,"Jeetendra, Rekha, Rishi Kapoor",Fantasy,4.0
+928,Lovely Child,1990,105,João Canijo,"Rita Blanco, José Wilker, Lídia Franco","Crime, Drama, Mystery",6.3
+929,Sathruvu,1990,138,Kodi Ramakrishna,"Brahmanandam, Venkatesh Daggubati, Kota Srinivasa Rao","Action, Drama",7.7
+930,Bananen - Skræl den før din nabo,1990,77,Regner Grasten,"Dick Kaysø, Ole Ernst, Brian Patterson",Comedy,2.6
+931,In Gold We Trust,1990,89,Chalong Pakdeevijit,"Jan-Michael Vincent, Sam J. Jones, Michi McGee","Action, Adventure, Drama",4.7
+932,Mordashka,1990,92,Andrei Razumovsky,"Dmitriy Kharatyan, Mariya Zubareva, Marina Zudina","Comedy, Drama",4.9
+933,Weld,1990,107,Neil Young,"Ralph Molina, Frank 'Pancho' Sampedro, Billy Talbot","Documentary, Music",8.7
+934,Svampe,1990,79,Martin Asphaug,"Martin Bliksrud, Karl Sundby, Øyvin Bang Berven","Family, Fantasy",5.1
+935,The Marilyn Diaries,1990,92,Ernest G. Sauer,"Marilyn Chambers, Tara Buckman, Michael Rose",Drama,4.3
+936,Siddeshwari,1990,123,Mani Kaul,"Mita Vashisht, Muhar Biswas, Ranjana Srivastava",Documentary,7.4
+937,Stela,1990,86,Petar Krelja,"Anja Sovagovic-Despot, Zarko Lausevic, Miodrag Krivokapic",Drama,6.5
+938,Milena,1990,139,Véra Belmont,"Valérie Kaprisky, Stacy Keach, Gudrun Landgrebe","Biography, Drama",6.2
+939,Farewell to Autumn,1990,98,Mariusz Trelinski,"Jan Frycz, Maria Pakulnis, Grazyna Trela","Drama, History, Romance",6.2
+940,Hello Hemingway,1990,90,Fernando Pérez,"Laura De la Uz, Raúl Paz, Herminia Sánchez",Drama,6.9
+941,Delta Force Commando II: Priority Red One,1990,100,Pierluigi Ciriaci,"Richard Hatch, Fred Williamson, Giannina Facio","Action, Thriller",3.5
+942,Blood Hands,1990,89,Teddy Page,"Jerry Bailey, John Crank, Sean P. Donahue",Action,4.5
+943,Bir Küçük Bulut,1990,75,Faruk Turgut,"Tarik Akan, Füsun Demirel, Osman Alyanak",Drama,6.5
+944,Trois années,1990,93,Fabrice Cazeneuve,"Sabine Azéma, Jacques Villeret, Philippe Volter","Comedy, Drama",5.7
+945,Chance,1990,90,"Charles T. Kanganis, Addison Randall","Lawrence Hilton-Jacobs, Dan Haggerty, Roger Rodd","Action, Crime",4.8
+946,Maala Yogam,1990,130,Sibi Malayil,"Jayaram, Mukesh, Parvathi","Comedy, Drama",6.6
+947,The Monk,1990,106,Francisco Lara Polop,"Paul McGann, Sophie Ward, Isla Blair","Drama, Horror",4.7
+948,Jit,1990,98,Michael Raeburn,"Dominic Makuwachuma, Sibongile Nene, Farai Sevenzo","Comedy, Fantasy, Romance",6.4
+949,Blood Clan,1990,91,Charles Wilkinson,"Michele Little, Robert Wisden, Gordon Pinsent","Drama, Horror, Mystery",5.6
+950,O Psyllos,1990,108,Dimitris Spyrou,"Pantelis Trivizas, Vasilis Kolovos, Dimitra Hatoupi","Drama, Family",7.5
+951,Last Flight to Hell,1990,84,Ignazio Dolce,"Reb Brown, Michele Dehne, Chuck Connors","Action, Crime",3.7
+952,Jiao Yulu,1990,100,Jixing Wang,"Rentang Li, Xuejian Li, Zongyin Zhou",Biography,6.2
+953,The Dreaded,1990,85,Chris Robinson,"Tim Cobb, Lisa Watts, Todd Jones",Horror,3.8
+954,La settimana della sfinge,1990,102,Daniele Luchetti,"Margherita Buy, Paolo Hendel, Silvio Orlando",Comedy,6.2
+955,Gypsy Angels,1990,92,"Alan Smithee, Sean MacGregor","Gene Bicknell, Vanna White, Tige Andrews",Drama,3.9
+956,Inainda Kaigal,1990,160,N.K. Viswanathan,"Ramki, C. Arunpandian, Nirosha","Action, Romance",8.0
+957,Payback,1990,90,Addison Randall,"Roger Rodd, Denise Dougherty, James R. Sweeney","Action, Comedy, Crime",4.5
+958,Avasara Police 100,1990,143,Bhagyaraj,"Bhagyaraj, Mounika, M.N. Nambiar","Action, Crime, Thriller",6.7
+959,Eyewitness to Murder,1990,105,Jag Mundhra,"Andrew Stevens, Adrian Zmed, Sherilyn Wolter",Thriller,4.0
+960,"My Love, My Bride",1990,108,Lee Myung-se,"Park Joong-hoon, Choi Jin-shil, Kim Bo-yeon","Comedy, Romance",7.0
+961,Emperor of the Bronx,1990,104,Joseph Merhi,"William Smith, Alex D'Andrea, Charles T. Kanganis","Action, Crime",5.3
+962,Weekend with Kate,1990,92,Arch Nicholson,"Colin Friels, Catherine McClements, Jerome Ehlers",Comedy,5.9
+963,Zoo Radio,1990,90,"Jay Roach, Jesse Wells","John Benjamin Martin, Doug Mears, Jennifer Dorian",Comedy,4.6
