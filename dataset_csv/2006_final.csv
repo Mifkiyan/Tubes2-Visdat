@@ -1,4 +1,4 @@
-ID,Name,Year,Duration,Directors,Actors,Genres,Rating
+﻿ID,Name,Year,Duration,Directors,Actors,Genres,Rating
 1,The Prestige,2006,130,Christopher Nolan,"Christian Bale, Hugh Jackman, Scarlett Johansson","Drama, Mystery, Sci-Fi",8.5
 2,The Departed,2006,151,Martin Scorsese,"Leonardo DiCaprio, Matt Damon, Jack Nicholson","Crime, Drama, Thriller",8.5
 3,300,2006,117,Zack Snyder,"Gerard Butler, Lena Headey, David Wenham","Action, Drama",7.6
@@ -732,268 +732,270 @@ ID,Name,Year,Duration,Directors,Actors,Genres,Rating
 731,Sl8n8,2006,90,"Frank van Geloven, Edwin Visser","Victoria Koblenko, Kürt Rogiers, Jop Joris","Action, Horror, Thriller",5.2
 732,Godavari,2006,160,Sekhar Kammula,"Sumanth, Kamalinee Mukherjee, Tanikella Bharani","Drama, Romance",7.9
 733,Blood Curse,2006,97,"Tiago Guedes, Frederico Serra","Adriano Luz, Manuela Couto, Sara Carinhas","Horror, Mystery",6.5
-734,När mörkret faller,2006,133,Anders Nilsson,"Oldoz Javidi, Bahar Pars, Mina Azarian","Drama, Thriller",7.4
-735,I psyhi sto stoma,2006,117,Yannis Economides,"Errikos Litsis, Vangelis Mourikis, Maria Kehayioglou",Drama,6.5
-736,No Mercy for the Rude,2006,121,Cheol-hie Park,"Shin Ha-kyun, Yun Ji-hye, Kim Min-joon","Action, Comedy, Crime",7.1
-737,Johnny Was,2006,93,Mark Hammond,"Vinnie Jones, Patrick Bergin, Laurence Kinlan","Action, Crime, Drama",5.5
-738,An Unreasonable Man,2006,122,"Henriette Mantel, Steve Skrovan","Ralph Nader, Pat Buchanan, Howard Zinn","Documentary, Biography",7.9
-739,Five Across the Eyes,2006,95,"Greg Swinson, Ryan Thiessen","Sandra Paduch, Danielle Lilley, Mia Yi",Horror,2.6
-740,The Tiger Brigades,2006,125,Jérôme Cornuau,"Clovis Cornillac, Diane Kruger, Edouard Baer","Action, Adventure, Crime",5.8
-741,Tangier,2006,105,Frank van Mechelen,"Filip Peeters, Els Olaerts, Kyoko Scholiers",Drama,7.1
-742,This Filthy World,2006,86,Jeff Garlin,John Waters,"Documentary, Biography, Comedy",7.6
-743,Ahista Ahista,2006,122,Shivam Nair,"Abhay Deol, Soha Ali Khan, Shayan Munshi","Drama, Romance",6.9
-744,The House of Happiness,2006,99,Dany Boon,"Dany Boon, Michèle Laroque, Daniel Prévost",Comedy,5.6
-745,The Book of Revelation,2006,118,Ana Kokkinos,"Tom Long, Greta Scacchi, Colin Friels","Crime, Drama, Mystery",5.2
-746,Heartbreak Hotel,2006,110,Colin Nutley,"Helena Bergström, Maria Lundqvist, Claes Månsson","Comedy, Drama, Music",5.4
-747,The Borgia,2006,120,Antonio Hernández,"Lluís Homar, Sergio Peris-Mencheta, María Valverde","Biography, History",6.1
-748,Un mundo maravilloso,2006,118,Luis Estrada,"Damián Alcázar, Cecilia Suárez, Ernesto Gómez Cruz","Comedy, Drama, Thriller",6.8
-749,The Rape of Europa,2006,117,"Richard Berge, Bonni Cohen, Nicole Newnham","Joan Allen, E. Randol Schoenberg, Maria Altmann","Documentary, History, War",7.7
-750,Gymnaslærer Pedersen,2006,123,Hans Petter Moland,"Kristoffer Joner, Ane Dahl Torp, Anne Ryg",Drama,5.7
-751,The Ugly Swans,2006,105,Konstantin Lopushanskiy,"Gregory Hlady, Leonid Mozgovoy, Aleksey Kortnev","Drama, Mystery, Sci-Fi",6.9
-752,Dynamite Warrior,2006,103,Chalerm Wongpim,"Dan Chupong, Panna Rittikrai, Samart Payukaroon","Action, Comedy, Thriller",5.1
-753,Invisible Waves,2006,115,Pen-Ek Ratanaruang,"Tadanobu Asano, Kang Hye-jeong, Eric Tsang","Drama, Thriller",6.5
-754,Jimmy and Judy,2006,99,"Randall Rubin, Jonathan Schroder","Edward Furlong, Rachael Bella, William Sadler","Crime, Drama, Thriller",5.8
-755,The Pumpkin Karver,2006,90,Robert Mann,"Michael Zara, Amy Weber, Brian Kary",Horror,3.4
-756,The Butcher,2006,90,Edward Gorsuch,"Catherine Wreford, Tom Nagel, Myiea Coy","Horror, Thriller",3.5
-757,Natale a New York,2006,111,Neri Parenti,"Christian De Sica, Sabrina Ferilli, Massimo Ghini",Comedy,4.3
-758,Job: The Last Grey Cell,2006,92,Konrad Niewolski,"Borys Szyc, Andrzej Andrzejewski, Tomasz Borkowski",Comedy,5.0
-759,East Side Story,2006,88,Carlos Portugal,"René Alvarado, David Berón, Gladise Jiminez","Comedy, Romance",6.6
-760,Woh Lamhe ...,2006,156,Mohit Suri,"Kangana Ranaut, Shiney Ahuja, Shaad Randhawa","Biography, Drama, Romance",6.5
-761,Live Feed,2006,77,Ryan Nicholson,"Kevan Ohtsji, Taayla Markell, Stephen Chang",Horror,3.5
-762,Stalin,2006,168,A.R. Murugadoss,"Chiranjeevi, Trisha Krishnan, Prakash Raj","Action, Drama",6.1
-763,Wild West Comedy Show: 30 Days & 30 Nights - Hollywood to the Heartland,2006,100,Ari Sandel,"Ahmed Ahmed, John Caparulo, Bret Ernst","Documentary, Comedy",6.2
-764,Sisters,2006,92,Douglas Buck,"Chloë Sevigny, Stephen Rea, Lou Doillon","Crime, Horror, Mystery",3.9
-765,Iraq for Sale: The War Profiteers,2006,75,Robert Greenwald,"Katy Helvenston-Wettengal, Scott Helvenston, Donna Zovko","Documentary, War",7.6
-766,Fight Club: Members Only,2006,140,"Abhay Chopra, Vikram Chopra","Suniel Shetty, Sohail Khan, Zayed Khan","Action, Crime, Drama",3.6
-767,The Legend of Lucy Keyes,2006,93,John Stimpson,"Julie Delpy, Justin Theroux, Brooke Adams","Drama, Thriller",4.7
-768,The Insatiable,2006,103,"Chuck Konzelman, Cary Solomon","Sean Patrick Flanery, Michael Biehn, Charlotte Ayanna","Comedy, Horror, Romance",5.2
-769,Iraq in Fragments,2006,94,James Longley,"Marmar Alhilali, Mohammed Haithem, Suleiman Mahmoud","Documentary, War",7.1
-770,Blood Trails,2006,87,Robert Krause,"Rebecca Palmer, Ben Price, Tom Frederic","Horror, Thriller",3.5
-771,Robotech: The Shadow Chronicles,2006,88,"Dong-Wook Lee, Tommy Yune","Richard Epcar, Eddie Frierson, Mark Hamill","Animation, Action, Adventure",6.3
-772,Waiting for Heaven,2006,107,Dervis Zaim,"Serhat Tutumluer, Melisa Sözen, Mesut Akusta","Drama, History",6.5
-773,Samoan Wedding,2006,97,Chris Graham,"Oscar Kightley, Heto Ah Hi, Shimpal Lelisi","Comedy, Romance",6.3
-774,American Drug War: The Last White Hope,2006,120,Kevin Booth,"Joe Arpaio, Jello Biafra, Osama bin Laden","Documentary, Crime",7.7
-775,Subject Two,2006,93,Philip Chidel,"Christian Oliver, Dean Stapleton, Courtney Mace","Drama, Horror, Thriller",5.4
-776,Cinderella,2006,94,Man-dae Bong,"Shin Sae-Kyeong, Do Ji-Won, Ah-yung Ahn","Horror, Thriller",5.4
-777,The Good Student,2006,90,David Ostry,"Tim Daly, Hayden Panettiere, William Sadler","Comedy, Mystery",4.8
-778,Suburban Mayhem,2006,95,Paul Goldman,"Emily Barclay, Steve Bastoni, Laurence Breuls","Comedy, Drama, Thriller",5.7
-779,Der letzte Zug,2006,123,"Joseph Vilsmaier, Dana Vávrová","Gedeon Burkhard, Lale Yavas, Lena Beyerling","Drama, War",6.6
-780,Broken,2006,97,Alan White,"Heather Graham, Jeremy Sisto, Tess Harper","Drama, Thriller",5.4
-781,Brave Story,2006,112,"Makoto Bessho, Kôichi Chigira, Mahiro Maeda","Takako Matsu, Eiji Wentz, Joe Cappelletti","Animation, Adventure, Fantasy",6.5
-782,Glue,2006,110,Alexis Dos Santos,"Nahuel Pérez Biscayart, Nahuel Viale, Inés Efron","Drama, Romance",6.3
-783,Suddenly,2006,96,Johan Brisinger,"Michael Nyqvist, Anastasios Soulis, Moa Gammel",Drama,6.4
-784,Scott Walker: 30 Century Man,2006,95,Stephen Kijak,"Sara Kestelman, Arnie Potts, Jarvis Cocker","Documentary, Biography, Music",7.2
-785,Imsai Arasan 23rd Pulikecei,2006,142,Chimbudeven,"Vadivelu, Nassar, Nagesh",Comedy,7.7
-786,Nachtrit,2006,90,Dana Nechushtan,"Frank Lammers, Fedja van Huêt, Peggy Jane de Schepper","Crime, Drama",6.8
-787,Screamers,2006,91,Carla Garapedian,"Taner Akçam, Hrant Dink, John Dolmayan","Documentary, Music",6.0
-788,Kan shang qu hen mei,2006,92,Yuan Zhang,"Bowen Dong, Yuanyuan Ning, Manyuan Chen","Comedy, Drama",6.7
-789,Family Law,2006,102,Daniel Burman,"Daniel Hendler, Julieta Díaz, Arturo Goetz","Comedy, Drama",6.8
-790,Doomsday: The Sinking of Japan,2006,135,Shinji Higuchi,"Tsuyoshi Kusanagi, Kô Shibasaki, Etsushi Toyokawa","Adventure, Drama, Sci-Fi",5.6
-791,Zhara,2006,95,Rezo Gigineishvili,"Aleksey Chadov, Artur Smolyaninov, Konstantin Kryukov","Comedy, Romance",4.3
-792,Heavens Fall,2006,105,Terry Green,"Timothy Hutton, David Strathairn, Leelee Sobieski","Crime, Drama",6.6
-793,The Big Bad Swim,2006,96,Ishai Setton,"Paget Brewster, Jeff Branson, Jess Weixler","Comedy, Romance, Sport",6.3
-794,Rakhi,2006,173,Krishna Vamsi,"N.T. Rama Rao Jr., Ileana D'Cruz, Charmme Kaur","Action, Drama",6.4
-795,Once in a Lifetime: The Extraordinary Story of the New York Cosmos,2006,97,"Paul Crowder, John Dower","Pelé, Giorgio Chinaglia, Matt Dillon","Documentary, Sport",7.2
-796,Sønner,2006,103,Erik Richter Strand,"Nils Jørgen Kaalstad, Mikkel Bratt Silset, Edward Schultheiss",Drama,7.1
-797,The Killing of John Lennon,2006,114,Andrew Piddington,"Jonas Ball, Mie Omori, Krisha Fairchild","Crime, Drama",6.1
-798,Off the Black,2006,90,James Ponsoldt,"Nick Nolte, Trevor Morgan, Timothy Hutton",Drama,6.5
-799,Shaadi Karke Phas Gaya Yaar,2006,152,K.S. Adiyaman,"Salman Khan, Shilpa Shetty Kundra, Reema Lagoo","Comedy, Drama, Romance",4.0
-800,Coffee Date,2006,91,Stewart Wade,"Jonathan Bray, Jonathan Silverman, Wilson Cruz","Comedy, Romance",6.3
-801,Played,2006,87,Sean Stanek,"Val Kilmer, Gabriel Byrne, Vinnie Jones","Crime, Drama, Thriller",4.2
-802,Bamako,2006,115,Abderrahmane Sissako,"Aïssa Maïga, Tiécoura Traoré, Maimouna Hélène Diarra",Drama,6.7
-803,The Other Side,2006,92,Gregg Bishop,"Nathan Mobley, Jaimie Alexander, Cory Rouse","Action, Thriller",5.2
-804,Uranya,2006,100,Costas Kapakas,"Aris Tsapis, Maria Grazia Cucinotta, Dimitris Piatas","Comedy, Drama",6.4
-805,Un Franco 14 Pesetas,2006,102,Carlos Iglesias,"Carlos Iglesias, Javier Gutiérrez, Nieve de Medina","Comedy, Drama",7.0
-806,Mustang Sally,2006,85,Iren Koster,"Elizabeth Daily, Lindsey Labrum, Mark Parrish","Action, Horror, Thriller",3.2
+734,Blood Tea and Red String,2006,71,Christiane Cegavske,,"Animation, Fantasy",7.0
+735,När mörkret faller,2006,133,Anders Nilsson,"Oldoz Javidi, Bahar Pars, Mina Azarian","Drama, Thriller",7.4
+736,I psyhi sto stoma,2006,117,Yannis Economides,"Errikos Litsis, Vangelis Mourikis, Maria Kehayioglou",Drama,6.5
+737,No Mercy for the Rude,2006,121,Cheol-hie Park,"Shin Ha-kyun, Yun Ji-hye, Kim Min-joon","Action, Comedy, Crime",7.1
+738,Johnny Was,2006,93,Mark Hammond,"Vinnie Jones, Patrick Bergin, Laurence Kinlan","Action, Crime, Drama",5.5
+739,An Unreasonable Man,2006,122,"Henriette Mantel, Steve Skrovan","Ralph Nader, Pat Buchanan, Howard Zinn","Documentary, Biography",7.9
+740,Five Across the Eyes,2006,95,"Greg Swinson, Ryan Thiessen","Sandra Paduch, Danielle Lilley, Mia Yi",Horror,2.6
+741,The Tiger Brigades,2006,125,Jérôme Cornuau,"Clovis Cornillac, Diane Kruger, Edouard Baer","Action, Adventure, Crime",5.8
+742,Tangier,2006,105,Frank van Mechelen,"Filip Peeters, Els Olaerts, Kyoko Scholiers",Drama,7.1
+743,This Filthy World,2006,86,Jeff Garlin,John Waters,"Documentary, Biography, Comedy",7.6
+744,Ahista Ahista,2006,122,Shivam Nair,"Abhay Deol, Soha Ali Khan, Shayan Munshi","Drama, Romance",6.9
+745,The House of Happiness,2006,99,Dany Boon,"Dany Boon, Michèle Laroque, Daniel Prévost",Comedy,5.6
+746,The Book of Revelation,2006,118,Ana Kokkinos,"Tom Long, Greta Scacchi, Colin Friels","Crime, Drama, Mystery",5.2
+747,Heartbreak Hotel,2006,110,Colin Nutley,"Helena Bergström, Maria Lundqvist, Claes Månsson","Comedy, Drama, Music",5.4
+748,The Borgia,2006,120,Antonio Hernández,"Lluís Homar, Sergio Peris-Mencheta, María Valverde","Biography, History",6.1
+749,Un mundo maravilloso,2006,118,Luis Estrada,"Damián Alcázar, Cecilia Suárez, Ernesto Gómez Cruz","Comedy, Drama, Thriller",6.8
+750,The Rape of Europa,2006,117,"Richard Berge, Bonni Cohen, Nicole Newnham","Joan Allen, E. Randol Schoenberg, Maria Altmann","Documentary, History, War",7.7
+751,Gymnaslærer Pedersen,2006,123,Hans Petter Moland,"Kristoffer Joner, Ane Dahl Torp, Anne Ryg",Drama,5.7
+752,The Ugly Swans,2006,105,Konstantin Lopushanskiy,"Gregory Hlady, Leonid Mozgovoy, Aleksey Kortnev","Drama, Mystery, Sci-Fi",6.9
+753,Dynamite Warrior,2006,103,Chalerm Wongpim,"Dan Chupong, Panna Rittikrai, Samart Payukaroon","Action, Comedy, Thriller",5.1
+754,Invisible Waves,2006,115,Pen-Ek Ratanaruang,"Tadanobu Asano, Kang Hye-jeong, Eric Tsang","Drama, Thriller",6.5
+755,Jimmy and Judy,2006,99,"Randall Rubin, Jonathan Schroder","Edward Furlong, Rachael Bella, William Sadler","Crime, Drama, Thriller",5.8
+756,The Pumpkin Karver,2006,90,Robert Mann,"Michael Zara, Amy Weber, Brian Kary",Horror,3.4
+757,The Butcher,2006,90,Edward Gorsuch,"Catherine Wreford, Tom Nagel, Myiea Coy","Horror, Thriller",3.5
+758,Natale a New York,2006,111,Neri Parenti,"Christian De Sica, Sabrina Ferilli, Massimo Ghini",Comedy,4.3
+759,Job: The Last Grey Cell,2006,92,Konrad Niewolski,"Borys Szyc, Andrzej Andrzejewski, Tomasz Borkowski",Comedy,5.0
+760,East Side Story,2006,88,Carlos Portugal,"René Alvarado, David Berón, Gladise Jiminez","Comedy, Romance",6.6
+761,Woh Lamhe ...,2006,156,Mohit Suri,"Kangana Ranaut, Shiney Ahuja, Shaad Randhawa","Biography, Drama, Romance",6.5
+762,Live Feed,2006,77,Ryan Nicholson,"Kevan Ohtsji, Taayla Markell, Stephen Chang",Horror,3.5
+763,Stalin,2006,168,A.R. Murugadoss,"Chiranjeevi, Trisha Krishnan, Prakash Raj","Action, Drama",6.1
+764,Wild West Comedy Show: 30 Days & 30 Nights - Hollywood to the Heartland,2006,100,Ari Sandel,"Ahmed Ahmed, John Caparulo, Bret Ernst","Documentary, Comedy",6.2
+765,Sisters,2006,92,Douglas Buck,"Chloë Sevigny, Stephen Rea, Lou Doillon","Crime, Horror, Mystery",3.9
+766,Iraq for Sale: The War Profiteers,2006,75,Robert Greenwald,"Katy Helvenston-Wettengal, Scott Helvenston, Donna Zovko","Documentary, War",7.6
+767,Fight Club: Members Only,2006,140,"Abhay Chopra, Vikram Chopra","Suniel Shetty, Sohail Khan, Zayed Khan","Action, Crime, Drama",3.6
+768,The Legend of Lucy Keyes,2006,93,John Stimpson,"Julie Delpy, Justin Theroux, Brooke Adams","Drama, Thriller",4.7
+769,The Insatiable,2006,103,"Chuck Konzelman, Cary Solomon","Sean Patrick Flanery, Michael Biehn, Charlotte Ayanna","Comedy, Horror, Romance",5.2
+770,Iraq in Fragments,2006,94,James Longley,"Marmar Alhilali, Mohammed Haithem, Suleiman Mahmoud","Documentary, War",7.1
+771,Blood Trails,2006,87,Robert Krause,"Rebecca Palmer, Ben Price, Tom Frederic","Horror, Thriller",3.5
+772,Robotech: The Shadow Chronicles,2006,88,"Dong-Wook Lee, Tommy Yune","Richard Epcar, Eddie Frierson, Mark Hamill","Animation, Action, Adventure",6.3
+773,Waiting for Heaven,2006,107,Dervis Zaim,"Serhat Tutumluer, Melisa Sözen, Mesut Akusta","Drama, History",6.5
+774,Samoan Wedding,2006,97,Chris Graham,"Oscar Kightley, Heto Ah Hi, Shimpal Lelisi","Comedy, Romance",6.3
+775,American Drug War: The Last White Hope,2006,120,Kevin Booth,"Joe Arpaio, Jello Biafra, Osama bin Laden","Documentary, Crime",7.7
+776,Subject Two,2006,93,Philip Chidel,"Christian Oliver, Dean Stapleton, Courtney Mace","Drama, Horror, Thriller",5.4
+777,Cinderella,2006,94,Man-dae Bong,"Shin Sae-Kyeong, Do Ji-Won, Ah-yung Ahn","Horror, Thriller",5.4
+778,The Good Student,2006,90,David Ostry,"Tim Daly, Hayden Panettiere, William Sadler","Comedy, Mystery",4.8
+779,Suburban Mayhem,2006,95,Paul Goldman,"Emily Barclay, Steve Bastoni, Laurence Breuls","Comedy, Drama, Thriller",5.7
+780,Der letzte Zug,2006,123,"Joseph Vilsmaier, Dana Vávrová","Gedeon Burkhard, Lale Yavas, Lena Beyerling","Drama, War",6.6
+781,Broken,2006,97,Alan White,"Heather Graham, Jeremy Sisto, Tess Harper","Drama, Thriller",5.4
+782,Brave Story,2006,112,"Makoto Bessho, Kôichi Chigira, Mahiro Maeda","Takako Matsu, Eiji Wentz, Joe Cappelletti","Animation, Adventure, Fantasy",6.5
+783,Glue,2006,110,Alexis Dos Santos,"Nahuel Pérez Biscayart, Nahuel Viale, Inés Efron","Drama, Romance",6.3
+784,Suddenly,2006,96,Johan Brisinger,"Michael Nyqvist, Anastasios Soulis, Moa Gammel",Drama,6.4
+785,Scott Walker: 30 Century Man,2006,95,Stephen Kijak,"Sara Kestelman, Arnie Potts, Jarvis Cocker","Documentary, Biography, Music",7.2
+786,Imsai Arasan 23rd Pulikecei,2006,142,Chimbudeven,"Vadivelu, Nassar, Nagesh",Comedy,7.7
+787,Nachtrit,2006,90,Dana Nechushtan,"Frank Lammers, Fedja van Huêt, Peggy Jane de Schepper","Crime, Drama",6.8
+788,Screamers,2006,91,Carla Garapedian,"Taner Akçam, Hrant Dink, John Dolmayan","Documentary, Music",6.0
+789,Kan shang qu hen mei,2006,92,Yuan Zhang,"Bowen Dong, Yuanyuan Ning, Manyuan Chen","Comedy, Drama",6.7
+790,Family Law,2006,102,Daniel Burman,"Daniel Hendler, Julieta Díaz, Arturo Goetz","Comedy, Drama",6.8
+791,Doomsday: The Sinking of Japan,2006,135,Shinji Higuchi,"Tsuyoshi Kusanagi, Kô Shibasaki, Etsushi Toyokawa","Adventure, Drama, Sci-Fi",5.6
+792,Zhara,2006,95,Rezo Gigineishvili,"Aleksey Chadov, Artur Smolyaninov, Konstantin Kryukov","Comedy, Romance",4.3
+793,Heavens Fall,2006,105,Terry Green,"Timothy Hutton, David Strathairn, Leelee Sobieski","Crime, Drama",6.6
+794,The Big Bad Swim,2006,96,Ishai Setton,"Paget Brewster, Jeff Branson, Jess Weixler","Comedy, Romance, Sport",6.3
+795,Rakhi,2006,173,Krishna Vamsi,"N.T. Rama Rao Jr., Ileana D'Cruz, Charmme Kaur","Action, Drama",6.4
+796,Once in a Lifetime: The Extraordinary Story of the New York Cosmos,2006,97,"Paul Crowder, John Dower","Pelé, Giorgio Chinaglia, Matt Dillon","Documentary, Sport",7.2
+797,Sønner,2006,103,Erik Richter Strand,"Nils Jørgen Kaalstad, Mikkel Bratt Silset, Edward Schultheiss",Drama,7.1
+798,The Killing of John Lennon,2006,114,Andrew Piddington,"Jonas Ball, Mie Omori, Krisha Fairchild","Crime, Drama",6.1
+799,Off the Black,2006,90,James Ponsoldt,"Nick Nolte, Trevor Morgan, Timothy Hutton",Drama,6.5
+800,Shaadi Karke Phas Gaya Yaar,2006,152,K.S. Adiyaman,"Salman Khan, Shilpa Shetty Kundra, Reema Lagoo","Comedy, Drama, Romance",4.0
+801,Coffee Date,2006,91,Stewart Wade,"Jonathan Bray, Jonathan Silverman, Wilson Cruz","Comedy, Romance",6.3
+802,Played,2006,87,Sean Stanek,"Val Kilmer, Gabriel Byrne, Vinnie Jones","Crime, Drama, Thriller",4.2
+803,Bamako,2006,115,Abderrahmane Sissako,"Aïssa Maïga, Tiécoura Traoré, Maimouna Hélène Diarra",Drama,6.7
+804,The Other Side,2006,92,Gregg Bishop,"Nathan Mobley, Jaimie Alexander, Cory Rouse","Action, Thriller",5.2
+805,Uranya,2006,100,Costas Kapakas,"Aris Tsapis, Maria Grazia Cucinotta, Dimitris Piatas","Comedy, Drama",6.4
+806,Un Franco 14 Pesetas,2006,102,Carlos Iglesias,"Carlos Iglesias, Javier Gutiérrez, Nieve de Medina","Comedy, Drama",7.0
 807,Niji no megami,2006,118,Naoto Kumazawa,"Hayato Ichihara, Juri Ueno, Yû Aoi","Drama, Romance",7.3
-808,Isabella,2006,91,Ho-Cheung Pang,"Chapman To, Isabella Leong, Josie Ho",Drama,7.1
-809,Maundy Thursday,2006,120,Hae-sung Song,"Lee Na-young, Gang Dong-won, Youn Yuh-jung","Drama, Romance",7.4
-810,The Tiger's Tail,2006,107,John Boorman,"Brendan Gleeson, Kim Cattrall, Ciarán Hinds","Comedy, Crime, Drama",5.8
-811,Saawan... The Love Season,2006,123,Saawan Kumar Tak,"Salman Khan, Saloni Aswani, Kapil Jhaveri","Drama, Fantasy, Romance",2.7
-812,Aksar,2006,135,Ananth Mahadevan,"Emraan Hashmi, Udita Goswami, Dino Morea","Drama, Romance, Thriller",5.0
-813,Candy Stripers,2006,89,Kate Robbins,"Brian Lloyd, Tori White, Deanna Brooks","Horror, Sci-Fi",3.3
-814,Spymate,2006,81,Robert Vince,"Barry Bostwick, Jay Brazeau, Richard Kind","Adventure, Comedy, Family",4.0
-815,Bloody Mary,2006,93,Richard Valentine,"Kim Tyler, Matt Borlenghi, Danni Ravden","Horror, Thriller",3.3
-816,loudQUIETloud: A Film About the Pixies,2006,85,"Steven Cantor, Matthew Galkin","Frank Black, Kim Deal, David Lovering","Documentary, Music",7.1
-817,Roman,2006,92,Angela Bettis,"Lucky McKee, Nectar Rose, Kristen Bell","Drama, Horror, Thriller",5.4
-818,N (Io e Napoleone),2006,110,Paolo Virzì,"Daniel Auteuil, Elio Germano, Monica Bellucci","Comedy, History, War",6.2
-819,Woman on the Beach,2006,127,Hong Sang-soo,"Kim Seung-woo, Go Hyun-jung, Song Seon-mi","Comedy, Drama, Romance",6.8
-820,Wesh Egram,2006,105,Wael Ihsan,"Mohamed Henedi, Bushra, Khaled Zaki","Comedy, Crime, Romance",5.6
-821,The Final Inquiry,2006,112,Giulio Base,"Daniele Liotti, Dolph Lundgren, Mónica Cruz","Adventure, Drama, History",5.2
-822,Kisses and Caroms,2006,81,Vincent Rocca,"Nicole Rayburn, Drew Wicks, Nikki Stanzione",Comedy,4.3
-823,Different,2006,123,Asshu Trikha,"Akshay Kapoor, Dia Mirza, Yatin Karyekar","Action, Drama, Fantasy",3.7
-824,Yo soy la Juani,2006,91,Bigas Luna,"Verónica Echegui, Dani Martín, Laya Martí","Comedy, Drama",5.1
-825,The Quick and the Undead,2006,90,Gerald Nott,"Clint Hummel, Toar Campbell, Dion Day","Action, Horror, Western",2.8
-826,Drama/Mex,2006,93,Gerardo Naranjo,"Fernando Becerril, Diana García, Miriana Moro",Drama,5.9
-827,One to Another,2006,95,"Pascal Arnold, Jean-Marc Barr","Lizzie Brocheré, Arthur Dupont, Guillaume Baché",Drama,5.7
-828,The Architect,2006,82,Matt Tauber,"Anthony LaPaglia, Viola Davis, Isabella Rossellini","Crime, Drama, Romance",5.5
-829,Naksha,2006,128,Sachin Bajaj,"Sunny Deol, Vivek Oberoi, Sameera Reddy","Action, Adventure, Fantasy",3.6
-830,Heartstopper,2006,85,Bob Keen,"Meredith Henderson, Nathaniel Stephenson, James Binkley","Horror, Thriller",4.0
-831,Suite Dreams,2006,136,Kôki Mitani,"Kôji Yakusho, Takako Matsu, Kôichi Satô","Comedy, Drama, Romance",7.0
-832,The Blue Elephant,2006,79,"Kompin Kemgumnird, Tod Polson","Anyarit Pitakkul, Nawarat Techarathanaprasert, Phoori Hiranyapruk","Animation, Adventure, Family",5.7
-833,Something Something... Unnakum Ennakum,2006,178,Mohan Raja,"Ravi Mohan, Trisha Krishnan, Prabhu",Romance,7.0
-834,Splinter,2006,90,Michael D. Olmos,"Tom Sizemore, Edward James Olmos, Ivonne Coll","Crime, Thriller",4.7
-835,The Goodbye Kiss,2006,107,Michele Soavi,"Alessio Boni, Michele Placido, Isabella Ferrari","Crime, Drama, Thriller",6.9
-836,Comeback Season,2006,99,Bruce McCulloch,"David Kelly, Ray Liotta, Shaun Sipos","Comedy, Romance",5.8
-837,All In,2006,98,Nick Vallelonga,"Dominique Swain, Michael Madsen, Louis Gossett Jr.",Drama,3.8
-838,Jasminum,2006,115,Jan Jakub Kolski,"Justyna Bartoszewicz, Grazyna Blecka-Kolska, Marta Dabrowska","Comedy, Romance",6.9
-839,Whirlygirl,2006,95,Jim Wilson,"Monet Mazur, Julian Morris, J.A.Q.","Drama, Romance",5.6
-840,The Beales of Grey Gardens,2006,91,"Albert Maysles, David Maysles","Edith 'Little Edie' Bouvier Beale, Edith Bouvier Beale, Albert Maysles",Documentary,7.2
-841,Red Riding Hood,2006,82,Randal Kleiser,"Lainie Kazan, Henry Cavill, Morgan Thompson","Adventure, Family, Musical",3.6
-842,Irish Jam,2006,94,John Eyres,"Dudley Sutton, Tom Georgeson, Anna Friel",Comedy,5.2
-843,Wrestlemaniac,2006,75,Jesse Baget,"Adam Huss, Jeremy Radin, Leyla Milani","Adventure, Crime, Drama",4.4
-844,Air Guitar Nation,2006,81,Alexandra Lipsitz,"Dan Crane, David S. Jung, Hadia Ackerman","Documentary, Biography, Music",7.1
-845,Baixio das Bestas,2006,80,Cláudio Assis,"Fernando Teixeira, Caio Blat, Matheus Nachtergaele","Drama, Horror",6.2
-846,Fascisti su Marte,2006,100,"Corrado Guzzanti, Igor Skofic","Corrado Guzzanti, Andrea Purgatori, Pasquale Petrolo","Comedy, Sci-Fi",6.8
-847,Quatre étoiles,2006,106,Christian Vincent,"José Garcia, Renée Le Calm, Isabelle Carré",Comedy,5.4
-848,Hacking Democracy,2006,82,"Simon Ardizzone, Russell Michaels","James Naughton, Bev Harris, Deanie Lowe",Documentary,7.8
-849,Chalk,2006,85,Mike Akel,"Troy Schremmer, Janelle Schremmer, Shannon Haragan","Comedy, Drama",6.1
-850,The Second Chance,2006,102,Steve Taylor,"Michael W. Smith, Jeff Obafemi Carr, J. Don Ferguson",Drama,6.4
-851,Cattle Call,2006,83,Martin Guigui,"Thomas Ian Nicholas, Jenny Mollen, Nicole Eggert",Comedy,3.7
-852,Euphoria,2006,74,Ivan Vyrypaev,"Polina Agureeva, Maksim Ushakov, Mikhail Okunev","Drama, Romance",6.5
-853,Shoppen Munich,2006,91,Ralf Westhoff,"Sebastian Weber, Anna Böger, Felix Hellmann","Comedy, Drama, Romance",7.2
-854,The Killer,2006,117,"Hasnain Hyderabadwala, Raksha Mistry","Irrfan Khan, Emraan Hashmi, Priyanka Kothari","Action, Crime, Drama",4.8
-855,Die Wilden Kerle 3,2006,120,Joachim Masannek,"Jimi Blue Ochsenknecht, Sarah Kim Gries, Constantin Gastmann","Comedy, Family, Sport",3.9
-856,A Ticket to Space,2006,90,Éric Lartigau,"Kad Merad, Olivier Baroux, Marina Foïs","Comedy, Sci-Fi",5.3
-857,Hot Tamale,2006,102,Michael Damian,"John Hayden, Richard Riehle, Harland Williams","Action, Comedy, Crime",5.5
-858,Råzone,2006,93,Christian E. Christiansen,"Laura Christensen, Stephanie Leon, Julie R. Ølgaard",Drama,6.3
-859,Hoboken Hollow,2006,98,Glen Stephens,"Jason Connery, C. Thomas Howell, Mark Holton",Horror,3.7
-860,The Magic Flute,2006,135,Kenneth Branagh,"Joseph Kaiser, Amy Carson, Ben Davis","Drama, Musical, Romance",6.5
-861,The War Tapes,2006,97,Deborah Scranton,"Zack Bazzi, Duncan Domey, Ben Flanders","Documentary, War",7.2
-862,Ten 'til Noon,2006,80,Scott Storm,"Alfonso Freeman, Rick D. Wasserman, Rayne Guest","Crime, Mystery, Thriller",5.5
-863,Amateur Porn Star Killer,2006,71,Shane Ryan-Reid,"Michiko Jimenez, Jan Gould, Shane Ryan-Reid","Crime, Horror",3.1
-864,Pournami,2006,160,Prabhu Deva,"Prabhas, Trisha Krishnan, Charmme Kaur","Action, Drama, Mystery",5.9
-865,Park,2006,86,Kurt Voelker,"Dagney Kerr, Tank, Vincent Riverside","Comedy, Drama",5.7
-866,The Hawk Is Dying,2006,112,Julian Goldberger,"Paul Giamatti, Michelle Williams, Michael Pitt",Drama,5.8
-867,Who the #$&% Is Jackson Pollock?,2006,74,Harry Moses,"Teri Horton, Tod M. Volpe, Ben Heller",Documentary,7.0
-868,Steel Toes,2006,87,"Mark Adam, David Gow","David Strathairn, Andrew W. Walker, Marina Orsini","Crime, Drama",6.1
-869,Poltergay,2006,93,Eric Lavaine,"Clovis Cornillac, Julie Depardieu, Lionel Abelanski","Comedy, Fantasy, Horror",5.5
-870,Cloud 9,2006,93,Harry Basil,"Burt Reynolds, D.L. Hughley, Paul Rodriguez","Comedy, Sport",4.2
-871,Easy Skanking,2006,107,Hella Joof,"Rudi Køhnke, Lene Maria Christensen, Jonatan Spang",Comedy,5.7
-872,Cargo,2006,90,Clive Gordon,"Peter Mullan, Daniel Brühl, Luis Tosar","Adventure, Drama, Thriller",5.0
-873,El camino de los ingleses,2006,118,Antonio Banderas,"Alberto Amarilla, María Ruiz, Félix Gómez","Drama, Romance",5.5
-874,A Few Kilos of Dates for a Funeral,2006,85,Saman Salur,"Mohsen Tanabandeh, Nader Fallah, Mohsen Namjoo","Comedy, Drama, Thriller",7.5
-875,Devil's Den,2006,84,Jeff Burr,"Kelly Hu, Devon Sawa, Ken Foree","Action, Comedy, Fantasy",4.6
-876,Katkoot,2006,124,Ahmed Awad,"Muhammad Sad, Hassan Hosny, Thurayya Ibrahim","Comedy, Family, Thriller",5.0
-877,FC Venus,2006,100,Ute Wieland,"Christian Ulmen, Nora Tschirner, Florian Lukas","Comedy, Romance, Sport",5.9
-878,Fuga,2006,110,Pablo Larraín,"Benjamín Vicuña, Gastón Pauls, Francisca Imboden","Drama, Music, Thriller",6.3
-879,My First Wedding,2006,94,Laurent Firode,"Rachael Leigh Cook, Kenny Doughty, Paul Hopkins","Comedy, Romance",4.6
-880,Anplagghed al cinema,2006,95,Rinaldo Gaspari,"Aldo Baglio, Giovanni Storti, Giacomo Poretti","Comedy, Fantasy",6.6
-881,Sway,2006,120,Miwa Nishikawa,"Joe Odagiri, Teruyuki Kagawa, Masatô Ibu","Crime, Drama",7.1
-882,Em Magan,2006,154,Thirumurugan,"Bharath Srinivasan, Gopika, Nassar","Drama, Romance",8.0
-883,Zyzzyx Rd,2006,90,John Penney,"Leo Grillo, Katherine Heigl, Tom Sizemore","Crime, Drama, Thriller",3.8
-884,Horrors of War,2006,99,"Peter John Ross, John Whitney","Jon Osbeck, Joe Lorenzo, Daniel Alan Kiely","Action, Horror, Sci-Fi",2.9
-885,Broken Sky,2006,140,Julián Hernández,"Miguel Ángel Hoppe, Fernando Arroyo, Alejandro Rojo","Drama, Romance",5.7
-886,A Thousand Kisses,2006,110,Willem van de Sande Bakhuyzen,"Tijn Docter, Carice van Houten, Catherine ten Bruggencate","Comedy, Drama, Romance",6.6
-887,I See You,2006,122,Vivek b Agrawal,"Arjun Rampal, Vipasha Agarwal, Chunky Pandey","Comedy, Drama, Fantasy",4.4
-888,Open Window,2006,97,Mia Goldman,"Robin Tunney, Joel Edgerton, Cybill Shepherd",Drama,6.1
-889,Pingpong,2006,89,Matthias Luthardt,"Sebastian Urzendowsky, Marion Mitterhammer, Clemens Berg",Drama,6.2
-890,Once in a Summer,2006,121,Geun-shik Jo,"Lee Byung-hun, Soo Ae, Oh Dal-su","Drama, Romance",7.2
-891,Congorama,2006,105,Philippe Falardeau,"Olivier Gourmet, Paul Ahmarani, Jean-Pierre Cassel","Comedy, Drama",7.1
-892,Cemetery Gates,2006,92,Roy Knyrim,"Reggie Bannister, Peter Stickles, Aime Wolf","Horror, Action, Sci-Fi",3.5
-893,TV: The Movie,2006,86,Sam Macaroni,"Steve-O, Preston Lacy, Jason 'Wee Man' Acuña",Comedy,3.2
-894,Pucked,2006,83,Arthur Hiller,"Jon Bon Jovi, Estella Warren, David Faustino","Comedy, Sport",4.0
-895,Rollin' with the Nines,2006,96,Julian Gilbey,"Vas Blackwood, Robbie Gee, Naomi Taylor","Crime, Action, Drama",5.4
-896,Tears for You,2006,118,Nobuhiro Doi,"Satoshi Tsumabuki, Masami Nagasawa, Kumiko Asô","Drama, Romance",6.7
-897,Goldene Zeiten,2006,134,Peter Thorwarth,"Wotan Wilke Möhring, Dirk Benedict, Wolf Roth","Comedy, Crime, Drama",6.3
-898,Yo-Yo Girl Cop,2006,98,Kenta Fukasaku,"Aya Matsuura, Rika Ishikawa, Erika Miyoshi",Action,4.9
-899,Mushi-Shi: The Movie,2006,131,Katsuhiro Ôtomo,"Joe Odagiri, Nao Ômori, Yû Aoi","Drama, Fantasy",6.0
-900,Nana 2,2006,130,Kentarô Ohtani,"Mika Nakashima, Yui Ichikawa, Tetsuji Tamayama","Drama, Music, Romance",6.0
-901,In a Day,2006,81,Evan Richards,"Lorraine Pilkington, Finlay Robertson, Rose Keegan","Comedy, Drama, Romance",6.8
-902,French for Beginners,2006,98,Christian Ditter,"François Goeske, Paula Schramm, Lennard Bertzbach","Comedy, Romance",6.1
-903,Kiss Me Again,2006,103,William Tyler Smith,"Jeremy London, Katheryn Winnick, Mirelly Taylor","Romance, Drama",4.9
-904,Distortion,2006,83,Kirk Fogg,"Kirk Fogg, Sara Lahti, Corbin Timbrook","Crime, Drama, Mystery",3.6
-905,Gangster High,2006,100,Ki-hyeong Park,"Jung Kyung-ho, Lee Tae-sung, Go Gyu-pil","Action, Crime",6.6
-906,Pirates of Treasure Island,2006,85,Leigh Scott,"Lance Henriksen, Tom Nagel, Rebekah Kochan","Action, Adventure",2.3
-907,Small Town Gay Bar,2006,76,Malcolm Ingram,"Jim Bishop, Terry Capps, Bill Curtis",Documentary,7.1
-908,Just Like the Son,2006,86,Morgan J. Freeman,"Mark Webber, Antonio Ortiz, Brendan Sexton III",Drama,6.7
-909,In Her Line of Fire,2006,88,Brian Trenchard-Smith,"Mariel Hemingway, David Keith, David Millbern","Action, Drama",3.7
-910,The Last House in the Woods,2006,85,Gabriele Albanesi,"Daniela Virgilio, Geno Diana, Santa De Santis","Horror, Thriller",4.6
-911,The Slaughter,2006,96,Jay Lee,"Cheyenne Ault, Billy Beck, Eva Derrek","Comedy, Horror",3.7
-912,Angels of the Sun,2006,92,Rudi Lagemann,"Antonio Calloni, Otávio Augusto, Darlene Glória",Drama,7.1
-913,"Buy the Ticket, Take the Ride: Hunter S. Thompson on Film",2006,73,Tom Thurman,"Ed Bradley, Bob Braudis, Douglas Brinkley","Documentary, Biography",7.1
-914,Asthram,2006,140,Suresh Krishna,"Vishnu Manchu, Jackie Shroff, Anushka Shetty","Action, Crime, Thriller",4.6
-915,Sasquatch Mountain,2006,90,Steven R. Monroe,"Lance Henriksen, Cerina Vincent, Michael Worth","Action, Adventure, Horror",3.8
-916,The Treatment,2006,86,Oren Rudavsky,"Chris Eigeman, Ian Holm, Famke Janssen","Comedy, Drama, Romance",5.8
-917,Belle toujours,2006,68,Manoel de Oliveira,"Michel Piccoli, Bulle Ogier, Ricardo Trêpa","Drama, Music",6.3
-918,Apt,2006,90,"Byeong-ki Ahn, Ahn Byung-Ki","Ko So-young, Kang Seong-jin, Jang Hie-jin","Horror, Thriller",5.6
-919,Beyond the Wall of Sleep,2006,84,"Barrett J. Leigh, Thom Maurer","George Peroulas, Fountain Yount, Gregory Fawcett",Horror,2.9
-920,Keerthi Chakra,2006,130,Major Ravi,"Mohanlal, Jiiva, Lakshmi Gopalaswamy","Action, Drama, War",7.2
-921,True North,2006,96,Steve Hudson,"Peter Mullan, Martin Compston, Gary Lewis","Drama, Thriller",6.8
-922,L'homme de sa vie,2006,114,Zabou Breitman,"Bernard Campan, Charles Berling, Léa Drucker","Drama, Romance",6.6
-923,Gettin' It,2006,93,Nick Gaitatjis,"Patrick Censoplano, Cheryl Dent, Sajen Corona",Comedy,3.3
-924,The One Percent,2006,76,Jamie Johnson,"Nicole Buffet, Chuck Collins, Steve Forbes",Documentary,6.8
-925,Triple Dare,2006,92,Christina Rosendahl,"Emma Leth, Cathrine Bjørn, Amalie Lindegård",Drama,5.6
-926,Late Bloomers,2006,90,Bettina Oberli,"Stephanie Glaser, Annemarie Düringer, Heidi Maria Glössner","Comedy, Drama",7.0
-927,Shadow: Dead Riot,2006,81,Derek Wan,"Tony Todd, Carla Greene, Nina Hodoruk","Action, Horror",4.0
-928,Filme da Treta,2006,91,José Sacramento,"José Pedro Gomes, António Feio, Maria Rueff",Comedy,6.1
-929,Believe in Me,2006,131,Robert Collector,"Jeffrey Donovan, Samantha Mathis, Doris Hargrave","Drama, Sport",7.0
-930,S&man,2006,84,J.T. Petty,"Elizabeth Cartier, Carol J. Clover, Debbie D",Horror,5.6
-931,Canvas,2006,101,Joseph Greco,"Griffin Miner, Marcia Gay Harden, Devon Gearhart",Drama,6.5
-932,Sandwich,2006,152,Anees Bazmee,"Govinda, Raveena Tandon, Mahima Chaudhry","Comedy, Thriller",5.6
-933,Shock to the System,2006,91,Ron Oliver,"Chad Allen, Sebastian Spence, Michael Woods","Crime, Drama, Mystery",6.6
-934,Game,2006,130,G. Ram Prasad,"Giri Babu, Mohan Babu, Raghu Babu",Thriller,4.4
-935,Milarepa,2006,90,Neten Chokling,"Orgyen Tobgyal, Kelsang Chukie Tethtong, Jamyang Lodro","Action, Adventure, Biography",7.0
-936,Stupid Teenagers Must Die!,2006,80,Jeff C. Smith,"Jovan Meredith, Ashley Schneider, Devin Marble","Comedy, Horror",3.0
-937,In ascolto,2006,105,Giacomo Martelli,"Michael Parks, Maya Sansa, Andrea Tidona","Crime, Drama, Thriller",6.2
-938,Yellow,2006,90,Alfredo Rodriguez de Villa,"Roselyn Sanchez, Bill Duke, D.B. Sweeney","Drama, Music, Romance",5.2
-939,Cyanide,2006,115,A.M.R. Ramesh,"Avinash, Malavika Avinash, Usha Bhandary","Crime, Drama, Thriller",7.8
-940,Knyaz Vladimir. Film pervyy,2006,78,"Yuri Kulakov, Yuriy Batanin","Sergey Bezrukov, Aleksandr Barinov, Lev Durov","Animation, Action, Drama",6.7
-941,Zuzu Angel,2006,108,Sergio Rezende,"Patricia Pillar, Daniel de Oliveira, Leandra Leal","Biography, Drama, History",6.9
-942,Full Metal Village,2006,91,Sung Hyung Cho,"Uwe Trede, Lore Trede, Klaus H. Plähn","Documentary, Music",7.1
-943,Tirupathi,2006,158,Perarasu,"Ajith Kumar, Sada, Riyaz Khan","Action, Drama",3.2
-944,Darkon,2006,93,"Luke Meyer, Andrew Neel","Skip Lipman, Kenyon Wells, Daniel McArthur","Documentary, Fantasy",6.7
-945,The Trials of Darryl Hunt,2006,106,"Ricki Stern, Anne Sundberg","Evelyn Jefferson, Fred Flagler, John Reeves","Documentary, Crime",7.5
-946,Wholetrain,2006,82,Florian Gaag,"Mike Adler, Florian Renner, Elyas M'Barek",Drama,6.9
-947,Úcastníci zájezdu,2006,113,Jirí Vejdelek,"Anna Polívková, Eva Holubová, Bohumil Klepl",Comedy,6.2
-948,"Man, Woman and the Wall",2006,84,Masashi Yamamoto,"Sora Aoi, Hiroto Katô, Shô Nishino","Drama, Romance, Thriller",6.2
-949,Opal Dream,2006,86,Peter Cattaneo,"Sapphire Blossom, Christian Byers, Vince Colosimo","Drama, Family",6.5
-950,The Da Vinci Treasure,2006,91,Peter Mervis,"C. Thomas Howell, Lance Henriksen, Nicole Sherwin","Action, Adventure, Mystery",2.2
-951,Hot for Teacher,2006,109,Yoo-sung Kim,"Kim Sa-rang, Park Jun-gyu, Hyeok-jae Lee",Comedy,5.8
-952,UKM: The Ultimate Killing Machine,2006,85,David Mitchell,"Michael Madsen, Mac Fyfe, Stephen Arbuckle","Horror, Sci-Fi",3.1
-953,Mere Jeevan Saathi,2006,129,Suneel Darshan,"Akshay Kumar, Karisma Kapoor, Ameesha Patel","Drama, Music, Romance",3.4
-954,Tempelriddernes skat,2006,85,Kasper Barfoed,"Julie Grundtvig Wester, Christian Heldbo Wienberg, Nicklas Svale Andersen","Adventure, Family",5.7
-955,Dracula's Curse,2006,107,Leigh Scott,"Thomas Downey, Eliza Swenson, Rhett Giles","Action, Horror",2.8
-956,"Tibor vagyok, de hódítani akarok",2006,88,Gergely Fonyó,"Péter Fancsikai, Bálint Egri, Bernadett Gregor",Comedy,5.2
-957,Say That You Love Me,2006,87,Daniel Fridell,"Haddy Jallow, Diza Dahlström Franzén, Celestine Davidsson",Drama,4.8
-958,The Other Half,2006,94,"Richard Nockles, Marlowe Fawcett","Danny Dyer, Gillian Kearney, Jonathan Broke","Comedy, Romance",4.8
-959,The Maidens' Conspiracy,2006,122,Vicente Aranda,"Caspar Zafer, Esther Nubiola, Leonor Watling","Adventure, Romance",4.1
-960,Dry Season,2006,96,Mahamat-Saleh Haroun,"Ali Barkai, Youssouf Djaoro, Aziza Hisseine",Drama,6.9
-961,The Stone Merchant,2006,119,Renzo Martinelli,"Harvey Keitel, Jane March, Jordi Mollà","Drama, Thriller",4.2
-962,Dasepo Naughty Girls,2006,103,Je-yong Lee,"Kim Ok-bin, Park Jin-woo, Kyeon Lee","Comedy, Fantasy, Musical",5.9
-963,The Darkroom,2006,83,Michael Hurst,"Shawn Pyfrom, Reed Diamond, Greg Grunberg","Horror, Mystery, Thriller",5.5
-964,Beauty in Trouble,2006,110,Jan Hrebejk,"Anna Geislerová, Josef Abrhám, Jana Brejchová","Comedy, Drama",6.7
-965,Aap Ki Khatir,2006,122,Dharmesh Darshan,"Akshaye Khanna, Priyanka Chopra Jonas, Ameesha Patel","Comedy, Romance",3.9
-966,Annavaram,2006,175,"Srinivasa Rao Bhimaneni, Gridhar, Sippy","Pawan Kalyan, Asin, Sandhya","Action, Drama",4.9
-967,Pyare Mohan,2006,130,"Ravinddra Khare, Indra Kumar","Fardeen Khan, Vivek Oberoi, Esha Deol","Action, Comedy, Drama",3.5
-968,The Thirst,2006,88,Jeremy Kasten,"Matt Keeslar, Clare Kramer, Jeremy Sisto",Horror,3.9
-969,Eye of the Dolphin,2006,102,Michael D. Sellers,"Carly Schroeder, Adrian Dunbar, George Harris","Comedy, Drama, Family",5.6
-970,Seasons change: Phror arkad plian plang boi,2006,118,Nithiwat Tharatorn,"Yuwanat Arayanimisakul, Panisara Arayaskul, Witawat Singlampong","Comedy, Drama, Music",7.6
-971,Schwarze Schafe,2006,94,Oliver Rihs,"Jule Böwe, Milan Peschel, Jenny Deimling",Comedy,6.5
-972,Long-Term Relationship,2006,97,Rob Williams,"Matthew Montgomery, Windham Beacham, Artie O'Daly","Comedy, Drama, Romance",6.0
-973,Satan's Playground,2006,81,Dante Tomaselli,"Felissa Rose, Salvatore Paul Piro, Danny Lopes",Horror,3.5
-974,Joy Division,2006,105,Reg Traviss,"Ed Stoppard, Tom Schilling, Bernadette Heerwagen","Drama, War",6.0
-975,Container,2006,72,Lukas Moodysson,"Jena Malone, Peter Lorentzon, Mariha Åberg",Drama,4.8
-976,Gekijô-ban Dôbutsu no Mori,2006,87,Jôji Shimura,"Yui Horie, Misato Fukuen, Fumiko Orikasa","Animation, Comedy, Drama",6.6
-977,Dood eind,2006,90,Erwin van den Eshof,"Everon Jackson Hooi, Anniek Pheifer, Alwien Tulner","Horror, Thriller",4.6
-978,O Jerusalem,2006,100,Élie Chouraqui,"JJ Feild, Saïd Taghmaoui, Maria Papas","Drama, History",6.0
-979,The Front Line,2006,93,David Gleeson,"Eriq Ebouaney, Gerard McSorley, James Frain","Action, Crime, Drama",6.5
-980,Awesome; I Shot That!,2006,90,Adam Yauch,"Mike D, Adam Horovitz, Adam Yauch","Documentary, Music",7.5
-981,Scream of the Ants,2006,85,Mohsen Makhmalbaf,"Mamhoud Chokrollahi, Mahnour Shadzi, Karl Maass","Adventure, Drama",6.0
-982,The Unseeable,2006,94,Wisit Sasanatieng,"Suporntip Chuangrangsri, Tassawan Seneewongse, Siraphan Wattanajinda","Horror, Mystery, Romance",6.8
-983,A Ton of Luck,2006,100,Rodrigo Triana,"Diego Cadavid, Juan Sebastián Aragón, Manuel José Chaves","Comedy, Drama",6.4
-984,Fraulein,2006,81,Andrea Staka,"Mirjana Karanovic, Marija Skaricic, Ljubica Jovic",Drama,6.7
-985,El custodio,2006,102,Rodrigo Moreno,"Julio Chávez, Osmar Núñez, Marcelo D'Andrea",Drama,6.5
-986,Siren,2006,87,Yukihiko Tsutsumi,"Yui Ichikawa, Leo Morimoto, Naoki Tanaka","Horror, Thriller",5.4
-987,Brothers: The Return,2006,96,Erik Leijonborg,"Ola Rapace, Lembit Ulfsak, Liina Olmaru","Crime, Drama, Thriller",6.6
-988,Love.Com: The Movie,2006,99,Kitaji Ishikawa,"Ema Fujisawa, Teppei Koike, Shôsuke Tanihara","Comedy, Romance",6.2
-989,The Sex Movie,2006,84,Colton Lawrence,"Michelle Mosley, Matthew Tyler, Mike Fallon",Drama,4.7
-990,The Postmodern Life of My Aunt,2006,111,Ann Hui,"Siqin Gaowa, Chow Yun-Fat, Wei Zhao","Comedy, Drama, Romance",6.8
-991,Honey & Clover,2006,117,Masahiro Takada,"Shô Sakurai, Yû Aoi, Yûsuke Iseya","Drama, Romance",6.4
-992,Förortsungar,2006,96,"Catti Edfeldt, Ylva Gustavsson","Beylula Kidane Adgoy, Gustaf Skarsgård, Embla Hjulström","Comedy, Drama, Family",4.9
-993,Du jour au lendemain,2006,93,Philippe Le Guay,"Benoît Poelvoorde, Bernard Bloch, Anne Consigny",Comedy,5.4
-994,Bangaram,2006,178,Dharani,"Pawan Kalyan, Meera Chopra, Reema Sen","Action, Drama",4.6
-995,666: The Child,2006,80,Jack Perez,"Adam Vincent, Booboo Stewart, Sarah Lieving",Horror,2.9
-996,Satanic,2006,88,Dan Golden,"Annie Sorell, Jeffrey Combs, Angus Scrimm",Horror,3.0
-997,Saving Shiloh,2006,90,Sandy Tung,"Scott Wilson, Gerald McRaney, Jason Dolley","Crime, Drama, Family",6.2
-998,Khadak,2006,104,"Peter Brosens, Jessica Woodworth","Batzul Khayankhyarvaa, Tsetsegee Byamba, Banzar Damchaa","Drama, Romance",6.9
+808,Mustang Sally,2006,85,Iren Koster,"Elizabeth Daily, Lindsey Labrum, Mark Parrish","Action, Horror, Thriller",3.2
+809,Isabella,2006,91,Ho-Cheung Pang,"Chapman To, Isabella Leong, Josie Ho",Drama,7.1
+810,The Great Happiness Space: Tale of an Osaka Love Thief,2006,76,Jake Clennell,,Documentary,7.8
+811,Maundy Thursday,2006,120,Hae-sung Song,"Lee Na-young, Gang Dong-won, Youn Yuh-jung","Drama, Romance",7.4
+812,The Tiger's Tail,2006,107,John Boorman,"Brendan Gleeson, Kim Cattrall, Ciarán Hinds","Comedy, Crime, Drama",5.8
+813,Saawan... The Love Season,2006,123,Saawan Kumar Tak,"Salman Khan, Saloni Aswani, Kapil Jhaveri","Drama, Fantasy, Romance",2.7
+814,Aksar,2006,135,Ananth Mahadevan,"Emraan Hashmi, Udita Goswami, Dino Morea","Drama, Romance, Thriller",5.0
+815,Candy Stripers,2006,89,Kate Robbins,"Brian Lloyd, Tori White, Deanna Brooks","Horror, Sci-Fi",3.3
+816,Spymate,2006,81,Robert Vince,"Barry Bostwick, Jay Brazeau, Richard Kind","Adventure, Comedy, Family",4.0
+817,Bloody Mary,2006,93,Richard Valentine,"Kim Tyler, Matt Borlenghi, Danni Ravden","Horror, Thriller",3.3
+818,loudQUIETloud: A Film About the Pixies,2006,85,"Steven Cantor, Matthew Galkin","Frank Black, Kim Deal, David Lovering","Documentary, Music",7.1
+819,Roman,2006,92,Angela Bettis,"Lucky McKee, Nectar Rose, Kristen Bell","Drama, Horror, Thriller",5.4
+820,N (Io e Napoleone),2006,110,Paolo Virzì,"Daniel Auteuil, Elio Germano, Monica Bellucci","Comedy, History, War",6.2
+821,Woman on the Beach,2006,127,Hong Sang-soo,"Kim Seung-woo, Go Hyun-jung, Song Seon-mi","Comedy, Drama, Romance",6.8
+822,Wesh Egram,2006,105,Wael Ihsan,"Mohamed Henedi, Bushra, Khaled Zaki","Comedy, Crime, Romance",5.6
+823,The Final Inquiry,2006,112,Giulio Base,"Daniele Liotti, Dolph Lundgren, Mónica Cruz","Adventure, Drama, History",5.2
+824,Kisses and Caroms,2006,81,Vincent Rocca,"Nicole Rayburn, Drew Wicks, Nikki Stanzione",Comedy,4.3
+825,Different,2006,123,Asshu Trikha,"Akshay Kapoor, Dia Mirza, Yatin Karyekar","Action, Drama, Fantasy",3.7
+826,Yo soy la Juani,2006,91,Bigas Luna,"Verónica Echegui, Dani Martín, Laya Martí","Comedy, Drama",5.1
+827,The Quick and the Undead,2006,90,Gerald Nott,"Clint Hummel, Toar Campbell, Dion Day","Action, Horror, Western",2.8
+828,Drama/Mex,2006,93,Gerardo Naranjo,"Fernando Becerril, Diana García, Miriana Moro",Drama,5.9
+829,One to Another,2006,95,"Pascal Arnold, Jean-Marc Barr","Lizzie Brocheré, Arthur Dupont, Guillaume Baché",Drama,5.7
+830,The Architect,2006,82,Matt Tauber,"Anthony LaPaglia, Viola Davis, Isabella Rossellini","Crime, Drama, Romance",5.5
+831,Naksha,2006,128,Sachin Bajaj,"Sunny Deol, Vivek Oberoi, Sameera Reddy","Action, Adventure, Fantasy",3.6
+832,Heartstopper,2006,85,Bob Keen,"Meredith Henderson, Nathaniel Stephenson, James Binkley","Horror, Thriller",4.0
+833,Suite Dreams,2006,136,Kôki Mitani,"Kôji Yakusho, Takako Matsu, Kôichi Satô","Comedy, Drama, Romance",7.0
+834,The Blue Elephant,2006,79,"Kompin Kemgumnird, Tod Polson","Anyarit Pitakkul, Nawarat Techarathanaprasert, Phoori Hiranyapruk","Animation, Adventure, Family",5.7
+835,Something Something... Unnakum Ennakum,2006,178,Mohan Raja,"Ravi Mohan, Trisha Krishnan, Prabhu",Romance,7.0
+836,Splinter,2006,90,Michael D. Olmos,"Tom Sizemore, Edward James Olmos, Ivonne Coll","Crime, Thriller",4.7
+837,The Goodbye Kiss,2006,107,Michele Soavi,"Alessio Boni, Michele Placido, Isabella Ferrari","Crime, Drama, Thriller",6.9
+838,Comeback Season,2006,99,Bruce McCulloch,"David Kelly, Ray Liotta, Shaun Sipos","Comedy, Romance",5.8
+839,All In,2006,98,Nick Vallelonga,"Dominique Swain, Michael Madsen, Louis Gossett Jr.",Drama,3.8
+840,Jasminum,2006,115,Jan Jakub Kolski,"Justyna Bartoszewicz, Grazyna Blecka-Kolska, Marta Dabrowska","Comedy, Romance",6.9
+841,Whirlygirl,2006,95,Jim Wilson,"Monet Mazur, Julian Morris, J.A.Q.","Drama, Romance",5.6
+842,The Beales of Grey Gardens,2006,91,"Albert Maysles, David Maysles","Edith 'Little Edie' Bouvier Beale, Edith Bouvier Beale, Albert Maysles",Documentary,7.2
+843,Red Riding Hood,2006,82,Randal Kleiser,"Lainie Kazan, Henry Cavill, Morgan Thompson","Adventure, Family, Musical",3.6
+844,Irish Jam,2006,94,John Eyres,"Dudley Sutton, Tom Georgeson, Anna Friel",Comedy,5.2
+845,Wrestlemaniac,2006,75,Jesse Baget,"Adam Huss, Jeremy Radin, Leyla Milani","Adventure, Crime, Drama",4.4
+846,Air Guitar Nation,2006,81,Alexandra Lipsitz,"Dan Crane, David S. Jung, Hadia Ackerman","Documentary, Biography, Music",7.1
+847,Baixio das Bestas,2006,80,Cláudio Assis,"Fernando Teixeira, Caio Blat, Matheus Nachtergaele","Drama, Horror",6.2
+848,Fascisti su Marte,2006,100,"Corrado Guzzanti, Igor Skofic","Corrado Guzzanti, Andrea Purgatori, Pasquale Petrolo","Comedy, Sci-Fi",6.8
+849,Quatre étoiles,2006,106,Christian Vincent,"José Garcia, Renée Le Calm, Isabelle Carré",Comedy,5.4
+850,Hacking Democracy,2006,82,"Simon Ardizzone, Russell Michaels","James Naughton, Bev Harris, Deanie Lowe",Documentary,7.8
+851,Chalk,2006,85,Mike Akel,"Troy Schremmer, Janelle Schremmer, Shannon Haragan","Comedy, Drama",6.1
+852,The Second Chance,2006,102,Steve Taylor,"Michael W. Smith, Jeff Obafemi Carr, J. Don Ferguson",Drama,6.4
+853,Cattle Call,2006,83,Martin Guigui,"Thomas Ian Nicholas, Jenny Mollen, Nicole Eggert",Comedy,3.7
+854,Euphoria,2006,74,Ivan Vyrypaev,"Polina Agureeva, Maksim Ushakov, Mikhail Okunev","Drama, Romance",6.5
+855,Shoppen Munich,2006,91,Ralf Westhoff,"Sebastian Weber, Anna Böger, Felix Hellmann","Comedy, Drama, Romance",7.2
+856,The Killer,2006,117,"Hasnain Hyderabadwala, Raksha Mistry","Irrfan Khan, Emraan Hashmi, Priyanka Kothari","Action, Crime, Drama",4.8
+857,Die Wilden Kerle 3,2006,120,Joachim Masannek,"Jimi Blue Ochsenknecht, Sarah Kim Gries, Constantin Gastmann","Comedy, Family, Sport",3.9
+858,A Ticket to Space,2006,90,Éric Lartigau,"Kad Merad, Olivier Baroux, Marina Foïs","Comedy, Sci-Fi",5.3
+859,Hot Tamale,2006,102,Michael Damian,"John Hayden, Richard Riehle, Harland Williams","Action, Comedy, Crime",5.5
+860,Råzone,2006,93,Christian E. Christiansen,"Laura Christensen, Stephanie Leon, Julie R. Ølgaard",Drama,6.3
+861,Hoboken Hollow,2006,98,Glen Stephens,"Jason Connery, C. Thomas Howell, Mark Holton",Horror,3.7
+862,The Magic Flute,2006,135,Kenneth Branagh,"Joseph Kaiser, Amy Carson, Ben Davis","Drama, Musical, Romance",6.5
+863,The War Tapes,2006,97,Deborah Scranton,"Zack Bazzi, Duncan Domey, Ben Flanders","Documentary, War",7.2
+864,Ten 'til Noon,2006,80,Scott Storm,"Alfonso Freeman, Rick D. Wasserman, Rayne Guest","Crime, Mystery, Thriller",5.5
+865,Amateur Porn Star Killer,2006,71,Shane Ryan-Reid,"Michiko Jimenez, Jan Gould, Shane Ryan-Reid","Crime, Horror",3.1
+866,Pournami,2006,160,Prabhu Deva,"Prabhas, Trisha Krishnan, Charmme Kaur","Action, Drama, Mystery",5.9
+867,Park,2006,86,Kurt Voelker,"Dagney Kerr, Tank, Vincent Riverside","Comedy, Drama",5.7
+868,The Hawk Is Dying,2006,112,Julian Goldberger,"Paul Giamatti, Michelle Williams, Michael Pitt",Drama,5.8
+869,Who the #$&% Is Jackson Pollock?,2006,74,Harry Moses,"Teri Horton, Tod M. Volpe, Ben Heller",Documentary,7.0
+870,Steel Toes,2006,87,"Mark Adam, David Gow","David Strathairn, Andrew W. Walker, Marina Orsini","Crime, Drama",6.1
+871,Poltergay,2006,93,Eric Lavaine,"Clovis Cornillac, Julie Depardieu, Lionel Abelanski","Comedy, Fantasy, Horror",5.5
+872,Cloud 9,2006,93,Harry Basil,"Burt Reynolds, D.L. Hughley, Paul Rodriguez","Comedy, Sport",4.2
+873,Easy Skanking,2006,107,Hella Joof,"Rudi Køhnke, Lene Maria Christensen, Jonatan Spang",Comedy,5.7
+874,Cargo,2006,90,Clive Gordon,"Peter Mullan, Daniel Brühl, Luis Tosar","Adventure, Drama, Thriller",5.0
+875,El camino de los ingleses,2006,118,Antonio Banderas,"Alberto Amarilla, María Ruiz, Félix Gómez","Drama, Romance",5.5
+876,A Few Kilos of Dates for a Funeral,2006,85,Saman Salur,"Mohsen Tanabandeh, Nader Fallah, Mohsen Namjoo","Comedy, Drama, Thriller",7.5
+877,Devil's Den,2006,84,Jeff Burr,"Kelly Hu, Devon Sawa, Ken Foree","Action, Comedy, Fantasy",4.6
+878,Katkoot,2006,124,Ahmed Awad,"Muhammad Sad, Hassan Hosny, Thurayya Ibrahim","Comedy, Family, Thriller",5.0
+879,FC Venus,2006,100,Ute Wieland,"Christian Ulmen, Nora Tschirner, Florian Lukas","Comedy, Romance, Sport",5.9
+880,Fuga,2006,110,Pablo Larraín,"Benjamín Vicuña, Gastón Pauls, Francisca Imboden","Drama, Music, Thriller",6.3
+881,My First Wedding,2006,94,Laurent Firode,"Rachael Leigh Cook, Kenny Doughty, Paul Hopkins","Comedy, Romance",4.6
+882,Anplagghed al cinema,2006,95,Rinaldo Gaspari,"Aldo Baglio, Giovanni Storti, Giacomo Poretti","Comedy, Fantasy",6.6
+883,Sway,2006,120,Miwa Nishikawa,"Joe Odagiri, Teruyuki Kagawa, Masatô Ibu","Crime, Drama",7.1
+884,Em Magan,2006,154,Thirumurugan,"Bharath Srinivasan, Gopika, Nassar","Drama, Romance",8.0
+885,Zyzzyx Rd,2006,90,John Penney,"Leo Grillo, Katherine Heigl, Tom Sizemore","Crime, Drama, Thriller",3.8
+886,Horrors of War,2006,99,"Peter John Ross, John Whitney","Jon Osbeck, Joe Lorenzo, Daniel Alan Kiely","Action, Horror, Sci-Fi",2.9
+887,Broken Sky,2006,140,Julián Hernández,"Miguel Ángel Hoppe, Fernando Arroyo, Alejandro Rojo","Drama, Romance",5.7
+888,A Thousand Kisses,2006,110,Willem van de Sande Bakhuyzen,"Tijn Docter, Carice van Houten, Catherine ten Bruggencate","Comedy, Drama, Romance",6.6
+889,I See You,2006,122,Vivek b Agrawal,"Arjun Rampal, Vipasha Agarwal, Chunky Pandey","Comedy, Drama, Fantasy",4.4
+890,Open Window,2006,97,Mia Goldman,"Robin Tunney, Joel Edgerton, Cybill Shepherd",Drama,6.1
+891,Pingpong,2006,89,Matthias Luthardt,"Sebastian Urzendowsky, Marion Mitterhammer, Clemens Berg",Drama,6.2
+892,Once in a Summer,2006,121,Geun-shik Jo,"Lee Byung-hun, Soo Ae, Oh Dal-su","Drama, Romance",7.2
+893,Congorama,2006,105,Philippe Falardeau,"Olivier Gourmet, Paul Ahmarani, Jean-Pierre Cassel","Comedy, Drama",7.1
+894,Cemetery Gates,2006,92,Roy Knyrim,"Reggie Bannister, Peter Stickles, Aime Wolf","Horror, Action, Sci-Fi",3.5
+895,TV: The Movie,2006,86,Sam Macaroni,"Steve-O, Preston Lacy, Jason 'Wee Man' Acuña",Comedy,3.2
+896,Pucked,2006,83,Arthur Hiller,"Jon Bon Jovi, Estella Warren, David Faustino","Comedy, Sport",4.0
+897,Rollin' with the Nines,2006,96,Julian Gilbey,"Vas Blackwood, Robbie Gee, Naomi Taylor","Crime, Action, Drama",5.4
+898,Tears for You,2006,118,Nobuhiro Doi,"Satoshi Tsumabuki, Masami Nagasawa, Kumiko Asô","Drama, Romance",6.7
+899,Goldene Zeiten,2006,134,Peter Thorwarth,"Wotan Wilke Möhring, Dirk Benedict, Wolf Roth","Comedy, Crime, Drama",6.3
+900,Yo-Yo Girl Cop,2006,98,Kenta Fukasaku,"Aya Matsuura, Rika Ishikawa, Erika Miyoshi",Action,4.9
+901,Mushi-Shi: The Movie,2006,131,Katsuhiro Ôtomo,"Joe Odagiri, Nao Ômori, Yû Aoi","Drama, Fantasy",6.0
+902,Nana 2,2006,130,Kentarô Ohtani,"Mika Nakashima, Yui Ichikawa, Tetsuji Tamayama","Drama, Music, Romance",6.0
+903,In a Day,2006,81,Evan Richards,"Lorraine Pilkington, Finlay Robertson, Rose Keegan","Comedy, Drama, Romance",6.8
+904,French for Beginners,2006,98,Christian Ditter,"François Goeske, Paula Schramm, Lennard Bertzbach","Comedy, Romance",6.1
+905,Kiss Me Again,2006,103,William Tyler Smith,"Jeremy London, Katheryn Winnick, Mirelly Taylor","Romance, Drama",4.9
+906,Distortion,2006,83,Kirk Fogg,"Kirk Fogg, Sara Lahti, Corbin Timbrook","Crime, Drama, Mystery",3.6
+907,Gangster High,2006,100,Ki-hyeong Park,"Jung Kyung-ho, Lee Tae-sung, Go Gyu-pil","Action, Crime",6.6
+908,Pirates of Treasure Island,2006,85,Leigh Scott,"Lance Henriksen, Tom Nagel, Rebekah Kochan","Action, Adventure",2.3
+909,Small Town Gay Bar,2006,76,Malcolm Ingram,"Jim Bishop, Terry Capps, Bill Curtis",Documentary,7.1
+910,Just Like the Son,2006,86,Morgan J. Freeman,"Mark Webber, Antonio Ortiz, Brendan Sexton III",Drama,6.7
+911,In Her Line of Fire,2006,88,Brian Trenchard-Smith,"Mariel Hemingway, David Keith, David Millbern","Action, Drama",3.7
+912,The Last House in the Woods,2006,85,Gabriele Albanesi,"Daniela Virgilio, Geno Diana, Santa De Santis","Horror, Thriller",4.6
+913,The Slaughter,2006,96,Jay Lee,"Cheyenne Ault, Billy Beck, Eva Derrek","Comedy, Horror",3.7
+914,Angels of the Sun,2006,92,Rudi Lagemann,"Antonio Calloni, Otávio Augusto, Darlene Glória",Drama,7.1
+915,"Buy the Ticket, Take the Ride: Hunter S. Thompson on Film",2006,73,Tom Thurman,"Ed Bradley, Bob Braudis, Douglas Brinkley","Documentary, Biography",7.1
+916,Asthram,2006,140,Suresh Krishna,"Vishnu Manchu, Jackie Shroff, Anushka Shetty","Action, Crime, Thriller",4.6
+917,Sasquatch Mountain,2006,90,Steven R. Monroe,"Lance Henriksen, Cerina Vincent, Michael Worth","Action, Adventure, Horror",3.8
+918,The Treatment,2006,86,Oren Rudavsky,"Chris Eigeman, Ian Holm, Famke Janssen","Comedy, Drama, Romance",5.8
+919,Belle toujours,2006,68,Manoel de Oliveira,"Michel Piccoli, Bulle Ogier, Ricardo Trêpa","Drama, Music",6.3
+920,Apt,2006,90,"Byeong-ki Ahn, Ahn Byung-Ki","Ko So-young, Kang Seong-jin, Jang Hie-jin","Horror, Thriller",5.6
+921,Beyond the Wall of Sleep,2006,84,"Barrett J. Leigh, Thom Maurer","George Peroulas, Fountain Yount, Gregory Fawcett",Horror,2.9
+922,Keerthi Chakra,2006,130,Major Ravi,"Mohanlal, Jiiva, Lakshmi Gopalaswamy","Action, Drama, War",7.2
+923,True North,2006,96,Steve Hudson,"Peter Mullan, Martin Compston, Gary Lewis","Drama, Thriller",6.8
+924,L'homme de sa vie,2006,114,Zabou Breitman,"Bernard Campan, Charles Berling, Léa Drucker","Drama, Romance",6.6
+925,Gettin' It,2006,93,Nick Gaitatjis,"Patrick Censoplano, Cheryl Dent, Sajen Corona",Comedy,3.3
+926,The One Percent,2006,76,Jamie Johnson,"Nicole Buffet, Chuck Collins, Steve Forbes",Documentary,6.8
+927,Triple Dare,2006,92,Christina Rosendahl,"Emma Leth, Cathrine Bjørn, Amalie Lindegård",Drama,5.6
+928,Late Bloomers,2006,90,Bettina Oberli,"Stephanie Glaser, Annemarie Düringer, Heidi Maria Glössner","Comedy, Drama",7.0
+929,Shadow: Dead Riot,2006,81,Derek Wan,"Tony Todd, Carla Greene, Nina Hodoruk","Action, Horror",4.0
+930,Filme da Treta,2006,91,José Sacramento,"José Pedro Gomes, António Feio, Maria Rueff",Comedy,6.1
+931,Believe in Me,2006,131,Robert Collector,"Jeffrey Donovan, Samantha Mathis, Doris Hargrave","Drama, Sport",7.0
+932,S&man,2006,84,J.T. Petty,"Elizabeth Cartier, Carol J. Clover, Debbie D",Horror,5.6
+933,Canvas,2006,101,Joseph Greco,"Griffin Miner, Marcia Gay Harden, Devon Gearhart",Drama,6.5
+934,Sandwich,2006,152,Anees Bazmee,"Govinda, Raveena Tandon, Mahima Chaudhry","Comedy, Thriller",5.6
+935,Shock to the System,2006,91,Ron Oliver,"Chad Allen, Sebastian Spence, Michael Woods","Crime, Drama, Mystery",6.6
+936,Game,2006,130,G. Ram Prasad,"Giri Babu, Mohan Babu, Raghu Babu",Thriller,4.4
+937,Milarepa,2006,90,Neten Chokling,"Orgyen Tobgyal, Kelsang Chukie Tethtong, Jamyang Lodro","Action, Adventure, Biography",7.0
+938,Stupid Teenagers Must Die!,2006,80,Jeff C. Smith,"Jovan Meredith, Ashley Schneider, Devin Marble","Comedy, Horror",3.0
+939,In ascolto,2006,105,Giacomo Martelli,"Michael Parks, Maya Sansa, Andrea Tidona","Crime, Drama, Thriller",6.2
+940,Yellow,2006,90,Alfredo Rodriguez de Villa,"Roselyn Sanchez, Bill Duke, D.B. Sweeney","Drama, Music, Romance",5.2
+941,Cyanide,2006,115,A.M.R. Ramesh,"Avinash, Malavika Avinash, Usha Bhandary","Crime, Drama, Thriller",7.8
+942,Knyaz Vladimir. Film pervyy,2006,78,"Yuri Kulakov, Yuriy Batanin","Sergey Bezrukov, Aleksandr Barinov, Lev Durov","Animation, Action, Drama",6.7
+943,Zuzu Angel,2006,108,Sergio Rezende,"Patricia Pillar, Daniel de Oliveira, Leandra Leal","Biography, Drama, History",6.9
+944,Full Metal Village,2006,91,Sung Hyung Cho,"Uwe Trede, Lore Trede, Klaus H. Plähn","Documentary, Music",7.1
+945,Tirupathi,2006,158,Perarasu,"Ajith Kumar, Sada, Riyaz Khan","Action, Drama",3.2
+946,Darkon,2006,93,"Luke Meyer, Andrew Neel","Skip Lipman, Kenyon Wells, Daniel McArthur","Documentary, Fantasy",6.7
+947,The Trials of Darryl Hunt,2006,106,"Ricki Stern, Anne Sundberg","Evelyn Jefferson, Fred Flagler, John Reeves","Documentary, Crime",7.5
+948,Wholetrain,2006,82,Florian Gaag,"Mike Adler, Florian Renner, Elyas M'Barek",Drama,6.9
+949,Úcastníci zájezdu,2006,113,Jirí Vejdelek,"Anna Polívková, Eva Holubová, Bohumil Klepl",Comedy,6.2
+950,"Man, Woman and the Wall",2006,84,Masashi Yamamoto,"Sora Aoi, Hiroto Katô, Shô Nishino","Drama, Romance, Thriller",6.2
+951,Opal Dream,2006,86,Peter Cattaneo,"Sapphire Blossom, Christian Byers, Vince Colosimo","Drama, Family",6.5
+952,The Da Vinci Treasure,2006,91,Peter Mervis,"C. Thomas Howell, Lance Henriksen, Nicole Sherwin","Action, Adventure, Mystery",2.2
+953,Hot for Teacher,2006,109,Yoo-sung Kim,"Kim Sa-rang, Park Jun-gyu, Hyeok-jae Lee",Comedy,5.8
+954,UKM: The Ultimate Killing Machine,2006,85,David Mitchell,"Michael Madsen, Mac Fyfe, Stephen Arbuckle","Horror, Sci-Fi",3.1
+955,Mere Jeevan Saathi,2006,129,Suneel Darshan,"Akshay Kumar, Karisma Kapoor, Ameesha Patel","Drama, Music, Romance",3.4
+956,Tempelriddernes skat,2006,85,Kasper Barfoed,"Julie Grundtvig Wester, Christian Heldbo Wienberg, Nicklas Svale Andersen","Adventure, Family",5.7
+957,Dracula's Curse,2006,107,Leigh Scott,"Thomas Downey, Eliza Swenson, Rhett Giles","Action, Horror",2.8
+958,"Tibor vagyok, de hódítani akarok",2006,88,Gergely Fonyó,"Péter Fancsikai, Bálint Egri, Bernadett Gregor",Comedy,5.2
+959,Say That You Love Me,2006,87,Daniel Fridell,"Haddy Jallow, Diza Dahlström Franzén, Celestine Davidsson",Drama,4.8
+960,The Other Half,2006,94,"Richard Nockles, Marlowe Fawcett","Danny Dyer, Gillian Kearney, Jonathan Broke","Comedy, Romance",4.8
+961,The Maidens' Conspiracy,2006,122,Vicente Aranda,"Caspar Zafer, Esther Nubiola, Leonor Watling","Adventure, Romance",4.1
+962,Dry Season,2006,96,Mahamat-Saleh Haroun,"Ali Barkai, Youssouf Djaoro, Aziza Hisseine",Drama,6.9
+963,The Stone Merchant,2006,119,Renzo Martinelli,"Harvey Keitel, Jane March, Jordi Mollà","Drama, Thriller",4.2
+964,Dasepo Naughty Girls,2006,103,Je-yong Lee,"Kim Ok-bin, Park Jin-woo, Kyeon Lee","Comedy, Fantasy, Musical",5.9
+965,The Darkroom,2006,83,Michael Hurst,"Shawn Pyfrom, Reed Diamond, Greg Grunberg","Horror, Mystery, Thriller",5.5
+966,Beauty in Trouble,2006,110,Jan Hrebejk,"Anna Geislerová, Josef Abrhám, Jana Brejchová","Comedy, Drama",6.7
+967,Aap Ki Khatir,2006,122,Dharmesh Darshan,"Akshaye Khanna, Priyanka Chopra Jonas, Ameesha Patel","Comedy, Romance",3.9
+968,Annavaram,2006,175,"Srinivasa Rao Bhimaneni, Gridhar, Sippy","Pawan Kalyan, Asin, Sandhya","Action, Drama",4.9
+969,Pyare Mohan,2006,130,"Ravinddra Khare, Indra Kumar","Fardeen Khan, Vivek Oberoi, Esha Deol","Action, Comedy, Drama",3.5
+970,The Thirst,2006,88,Jeremy Kasten,"Matt Keeslar, Clare Kramer, Jeremy Sisto",Horror,3.9
+971,Eye of the Dolphin,2006,102,Michael D. Sellers,"Carly Schroeder, Adrian Dunbar, George Harris","Comedy, Drama, Family",5.6
+972,Seasons change: Phror arkad plian plang boi,2006,118,Nithiwat Tharatorn,"Yuwanat Arayanimisakul, Panisara Arayaskul, Witawat Singlampong","Comedy, Drama, Music",7.6
+973,Schwarze Schafe,2006,94,Oliver Rihs,"Jule Böwe, Milan Peschel, Jenny Deimling",Comedy,6.5
+974,Long-Term Relationship,2006,97,Rob Williams,"Matthew Montgomery, Windham Beacham, Artie O'Daly","Comedy, Drama, Romance",6.0
+975,Satan's Playground,2006,81,Dante Tomaselli,"Felissa Rose, Salvatore Paul Piro, Danny Lopes",Horror,3.5
+976,Joy Division,2006,105,Reg Traviss,"Ed Stoppard, Tom Schilling, Bernadette Heerwagen","Drama, War",6.0
+977,Container,2006,72,Lukas Moodysson,"Jena Malone, Peter Lorentzon, Mariha Åberg",Drama,4.8
+978,Gekijô-ban Dôbutsu no Mori,2006,87,Jôji Shimura,"Yui Horie, Misato Fukuen, Fumiko Orikasa","Animation, Comedy, Drama",6.6
+979,Dood eind,2006,90,Erwin van den Eshof,"Everon Jackson Hooi, Anniek Pheifer, Alwien Tulner","Horror, Thriller",4.6
+980,O Jerusalem,2006,100,Élie Chouraqui,"JJ Feild, Saïd Taghmaoui, Maria Papas","Drama, History",6.0
+981,The Front Line,2006,93,David Gleeson,"Eriq Ebouaney, Gerard McSorley, James Frain","Action, Crime, Drama",6.5
+982,Awesome; I Shot That!,2006,90,Adam Yauch,"Mike D, Adam Horovitz, Adam Yauch","Documentary, Music",7.5
+983,Scream of the Ants,2006,85,Mohsen Makhmalbaf,"Mamhoud Chokrollahi, Mahnour Shadzi, Karl Maass","Adventure, Drama",6.0
+984,The Unseeable,2006,94,Wisit Sasanatieng,"Suporntip Chuangrangsri, Tassawan Seneewongse, Siraphan Wattanajinda","Horror, Mystery, Romance",6.8
+985,A Ton of Luck,2006,100,Rodrigo Triana,"Diego Cadavid, Juan Sebastián Aragón, Manuel José Chaves","Comedy, Drama",6.4
+986,Fraulein,2006,81,Andrea Staka,"Mirjana Karanovic, Marija Skaricic, Ljubica Jovic",Drama,6.7
+987,El custodio,2006,102,Rodrigo Moreno,"Julio Chávez, Osmar Núñez, Marcelo D'Andrea",Drama,6.5
+988,Siren,2006,87,Yukihiko Tsutsumi,"Yui Ichikawa, Leo Morimoto, Naoki Tanaka","Horror, Thriller",5.4
+989,Brothers: The Return,2006,96,Erik Leijonborg,"Ola Rapace, Lembit Ulfsak, Liina Olmaru","Crime, Drama, Thriller",6.6
+990,Love.Com: The Movie,2006,99,Kitaji Ishikawa,"Ema Fujisawa, Teppei Koike, Shôsuke Tanihara","Comedy, Romance",6.2
+991,The Sex Movie,2006,84,Colton Lawrence,"Michelle Mosley, Matthew Tyler, Mike Fallon",Drama,4.7
+992,The Postmodern Life of My Aunt,2006,111,Ann Hui,"Siqin Gaowa, Chow Yun-Fat, Wei Zhao","Comedy, Drama, Romance",6.8
+993,Honey & Clover,2006,117,Masahiro Takada,"Shô Sakurai, Yû Aoi, Yûsuke Iseya","Drama, Romance",6.4
+994,Förortsungar,2006,96,"Catti Edfeldt, Ylva Gustavsson","Beylula Kidane Adgoy, Gustaf Skarsgård, Embla Hjulström","Comedy, Drama, Family",4.9
+995,Du jour au lendemain,2006,93,Philippe Le Guay,"Benoît Poelvoorde, Bernard Bloch, Anne Consigny",Comedy,5.4
+996,Bangaram,2006,178,Dharani,"Pawan Kalyan, Meera Chopra, Reema Sen","Action, Drama",4.6
+997,666: The Child,2006,80,Jack Perez,"Adam Vincent, Booboo Stewart, Sarah Lieving",Horror,2.9
+998,Satanic,2006,88,Dan Golden,"Annie Sorell, Jeffrey Combs, Angus Scrimm",Horror,3.0
+999,Saving Shiloh,2006,90,Sandy Tung,"Scott Wilson, Gerald McRaney, Jason Dolley","Crime, Drama, Family",6.2
+1000,Khadak,2006,104,"Peter Brosens, Jessica Woodworth","Batzul Khayankhyarvaa, Tsetsegee Byamba, Banzar Damchaa","Drama, Romance",6.9

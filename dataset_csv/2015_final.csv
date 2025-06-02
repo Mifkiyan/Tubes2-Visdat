@@ -1,4 +1,4 @@
-ID,Name,Year,Duration,Directors,Actors,Genres,Rating
+﻿ID,Name,Year,Duration,Directors,Actors,Genres,Rating
 1,Mad Max: Fury Road,2015,120,George Miller,"Tom Hardy, Charlize Theron, Nicholas Hoult","Action, Adventure, Sci-Fi",8.1
 2,Star Wars: Episode VII - The Force Awakens,2015,138,J.J. Abrams,"Daisy Ridley, John Boyega, Oscar Isaac","Action, Adventure, Sci-Fi",7.8
 3,The Martian,2015,144,Ridley Scott,"Matt Damon, Jessica Chastain, Kristen Wiig","Adventure, Drama, Sci-Fi",8.0

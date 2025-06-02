@@ -1,0 +1,1001 @@
+﻿ID,Name,Year,Duration,Directors,Actors,Genres,Rating
+1,The Dark Knight,2008,152.0,Christopher Nolan,"Christian Bale, Heath Ledger, Aaron Eckhart","Action, Crime, Drama",9.0
+2,WALL·E,2008,98.0,Andrew Stanton,"Ben Burtt, Elissa Knight, Jeff Garlin","Animation, Adventure, Family",8.4
+3,Iron Man,2008,126.0,Jon Favreau,"Robert Downey Jr., Gwyneth Paltrow, Terrence Howard","Action, Adventure, Sci-Fi",7.9
+4,Slumdog Millionaire,2008,120.0,"Danny Boyle, Loveleen Tandan","Dev Patel, Freida Pinto, Saurabh Shukla","Crime, Drama, Romance",8.0
+5,Gran Torino,2008,116.0,Clint Eastwood,"Clint Eastwood, Bee Vang, Christopher Carley",Drama,8.1
+6,The Curious Case of Benjamin Button,2008,166.0,David Fincher,"Brad Pitt, Cate Blanchett, Tilda Swinton","Drama, Fantasy, Romance",7.8
+7,Taken,2008,90.0,Pierre Morel,"Liam Neeson, Maggie Grace, Famke Janssen","Action, Crime, Thriller",7.7
+8,Kung Fu Panda,2008,92.0,"Mark Osborne, John Stevenson","Jack Black, Ian McShane, Angelina Jolie","Animation, Action, Adventure",7.6
+9,The Incredible Hulk,2008,112.0,Louis Leterrier,"Edward Norton, Liv Tyler, Tim Roth","Action, Adventure, Sci-Fi",6.6
+10,Hancock,2008,92.0,Peter Berg,"Will Smith, Charlize Theron, Jason Bateman","Action, Comedy, Drama",6.4
+11,Twilight,2008,122.0,Catherine Hardwicke,"Kristen Stewart, Robert Pattinson, Billy Burke","Drama, Fantasy, Romance",5.3
+12,Indiana Jones and the Kingdom of the Crystal Skull,2008,122.0,Steven Spielberg,"Harrison Ford, Cate Blanchett, Shia LaBeouf","Action, Adventure",6.2
+13,The Hurt Locker,2008,131.0,Kathryn Bigelow,"Jeremy Renner, Anthony Mackie, Brian Geraghty","Drama, Thriller, War",7.5
+14,Quantum of Solace,2008,106.0,Marc Forster,"Daniel Craig, Olga Kurylenko, Mathieu Amalric","Action, Adventure, Mystery",6.5
+15,In Bruges,2008,107.0,Martin McDonagh,"Colin Farrell, Brendan Gleeson, Ciarán Hinds","Comedy, Crime, Drama",7.9
+16,Tropic Thunder,2008,107.0,Ben Stiller,"Ben Stiller, Jack Black, Robert Downey Jr.","Action, Comedy, War",7.1
+17,Cloverfield,2008,85.0,Matt Reeves,"Mike Vogel, Jessica Lucas, Lizzy Caplan","Action, Horror, Sci-Fi",7.0
+18,Wanted,2008,110.0,Timur Bekmambetov,"Angelina Jolie, James McAvoy, Morgan Freeman","Action, Crime, Thriller",6.7
+19,Yes Man,2008,104.0,Peyton Reed,"Jim Carrey, Zooey Deschanel, Bradley Cooper","Comedy, Romance",6.8
+20,Pineapple Express,2008,111.0,David Gordon Green,"Seth Rogen, James Franco, Gary Cole","Action, Comedy, Crime",6.9
+21,Burn After Reading,2008,96.0,"Ethan Coen, Joel Coen","Brad Pitt, Frances McDormand, George Clooney","Comedy, Crime, Drama",7.0
+22,Jumper,2008,88.0,Doug Liman,"Hayden Christensen, Samuel L. Jackson, Jamie Bell","Action, Adventure, Sci-Fi",6.1
+23,Step Brothers,2008,98.0,Adam McKay,"Will Ferrell, John C. Reilly, Mary Steenburgen",Comedy,6.9
+24,The Wrestler,2008,109.0,Darren Aronofsky,"Mickey Rourke, Marisa Tomei, Evan Rachel Wood","Drama, Sport",7.9
+25,Seven Pounds,2008,123.0,Gabriele Muccino,"Will Smith, Rosario Dawson, Woody Harrelson","Drama, Mystery, Thriller",7.6
+26,Forgetting Sarah Marshall,2008,111.0,Nicholas Stoller,"Kristen Bell, Jason Segel, Paul Rudd","Comedy, Drama, Romance",7.1
+27,Hellboy II: The Golden Army,2008,120.0,Guillermo del Toro,"Ron Perlman, Selma Blair, Doug Jones","Action, Adventure, Fantasy",7.0
+28,Mamma Mia!,2008,108.0,Phyllida Lloyd,"Meryl Streep, Pierce Brosnan, Amanda Seyfried","Comedy, Musical, Romance",6.5
+29,Vicky Cristina Barcelona,2008,96.0,Woody Allen,"Rebecca Hall, Scarlett Johansson, Javier Bardem","Comedy, Drama, Romance",7.1
+30,21,2008,123.0,Robert Luketic,"Jim Sturgess, Kate Bosworth, Kevin Spacey","Crime, Drama, Thriller",6.8
+31,Changeling,2008,141.0,Clint Eastwood,"Angelina Jolie, Colm Feore, Amy Ryan","Biography, Crime, Drama",7.7
+32,RocknRolla,2008,114.0,Guy Ritchie,"Gerard Butler, Tom Wilkinson, Idris Elba","Action, Crime, Thriller",7.2
+33,The Reader,2008,124.0,Stephen Daldry,"Kate Winslet, Ralph Fiennes, Bruno Ganz","Drama, Mystery, Romance",7.6
+34,Valkyrie,2008,121.0,Bryan Singer,"Tom Cruise, Bill Nighy, Carice van Houten","Drama, History, Thriller",7.1
+35,The Boy in the Striped Pajamas,2008,94.0,Mark Herman,"Asa Butterfield, David Thewlis, Rupert Friend","Drama, War",7.7
+36,Madagascar: Escape 2 Africa,2008,89.0,"Eric Darnell, Tom McGrath","Ben Stiller, Chris Rock, David Schwimmer","Animation, Adventure, Comedy",6.6
+37,Rambo,2008,92.0,Sylvester Stallone,"Sylvester Stallone, Julie Benz, Matthew Marsden","Action, Thriller",7.0
+38,Role Models,2008,99.0,David Wain,"Paul Rudd, Seann William Scott, Elizabeth Banks",Comedy,6.8
+39,Body of Lies,2008,128.0,Ridley Scott,"Leonardo DiCaprio, Russell Crowe, Mark Strong","Action, Drama, Thriller",7.0
+40,Bolt,2008,96.0,"Byron Howard, Chris Williams","John Travolta, Miley Cyrus, Susie Essman","Animation, Adventure, Comedy",6.8
+41,Ip Man,2008,106.0,Wilson Yip,"Donnie Yen, Simon Yam, Louis Fan","Action, Biography, Drama",8.0
+42,Let the Right One In,2008,114.0,Tomas Alfredson,"Kåre Hedebrant, Lina Leandersson, Per Ragnar","Drama, Fantasy, Horror",7.8
+43,Get Smart,2008,110.0,Peter Segal,"Steve Carell, Anne Hathaway, Alan Arkin","Action, Adventure, Comedy",6.5
+44,The Chronicles of Narnia: Prince Caspian,2008,150.0,Andrew Adamson,"Ben Barnes, Skandar Keynes, Georgie Henley","Action, Adventure, Family",6.5
+45,Revolutionary Road,2008,119.0,Sam Mendes,"Leonardo DiCaprio, Kate Winslet, Christopher Fitzgerald","Drama, Romance",7.3
+46,Death Race,2008,105.0,Paul W.S. Anderson,"Jason Statham, Joan Allen, Tyrese Gibson","Action, Sci-Fi, Thriller",6.4
+47,The Happening,2008,91.0,M. Night Shyamalan,"Mark Wahlberg, Zooey Deschanel, John Leguizamo","Adventure, Drama, Sci-Fi",5.0
+48,You Don't Mess with the Zohan,2008,113.0,Dennis Dugan,"Adam Sandler, John Turturro, Emmanuelle Chriqui","Action, Comedy",5.6
+49,Eagle Eye,2008,118.0,D.J. Caruso,"Shia LaBeouf, Michelle Monaghan, Rosario Dawson","Action, Mystery, Thriller",6.6
+50,The Bank Job,2008,111.0,Roger Donaldson,"Jason Statham, Saffron Burrows, Stephen Campbell Moore","Crime, Thriller",7.2
+51,What Happens in Vegas,2008,99.0,Tom Vaughan,"Cameron Diaz, Ashton Kutcher, Rob Corddry","Comedy, Romance",6.1
+52,Zack and Miri Make a Porno,2008,101.0,Kevin Smith,"Seth Rogen, Elizabeth Banks, Craig Robinson","Comedy, Romance",6.5
+53,The Day the Earth Stood Still,2008,104.0,Scott Derrickson,"Keanu Reeves, Jennifer Connelly, Kathy Bates","Adventure, Drama, Sci-Fi",5.5
+54,Milk,2008,128.0,Gus Van Sant,"Sean Penn, Josh Brolin, Emile Hirsch","Biography, Drama, History",7.5
+55,Transporter 3,2008,104.0,Olivier Megaton,"Jason Statham, Robert Knepper, Natalya Rudakova","Action, Thriller",6.1
+56,27 Dresses,2008,111.0,Anne Fletcher,"Katherine Heigl, James Marsden, Malin Akerman","Comedy, Romance",6.1
+57,"Definitely, Maybe",2008,112.0,Adam Brooks,"Ryan Reynolds, Rachel Weisz, Abigail Breslin","Comedy, Drama, Romance",7.1
+58,The Mummy: Tomb of the Dragon Emperor,2008,112.0,Rob Cohen,"Brendan Fraser, Jet Li, Maria Bello","Action, Adventure, Fantasy",5.2
+59,Ponyo,2008,101.0,Hayao Miyazaki,"Cate Blanchett, Matt Damon, Liam Neeson","Animation, Adventure, Comedy",7.6
+60,Marley & Me,2008,115.0,David Frankel,"Owen Wilson, Jennifer Aniston, Eric Dane","Drama, Family",7.0
+61,Defiance,2008,137.0,Edward Zwick,"Daniel Craig, Liev Schreiber, Jamie Bell","Action, Drama, History",7.1
+62,Vantage Point,2008,90.0,Pete Travis,"Dennis Quaid, Forest Whitaker, Matthew Fox","Action, Drama, Thriller",6.6
+63,Horton Hears a Who!,2008,86.0,"Jimmy Hayward, Steve Martino","Jim Carrey, Steve Carell, Carol Burnett","Animation, Adventure, Comedy",6.8
+64,The Strangers,2008,86.0,Bryan Bertino,"Scott Speedman, Liv Tyler, Gemma Ward","Horror, Mystery, Thriller",6.1
+65,Bronson,2008,92.0,Nicolas Winding Refn,"Tom Hardy, Kelly Adams, Luing Andrews","Action, Crime, Drama",7.0
+66,Harold & Kumar Escape from Guantanamo Bay,2008,114.0,"Jon Hurwitz, Hayden Schlossberg","John Cho, Kal Penn, Neil Patrick Harris","Adventure, Comedy",6.5
+67,Saw V,2008,92.0,David Hackl,"Scott Patterson, Costas Mandylor, Tobin Bell","Horror, Thriller",5.8
+68,Doubt,2008,104.0,John Patrick Shanley,"Meryl Streep, Philip Seymour Hoffman, Amy Adams","Drama, Mystery",7.5
+69,"10,000 BC",2008,109.0,Roland Emmerich,"Camilla Belle, Steven Strait, Marco Khan","Action, Adventure, Drama",5.1
+70,Journey to the Center of the Earth,2008,93.0,Eric Brevig,"Brendan Fraser, Josh Hutcherson, Aníta Briem","Action, Adventure, Family",5.8
+71,Max Payne,2008,100.0,John Moore,"Mark Wahlberg, Mila Kunis, Beau Bridges","Action, Crime, Drama",5.3
+72,Australia,2008,165.0,Baz Luhrmann,"Nicole Kidman, Hugh Jackman, Shea Adams","Adventure, Drama, Romance",6.6
+73,Sex and the City,2008,145.0,Michael Patrick King,"Sarah Jessica Parker, Kim Cattrall, Cynthia Nixon","Comedy, Drama, Romance",5.7
+74,Street Kings,2008,109.0,David Ayer,"Keanu Reeves, Forest Whitaker, Hugh Laurie","Action, Crime, Thriller",6.8
+75,The Other Boleyn Girl,2008,115.0,Justin Chadwick,"Natalie Portman, Scarlett Johansson, Eric Bana","Biography, Drama, History",6.7
+76,The Wave,2008,107.0,Dennis Gansel,"Jürgen Vogel, Frederick Lau, Max Riemelt","Drama, Thriller",7.6
+77,Mirrors,2008,110.0,Alexandre Aja,"Kiefer Sutherland, Paula Patton, Amy Smart","Horror, Mystery",6.1
+78,Frost/Nixon,2008,122.0,Ron Howard,"Frank Langella, Michael Sheen, Kevin Bacon","Biography, Drama, History",7.6
+79,Martyrs,2008,99.0,Pascal Laugier,"Morjana Alaoui, Mylène Jampanoï, Catherine Bégin",Horror,7.0
+80,Meet the Spartans,2008,87.0,"Jason Friedberg, Aaron Seltzer","Sean Maguire, Kevin Sorbo, Carmen Electra","Comedy, Fantasy",2.8
+81,The Forbidden Kingdom,2008,104.0,Rob Minkoff,"Jackie Chan, Jet Li, Michael Angarano","Action, Adventure, Fantasy",6.5
+82,Never Back Down,2008,113.0,Jeff Wadlow,"Sean Faris, Djimon Hounsou, Amber Heard","Action, Drama, Sport",6.5
+83,The Spiderwick Chronicles,2008,96.0,Mark Waters,"Freddie Highmore, Sarah Bolger, David Strathairn","Action, Adventure, Drama",6.5
+84,Bedtime Stories,2008,99.0,Adam Shankman,"Adam Sandler, Keri Russell, Courteney Cox","Adventure, Comedy, Family",6.0
+85,Eden Lake,2008,91.0,James Watkins,"Kelly Reilly, Michael Fassbender, Tara Ellis","Horror, Thriller",6.7
+86,"Synecdoche, New York",2008,124.0,Charlie Kaufman,"Philip Seymour Hoffman, Samantha Morton, Michelle Williams",Drama,7.5
+87,Babylon A.D.,2008,90.0,Mathieu Kassovitz,"Vin Diesel, Michelle Yeoh, Mélanie Thierry","Action, Adventure, Sci-Fi",5.5
+88,Disaster Movie,2008,87.0,"Jason Friedberg, Aaron Seltzer","Carmen Electra, Vanessa Lachey, Nicole Parker","Comedy, Sci-Fi",1.9
+89,Nick and Norah's Infinite Playlist,2008,90.0,Peter Sollett,"Michael Cera, Kat Dennings, Aaron Yoo","Comedy, Drama, Music",6.6
+90,Be Kind Rewind,2008,102.0,Michel Gondry,"Jack Black, Yasiin Bey, Danny Glover",Comedy,6.4
+91,The X Files: I Want to Believe,2008,104.0,Chris Carter,"David Duchovny, Gillian Anderson, Billy Connolly","Crime, Drama, Horror",5.9
+92,Sex Drive,2008,109.0,Sean Anders,"Josh Zuckerman, Clark Duke, Amanda Crew","Comedy, Romance",6.5
+93,Righteous Kill,2008,101.0,Jon Avnet,"Robert De Niro, Al Pacino, Carla Gugino","Crime, Mystery, Thriller",6.0
+94,The House Bunny,2008,97.0,Fred Wolf,"Anna Faris, Colin Hanks, Emma Stone",Comedy,5.6
+95,Step Up 2: The Streets,2008,98.0,Jon M. Chu,"Robert Hoffman, Briana Evigan, Cassie Ventura","Drama, Music, Romance",6.2
+96,The Duchess,2008,110.0,Saul Dibb,"Keira Knightley, Ralph Fiennes, Dominic Cooper","Biography, Drama, History",6.9
+97,Semi-Pro,2008,91.0,Kent Alterman,"Will Ferrell, Woody Harrelson, André 3000","Comedy, Sport",5.8
+98,The Ruins,2008,90.0,Carter Smith,"Shawn Ashmore, Jena Malone, Jonathan Tucker","Adventure, Horror, Thriller",5.9
+99,Fool's Gold,2008,112.0,Andy Tennant,"Matthew McConaughey, Kate Hudson, Donald Sutherland","Action, Adventure, Comedy",5.7
+100,Felon,2008,104.0,Ric Roman Waugh,"Stephen Dorff, Marisol Nichols, Vincent Miller","Action, Drama, Thriller",7.4
+101,Four Christmases,2008,88.0,Seth Gordon,"Reese Witherspoon, Vince Vaughn, Mary Steenburgen","Comedy, Drama, Romance",5.7
+102,A Wednesday,2008,104.0,"Neeraj Pandey, Ritesh Kumar","Anupam Kher, Naseeruddin Shah, Virendra Saxena","Action, Crime, Drama",8.1
+103,Inkheart,2008,106.0,Iain Softley,"Brendan Fraser, Andy Serkis, Eliza Bennett","Adventure, Family, Fantasy",6.1
+104,Doomsday,2008,105.0,Neil Marshall,"Rhona Mitra, Bob Hoskins, Alexander Siddig","Action, Sci-Fi, Thriller",5.9
+105,Speed Racer,2008,135.0,"Lana Wachowski, Lilly Wachowski","Emile Hirsch, Matthew Fox, Christina Ricci","Action, Adventure, Comedy",6.1
+106,Quarantine,2008,89.0,John Erick Dowdle,"Jennifer Carpenter, Steve Harris, Columbus Short","Horror, Sci-Fi, Thriller",6.0
+107,Outlander,2008,115.0,Howard McCain,"Jim Caviezel, Sophia Myles, Ron Perlman","Action, Adventure, Sci-Fi",6.2
+108,Superhero Movie,2008,75.0,Craig Mazin,"Drake Bell, Leslie Nielsen, Sara Paxton","Action, Comedy, Sci-Fi",4.7
+109,Ghost Town,2008,102.0,David Koepp,"Ricky Gervais, Greg Kinnear, Téa Leoni","Comedy, Drama, Fantasy",6.7
+110,Made of Honor,2008,101.0,Paul Weiland,"Patrick Dempsey, Michelle Monaghan, Kevin McKidd","Comedy, Romance",5.8
+111,Star Wars: The Clone Wars,2008,98.0,Dave Filoni,"Matt Lanter, Nika Futterman, Tom Kane","Animation, Action, Adventure",5.9
+112,The Chaser,2008,125.0,Na Hong-jin,"Kim Yoon-seok, Ha Jung-woo, Seo Young-hee","Action, Crime, Drama",7.8
+113,Blindness,2008,121.0,Fernando Meirelles,"Julianne Moore, Mark Ruffalo, Gael García Bernal","Drama, Mystery, Thriller",6.5
+114,Sunshine Cleaning,2008,91.0,Christine Jeffs,"Amy Adams, Emily Blunt, Alan Arkin","Comedy, Drama",6.8
+115,Hunger,2008,96.0,Steve McQueen,"Michael Fassbender, Liam Cunningham, Stuart Graham","Biography, Crime, Drama",7.5
+116,The Midnight Meat Train,2008,100.0,Ryûhei Kitamura,"Vinnie Jones, Bradley Cooper, Leslie Bibb","Horror, Mystery, Thriller",6.0
+117,City of Ember,2008,90.0,Gil Kenan,"Saoirse Ronan, Toby Jones, Bill Murray","Adventure, Drama, Family",6.4
+118,How to Lose Friends & Alienate People,2008,110.0,Robert B. Weide,"Simon Pegg, Kirsten Dunst, Megan Fox","Biography, Comedy, Drama",6.4
+119,High School Musical 3: Senior Year,2008,112.0,Kenny Ortega,"Zac Efron, Vanessa Hudgens, Ashley Tisdale","Comedy, Drama, Family",5.0
+120,Ghajini,2008,186.0,A.R. Murugadoss,"Aamir Khan, Asin, Jiah Khan","Action, Mystery, Thriller",7.4
+121,Punisher: War Zone,2008,103.0,Lexi Alexander,"Ray Stevenson, Dominic West, Julie Benz","Action, Crime, Drama",5.9
+122,Wild Child,2008,98.0,Nick Moore,"Emma Roberts, Aidan Quinn, Natasha Richardson",Comedy,6.1
+123,Appaloosa,2008,115.0,Ed Harris,"Ed Harris, Viggo Mortensen, Renée Zellweger","Crime, Drama, Romance",6.7
+124,Pride and Glory,2008,130.0,Gavin O'Connor,"Edward Norton, Colin Farrell, Noah Emmerich","Crime, Drama, Thriller",6.6
+125,The Spirit,2008,103.0,Frank Miller,"Gabriel Macht, Samuel L. Jackson, Scarlett Johansson","Action, Crime, Fantasy",4.7
+126,Drillbit Taylor,2008,110.0,Steven Brill,"Owen Wilson, Josh Peck, Alex Frost","Action, Comedy, Crime",5.7
+127,Waltz with Bashir,2008,90.0,Ari Folman,"Ari Folman, Ron Ben-Yishai, Ronny Dayag","Documentary, Animation, Biography",8.0
+128,Religulous,2008,101.0,Larry Charles,"Bill Maher, Tal Bachman, Jonathan Boulden","Documentary, Comedy, War",7.6
+129,Traitor,2008,114.0,Jeffrey Nachmanoff,"Don Cheadle, Guy Pearce, Archie Panjabi","Action, Crime, Drama",6.9
+130,Man on Wire,2008,94.0,James Marsh,"Philippe Petit, Jean François Heckel, Jean-Louis Blondeau","Documentary, Biography, Crime",7.7
+131,Bangkok Dangerous,2008,99.0,"Danny Pang, Oxide Chun Pang","Nicolas Cage, Charlie Yeung, Shahkrit Yamnarm","Action, Crime, Thriller",5.3
+132,The Eye,2008,98.0,"David Moreau, Xavier Palud","Jessica Alba, Alessandro Nivola, Parker Posey","Horror, Mystery",5.4
+133,Lakeview Terrace,2008,110.0,Neil LaBute,"Samuel L. Jackson, Patrick Wilson, Kerry Washington","Crime, Drama, Thriller",6.2
+134,Departures,2008,130.0,Yôjirô Takita,"Masahiro Motoki, Ryôko Hirosue, Tsutomu Yamazaki",Drama,8.0
+135,Rab Ne Bana Di Jodi,2008,167.0,Aditya Chopra,"Shah Rukh Khan, Anushka Sharma, Vinay Pathak","Comedy, Drama, Music",7.2
+136,The Love Guru,2008,87.0,Marco Schnabel,"Mike Myers, Jessica Alba, Romany Malco","Comedy, Romance, Sport",3.8
+137,Transsiberian,2008,111.0,Brad Anderson,"Woody Harrelson, Emily Mortimer, Ben Kingsley","Crime, Drama, Mystery",6.6
+138,Untraceable,2008,101.0,Gregory Hoblit,"Diane Lane, Colin Hanks, Joseph Cross","Crime, Mystery, Thriller",6.2
+139,The Brothers Bloom,2008,114.0,Rian Johnson,"Rachel Weisz, Adrien Brody, Mark Ruffalo","Action, Adventure, Comedy",6.7
+140,"Food, Inc.",2008,94.0,Robert Kenner,"Michael Pollan, Eric Schlosser, Richard Lobb","Documentary, News",7.8
+141,Rachel Getting Married,2008,113.0,Jonathan Demme,"Anne Hathaway, Rosemarie DeWitt, Debra Winger","Drama, Romance",6.7
+142,Gomorrah,2008,137.0,Matteo Garrone,"Gianfelice Imparato, Salvatore Abbruzzese, Toni Servillo","Crime, Drama",7.0
+143,W.,2008,129.0,Oliver Stone,"Josh Brolin, Elizabeth Banks, Ioan Gruffudd","Biography, Comedy, Drama",6.3
+144,Red Cliff,2008,148.0,John Woo,"Tony Leung Chiu-wai, Takeshi Kaneshiro, Fengyi Zhang","Action, Adventure, Drama",7.3
+145,"New York, I Love You",2008,103.0,"Fatih Akin, Yvan Attal, Randall Balsmeyer","Shia LaBeouf, Natalie Portman, Bradley Cooper","Comedy, Drama, Romance",6.2
+146,Che: Part One,2008,134.0,Steven Soderbergh,"Julia Ormond, Benicio Del Toro, Oscar Isaac","Biography, Drama, History",7.1
+147,Baby Mama,2008,99.0,Michael McCullers,"Tina Fey, Amy Poehler, Sigourney Weaver","Comedy, Romance",6.0
+148,My Best Friend's Girl,2008,101.0,Howard Deutch,"Kate Hudson, Dane Cook, Jason Biggs","Comedy, Romance",5.8
+149,A.R.O.G,2008,127.0,"Ali Taner Baltaci, Cem Yilmaz","Cem Yilmaz, Özge Özberk, Zafer Algöz","Comedy, Sci-Fi",7.4
+150,Welcome to the Sticks,2008,106.0,Dany Boon,"Kad Merad, Dany Boon, Zoé Félix","Comedy, Romance",7.1
+151,Meet Dave,2008,90.0,Brian Robbins,"Eddie Murphy, Elizabeth Banks, Gabrielle Union","Adventure, Comedy, Family",5.1
+152,Two Lovers,2008,110.0,James Gray,"Joaquin Phoenix, Gwyneth Paltrow, Vinessa Shaw","Drama, Romance",7.0
+153,Dear Zachary: A Letter to a Son About His Father,2008,95.0,Kurt Kuenne,"Kurt Kuenne, Andrew Bagby, David Bagby","Documentary, Biography, Crime",8.5
+154,Splinter,2008,82.0,Toby Wilkins,"Shea Whigham, Jill Wagner, Paulo Costanzo","Crime, Horror, Sci-Fi",6.1
+155,Happy-Go-Lucky,2008,118.0,Mike Leigh,"Sally Hawkins, Alexis Zegerman, Samuel Roukin","Comedy, Drama, Romance",7.0
+156,Deception,2008,107.0,Marcel Langenegger,"Hugh Jackman, Ewan McGregor, Michelle Williams","Crime, Drama, Mystery",6.0
+157,The Baader Meinhof Complex,2008,150.0,Uli Edel,"Martina Gedeck, Moritz Bleibtreu, Johanna Wokalek","Action, Biography, Crime",7.3
+158,JCVD,2008,97.0,Mabrouk El Mechri,"Jean-Claude Van Damme, Valérie Bodson, Hervé Sogne","Comedy, Crime, Drama",7.0
+159,Nothing But the Truth,2008,108.0,Rod Lurie,"Kate Beckinsale, Matt Dillon, Vera Farmiga","Crime, Drama, Mystery",7.1
+160,The Tale of Despereaux,2008,93.0,"Sam Fell, Robert Stevenhagen","Matthew Broderick, Emma Watson, Dustin Hoffman","Animation, Adventure, Comedy",6.1
+161,The Rocker,2008,102.0,Peter Cattaneo,"Rainn Wilson, Josh Gad, Christina Applegate","Comedy, Music",6.2
+162,Passengers,2008,93.0,Rodrigo García,"Anne Hathaway, Patrick Wilson, David Morse","Mystery, Romance, Thriller",5.8
+163,The Hottie & the Nottie,2008,91.0,Tom Putnam,"Paris Hilton, Joel David Moore, Christine Lakin","Comedy, Romance",2.0
+164,Prom Night,2008,88.0,Nelson McCormick,"Brittany Snow, Scott Porter, Jessica Stroup",Horror,4.0
+165,The Good the Bad the Weird,2008,130.0,Kim Jee-woon,"Song Kang-ho, Lee Byung-hun, Jung Woo-sung","Action, Adventure, Comedy",7.2
+166,Shutter,2008,85.0,Masayuki Ochiai,"Joshua Jackson, Rachael Taylor, James Kyson","Horror, Mystery, Thriller",5.2
+167,Keith,2008,95.0,Todd Kessler,"Elisabeth Harnois, Jesse McCartney, Margo Harshman","Drama, Romance",7.3
+168,Nim's Island,2008,96.0,"Jennifer Flackett, Mark Levin","Jodie Foster, Gerard Butler, Abigail Breslin","Adventure, Family, Fantasy",6.0
+169,Pontypool,2008,93.0,Bruce McDonald,"Stephen McHattie, Lisa Houle, Georgina Reilly","Horror, Sci-Fi",6.5
+170,The Class,2008,128.0,Laurent Cantet,"François Bégaudeau, Agame Malembo-Emene, Angélica Sancio",Drama,7.5
+171,Mesrine: Killer Instinct,2008,113.0,Jean-François Richet,"Vincent Cassel, Cécile de France, Gérard Depardieu","Action, Biography, Crime",7.5
+172,Che: Part Two,2008,135.0,Steven Soderbergh,"Demián Bichir, Rodrigo Santoro, Benicio Del Toro","Biography, Drama, History",6.8
+173,Jodhaa Akbar,2008,213.0,Ashutosh Gowariker,"Hrithik Roshan, Aishwarya Rai Bachchan, Sonu Sood","Action, Drama, History",7.5
+174,One Missed Call,2008,87.0,Eric Valette,"Edward Burns, Shannyn Sossamon, Ana Claudia Talancón","Horror, Mystery",4.0
+175,Choke,2008,92.0,Clark Gregg,"Sam Rockwell, Anjelica Huston, Kelly Macdonald","Comedy, Drama",6.4
+176,Pathology,2008,95.0,Marc Schölermann,"Alyssa Milano, Milo Ventimiglia, Keir O'Donnell","Crime, Horror, Thriller",5.9
+177,Leatherheads,2008,114.0,George Clooney,"George Clooney, Renée Zellweger, John Krasinski","Comedy, Drama, Romance",6.0
+178,Resident Evil: Degeneration,2008,98.0,Makoto Kamiya,"Paul Mercier, Alyson Court, Laura Bailey","Animation, Action, Horror",6.4
+179,Asterix at the Olympic Games,2008,116.0,"Frédéric Forestier, Thomas Langmann","Gérard Depardieu, Clovis Cornillac, Benoît Poelvoorde","Adventure, Comedy, Family",5.2
+180,Lake Mungo,2008,87.0,Joel Anderson,"Rosie Traynor, David Pledger, Martin Sharpe","Drama, Horror, Mystery",6.2
+181,Ong Bak 2,2008,98.0,"Tony Jaa, Panna Rittikrai","Tony Jaa, Sarunyu Wongkrachang, Sorapong Chatree",Action,6.2
+182,Mesrine: Public Enemy No. 1,2008,133.0,Jean-François Richet,"Vincent Cassel, Ludivine Sagnier, Mathieu Amalric","Action, Biography, Crime",7.4
+183,The Wackness,2008,99.0,Jonathan Levine,"Josh Peck, Ben Kingsley, Olivia Thirlby","Comedy, Drama, Romance",6.9
+184,The Sisterhood of the Traveling Pants 2,2008,119.0,Sanaa Hamri,"America Ferrera, Alexis Bledel, Amber Tamblyn","Comedy, Drama, Romance",6.2
+185,The Oxford Murders,2008,108.0,Álex de la Iglesia,"Elijah Wood, John Hurt, Leonor Watling","Crime, Mystery, Thriller",6.1
+186,"Angus, Thongs and Perfect Snogging",2008,100.0,Gurinder Chadha,"Georgia Groome, Aaron Taylor-Johnson, Karen Taylor","Comedy, Drama, Romance",6.3
+187,Max Manus: Man of War,2008,118.0,"Joachim Rønning, Espen Sandberg","Aksel Hennie, Agnes Kittelsen, Nicolai Cleve Broch","Action, Biography, Crime",7.3
+188,Miss Pettigrew Lives for a Day,2008,92.0,Bharat Nalluri,"Frances McDormand, Amy Adams, Ciarán Hinds","Comedy, Romance",7.0
+189,Recep Ivedik,2008,90.0,Togan Gökbakar,"Sahan Gökbakar, Fatma Toptas, Tulug Çizgen",Comedy,4.9
+190,The Secret Life of Bees,2008,114.0,Gina Prince-Bythewood,"Dakota Fanning, Jennifer Hudson, Queen Latifah",Drama,7.2
+191,What Just Happened,2008,104.0,Barry Levinson,"Robert De Niro, John Turturro, Stanley Tucci","Comedy, Drama",5.6
+192,Jaane Tu... Ya Jaane Na,2008,155.0,Abbas Tyrewala,"Imran Khan, Genelia Deshmukh, Manjari Fadnnis","Comedy, Drama, Romance",7.4
+193,Open Season 2,2008,76.0,"Matthew O'Callaghan, Todd Wilderman","Joel McHale, Mike Epps, Jane Krakowski","Animation, Adventure, Comedy",5.5
+194,Repo! The Genetic Opera,2008,98.0,Darren Lynn Bousman,"Paul Sorvino, Anthony Head, Alexa PenaVega","Horror, Musical, Sci-Fi",6.4
+195,Mutant Chronicles,2008,111.0,Simon Hunter,"Thomas Jane, Ron Perlman, Devon Aoki","Action, Adventure, Mystery",5.2
+196,Nights in Rodanthe,2008,97.0,George C. Wolfe,"Diane Lane, Richard Gere, Christopher Meloni","Drama, Romance",6.0
+197,Frozen River,2008,97.0,Courtney Hunt,"Melissa Leo, Misty Upham, Charlie McDermott","Crime, Drama",7.1
+198,Beverly Hills Chihuahua,2008,91.0,Raja Gosnell,"Drew Barrymore, George Lopez, Piper Perabo","Adventure, Comedy, Drama",4.0
+199,The Accidental Husband,2008,90.0,Griffin Dunne,"Uma Thurman, Jeffrey Dean Morgan, Justina Machado","Comedy, Romance",5.6
+200,Over Her Dead Body,2008,95.0,Jeff Lowell,"Eva Longoria, Paul Rudd, Lake Bell","Comedy, Fantasy, Romance",5.3
+201,Loft,2008,118.0,Erik Van Looy,"Koen De Bouw, Filip Peeters, Matthias Schoenaerts","Crime, Drama, Mystery",7.3
+202,Fireproof,2008,122.0,Alex Kendrick,"Kirk Cameron, Erin Bethea, Ken Bevel","Drama, Romance",6.5
+203,Igor,2008,87.0,Tony Leondis,"John Cusack, Molly Shannon, Steve Buscemi","Animation, Comedy, Family",5.9
+204,Alone,2008,113.0,Çagan Irmak,"Cemal Hünal, Melis Birkan, Yildiz Kültür","Drama, Romance",6.8
+205,Cadillac Records,2008,109.0,Darnell Martin,"Adrien Brody, Jeffrey Wright, Beyoncé","Biography, Drama, Music",7.0
+206,The Women,2008,114.0,Diane English,"Meg Ryan, Eva Mendes, Annette Bening","Comedy, Drama",5.0
+207,Three Monkeys,2008,109.0,Nuri Bilge Ceylan,"Yavuz Bingöl, Hatice Aslan, Ahmet Rifat Sungar",Drama,7.3
+208,Smart People,2008,95.0,Noam Murro,"Dennis Quaid, Thomas Haden Church, Sarah Jessica Parker","Comedy, Drama, Romance",6.1
+209,Elegy,2008,112.0,Isabel Coixet,"Ben Kingsley, Penélope Cruz, Patricia Clarkson","Drama, Romance",6.7
+210,Mad Money,2008,104.0,Callie Khouri,"Diane Keaton, Queen Latifah, Katie Holmes","Comedy, Crime, Thriller",5.9
+211,The Express,2008,130.0,Gary Fleder,"Rob Brown, Dennis Quaid, Clancy Brown","Biography, Drama, Sport",7.2
+212,Strange Wilderness,2008,87.0,Fred Wolf,"Steve Zahn, Allen Covert, Justin Long","Adventure, Comedy",5.2
+213,Rock On!!,2008,145.0,Abhishek Kapoor,"Arjun Rampal, Farhan Akhtar, Luke Kenny","Drama, Music",7.7
+214,Easy Virtue,2008,97.0,Stephan Elliott,"Jessica Biel, Ben Barnes, Kristin Scott Thomas","Comedy, Romance",6.6
+215,Last Chance Harvey,2008,93.0,Joel Hopkins,"Dustin Hoffman, Emma Thompson, Kathy Baker","Drama, Romance",6.6
+216,"War, Inc.",2008,107.0,Joshua Seftel,"John Cusack, Marisa Tomei, Hilary Duff","Action, Comedy, Thriller",5.5
+217,Killshot,2008,95.0,John Madden,"Thomas Jane, Diane Lane, Mickey Rourke","Action, Crime, Drama",6.0
+218,The Stoning of Soraya M.,2008,114.0,Cyrus Nowrasteh,"Shohreh Aghdashloo, Jim Caviezel, Mozhan Navabi",Drama,7.9
+219,The Burning Plain,2008,107.0,Guillermo Arriaga,"Charlize Theron, John Corbett, José María Yazpik","Crime, Drama, Mystery",6.7
+220,Redbelt,2008,99.0,David Mamet,"Chiwetel Ejiofor, Tim Allen, Emily Mortimer","Drama, Sport",6.7
+221,Stop-Loss,2008,112.0,Kimberly Peirce,"Ryan Phillippe, Abbie Cornish, Joseph Gordon-Levitt","Drama, War",6.4
+222,I've Loved You So Long,2008,117.0,Philippe Claudel,"Kristin Scott Thomas, Elsa Zylberstein, Serge Hazanavicius",Drama,7.6
+223,My Sassy Girl,2008,92.0,Yann Samuell,"Elisha Cuthbert, Jesse Bradford, Austin Basis","Comedy, Drama, Romance",6.2
+224,Flame & Citron,2008,130.0,Ole Christian Madsen,"Thure Lindhardt, Mads Mikkelsen, Stine Stengade","Action, Drama, History",7.2
+225,Wendy and Lucy,2008,80.0,Kelly Reichardt,"Michelle Williams, Lucy, David Koppell",Drama,7.1
+226,Deadgirl,2008,101.0,"Marcel Sarmiento, Gadi Harel","Shiloh Fernandez, Noah Segan, Candice King",Horror,5.5
+227,The Promotion,2008,86.0,Steve Conrad,"Seann William Scott, John C. Reilly, Chris Conrad",Comedy,5.6
+228,Swing Vote,2008,120.0,Joshua Michael Stern,"Kevin Costner, Paula Patton, Kelsey Grammer","Comedy, Drama",6.1
+229,Still Walking,2008,115.0,Hirokazu Koreeda,"Hiroshi Abe, Yui Natsukawa, You",Drama,7.9
+230,Il Divo,2008,110.0,Paolo Sorrentino,"Toni Servillo, Anna Bonaiuto, Giulio Bosetti","Biography, Drama",7.2
+231,The Lazarus Project,2008,100.0,John Glenn,"Paul Walker, Piper Perabo, Brooklynn Proulx","Drama, Mystery, Thriller",6.0
+232,The Edge of Love,2008,110.0,John Maybury,"Keira Knightley, Sienna Miller, Matthew Rhys","Biography, Drama, Romance",6.1
+233,Miracle at St. Anna,2008,160.0,Spike Lee,"Derek Luke, Michael Ealy, Laz Alonso","Action, Drama, War",6.1
+234,The Children,2008,84.0,Tom Shankland,"Eva Birthistle, Stephen Campbell Moore, Jeremy Sheffield","Horror, Mystery, Thriller",5.9
+235,Zombie Strippers!,2008,94.0,Jay Lee,"Jenna Jameson, Robert Englund, Roxy Saint","Comedy, Horror, Sci-Fi",4.1
+236,Chocolate,2008,110.0,Prachya Pinkaew,"JeeJa Yanin, Hiroshi Abe, Pongpat Wachirabunjong","Action, Drama",6.9
+237,Surveillance,2008,97.0,Jennifer Lynch,"Julia Ormond, Bill Pullman, Pell James","Crime, Drama, Mystery",6.3
+238,Management,2008,94.0,Stephen Belber,"Jennifer Aniston, Steve Zahn, Woody Harrelson","Comedy, Drama, Romance",5.8
+239,Bottle Shock,2008,110.0,Randall Miller,"Chris Pine, Alan Rickman, Bill Pullman","Comedy, Drama",6.8
+240,Oye Lucky! Lucky Oye!,2008,125.0,Dibakar Banerjee,"Abhay Deol, Paresh Rawal, Nitu Chandra","Comedy, Crime, Drama",7.7
+241,Franklyn,2008,98.0,Gerald McMorrow,"Eva Green, Ryan Phillippe, Sam Riley","Drama, Fantasy, Sci-Fi",6.0
+242,Outpost,2008,90.0,Steve Barker,"Ray Stevenson, Julian Wadham, Richard Brake","Action, Horror, Sci-Fi",5.8
+243,Flash of Genius,2008,119.0,Marc Abraham,"Greg Kinnear, Lauren Graham, Alan Alda","Biography, Drama",7.0
+244,CJ7,2008,88.0,Stephen Chow,"Stephen Chow, Yuqi Zhang, Jiao Xu","Adventure, Comedy, Drama",6.4
+245,The Informers,2008,98.0,Gregor Jordan,"Billy Bob Thornton, Kim Basinger, Mickey Rourke","Crime, Drama, Thriller",4.9
+246,Hamlet 2,2008,92.0,Andrew Fleming,"Steve Coogan, Elisabeth Shue, Catherine Keener","Comedy, Music",6.3
+247,The Escapist,2008,102.0,Rupert Wyatt,"Brian Cox, Damian Lewis, Joseph Fiennes","Crime, Drama, Thriller",6.7
+248,Singh Is King,2008,135.0,Anees Bazmee,"Akshay Kumar, Katrina Kaif, Om Puri","Action, Comedy, Crime",5.8
+249,Anvil: The Story of Anvil,2008,80.0,Sacha Gervasi,"Robb Reiner, Steve 'Lips' Kudlow, Tiziana Arrigoni","Documentary, Biography, Drama",7.9
+250,College Road Trip,2008,83.0,Roger Kumble,"Raven-Symoné, Martin Lawrence, Kym Whitley","Adventure, Comedy, Drama",4.4
+251,Love Exposure,2008,237.0,Sion Sono,"Takahiro Nishijima, Hikari Mitsushima, Sakura Andô","Action, Comedy, Drama",8.0
+252,The Onion Movie,2008,86.0,"Tom Kuntz, Mike Maguire","Len Cariou, Sarah McElligott, Amir Talai",Comedy,6.2
+253,North Face,2008,126.0,Philipp Stölzl,"Benno Fürmann, Florian Lukas, Johanna Wokalek","Adventure, Biography, Drama",7.4
+254,Dostana,2008,145.0,"Tarun Mansukhani, Punit Malhotra","Abhishek Bachchan, John Abraham, Priyanka Chopra Jonas","Comedy, Drama, Romance",6.4
+255,Revanche,2008,121.0,Götz Spielmann,"Johannes Krisch, Irina Potapenko, Andreas Lust","Crime, Drama, Romance",7.5
+256,Race,2008,149.0,"Abbas Alibhai Burmawalla, Mastan Alibhai Burmawalla","Anil Kapoor, Saif Ali Khan, Akshaye Khanna","Action, Crime, Drama",6.7
+257,Hell Ride,2008,84.0,Larry Bishop,"Larry Bishop, Dennis Hopper, Michael Madsen","Action, Drama, Thriller",5.0
+258,Assassination of a High School President,2008,93.0,Brett Simon,"Reece Thompson, Mischa Barton, Bruce Willis","Comedy, Crime, Mystery",6.2
+259,"Welcome Home, Roscoe Jenkins",2008,114.0,Malcolm D. Lee,"Martin Lawrence, Louis C.K., James Earl Jones","Comedy, Romance",5.5
+260,Ghost in the Shell 2.0,2008,83.0,Mamoru Oshii,"Atsuko Tanaka, Akio Ôtsuka, Kôichi Yamadera","Animation, Action, Crime",7.8
+261,Berlin Calling,2008,109.0,Hannes Stöhr,"Paul Kalkbrenner, Rita Lengyel, Corinna Harfouch","Comedy, Drama, Music",7.2
+262,Far Cry,2008,95.0,Uwe Boll,"Til Schweiger, Emmanuelle Vaugier, Natalia Avelon","Action, Adventure, Sci-Fi",3.2
+263,The Heir Apparent: Largo Winch,2008,108.0,Jérôme Salle,"Tomer Sisley, Kristin Scott Thomas, Predrag 'Miki' Manojlovic","Action, Thriller",6.4
+264,Vaaranam Aayiram,2008,169.0,Gautham Vasudev Menon,"Suriya, Simran, Ramya","Action, Drama, Musical",8.2
+265,The Great Buck Howard,2008,90.0,Sean McGinly,"Colin Hanks, John Malkovich, Tom Hanks","Adventure, Comedy, Drama",6.4
+266,Lymelife,2008,95.0,Derick Martini,"Rory Culkin, Alec Baldwin, Jill Hennessy","Comedy, Drama, Romance",6.8
+267,The Lucky Ones,2008,115.0,Neil Burger,"Rachel McAdams, Tim Robbins, Michael Peña","Adventure, Comedy, Drama",6.9
+268,Bigger Stronger Faster*,2008,105.0,Chris Bell,"Chris Bell, Mike Bell, Mark Bell","Documentary, Sport",7.5
+269,Brideshead Revisited,2008,133.0,Julian Jarrold,"Matthew Goode, Patrick Malahide, Hayley Atwell","Drama, Romance",6.6
+270,Fireflies in the Garden,2008,99.0,Dennis Lee,"Ryan Reynolds, Willem Dafoe, Emily Watson",Drama,6.4
+271,Winter in Wartime,2008,103.0,Martin Koolhoven,"Martijn Lakemeier, Jamie Campbell Bower, Yorick van Wageningen","Drama, History, War",7.0
+272,It Might Get Loud,2008,98.0,Davis Guggenheim,"Jimmy Page, The Edge, Jack White","Documentary, Music",7.6
+273,Dragon Hunters,2008,80.0,"Guillaume Ivernel, Arthur Qwak","Vincent Lindon, Patrick Timsit, Philippe Nahon","Animation, Action, Adventure",6.5
+274,What Doesn't Kill You,2008,100.0,Brian Goodman,"Ethan Hawke, Mark Ruffalo, Brian Goodman","Crime, Drama, Thriller",6.5
+275,Fashion,2008,167.0,Madhur Bhandarkar,"Priyanka Chopra Jonas, Kangana Ranaut, Mugdha Godse","Drama, Romance",6.9
+276,The Cottage,2008,92.0,Paul Andrew Williams,"Andy Serkis, Reece Shearsmith, Jennifer Ellison","Comedy, Crime, Horror",6.1
+277,100 Feet,2008,96.0,Eric Red,"Famke Janssen, Bobby Cannavale, Ed Westwick","Horror, Mystery, Thriller",5.4
+278,The Red Baron,2008,106.0,Nikolai Müllerschön,"Matthias Schweighöfer, Lena Headey, Til Schweiger","Action, Adventure, Biography",6.3
+279,Tokyo Gore Police,2008,110.0,Yoshihiro Nishimura,"Eihi Shiina, Itsuji Itao, Yukihide Benny","Action, Comedy, Horror",5.9
+280,Adulthood,2008,99.0,Noel Clarke,"Noel Clarke, Scarlett Alice Johnson, Adam Deacon","Crime, Drama",6.6
+281,Red,2008,93.0,"Trygve Allister Diesen, Lucky McKee","Brian Cox, Noel Fisher, Kyle Gallner","Drama, Thriller",6.9
+282,Henry Poole Is Here,2008,99.0,Mark Pellington,"Luke Wilson, Radha Mitchell, George Lopez","Comedy, Drama",6.4
+283,Flashbacks of a Fool,2008,113.0,Baillie Walsh,"Daniel Craig, Harry Eden, Eve",Drama,6.8
+284,Tyson,2008,90.0,James Toback,"Mike Tyson, Mills Lane, Trevor Berbick","Documentary, Biography, Sport",7.4
+285,Bachna Ae Haseeno,2008,152.0,Siddharth Anand,"Ranbir Kapoor, Deepika Padukone, Bipasha Basu","Comedy, Drama, Romance",6.2
+286,Cars of the Revolution,2008,120.0,Tolga Örnek,"Taner Birsel, Ali Düsenkalkar, Halit Ergenç","Drama, History",7.9
+287,Paris,2008,130.0,Cédric Klapisch,"Fabrice Luchini, Romain Duris, Joffrey Platel","Comedy, Drama, Romance",6.8
+288,Space Chimps,2008,81.0,Kirk DeMicco,"Andy Samberg, Stanley Tucci, Jeff Daniels","Animation, Adventure, Comedy",4.5
+289,Tokyo Sonata,2008,120.0,Kiyoshi Kurosawa,"Teruyuki Kagawa, Kyôko Koizumi, Yû Koyanagi",Drama,7.5
+290,The Other Man,2008,88.0,Richard Eyre,"Liam Neeson, Antonio Banderas, Laura Linney","Drama, Mystery, Thriller",5.4
+291,College,2008,94.0,Deb Hagan,"Drake Bell, Kevin Covais, Andrew Lewis Caldwell",Comedy,4.6
+292,My Mom's New Boyfriend,2008,119.0,George Gallo,"Antonio Banderas, Meg Ryan, Colin Hanks","Comedy, Crime, Romance",5.3
+293,Amusement,2008,85.0,John Simpson,"Katheryn Winnick, Laura Breckenridge, Jessica Lucas","Crime, Horror, Mystery",4.9
+294,Shine a Light,2008,122.0,Martin Scorsese,"Mick Jagger, Keith Richards, Charlie Watts","Documentary, Biography, Music",7.1
+295,Tokyo!,2008,112.0,"Leos Carax, Michel Gondry, Bong Joon Ho","Ayako Fujitani, Ryô Kase, Ayumi Ito","Comedy, Drama, Fantasy",7.0
+296,Bhoothnath,2008,150.0,Vivek Sharma,"Amitabh Bachchan, Juhi Chawla, Satish Shah","Comedy, Drama, Family",6.4
+297,Expelled: No Intelligence Allowed,2008,90.0,Nathan Frankowski,"Ben Stein, Lili Asvar, Peter Atkins",Documentary,3.7
+298,Hannah Montana and Miley Cyrus: Best of Both Worlds Concert,2008,74.0,Bruce Hendricks,"Miley Cyrus, Jonas Brothers, Kenny Ortega","Documentary, Music",2.7
+299,One Week,2008,94.0,Michael McGowan,"Joshua Jackson, Peter Spence, Marc Strange","Adventure, Drama",7.0
+300,Dance of the Dead,2008,87.0,Gregg Bishop,"Jared Kusnitz, Greyson Chadwick, Chandler Darby","Action, Comedy, Horror",5.8
+301,Me and Orson Welles,2008,114.0,Richard Linklater,"Zac Efron, Claire Danes, Christian McKay","Comedy, Drama",6.7
+302,First Sunday,2008,96.0,David E. Talbert,"Ice Cube, Katt Williams, Tracy Morgan","Comedy, Crime, Drama",4.6
+303,Soul Men,2008,100.0,Malcolm D. Lee,"Samuel L. Jackson, Bernie Mac, Sharon Leal","Comedy, Drama, Music",6.4
+304,Diary of a Nymphomaniac,2008,101.0,Christian Molina,"Belén Fabra, Leonardo Sbaraglia, Llum Barrera","Drama, Romance",5.6
+305,Fifty Dead Men Walking,2008,117.0,Kari Skogland,"Ben Kingsley, Jim Sturgess, Kevin Zegers","Crime, Drama, Thriller",6.8
+306,Aamir,2008,99.0,Raj Kumar Gupta,"Rajeev Khandelwal, Mukesh Agrohari, Supavitra Babul","Action, Crime, Drama",7.6
+307,Extreme Movie,2008,86.0,"Adam Jay Epstein, Andrew Jacobson","Frankie Muniz, Michael Cera, Ashley Schneider",Comedy,3.7
+308,Donkey Punch,2008,99.0,Olly Blackburn,"Sian Breckin, Nichola Burley, Jaime Winstone","Crime, Drama, Horror",5.2
+309,The Ramen Girl,2008,102.0,Robert Allan Ackerman,"Brittany Murphy, Toshiyuki Nishida, Tammy Blanchard","Comedy, Drama, Romance",6.3
+310,The Song of Sparrows,2008,96.0,Majid Majidi,"Reza Naji, Maryam Akbari, Kamran Dehghan","Drama, Family",7.9
+311,The Secret of Moonacre,2008,103.0,Gabor Csupo,"Ioan Gruffudd, Dakota Blue Richards, Tim Curry","Adventure, Family, Fantasy",6.1
+312,The Broken,2008,93.0,Sean Ellis,"Lena Headey, Ulrich Thomsen, Melvil Poupaud","Drama, Horror, Thriller",5.4
+313,I Sell the Dead,2008,85.0,Glenn McQuaid,"Dominic Monaghan, Ron Perlman, Larry Fessenden","Comedy, Horror",6.0
+314,Forever Strong,2008,112.0,Ryan Little,"Sean Faris, Penn Badgley, Gary Cole","Drama, Sport",7.1
+315,Dasavatharam,2008,188.0,K.S. Ravikumar,"Kamal Haasan, Asin, Jaya Prada","Action, Adventure, Drama",7.3
+316,Gangster's Paradise: Jerusalema,2008,119.0,Ralph Ziman,"Rapulana Seiphemo, Jeffrey Sekele, Ronnie Nyakale","Action, Crime, Drama",7.3
+317,The Machine Girl,2008,96.0,Noboru Iguchi,"Minase Yashiro, Asami, Nobuhiro Nishihara","Action, Comedy, Horror",5.9
+318,"Patrik, Age 1.5",2008,103.0,Ella Lemhagen,"Gustaf Skarsgård, Torkel Petersson, Tom Ljungman","Comedy, Drama, Romance",6.9
+319,Kandisha,2008,91.0,Jérôme Cohen-Olivar,"Hiam Abbass, Amal Ayouch, Khalid Benchagra","Crime, Fantasy, Horror",5.0
+320,Cold Prey 2,2008,90.0,Mats Stenberg,"Ingrid Bolsø Berdal, Marthe Snorresdotter Rovik, Kim Arne Hagen","Horror, Thriller",6.1
+321,The Haunting of Molly Hartley,2008,85.0,Mickey Liddell,"Haley Bennett, Chace Crawford, Jake Weber","Drama, Horror, Thriller",3.9
+322,The First Day of the Rest of Your Life,2008,114.0,Rémi Bezançon,"Jacques Gamblin, Zabou Breitman, Déborah François",Drama,7.5
+323,An American Carol,2008,83.0,David Zucker,"Kevin P. Farley, Kelsey Grammer, Leslie Nielsen","Comedy, Fantasy",4.0
+324,Oceans,2008,84.0,"Jacques Perrin, Jacques Cluzaud","Pierce Brosnan, Pedro Armendáriz Jr., Rie Miyazawa",Documentary,7.7
+325,The Children of Huang Shi,2008,125.0,Roger Spottiswoode,"Jonathan Rhys Meyers, Radha Mitchell, Chow Yun-Fat","Drama, War",7.0
+326,Anything for Her,2008,96.0,Fred Cavayé,"Vincent Lindon, Diane Kruger, Lancelot Roch","Crime, Drama, Thriller",7.1
+327,Gigantic,2008,98.0,Matt Aselton,"Paul Dano, Zooey Deschanel, John Goodman","Comedy, Drama, Romance",6.0
+328,LOL (Laughing Out Loud),2008,103.0,Lisa Azuelos,"Sophie Marceau, Christa Théret, Jérémy Kapone","Comedy, Romance",6.3
+329,Little Ashes,2008,112.0,Paul Morrison,"Robert Pattinson, Javier Beltrán, Matthew McNulty","Biography, Drama, History",6.3
+330,Golmaal Returns,2008,135.0,Rohit Shetty,"Ajay Devgn, Kareena Kapoor, Arshad Warsi","Comedy, Crime, Mystery",5.3
+331,I Can't Think Straight,2008,82.0,Shamim Sarif,"Lisa Ray, Sheetal Sheth, Antonia Frering","Drama, Romance",6.4
+332,At the Beach,2008,85.0,Murat Seker,"Sarp Apak, Gürgen Öz, Tuba Ünsal",Comedy,3.3
+333,The Burrowers,2008,96.0,J.T. Petty,"Clancy Brown, David Busse, Harley Coriz","Horror, Thriller, Western",5.7
+334,Rudo y Cursi,2008,103.0,Carlos Cuarón,"Gael García Bernal, Diego Luna, Guillermo Francella","Comedy, Drama, Sport",6.7
+335,Boot Camp,2008,99.0,Christian Duguay,"Mila Kunis, Gregory Smith, Peter Stormare","Crime, Drama, Mystery",5.8
+336,Alien Raiders,2008,85.0,Ben Rock,"Carlos Bernard, Mathew St. Patrick, Rockmond Dunbar","Action, Horror, Sci-Fi",5.6
+337,"Surfer, Dude",2008,85.0,S.R. Bindler,"Matthew McConaughey, Woody Harrelson, Willie Nelson",Comedy,4.6
+338,The Black Balloon,2008,97.0,Elissa Down,"Rhys Wakefield, Luke Ford, Toni Collette","Drama, Romance",7.2
+339,Lorna's Silence,2008,105.0,"Jean-Pierre Dardenne, Luc Dardenne","Arta Dobroshi, Jérémie Renier, Fabrizio Rongione",Drama,7.1
+340,Incendiary,2008,96.0,Sharon Maguire,"Michelle Williams, Ewan McGregor, Matthew Macfadyen","Drama, Romance, Thriller",5.8
+341,The Alphabet Killer,2008,98.0,Rob Schmidt,"Eliza Dushku, Cary Elwes, Timothy Hutton","Crime, Mystery, Thriller",5.2
+342,A Fox's Tale,2008,85.0,György Gát,"Gábor Csöre, Freddie Highmore, János Gálvölgyi","Animation, Adventure, Family",1.3
+343,The Yellow Handkerchief,2008,102.0,Udayan Prasad,"William Hurt, Maria Bello, Kristen Stewart","Adventure, Drama, Romance",6.7
+344,Death Note: L Change the World,2008,129.0,Hideo Nakata,"Ken'ichi Matsuyama, Sota Aoyama, Shunji Fujimura","Crime, Drama, Mystery",6.0
+345,Passchendaele,2008,114.0,Paul Gross,"Paul Gross, Michael Greyeyes, James Kot","Drama, History, Romance",6.4
+346,Vacancy 2: The First Cut,2008,86.0,Eric Bross,"Agnes Bruckner, David Moscow, Scott Anderson","Horror, Thriller",4.9
+347,Admiral,2008,124.0,Andrey Kravchuk,"Konstantin Khabensky, Elizaveta Boyarskaya, Sergey Bezrukov","Biography, Drama, History",6.6
+348,Arn: The Kingdom at the End of the Road,2008,128.0,Peter Flinth,"Joakim Nätterqvist, Sofia Helin, Stellan Skarsgård","Action, Drama, Romance",6.6
+349,The Objective,2008,90.0,Daniel Myrick,"Jonas Ball, Matthew R. Anderson, Jon Huertas","Horror, Sci-Fi, Thriller",5.4
+350,Gonzo,2008,120.0,Alex Gibney,"Hunter S. Thompson, Johnny Depp, Joe Cairo","Documentary, Biography, Music",7.6
+351,Summer Hours,2008,103.0,Olivier Assayas,"Juliette Binoche, Charles Berling, Jérémie Renier","Drama, Family",7.1
+352,Meu Nome Não é Johnny,2008,124.0,Mauro Lima,"Selton Mello, Giulio Lopes, Júlia Lemmertz","Biography, Crime, Drama",7.2
+353,Good Dick,2008,86.0,Marianna Palka,"Marianna Palka, Jason Ritter, Eric Edelstein","Comedy, Drama, Romance",6.3
+354,The Family That Preys,2008,111.0,Tyler Perry,"Kathy Bates, Alfre Woodard, Sanaa Lathan",Drama,6.0
+355,The Beautiful Person,2008,97.0,Christophe Honoré,"Louis Garrel, Léa Seydoux, Grégoire Leprince-Ringuet","Comedy, Drama",6.6
+356,Female Agents,2008,148.0,Jean-Paul Salomé,"Sophie Marceau, Julie Depardieu, Moritz Bleibtreu","Drama, War",6.7
+357,Phoebe in Wonderland,2008,96.0,Daniel Barnz,"Elle Fanning, Patricia Clarkson, Felicity Huffman",Drama,7.0
+358,From Within,2008,89.0,Phedon Papamichael,"Elizabeth Rice, Thomas Dekker, Kelly Blatz","Horror, Mystery, Thriller",5.6
+359,Good,2008,92.0,Vicente Amorim,"Viggo Mortensen, Jason Isaacs, Jodie Whittaker","Drama, Romance, War",6.2
+360,Sarkar Raj,2008,125.0,Ram Gopal Varma,"Amitabh Bachchan, Abhishek Bachchan, Aishwarya Rai Bachchan","Crime, Drama",6.7
+361,A Christmas Tale,2008,150.0,Arnaud Desplechin,"Catherine Deneuve, Jean-Paul Roussillon, Mathieu Amalric","Comedy, Drama",6.9
+362,Jannat: In Search of Heaven...,2008,140.0,Kunal Deshmukh,"Emraan Hashmi, Sonal Chauhan, Swatantra Bharat","Crime, Drama, Romance",6.9
+363,Osmanli Cumhuriyeti,2008,100.0,Gani Müjde,"Ata Demirer, Vildan Atasever, Ruhsar Öcal",Comedy,5.2
+364,Sauna,2008,83.0,Antti-Jussi Annila,"Ville Virtanen, Tommi Eronen, Viktor Klimenko","Drama, Horror, Mystery",6.2
+365,While She Was Out,2008,86.0,Susan Montford,"Kim Basinger, Lukas Haas, Craig Sheffer","Crime, Drama, Thriller",4.8
+366,Autopsy,2008,84.0,Adam Gierasch,"Jessica Lowndes, Ross Kohn, Ross McCall","Horror, Mystery, Thriller",5.0
+367,Winged Creatures,2008,100.0,Rowan Woods,"Kate Beckinsale, Forest Whitaker, Guy Pearce","Crime, Drama",5.6
+368,Sorry to Disturb,2008,116.0,Khaled Marei,"Ahmed Helmy, Menna Shalabi, Mahmoud Hemida","Comedy, Drama, Mystery",8.1
+369,Hero Wanted,2008,94.0,Brian Smrz,"Cuba Gooding Jr., Ray Liotta, Tommy Flanagan","Action, Crime, Thriller",5.5
+370,Meet the Browns,2008,100.0,Tyler Perry,"Tamela J. Mann, Angela Bassett, Tyler Perry","Comedy, Drama, Romance",4.6
+371,Hush,2008,91.0,Mark Tonderai,"William Ash, Christine Bottomley, Andreas Wisniewski","Horror, Thriller",6.0
+372,Terribly Happy,2008,99.0,Henrik Ruben Genz,"Jakob Cedergren, Lene Maria Christensen, Kim Bodnia","Crime, Drama, Thriller",6.7
+373,Nunta muta,2008,87.0,Horatiu Malaele,"Meda Andreea Victor, Alexandru Potocean, Valentin Teodosiu","Comedy, Drama, History",7.8
+374,A Woman in Berlin,2008,131.0,Max Färberböck,"Nina Hoss, Evgeniy Sidikhin, Irm Hermann","Biography, Drama, History",7.0
+375,Autumn,2008,99.0,Özcan Alper,"Onur Saylak, Megi Kobaladze, Serkan Keskin",Drama,7.7
+376,Train,2008,94.0,Gideon Raff,"Thora Birch, Gideon Emery, Kavan Reece","Horror, Thriller",4.7
+377,120,2008,114.0,"Özhan Eren, Murat Saraçoglu","Özge Özberk, Burak Sergen, Cansel Elcin","Drama, History, War",7.2
+378,Dark Floors,2008,85.0,Pete Riski,"William Hope, Leon Herbert, Ronald Pickup","Action, Fantasy, Horror",4.4
+379,Julia,2008,144.0,Erick Zonca,"Tilda Swinton, Saul Rubinek, Kate del Castillo","Crime, Drama, Thriller",7.0
+380,Solstice,2008,91.0,Daniel Myrick,"Elisabeth Harnois, Shawn Ashmore, Hilarie Burton Morgan","Horror, Mystery",5.3
+381,Krabat,2008,120.0,Marco Kreuzpaintner,"David Kross, Christian Redl, Daniel Brühl","Drama, Fantasy, Thriller",6.1
+382,Lemon Tree,2008,106.0,Eran Riklis,"Hiam Abbass, Rona Lipaz-Michael, Ali Suliman","Drama, War",7.3
+383,Until the Light Takes Us,2008,93.0,"Aaron Aites, Audrey Ewell","Fenriz, Varg Vikernes, Euronymous","Documentary, Music",7.0
+384,A Summer in Genoa,2008,93.0,Michael Winterbottom,"Colin Firth, Perla Haney-Jardine, Willa Holland","Drama, Mystery, Romance",6.0
+385,Somers Town,2008,71.0,Shane Meadows,"Piotr Jagiello, Ireneusz Czop, Perry Benson","Comedy, Drama",6.8
+386,Desh Drohi,2008,140.0,Jagdish A. Sharma,"Kamal Rashid Khan, Gracy Singh, Hrishitaa Bhatt","Action, Thriller",1.2
+387,Valley of Angels,2008,99.0,Jon Rosten,"George Katt, Danny Trejo, Caroline Macey",Drama,4.0
+388,Three Kingdoms,2008,102.0,Daniel Lee,"Andy Lau, Sammo Kam-Bo Hung, Maggie Q","Action, Drama, History",6.1
+389,Jalsa,2008,161.0,Trivikram Srinivas,"Pawan Kalyan, Ileana D'Cruz, Mukesh Rishi","Action, Comedy",7.4
+390,Involuntary,2008,98.0,Ruben Östlund,"Villmar Björkman, Lola Ewerlund, Maria Lundqvist",Drama,6.9
+391,Sleep Dealer,2008,90.0,Alex Rivera,"Luis Fernando Peña, Leonor Varela, Jacob Vargas","Drama, Romance, Sci-Fi",6.0
+392,Maradona by Kusturica,2008,90.0,Emir Kusturica,"Ernesto Cantu, Fidel Castro, Manu Chao","Documentary, Sport",6.7
+393,Uncertainty,2008,101.0,"Scott McGehee, David Siegel","Joseph Gordon-Levitt, Lynn Collins, Assumpta Serna","Drama, Romance, Thriller",5.7
+394,Cass,2008,108.0,Jon S. Baird,"Nonso Anozie, Gavin Brocker, Leo Gregory","Biography, Crime, Drama",6.4
+395,Dasvidaniya,2008,113.0,Shashant Shah,"Vinay Pathak, Sarita Joshi, Rajat Kapoor","Comedy, Drama",7.8
+396,The Last Deadly Mission,2008,125.0,Olivier Marchal,"Daniel Auteuil, Olivia Bonamy, Catherine Marchal","Crime, Drama, Thriller",6.6
+397,Mumbai Meri Jaan,2008,134.0,Nishikant Kamat,"Paresh Rawal, Kay Kay Menon, Irrfan Khan",Drama,7.7
+398,Seraphine,2008,125.0,Martin Provost,"Yolande Moreau, Ulrich Tukur, Anne Bennent","Biography, Drama",7.4
+399,Witless Protection,2008,97.0,Charles Robert Carner,"Larry the Cable Guy, Jenny McCarthy-Wahlberg, Richard Bull","Comedy, Crime",3.4
+400,Mum & Dad,2008,84.0,Steven Sheil,"Perry Benson, Dido Miles, Olga Fedori","Horror, Thriller",5.9
+401,Restraint,2008,92.0,David Denneen,"Travis Fimmel, Teresa Palmer, Stephen Moyer","Drama, Thriller",6.0
+402,Make It Happen,2008,90.0,Darren Grant,"Mary Elizabeth Winstead, Tessa Thompson, Riley Smith","Drama, Musical",5.4
+403,The Square,2008,105.0,Nash Edgerton,"David Roberts, Claire van der Boom, Joel Edgerton","Crime, Drama, Thriller",6.7
+404,Kit Kittredge: An American Girl,2008,101.0,Patricia Rozema,"Abigail Breslin, Stanley Tucci, Joan Cusack","Comedy, Drama, Family",6.5
+405,Center Stage: Turn It Up,2008,95.0,Steven Jacobson,"Kenny Wormald, Rachele Brooke Smith, Sarah Jayne Jensen","Drama, Music, Romance",6.0
+406,Dying Breed,2008,92.0,Jody Dwyer,"Nathan Phillips, Leigh Whannell, Bille Brown","Horror, Thriller",5.3
+407,Visioneers,2008,94.0,Jared Drake,"Zach Galifianakis, Judy Greer, Mía Maestro","Comedy, Drama, Sci-Fi",5.9
+408,Nature's Grave,2008,88.0,Jamie Blanks,"Jim Caviezel, Claudia Karvan, Star","Drama, Horror, Thriller",5.1
+409,A Son of the Sun,2008,89.0,Onur Ünlü,"Haluk Bilginer, Özgü Namal, Köksal Engür","Comedy, Fantasy",7.0
+410,House,2008,88.0,Robby Henson,"Reynaldo Rosales, Heidi Dippold, Michael Madsen",Horror,4.5
+411,Shuttle,2008,107.0,Edward Anderson,"Tony Curran, Peyton List, Cameron Goodman","Crime, Drama, Mystery",5.6
+412,Kismat Konnection,2008,153.0,Aziz Mirza,"Shahid Kapoor, Vidya Balan, Vishal Malhotra","Comedy, Drama, Romance",5.3
+413,Troubled Water,2008,115.0,Erik Poppe,"Pål Sverre Hagen, Trine Dyrholm, Ellen Dorrit Petersen","Drama, Music",7.5
+414,Cherry Blossoms,2008,127.0,Doris Dörrie,"Elmar Wepper, Hannelore Elsner, Aya Irizuki","Drama, Romance",7.6
+415,Goodbye Solo,2008,91.0,Ramin Bahrani,"Souleymane Sy Savane, Red West, Diana Franco Galindo",Drama,7.3
+416,The Echo,2008,96.0,Yam Laranas,"Jesse Bradford, Amelia Warner, Carlos Leon","Drama, Horror, Mystery",5.5
+417,Sleepwalking,2008,101.0,William Maher,"Charlize Theron, Nick Stahl, AnnaSophia Robb",Drama,6.1
+418,The World is Big and Salvation Lurks Around the Corner,2008,105.0,Stephan Komandarev,"Predrag 'Miki' Manojlovic, Carlo Ljubek, Hristo Mutafchiev",Drama,7.9
+419,Vinyan,2008,96.0,Fabrice du Welz,"Emmanuelle Béart, Rufus Sewell, Petch Osathanugrah","Drama, Horror, Thriller",5.2
+420,Dorothy Mills,2008,102.0,Agnès Merlet,"Carice van Houten, Jenn Murray, David Wilmot","Drama, Horror, Mystery",6.0
+421,Where in the World Is Osama Bin Laden?,2008,90.0,Morgan Spurlock,"Morgan Spurlock, George Bush, Dick Cheney","Documentary, Comedy, War",6.5
+422,Everlasting Moments,2008,131.0,Jan Troell,"Maria Heiskanen, Mikael Persbrandt, Jesper Christensen","Drama, History",7.5
+423,Dante 01,2008,82.0,Marc Caro,"Lambert Wilson, Linh-Dan Pham, Dominique Pinon","Adventure, Drama, Sci-Fi",4.8
+424,The Sky Crawlers,2008,122.0,Mamoru Oshii,"Rinko Kikuchi, Ryô Kase, Shôsuke Tanihara","Animation, Drama, Sci-Fi",6.7
+425,The Poker House,2008,93.0,Lori Petty,"Jennifer Lawrence, Javon Johnson, Sophi Bairley",Drama,6.3
+426,Tashan,2008,120.0,Vijay Krishna Acharya,"Akshay Kumar, Saif Ali Khan, Kareena Kapoor","Action, Comedy, Drama",3.8
+427,Were the World Mine,2008,95.0,Tom Gustafson,"Tanner Cohen, Wendy Robie, Judy McLane","Adventure, Comedy, Fantasy",6.8
+428,The Headless Woman,2008,87.0,Lucrecia Martel,"María Onetto, Claudia Cantero, César Bordón","Drama, Mystery, Thriller",6.5
+429,Disgrace,2008,119.0,Steve Jacobs,"John Malkovich, Natalie Becker, Jessica Haines",Drama,6.5
+430,The Masked Gang: Cyprus,2008,87.0,Murat Aslan,"Peker Açikalin, Safak Sezer, Cengiz Küçükayvaz",Comedy,3.2
+431,Dark Planet,2008,115.0,Fedor Bondarchuk,"Vasiliy Stepanov, Yulia Snigir, Pyotr Fyodorov","Action, Adventure, Sci-Fi",5.1
+432,ThanksKilling,2008,70.0,Jordan Downey,"Wanda Lust, Natasha Cordova, Lindsey Anderson","Comedy, Horror, Thriller",4.2
+433,Naruto Shippuden: The Movie - Bonds,2008,98.0,Hajime Kamegaki,"Junko Takeuchi, Chie Nakamura, Noriaki Sugiyama","Animation, Action, Fantasy",6.8
+434,Última Parada 174,2008,110.0,Bruno Barreto,"Michel Gomes, Cris Vianna, Marcello Melo Jr.","Crime, Drama, Thriller",7.1
+435,Baghead,2008,84.0,"Jay Duplass, Mark Duplass","Ross Partridge, Steve Zissis, Greta Gerwig","Comedy, Drama, Horror",6.0
+436,More Than a Game,2008,105.0,Kristopher Belman,"LeBron James, Dru Joyce, Romeo Travis","Documentary, Biography, Sport",7.6
+437,Shaurya,2008,149.0,Samar Khan,"Rahul Bose, Jaaved Jaaferi, Minissha Lamba","Crime, Drama, Thriller",7.2
+438,Breathless,2008,130.0,Yang Ik-joon,"Kim Kkobbi, Hwan Lee, Yang Ik-joon","Crime, Drama",7.5
+439,Birds of America,2008,85.0,Craig Lucas,"Matthew Perry, Ben Foster, Ginnifer Goodwin","Comedy, Drama",6.0
+440,Zift,2008,92.0,Javor Gardev,"Zachary Baharov, Tanya Ilieva, Vladimir Penev","Crime, Drama, Mystery",7.2
+441,Strictly Sexual,2008,100.0,Joel Viertel,"Amber Benson, Johann Urb, Kristen Kerr","Comedy, Drama, Romance",6.2
+442,Scusa ma ti chiamo amore,2008,103.0,Federico Moccia,"Raoul Bova, Michela Quattrociocche, Francesca Ferrazzo",Romance,6.1
+443,O... Çocuklari,2008,120.0,Murat Saraçoglu,"Demet Akbag, Özgü Namal, Sarp Apak","Comedy, Drama",6.4
+444,The Horseman,2008,96.0,Steven Kastrissios,"Peter Marshall, Caroline Marohasy, Brad McMurray","Action, Crime, Thriller",6.5
+445,Hipsters,2008,130.0,Valeriy Todorovskiy,"Anton Shagin, Oksana Akinshina, Evgenia Brik","Drama, Musical, Romance",7.0
+446,Boogeyman 3,2008,94.0,Gary Jones,"Erin Cahill, Charles Hittinger, Mimi Michaels","Horror, Thriller",4.6
+447,A Frozen Flower,2008,133.0,"Shin Jae Myung, Kim Su-Jin-I, Ha Yoo","Zo In-sung, Ju Jin-mo, Song Ji-hyo","Drama, History, Romance",7.1
+448,35 Shots of Rum,2008,100.0,Claire Denis,"Alex Descas, Mati Diop, Nicole Dogué",Drama,7.1
+449,Camino,2008,138.0,Javier Fesser,"Nerea Camacho, Carme Elias, Mariano Venancio",Drama,7.4
+450,Painted Skin,2008,103.0,"Gordon Chan, Andy Wing-Keung Chin, Danny Ko","Donnie Yen, Xun Zhou, Kun Chen","Action, Drama, Fantasy",6.3
+451,Otis,2008,100.0,Tony Krantz,"Tarah Paige, Bostin Christopher, Ashley Johnson","Comedy, Crime, Horror",5.9
+452,Jolene,2008,121.0,Dan Ireland,"Jessica Chastain, Frances Fisher, Rupert Friend",Drama,6.4
+453,Sugar,2008,114.0,"Anna Boden, Ryan Fleck","Algenis Perez Soto, Jose Rijo, Walki Cuevas","Drama, Sport",7.2
+454,Roman Polanski: Wanted and Desired,2008,99.0,Marina Zenovich,"Andrew Braunsberg, Richard Brenneman, Douglas Dalton","Documentary, Crime",7.2
+455,God Tussi Great Ho,2008,152.0,Rumi Jaffery,"Amitabh Bachchan, Salman Khan, Priyanka Chopra Jonas","Comedy, Fantasy",3.7
+456,Kuruvi,2008,150.0,Dharani,"Joseph Vijay, Trisha Krishnan, Suman","Action, Comedy, Drama",4.3
+457,1968 Tunnel Rats,2008,96.0,Uwe Boll,"Michael Paré, Wilson Bethel, Mitch Eakins","Action, Drama, War",4.8
+458,Cash,2008,100.0,Éric Besnard,"Jean Dujardin, Jean Reno, Valeria Golino","Comedy, Crime, Thriller",5.9
+459,The Man Who Loved Yngve,2008,90.0,Stian Kristiansen,"Rolf Kristian Larsen, Arthur Berning, Ida Elise Broch","Comedy, Drama, Music",7.0
+460,Home,2008,98.0,Ursula Meier,"Isabelle Huppert, Olivier Gourmet, Adélaïde Leroux",Drama,6.9
+461,Home Movie,2008,77.0,Christopher Denham,"Lucian Maisel, Cady McClain, Adrian Pasdar","Drama, Horror, Thriller",5.5
+462,Is Anybody There?,2008,94.0,John Crowley,"Michael Caine, Bill Milner, Anne-Marie Duff",Drama,6.6
+463,The Beaches of Agnès,2008,112.0,Agnès Varda,"Agnès Varda, André Lubrano, Blaise Fournier","Documentary, Biography",8.0
+464,Camille,2008,94.0,Gregory Mackenzie,"Sienna Miller, James Franco, David Carradine","Comedy, Drama, Fantasy",5.9
+465,Afterschool,2008,120.0,Antonio Campos,"Ezra Miller, Jeremy Allen White, Emory Cohen","Drama, Mystery",6.0
+466,Sita Sings the Blues,2008,82.0,Nina Paley,"Annette Hanshaw, Aseem Chhabra, Bhavana Nagulapally","Animation, Comedy, Fantasy",7.6
+467,Killer Bean Forever,2008,85.0,Jeff Lew,"Vegas J. Jenkins, Bryan Session, Matthew Tyler","Animation, Action, Adventure",6.6
+468,Ulak,2008,109.0,Çagan Irmak,"Çetin Tekindor, Hümeyra, Yetkin Dikinciler","Drama, Fantasy, Mystery",6.8
+469,Gardens of the Night,2008,110.0,Damian Harris,"Gillian Jacobs, John Malkovich, Ryan Simpkins",Drama,6.8
+470,Global Metal,2008,93.0,"Sam Dunn, Scot McFadyen","Tom Araya, Ken Ayugai, Rafael Bittencourt","Documentary, Music",7.9
+471,Nothing Like the Holidays,2008,98.0,Alfredo Rodriguez de Villa,"John Leguizamo, Freddy Rodríguez, Debra Messing","Comedy, Drama, Romance",6.1
+472,Food Matters,2008,80.0,"James Colquhoun, Carlo Ledesma","Vicky Blewitt, Ian Brighthope, Jerome Burne",Documentary,7.6
+473,Yuvvraaj,2008,151.0,Subhash Ghai,"Salman Khan, Anil Kapoor, Zayed Khan","Comedy, Drama, Musical",4.1
+474,Bad Biology,2008,84.0,Frank Henenlotter,"Charlee Danielson, Anthony Sneed, Mark Wilson","Comedy, Horror",4.7
+475,Tambourine,2008,110.0,Parisa Bakhtavar,"Baran Kosari, Saber Abar, Mehran Modiri","Comedy, Drama",6.9
+476,"Not Quite Hollywood: The Wild, Untold Story of Ozploitation!",2008,103.0,Mark Hartley,"Phillip Adams, Glory Annen, Christine Amor","Documentary, History",7.6
+477,Bathory: Countess of Blood,2008,141.0,Juraj Jakubisko,"Anna Friel, Karel Roden, Vincent Regan","Biography, Drama, Fantasy",5.7
+478,Deal,2008,86.0,Gil Cates Jr.,"Burt Reynolds, Bret Harrison, Maria Mason","Comedy, Drama",5.3
+479,Tony Manero,2008,97.0,Pablo Larraín,"Alfredo Castro, Amparo Noguera, Héctor Morales","Drama, Music",6.8
+480,The Hide,2008,82.0,Marek Losey,"Alex Macqueen, Phil Campbell, Laura Hopwood",Thriller,6.4
+481,The Skeptic,2008,89.0,Tennyson Bardwell,"Tim Daly, Tom Arnold, Zoe Saldaña","Horror, Thriller",5.6
+482,Adam Resurrected,2008,106.0,Paul Schrader,"Jeff Goldblum, Willem Dafoe, Cristian Motiu","Drama, War",6.2
+483,The Longshots,2008,94.0,Fred Durst,"Ice Cube, Keke Palmer, Tasha Smith","Biography, Comedy, Drama",5.6
+484,Stone of Destiny,2008,96.0,Charles Martin Smith,"Charlie Cox, Kate Mara, Stephen McCole","Adventure, Comedy, Crime",6.7
+485,Fatso,2008,91.0,Arild Fröhlich,"Nils Jørgen Kaalstad, Josefin Ljungman, Kyrre Hellum","Comedy, Drama",5.6
+486,Dream Boy,2008,88.0,James Bolton,"Stephan Bender, Thomas Jay Ryan, Diana Scarwid","Drama, Romance",6.2
+487,Cape No. 7,2008,129.0,Te-Sheng Wei,"Van Fan, Chie Tanaka, Min-Hsiung","Comedy, Drama, Music",7.0
+488,Private Valentine: Blonde & Dangerous,2008,98.0,Steve Miner,"Jessica Simpson, Vivica A. Fox, Steve Guttenberg","Adventure, Comedy, Drama",4.3
+489,Manhunt,2008,78.0,Patrik Syversen,"Henriette Bruusgaard, Jørn Bjørn Fuller Gee, Lasse Valdal",Horror,5.1
+490,Scandal Makers,2008,108.0,Kang Hyoung-chul,"Cha Tae-hyun, Park Bo-young, Il-Kwon Ahn","Comedy, Drama, Music",7.2
+491,Take the Trash,2008,85.0,Rasmus Heide,"Thure Lindhardt, Sidse Babett Knudsen, Mick Øgendahl",Comedy,5.8
+492,Midnight Movie,2008,82.0,Jack Messitt,"Rebekah Brandes, Daniel Bonjour, Greg Cirulnick","Fantasy, Horror, Thriller",5.1
+493,1920,2008,143.0,Vikram Bhatt,"Rakhi Sawant, Bob Brahmbhatt, Rajneesh Duggal","Horror, Mystery, Thriller",6.4
+494,August,2008,88.0,Austin Chick,"Josh Hartnett, Naomie Harris, Adam Scott",Drama,5.3
+495,Mid-August Lunch,2008,75.0,Gianni Di Gregorio,"Valeria De Franciscis, Marina Cacciotti, Maria Calì","Comedy, Drama",6.9
+496,Morphine,2008,110.0,Aleksey Balabanov,"Leonid Bichevin, Ingeborga Dapkunaite, Andrey Panin",Drama,7.2
+497,Aanrijding in Moscou,2008,102.0,Christophe Van Rompaey,"Barbara Sarafian, Jurgen Delnaet, Johan Heldenbergh","Comedy, Drama, Romance",7.2
+498,Cyborg She,2008,115.0,Jae-young Kwak,"Haruka Ayase, Keisuke Koide, Risa Ai","Action, Comedy, Romance",6.9
+499,Trailer Park of Terror,2008,98.0,Steven Goldmann,"Nichole Hiltz, Lew Temple, Jeanette Brox",Horror,5.2
+500,Bart Got a Room,2008,80.0,Brian Hecker,"Steven Kaplan, William H. Macy, Cheryl Hines","Comedy, Drama, Romance",5.7
+501,Conspiracy,2008,90.0,Adam Marcus,"Val Kilmer, Gary Cole, Jennifer Esposito","Mystery, Thriller",4.6
+502,American Teen,2008,95.0,Nanette Burstein,"Hannah Bailey, Jake Tusing, Megan Krizmanich",Documentary,6.4
+503,Suspect X,2008,128.0,Hiroshi Nishitani,"Masaharu Fukuyama, Kô Shibasaki, Kazuki Kitamura","Crime, Drama, Mystery",7.4
+504,Afterwards,2008,107.0,Gilles Bourdos,"Romain Duris, John Malkovich, Evangeline Lilly","Drama, Mystery, Thriller",5.7
+505,An Empress and the Warriors,2008,99.0,Siu-Tung Ching,"Kelly Chen, Donnie Yen, Leon Lai","Action, Drama, History",5.8
+506,Quiet Chaos,2008,105.0,Antonello Grimaldi,"Nanni Moretti, Valeria Golino, Isabella Ferrari","Drama, Romance",6.8
+507,Standard Operating Procedure,2008,116.0,Errol Morris,"Megan Ambuhl Graner, Javal Davis, Ken Davis","Documentary, Crime, War",7.4
+508,Dream,2008,95.0,Kim Ki-duk,"Joe Odagiri, Lee Na-young, Park Ji-ah","Drama, Fantasy, Mystery",6.5
+509,Middle of Nowhere,2008,95.0,John Stockwell,"Eva Amurri, Anton Yelchin, Willa Holland","Comedy, Drama, Romance",6.4
+510,The Flight Before Christmas,2008,80.0,"Michael Hegner, Kari Juusonen","Olli Jantunen, Hannu-Pekka Björkman, Vuokko Hovatta","Animation, Adventure, Family",6.1
+511,Semum,2008,116.0,"Hasan Karacadag, Gizem Karaca","Ayça Inci, Burak Hakki, Cem Kurtoglu","Crime, Fantasy, Horror",5.0
+512,Asylum,2008,93.0,David R. Ellis,"Sarah Roemer, Jake Muxworthy, Mark Rolston",Horror,4.0
+513,Ichi,2008,120.0,Fumihiko Sori,"Haruka Ayase, Shidô Nakamura, Yôsuke Kubozuka","Action, Crime, Drama",6.5
+514,Blackout,2008,85.0,Rigoberto Castañeda,"Amber Tamblyn, Aidan Gillen, Armie Hammer","Horror, Mystery, Thriller",5.0
+515,How to Be,2008,85.0,Oliver Irving,"Robert Pattinson, Rebecca Pidgeon, Powell Jones","Comedy, Drama",5.3
+516,Radio Day,2008,100.0,Dmitriy Dyachenko,"Diana Arbenina, Leonid Barats, Mikhail Beskorovayny",Comedy,7.3
+517,A Film with Me in It,2008,89.0,Ian Fitzgibbon,"Dylan Moran, Mark Doherty, Keith Allen","Comedy, Thriller",6.6
+518,Blonde and Blonder,2008,95.0,"Dean Hamilton, Bob Clark","Pamela Anderson, Denise Richards, Emmanuelle Vaugier","Comedy, Crime",2.8
+519,The Wrecking Crew!,2008,101.0,Denny Tedesco,"Brian Wilson, Dick Clark, Cher","Documentary, History, Music",7.7
+520,A Boyfriend for My Wife,2008,100.0,Juan Taratuto,"Adrián Suar, Valeria Bertuccelli, Gabriel Goity","Comedy, Romance",6.7
+521,If You Are the One,2008,130.0,Xiaogang Feng,"You Ge, Shu Qi, Wei Fan","Comedy, Drama, Romance",6.8
+522,Akiresu to kame,2008,119.0,Takeshi Kitano,"Takeshi Kitano, Kanako Higuchi, Makoto Araki","Comedy, Drama",7.3
+523,Dean Spanley,2008,100.0,Toa Fraser,"Jeremy Northam, Sam Neill, Bryan Brown","Comedy, Drama",7.2
+524,The Jerk Theory,2008,93.0,Scott S. Anderson,"Josh Henderson, Jenna Dewan, Lauren Storm","Comedy, Music, Romance",5.4
+525,A Complete History of My Sexual Failures,2008,90.0,Chris Waitt,"Aleksandra Boyarskaya, Danielle McLeod, Olivia Trench","Documentary, Comedy",6.2
+526,Chiko,2008,92.0,Özgür Yildirim,"Denis Moschitto, Moritz Bleibtreu, Volkan Özcan","Crime, Drama",6.8
+527,Parugu,2008,,Bommarillu Baskar,"Allu Arjun, Sheela Kaur, Prakash Raj","Action, Romance",7.1
+528,A Kind of America 2,2008,110.0,Gábor Herendi,"Tibor Szervét, Csaba Pindroch, Gyözö Szabó",Comedy,6.8
+529,Kung Fu Dunk,2008,100.0,Yen-Ping Chu,"Jay Chou, Eric Tsang, Gang Wang","Action, Comedy, Sport",4.8
+530,Phobia,2008,112.0,"Banjong Pisanthanakun, Paween Purijitpanya, Yongyoot Thongkongtoon","Ae Maneerat Kam-Uan, Witawat Singlampong, Apinya Sakuljaroensuk","Drama, Horror, Mystery",6.6
+531,Gutterballs,2008,96.0,Ryan Nicholson,"Alastair Gamble, Mihola Terzic, Nathan Witte","Comedy, Horror, Mystery",4.5
+532,Clubbed,2008,95.0,Neil Thompson,"Mel Raido, Colin Salmon, Shaun Parkes","Action, Crime, Drama",6.7
+533,Secret Defense,2008,100.0,Philippe Haïm,"Gérard Lanvin, Vahina Giocante, Nicolas Duvauchelle",Thriller,6.3
+534,The Deal,2008,100.0,Steven Schachter,"William H. Macy, Meg Ryan, LL Cool J","Comedy, Romance",5.6
+535,Skin,2008,107.0,Anthony Fabian,"Sophie Okonedo, Sam Neill, Alice Krige","Biography, Drama",6.9
+536,Gamyam,2008,120.0,Radha Krishna Jagarlamudi,"Sharwanand, Allari Naresh, Kamalinee Mukherjee",Drama,8.3
+537,Breathing Room,2008,89.0,"John Suits, Gabriel Cowan","Ailsa Marshall, Michael McLafferty, David Higlen","Horror, Mystery, Thriller",4.3
+538,$5 a Day,2008,98.0,Nigel Cole,"Christopher Walken, Alessandro Nivola, Sharon Stone","Comedy, Drama",6.3
+539,Hasan wa Murqus,2008,120.0,Rami Imam,"Adel Emam, Omar Sharif, Lebleba","Comedy, Drama",6.8
+540,Love Me No More,2008,85.0,Jean Becker,"Albert Dupontel, Marie-Josée Croze, Pierre Vaneck","Drama, Romance",7.1
+541,Trucker,2008,90.0,James Mottern,"Michelle Monaghan, Nathan Fillion, Benjamin Bratt",Drama,6.5
+542,No Man's Land: The Rise of Reeker,2008,88.0,Dave Payne,"Michael Muhney, Stephen Martines, Lew Temple","Horror, Thriller",4.8
+543,The Merry Gentleman,2008,110.0,Michael Keaton,"Michael Keaton, Kelly Macdonald, Bobby Cannavale","Crime, Drama, Thriller",6.3
+544,Johnny Mad Dog,2008,98.0,Jean-Stéphane Sauvaire,"Christophe Minie, Daisy Victoria Vandy, Joseph Duo","Drama, War",6.7
+545,Garden Party,2008,88.0,Jason Freeland,"Erik Smith, Tierra Abbott, Vinessa Shaw",Drama,5.5
+546,Mulligans,2008,92.0,Chip Hale,"Dan Payne, Thea Gill, Charlie David","Drama, Romance",6.2
+547,Stag Night,2008,84.0,Peter A. Dowling,"Kip Pardue, Vinessa Shaw, Breckin Meyer","Horror, Thriller",4.8
+548,The Soviet Story,2008,86.0,Edvins Snore,"Jon Strickland, Vladimir Bukovsky, Vladimir Lenin","Documentary, History, War",8.0
+549,Sky Kids,2008,118.0,Rocco DeVilliers,"Jesse James, Reiley McClendon, Stephen Baldwin","Action, Adventure, Drama",6.8
+550,Adoration,2008,100.0,Atom Egoyan,"Devon Bostick, Rachel Blanchard, Louca Tassone","Drama, Romance",6.3
+551,$9.99,2008,78.0,Tatia Rosenthal,"Geoffrey Rush, Anthony LaPaglia, Samuel Johnson","Animation, Drama, Fantasy",6.7
+552,Columbus Day,2008,90.0,Charles Burmeister,"Val Kilmer, Bobb'e J. Thompson, Richard Edson","Crime, Thriller",5.2
+553,The Mysteries of Pittsburgh,2008,95.0,Rawson Marshall Thurber,"Jon Foster, Peter Sarsgaard, Sienna Miller","Adventure, Comedy, Drama",5.4
+554,Worlds Apart,2008,116.0,Niels Arden Oplev,"Rosalinde Mynster, Pilou Asbæk, Jens Jørn Spottag",Drama,7.0
+555,My Only Sunshine,2008,121.0,Reha Erdem,"Elit Iscan, Erdal Besikçioglu, Levend Yilmaz",Drama,7.3
+556,Eskalofrío,2008,95.0,Isidro Ortiz,"Junio Valverde, Francesc Orella, Mar Sodupe","Horror, Thriller",6.0
+557,Idiots and Angels,2008,78.0,Bill Plympton,"Mike Juarez, Carrie Keranen, Marc Diraison","Animation, Comedy, Drama",7.0
+558,Finding Amanda,2008,96.0,Peter Tolan,"Matthew Broderick, Brittany Snow, Maura Tierney","Comedy, Drama",5.5
+559,Jerichow,2008,93.0,Christian Petzold,"Benno Fürmann, Nina Hoss, Hilmi Sözer",Drama,7.0
+560,TBS,2008,88.0,Pieter Kuijpers,"Theo Maassen, Lisa Smit, Bob Schwarze","Crime, Thriller",7.1
+561,Süt,2008,102.0,Semih Kaplanoglu,"Melih Selcuk, Basak Köklükaya, Riza Akin",Drama,6.6
+562,Don't Look Down,2008,85.0,Eliseo Subiela,"Antonella Costa, Leandro Stivelman, Hugo Arana","Drama, Romance",5.9
+563,Tulpan,2008,100.0,Sergei Dvortsevoy,"Askhat Kuchinchirekov, Tolepbergen Baisakalov, Samal Yeslyamova","Comedy, Drama",7.1
+564,Another Gay Sequel: Gays Gone Wild!,2008,99.0,Todd Stephens,"Jonah Blechman, Jake Mosser, Aaron Michael Davies","Comedy, Romance",4.0
+565,Leonera,2008,113.0,Pablo Trapero,"Martina Gusmán, Guadalupe Rébora, Francisco Marquez","Crime, Drama",7.0
+566,The Gamers: Dorkness Rising,2008,105.0,Matt Vancil,"Nathan Rice, Carol Roscoe, Brian S. Lewis","Action, Adventure, Comedy",7.3
+567,Welcome to Sajjanpur,2008,133.0,Shyam Benegal,"Shreyas Talpade, Amrita Rao, Ravi Kishan","Comedy, Drama",6.9
+568,Turneja,2008,102.0,Goran Markovic,"Tihomir Stanic, Jelena Djokic, Dragan Nikolic","Action, Adventure, Comedy",7.3
+569,Tutta la vita davanti,2008,117.0,Paolo Virzì,"Isabella Ragonese, Massimo Ghini, Valerio Mastandrea","Comedy, Drama, Romance",6.9
+570,A Matador's Mistress,2008,92.0,Menno Meyjes,"Adrien Brody, Penélope Cruz, Santiago Segura","Biography, Drama, Romance",5.6
+571,Dakota Skye,2008,89.0,John Humber,"Scott F. Anderson, Matt Baker, Eileen Boylan","Drama, Romance",6.4
+572,Muro: Nalet Olsun Içimdeki Insan Sevgisine,2008,90.0,Zübeyr Sasmaz,"Mustafa Üstündag, Sefik Onatoglu, Selim Erdogan",Comedy,3.9
+573,Coming Soon,2008,95.0,Sophon Sakdaphisit,"Vorakarn Rojjanavatchra, Chantavit Dhanasevi, Jear Sarinrat Thomas","Horror, Thriller",6.0
+574,The Last Word,2008,90.0,Geoffrey Haley,"Wes Bentley, Winona Ryder, Ray Romano","Drama, Romance",6.2
+575,Death Bell,2008,88.0,Hong-Seung Yoon,"Lee Beom-su, Kim Bum, In-sook Choi","Horror, Thriller",5.5
+576,Journey to Saturn,2008,90.0,"Thorbjørn Christoffersen, Craig Frank","Casper Christensen, Frank Hvam, Ali Kazim","Animation, Action, Adventure",5.7
+577,One Two Three,2008,135.0,Ashwani Dhir,"Tusshar Kapoor, Suniel Shetty, Paresh Rawal","Comedy, Crime",5.5
+578,Palermo Shooting,2008,124.0,Wim Wenders,"Campino, Giovanna Mezzogiorno, Dennis Hopper",Drama,6.1
+579,Delgo,2008,94.0,"Marc F. Adler, Jason Maurer","Freddie Prinze Jr., Val Kilmer, Anne Bancroft","Animation, Adventure, Comedy",4.2
+580,Just Add Water,2008,95.0,Hart Bochner,"Dylan Walsh, Jonah Hill, Justin Long","Comedy, Romance",5.6
+581,Seventh Moon,2008,87.0,Eduardo Sánchez,"Amy Smart, Dennis Chan, Tim Chiou","Horror, Thriller",4.5
+582,Sparrow,2008,87.0,Johnnie To,"Simon Yam, Kelly Lin, Ka-Tung Lam","Drama, Romance",6.7
+583,The Pirates Who Don't Do Anything: A VeggieTales Movie,2008,85.0,Mike Nawrocki,"Tim Hodge, Mike Nawrocki, Phil Vischer","Animation, Adventure, Comedy",5.6
+584,The Guitar,2008,95.0,Amy Redford,"Saffron Burrows, Isaach De Bankolé, Paz de la Huerta","Drama, Music, Romance",6.4
+585,Iki Dil Bir Bavul,2008,81.0,"Özgür Dogan, Orhan Eskiköy","Emre Aydin, Ersin Büyükgöl, Birgül Huz","Documentary, Drama",7.4
+586,Sunday,2008,135.0,Rohit Shetty,"Ajay Devgn, Ayesha Takia, Arshad Warsi","Action, Comedy, Mystery",5.5
+587,Cocaine Cowboys 2,2008,97.0,Billy Corben,"Nelson Andreu, Jorge Ayala, Griselda Blanco","Documentary, Crime, History",6.7
+588,Killer Movie,2008,93.0,Jeff Fisher,"Paul Wesley, Kaley Cuoco, Gloria Votsis","Comedy, Horror, Mystery",4.4
+589,Shifty,2008,85.0,Eran Creevy,"Riz Ahmed, Daniel Mays, Jason Flemyng","Crime, Drama, Thriller",6.5
+590,Pokémon: Giratina and the Sky Warrior,2008,100.0,Kunihiko Yuyama,"Rica Matsumoto, Amy Palant, Ikue Ôtani","Animation, Action, Adventure",6.0
+591,Downloading Nancy,2008,102.0,Johan Renck,"Maria Bello, Rufus Sewell, Jason Patric","Drama, Thriller",5.7
+592,Jack and Jill vs. the World,2008,90.0,Vanessa Parise,"Freddie Prinze Jr., Taryn Manning, Peter Stebbings","Comedy, Drama, Romance",5.5
+593,Thoda Pyaar Thoda Magic,2008,145.0,Kunal Kohli,"Saif Ali Khan, Rani Mukerji, Rishi Kapoor","Comedy, Drama, Family",5.0
+594,Ask Tutulmasi,2008,99.0,Murat Seker,"Tolgahan Sayisman, Fahriye Evcen Özçivit, Tim Seyfi","Comedy, Romance",5.5
+595,Linewatch,2008,90.0,Kevin Bray,"Cuba Gooding Jr., Omari Hardwick, Evan Ross","Crime, Drama, Thriller",5.5
+596,Smother,2008,92.0,Vince Di Meglio,"Dax Shepard, Liv Tyler, Diane Keaton","Comedy, Drama",4.6
+597,Rough Cut,2008,113.0,Hun Jang,"So Ji-seob, Kang Ji-hwan, Ko Chang-seok","Action, Crime, Drama",7.0
+598,Pandora's Box,2008,112.0,Yesim Ustaoglu,"Tsilla Chelton, Derya Alabora, Onur Ünsal",Drama,7.1
+599,Red Mist,2008,82.0,Paddy Breathnach,"Arielle Kebbel, Sarah Carter, Stephen Dillane","Fantasy, Horror, Sci-Fi",4.9
+600,Pulse 2: Afterlife,2008,89.0,Joel Soisson,"Todd Giebenhain, Diane Ayala Goldner, Rachel Robinson","Drama, Horror, Sci-Fi",3.4
+601,The Candidate,2008,90.0,Kasper Barfoed,"Nikolaj Lie Kaas, Ulf Pilgaard, Laura Christensen",Thriller,6.2
+602,Linkeroever,2008,102.0,Pieter Van Hees,"Eline Kuppens, Matthias Schoenaerts, Sien Eggers","Drama, Horror, Mystery",5.9
+603,Faubourg 36,2008,120.0,Christophe Barratier,"Gérard Jugnot, Clovis Cornillac, Kad Merad","Drama, Music, Musical",6.5
+604,Linha de Passe,2008,113.0,"Walter Salles, Daniela Thomas","Sandra Corveloni, João Baldasserini, Vinícius de Oliveira","Drama, Sport",7.1
+605,"Bleach: Fade to Black, I Call Your Name",2008,94.0,Noriyuki Abe,"Masakazu Morita, Fumiko Orikasa, Aya Hirano","Animation, Action, Drama",7.1
+606,Lower Learning,2008,97.0,Mark Lafferty,"Jason Biggs, Eva Longoria, Rob Corddry",Comedy,4.0
+607,Bujjigaadu: Made in Chennai,2008,150.0,Puri Jagannadh,"Prabhas, Trisha Krishnan, Mohan Babu","Action, Drama, Romance",6.3
+608,The Best Movie,2008,110.0,Kirill Kuzin,"Garik Kharlamov, Mikhail Galustyan, Armen Dzhigarkhanyan",Comedy,3.1
+609,The Kautokeino Rebellion,2008,96.0,Nils Gaup,"Mikkel Gaup, Anni-Kristiina Juuso, Aslat Mahtte Gaup","Drama, History",6.8
+610,Crips and Bloods: Made in America,2008,93.0,Stacy Peralta,"Jim Brown, Tony Muhammad, Kershaun Scott","Documentary, Crime",6.8
+611,Shirin,2008,92.0,Abbas Kiarostami,"Mahnaz Afshar, Pegah Ahangarani, Taraneh Alidoosti",Drama,6.7
+612,Thomas Kinkade's Christmas Cottage,2008,96.0,Michael Campus,"Peter O'Toole, Jared Padalecki, Marcia Gay Harden","Biography, Drama",6.3
+613,Loaded,2008,98.0,Alan Pao,"Jesse Metcalfe, Corey Large, Monica Keena","Action, Crime, Drama",4.5
+614,Tear This Heart Out,2008,107.0,Roberto Sneider,"Ana Claudia Talancón, Daniel Giménez Cacho, José María de Tavira",Drama,7.4
+615,Miss Conception,2008,104.0,Eric Styles,"Heather Graham, Mia Kirshner, Orlando Seale","Comedy, Romance",4.6
+616,De l'autre côté du lit,2008,93.0,Pascale Pouzadoux,"Sophie Marceau, Dany Boon, Antoine Duléry",Comedy,5.5
+617,The Loss of a Teardrop Diamond,2008,102.0,Jodie Markell,"Bryce Dallas Howard, Chris Evans, Will Patton","Drama, Romance",5.8
+618,Mustafa,2008,130.0,Can Dündar,"Mustafa Kemal Atatürk, Latife Ussaki, Can Dündar","Documentary, Biography, Drama",6.7
+619,Bride Flight,2008,130.0,Ben Sombogaart,"Karina Smulders, Anna Drijver, Elise Schaap","Drama, Romance",7.0
+620,20th Century Boys 1: Beginning of the End,2008,142.0,"Kimura Hisashi, Yukihiko Tsutsumi","Toshiaki Karasawa, Etsushi Toyokawa, Takako Tokiwa","Adventure, Fantasy, Mystery",6.6
+621,Humboldt County,2008,97.0,"Darren Grodsky, Danny Jacobs","Jeremy Strong, Fairuza Balk, Peter Bogdanovich","Comedy, Drama",6.2
+622,2 Alone in Paris,2008,94.0,"Ramzy Bedia, Eric Judor","Ramzy Bedia, Eric Judor, Hafid F. Benamar",Comedy,5.4
+623,The Crew,2008,123.0,Adrian Vitoria,"Scot Williams, Kenny Doughty, Cordelia Bugeja","Action, Crime, Drama",5.9
+624,American Violet,2008,103.0,Tim Disney,"Nicole Beharie, Will Patton, Alfre Woodard",Drama,6.9
+625,Tenure,2008,89.0,Mike Million,"Luke Wilson, Gretchen Mol, David Koechner","Comedy, Drama",6.0
+626,Yaaradi Nee Mohini,2008,174.0,Mithran Jawahar,"Dhanush, Nayanthara, Karthik Kumar","Drama, Romance",7.3
+627,Medicine for Melancholy,2008,88.0,Barry Jenkins,"Wyatt Cenac, Tracey Heggins, John Thurgood","Drama, Romance",6.6
+628,In Tranzit,2008,113.0,Tom Roberts,"Vera Farmiga, Thomas Kretschmann, John Malkovich","Drama, Romance, War",5.7
+629,Stiletto,2008,99.0,Nick Vallelonga,"Stana Katic, Tom Berenger, Paul Sloan","Action, Crime, Drama",4.8
+630,A nyomozó,2008,107.0,Attila Gigor,"Zsolt Anger, András Márton Baló, Péter Blaskó","Comedy, Crime, Drama",7.4
+631,Mere Baap Pehle Aap,2008,163.0,Priyadarshan,"Akshaye Khanna, Paresh Rawal, Genelia Deshmukh","Comedy, Drama, Romance",5.5
+632,The Legend of Drona,2008,138.0,Goldie Behl,"Jayshree Arora, Veer Arya, Abhishek Bachchan","Action, Adventure, Fantasy",2.0
+633,Skirt Day,2008,87.0,Jean-Paul Lilienfeld,"Isabelle Adjani, Denis Podalydès, Khalid Berkouz",Drama,6.9
+634,Love Story 2050,2008,180.0,Harry Baweja,"Harman Baweja, Priyanka Chopra Jonas, Boman Irani","Action, Adventure, Drama",2.7
+635,Laskar Pelangi,2008,124.0,Riri Riza,"Cut Mini Theo, Zulfanny, Ikranagara","Adventure, Drama, Family",7.9
+636,U Me Aur Hum,2008,156.0,Ajay Devgn,"Ajay Devgn, Kajol, Sumeet Raghavan","Drama, Romance",5.8
+637,Exit Speed,2008,91.0,Scott Ziehl,"Desmond Harrington, Lea Thompson, Julie Mond",Thriller,5.2
+638,Pig Hunt,2008,99.0,James Isaac,"Travis Aaron Wade, Tina Huang, Howard Johnson Jr.","Action, Horror, Thriller",4.7
+639,Detoroito Metaru Shiti,2008,104.0,Toshio Lee,"Ken'ichi Matsuyama, Rosa Katô, Ryûji Akiyama","Comedy, Drama, Music",6.6
+640,Everybody Dies But Me,2008,80.0,Valeriya Gay Germanika,"Polina Filonenko, Agniya Kuznetsova, Olga Shuvalova",Drama,6.4
+641,The Betrayed,2008,98.0,Amanda Gusack,"Melissa George, Oded Fehr, Christian Campbell","Crime, Drama, Mystery",5.8
+642,Real Time,2008,90.0,Randall Cole,"Randy Quaid, Jay Baruchel, Jayne Eastwood","Comedy, Drama",6.6
+643,Connected,2008,110.0,Benny Chan,"Louis Koo, Barbie Hsu, Nick Cheung","Action, Adventure, Crime",6.6
+644,Farm House,2008,95.0,George Bessudo,"Jamie Anne Allman, William Lee Scott, Steven Weber","Horror, Mystery, Thriller",5.5
+645,Filth and Wisdom,2008,84.0,Madonna,"Eugene Hutz, Holly Weston, Vicky McClure","Comedy, Drama, Music",5.3
+646,Quid Pro Quo,2008,82.0,Carlos Brooks,"Nick Stahl, Vera Farmiga, Leonardo Nam","Drama, Mystery, Romance",6.1
+647,The Art of Travel,2008,100.0,Thomas Whelan,"Christopher Masterson, Brooke Burns, Johnny Messner",Drama,6.2
+648,Firaaq,2008,101.0,Nandita Das,"Inaamulhaq, Nassar, Shahana Goswami","Drama, History, Thriller",7.3
+649,Kidnap,2008,135.0,Sanjay Gadhvi,"Sanjay Dutt, Imran Khan, Minissha Lamba","Action, Crime, Drama",4.6
+650,One-Eyed Monster,2008,84.0,Adam Fields,"Amber Benson, Jason Graham, Charles Napier","Comedy, Horror, Sci-Fi",4.1
+651,Louise hires a contract killer,2008,94.0,"Benoît Delépine, Gustave Kervern","Yolande Moreau, Bouli Lanners, Benoît Poelvoorde","Comedy, Drama",6.5
+652,Son Ders: Ask ve Üniversite,2008,99.0,"Iraz Okumus, Mustafa Ugur Yagcioglu","Ferhan Sensoy, Kaan Urgancioglu, Ekin Türkmen","Comedy, Drama",6.9
+653,Parasomnia,2008,103.0,William Malone,"Sean Young, Patrick Kilpatrick, Dylan M. McKnight","Horror, Thriller",5.1
+654,1 1/2 Ritter - Auf der Suche nach der hinreißenden Herzelinde,2008,115.0,"Til Schweiger, Torsten Künstler, Christof Wahl","Til Schweiger, Rick Kavanian, Julia Dietze","Adventure, Comedy",3.7
+655,Il cosmo sul comò,2008,100.0,Marcello Cesena,"Aldo Baglio, Giovanni Storti, Giacomo Poretti",Comedy,4.8
+656,Ciao,2008,87.0,Yen Tan,"Adam Neal Smith, Alessandro Calza, Chuck Blaum","Drama, Romance",6.6
+657,Grizzly Park,2008,95.0,Tom Skull,"Glenn Morshower, Shedrack Anderson III, Susan Blakely","Adventure, Comedy, Horror",4.0
+658,Tummien perhosten koti,2008,108.0,Dome Karukoski,"Niilo Syväoja, Tommi Korpela, Kristiina Halttu",Drama,6.8
+659,Acolytes,2008,91.0,Jon Hewitt,"Joel Edgerton, Michael Dorman, Sebastian Gregory","Crime, Drama, Horror",5.5
+660,Anjathe,2008,185.0,Mysskin,"Narain, Prasanna, Ajmal Ameer","Action, Drama, Thriller",8.1
+661,All My Life,2008,119.0,Maher Sabry,"Seham Saneya Adelsalam, Mehammed Amadeus, Janaan Attia","Drama, Romance",4.5
+662,Tears for Sale,2008,86.0,Uros Stojanovic,"Katarina Radivojevic, Sonja Kolacaric, Stefan Kapicic","Comedy, Drama, Fantasy",6.8
+663,Burma VJ: Reporting from a Closed Country,2008,84.0,Anders Østergaard,"George W. Bush, Joshua Min Htut, Ko Muang","Documentary, History, News",7.8
+664,Chameleon,2008,108.0,Krisztina Goda,"Ervin Nagy, Gabriella Hámori, Zsolt Trill","Comedy, Drama, Thriller",7.2
+665,Subramaniapuram,2008,145.0,M. Sasikumar,"Jai, M. Sasikumar, Swathi Reddy","Action, Drama, Thriller",8.2
+666,Poison Ivy: The Secret Society,2008,95.0,Jason Hreno,"Miriam McDonald, Shawna Waldron, Ryan Kennedy","Drama, Thriller",4.2
+667,A Deal Is a Deal,2008,106.0,Jonathan Gershfield,"Mackenzie Crook, Colm Meaney, Sharon Duncan-Brewster","Comedy, Drama",6.2
+668,Reykjavik-Rotterdam,2008,88.0,Óskar Jónasson,"Baltasar Kormákur, Ingvar Sigurdsson, Lilja Nótt Þórarinsdóttir",Thriller,6.7
+669,Wieners,2008,89.0,Mark Steilen,"Kenan Thompson, Zachary Levi, Fran Kranz","Adventure, Comedy",4.2
+670,24 City,2008,112.0,Jia Zhang-ke,"Jianbin Chen, Joan Chen, Liping Lü","Documentary, Drama",7.1
+671,The Human Contract,2008,103.0,Jada Pinkett Smith,"Jason Clarke, Paz Vega, Idris Elba",Drama,5.0
+672,Beast Stalker,2008,109.0,Dante Lam,"Nicholas Tse, Jingchu Zhang, Nick Cheung","Action, Thriller",6.8
+673,Halla Bol,2008,142.0,Rajkumar Santoshi,"Ajay Devgn, Vidya Balan, Pankaj Kapur","Crime, Drama",6.0
+674,An American Affair,2008,93.0,William Olsson,"Gretchen Mol, James Rebhorn, Cameron Bright",Drama,6.1
+675,Varg Veum - Falne engler,2008,95.0,Morten Tyldum,"Trond Espen Seim, Per Kjerstad, Bjørn Floberg","Crime, Drama, Thriller",6.7
+676,Fast Track: No Limits,2008,100.0,Axel Sand,"Erin Cahill, Andrew W. Walker, Alexia Barlier","Action, Sport, Thriller",5.0
+677,Ballast,2008,96.0,Lance Hammer,"Micheal J. Smith Sr., JimMyron Ross, Tarra Riggs",Drama,6.9
+678,Ramadan Mabrouk Abu Elalamain Hamouda,2008,105.0,Wael Ihsan,"Mohamed Henedi, Cyrine AbdelNour, Ezzat Abu Ouf","Comedy, Family, Music",6.5
+679,"It's Not Me, I Swear!",2008,110.0,Philippe Falardeau,"Antoine L'Écuyer, Gabriel Maillé, Catherine Faucher","Comedy, Drama, Family",7.4
+680,"Lovely, Still",2008,92.0,Nik Fackler,"Martin Landau, Ellen Burstyn, Elizabeth Banks","Drama, Romance",7.1
+681,Before the Fall,2008,97.0,F. Javier Gutiérrez,"Víctor Clavijo, Mariana Cordero, Eduard Fernández","Crime, Drama, Sci-Fi",5.9
+682,Heroes,2008,139.0,Samir Karnik,"Sohail Khan, Vatsal Sheth, Amrita Arora","Action, Adventure, Comedy",5.7
+683,À l'aventure,2008,104.0,Jean-Claude Brisseau,"Carole Brana, Arnaud Binard, Nadia Chibani","Drama, Fantasy, Romance",5.4
+684,La fille de Monaco,2008,95.0,Anne Fontaine,"Fabrice Luchini, Roschdy Zem, Stéphane Audran","Comedy, Drama",5.8
+685,Gitler kaput!,2008,95.0,Marius Vaysberg,"Pavel Derevyanko, Anna Semenovich, Yuriy Galtsev","Action, Adventure, Comedy",3.1
+686,Hello,2008,129.0,Atul Agnihotri,"Sharman Joshi, Amrita Arora, Sohail Khan","Drama, Romance",3.3
+687,Machan,2008,109.0,Uberto Pasolini,"Dharmapriya Dias, Gihan De Chickera, Dharshan Dharmaraj","Biography, Comedy, Drama",7.7
+688,Los girasoles ciegos,2008,98.0,José Luis Cuerda,"Maribel Verdú, Javier Cámara, Raúl Arévalo","Drama, History",6.4
+689,Obituary for Escobar,2008,90.0,Milorad Milinkovic,"Vojin Cetkovic, Tamara Garbajs, Zijah Sokolovic","Comedy, Crime",6.3
+690,Ladies,2008,134.0,Tomasz Konecki,"Edyta Olszówka, Anna Dereszowska, Izabela Kuna",Comedy,5.4
+691,Krazzy 4,2008,110.0,Jaideep Sen,"Juhi Chawla, Irrfan Khan, Arshad Warsi","Comedy, Crime, Drama",4.2
+692,Of Time and the City,2008,74.0,Terence Davies,"Terence Davies, George Harrison, Jack Hawkins","Documentary, Biography",7.2
+693,Morgan Pålsson - Världsreporter,2008,84.0,Fredrik Boklund,"Anders Jansson, Johan Wester, Karim Rasheed",Comedy,5.4
+694,Pretty Ugly People,2008,99.0,Tate Taylor,"Missi Pyle, Melissa McCarthy, Larry Sullivan","Comedy, Drama",5.0
+695,A Man Who Was Superman,2008,102.0,Yoon-Chul Jung,"Hwang Jung-min, Jun Ji-hyun, Kang Ae-shim","Comedy, Drama",7.2
+696,Paraiso Travel,2008,116.0,Simon Brand,"Michelle O'Quinn, Louis Arcella, Angelica Blandon",Drama,7.0
+697,Afstiros katallilo,2008,110.0,"Thanasis Papathanasiou, Michalis Reppas","Odysseas Papaspiliopoulos, Pigmalion Dadakaridis, Penelope Pitsouli",Comedy,6.7
+698,Mithya,2008,110.0,Rajat Kapoor,"Ranvir Shorey, Neha Dhupia, Naseeruddin Shah","Comedy, Crime, Thriller",7.0
+699,Affinity,2008,120.0,Tim Fywell,"Zoë Tapper, Anna Madeley, Domini Blythe","Drama, Romance",6.2
+700,The Garden of Sinners: Paradox Spiral,2008,114.0,Takayuki Hirao,"Maaya Sakamoto, Ken'ichi Suzumura, Takako Honda","Animation, Action, Crime",7.9
+701,Chef's Special,2008,111.0,Nacho G. Velilla,"Javier Cámara, Lola Dueñas, Fernando Tejero","Comedy, Romance",6.1
+702,I-4: Loufa & Apallagi,2008,90.0,Vassilis Katsikis,"Thanasis Tsaltabasis, Haris Mavroudis, Petros Lagoutis",Comedy,5.5
+703,Den siste revejakta,2008,90.0,Ulrik Imtiaz Rolfsen,"Kristoffer Joner, Nicolai Cleve Broch, Thomas Bo Larsen","Comedy, Crime, Drama",6.3
+704,Summer Holiday,2008,103.0,Radu Muntean,"Dragos Bucur, Anamaria Marinca, Mimi Branescu","Comedy, Drama",7.0
+705,9 to 5: Days in Porn,2008,113.0,Jens Hoffmann,"Otto Bauer, Audrey Hollander, Belladonna",Documentary,6.3
+706,Twenty:20,2008,195.0,Joshiy,"Mohanlal, Mammootty, Suresh Gopi","Action, Crime, Drama",6.8
+707,Eldorado,2008,80.0,Bouli Lanners,"Bouli Lanners, Fabrice Adde, Philippe Nahon","Comedy, Drama",6.6
+708,Santhosh Subramaniyam,2008,177.0,Mohan Raja,"Ravi Mohan, Genelia Deshmukh, Prakash Raj","Comedy, Romance",7.5
+709,Pulse 3,2008,91.0,Joel Soisson,"Noureen DeWulf, Rider Strong, Lynn Blackburn","Horror, Sci-Fi",3.6
+710,H Dabor,2008,105.0,Ahmed al-Gendy,"Ahmed Mekky, Engy Wegdan, Hassan Hosny",Comedy,6.4
+711,How to Be a Serial Killer,2008,91.0,Luke Ricci,"Dameon Clarke, Matthew Gray Gubler, Laura Regan","Comedy, Crime, Horror",5.4
+712,Detective Conan: Full Score of Fear,2008,116.0,Yasuichirô Yamamoto,"Minami Takayama, Wakana Yamazaki, Akira Kamiya","Animation, Action, Adventure",6.7
+713,Shark in Venice,2008,88.0,Danny Lerner,"Stephen Baldwin, Vanessa Johansson, Hilda van der Meulen","Action, Adventure, Comedy",2.5
+714,K-20: The Fiend with Twenty Faces,2008,137.0,Shimako Sato,"Takeshi Kaneshiro, Takako Matsu, Tôru Nakamura","Action, Adventure, Crime",6.5
+715,Lovecraft: Fear of the Unknown,2008,90.0,Frank H. Woodward,"Robin Atkin Downes, Neil Gaiman, Peter Straub","Documentary, Biography",7.2
+716,Terra Nova,2008,119.0,Aleksandr Melnik,"Konstantin Lavronenko, Andrey Feskov, Marat Basharov","Action, Drama, Thriller",6.6
+717,Destere,2008,90.0,"Ahmet T. Uygun, Gürcan Yurt","Peker Açikalin, Önder Açikbas, Ali Çatalbas","Comedy, Crime",2.6
+718,Trilogia II: I skoni tou hronou,2008,125.0,Theodoros Angelopoulos,"Willem Dafoe, Bruno Ganz, Michel Piccoli",Drama,6.5
+719,The Disappeared,2008,96.0,Johnny Kevorkian,"Harry Treadaway, Greg Wise, Alex Jennings","Drama, Horror, Thriller",5.8
+720,The Garden of Sinners: Remaining Sense of Pain,2008,58.0,Mitsuru Obunai,"Maaya Sakamoto, Ken'ichi Suzumura, Takako Honda","Animation, Action, Crime",7.3
+721,"Otto; or, Up with Dead People",2008,94.0,Bruce LaBruce,"Jey Crisfar, Marcel Schlutt, Nicholas Fox Ricciardi","Comedy, Drama, Fantasy",5.2
+722,Legendary Assassin,2008,89.0,"Chung-Chi Li, Jing Wu","Jing Wu, Celina Jade, Kara Ying Hung Wai","Action, Crime, Thriller",6.1
+723,The Pleasure of Being Robbed,2008,71.0,Josh Safdie,"Bat 'Batman' Baxter, Alex Billig, Wayne Chin",Drama,6.1
+724,Trouble the Water,2008,93.0,"Carl Deal, Tia Lessin","Michael Brown, George W. Bush, Julie Chen Moonves",Documentary,7.3
+725,Rang Rasiya,2008,132.0,Ketan Mehta,"Randeep Hooda, Nandana Sen, Paresh Rawal","Biography, Drama, Romance",7.0
+726,One Million Yen Girl,2008,121.0,Yuki Tanada,"Yû Aoi, Mirai Moriyama, Pierre Taki",Drama,7.2
+727,Go Fast,2008,110.0,Olivier Van Hoofstadt,"Roschdy Zem, Olivier Gourmet, Jocelyn Lagarrigue","Action, Crime, Drama",5.8
+728,Gurren Lagann the Movie: Childhood's End,2008,112.0,"Hiroyuki Imaishi, Shin Itagaki, Tarô Iwasaki","Steve Blum, Johnny Yong Bosch, G.K. Bowes","Animation, Action, Comedy",7.6
+729,Daylight Robbery,2008,99.0,Paris Leonti,"Xavier Anderson, Brodie Bass, Geoff Bell","Crime, Drama, Thriller",6.0
+730,Adventures of Power,2008,89.0,Ari Gold,"Ari Gold, Michael McKean, Jane Lynch","Comedy, Music",5.8
+731,Kisses,2008,72.0,Lance Daly,"Kelly O'Neill, Shane Curry, Paul Roe",Drama,7.2
+732,Service,2008,87.0,Brillante Mendoza,"Gina Pareño, Jaclyn Jose, Julio Diaz","Drama, Romance",6.1
+733,Let it Rain,2008,110.0,Agnès Jaoui,"Agnès Jaoui, Jean-Pierre Bacri, Jamel Debbouze","Comedy, Drama",6.0
+734,Beer for My Horses,2008,86.0,Michael Salomon,"Toby Keith, Rodney Carrington, Claire Forlani","Action, Comedy, Crime",4.8
+735,Telstar: The Joe Meek Story,2008,119.0,Nick Moran,"Con O'Neill, Kevin Spacey, Pam Ferris","Biography, Drama, Music",6.5
+736,Harold,2008,90.0,T. Sean Shannon,"Spencer Breslin, Cuba Gooding Jr., Nikki Blonsky",Comedy,5.4
+737,Baby and I,2008,98.0,Kim Jin Young,"Jang Keun-suk, Lee Ah-Jin, Sin-ho Byeon",Comedy,6.5
+738,Nights and Weekends,2008,80.0,"Greta Gerwig, Joe Swanberg","Greta Gerwig, Joe Swanberg, Jay Duplass","Drama, Romance",5.8
+739,Valentino: The Last Emperor,2008,96.0,Matt Tyrnauer,"Valentino Garavani, Giancarlo Giammetti, Nati Abascal",Documentary,7.1
+740,Treeless Mountain,2008,89.0,So Yong Kim,"Chae Gil Byoung, Jung Gil Ja, Shin Hyun Je",Drama,7.0
+741,I.O.U.S.A.,2008,85.0,Patrick Creadon,"Robert Bixby, Humphrey Bogart, Warren Buffett",Documentary,7.4
+742,Summer Lover,2008,88.0,Robert Crombie,"Avalon Barrie, Todd Soley, Lyudmila Shiryaeva","Drama, Romance",4.5
+743,"One Piece: Episode of Chopper Plus - Bloom in the Winter, Miracle Sakura",2008,113.0,Junji Shimizu,"Takeshi Aono, Katsuaki Arima, Takahiro Fujimoto","Animation, Action, Comedy",6.9
+744,The Guard Post,2008,121.0,Su-chang Kong,"Chun Ho-jin, Hyun-jae Cho, Lee Young-hoon","Horror, Mystery, Thriller",5.8
+745,The Garden of Sinners: The Hollow Shrine,2008,46.0,Teiichi Takiguchi,"Maaya Sakamoto, Ken'ichi Suzumura, Takako Honda","Animation, Action, Crime",7.1
+746,Four Nights with Anna,2008,87.0,Jerzy Skolimowski,"Artur Steranko, Kinga Preis, Jerzy Fedorowicz","Crime, Drama",6.8
+747,Aegan,2008,170.0,Raju Sundaram,"Ajith Kumar, Nayanthara, Navdeep","Action, Comedy, Drama",4.5
+748,La siciliana ribelle,2008,115.0,Marco Amenta,"Veronica D'Agostino, Gérard Jugnot, Marcello Mazzarella","Crime, Drama",6.9
+749,Dog Eat Dog,2008,106.0,Carlos Moreno,"Marlon Moreno, Óscar Borda, Álvaro Rodríguez",Thriller,6.6
+750,Canaan,2008,100.0,Mani Haghighi,"Mohammad Reza Forutan, Taraneh Alidoosti, Afsaneh Bayegan",Drama,6.3
+751,Our Beloved Month of August,2008,147.0,Miguel Gomes,"Sónia Bandeira, Fábio Oliveira, Joaquim Carvalho","Music, Romance",6.9
+752,Plague Town,2008,88.0,David Gregory,"Josslyn DeCrosta, Erica Rhodes, David Lombard","Horror, Thriller",4.5
+753,New Town Killers,2008,100.0,Richard Jobson,"James Anthony Pearson, Dougray Scott, Alastair Mackenzie","Action, Crime, Drama",5.6
+754,The Class 2,2008,110.0,Faruk Aksoy,"Faruk Aksoy, Bahar Akça, Benal Ardan",Comedy,2.0
+755,We Can Do That,2008,111.0,Giulio Manfredonia,"Claudio Bisio, Anita Caprioli, Giuseppe Battiston",Comedy,7.5
+756,Embodiment of Evil,2008,94.0,José Mojica Marins,"José Mojica Marins, Jece Valadão, Adriano Stuart",Horror,5.9
+757,Examined Life,2008,87.0,Astra Taylor,"Kwame Anthony Appiah, Judith Butler, Michael Hardt",Documentary,7.0
+758,Ninja Cheerleaders,2008,81.0,David Presley,"Trishelle Cannatella, Ginny Weirick, Maitland McConnell","Action, Comedy",3.4
+759,Rumba,2008,77.0,"Dominique Abel, Fiona Gordon, Bruno Romy","Dominique Abel, Fiona Gordon, Philippe Martz","Comedy, Drama",6.8
+760,Fading of the Cries,2008,94.0,Brian A. Metcalf,"Brad Dourif, Thomas Ian Nicholas, Mackenzie Rosman","Action, Fantasy, Horror",3.0
+761,Fling,2008,98.0,John Stewart Muller,"Brandon Routh, Steve Sandvoss, Courtney Ford","Drama, Romance",5.7
+762,Roadside Romeo,2008,93.0,Jugal Hansraj,"Saif Ali Khan, Kareena Kapoor, Jaaved Jaaferi","Animation, Adventure, Comedy",4.9
+763,Delta,2008,92.0,Kornél Mundruczó,"Félix Lajkó, Orsolya Tóth, Lili Monori",Drama,6.3
+764,American Crude,2008,96.0,Craig Sheffer,"Raymond J. Barry, Amanda Detmer, Michael Clarke Duncan","Comedy, Crime, Drama",3.8
+765,Walking Vengeance,2008,129.0,Agustín Díaz Yanes,"Diego Luna, Victoria Abril, Ariadna Gil","Crime, Drama, Thriller",5.7
+766,The Magic Hour,2008,136.0,Kôki Mitani,"Kôichi Satô, Satoshi Tsumabuki, Eri Fukatsu",Comedy,7.1
+767,Newcastle,2008,107.0,Dan Castle,"Lachlan Buchanan, Xavier Samuel, Reshad Strik","Drama, Romance, Sport",6.0
+768,Lake Tahoe,2008,89.0,Fernando Eimbcke,"Diego Cataño, Hector Herrera, Daniela Valentine",Drama,6.6
+769,Absurdistan,2008,88.0,Veit Helmer,"Max Mauff, Kristyna Ryska, Nino Chkheidze",Comedy,6.7
+770,Let's Make Money,2008,110.0,Erwin Wagenhofer,"Mark Mobius, Mirko Kovats, K. Sujatha Raaju",Documentary,7.4
+771,Spy School,2008,86.0,Mark Blutman,"Forrest Landis, AnnaSophia Robb, Rider Strong","Adventure, Comedy, Family",4.5
+772,Chemical Wedding,2008,109.0,Julian Doyle,"Simon Callow, Kal Weber, Lucy Cudden","Comedy, Horror, Mystery",4.7
+773,Rigged,2008,100.0,Jonathan M. Dillon,"Chad Ortis, Rebecca Neuenswander, Will Fowler","Action, Adventure, Crime",5.6
+774,The Secrets of Jonathan Sperry,2008,96.0,Rich Christiano,"Gavin MacLeod, Jansen Panettiere, Robert Guillaume","Drama, Family",6.9
+775,Every Little Step,2008,96.0,"Adam Del Deo, James D. Stern","Bob Avian, Justin Bellero, Michael Bennett","Documentary, Music",7.7
+776,Dog Tags,2008,90.0,Damion Dietz,"Paul Preiss, Amy Lindsay, Candy Clark","Drama, Romance",5.9
+777,Disco,2008,103.0,Fabien Onteniente,"Franck Dubosc, Emmanuelle Béart, Gérard Depardieu","Comedy, Music",4.4
+778,Un giorno perfetto,2008,105.0,Ferzan Özpetek,"Isabella Ferrari, Valerio Mastandrea, Valerio Binasco",Drama,6.4
+779,The Meerkats,2008,83.0,James Honeyborne,"Paul Newman, Rufus Beck",Documentary,7.3
+780,Abhiyum Naanum,2008,147.0,Radha Mohan,"Prakash Raj, Trisha Krishnan, Aishwariyaa Bhaskaran","Comedy, Drama",7.6
+781,The Narrows,2008,106.0,François Velle,"Kevin Zegers, Vincent D'Onofrio, Sophia Bush","Crime, Drama, Thriller",6.1
+782,The Garden of Sinners: Oblivion Recording,2008,59.0,Takahiro Miura,"Maaya Sakamoto, Ken'ichi Suzumura, Takako Honda","Animation, Action, Drama",6.6
+783,Den du frygter,2008,95.0,Kristian Levring,"Ulrich Thomsen, Paprika Steen, Emma Sehested Høeg","Drama, Thriller",6.3
+784,A Year Ago in Winter,2008,129.0,Caroline Link,"Karoline Herfurth, Josef Bierbichler, Corinna Harfouch",Drama,7.1
+785,Sexy Killer: You'll Die for Her,2008,100.0,Miguel Martí,"Macarena Gómez, Alejo Sauras, César Camino","Comedy, Horror, Sci-Fi",5.6
+786,Antique,2008,107.0,Kyu-dong Min,"Ju Ji-hoon, Kim Jae-Wook, Yoo Ah-in","Comedy, Drama, Romance",6.8
+787,I Think We're Alone Now,2008,61.0,Sean Donnelly,"Kelly McCormick, Tiffany, Jeff Turner","Documentary, Comedy, Drama",6.8
+788,Watercolors,2008,114.0,David Oliveras,"Tye Olson, Kyle Clare, Ellie Araiza","Drama, Romance",6.4
+789,Colin,2008,97.0,Marc Price,"Alastair Kirton, Daisy Aitkens, Leanne Pammen","Action, Drama, Horror",4.7
+790,The Daisy Chain,2008,89.0,Aisling Walsh,"Samantha Morton, Steven Mackintosh, Mhairi Anderson","Drama, Horror, Thriller",5.0
+791,Jayam Kondaan,2008,145.0,R. Kannan,"Vinay Rai, Bhavana, Lekha Washington","Action, Romance",8.0
+792,Stella,2008,103.0,Sylvie Verheyde,"Léora Barbara, Mélissa Rodriguès, Laëtitia Guerard",Drama,7.2
+793,Forever Enthralled,2008,150.0,Kaige Chen,"Leon Lai, Ziyi Zhang, Honglei Sun","Biography, Drama, History",6.7
+794,Growing Op,2008,100.0,Michael Melski,"Steven Yaffee, Jon Cor, Wallace Langham","Comedy, Drama",6.1
+795,Conjurer,2008,89.0,Clint Hutchison,"Andrew Bowen, Maxine Bahns, John Schneider","Horror, Thriller",4.6
+796,Miracle of Giving Fool,2008,99.0,Jeong-kwon Kim,"Cha Tae-hyun, Ha Ji-Won, Jo Ah-ra","Comedy, Romance",7.3
+797,Hank and Mike,2008,86.0,Matthiew Klinck,"Thomas Michael, Paolo Mancini, Chris Klein","Comedy, Fantasy",5.8
+798,Baska Semtin Çocuklari,2008,95.0,Aydin Bulut,"Mehmet Ali Nuroglu, Ismail Hacioglu, Volga Sorgu","Action, Crime, Drama",6.6
+799,Foreign Exchange,2008,85.0,Danny Roth,"Ryan Pinkston, Vanessa Lengies, Randy Wayne",Comedy,4.0
+800,Krishnarjuna,2008,134.0,P. Vasu,"Nagarjuna Akkineni, Vishnu Manchu, Mamta Mohandas","Comedy, Drama, Romance",4.1
+801,Ready,2008,165.0,Sreenu Vaitla,"Ram Pothineni, Genelia Deshmukh, Nassar","Action, Comedy, Romance",7.2
+802,Buddenbrooks,2008,151.0,Heinrich Breloer,"Armin Mueller-Stahl, Iris Berben, Jessica Schwarz",Drama,5.9
+803,20 Years After,2008,95.0,Jim Torres,"Joshua Leonard, Azura Skye, Diane Louise Salinger","Drama, Fantasy, Sci-Fi",3.2
+804,Hana yori dango: Fainaru,2008,131.0,Yasuharu Ishii,"Mao Inoue, Jun Matsumoto, Shun Oguri",Drama,6.8
+805,"Grande, grosso e... Verdone",2008,135.0,Carlo Verdone,"Carlo Verdone, Claudia Gerini, Eva Riccobono",Comedy,5.5
+806,Cloud 9,2008,98.0,Andreas Dresen,"Ursula Werner, Horst Rehberg, Horst Westphal","Drama, Romance",6.6
+807,Gingerdead Man 2: Passion of the Crust,2008,72.0,William Butler,"Kevan Moezzi, Kelsey Sanders, Joseph Porter","Comedy, Fantasy, Horror",4.0
+808,Saroja,2008,154.0,Venkat Prabhu,"Jayaram, Prakash Raj, S.P.B. Charan","Adventure, Comedy, Crime",7.1
+809,Salt of This Sea,2008,109.0,Annemarie Jacir,"Suheir Hammad, Saleh Bakri, Riyad Ideis","Drama, Romance",6.8
+810,The Vanguard,2008,89.0,Matthew Hope,"Karen Admiraal, Jack Bailey, Emma Choy","Action, Horror, Sci-Fi",3.2
+811,As Simple as That,2008,93.0,Reza Mirkarimi,"Hengameh Ghaziani, Mehran Kashani, Safa Aghajani",Drama,7.0
+812,De brief voor de koning,2008,110.0,Pieter Verhoeff,"Yannick van de Velde, Quinten Schram, Rüdiger Vogler",Adventure,5.9
+813,Bank Bang,2008,97.0,Argyris Papadimitropoulos,"Vassilis Haralambopoulos, Dimitris Imellos, Marisha Triantafyllidou","Comedy, Crime",6.1
+814,The Equation of Love and Death,2008,96.0,Baoping Cao,"Xun Zhou, Chao Deng, Wang Ning","Crime, Drama, Romance",6.9
+815,5-25-77,2008,132.0,Patrick Read Johnson,"John Francis Daley, Austin Pendleton, Kevin Rosendo","Comedy, Drama",6.5
+816,Kabei: Our Mother,2008,133.0,Yôji Yamada,"Sayuri Yoshinaga, Tadanobu Asano, Rei Dan",Drama,7.6
+817,The Bastards,2008,90.0,Amat Escalante,"Jesus Moises Rodriguez, Rubén Sosa, Nina Zavarin","Crime, Drama, Thriller",6.2
+818,"Falco - Verdammt, wir leben noch!",2008,109.0,Thomas Roth,"Manuel Rubey, Patricia Aulitzky, Christian Tramitz","Biography, Drama, Music",6.8
+819,2:22,2008,104.0,Phillip Guzman,"Mick Rossi, Robert Miano, Aaron Gallagher","Crime, Drama, Thriller",5.1
+820,The Country Teacher,2008,103.0,Bohdan Sláma,"Pavel Liska, Zuzana Bydzovská, Ladislav Sedivý","Drama, Romance",6.9
+821,As God Commands,2008,103.0,Gabriele Salvatores,"Filippo Timi, Elio Germano, Alvaro Caleca","Drama, Thriller",6.5
+822,Killer Pad,2008,84.0,Robert Englund,"Daniel Franzese, Eric Jungmann, Shane McRae","Comedy, Horror",4.0
+823,Hey Hey It's Esther Blueburger,2008,103.0,Cathy Randall,"Danielle Catanzariti, Cassandra Jinman, Talia Monaghan","Comedy, Drama",6.3
+824,Masgoon Tranzait,2008,114.0,Sandra Nashaat,"Ahmed Ezz, Nour El-Sherif, Salah Abdalla","Adventure, Drama, Mystery",6.5
+825,Zomerhitte,2008,96.0,Monique van de Ven,"Sophie Hilbrand, Waldemar Torenstra, Jeroen Willems","Drama, Romance, Thriller",5.3
+826,Käsky,2008,115.0,Aku Louhimies,"Samuli Vauramo, Pihla Viitala, Eero Aho","Drama, Romance, War",6.5
+827,King,2008,131.0,Sreenu Vaitla,"Nagarjuna Akkineni, Trisha Krishnan, Srihari","Action, Comedy, Crime",6.5
+828,The Policeman of the 16th Precinct,2008,100.0,Nikos Zapatinas,"Petros Filippidis, Thanasis Tsaltabasis, Themis Bazaka",Comedy,5.6
+829,The Swimsuit Issue,2008,100.0,Måns Herngren,"Jonas Inde, Amanda Davin, Peter Gardiner","Comedy, Drama",5.8
+830,What No One Knows,2008,99.0,Søren Kragh-Jacobsen,"Anders W. Berthelsen, Maria Bonnevie, Ghita Nørby","Drama, Thriller",6.1
+831,Shades of Ray,2008,86.0,Jaffar Mahmood,"Zachary Levi, Fran Kranz, Sarah Shahi","Comedy, Drama, Romance",6.9
+832,White Night Wedding,2008,96.0,Baltasar Kormákur,"Hilmir Snær Guðnason, Margrét Vilhjálmsdóttir, Laufey Elíasdóttir","Comedy, Drama, Romance",6.6
+833,The Crimson Wing: Mystery of the Flamingos,2008,78.0,"Matthew Aeberhard, Leander Ward","Mariella Frostrup, Zabou Breitman, Karoline Herfurth",Documentary,7.3
+834,The Business of Being Born,2008,87.0,Abby Epstein,"Mary Helen Ayres, Julia Barnett, Sylvie Blaustein",Documentary,7.3
+835,Era Uma Vez...,2008,117.0,Breno Silveira,"Thiago Martins, Vitória Frate, Rocco Pitanga","Drama, Romance",7.0
+836,Gaalipata,2008,146.0,Yograj Bhat,"Ganesh, Diganth, Rajesh Krishnan","Comedy, Musical, Romance",8.3
+837,Domovoy,2008,104.0,Karen Oganesyan,"Konstantin Khabensky, Vladimir Mashkov, Chulpan Khamatova",Thriller,6.8
+838,Karzzzz,2008,142.0,Satish Kaushik,"Himesh Reshammiya, Urmila Matondkar, Shweta Kumar","Action, Drama, Musical",2.3
+839,Radeloos,2008,115.0,Dave Schram,"Marius Gottlieb, Marloes van der Wel, Robin Martens","Drama, Family",5.9
+840,The Subtenant,2008,104.0,Matti Grönberg,"Mikko Kivinen, Heikki Silvennoinen, Timo Kahilainen",Comedy,4.3
+841,The Lodge,2008,83.0,"Brad Helmink, John Rauschelbach","Kevin McClatchy, Elizabeth Kell, Owen Szabo","Horror, Thriller",3.8
+842,Beautiful Losers,2008,90.0,"Aaron Rose, Joshua Leonard","Julian Bennett Holmes, Thomas Campbell, Shepard Fairey","Documentary, Music",7.0
+843,Comme les autres,2008,93.0,Vincent Garenq,"Lambert Wilson, Pilar López de Ayala, Pascal Elbé","Comedy, Drama, Romance",6.5
+844,Sucker Punch,2008,92.0,Malcolm Martin,"Gordon Alexander, Antonio Fargas, Ian Freeman",Action,4.8
+845,Phoonk,2008,110.0,Ram Gopal Varma,"Sudeep, Amruta Khanvilkar, Ahsaas Channa","Drama, Horror, Mystery",4.0
+846,Presunto culpable,2008,87.0,"Roberto Hernández, Geoffrey Smith",,Documentary,8.1
+847,Cornered!,2008,87.0,Daniel Maze,"Steve Guttenberg, James Duval, Liz Nicole Abrams",Horror,4.2
+848,Impact Point,2008,90.0,Hayley Cloake,"Brian Austin Green, Melissa Keller, Kayla Ewell",Thriller,4.2
+849,C Kkompany,2008,127.0,Sachin Yardi,"Tusshar Kapoor, Anupam Kher, Rajpal Naurang Yadav","Comedy, Drama, Thriller",5.5
+850,iMurders,2008,99.0,Robbie Bryan,"Gabrielle Anwar, William Forsythe, Tony Todd","Crime, Drama, Horror",3.6
+851,Onechanbara: The Movie,2008,80.0,Yôhei Fukuda,"Eri Otoguro, Tomohiro Waki, Tarô Suwa","Action, Horror",4.7
+852,Give Me Your Hand,2008,80.0,Pascal-Alex Vincent,"Alexandre Carril, Victor Carril, Anaïs Demoustier","Drama, Romance",5.8
+853,Wicked Lake,2008,95.0,Zach Passero,"Carlee Baker, Angela Bettis, Eve Mauro",Horror,3.0
+854,Varg,2008,95.0,Daniel Alfredson,"Peter Stormare, Robin Lundberg, Rolf Degerlund","Action, Adventure, Drama",6.1
+855,Conscience,2008,77.0,Erden Kiral,"Nurgül Yesilçay, Murat Han, Tülin Özen",Drama,5.3
+856,There's Always a Woman in Between,2008,97.0,Kamal Tabrizi,"Habib Rezaei, Golshifteh Farahani, Ahoo Kheradmand","Comedy, Drama",5.0
+857,Night and Day,2008,144.0,Hong Sang-soo,"Kim Young-ho, Hwang Soo-Jung, Park Eun-hye",Drama,7.1
+858,Broken Angel,2008,120.0,Aclan Büyüktürkoglu,"Nehir Erdogan, Jay Karnes, Patrick Muldoon",Drama,6.4
+859,The Dead Outside,2008,86.0,Kerry Anne Mullaney,"Alton Milne, Sandra Louise Douglas, Vivienne Harvey","Horror, Mystery, Thriller",4.1
+860,Diminished Capacity,2008,92.0,Terry Kinney,"Matthew Broderick, Virginia Madsen, Alan Alda",Comedy,5.5
+861,Lange flate ballær II,2008,97.0,Harald Zwart,"Jan Edgar Fjell, Frode Lie, Kai Helge Hansen","Comedy, Drama, War",5.2
+862,The Fifth Commandment,2008,90.0,Jesse V. Johnson,"Rick Yune, Roger Yuan, Dania Ramirez","Action, Comedy, Crime",4.6
+863,Suspension,2008,95.0,"Alec Joler, Ethan Shaftel","Scott Cordes, Annie Tedesco, Caroline Vinciguerra","Action, Drama, Fantasy",5.1
+864,Extraordinary Stories,2008,245.0,Mariano Llinás,"Mariano Llinás, Walter Jakob, Agustín Mendilaharzu","Drama, Mystery",7.8
+865,Crossing,2008,106.0,Tae-gyun Kim,"Cha In-pyo, Myeong-cheol Shin, Seo Young-hwa",Drama,7.5
+866,Contract Killers,2008,86.0,Justin Rhodes,"Frida Farrell, Nick Mancuso, Rhett Giles","Action, Adventure, Drama",4.6
+867,Bigga Than Ben,2008,82.0,S.A. Halewood,"Ben Barnes, Andrey Chadov, Ovidiu Matesan",Drama,6.2
+868,The Cook,2008,85.0,Gregg Simon,"Penny Vital, Nina Fehren, Mark Hengst","Comedy, Horror",3.9
+869,Verses of Love,2008,130.0,"Hanung Bramantyo, Iqbal Rais","Fedi Nuril, Rianti Cartwright, Carissa Putri","Drama, Romance",6.9
+870,Frontier of the Dawn,2008,106.0,Philippe Garrel,"Louis Garrel, Laura Smet, Clémentine Poidatz","Drama, Romance",6.4
+871,Between Love & Goodbye,2008,97.0,Casper Andreas,"Simon Miller, Rob Harmon, Ryan Turner","Drama, Music, Romance",5.6
+872,The Missing Lynx,2008,97.0,"Raul Garcia, Manuel Sicilia, Stephen Hughes","David Robles, Cecilia Santiago, Conchi López","Animation, Action, Adventure",5.2
+873,RiP: A Remix Manifesto,2008,87.0,Brett Gaylor,"Cory Doctorow, Gilberto Gil, Girl Talk","Documentary, Music",7.6
+874,Mission Istaanbul: Darr Ke Aagey Jeet Hai!,2008,130.0,Apoorva Lakhia,"Vivek Oberoi, Zayed Khan, Shriya Saran","Action, Adventure, Drama",3.5
+875,Soccer Mom,2008,92.0,Gregory McClatchy,"Missi Pyle, Emily Osment, Ellery Sprayberry","Comedy, Family, Sport",5.0
+876,Casanegra,2008,131.0,Nour Eddine Lakhmari,"Anas El Baz, Omar Lotfi, Mohamed Benbrahim",Drama,7.2
+877,The Garden of Eden,2008,111.0,John Irvin,"Jack Huston, Mena Suvari, Caterina Murino","Drama, Thriller",5.3
+878,Hide,2008,97.0,K.C. Bascombe,"Rachel Miner, Christian Kane, Polly Shannon","Action, Crime, Drama",5.1
+879,Ramchand Pakistani,2008,103.0,Mehreen Jabbar,"Nandita Das, Rashid Farooqi, Syed Fazal Hussain",Drama,7.5
+880,Karamazovi,2008,110.0,Petr Zelenka,"Michaela Badinková, Jerzy Michal Bozyk, Igor Chmela",Drama,7.5
+881,Mancora,2008,100.0,Ricardo de Montreuil,"Jason Day, Elsa Pataky, Enrique Murciano",Drama,6.4
+882,The Market: A Tale of Trade,2008,93.0,Ben Hopkins,"Tayanç Ayaydin, Genco Erkal, Senay Aydin",Drama,6.9
+883,Natale a Rio,2008,114.0,Neri Parenti,"Christian De Sica, Michelle Hunziker, Fabio De Luigi",Comedy,4.4
+884,Sweet Rain: Accuracy of Death,2008,113.0,Masaya Kakehi,"Takeshi Kaneshiro, Manami Konishi, Sumiko Fuji","Comedy, Drama, Fantasy",6.8
+885,Borderline,2008,110.0,Lyne Charlebois,"Isabelle Blais, Jean-Hugues Anglade, Angèle Coutu",Drama,6.5
+886,Death in Love,2008,97.0,Boaz Yakin,"Josh Lucas, Jacqueline Bisset, Lukas Haas","Drama, Romance, War",4.6
+887,Kuselan,2008,165.0,P. Vasu,"Rajinikanth, Pasupathy, Meena","Comedy, Drama, Family",4.9
+888,Older Than America,2008,102.0,Georgina Lightning,"Adam Beach, Tantoo Cardinal, Bradley Cooper",Drama,5.3
+889,Liverpool,2008,84.0,Lisandro Alonso,"Juan Fernández, Nieves Cabrera, Giselle Irrazabal",Drama,6.4
+890,Ping-pongkingen,2008,107.0,Jens Jonsson,"Jerry Johansson, Hampus Johansson, Georgi Staykov",Drama,6.3
+891,Maharathi,2008,114.0,Shivam Nair,"Naseeruddin Shah, Om Puri, Boman Irani","Crime, Drama, Mystery",7.1
+892,Blue Gold: World Water Wars,2008,90.0,Samuel Vartek,"Jim Olson, Tony Clarke, Maude Barlow",Documentary,7.6
+893,Crime Is Our Business,2008,109.0,Pascal Thomas,"Catherine Frot, André Dussollier, Claude Rich","Comedy, Crime, Mystery",6.0
+894,Miao Miao,2008,83.0,Hsiao-tse Cheng,"Chia-Yen Ko, Sandrine Pinna, Wing Fan","Comedy, Drama, Romance",6.3
+895,Perfect Hideout,2008,94.0,Stephen Manuel,"Billy Zane, Cristian Solimeno, Melinda Cohen","Action, Comedy, Crime",3.8
+896,Just Broke Up,2008,,Vasilis Myrianthopoulos,"Zeta Makrypoulia, Giannis Tsimitselis, Sissi Hristidou","Comedy, Romance",4.5
+897,Prince of Broadway,2008,100.0,Sean Baker,"Prince Adu, Karren Karagulian, Aiden Noesi",Drama,7.1
+898,Tobruk,2008,102.0,Václav Marhoul,"Jan Meduna, Petr Vanek, Robert Nebrenský","History, War",5.8
+899,How Much Does the Trojan Horse Weigh?,2008,117.0,Juliusz Machulski,"Ilona Ostrowska, Maciej Marczewski, Robert Wieckiewicz","Comedy, Drama, Romance",5.8
+900,The Silent Army,2008,115.0,Jean van de Velde,"Marco Borsato, Abby Mukiibi Nkaaga, Thekla Reuten","Drama, Thriller",5.9
+901,The Storm,2008,156.0,Kazim Öz,"Cahit Gök, Havin Funda Saç, Mehmet Selim Akgul",Drama,7.3
+902,Gnaw,2008,90.0,Gregory Mandry,"Sara Dylan, Rachel Mitchem, Oliver Squires",Horror,3.4
+903,Kantri,2008,166.0,Meher Ramesh,"N.T. Rama Rao Jr., Hansika Motwani, Tanishaa Mukerji",Action,4.7
+904,Supravietuitorul,2008,106.0,Sergiu Nicolaescu,"Sergiu Nicolaescu, Petr Falc, Vladimir Gaitan",Crime,6.0
+905,Doraemon the Movie: Nobita and the Green Giant Legend,2008,112.0,"Ayumu Watanabe, Kôzô Kusuba","Wasabi Mizuta, Megumi Ôhara, Yumi Kakazu","Animation, Adventure, Comedy",6.6
+906,Faintheart,2008,92.0,Vito Rocco,"Eddie Marsan, Ewen Bremner, Jessica Hynes","Comedy, Drama, Romance",6.2
+907,I Was Here,2008,95.0,René Vilbre,"Rasmus Kaljujärv, Doris Tislar, Marilyn Jurman","Crime, Drama",7.0
+908,Portrait of a Beauty,2008,108.0,Yun-su Chong,"Kim Gyu-ri, Kim Young-ho, Kim Nam-gil","Drama, Romance",6.3
+909,Flow: For Love of Water,2008,84.0,"Irena Salina, Dan Berger","Bill Alexander, Maude Barlow, Basil Bold",Documentary,7.5
+910,"Hello, Schoolgirl",2008,113.0,Jang-ha Ryu,"Yoo Ji-tae, Lee Yeon-hee, Chae Jeong-an","Comedy, Romance",6.9
+911,Scourge,2008,92.0,Jonas Quastel,"Russell Ferrier, Robyn Ledoux, Nic Rhind","Horror, Mystery, Sci-Fi",4.2
+912,Pretty Bird,2008,120.0,Paul Schneider,"Billy Crudup, Paul Giamatti, David Hornsby",Comedy,5.0
+913,Triad Wars,2008,117.0,Dennis Law,"Sammo Kam-Bo Hung, Simon Yam, Niu Tien","Action, Crime, Thriller",5.7
+914,Bajo la sal,2008,112.0,Mario Muñoz,"Humberto Zurita, Plutarco Haza, Emilio Guerrero","Horror, Mystery, Thriller",6.7
+915,Nora's Will,2008,92.0,Mariana Chenillo,"Fernando Luján, Enrique Arreola, Ari Brickman","Comedy, Drama",7.2
+916,Pandurangadu,2008,156.0,K. Raghavendra Rao,"Nandamuri Balakrishna, Sneha, Tabu","Drama, Fantasy",3.5
+917,Dark Reel,2008,109.0,Josh Eisenstadt,"Daniel Wisler, Alexandra Holden, Kevin Ryder","Comedy, Horror, Thriller",3.5
+918,Super Capers: The Origins of Ed and the Missing Bullion,2008,98.0,Ray Griggs,"Justin Whalin, Ray Griggs, Danielle Harris","Action, Adventure, Comedy",3.2
+919,A French Gigolo,2008,104.0,Josiane Balasko,"Nathalie Baye, Éric Caravaca, Isabelle Carré","Drama, Romance",6.0
+920,Sunshine Barry and the Disco Worms,2008,75.0,"Thomas Borch Nielsen, Tonni Zinck","Peter Frödin, Trine Dyrholm, Lars Hjortshøj","Animation, Comedy, Family",4.6
+921,Cennet,2008,92.0,Biray Dalkiran,"Engin Altan Düzyatan, Fahriye Evcen Özçivit, Tamar Zeynep Papuççuoglu",Drama,4.7
+922,Ashta Chamma,2008,126.0,Mohana Krishna Indraganti,"Nani, Swathi Reddy, Srinivas Avasarala",Comedy,7.4
+923,Snijeg,2008,100.0,Aida Begic,"Zana Marjanovic, Jasna Beri, Sadzida Setic",Drama,7.0
+924,A Bunch of Amateurs,2008,96.0,Andy Cadiff,"Burt Reynolds, Alexandra Weaver, Elesia Marie",Comedy,6.0
+925,The Caller,2008,92.0,Richard Ledes,"Axel Feldmann, Grégory Ravary Ellis, Jean Brassard","Crime, Drama, Mystery",5.4
+926,Bheemaa,2008,169.0,N. Linguswamy,"Vikram, Trisha Krishnan, Prakash Raj","Action, Crime",5.7
+927,Boushkash,2008,120.0,"Ahmed Yousry, Hazem Fouda","Muhammad Sad, Zeina, Ezzat Abu Ouf","Comedy, Drama",5.4
+928,Genius Party Beyond,2008,85.0,"Mahiro Maeda, Masahiro Maeda, Kôji Morimoto","Arata Furuta, Akiko Suzuki, Shôko Takada","Animation, Fantasy, Music",7.0
+929,The Way We Are,2008,90.0,Ann Hui,"Hee Ching Paw, Chun-lung Leung, Cheuk Man Au",Drama,7.5
+930,The Sickhouse,2008,100.0,Curtis Radclyffe,"Gina Philips, Alex Hassell, Kellie Shirley",Horror,3.7
+931,Dunya & Desie,2008,98.0,Dana Nechushtan,"Maryam Hassouni, Eva van de Wijdeven, Christine van Stralen","Comedy, Drama",6.6
+932,Scarce,2008,93.0,"Jesse Thomas Cook, John Geddes","Steve Warren, Gary Fischer, Chris Warrilow","Horror, Thriller",4.1
+933,Passion,2008,115.0,Ryûsuke Hamaguchi,"Aoba Kawai, Ryuta Okamoto, Fusako Urabe","Drama, Romance",6.9
+934,Trouble at Timpetill,2008,97.0,Nicolas Bary,"Raphaël Katz, Adèle Exarchopoulos, Léo Legrand","Adventure, Family, Fantasy",5.8
+935,Vi hade i alla fall tur med vädret igen!,2008,95.0,Kjell-Åke Andersson,"Rolf Skoglund, Claire Wikholm, Mikaela Knapp",Comedy,4.0
+936,The Adventures of Food Boy,2008,90.0,Dane Cannon,"Lucas Grabeel, Brittany Curran, Kunal Sharma","Comedy, Fantasy",3.7
+937,Ikigami,2008,133.0,Tomoyuki Takimoto,"Shôta Matsuda, Takashi Tsukamoto, Riko Narumi",Drama,7.0
+938,Tatil Kitabi,2008,92.0,Seyfi Teoman,"Taner Birsel, Tayfun Gunay, Harun Ozuag",Drama,6.3
+939,Me Two,2008,84.0,"Nicolas Charlet, Bruno Lavaine","Daniel Auteuil, Alain Chabat, Marina Foïs","Comedy, Fantasy, Music",5.7
+940,The Uninvited,2008,97.0,Bob Badway,"Marguerite Moreau, Brittany Curran, Colin Hay","Horror, Thriller",4.0
+941,80 Minutes,2008,92.0,Thomas Jahn,"Gabriel Mann, Oliver Kieran-Jones, Josh Dallas","Action, Crime, Thriller",4.1
+942,Rallybrudar,2008,99.0,Lena Koppel,"Eva Röse, Marie Robertson, Janne Carlsson",Comedy,5.0
+943,A Tale of Legendary Libido,2008,120.0,Hansol Shin,"Bong Tae-gyu, Kim Jin-ah, Oh Dal-su","Comedy, Fantasy",5.3
+944,Snuff: A Documentary About Killing on Camera,2008,76.0,Paul von Stoetzel,"Larry C. Brubaker, Todd Cobery, Linda Flanders","Documentary, Horror",5.4
+945,Senseless,2008,87.0,Simon Hynd,"Jason Behr, Emma Catherwood, Ferrera Joe","Crime, Drama, Horror",5.7
+946,Ugly Melanie,2008,93.0,"Jean-Patrick Benes, Allan Mauduit","Marilou Berry, Frédérique Bel, Pierre-François Martin-Laval",Comedy,5.5
+947,Louis Theroux: Law and Disorder in Philadelphia,2008,60.0,Emma Cooper,Louis Theroux,Documentary,7.5
+948,"That's It, That's All.",2008,60.0,Curt Morgan,"Jake Blauvelt, Kyle Clancy, Terje Håkonsen","Documentary, Adventure, Sport",8.3
+949,No One's Son,2008,100.0,Arsen A. Ostojic,"Alen Liveric, Mustafa Nadarevic, Biserka Ipsa","Crime, Drama",7.1
+950,The Art of Stealing,2008,103.0,Leonel Vieira,"Ivo Canelas, Enrique Arce, Flora Martínez","Action, Comedy, Crime",6.2
+951,Toxic Skies,2008,90.0,Andrew C. Erin,"Anne Heche, James Tupper, Tobias Slezak","Crime, Drama, Mystery",5.0
+952,Dying God,2008,85.0,Fabrice Lambot,"James Horan, Lance Henriksen, Erin Brown","Horror, Sci-Fi, Thriller",2.8
+953,ReGOREgitated Sacrifice,2008,65.0,Lucifer Valentine,"A. Belle, The Black Angels of Hell, Honey",Horror,3.2
+954,Skin,2008,85.0,Hanro Smitsman,"Robert de Hoog, John Buijsman, Sylvia Poorta","Drama, History",6.8
+955,The Tsunami Warrior,2008,154.0,Nonzee Nimibutr,"Jarunee Suksawas, Jacqueline Apithananon, Anna Reese","Action, Adventure, Fantasy",5.6
+956,Patti Smith: Dream of Life,2008,109.0,Steven Sebring,"Patti Smith, Lenny Kaye, Oliver Ray","Documentary, Music",7.0
+957,Animal 2,2008,93.0,Ryan Combs,"Ving Rhames, Vicellous Shannon, Richard Waugh","Action, Crime, Drama",5.0
+958,Happy Flight,2008,103.0,Shinobu Yaguchi,"Seiichi Tanabe, Saburô Tokitô, Haruka Ayase",Comedy,6.5
+959,Kurt Turns Evil,2008,74.0,Rasmus A. Sivertsen,"Atle Antonsen, Kristin Skogheim, Aksel Hennie","Animation, Comedy, Family",6.3
+960,Gitmek: Benim Marlon ve Brandom,2008,93.0,Hüseyin Karabey,"Ayça Damgaci, Hama Ali Kahn, Cengiz Bozkurt","Drama, Romance, War",6.6
+961,Swamp Devil,2008,90.0,David Winning,"Bruce Dern, Cindy Sampson, Nicolas Wright","Action, Horror, Sci-Fi",4.0
+962,Summer,2008,83.0,Kenneth Glenaan,"Robert Carlyle, Steve Evets, Rachael Blake",Drama,6.7
+963,Neninthe,2008,126.0,Puri Jagannadh,"Ravi Teja, Abhinaya, Aravind","Action, Drama",6.9
+964,Sorry Bhai!,2008,154.0,Onir,"Shabana Azmi, Boman Irani, Sanjay Suri","Comedy, Drama, Romance",6.2
+965,Witch Hunt,2008,91.0,"Don Hardy, Dana Nachman","Jack Cummings, Jackie Cummings, Allen Grafton","Documentary, Crime",7.4
+966,Private Lessons,2008,105.0,Joachim Lafosse,"Jonas Bloquet, Jonathan Zaccaï, Claire Bodson",Drama,6.2
+967,Everything Is Fine,2008,118.0,Yves Christian Fournier,"Maxime Dumontier, Chloé Bourgeois, Maxime Bessette",Drama,7.0
+968,Giovanna's Father,2008,104.0,Pupi Avati,"Silvio Orlando, Francesca Neri, Ezio Greggio","Drama, War",6.7
+969,Invitation,2008,98.0,Ebrahim Hatamikia,"Mahnaz Afshar, Siamak Ansari, Reza Babak","Comedy, Drama",5.2
+970,A Pain in the Ass,2008,86.0,Francis Veber,"Richard Berry, Patrick Timsit, Pascal Elbé",Comedy,5.3
+971,Living in Emergency,2008,120.0,Mark N. Hopkins,"Chiara Lepora, Chris Brasher, Davinder Gill",Documentary,7.9
+972,Plaguers,2008,86.0,Brad Sykes,"Steve Railsback, Alexis Zibolis, Noelle Perris","Horror, Sci-Fi",2.9
+973,Beautiful,2008,88.0,Jai-hong Juhn,"Cha Soo Yeon, Lee Cheon-hee, Choi Moo-seong",Drama,6.5
+974,Cold Lunch,2008,90.0,Eva Sørhaug,"Birgitte Victoria Svendsen, Ane Dahl Torp, Bjørn Floberg",Drama,5.2
+975,Le nouveau protocole,2008,92.0,Thomas Vincent,"Clovis Cornillac, Marie-Josée Croze, Dominique Reymond","Action, Drama, Mystery",6.1
+976,Die Wilden Kerle 5,2008,107.0,Joachim Masannek,"Jimi Blue Ochsenknecht, Sarah Kim Gries, Marlon Wessel","Action, Adventure, Family",3.6
+977,Under Our Skin,2008,104.0,Andrew Abrahams,"Mandy Hughes, Sean Hughes, Dana Walsh",Documentary,7.7
+978,Ce qu'il faut pour vivre,2008,102.0,Benoit Pilon,"Natar Ungalaaq, Éveline Gélinas, Paul-André Brasseur",Drama,7.6
+979,Zayy el-Nahardah,2008,95.0,Amr Salama,"Basma, Ahmad El-Fishawi, Asser Yassin","Drama, Fantasy, Mystery",7.0
+980,33 Scenes from Life,2008,100.0,Malgorzata Szumowska,"Julia Jentsch, Peter Gantzler, Maciej Stuhr",Drama,6.2
+981,Los paranoicos,2008,98.0,Gabriel Medina,"Daniel Hendler, Martín Feldman, Walter Jakob",Comedy,6.7
+982,Lady Magdalene's,2008,116.0,J. Neil Schulman,"Nichelle Nichols, Ethan Keogh, Susan Smythe","Action, Comedy, Music",2.2
+983,Street Racer,2008,109.0,Oleg Fesenko,"Aleksey Chadov, Marina Aleksandrova, Aleksei Guskov","Action, Comedy, Crime",2.8
+984,The Year of Getting to Know Us,2008,90.0,Patrick Sisam,"Tom Arnold, Armando Acevedo, Holland Hayes","Comedy, Drama",4.6
+985,Wild Blood,2008,148.0,Marco Tullio Giordana,"Monica Bellucci, Alessio Boni, Luca Zingaretti","Biography, Drama",6.1
+986,Hormones,2008,122.0,Songyos Sugmakanan,"Sora Aoi, Sirachuch Chienthaworn, Chantavit Dhanasevi",Comedy,7.0
+987,Manjadikuru,2008,137.0,Anjali Menon,"Prithviraj Sukumaran, Thilakan, Jagathy Sreekumar","Drama, Family",8.2
+988,Nereikalingi zmones,2008,96.0,Maris Martinsons,"Valda Bickute, Kostas Smoriginas, Dalia Micheleviciute",Drama,6.8
+989,The Last Lullaby,2008,93.0,Jeffrey Goodman,"Tom Sizemore, Sasha Alexander, Sprague Grayden","Drama, Mystery",6.1
+990,Will Not End Here,2008,100.0,Vinko Bresan,"Ivan Herceg, Nada Sargin, Predrag 'Predjo' Vusovic","Comedy, Drama, Romance",7.1
+991,Chahar changooli,2008,85.0,Saeed Soheili,"Javad Razavian, Reza Shafi' Jam, Fathali Oveisi",Comedy,3.4
+992,Yonkers Joe,2008,101.0,Robert Celestino,"Chazz Palminteri, Michael Lerner, Nate Bynum","Comedy, Crime, Thriller",6.3
+993,Gospel Hill,2008,99.0,Giancarlo Esposito,"Chloe Bailey, Adam Baldwin, Angela Bassett",Drama,5.5
+994,Rembrandt's J'Accuse...!,2008,86.0,Peter Greenaway,"Martin Freeman, Eva Birthistle, Jodhi May","Documentary, Mystery",7.2
+995,Louis Theroux: Law and Disorder in Johannesburg,2008,120.0,Paddy Wivell,,Documentary,7.5
+996,Nenu Meeku Telusa...?,2008,132.0,Sastry Ajay,"Mohammad Ali, Tanikella Bharani, Brahmanandam",Thriller,6.6
+997,Les liens du sang,2008,106.0,Jacques Maillot,"Guillaume Canet, François Cluzet, Clotilde Hesme","Action, Crime, Drama",6.2
+998,Hooked,2008,84.0,Adrian Sitaru,"Adrian Titieni, Ioana Flora, Maria Dinulescu",Drama,7.0
+999,"One, Two, Many",2008,88.0,Michael DeLorenzo,"John Melendez, Bellamy Young, Jeffrey Ross","Comedy, Romance",3.4
+1000,In Your Absence,2008,104.0,Iván Noel,"Francisco Alfonsin, Pedro Salido Saborido, Gonzalo Sánchez Salas",Drama,6.8

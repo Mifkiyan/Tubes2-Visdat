@@ -1,4 +1,4 @@
-ID,Name,Year,Duration,Directors,Actors,Genres,Rating
+﻿ID,Name,Year,Duration,Directors,Actors,Genres,Rating
 1,Joker,2019,122,Todd Phillips,"Joaquin Phoenix, Robert De Niro, Zazie Beetz","Crime, Drama, Thriller",8.3
 2,Avengers: Endgame,2019,181,"Anthony Russo, Joe Russo","Robert Downey Jr., Chris Evans, Mark Ruffalo","Action, Adventure, Sci-Fi",8.4
 3,Parasite,2019,132,Bong Joon Ho,"Song Kang-ho, Lee Sun-kyun, Cho Yeo-jeong","Drama, Thriller",8.5
@@ -749,3 +749,253 @@ ID,Name,Year,Duration,Directors,Actors,Genres,Rating
 748,National Theatre Live: Fleabag,2019,80,"Tony Grech-Smith, Vicky Jones",Phoebe Waller-Bridge,Comedy,8.3
 749,The Pickup Game,2019,96,"Barnaby O'Connor, Matthew O'Connor","Maximilian Berger, Marcus Nero, Robert Beck",Documentary,6.7
 750,The Queen of Black Magic,2019,99,Kimo Stamboel,"Ario Bayu, Hannah Al Rashid, Adhisty Zara","Drama, Horror, Mystery",6.5
+751,Father There Is Only One,2019,98,Santiago Segura,"Santiago Segura, Toni Acosta, Sílvia Abril","Comedy, Family",6.0
+752,Notebook,2019,115,"Nitin Kakkar, Mukesh Kumar","Zaheer Iqbal, Pranutan Bahl, Mir Mohammed Mehroos",Romance,7.0
+753,The Nomads,2019,97,Brandon Eric Kamin,"Tika Sumpter, Tate Donovan, Thomas Pierce","Drama, Sport",6.3
+754,Soul Hunters,2019,92,"Adrian Acevedo-Smith, Arturo Acevedo-Smith","Zach Scheerer, Audrey Rode, David Josh Lawrence","Action, Thriller",3.4
+755,Single Slipper Size - 7,2019,120,Parthiban Radhakrishnan,"Parthiban Radhakrishnan, Gayathrie, Deepa Venkat",Drama,8.3
+756,Horrible Histories: The Movie - Rotten Romans,2019,88,Dominic Brigstocke,"Sebastian Croft, Emilia Jones, Nick Frost","Comedy, Family, History",5.4
+757,After She Wakes,2019,78,Dave Clark,"Kevin Alai, Jason Brandel, Stella Carlish","Horror, Thriller",3.8
+758,Cruel Peter,2019,95,"Christian Bisceglia, Ascanio Malgarini","Angelica Alleruzzo, Antonio Alveario, Aran Bevan",Horror,4.5
+759,Good Sam,2019,89,Kate Melville,"Tiya Sircar, Chad Connell, Marco Grazzini","Comedy, Drama, Romance",5.8
+760,I Trapped the Devil,2019,82,Josh Lobo,"Scott Poythress, AJ Bowen, Susan Burke","Horror, Mystery, Thriller",4.8
+761,School Life,2019,111,"Mehdi Idir, Grand Corps Malade","Zita Hanrot, Liam Pierron, Soufiane Guerrab","Comedy, Drama",6.5
+762,Out Stealing Horses,2019,123,Hans Petter Moland,"Stellan Skarsgård, Bjørn Floberg, Jon Ranes","Drama, Mystery",6.5
+763,Straight Up,2019,95,James Sweeney,"James Sweeney, Katie Findlay, Dana Drori","Comedy, Romance",6.9
+764,Benny Loves You,2019,94,Karl Holt,"Karl Holt, Claire Cartwright, George Collie","Comedy, Horror, Thriller",5.6
+765,Advantages of Travelling by Train,2019,106,Aritz Moreno,"Luis Tosar, Pilar Castro, Ernesto Alterio","Comedy, Mystery, Thriller",6.4
+766,F2: Fun and Frustration,2019,148,Anil Ravipudi,"Tamannaah Bhatia, Venkatesh Daggubati, Priyadarshi Pulikonda",Comedy,6.1
+767,Kavaludaari,2019,143,Hemanth M. Rao,"Suman Ranganath, Achyuth Kumar, Anant Nag","Crime, Drama, Mystery",7.9
+768,Get In,2019,97,Olivier Abbou,"Adama Niane, Stéphane Caillard, Paul Hamy","Drama, Horror, Thriller",5.6
+769,Planet of the Humans,2019,100,Jeff Gibbs,"Jeff Gibbs, David Joos, Kristin Zimmerman",Documentary,6.9
+770,Motichoor Chaknachoor,2019,150,Debamitra Biswal,"Nawazuddin Siddiqui, Athiya Shetty, Vibha Chhibber","Comedy, Romance",5.8
+771,Vernost,2019,82,Nigina Sayfullaeva,"Evgeniya Gromova, Aleksandr Pal, Marina Vasileva",Drama,5.7
+772,5Gang,2019,100,Matei Dima,"Andrei Selaru, 5Gang, Diana Condurache","Action, Comedy",2.0
+773,Sons of Rizk 2,2019,103,"Tarek Alarian, Ahmed Maher","Ahmed Ezz, Amr Youssef, Ahmad El-Fishawi","Action, Comedy, Crime",7.1
+774,Beyond the Law,2019,89,James Cullen Bressack,"Steven Seagal, Johnny Messner, DMX","Action, Crime, Thriller",3.7
+775,The Huntress: Rune of the Dead,2019,109,Rasmus Tirzitis,"Moa Stefansdotter, Yohanna Idha, Viva Östervall Lyngbrant","Action, Drama, Fantasy",4.3
+776,Dragon Quest: Your Story,2019,103,"Makoto Hanafusa, Ryuichi Yagi, Takashi Yamazaki","Kasumi Arimura, Steve Blum, Shaun Conde","Animation, Action, Adventure",6.5
+777,Holiday Rush,2019,92,Leslie Small,"Romany Malco, Sonequa Martin-Green, Darlene Love","Comedy, Drama, Family",5.0
+778,Pets United,2019,89,Reinhard Klooss,"Patrick Roche, Natalie Dormer, Felix Auer","Animation, Adventure, Comedy",3.7
+779,Oru Adaar Love,2019,145,Omar Lulu,"Siddique, Priya Prakash Varrier, Anjali Nair","Comedy, Romance",4.5
+780,Oh Baby,2019,161,B.V. Nandini Reddy,"Samantha Ruth Prabhu, Lakshmi, Rajendra Prasad","Comedy, Drama, Fantasy",7.3
+781,Untouchable,2019,98,Ursula Macfarlane,"Harvey Weinstein, Benjamin Brafman, Hope Exiner D'Amore","Documentary, Biography, Crime",6.7
+782,Unthinkable,2019,87,"George Loomis, Elias Talbot","Christopher Cousins, George Loomis, Missi Pyle","Mystery, Thriller",5.2
+783,Portrait of Beauty,2019,127,Umur Turagay,"Burçin Terzioglu, Birkan Sokullu, Melisa Senolsun","Drama, Horror, Thriller",6.3
+784,Badland,2019,117,Justin Lee,"Kevin Makely, Trace Adkins, Mira Sorvino","Drama, Western",5.6
+785,Friend Zone,2019,118,Chayanop Boonprakob,"Pimchanok Luevisadpaibul, Naphat Siangsomboon, Jason Young","Comedy, Romance",7.2
+786,Dance with Me,2019,94,Sorush Sehhat,"Ali Mosaffa, Javad Ezati, Hanieh Tavassoli","Comedy, Drama, Fantasy",6.7
+787,Ides? Idem!,2019,97,Ljubo Zdjelarevic,"Baka Prase, Veronika Rosandic, Vid Juracic","Adventure, Comedy",3.5
+788,The Dude in Me,2019,122,Kang Hyo-jin,"Park Sung-woong, Jung Jinyoung, Ra Mi-ran","Action, Comedy, Fantasy",6.9
+789,Tone-Deaf,2019,87,Richard Bates Jr.,"Kim Delaney, Ray Wise, Amanda Crew","Comedy, Horror, Thriller",4.9
+790,The Jack in the Box,2019,87,Lawrence Fowler,"Ethan Taylor, Robert Strange, Lucy-Jane Quinlan",Horror,4.3
+791,Hala,2019,94,Minhal Baig,"Geraldine Viswanathan, Jack Kilmer, Gabriel Luna",Drama,6.3
+792,37 Seconds,2019,115,Hikari,"Eita Okuno, Makiko Watanabe, Minori Hagiwara",Drama,7.4
+793,The Miracle 2: Love,2019,129,Mahsun Kirmizigül,"Mert Turak, Fikret Kuskan, Biran Damla Yilmaz","Drama, History",7.3
+794,Instinct,2019,98,Halina Reijn,"Carice van Houten, Marwan Kenzari, Marie-Mae van Zuilen","Drama, Mystery, Thriller",6.0
+795,Who Killed Garrett Phillips?,2019,186,Liz Garbus,"Oral Hillary, Brian Phillips, Tyler Rodrigues","Documentary, Crime, Mystery",7.3
+796,Innocent Witness,2019,129,Lee Han,"Yeom Hye-ran, Jung Woo-sung, Jang Young-nam","Crime, Drama, Mystery",7.5
+797,The Parts You Lose,2019,93,Christopher Cantwell,"Aaron Paul, Scoot McNairy, Mary Elizabeth Winstead","Crime, Drama, Thriller",5.8
+798,Random Acts of Violence,2019,80,Jay Baruchel,"Jesse Williams, Jordana Brewster, Jay Baruchel",Horror,5.2
+799,Dark Light,2019,90,Padraig Reynolds,"Jessica Madsen, Opal Littleton, Ed Brody","Horror, Mystery, Sci-Fi",4.5
+800,The Shiny Shrimps,2019,103,"Maxime Govare, Cédric Le Gallo","Nicolas Gob, Alban Lenoir, Michaël Abiteboul","Comedy, Drama, Sport",6.5
+801,Stanley Stanton,2019,62,Mars McCracken,"Bruce McCracken, Wesley Baldwin, Eric Harris",Drama,4.0
+802,Tell No One,2019,121,Tomasz Sekielski,"Franciszek Cybula, Irena Drewla, Stanislaw Gadecki",Documentary,8.2
+803,"Family Romance, LLC",2019,89,Werner Herzog,"Yuichi Ishii, Mahiro Tanimoto, Miki Fujimaki",Drama,6.7
+804,Cargo,2019,119,Arati Kadav,"Vikrant Massey, Shweta Tripathi, Nandu Madhav","Drama, Fantasy, Sci-Fi",5.6
+805,My Mom is a Character 3,2019,111,Susana Garcia,"Paulo Gustavo, Mariana Xavier, Rodrigo Pandolfo",Comedy,7.1
+806,The Fable,2019,123,Kan Eguchi,"Jun'ichi Okada, Fumino Kimura, Mizuki Yamamoto","Action, Comedy",6.6
+807,Chal Mera Putt,2019,124,Janjot Singh,"Amrinder Gill, Simi Chahal, Iftikhar Thakur","Comedy, Drama",7.5
+808,Capital in the Twenty-First Century,2019,103,Justin Pemberton,"Keira Knightley, Michael Douglas, Vanessa Redgrave",Documentary,7.3
+809,Master Cheng,2019,114,Mika Kaurismäki,"Pak-Hong Chu, Anna-Maija Tuokko, Lucas Hsuan","Comedy, Drama, Romance",6.9
+810,I Am Woman,2019,116,Unjoo Moon,"Danielle Macdonald, Chris Parnell, Evan Peters","Biography, Drama, Music",6.6
+811,Torpedo,2019,102,Sven Huybrechts,"Koen De Bouw, Thure Riefenstein, Ella-June Henrard","Action, Adventure, History",5.9
+812,ECCO,2019,123,Ben Medina,"Lathrop Walker, Tabitha Bastien, Helena Grace Donald","Crime, Drama, Thriller",4.5
+813,Judy & Punch,2019,105,Mirrah Foulkes,"Daisy Axon, Don Bridges, Michael Papas","Comedy, Crime, Drama",6.1
+814,The Lift Boy,2019,107,Jonathan Augustin,"Moin Khan, Nyla Masood, Sagar Kale","Comedy, Drama",7.2
+815,Hinsdale House,2019,65,Steve Stanulis,"Steve Stanulis, Eric Freeman, Victoria Oliver",Horror,3.0
+816,The Forest of Love,2019,151,Sion Sono,"Kippei Shîna, Shinnosuke Mitsushima, Kyoko Hinami","Crime, Drama, Horror",6.2
+817,The Secret Men Club,2019,105,"Khaled El Halafawy, Mohamed Nasser Hamza","Karim Abdel Aziz, Ghada Adel, Nisreen Tafish",Comedy,6.5
+818,Bring the Soul: The Movie,2019,103,Park Jun-soo,"RM, Jin, j-hope","Documentary, Music",8.4
+819,Rahman 1400,2019,111,Manouchehr Hadi,"Mohammad Reza Golzar, Saeed Aghakhani, Yekta Naser","Comedy, Drama",4.5
+820,Spread Your Wings,2019,113,Nicolas Vanier,"Jean-Paul Rouve, Mélanie Doutey, Louis Vazquez","Adventure, Drama, Family",7.3
+821,Why Cheat India,2019,121,Soumik Sen,"Emraan Hashmi, Shreya Dhanwanthary, Snighdadeep Chatterji","Comedy, Crime, Drama",6.1
+822,Mamangam: History of the Brave,2019,157,M. Padmakumar,"Mammootty, Unni Mukundan, Achuthan B. Nair","Action, Drama, History",5.3
+823,iSmart Shankar,2019,140,"Puri Jagannadh, A.R. Sreedhar","Ram Pothineni, Satyadev Kancharana, Nabha Natesh","Action, Sci-Fi",5.4
+824,Pagalpanti,2019,149,Anees Bazmee,"Anil Kapoor, John Abraham, Ileana D'Cruz","Action, Comedy",3.3
+825,Clownado,2019,99,Todd Sheets,"John O'Hara, Rachel Lagen, Bobby Westrick","Comedy, Horror",3.3
+826,Born a King,2019,103,Agustí Villaronga,"Abdullah Ali, Rawkan Binbella, Ed Skrein","Drama, History",7.3
+827,Vault,2019,99,Tom DeNucci,"Theo Rossi, Clive Standen, Samira Wiley","Action, Crime, Drama",5.5
+828,Rising Free,2019,102,Christian Johannesson,"Samantha Droke, Melanie Foust, Bob Grove","Drama, History",4.6
+829,Night Walk,2019,97,Aziz Tazi,"Sean Stone, Sarah Alami, Laouni Mouhid","Action, Crime, Drama",3.7
+830,The Cave,2019,107,Feras Fayyad,"Alaa, Amani Ballour, Salim Namour","Documentary, War",7.5
+831,Ardaas Karaan,2019,140,Gippy Grewal,"Gippy Grewal, Gurpreet Ghuggi, Sapna Pabbi",Drama,7.2
+832,Happy Old Year,2019,113,Nawapol Thamrongrattanarit,"Chutimon Chuengcharoensukying, Sunny Suwanmethanont, Sarika Sartsilpsupa","Drama, Romance",7.2
+833,Marudhar Express,2019,106,Vishal Mishra,"Kunaal Roy Kapur, Tara-Alisha Berry, Rajesh Sharma","Drama, Romance",4.8
+834,Our Ladies,2019,106,Michael Caton-Jones,"Abigail Lawrie, Rona Morison, Marli Siu","Comedy, Drama",6.7
+835,Comrade Drakulich,2019,95,Márk Bodzsár,"Lili Walters, Ervin Nagy, Zsolt Nagy","Comedy, Fantasy, Horror",6.4
+836,Changeland,2019,86,Seth Green,"Seth Green, Breckin Meyer, Macaulay Culkin","Comedy, Drama",5.7
+837,The Deeper You Dig,2019,95,"John Adams, Zelda Adams, Toby Poser","Toby Poser, Zelda Adams, John Adams","Drama, Horror",5.7
+838,Dancing with the Birds,2019,52,Huw Cordey,Stephen Fry,Documentary,8.2
+839,Native Son,2019,104,Rashid Johnson,"Ashton Sanders, Margaret Qualley, Nick Robinson",Drama,5.7
+840,Walk. Ride. Rodeo.,2019,100,Conor Allyn,"Spencer Locke, Missi Pyle, Bailey Chase","Biography, Drama, Sport",6.4
+841,Alice and the Mayor,2019,103,Nicolas Pariser,"Fabrice Luchini, Anaïs Demoustier, Nora Hamzawi","Comedy, Drama",6.4
+842,Ishq,2019,134,Anuraj Manohar,"Shane Nigam, Ann Sheetal, Shine Tom Chacko","Drama, Romance, Thriller",7.5
+843,Revealing Ukraine,2019,84,Igor Lopatonok,"Oliver Stone, Viktor Medvedchuk, Oksana Marchenko",Documentary,6.7
+844,Bell Bottom,2019,130,Jayathirtha,"Rishab Shetty, Haripriya, Yograj Bhat","Comedy, Drama, Thriller",8.1
+845,Koko-di Koko-da,2019,89,Johannes Nyholm,"Leif Edlund, Ylva Gallon, Katarina Jacobson","Drama, Fantasy, Horror",5.8
+846,The Goddess of Fortune,2019,118,Ferzan Özpetek,"Stefano Accorsi, Edoardo Leo, Jasmine Trinca",Drama,6.7
+847,Sator,2019,85,Jordan Graham,"Michael Daniel, Rachel Johnson, Aurora Lowe",Horror,5.1
+848,Crossbreed,2019,86,Brandon Slagle,"Vivica A. Fox, Daniel Baldwin, Stink Fisher","Action, Comedy, Sci-Fi",3.2
+849,Body at Brighton Rock,2019,87,Roxanne Benjamin,"Karina Fontes, Casey Adams, Emily Althaus","Comedy, Drama, Fantasy",4.7
+850,36 Husbands,2019,83,Michael Glover,"Christa Pasch, Roberta Bianchini, Nadine Nourney",Comedy,3.8
+851,Monster,2019,139,Nelson Venkatesan,"S.J. Suryah, Priya Bhavani Shankar, Karunakaran","Comedy, Drama, Family",6.7
+852,Cold Case Hammarskjöld,2019,128,Mads Brügger,"Mads Brügger, Clarinah Mfengu, Saphir Wenzi Mabanza","Documentary, History",7.5
+853,Vinci Da,2019,117,Srijit Mukherji,"Anirban Bhattacharya, Ritwick Chakraborty, Rudranil Ghosh","Crime, Mystery, Thriller",7.3
+854,4x4,2019,90,Mariano Cohn,"Peter Lanzani, Ailén Mazioni, Dady Brieva","Crime, Thriller",5.7
+855,No Safe Spaces,2019,100,Justin Folk,"Adam Carolla, Dennis Prager, Jordan B. Peterson","Documentary, News, War",7.1
+856,The Shed,2019,98,Frank Sabatella,"Jay Jay Warren, Cody Kostro, Sofia Happonen","Drama, Horror",4.8
+857,The Drone,2019,82,Jordan Rubin,"Alexandra Essoe, John Brotherton, Aníta Briem","Comedy, Horror, Sci-Fi",4.0
+858,Porno,2019,98,Keola Racela,"Evan Daves, Larry Saperstein, Jillian Mueller","Comedy, Horror",5.1
+859,Atlantis,2019,108,Valentyn Vasyanovych,"Andriy Rymaruk, Liudmyla Bileka, Vasyl Antoniak","Drama, War",6.9
+860,Gutterbug,2019,101,Andrew Gibson,"Andrew Yackel, Justin Pietropaolo, Hannah Mosqueda","Crime, Drama",6.2
+861,The Way We Weren't,2019,93,Rick Hays,"Fiona Gubelmann, Ben Lawson, Tobin Bell",Comedy,5.3
+862,White Lie,2019,96,"Yonah Lewis, Calvin Thomas","Kacey Rohl, Amber Anderson, Martin Donovan",Drama,6.6
+863,The Goldfish,2019,111,Alireza Golafshan,"Tom Schilling, Klaas Heufer-Umlauf, Lisa Bitter",Comedy,6.6
+864,Prey,2019,85,Franck Khalfoun,"Logan Miller, Kristine Froseth, Jolene Anderson","Adventure, Horror, Mystery",4.6
+865,Rewind,2019,86,Sasha Joseph Neulinger,"Sasha Joseph Neulinger, Henry Nevison, Howard Nevison","Documentary, Biography, Drama",7.9
+866,The Swallows of Kabul,2019,81,"Zabou Breitman, Eléa Gobbé-Mévellec","Simon Abkarian, Hiam Abbass, Swann Arlaud","Animation, Drama, War",7.5
+867,Boys vs. Girls,2019,81,Michael Stasko,"Kevin McDonald, Colin Mochrie, Samantha Helt",Comedy,5.0
+868,Thambi,2019,149,Jeethu Joseph,"Karthi, Jyotika, Sathyaraj","Action, Drama, Thriller",6.7
+869,Shanghai Fortress,2019,107,Hua-Tao Teng,"Han Lu, Shu Qi, Liang Shi",Sci-Fi,4.4
+870,Hope,2019,125,Maria Sødahl,"Andrea Bræin Hovig, Stellan Skarsgård, Elli Rhiannon Müller Osborne","Drama, Romance",7.3
+871,Gumnaami,2019,142,Srijit Mukherji,"Prosenjit Chatterjee, Anirban Bhattacharya, Tanushree Chakraborty","Action, Drama, History",7.8
+872,Gone Kesh,2019,110,Qasim Khallow,"Shweta Tripathi, Alisha, Deepika Amin","Comedy, Drama",6.8
+873,Jo Pil-ho: The Dawning Rage,2019,127,Lee Jeong-beom,"Lee Sun-kyun, Jeon So-nee, Park Hae-joon","Action, Crime, Drama",6.4
+874,The Zoya Factor,2019,134,"Abhishek Sharma, Mehmet Tutkun","Sonam Kapoor, Dulquer Salmaan, Sanjay Kapoor","Comedy, Drama, Romance",4.4
+875,A Night of Horror: Nightmare Radio,2019,104,"Oliver Park, Jason Bognacki, A.J. Briones","Patricia Arizmendi, Adrián Barriopedro, Claudia Beattie","Horror, Mystery",5.0
+876,Days of the Bagnold Summer,2019,86,Simon Bird,"Monica Dolan, Earl Cave, Elliot Speller-Gillott","Comedy, Drama, Music",6.6
+877,You Will Die at 20,2019,103,Amjad Abu Alala,"Mustafa Shehata, Islam Mubarak, Mahmoud Maysara Elsaraj",Drama,7.0
+878,Mystify: Michael Hutchence,2019,102,Richard Lowenstein,"Michael Hutchence, Dennis Farriss, INXS","Documentary, Biography, Music",7.3
+879,Chitralahari,2019,131,Thirumala Kishore,"Sai Dharam Tej, Kalyani Priyadarshan, Nivetha Pethuraj","Comedy, Drama, Romance",7.1
+880,Black Garden,2019,90,Shaun Wilson,"Cara Culligan, Phil Edwards, Tammy Honey",Sci-Fi,3.6
+881,The Sunlit Night,2019,106,David Wnendt,"Jenny Slate, Alex Sharp, Fridtjov Såheim","Drama, Romance",6.1
+882,The Man Without Gravity,2019,107,Marco Bonfanti,"Elio Germano, Michela Cescon, Elena Cotta","Comedy, Drama, Fantasy",5.8
+883,One Day: Justice Delivered,2019,124,Ashok Nanda,"Anupam Kher, Kumud Mishra, Esha Gupta","Action, Crime, Thriller",5.1
+884,The Bad Guys: The Movie,2019,114,Yong-ho Son,"Ma Dong-seok, Kim Sang-jung, Kim Ah-jung","Action, Crime, Thriller",6.2
+885,Who Would You Take to a Deserted Island?,2019,93,Jota Linares,"Pol Monen, Jaime Lorente, Andrea Ros",Drama,5.3
+886,Ibiza,2019,87,Arnaud Lemort,"Christian Clavier, Mathilde Seigner, Leopold Buchsbaum",Comedy,5.1
+887,Zombi Child,2019,103,Bertrand Bonello,"Louise Labèque, Wislanda Louimat, Katiana Milfort","Drama, Fantasy, Horror",5.9
+888,Zombie for Sale,2019,112,Lee Min-jae,"Jeong Jae-yeong, Kim Nam-gil, Uhm Ji-won","Comedy, Horror, Sci-Fi",6.6
+889,A Regular Woman,2019,90,Sherry Hormann,"Almila Bagriacik, Rauand Taleb, Merve Aksoy","Crime, Drama",7.6
+890,"Standing Up, Falling Down",2019,91,Matt Ratner,"Billy Crystal, Ben Schwartz, Grace Gummer","Comedy, Drama",6.6
+891,Behind the Trees,2019,86,Vikram Jayakumar,"Vanessa Curry, Sahil Shroff, Subrat Dutta","Horror, Mystery, Thriller",3.7
+892,The Kingmaker,2019,101,Lauren Greenfield,"Imelda Marcos, Etta Rosales, Ferdinand Marcos","Documentary, Biography, History",7.6
+893,Trading Paint,2019,87,Karzan Kader,"John Travolta, Shania Twain, Toby Sebastian","Action, Drama, Sport",4.5
+894,Outback,2019,86,Mike Green,"Lauren Lofberg, Taylor Wiese, Brendan Donoghue","Drama, Horror, Thriller",5.0
+895,Lara,2019,98,Jan-Ole Gerster,"Corinna Harfouch, Johann von Bülow, Alexander Khuon","Drama, Music",7.0
+896,Magamuni,2019,156,Santhakumar,"Arya, Elango Kumaravel, Mahima Nambiar","Crime, Drama, Thriller",7.6
+897,Patrick,2019,97,Tim Mielants,"Kevin Janssens, Pierre Bokma, Ariane Van Vliet","Comedy, Drama, Mystery",6.7
+898,Hero,2019,164,P.S. Mithran,"Sivakarthikeyan, Abhay Deol, Arjun Sarja","Action, Drama, Thriller",6.3
+899,Mother,2019,128,Rodrigo Sorogoyen,"Marta Nieto, Jules Porier, Alex Brendemühl","Drama, Thriller",6.6
+900,The Ringmaster,2019,88,"Molly Dworsky, Dave Newberg","Zachary Capp, Larry Lang, Gene Simmons",Documentary,6.6
+901,Hostage Radio,2019,97,Pedro C. Alonso,"Eddie Marsan, Paul Anderson, Ivana Baquero","Action, Adventure, Horror",5.5
+902,The Passage,2019,150,Sherif Arafa,"Mahmoud Abdelnaser, Salem Abdo, Haggag Abdulazim","Action, Biography, Drama",7.0
+903,Black Ops,2019,102,Tom Paton,"Shayne Ward, Bentley Kalu, Samantha Schnitzler","Action, Horror, Sci-Fi",4.0
+904,The Legend of Hei,2019,101,Mtjj,"Xin Shan, Yuntu Cao, Khoi Dao","Animation, Action, Adventure",7.3
+905,Break,2019,85,Tigran Sahakyan,"Irina Antonenko, Andrey Nazimov, Denis Kosyakov","Adventure, Drama, Horror",4.6
+906,The Captain,2019,111,Wai Keung Lau,"Hanyu Zhang, Hao Ou, Jiang Du","Action, Adventure, Drama",6.2
+907,Acceleration,2019,85,"Michael Merino, Daniel Zirilli","Sean Patrick Flanery, Dolph Lundgren, Chuck Liddell","Action, Thriller",3.5
+908,"Gospod postoi, imeto i' e Petrunija",2019,100,Teona Strugar Mitevska,"Zorica Nusheva, Labina Mitevska, Stefan Vujisic",Drama,6.8
+909,Pegasus,2019,98,Han Han,"Teng Shen, Johnny Huang, Zheng Yin","Comedy, Sport",6.3
+910,Juanita,2019,90,Clark Johnson,"Alfre Woodard, Bonnie Johnson, Jordan Nia Elizabeth",Drama,6.1
+911,Ready to Mingle,2019,95,Luis Javier Henaine,"Cassandra Ciangherotti, Gabriela de la Garza, Irán Castillo",Comedy,5.9
+912,Shed of the Dead,2019,82,Drew Cullingham,"Spencer Brown, Lauren Socha, Ewen MacIntosh","Comedy, Horror",4.2
+913,Oh Mercy!,2019,119,Arnaud Desplechin,"Roschdy Zem, Léa Seydoux, Sara Forestier","Crime, Drama, Thriller",6.3
+914,Maria,2019,90,Pedring Lopez,"Cristine Reyes, Germaine De Leon, KC Montero","Action, Drama, Thriller",5.0
+915,The Gallows Act II,2019,99,"Travis Cluff, Chris Lofing","Ema Horvath, Chris Milligan, Britt Falardeau","Horror, Mystery, Thriller",4.2
+916,The Girl with a Bracelet,2019,95,Stéphane Demoustier,"Roschdy Zem, Chiara Mastroianni, Melissa Guers","Crime, Drama",6.6
+917,Framing John DeLorean,2019,109,"Don Argott, Sheena M. Joyce","John DeLorean, Alec Baldwin, Josh Charles","Documentary, Biography, Drama",6.5
+918,Vikruthi,2019,123,Emcy Joseph,"Suraj Venjaramoodu, Soubin Shahir, Vincy Aloshious","Comedy, Drama",7.4
+919,The Best Is Yet to Come,2019,117,"Alexandre de La Patellière, Matthieu Delaporte","Fabrice Luchini, Patrick Bruel, Zineb Triki","Comedy, Drama",6.7
+920,Butt Boy,2019,99,Tyler Cornack,"Tyler Rice, Tyler Cornack, Shelby Dash","Comedy, Crime, Mystery",5.6
+921,Madness in the Method,2019,99,Jason Mewes,"Jason Mewes, Vinnie Jones, Jaime Camil","Comedy, Crime",5.5
+922,Linda Ronstadt: The Sound of My Voice,2019,95,"Rob Epstein, Jeffrey Friedman","Linda Ronstadt, Bonnie Raitt, Dolly Parton","Documentary, Biography, Music",8.0
+923,Monica and Friends: Bonds,2019,97,Daniel Rezende,"Giulia Benite, Kevin Vechiatto, Laura Rauseo","Adventure, Family",7.1
+924,Max Winslow and the House of Secrets,2019,98,Sean Olson,"Chad Michael Murray, Marina Sirtis, Sydne Mikelle","Family, Sci-Fi, Thriller",5.1
+925,Vitalina Varela,2019,124,Pedro Costa,"Vitalina Varela, Ventura, Manuel Tavares Almeida",Drama,6.7
+926,Paradise Beach,2019,93,Xavier Durringer,"Sami Bouajila, Tewfik Jallab, Mélanie Doutey","Action, Thriller",4.6
+927,What's My Name: Muhammad Ali,2019,165,Antoine Fuqua,"Bill Cosby, Stephen Stanton, Jim Brown","Documentary, Biography, Sport",8.4
+928,Britt-Marie Was Here,2019,97,Tuva Novotny,"Pernilla August, Peter Haber, Anders Mossling","Comedy, Drama, Sport",5.5
+929,The Tomorrow Man,2019,94,Noble Jones,"John Lithgow, Blythe Danner, Derek Cecil","Drama, Romance",5.9
+930,An Affair to Die For,2019,82,Víctor Garcia,"Claire Forlani, Amy Dincuff, Nathan Cooper","Horror, Thriller",4.9
+931,Terra Willy,2019,89,Eric Tosti,"Landen Beattie, Jason Anthony, Edouard Baer","Animation, Adventure, Comedy",6.6
+932,StarDog and TurboCat,2019,90,Ben Smith,"Luke Evans, Nick Frost, Gemma Arterton","Animation, Action, Adventure",5.2
+933,Eternal Beauty,2019,95,Craig Roberts,"Sally Hawkins, Morfydd Clark, Robert Pugh","Comedy, Drama, Romance",6.3
+934,The Refuge,2019,98,Keith Sutliff,"Keith Sutliff, Julien Cesario, Matthew Webb","Crime, Drama, Thriller",3.0
+935,Pailwaan,2019,166,S Krishna,"Suniel Shetty, Aakanksha Singh, Sudeep","Action, Drama, Sport",6.2
+936,Son Rise,2019,49,Vibha Bakshi,,Documentary,7.4
+937,9,2019,149,Jenuse Mohamed,"Prithviraj Sukumaran, Wamiqa Gabbi, Alok","Fantasy, Horror, Sci-Fi",6.7
+938,My Dog Stupid,2019,106,Yvan Attal,"Yvan Attal, Charlotte Gainsbourg, Eric Ruf","Comedy, Drama",6.3
+939,Wish Man,2019,107,Theo Davies,"Andrew Steel, Kirby Bliss Blanton, Tom Sizemore","Biography, Drama, Family",7.0
+940,Dropa,2019,101,Wayne Slaten,"Jason Douglas, David Matranga, James Hong","Drama, Sci-Fi, Thriller",4.2
+941,Mrs Lowry & Son,2019,91,Adrian Noble,"Vanessa Redgrave, Timothy Spall, Wendy Morgan","Biography, Drama, History",6.7
+942,Abe,2019,85,Fernando Grostein Andrade,"Noah Schnapp, Seu Jorge, Dagmara Dominczyk","Comedy, Drama",6.2
+943,Abstruse,2019,117,Harley Wallen,"Tom Sizemore, Dennis Haskins, Kris Reilly","Action, Crime, Drama",3.2
+944,A Good Doctor,2019,90,Tristan Séguéla,"Michel Blanc, Hakim Jemili, Solène Rigot",Comedy,6.5
+945,Monsoon,2019,85,Hong Khaou,"Henry Golding, William Do, David Tran","Drama, History, Romance",6.0
+946,The Door,2019,110,Nihat Durak,"Kadir Inanir, Vahide Perçin, Timur Acar",Drama,6.9
+947,Darlin',2019,100,Pollyanna McIntosh,"Cooper Andrews, Lauryn Canny, Kristina Arntz","Horror, Thriller",4.9
+948,Gaddalakonda Ganesh,2019,130,Harish Shankar,"Varun Tej, Pooja Hegde, Atharvaa Murali","Action, Comedy, Crime",6.3
+949,Missing 411: The Hunted,2019,97,Michael DeGrazier,"David Paulides, Beverly Messick, Rob Messick",Documentary,7.0
+950,Axone,2019,104,Nicholas Kharkongor,"Sayani Gupta, Lin Laishram, Jimpa Sangpo Bhutia","Comedy, Drama",6.9
+951,Panodrama,2019,64,Tommy Robinson,"Tommy Robinson, Lucy Brown, Tom Dupree",Documentary,4.0
+952,Queen Marie of Romania,2019,110,"Alexis Cahill, Brigitte Drodtloff","Roxana Lupu, Daniel Plier, Richard Elfyn",Drama,7.2
+953,On a Magical Night,2019,86,Christophe Honoré,"Chiara Mastroianni, Benjamin Biolay, Vincent Lacoste",Comedy,6.0
+954,The Columnist,2019,86,Ivo van Aart,"Katja Herbers, Achraf Koutet, Harry van Rijthoven","Comedy, Crime, Drama",6.2
+955,Chandigarh Amritsar Chandigarh,2019,107,Karaan Guliani,"Dilpreet Dhillon, Gippy Grewal, Ankit Kumar","Comedy, Drama, Romance",6.2
+956,Paharganj,2019,108,Rakesh Ranjan Kumar,"Lorena Franco, Bijesh Jayarajan, Neet Chowdhary","Crime, Drama, Mystery",3.8
+957,Coda,2019,96,Claude Lalonde,"Patrick Stewart, Katie Holmes, Giancarlo Esposito","Drama, Music",6.0
+958,Volition,2019,91,Tony Dean Smith,"Adrian Glynn McMorran, Magda Apanowicz, John Cassini","Crime, Drama, Sci-Fi",5.6
+959,Beneath Us,2019,86,Max Pachman,"Lynn Collins, Rigo Sanchez, Josue Aguirre","Horror, Thriller",5.4
+960,India's Most Wanted,2019,123,Raj Kumar Gupta,"Arjun Kapoor, Sudev Nair, Preet Bhullar","Action, Thriller",4.7
+961,Evening Installation,2019,81,Tatiana Sokolova,"Tatiana Sokolova, Daniel Curtis Lee, Althea Sam",Thriller,3.2
+962,Step Up China,2019,100,Ron Yuan,"Sean Lew, Jade Chynoweth, Jingjing Qu",Music,3.7
+963,Cousins,2019,83,"Mauro Carvalho, Thiago Cazado","Thiago Cazado, Paulo Sousa, Juliana Zancanaro","Comedy, Drama, Romance",6.3
+964,Top End Wedding,2019,113,Wayne Blair,"Brooklyn Doomadgee, Helena Johnson, Dan Collins","Comedy, Romance",6.3
+965,Arctic Dogs,2019,92,Aaron Woodley,"Jeremy Renner, Heidi Klum, James Franco","Animation, Adventure, Comedy",4.9
+966,Witches in the Woods,2019,90,Jordan Barker,"Hannah Kasulka, Craig Arnold, Sasha Clements","Horror, Mystery, Thriller",4.4
+967,"My People, My Country",2019,154,"Kaige Chen, Guan Hu, Hao Ning","Huang Bo, Qianyuan Wang, Hao Ou","Drama, History",6.3
+968,Saving Zoë,2019,95,Jeffrey G. Hunt,"Laura Marano, Vanessa Marano, Chris Tavarez","Crime, Drama, Mystery",5.4
+969,99 Songs,2019,128,Vishwesh Krishnamoorthy,"Ehan Bhat, Edilsy Vargas, Tenzing Dalha","Musical, Romance",6.5
+970,Junglee,2019,115,Chuck Russell,"Vidyut Jammwal, Pooja Sawant, Asha Bhat","Action, Adventure",5.5
+971,The Village in the Woods,2019,82,Raine McCormack,"Beth Park, Robert Vernon, Richard Hope","Drama, Horror, Mystery",4.1
+972,Making Waves: The Art of Cinematic Sound,2019,94,Midge Costin,"Gary Rydstrom, Steven Spielberg, Teresa Eckton","Documentary, History",7.6
+973,June,2019,141,Ahammed Khabeer,"Rajisha Vijayan, Sarjano Khalid, Joju George","Drama, Family, Musical",7.3
+974,Animals,2019,109,Sophie Hyde,"Holliday Grainger, Alia Shawkat, Amy Molloy","Comedy, Drama",6.0
+975,Masquerade Hotel,2019,133,Masayuki Suzuki,"Takuya Kimura, Masami Nagasawa, Fumiyo Kohinata","Crime, Drama, Mystery",6.3
+976,Sawah,2019,86,Adolf El Assal,"Karim Kassem, Eric Kabongo, Jean-Luc Couchard","Comedy, Drama, Thriller",5.4
+977,Chasing Happiness,2019,96,John Lloyd Taylor,"Nick Jonas, Joe Jonas, Kevin Jonas","Documentary, Biography, Music",7.7
+978,Sang Krasue,2019,122,Sitisiri Mongkolsiri,"Phantira Pipityakorn, Oabnithi Wiwattanawarang, Great Sapol Assawamunkong","Drama, Horror, Romance",6.4
+979,Divine Love,2019,101,Gabriel Mascaro,"Dira Paes, Julio Machado, Antonio Pastich","Drama, Sci-Fi",6.2
+980,The Demonologist,2019,100,J.M. Stelly,"Brian Krause, Dane Rhodes, Manon Pages","Crime, Fantasy, Horror",3.3
+981,Scales,2019,74,Shahad Ameen,"Ashraf Barhom, Basima Hajjar, Fatima Al Taei","Drama, Fantasy, Mystery",5.7
+982,Once Were Brothers,2019,100,Daniel Roher,"The Band, Robbie Robertson, Bruce Springsteen","Documentary, Biography, History",7.4
+983,Share,2019,87,Pippa Bianco,"Rhianne Barreto, J.C. MacKenzie, Christian Corrao","Crime, Drama, Mystery",5.6
+984,Kadaram Kondan,2019,121,Rajesh M. Selva,"Vikram, Akshara Haasan, Abi Hassan","Action, Crime, Thriller",5.6
+985,The Elder One,2019,125,Geethu Mohandas,"Nivin Pauly, Shashank Arora, Sanjana Dipu","Crime, Drama, Romance",7.4
+986,Manifest Destiny Down: Spacetime,2019,101,"Jonathan T. Baker, Bo D.","Jeff Kenny, Lexie Lowell, Jonathan T. Baker","Comedy, Musical, Romance",4.0
+987,Marianne & Leonard: Words of Love,2019,102,Nick Broomfield,"Nick Broomfield, Leonard Cohen, Marianne Ihlen","Documentary, Biography, Music",7.0
+988,Heza,2019,111,Munna Kasi,"Tanikella Bharani, Lizzee Gopal, Munna Kasi",Drama,6.8
+989,The Strong Ones,2019,99,Omar Zúñiga,"Samuel González, Antonio Altamirano, Marcela Salinas","Drama, Romance",7.3
+990,Give Me Liberty,2019,110,Kirill Mikhanovsky,"Chris Galust, Lauren 'Lolo' Spencer, Maksim Stoyanov","Comedy, Drama",6.7
+991,Nenu Lenu,2019,118,Ram Kumar,"Harshith, Harshith Koditham, Sri Padma",Drama,5.5
+992,Raatchasi,2019,134,Sy Gowthamraj,"Jyotika, Hareesh Peradi, Poornima Jayaram",Drama,7.4
+993,I Hate Kids,2019,89,John Asher,"Tom Everett Scott, Tituss Burgess, Julian Feder","Adventure, Comedy",5.1
+994,Tyger Tyger,2019,92,Kerry Mondragón,"Sam Quartin, Dylan Sprouse, Nekhebet Kum Juch","Adventure, Romance, Western",4.1
+995,The Booksellers,2019,99,D.W. Young,"Parker Posey, Fran Lebowitz, Gay Talese",Documentary,6.9
+996,Trixie Mattel: Moving Parts,2019,91,Nicholas Zeig-Owens,"Trixie Mattel, Benjamin Putnam, Caldwell Tidicue",Documentary,7.3
+997,Detective Conan: The Fist of Blue Sapphire,2019,109,Tomoka Nagaoka,"Minami Takayama, Wakana Yamazaki, Megumi Hayashibara","Animation, Action, Adventure",6.3
+998,Away,2019,75,Gints Zilbalodis,,"Animation, Adventure, Family",6.7
+999,General,2019,145,Antun Vrdoljak,"Goran Visnjic, Mustafa Nadarevic, Tarik Filipovic","Biography, Drama, History",2.7
+1000,Adiós,2019,111,Paco Cabezas,"Mario Casas, Natalia de Molina, Ruth Díaz","Action, Adventure, Drama",6.1

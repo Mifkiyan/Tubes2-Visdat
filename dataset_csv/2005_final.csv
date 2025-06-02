@@ -1,0 +1,1001 @@
+﻿ID,Name,Year,Duration,Directors,Actors,Genres,Rating
+1,Batman Begins,2005,140.0,Christopher Nolan,"Christian Bale, Michael Caine, Ken Watanabe","Action, Crime, Drama",8.2
+2,V for Vendetta,2005,132.0,James McTeigue,"Hugo Weaving, Natalie Portman, Rupert Graves","Action, Drama, Sci-Fi",8.1
+3,Star Wars: Episode III - Revenge of the Sith,2005,140.0,George Lucas,"Hayden Christensen, Natalie Portman, Ewan McGregor","Action, Adventure, Fantasy",7.6
+4,Sin City,2005,124.0,"Frank Miller, Quentin Tarantino, Robert Rodriguez","Mickey Rourke, Clive Owen, Bruce Willis","Crime, Thriller",8.0
+5,Harry Potter and the Goblet of Fire,2005,157.0,Mike Newell,"Daniel Radcliffe, Emma Watson, Rupert Grint","Adventure, Family, Fantasy",7.7
+6,Mr. & Mrs. Smith,2005,120.0,Doug Liman,"Brad Pitt, Angelina Jolie, Adam Brody","Action, Comedy, Crime",6.5
+7,Charlie and the Chocolate Factory,2005,115.0,Tim Burton,"Johnny Depp, Freddie Highmore, David Kelly","Adventure, Comedy, Family",6.7
+8,War of the Worlds,2005,117.0,Steven Spielberg,"Tom Cruise, Dakota Fanning, Tim Robbins","Action, Adventure, Sci-Fi",6.5
+9,The 40-Year-Old Virgin,2005,116.0,Judd Apatow,"Steve Carell, Catherine Keener, Paul Rudd","Comedy, Romance",7.1
+10,King Kong,2005,187.0,Peter Jackson,"Naomi Watts, Jack Black, Adrien Brody","Action, Adventure, Romance",7.2
+11,Madagascar,2005,86.0,"Eric Darnell, Tom McGrath","Chris Rock, Ben Stiller, David Schwimmer","Animation, Adventure, Comedy",6.9
+12,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",2005,143.0,Andrew Adamson,"Tilda Swinton, Georgie Henley, William Moseley","Adventure, Family, Fantasy",6.9
+13,Brokeback Mountain,2005,134.0,Ang Lee,"Jake Gyllenhaal, Heath Ledger, Michelle Williams","Drama, Romance",7.7
+14,Constantine,2005,121.0,Francis Lawrence,"Keanu Reeves, Rachel Weisz, Djimon Hounsou","Action, Fantasy, Horror",7.0
+15,Wedding Crashers,2005,119.0,David Dobkin,"Owen Wilson, Vince Vaughn, Rachel McAdams","Comedy, Romance",7.0
+16,Fantastic Four,2005,106.0,Tim Story,"Ioan Gruffudd, Michael Chiklis, Chris Evans","Action, Adventure, Fantasy",5.7
+17,Pride & Prejudice,2005,129.0,Joe Wright,"Keira Knightley, Matthew Macfadyen, Brenda Blethyn","Drama, Romance",7.8
+18,Lord of War,2005,122.0,Andrew Niccol,"Nicolas Cage, Ethan Hawke, Jared Leto","Crime, Drama",7.6
+19,Hitch,2005,118.0,Andy Tennant,"Will Smith, Eva Mendes, Kevin James","Comedy, Romance",6.6
+20,The Island,2005,136.0,Michael Bay,"Scarlett Johansson, Ewan McGregor, Djimon Hounsou","Action, Sci-Fi, Thriller",6.8
+21,Kingdom of Heaven,2005,144.0,Ridley Scott,"Orlando Bloom, Eva Green, Liam Neeson","Action, Adventure, Drama",7.3
+22,Corpse Bride,2005,77.0,"Tim Burton, Mike Johnson","Johnny Depp, Helena Bonham Carter, Emily Watson","Animation, Comedy, Drama",7.4
+23,Serenity,2005,119.0,Joss Whedon,"Nathan Fillion, Gina Torres, Chiwetel Ejiofor","Action, Adventure, Sci-Fi",7.8
+24,Saw II,2005,93.0,Darren Lynn Bousman,"Donnie Wahlberg, Beverley Mitchell, Franky G","Horror, Mystery",6.6
+25,Walk the Line,2005,136.0,James Mangold,"Joaquin Phoenix, Reese Witherspoon, Ginnifer Goodwin","Biography, Drama, Music",7.8
+26,A History of Violence,2005,96.0,David Cronenberg,"Viggo Mortensen, Maria Bello, Ed Harris","Action, Crime, Drama",7.4
+27,The Descent,2005,99.0,Neil Marshall,"Shauna Macdonald, Natalie Mendoza, Alex Reid","Adventure, Horror, Thriller",7.2
+28,Munich,2005,164.0,Steven Spielberg,"Eric Bana, Daniel Craig, Marie-Josée Croze","Drama, History, Thriller",7.5
+29,Kiss Kiss Bang Bang,2005,103.0,Shane Black,"Robert Downey Jr., Val Kilmer, Michelle Monaghan","Comedy, Crime, Mystery",7.5
+30,Match Point,2005,124.0,Woody Allen,"Scarlett Johansson, Jonathan Rhys Meyers, Emily Mortimer","Drama, Romance, Thriller",7.6
+31,Thank You for Smoking,2005,92.0,Jason Reitman,"Aaron Eckhart, Cameron Bright, Maria Bello","Comedy, Drama",7.5
+32,Transporter 2,2005,87.0,Louis Leterrier,"Jason Statham, Amber Valletta, Kate Nauta","Action, Thriller",6.3
+33,Jarhead,2005,125.0,Sam Mendes,"Jake Gyllenhaal, Jamie Foxx, Lucas Black","Biography, Drama, War",7.0
+34,The Hitchhiker's Guide to the Galaxy,2005,109.0,Garth Jennings,"Martin Freeman, Yasiin Bey, Sam Rockwell","Adventure, Comedy, Sci-Fi",6.7
+35,Cinderella Man,2005,144.0,Ron Howard,"Russell Crowe, Renée Zellweger, Craig Bierko","Biography, Drama, Romance",8.0
+36,The Longest Yard,2005,113.0,Peter Segal,"Adam Sandler, Burt Reynolds, Chris Rock","Comedy, Crime, Sport",6.4
+37,Hostel,2005,94.0,Eli Roth,"Jay Hernandez, Derek Richardson, Eythor Gudjonsson",Horror,5.9
+38,Coach Carter,2005,136.0,Thomas Carter,"Samuel L. Jackson, Rick Gonzalez, Robert Ri'chard","Biography, Drama, Sport",7.3
+39,Flightplan,2005,98.0,Robert Schwentke,"Jodie Foster, Peter Sarsgaard, Sean Bean","Drama, Mystery, Thriller",6.3
+40,Hard Candy,2005,104.0,David Slade,"Patrick Wilson, Elliot Page, Sandra Oh","Drama, Thriller",7.0
+41,Robots,2005,91.0,"Chris Wedge, Carlos Saldanha","Ewan McGregor, Halle Berry, Mel Brooks","Animation, Adventure, Comedy",6.4
+42,Memoirs of a Geisha,2005,145.0,Rob Marshall,"Ziyi Zhang, Ken Watanabe, Michelle Yeoh","Drama, Romance",7.3
+43,Green Street Hooligans,2005,109.0,Lexi Alexander,"Elijah Wood, Charlie Hunnam, Claire Forlani","Crime, Drama, Sport",7.4
+44,Four Brothers,2005,109.0,John Singleton,"Mark Wahlberg, Tyrese Gibson, André 3000","Action, Crime, Drama",6.8
+45,Fun with Dick and Jane,2005,90.0,Dean Parisot,"Jim Carrey, Téa Leoni, Alec Baldwin","Comedy, Crime",6.2
+46,Red Eye,2005,85.0,Wes Craven,"Rachel McAdams, Cillian Murphy, Brian Cox",Thriller,6.4
+47,Wallace & Gromit: The Curse of the Were-Rabbit,2005,85.0,"Steve Box, Nick Park","Peter Sallis, Helena Bonham Carter, Ralph Fiennes","Animation, Adventure, Comedy",7.5
+48,The Constant Gardener,2005,129.0,Fernando Meirelles,"Ralph Fiennes, Rachel Weisz, Danny Huston","Drama, Mystery, Romance",7.3
+49,Capote,2005,114.0,Bennett Miller,"Philip Seymour Hoffman, Clifton Collins Jr., Catherine Keener","Biography, Crime, Drama",7.3
+50,The Exorcism of Emily Rose,2005,119.0,Scott Derrickson,"Laura Linney, Tom Wilkinson, Shohreh Aghdashloo","Drama, Horror, Thriller",6.7
+51,House of Wax,2005,113.0,Jaume Collet-Serra,"Chad Michael Murray, Paris Hilton, Elisha Cuthbert","Horror, Thriller",5.5
+52,Syriana,2005,128.0,Stephen Gaghan,"George Clooney, Matt Damon, Amanda Peet","Drama, Thriller",6.9
+53,Æon Flux,2005,93.0,Karyn Kusama,"Charlize Theron, Frances McDormand, Sophie Okonedo","Action, Adventure, Sci-Fi",5.4
+54,Just Friends,2005,96.0,Roger Kumble,"Ryan Reynolds, Amy Smart, Anna Faris","Comedy, Romance",6.2
+55,The Brothers Grimm,2005,118.0,Terry Gilliam,"Matt Damon, Heath Ledger, Monica Bellucci","Action, Adventure, Comedy",5.9
+56,The Skeleton Key,2005,104.0,Iain Softley,"Kate Hudson, Peter Sarsgaard, Joy Bryant","Drama, Horror, Mystery",6.5
+57,The Jacket,2005,103.0,John Maybury,"Adrien Brody, Keira Knightley, Daniel Craig","Drama, Fantasy, Mystery",7.1
+58,Just Like Heaven,2005,95.0,Mark Waters,"Reese Witherspoon, Mark Ruffalo, Donal Logue","Comedy, Drama, Fantasy",6.7
+59,Doom,2005,105.0,Andrzej Bartkowiak,"Karl Urban, Rosamund Pike, Dwayne Johnson","Action, Horror, Sci-Fi",5.2
+60,Zathura: A Space Adventure,2005,101.0,Jon Favreau,"Josh Hutcherson, Jonah Bobo, Dax Shepard","Action, Adventure, Comedy",6.3
+61,The Amityville Horror,2005,90.0,Andrew Douglas,"Ryan Reynolds, Melissa George, Jimmy Bennett",Horror,5.9
+62,Hostage,2005,113.0,Florent-Emilio Siri,"Bruce Willis, Kevin Pollak, Serena Scott Thomas","Action, Crime, Drama",6.5
+63,The Interpreter,2005,128.0,Sydney Pollack,"Nicole Kidman, Sean Penn, Catherine Keener","Crime, Mystery, Thriller",6.4
+64,Brick,2005,110.0,Rian Johnson,"Joseph Gordon-Levitt, Lukas Haas, Emilie de Ravin","Crime, Drama, Mystery",7.1
+65,The Legend of Zorro,2005,129.0,Martin Campbell,"Antonio Banderas, Catherine Zeta-Jones, Rufus Sewell","Action, Adventure, Romance",6.0
+66,Unleashed,2005,103.0,Louis Leterrier,"Jet Li, Bob Hoskins, Morgan Freeman","Action, Crime, Thriller",7.0
+67,Waiting...,2005,94.0,Rob McKittrick,"Ryan Reynolds, Anna Faris, John Francis Daley",Comedy,6.7
+68,Broken Flowers,2005,106.0,Jim Jarmusch,"Bill Murray, Jessica Lange, Sharon Stone","Comedy, Drama, Mystery",7.1
+69,The Devil's Rejects,2005,107.0,Rob Zombie,"Sid Haig, Sheri Moon Zombie, Bill Moseley","Crime, Drama, Horror",6.7
+70,Sahara,2005,124.0,Breck Eisner,"Matthew McConaughey, Penélope Cruz, Steve Zahn","Action, Adventure, Comedy",6.1
+71,Revolver,2005,111.0,Guy Ritchie,"Jason Statham, Ray Liotta, André 3000","Action, Crime, Drama",6.3
+72,Chicken Little,2005,81.0,Mark Dindal,"Zach Braff, Joan Cusack, Garry Marshall","Animation, Adventure, Comedy",5.7
+73,The Pacifier,2005,95.0,Adam Shankman,"Vin Diesel, Brittany Snow, Max Thieriot","Action, Comedy, Drama",5.6
+74,The Ring Two,2005,110.0,Hideo Nakata,"Naomi Watts, David Dorfman, Sissy Spacek","Horror, Mystery",5.4
+75,Land of the Dead,2005,93.0,George A. Romero,"John Leguizamo, Asia Argento, Simon Baker","Horror, Sci-Fi, Thriller",6.2
+76,"Good Night, and Good Luck.",2005,93.0,George Clooney,"David Strathairn, George Clooney, Patricia Clarkson","Biography, Drama, History",7.4
+77,Elektra,2005,97.0,Rob Bowman,"Jennifer Garner, Goran Visnjic, Will Yun Lee","Action, Adventure, Crime",4.7
+78,Sky High,2005,100.0,Mike Mitchell,"Kurt Russell, Kelly Preston, Michael Angarano","Action, Comedy, Family",6.3
+79,My Father and My Son,2005,112.0,Çagan Irmak,"Çetin Tekindor, Fikret Kuskan, Hümeyra","Drama, Family",8.2
+80,The Squid and the Whale,2005,81.0,Noah Baumbach,"Owen Kline, Jeff Daniels, Laura Linney","Comedy, Drama",7.3
+81,The New World,2005,135.0,Terrence Malick,"Colin Farrell, Q'orianka Kilcher, Christopher Plummer","Biography, Drama, History",6.7
+82,Hide and Seek,2005,101.0,John Polson,"Robert De Niro, Dakota Fanning, Famke Janssen","Horror, Mystery",5.9
+83,Stay,2005,99.0,Marc Forster,"Ewan McGregor, Naomi Watts, Ryan Gosling","Drama, Mystery, Thriller",6.7
+84,Lady Vengeance,2005,115.0,Park Chan-wook,"Lee Yeong-ae, Choi Min-sik, Yea-young Kwon","Crime, Drama, Thriller",7.5
+85,Nanny McPhee,2005,97.0,Kirk Jones,"Emma Thompson, Colin Firth, Angela Lansbury","Comedy, Family, Fantasy",6.6
+86,Caché,2005,117.0,Michael Haneke,"Daniel Auteuil, Juliette Binoche, Maurice Bénichou","Drama, Mystery, Thriller",7.3
+87,The Weather Man,2005,102.0,Gore Verbinski,"Nicolas Cage, Hope Davis, Nicholas Hoult","Comedy, Drama",6.5
+88,The Dukes of Hazzard,2005,104.0,Jay Chandrasekhar,"Seann William Scott, Johnny Knoxville, Jessica Simpson",Comedy,5.1
+89,Assault on Precinct 13,2005,109.0,Jean-François Richet,"Ethan Hawke, Laurence Fishburne, Gabriel Byrne","Action, Crime, Drama",6.3
+90,Miss Congeniality 2: Armed & Fabulous,2005,115.0,John Pasquin,"Sandra Bullock, Regina King, William Shatner","Action, Comedy, Crime",5.2
+91,Wolf Creek,2005,99.0,Greg McLean,"Nathan Phillips, Cassandra Magrath, Kestie Morassi","Horror, Thriller",6.2
+92,Into the Blue,2005,110.0,John Stockwell,"Paul Walker, Jessica Alba, Scott Caan","Action, Adventure, Crime",5.9
+93,The Family Stone,2005,103.0,Thomas Bezucha,"Dermot Mulroney, Sarah Jessica Parker, Claire Danes","Comedy, Drama, Romance",6.3
+94,Derailed,2005,108.0,Mikael Håfström,"Clive Owen, Jennifer Aniston, Vincent Cassel","Crime, Drama, Thriller",6.6
+95,Bewitched,2005,102.0,Nora Ephron,"Nicole Kidman, Will Ferrell, Shirley MacLaine","Comedy, Fantasy, Romance",4.8
+96,xXx: State of the Union,2005,101.0,Lee Tamahori,"Ice Cube, Samuel L. Jackson, Willem Dafoe","Action, Adventure, Crime",4.5
+97,Elizabethtown,2005,123.0,Cameron Crowe,"Orlando Bloom, Kirsten Dunst, Susan Sarandon","Comedy, Drama, Romance",6.3
+98,Be Cool,2005,118.0,F. Gary Gray,"John Travolta, Uma Thurman, Dwayne Johnson","Comedy, Crime, Music",5.6
+99,A Lot Like Love,2005,107.0,Nigel Cole,"Ashton Kutcher, Amanda Peet, Taryn Manning","Comedy, Drama, Romance",6.6
+100,Domino,2005,127.0,Tony Scott,"Keira Knightley, Mickey Rourke, Edgar Ramírez","Action, Biography, Crime",5.9
+101,Harsh Times,2005,116.0,David Ayer,"Christian Bale, Freddy Rodríguez, Eva Longoria","Action, Crime, Drama",6.8
+102,Hoodwinked!,2005,80.0,"Cory Edwards, Todd Edwards, Tony Leech","Anne Hathaway, Glenn Close, Patrick Warburton","Animation, Adventure, Comedy",6.5
+103,Monster-in-Law,2005,101.0,Robert Luketic,"Jennifer Lopez, Michael Vartan, Jane Fonda","Comedy, Romance",5.6
+104,Goal! The Dream Begins,2005,118.0,Danny Cannon,"Kuno Becker, Alessandro Nivola, Anna Friel","Drama, Romance, Sport",6.7
+105,The Sisterhood of the Traveling Pants,2005,119.0,Ken Kwapis,"Amber Tamblyn, Alexis Bledel, America Ferrera","Comedy, Drama, Romance",6.5
+106,Dark Water,2005,105.0,Walter Salles,"Jennifer Connelly, Ariel Gade, John C. Reilly","Drama, Horror, Mystery",5.6
+107,In Her Shoes,2005,130.0,Curtis Hanson,"Toni Collette, Cameron Diaz, Shirley MacLaine","Comedy, Drama, Romance",6.5
+108,Cheaper by the Dozen 2,2005,94.0,Adam Shankman,"Steve Martin, Bonnie Hunt, Hilary Duff","Adventure, Comedy, Family",5.5
+109,Grizzly Man,2005,103.0,Werner Herzog,"Timothy Treadwell, Amie Huguenard, Werner Herzog","Documentary, Biography",7.8
+110,Rumor Has It...,2005,97.0,Rob Reiner,"Jennifer Aniston, Mark Ruffalo, Shirley MacLaine","Comedy, Drama, Romance",5.5
+111,The World's Fastest Indian,2005,127.0,Roger Donaldson,"Anthony Hopkins, Diane Ladd, Iain Rea","Biography, Drama, Sport",7.8
+112,March of the Penguins,2005,80.0,Luc Jacquet,"Morgan Freeman, Romane Bohringer, Charles Berling","Documentary, Family",7.5
+113,Son of the Mask,2005,94.0,Lawrence Guterman,"Jamie Kennedy, Traylor Howard, Alan Cumming","Comedy, Family, Fantasy",2.3
+114,Everything Is Illuminated,2005,106.0,Liev Schreiber,"Elijah Wood, Eugene Hutz, Boris Lyoskin","Comedy, Drama",7.4
+115,Lords of Dogtown,2005,107.0,Catherine Hardwicke,"Heath Ledger, Emile Hirsch, Victor Rasuk","Biography, Drama, Sport",7.1
+116,Chaos,2005,106.0,Tony Giglio,"Jason Statham, Ryan Phillippe, Wesley Snipes","Action, Crime, Drama",6.4
+117,Final Fantasy VII: Advent Children,2005,101.0,"Tetsuya Nomura, Takeshi Nozue","Takahiro Sakurai, Ayumi Ito, Shôtarô Morikubo","Animation, Action, Adventure",7.1
+118,The Wedding Date,2005,90.0,Clare Kilner,"Dermot Mulroney, Debra Messing, Jack Davenport","Comedy, Romance",6.1
+119,Stealth,2005,121.0,Rob Cohen,"Josh Lucas, Jessica Biel, Jamie Foxx","Action, Adventure, Sci-Fi",5.1
+120,Casanova,2005,112.0,Lasse Hallström,"Heath Ledger, Sienna Miller, Jeremy Irons","Adventure, Comedy, Drama",6.5
+121,Rent,2005,135.0,Chris Columbus,"Taye Diggs, Wilson Jermaine Heredia, Rosario Dawson","Drama, Musical, Romance",6.8
+122,Adam's Apples,2005,94.0,Anders Thomas Jensen,"Ulrich Thomsen, Mads Mikkelsen, Nicolas Bro","Comedy, Crime, Drama",7.7
+123,The Proposition,2005,104.0,John Hillcoat,"Ray Winstone, Guy Pearce, Emily Watson","Crime, Drama, Western",7.3
+124,Deuce Bigalow: European Gigolo,2005,83.0,Mike Bigelow,"Rob Schneider, Eddie Griffin, Jeroen Krabbé",Comedy,4.7
+125,Herbie: Fully Loaded,2005,101.0,Angela Robinson,"Lindsay Lohan, Michael Keaton, Cheryl Hines","Adventure, Comedy, Family",4.9
+126,Get Rich or Die Tryin',2005,117.0,Jim Sheridan,"50 Cent, Joy Bryant, Adewale Akinnuoye-Agbaje","Biography, Crime, Drama",5.5
+127,White Noise,2005,101.0,Geoffrey Sax,"Michael Keaton, Deborah Kara Unger, Ian McNeice","Drama, Horror, Mystery",5.5
+128,Two for the Money,2005,122.0,D.J. Caruso,"Matthew McConaughey, Al Pacino, Rene Russo","Crime, Drama, Sport",6.2
+129,Fever Pitch,2005,104.0,"Bobby Farrelly, Peter Farrelly","Drew Barrymore, Jimmy Fallon, Jason Spevack","Comedy, Drama, Romance",6.2
+130,Alone in the Dark,2005,96.0,Uwe Boll,"Christian Slater, Tara Reid, Stephen Dorff","Action, Horror, Sci-Fi",2.4
+131,Guess Who,2005,105.0,Kevin Rodney Sullivan,"Ashton Kutcher, Bernie Mac, Zoe Saldaña","Comedy, Romance",5.9
+132,The Matador,2005,96.0,Richard Shepard,"Pierce Brosnan, Greg Kinnear, Hope Davis","Comedy, Crime, Thriller",6.7
+133,Proof,2005,100.0,John Madden,"Gwyneth Paltrow, Anthony Hopkins, Hope Davis","Drama, Mystery",6.7
+134,North Country,2005,126.0,Niki Caro,"Charlize Theron, Jeremy Renner, Frances McDormand",Drama,7.3
+135,The Producers,2005,134.0,Susan Stroman,"Nathan Lane, Matthew Broderick, Uma Thurman","Comedy, Crime, Musical",6.4
+136,A Bittersweet Life,2005,119.0,Kim Jee-woon,"Lee Byung-hun, Shin Min-a, Kim Yeong-cheol","Action, Crime, Drama",7.5
+137,The Adventures of Sharkboy and Lavagirl 3-D,2005,93.0,Robert Rodriguez,"Cayden Boyd, George Lopez, Kristin Davis","Action, Adventure, Comedy",3.8
+138,Hustle & Flow,2005,116.0,Craig Brewer,"Terrence Howard, Ludacris, Anthony Anderson","Crime, Drama, Music",7.3
+139,Transamerica,2005,103.0,Duncan Tucker,"Felicity Huffman, Kevin Zegers, Fionnula Flanagan","Adventure, Comedy, Drama",7.3
+140,The Cave,2005,97.0,Bruce Hunt,"Piper Perabo, Morris Chestnut, Cole Hauser","Adventure, Horror, Sci-Fi",5.2
+141,Prime,2005,105.0,Ben Younger,"Uma Thurman, Meryl Streep, Bryan Greenberg","Comedy, Drama, Romance",6.2
+142,The Three Burials of Melquiades Estrada,2005,121.0,Tommy Lee Jones,"Tommy Lee Jones, Barry Pepper, Dwight Yoakam","Adventure, Crime, Drama",7.3
+143,Kicking & Screaming,2005,95.0,Jesse Dylan,"Will Ferrell, Robert Duvall, Josh Hutcherson","Comedy, Family, Romance",5.6
+144,The Fog,2005,100.0,Rupert Wainwright,"Tom Welling, Maggie Grace, Selma Blair","Horror, Mystery",3.7
+145,The Protector,2005,111.0,Prachya Pinkaew,"Tony Jaa, Nathan Jones, Xing Jin","Action, Crime, Drama",7.0
+146,The Ringer,2005,94.0,Barry W. Blaustein,"Johnny Knoxville, Katherine Heigl, Brian Cox","Comedy, Sport",5.8
+147,Me and You and Everyone We Know,2005,85.0,Miranda July,"John Hawkes, Miranda July, Miles Thompson","Comedy, Drama",7.2
+148,BloodRayne,2005,95.0,Uwe Boll,"Kristanna Loken, Ben Kingsley, Michelle Rodriguez","Action, Fantasy, Horror",3.0
+149,Imagine Me & You,2005,90.0,Ol Parker,"Piper Perabo, Lena Headey, Matthew Goode","Comedy, Drama, Romance",6.8
+150,Black,2005,122.0,Sanjay Leela Bhansali,"Amitabh Bachchan, Rani Mukerji, Shernaz Patel",Drama,8.1
+151,Keeping Mum,2005,99.0,Niall Johnson,"Rowan Atkinson, Kristin Scott Thomas, Maggie Smith","Comedy, Crime",6.8
+152,Angel-A,2005,91.0,Luc Besson,"Rie Rasmussen, Jamel Debbouze, Gilbert Melki","Comedy, Drama, Fantasy",7.0
+153,Magic Carpet Ride,2005,106.0,Yilmaz Erdogan,"Yilmaz Erdogan, Tolga Çevik, Demet Akbag","Comedy, Crime",7.4
+154,Cursed,2005,97.0,Wes Craven,"Christina Ricci, Jesse Eisenberg, Portia de Rossi","Comedy, Horror, Mystery",5.1
+155,Are We There Yet?,2005,95.0,Brian Levant,"Ice Cube, Nia Long, Aleisha Allen","Adventure, Comedy, Family",4.8
+156,Tideland,2005,120.0,Terry Gilliam,"Jeff Bridges, Jennifer Tilly, Jodelle Ferland","Drama, Fantasy, Horror",6.3
+157,Feast,2005,95.0,John Gulager,"Navi Rawat, Krista Allen, Balthazar Getty","Action, Comedy, Horror",6.2
+158,Oliver Twist,2005,130.0,Roman Polanski,"Barney Clark, Ben Kingsley, Jeremy Swift","Crime, Drama",6.8
+159,An Unfinished Life,2005,108.0,Lasse Hallström,"Jennifer Lopez, Robert Redford, Morgan Freeman","Drama, Family, Romance",7.0
+160,The Greatest Game Ever Played,2005,120.0,Bill Paxton,"Shia LaBeouf, Stephen Dillane, Elias Koteas","Biography, Drama, Sport",7.4
+161,C.R.A.Z.Y.,2005,129.0,Jean-Marc Vallée,"Michel Côté, Marc-André Grondin, Danielle Proulx","Comedy, Drama",7.8
+162,Must Love Dogs,2005,98.0,Gary David Goldberg,"Diane Lane, John Cusack, Elizabeth Perkins","Comedy, Romance",5.9
+163,Boogeyman,2005,89.0,Stephen Kay,"Barry Watson, Emily Deschanel, Lucy Lawless","Drama, Horror, Mystery",4.2
+164,Joyeux Noel,2005,116.0,Christian Carion,"Diane Kruger, Benno Fürmann, Guillaume Canet","Drama, History, Music",7.6
+165,The Perfect Man,2005,100.0,Mark Rosman,"Hilary Duff, Heather Locklear, Aria Wallace","Comedy, Family, Romance",5.5
+166,Tsotsi,2005,94.0,Gavin Hood,"Presley Chweneyagae, Mothusi Magano, Israel Matseke-Zulu","Crime, Drama",7.2
+167,"Yours, Mine & Ours",2005,88.0,Raja Gosnell,"Dennis Quaid, Rene Russo, Jerry O'Connell","Comedy, Family, Romance",5.5
+168,Ice Princess,2005,98.0,Tim Fywell,"Michelle Trachtenberg, Kim Cattrall, Trevor Blumas","Comedy, Drama, Family",6.1
+169,Sophie Scholl: The Final Days,2005,120.0,Marc Rothemund,"Julia Jentsch, Fabian Hinrichs, Alexander Held","Biography, Crime, Drama",7.6
+170,Cry Wolf,2005,90.0,Jeff Wadlow,"Julian Morris, Lindy Booth, Jared Padalecki","Drama, Horror, Mystery",5.8
+171,An American Haunting,2005,83.0,Courtney Solomon,"Donald Sutherland, Sissy Spacek, Rachel Hurd-Wood","Drama, Horror, Mystery",5.0
+172,The Man,2005,83.0,Les Mayfield,"Samuel L. Jackson, Eugene Levy, Miguel Ferrer","Action, Comedy, Crime",5.5
+173,Man of the House,2005,100.0,Stephen Herek,"Tommy Lee Jones, Christina Milian, Kelli Garner","Comedy, Crime",5.5
+174,Manderlay,2005,133.0,Lars von Trier,"Bryce Dallas Howard, Isaach De Bankolé, Danny Glover",Drama,7.2
+175,Breakfast on Pluto,2005,128.0,Neil Jordan,"Cillian Murphy, Morgan Jones, Eva Birthistle","Comedy, Drama",7.2
+176,The Ice Harvest,2005,92.0,Harold Ramis,"John Cusack, Billy Bob Thornton, Connie Nielsen","Comedy, Crime, Drama",6.2
+177,Little Manhattan,2005,90.0,Mark Levin,"Josh Hutcherson, Charlotte Ray Rosenberg, Bradley Whitford","Comedy, Family, Romance",7.4
+178,London,2005,92.0,Hunter Richards,"Jessica Biel, Chris Evans, Jason Statham","Drama, Romance",6.3
+179,Valiant,2005,76.0,Gary Chapman,"Ewan McGregor, Ricky Gervais, Tim Curry","Animation, Adventure, Comedy",5.5
+180,Shopgirl,2005,106.0,Anand Tucker,"Steve Martin, Claire Danes, Jason Schwartzman","Drama, Romance",6.3
+181,Paradise Now,2005,91.0,Hany Abu-Assad,"Kais Nashif, Ali Suliman, Lubna Azabal","Crime, Drama, Thriller",7.4
+182,The Great Raid,2005,132.0,John Dahl,"Benjamin Bratt, Joseph Fiennes, James Franco","Action, Drama, War",6.6
+183,Last Days,2005,97.0,Gus Van Sant,"Michael Pitt, Lukas Haas, Asia Argento","Drama, Music",5.7
+184,Mirrormask,2005,101.0,Dave McKean,"Stephanie Leonidas, Jason Barry, Rob Brydon","Drama, Fantasy",6.7
+185,Pardon,2005,99.0,Mert Baykal,"Ferhan Sensoy, Rasim Öztekin, Ali Çatalbas","Comedy, Drama",8.1
+186,Junebug,2005,106.0,Phil Morrison,"Embeth Davidtz, Alessandro Nivola, David Kuhn","Comedy, Drama",6.9
+187,Anniyan,2005,181.0,S. Shankar,"Vikram, Sada, Prakash Raj","Action, Crime, Drama",8.3
+188,The Upside of Anger,2005,118.0,Mike Binder,"Joan Allen, Kevin Costner, Erika Christensen","Comedy, Drama",6.8
+189,Bad News Bears,2005,113.0,Richard Linklater,"Billy Bob Thornton, Greg Kinnear, Marcia Gay Harden","Comedy, Sport",5.8
+190,Thumbsucker,2005,96.0,Mike Mills,"Lou Taylor Pucci, Tilda Swinton, Vincent D'Onofrio","Comedy, Drama",6.5
+191,Kinky Boots,2005,107.0,Julian Jarrold,"Chiwetel Ejiofor, Joel Edgerton, Sarah-Jane Potts","Comedy, Drama, Music",7.1
+192,9th Company,2005,139.0,Fedor Bondarchuk,"Artur Smolyaninov, Aleksey Chadov, Konstantin Kryukov","Action, Drama, History",7.1
+193,Russian Dolls,2005,125.0,Cédric Klapisch,"Romain Duris, Kelly Reilly, Audrey Tautou","Comedy, Drama, Romance",6.9
+194,Havoc,2005,85.0,Barbara Kopple,"Anne Hathaway, Bijou Phillips, Shiri Appleby","Crime, Drama",5.4
+195,A Sound of Thunder,2005,110.0,Peter Hyams,"Edward Burns, Ben Kingsley, Catherine McCormack","Action, Adventure, Horror",4.2
+196,The Beat That My Heart Skipped,2005,108.0,Jacques Audiard,"Romain Duris, Aure Atika, Emmanuelle Devos","Crime, Drama, Music",7.2
+197,Enron: The Smartest Guys in the Room,2005,110.0,Alex Gibney,"John Beard, Tim Belden, Barbara Boxer","Documentary, Biography, History",7.6
+198,Earthlings,2005,95.0,Shaun Monson,Joaquin Phoenix,Documentary,8.6
+199,The Child,2005,95.0,"Jean-Pierre Dardenne, Luc Dardenne","Jérémie Renier, Déborah François, Jérémie Segard","Crime, Drama, Romance",7.4
+200,Beauty Shop,2005,105.0,Bille Woodruff,"Queen Latifah, Alicia Silverstone, Djimon Hounsou",Comedy,5.6
+201,Pusher III,2005,108.0,Nicolas Winding Refn,"Zlatko Buric, Marinela Dekic, Slavko Labovic","Crime, Drama, Thriller",7.3
+202,The Chumscrubber,2005,108.0,Arie Posin,"Jamie Bell, Allison Janney, Rory Culkin","Comedy, Drama",6.8
+203,Down in the Valley,2005,114.0,David Jacobson,"Edward Norton, Evan Rachel Wood, David Morse","Drama, Romance, Thriller",6.4
+204,Where the Truth Lies,2005,107.0,Atom Egoyan,"Kevin Bacon, Colin Firth, Alison Lohman","Crime, Mystery, Thriller",6.4
+205,Beowulf & Grendel,2005,103.0,Sturla Gunnarsson,"Hringur Ingvarsson, Spencer Wilding, Stellan Skarsgård","Action, Adventure, Drama",5.8
+206,Racing Stripes,2005,102.0,Frederik Du Chau,"Frankie Muniz, David Spade, Snoop Dogg","Adventure, Comedy, Drama",5.2
+207,Garam Masala,2005,146.0,Priyadarshan,"Akshay Kumar, John Abraham, Paresh Rawal","Comedy, Romance",6.8
+208,13 Tzameti,2005,93.0,Géla Babluani,"George Babluani, Aurélien Recoing, Pascal Bongard","Crime, Drama, Thriller",7.3
+209,Iqbal,2005,132.0,Nagesh Kukunoor,"Shreyas Talpade, Naseeruddin Shah, Shweta Basu Prasad","Drama, Sport",8.1
+210,Fragile,2005,101.0,Jaume Balagueró,"Calista Flockhart, Richard Roxburgh, Elena Anaya","Horror, Mystery, Thriller",6.0
+211,The Quiet,2005,96.0,Jamie Babbit,"Camilla Belle, Elisha Cuthbert, Edie Falco","Crime, Drama, Thriller",6.1
+212,Sarkar,2005,124.0,Ram Gopal Varma,"Amitabh Bachchan, Abhishek Bachchan, Kay Kay Menon","Crime, Drama",7.6
+213,Lie with Me,2005,93.0,Clement Virgo,"Lauren Lee Smith, Eric Balfour, Polly Shannon","Drama, Romance",5.2
+214,Noroi,2005,115.0,Kôji Shiraishi,"Jin Muraki, Rio Kanno, Tomono Kuga","Horror, Mystery, Thriller",6.8
+215,The Aristocrats,2005,89.0,"Penn Jillette, Paul Provenza","George Carlin, Don Rickles, Chris Rock","Documentary, Comedy",6.4
+216,The Myth,2005,122.0,Stanley Tong,"Bing Shao, Jackie Chan, Weixing Yao","Action, Adventure, Comedy",6.1
+217,Mrs. Henderson Presents,2005,103.0,Stephen Frears,"Judi Dench, Bob Hoskins, Christopher Guest","Comedy, Drama, Music",7.0
+218,Edison,2005,99.0,David J. Burke,"Morgan Freeman, Kevin Spacey, Justin Timberlake","Action, Crime, Drama",5.3
+219,Diary of a Mad Black Woman,2005,116.0,Darren Grant,"Kimberly Elise, Steve Harris, Tyler Perry","Comedy, Drama, Romance",5.7
+220,The Death of Mr. Lazarescu,2005,153.0,Cristi Puiu,"Doru Ana, Monica Barladeanu, Alina Berzunteanu","Comedy, Drama",7.8
+221,Ghajini,2005,175.0,A.R. Murugadoss,"Suriya, Asin, Nayanthara","Action, Drama, Mystery",7.6
+222,Lovewrecked,2005,87.0,Randal Kleiser,"Amanda Bynes, Chris Carmack, Jonathan Bennett","Adventure, Comedy, Romance",4.8
+223,The Business,2005,97.0,Nick Love,"Danny Dyer, Tamer Hassan, Geoff Bell","Crime, Drama, Thriller",6.6
+224,Athadu,2005,172.0,Trivikram Srinivas,"Mahesh Babu, Trisha Krishnan, Sonu Sood","Action, Crime, Drama",8.2
+225,The Big White,2005,100.0,Mark Mylod,"Robin Williams, Giovanni Ribisi, Holly Hunter","Comedy, Crime, Drama",6.3
+226,Water,2005,117.0,Deepa Mehta,"Lisa Ray, John Abraham, Seema Biswas",Drama,7.6
+227,Factotum,2005,94.0,Bent Hamer,"Matt Dillon, Lili Taylor, Marisa Tomei","Comedy, Drama, Romance",6.6
+228,The Aura,2005,134.0,Fabián Bielinsky,"Ricardo Darín, Manuel Rodal, Dolores Fonzi","Crime, Drama, Thriller",7.1
+229,Paheli,2005,140.0,Amol Palekar,"Shah Rukh Khan, Rani Mukerji, Anupam Kher","Comedy, Drama, Fantasy",6.4
+230,The Tiger and the Snow,2005,110.0,Roberto Benigni,"Roberto Benigni, Jean Reno, Nicoletta Braschi","Comedy, Drama, Romance",7.0
+231,Dreamer,2005,106.0,John Gatins,"Kurt Russell, Dakota Fanning, Oded Fehr","Drama, Family, Sport",6.8
+232,Dominion: Prequel to the Exorcist,2005,117.0,Paul Schrader,"Stellan Skarsgård, Gabriel Mann, Clara Bellar","Drama, Horror, Thriller",5.1
+233,Rebound,2005,86.0,Steve Carr,"Martin Lawrence, Megan Mullally, Breckin Meyer","Comedy, Family, Sport",5.2
+234,2001 Maniacs,2005,87.0,Tim Sullivan,"Robert Englund, Lin Shaye, Giuseppe Andrews","Comedy, Horror",5.3
+235,Kill Zone,2005,93.0,Wilson Yip,"Donnie Yen, Simon Yam, Sammo Kam-Bo Hung","Action, Crime, Thriller",6.9
+236,No Entry,2005,158.0,Anees Bazmee,"Anil Kapoor, Salman Khan, Fardeen Khan","Comedy, Drama, Musical",6.6
+237,Tristram Shandy,2005,94.0,Michael Winterbottom,"Steve Coogan, Jeremy Northam, Rob Brydon",Comedy,6.7
+238,The Secret Life of Words,2005,115.0,Isabel Coixet,"Sarah Polley, Tim Robbins, Sverre Anker Ousdal","Drama, Romance",7.4
+239,Conversations with Other Women,2005,84.0,Hans Canosa,"Helena Bonham Carter, Aaron Eckhart, Yury Tsykun","Comedy, Drama, Romance",6.9
+240,Romance & Cigarettes,2005,105.0,John Turturro,"James Gandolfini, Susan Sarandon, Kate Winslet","Comedy, Musical, Romance",6.2
+241,Because of Winn-Dixie,2005,106.0,Wayne Wang,"AnnaSophia Robb, Jeff Daniels, Eva Marie Saint","Comedy, Drama, Family",6.4
+242,Shinobi: Heart Under Blade,2005,107.0,Ten Shimoyama,"Yukie Nakama, Joe Odagiri, Tomoka Kurotani","Action, Drama, Fantasy",6.8
+243,Edmond,2005,82.0,Stuart Gordon,"William H. Macy, Julia Stiles, Joe Mantegna","Drama, Thriller",6.2
+244,Metal: A Headbanger's Journey,2005,96.0,"Sam Dunn, Scot McFadyen, Jessica Joy Wise","Tom Araya, Gavin Baddeley, Blasphemer","Documentary, Music",8.0
+245,The Method,2005,115.0,Marcelo Piñeyro,"Eduardo Noriega, Najwa Nimri, Eduard Fernández","Drama, Thriller",7.1
+246,Fullmetal Alchemist the Movie: Conqueror of Shamballa,2005,105.0,Seiji Mizushima,"Vic Mignogna, Aaron Dismuke, Jason Liebrecht","Animation, Action, Adventure",7.3
+247,The Return,2005,85.0,Asif Kapadia,"Sarah Michelle Gellar, Sam Shepard, Peter O'Brien","Horror, Mystery, Thriller",4.7
+248,The Ballad of Jack and Rose,2005,112.0,Rebecca Miller,"Daniel Day-Lewis, Catherine Keener, Camilla Belle",Drama,6.5
+249,Empire of the Wolves,2005,128.0,Chris Nahon,"Jean Reno, Arly Jover, Jocelyn Quivrin","Action, Crime, Drama",5.8
+250,Shooting Dogs,2005,115.0,Michael Caton-Jones,"John Hurt, Hugh Dancy, Dominique Horwitz","Drama, History, War",7.6
+251,The Bow,2005,90.0,Kim Ki-duk,"Han Yeo-reum, Seo Ji-seok, Jeon Gook-hwan","Drama, Romance",7.1
+252,The Notorious Bettie Page,2005,91.0,Mary Harron,"Gretchen Mol, Lili Taylor, Chris Bauer","Biography, Drama",6.5
+253,Election,2005,101.0,Johnnie To,"Louis Koo, Suet Lam, Tony Ka Fai Leung","Crime, Drama, Thriller",7.1
+254,Santa's Slay,2005,78.0,David Steiman,"Bill Goldberg, Douglas Smith, Emilie de Ravin","Comedy, Fantasy, Horror",5.4
+255,The Dark,2005,93.0,John Fawcett,"Sean Bean, Maria Bello, Sophie Stuckey","Drama, Fantasy, Horror",5.3
+256,Tamara,2005,98.0,Jeremy Haft,"Jenna Dewan, Katie Stuart, Chad Faust","Drama, Fantasy, Horror",5.0
+257,Barefoot,2005,118.0,Til Schweiger,"Til Schweiger, Johanna Wokalek, Nadja Tiller","Comedy, Drama, Romance",7.1
+258,Venom,2005,87.0,Jim Gillespie,"Agnes Bruckner, Jonathan Jackson, Meagan Good",Horror,4.6
+259,Reeker,2005,90.0,Dave Payne,"Devon Gummersall, Derek Richardson, Tina Illman","Horror, Mystery, Thriller",5.1
+260,House of 9,2005,90.0,Steven R. Monroe,"Kelly Brook, Dennis Hopper, Hippolyte Girardot","Drama, Horror, Mystery",5.3
+261,Pretty Persuasion,2005,104.0,Marcos Siega,"Evan Rachel Wood, Ron Livingston, James Woods","Comedy, Drama",6.4
+262,Next Door,2005,75.0,"Pål Sletaune, Tony Spataro","Kristoffer Joner, Cecilie A. Mosli, Julia Schacht","Mystery, Thriller",6.4
+263,Survival Island,2005,95.0,Stewart Raffill,"Billy Zane, Kelly Brook, Juan Pablo Di Pace","Drama, Thriller",4.9
+264,Lovelorn,2005,142.0,Yavuz Turgul,"Meltem Cumbul, Sener Sen, Timuçin Esen",Drama,7.8
+265,Mangal Pandey,2005,150.0,Ketan Mehta,"Aamir Khan, Rani Mukerji, Toby Stephens","Biography, Drama, History",6.5
+266,The Devil and Daniel Johnston,2005,110.0,Jeff Feuerzeig,"Daniel Johnston, Mabel Johnston, Bill Johnston","Documentary, Biography, Music",7.9
+267,Murderball,2005,88.0,"Henry Alex Rubin, Dana Adam Shapiro","Joe Soares, Keith Cavill, Mark Zupan","Documentary, Sport",7.7
+268,Dear Wendy,2005,105.0,Thomas Vinterberg,"Jamie Bell, Alison Pill, Chris Owen","Comedy, Crime, Drama",6.5
+269,Waqt: The Race Against Time,2005,153.0,Vipul Amrutlal Shah,"Amitabh Bachchan, Akshay Kumar, Priyanka Chopra Jonas","Comedy, Drama, Family",6.7
+270,Why We Fight,2005,98.0,Eugene Jarecki,"Gore Vidal, John McCain, Ken Adelman","Documentary, History, War",8.0
+271,The Crow: Wicked Prayer,2005,99.0,Lance Mungia,"Yuji Okumoto, Marcus Chong, Tito Ortiz","Action, Adventure, Comedy",3.0
+272,Initial D,2005,107.0,"Wai Keung Lau, Alan Mak, Ralph Rieckermann","Jay Chou, Anthony Chau-Sang Wong, Edison Chen","Action, Comedy, Drama",6.3
+273,Seven Swords,2005,153.0,Hark Tsui,"Leon Lai, Donnie Yen, Charlie Yeung","Action, Adventure, Fantasy",6.1
+274,The Lost City,2005,144.0,Andy Garcia,"Andy Garcia, Inés Sastre, Bill Murray","Drama, Romance",6.5
+275,Romanzo Criminale,2005,152.0,Michele Placido,"Kim Rossi Stuart, Anna Mouglalis, Pierfrancesco Favino","Crime, Drama",7.2
+276,Parineeta,2005,130.0,Pradeep Sarkar,"Vidya Balan, Saif Ali Khan, Sanjay Dutt","Drama, Musical, Romance",7.2
+277,Blind Man's Bluff,2005,111.0,Aleksey Balabanov,"Aleksey Panin, Dmitriy Dyuzhev, Nikita Mikhalkov","Comedy, Crime, Thriller",7.2
+278,Dave Chappelle's Block Party,2005,103.0,Michel Gondry,"Dave Chappelle, Yasiin Bey, Lauryn Hill","Documentary, Comedy, Music",7.2
+279,Happy Endings,2005,128.0,Don Roos,"Lisa Kudrow, Steve Coogan, Maggie Gyllenhaal","Comedy, Drama, Music",6.3
+280,The Promise,2005,121.0,Kaige Chen,"Cecilia Cheung, Jang Dong-gun, Hiroyuki Sanada","Action, Drama, Fantasy",5.6
+281,Mozart and the Whale,2005,94.0,Petter Næss,"Josh Hartnett, Radha Mitchell, Gary Cole","Comedy, Drama, Romance",6.7
+282,Little Fish,2005,114.0,Rowan Woods,"Cate Blanchett, Sam Neill, Hugo Weaving","Crime, Drama, Romance",6.1
+283,Time to Leave,2005,81.0,François Ozon,"Melvil Poupaud, Jeanne Moreau, Valeria Bruni Tedeschi",Drama,7.1
+284,Antibodies,2005,127.0,Christian Alvart,"Norman Reedus, Christian von Aster, André Hennicke","Crime, Drama, Horror",6.9
+285,The Call of Cthulhu,2005,47.0,Andrew Leman,"Matt Foyer, John Bolen, Ralph Lucas","Horror, Mystery",7.1
+286,Winter Passing,2005,98.0,Adam Rapp,"Ed Harris, Zooey Deschanel, Will Ferrell","Comedy, Drama",6.2
+287,Trust the Man,2005,103.0,Bart Freundlich,"David Duchovny, Julianne Moore, Billy Crudup","Comedy, Drama, Romance",5.7
+288,Pooh's Heffalump Movie,2005,68.0,Frank Nissen,"Jim Cummings, Brenda Blethyn, Kyle Stanger","Animation, Adventure, Comedy",6.4
+289,Duma,2005,100.0,Carroll Ballard,"Alex Michaeletos, Campbell Scott, Hope Davis","Adventure, Drama, Family",7.1
+290,Dirty Deeds,2005,87.0,David Kendall,"Milo Ventimiglia, Lacey Chabert, Charles Durning",Comedy,5.7
+291,Anthony Zimmer,2005,89.0,Jérôme Salle,"Yvan Attal, Sophie Marceau, Sami Frey","Crime, Drama, Romance",6.5
+292,In the Mix,2005,95.0,Ron Underwood,"Usher, Chazz Palminteri, Emmanuelle Chriqui","Comedy, Crime, Drama",3.0
+293,The Ax,2005,117.0,Costa-Gavras,"José Garcia, Karin Viard, Geordy Couturiau","Comedy, Crime, Drama",7.3
+294,Bubble,2005,73.0,Steven Soderbergh,"Debbie Doebereiner, Omar Cowan, Dustin James Ashley","Crime, Drama, Mystery",6.5
+295,Strangers with Candy,2005,97.0,Paul Dinello,"Amy Sedaris, Stephen Colbert, Paul Dinello",Comedy,5.9
+296,Salaam Namaste,2005,158.0,Siddharth Anand,"Saif Ali Khan, Preity G Zinta, Arshad Warsi","Comedy, Drama, Romance",6.2
+297,Bunty Aur Babli,2005,170.0,Shaad Ali,"Abhishek Bachchan, Rani Mukerji, Amitabh Bachchan","Comedy, Drama, Romance",6.2
+298,"The Prize Winner of Defiance, Ohio",2005,99.0,Jane Anderson,"Julianne Moore, Woody Harrelson, Laura Dern","Biography, Drama",7.2
+299,Isolation,2005,95.0,Billy O'Brien,"John Lynch, Essie Davis, Sean Harris","Horror, Sci-Fi, Thriller",5.6
+300,Wacky Class in Army,2005,112.0,Ferdi Egilmez,"Mehmet Ali Erbil, Hülya Avsar, Halit Akçatepe",Comedy,3.4
+301,The Long Weekend,2005,90.0,Pat Holden,"Chris Klein, Brendan Fehr, Chandra West",Comedy,5.2
+302,Into the Sun,2005,97.0,mink,"Steven Seagal, Takao Osawa, Juliette Marquis","Action, Thriller",4.3
+303,Lonesome Jim,2005,91.0,Steve Buscemi,"Casey Affleck, Liv Tyler, Mary Kay Place","Comedy, Drama",6.5
+304,Socha Na Tha,2005,137.0,Imtiaz Ali,"Abhay Deol, Ayesha Takia, Ayesha Jhulka","Comedy, Drama, Romance",7.4
+305,Don't Come Knocking,2005,122.0,Wim Wenders,"Sam Shepard, Jessica Lange, Tim Roth","Drama, Music",6.6
+306,Roll Bounce,2005,112.0,Malcolm D. Lee,"Shad Moss, Nick Cannon, Meagan Good","Comedy, Drama, Music",6.3
+307,The Brice Man,2005,98.0,James Huth,"Jean Dujardin, Clovis Cornillac, Élodie Bouchez",Comedy,5.2
+308,How Much Do You Love Me?,2005,95.0,Bertrand Blier,"Monica Bellucci, Bernard Campan, Gérard Depardieu","Comedy, Drama, Romance",5.6
+309,Sachien,2005,145.0,John Mahendran,"Joseph Vijay, Genelia Deshmukh, Bipasha Basu","Comedy, Drama, Romance",7.4
+310,Welcome to Dongmakgol,2005,133.0,Kwang-Hyun Park,"Jeong Jae-yeong, Shin Ha-kyun, Kang Hye-jeong","Comedy, Drama, War",7.6
+311,Tiempo de valientes,2005,112.0,Damián Szifron,"Diego Peretti, Luis Luque, Óscar Ferreiro","Action, Comedy, Crime",7.5
+312,The Honeymooners,2005,90.0,John Schultz,"Cedric The Entertainer, Mike Epps, Gabrielle Union","Comedy, Family, Romance",3.5
+313,The Zodiac,2005,92.0,Alexander Bulkley,"Justin Chambers, Robin Tunney, Rory Culkin","Crime, Drama, Horror",5.3
+314,Chandramukhi,2005,166.0,P. Vasu,"Rajinikanth, Jyotika, Prabhu","Action, Comedy, Drama",7.2
+315,Dirty Love,2005,91.0,John Asher,"Jenny McCarthy-Wahlberg, Eddie Kaye Thomas, Carmen Electra","Comedy, Romance",3.5
+316,The King,2005,105.0,James Marsh,"Gael García Bernal, William Hurt, Laura Harring","Drama, Thriller",6.6
+317,12 and Holding,2005,94.0,Michael Cuesta,"Conor Donovan, Jesse Camacho, Zoe Weizenbaum",Drama,7.4
+318,Fierce People,2005,107.0,Griffin Dunne,"Diane Lane, Donald Sutherland, Anton Yelchin","Drama, Thriller",6.4
+319,Crossing the Bridge: The Sound of Istanbul,2005,90.0,Fatih Akin,"Alexander Hacke, Ahmed Ulug, Cem Yegul","Documentary, History, Music",7.8
+320,Melissa P.,2005,100.0,Luca Guadagnino,"María Valverde, Letizia Ciampa, Primo Reggiani",Drama,4.7
+321,Bee Season,2005,104.0,"Scott McGehee, David Siegel","Richard Gere, Juliette Binoche, Flora Cross","Drama, Family",5.5
+322,Man-Thing,2005,97.0,Brett Leonard,"Jack Thompson, Matthew Le Nevez, Steve Bastoni","Action, Adventure, Horror",4.1
+323,Fateless,2005,140.0,Lajos Koltai,"Marcell Nagy, Béla Dóra, Bálint Péntek","Drama, Romance, War",7.0
+324,Nine Lives,2005,115.0,Rodrigo García,"Kathy Baker, Amy Brenneman, Glenn Close",Drama,6.7
+325,The White Countess,2005,135.0,James Ivory,"Ralph Fiennes, Natasha Richardson, Vanessa Redgrave","Drama, History, Romance",6.5
+326,Inside Deep Throat,2005,89.0,"Fenton Bailey, Randy Barbato","Linda Lovelace, Harry Reems, Dennis Hopper","Documentary, Biography, History",6.7
+327,Page 3,2005,139.0,"Madhur Bhandarkar, Jay Dev Banerjee","Konkona Sen Sharma, Atul Kulkarni, Sandhya Mridul",Drama,7.3
+328,Istanbul Tales,2005,99.0,"Ömür Atay, Selim Demirdelen, Kudret Sabanci","Altan Erkekli, Özgü Namal, Mehmet Günsür",Drama,7.3
+329,Neverwas,2005,103.0,Joshua Michael Stern,"Aaron Eckhart, Ian McKellen, Brittany Murphy","Drama, Fantasy, Mystery",6.5
+330,Shadowboxer,2005,93.0,Lee Daniels,"Cuba Gooding Jr., Helen Mirren, Vanessa Ferlito","Action, Crime, Drama",5.5
+331,Color Me Kubrick,2005,86.0,Brian W. Cook,"John Malkovich, Jim Davidson, Richard E. Grant","Comedy, Drama",6.1
+332,Reincarnation,2005,96.0,Takashi Shimizu,"Yûka, Karina, Kippei Shîna","Horror, Mystery",6.1
+333,Bluffmaster,2005,137.0,Rohan Sippy,"Abhishek Bachchan, Priyanka Chopra Jonas, Riteish Deshmukh","Comedy, Crime, Drama",6.6
+334,Monamour,2005,104.0,Tinto Brass,"Anna Jimskaia, Riccardo Marino, Max Parodi",Drama,5.2
+335,Battle in Heaven,2005,98.0,Carlos Reygadas,"Marcos Hernández, Anapola Mushkadiz, Bertha Ruiz","Crime, Drama",5.5
+336,Graves End,2005,90.0,James Marlowe,"Eric Roberts, Steven Williams, Daniel Roebuck","Thriller, Mystery",8.4
+337,Two Sons of Francisco,2005,132.0,Breno Silveira,"Ângelo Antônio, Dira Paes, Márcio Kieling","Biography, Drama, Music",6.9
+338,The Amateurs,2005,96.0,Michael Traeger,"Jeff Bridges, Ted Danson, Joe Pantoliano",Comedy,6.2
+339,Frozen Land,2005,130.0,Aku Louhimies,"Jasper Pääkkönen, Mikko Leppilampi, Pamela Tola",Drama,7.4
+340,Torrente 3: El protector,2005,91.0,Santiago Segura,"Santiago Segura, José Mota, Javier Gutiérrez","Comedy, Crime",5.6
+341,Strange Circus,2005,108.0,Sion Sono,"Masumi Miyazaki, Issei Ishida, Rie Kuwana","Drama, Horror, Mystery",6.9
+342,Mortuary,2005,94.0,Tobe Hooper,"Dan Byrd, Denise Crosby, Stephanie Patton","Horror, Mystery, Thriller",4.2
+343,The Masked Gang,2005,89.0,Murat Aslan,"Safak Sezer, Peker Açikalin, Cengiz Küçükayvaz",Comedy,4.5
+344,Live and Become,2005,140.0,Radu Mihaileanu,"Yaël Abecassis, Roschdy Zem, Moshe Agazai",Drama,7.8
+345,Kaal,2005,126.0,Soham Shah,"Ajay Devgn, Vivek Oberoi, John Abraham","Adventure, Horror, Mystery",4.7
+346,Three Times,2005,120.0,Hsiao-Hsien Hou,"Shu Qi, Chang Chen, Fang Mei","Drama, Romance",6.9
+347,Feed,2005,101.0,Brett Leonard,"Alex O'Loughlin, Patrick Thompson, Gabby Millgate","Crime, Horror, Thriller",5.3
+348,Deewane Huye Paagal,2005,158.0,Vikram Bhatt,"Shahid Kapoor, Akshay Kumar, Suniel Shetty","Action, Comedy, Drama",5.6
+349,Chatrapathi,2005,158.0,S.S. Rajamouli,"Prabhas, Bhanupriya, Shriya Saran","Action, Drama",7.6
+350,Maine Pyaar Kyun Kiya,2005,145.0,David Dhawan,"Salman Khan, Sushmita Sen, Katrina Kaif","Comedy, Drama, Romance",5.6
+351,Evil Aliens,2005,93.0,Jake West,"Emily Booth, Jamie Honeybourne, Samuel Butler","Comedy, Horror, Sci-Fi",5.2
+352,The Wendell Baker Story,2005,99.0,"Andrew Wilson, Luke Wilson","Luke Wilson, Eva Mendes, Seymour Cassel","Comedy, Drama, Romance",5.5
+353,The King and the Clown,2005,119.0,Lee Joon-ik,"Kam Woo-seong, Jung Jin-young, Kang Seong-yeon","Drama, History",7.3
+354,The League of Gentlemen's Apocalypse,2005,91.0,Steve Bendelack,"Mark Gatiss, Steve Pemberton, Reece Shearsmith","Comedy, Fantasy, Horror",6.1
+355,Dirty,2005,97.0,Chris Fisher,"Frank Alvarez, Clifton Collins Jr., Brittany Daniel","Crime, Thriller",5.5
+356,Underclassman,2005,95.0,Marcos Siega,"Hugh Bonneville, Shawn Ashmore, Kelly Hu","Action, Comedy, Crime",4.4
+357,Pierrepoint: The Last Hangman,2005,95.0,Adrian Shergold,"Timothy Spall, Juliet Stevenson, Eddie Marsan","Biography, Crime, Drama",7.4
+358,The Wayward Cloud,2005,112.0,Tsai Ming-liang,"Kang-sheng Lee, Shiang-chyi Chen, Yi-ching Lu","Comedy, Drama, Musical",6.5
+359,Princesses,2005,109.0,Fernando León de Aranoa,"Candela Peña, Micaela Nevárez, Mariana Cordero",Drama,6.9
+360,Azumi 2: Death or Love,2005,108.0,Shûsuke Kaneko,"Aya Ueto, Yûma Ishigaki, Chiaki Kuriyama","Action, Adventure, Drama",6.2
+361,The Moustache,2005,87.0,Emmanuel Carrère,"Vincent Lindon, Emmanuelle Devos, Mathieu Amalric","Drama, Mystery",6.6
+362,Sarah Silverman: Jesus Is Magic,2005,72.0,Liam Lynch,"Sarah Silverman, Steve Agee, Brian Posehn","Documentary, Comedy, Music",6.5
+363,Riding Alone for Thousands of Miles,2005,107.0,Yimou Zhang,"Ken Takakura, Kiichi Nakai, Shinobu Terajima",Drama,7.3
+364,Man with the Screaming Brain,2005,90.0,Bruce Campbell,"Bruce Campbell, Tamara Gorski, Ted Raimi","Comedy, Fantasy, Sci-Fi",5.4
+365,The Mistress of Spices,2005,92.0,Paul Mayeda Berges,"Aishwarya Rai Bachchan, Dylan McDermott, Nitin Ganatra","Drama, Romance",5.5
+366,Return of the Living Dead: Necropolis,2005,88.0,Ellory Elkayem,"Aimee-Lynn Chadwick, Cory Hardrict, John Keefe","Action, Comedy, Horror",3.3
+367,The Dark Hours,2005,80.0,Paul Fox,"Kate Greenhouse, Bruce McFee, Jeff Seymour","Horror, Thriller",6.0
+368,Asylum,2005,99.0,David Mackenzie,"Natasha Richardson, Sean Harris, Marton Csokas","Drama, Romance, Thriller",6.1
+369,Wild Things: Diamonds in the Rough,2005,87.0,Jay Lowi,"Sarah Laine, Brad Johnson, Michael Mantell","Crime, Drama, Mystery",4.5
+370,Naruto the Movie 2: Legend of the Stone of Gelel,2005,97.0,Hirotsugu Kawasaki,"Junko Takeuchi, Shôtarô Morikubo, Chie Nakamura","Animation, Adventure, Comedy",6.4
+371,End of the Spear,2005,108.0,Jim Hanon,"Louie Leonardo, Chad Allen, Jack Guzman","Adventure, Biography, Drama",6.8
+372,Pokémon: Lucario and the Mystery of Mew,2005,103.0,Kunihiko Yuyama,"Veronica Taylor, Eric Stuart, Amy Birnbaum","Animation, Action, Adventure",6.8
+373,The Rocket,2005,124.0,Charles Binamé,"Roy Dupuis, Stephen McHattie, Julie Le Breton","Biography, Drama, Sport",7.6
+374,Boo,2005,94.0,Anthony C. Ferrante,"Trish Coren, Rachel Harland, Jilon VanOver","Adventure, Comedy, Fantasy",4.1
+375,Death Tunnel,2005,97.0,Philip Adrian Booth,"Steffany Huckaby, Melanie Lewis, Yolanda Pecoraro",Horror,2.6
+376,Apaharan,2005,173.0,Prakash Jha,"Ajay Devgn, Nana Patekar, Bipasha Basu","Action, Crime, Drama",7.4
+377,Lemming,2005,129.0,Dominik Moll,"Laurent Lucas, Charlotte Gainsbourg, Charlotte Rampling","Drama, Mystery, Thriller",6.7
+378,The Puffy Chair,2005,85.0,"Jay Duplass, Mark Duplass","Mark Duplass, Katie Aselton, Rhett Wilkins","Comedy, Drama, Romance",6.5
+379,We Are Not Angels 2,2005,89.0,Srdjan Dragojevic,"Nikola Kojo, Mirka Vasiljevic, Uros Djuric",Comedy,6.2
+380,A Little Trip to Heaven,2005,98.0,Baltasar Kormákur,"María Fernández Ache, Kharl Anton Leigh, Peter Coyote","Drama, Thriller",5.9
+381,Noriko's Dinner Table,2005,159.0,Sion Sono,"Kazue Fukiishi, Tsugumi, Yuriko Yoshitaka","Drama, Horror",7.0
+382,Thanmathra,2005,160.0,Blessy,"Mohanlal, Meera Vasudevan, Arjun Lal",Drama,8.4
+383,Thirupaachi,2005,178.0,Perarasu,"Joseph Vijay, Trisha Krishnan, Kota Srinivasa Rao","Action, Drama",6.5
+384,Wassup Rockers,2005,111.0,Larry Clark,"Jonathan Velasquez, Francisco Pedrasa, Milton Velasquez","Adventure, Comedy, Drama",5.9
+385,The God Who Wasn't There,2005,62.0,Brian Flemming,"Sam Harris, Robert M. Price, Richard Carrier","Documentary, Biography, History",6.9
+386,Manual of Love,2005,116.0,Giovanni Veronesi,"Carlo Verdone, Luciana Littizzetto, Silvio Muccino","Comedy, Drama, Romance",6.3
+387,The Gingerdead Man,2005,70.0,Charles Band,"Gary Busey, Robin Sydney, Ryan Locke","Comedy, Fantasy, Horror",3.4
+388,The Baxter,2005,91.0,Michael Showalter,"Michael Showalter, Elizabeth Banks, Peter Dinklage","Comedy, Romance",6.4
+389,Kyon Ki...,2005,160.0,Priyadarshan,"Salman Khan, Kareena Kapoor, Rimi Sen","Drama, Romance",5.5
+390,Separate Lies,2005,85.0,Julian Fellowes,"Tom Wilkinson, Emily Watson, Hermione Norris","Crime, Drama, Romance",6.4
+391,Linda Linda Linda,2005,114.0,Nobuhiro Yamashita,"Bae Doona, Aki Maeda, Yû Kashii","Comedy, Drama, Music",7.5
+392,The Turkish Gambit,2005,208.0,Dzhanik Fayziev,"Egor Beroev, Olga Krasko, Marat Basharov","Action, Drama, Mystery",6.9
+393,Supercross,2005,80.0,Steve Boyum,"Steve Howey, Mike Vogel, Sophia Bush","Action, Drama, Romance",4.4
+394,Heights,2005,93.0,Chris Terrio,"Elizabeth Banks, Glenn Close, James Marsden","Drama, Romance",6.8
+395,Shadows in the Sun,2005,100.0,Brad Mirman,"Harvey Keitel, Claire Forlani, Giancarlo Giannini","Comedy, Drama, Romance",6.6
+396,Return of the Living Dead: Rave to the Grave,2005,86.0,Ellory Elkayem,"Peter Coyote, Aimee-Lynn Chadwick, Cory Hardrict","Comedy, Horror, Sci-Fi",3.3
+397,Ellie Parker,2005,95.0,Scott Coffey,"Naomi Watts, Jennifer Syme, Greg Freitas","Comedy, Drama",5.6
+398,Sky Fighters,2005,102.0,Gérard Pirès,"Benoît Magimel, Clovis Cornillac, Géraldine Pailhas","Action, Adventure, Drama",5.7
+399,Sans Kapiyi Kirinca,2005,107.0,Tayfun Güneyer,"Ferhan Sensoy, Asuman Dabak, Ilkay Saran",Comedy,6.3
+400,Lassie,2005,100.0,Charles Sturridge,"John Lynch, Samantha Morton, Peter O'Toole","Adventure, Comedy, Drama",6.7
+401,Mother of Mine,2005,111.0,Klaus Härö,"Topi Majaniemi, Marjaana Maijala, Maria Lundqvist","Drama, War",7.6
+402,Too Beautiful,2005,97.0,Ugo Fabrizio Giordani,"Costantino Vitagliano, Daniele Interrante, Jennifer Poli",Comedy,1.7
+403,Ivko's Feast,2005,110.0,Zdravko Sotra,"Zoran Cvijanovic, Dragan Bjelogrlic, Milorad Mandic-Manda",Comedy,7.2
+404,Lower City,2005,98.0,Sergio Machado,"Alice Braga, Wagner Moura, Lázaro Ramos",Drama,6.5
+405,The Willow Tree,2005,96.0,Majid Majidi,"Parviz Parastui, Roya Teymourian, Soghra Obeisi",Drama,7.3
+406,Wal-Mart: The High Cost of Low Price,2005,98.0,Robert Greenwald,"Lee Scott, Don Hunter, Jon Hunter",Documentary,6.8
+407,The Truth About Love,2005,100.0,John Hay,"Dougray Scott, Jennifer Love Hewitt, David Christian","Comedy, Romance",5.3
+408,Sex and Breakfast,2005,81.0,Miles Brandman,"Macaulay Culkin, Kuno Becker, Alexis Dziena","Comedy, Drama, Romance",4.8
+409,Ashes and Snow,2005,62.0,Gregory Colbert,"Patrick Disanto, Laurence Fishburne, Jeanne Moreau","Documentary, Drama",8.0
+410,Mouth to Mouth,2005,101.0,Alison Fairweather Murray,"Elliot Page, Natasha Wightman, August Diehl",Drama,6.1
+411,One Last Thing...,2005,96.0,Alex Steyermark,"Michael Angarano, Sunny Mabrey, Cynthia Nixon","Comedy, Drama",6.5
+412,Mrs Palfrey at the Claremont,2005,108.0,Dan Ireland,"Joan Plowright, Rupert Friend, Zoë Tapper","Comedy, Drama",7.6
+413,Left Behind III: World at War,2005,95.0,Craig R. Baxley,"Louis Gossett Jr., Kirk Cameron, Brad Johnson","Action, Drama, Fantasy",4.4
+414,All the Invisible Children,2005,124.0,"Mehdi Charef, Emir Kusturica, Spike Lee","Adama Bila, Elysée Rouamba, Rodrigue Ouattara",Drama,7.4
+415,Fuck,2005,93.0,Steve Anderson,"Drew Carey, Billy Connolly, Bill Maher",Documentary,7.0
+416,Slow Burn,2005,93.0,Wayne Beach,"Ray Liotta, Jolene Blalock, LL Cool J","Drama, Mystery, Thriller",5.7
+417,Bob the Butler,2005,90.0,Gary Sinyor,"Tom Green, Brooke Shields, Genevieve Buechner","Comedy, Family",5.5
+418,Sweet Land,2005,110.0,Ali Selim,"Elizabeth Reaser, Lois Smith, Patrick Heusinger","Drama, Romance",7.1
+419,Murk,2005,124.0,Jannik Johansen,"Nikolaj Lie Kaas, Nicolas Bro, Laura Drasbæk","Drama, Mystery, Thriller",6.7
+420,Stoned,2005,102.0,Stephen Woolley,"Leo Gregory, Paddy Considine, David Morrissey","Biography, Drama, Music",5.7
+421,The White Massai,2005,131.0,Hermine Huntgeburth,"Nina Hoss, Jacky Ido, Katja Flint","Drama, Romance",6.4
+422,Nana,2005,113.0,Kentarô Ohtani,"Mika Nakashima, Aoi Miyazaki, Hiroki Narimiya","Drama, Music, Romance",7.0
+423,Cake,2005,94.0,Nisha Ganatra,"Heather Graham, David Sutcliffe, Taye Diggs","Comedy, Romance",4.9
+424,Takeshis',2005,108.0,Takeshi Kitano,"Takeshi Kitano, Kotomi Kyôno, Kayoko Kishimoto","Comedy, Drama, Fantasy",6.3
+425,Nuvvostanante Nenoddantana,2005,165.0,Prabhu Deva,"Trisha Krishnan, Siddharth, Srihari",Romance,7.8
+426,Zaki Chan,2005,114.0,Wael Ihsan,"Ahmed Helmy, Yasmin Abdelaziz, Nohad Nour","Comedy, Romance",6.6
+427,The River King,2005,99.0,Nick Willing,"Edward Burns, Jennifer Ehle, Thomas Gibson","Drama, Mystery, Thriller",5.7
+428,The Russian Specialist,2005,94.0,Dolph Lundgren,"Dolph Lundgren, Ben Cross, Ivan Petrushinov","Action, Drama, Thriller",5.5
+429,Lunacy,2005,118.0,Jan Svankmajer,"Jan Tríska, Pavel Liska, Anna Geislerová","Animation, Comedy, Drama",7.1
+430,Boy Eats Girl,2005,80.0,Stephen Bradley,"Samantha Mumba, David Leon, Tadhg Murphy","Comedy, Fantasy, Horror",4.9
+431,Nomad: The Warrior,2005,112.0,"Sergei Bodrov, Ivan Passer","Kuno Becker, Jason Scott Lee, Jay Hernandez","Drama, History, War",5.8
+432,Danika,2005,79.0,Ariel Vromen,"Marisa Tomei, Hannah Marks, Guy Camilleri","Drama, Horror, Mystery",5.5
+433,Lucky: No Time for Love,2005,180.0,"Radhika Rao, Vinay Sapru","Salman Khan, Sneha Ullal, Mithun Chakraborty","Musical, Drama, Romance",4.6
+434,Kyaa Kool Hai Hum,2005,172.0,Sangeeth Sivan,"Tusshar Kapoor, Riteish Deshmukh, Isha Koppikar","Comedy, Mystery",6.1
+435,King's Ransom,2005,95.0,Jeffrey W. Byrd,"Anthony Anderson, Kellita Smith, Jay Mohr","Comedy, Crime",4.4
+436,Unhitched,2005,96.0,Stefan Schwartz,"Stuart Townsend, Raphael Schwartz, Jacob Collier","Comedy, Romance",5.9
+437,The Wild Blue Yonder,2005,80.0,Werner Herzog,"Brad Dourif, Donald Williams, Ellen Baker",Sci-Fi,6.1
+438,Sivakaasi,2005,175.0,Perarasu,"Joseph Vijay, Asin, Prakash Raj","Action, Drama",5.8
+439,Bab'Aziz: The Prince That Contemplated His Soul,2005,96.0,Nacer Khemir,"Parviz Shahinkhou, Maryam Hamid, Golshifteh Farahani",Drama,7.5
+440,Zinda,2005,116.0,Sanjay Gupta,"Sanjay Dutt, John Abraham, Lara Dutta","Action, Drama, Mystery",4.9
+441,Man Push Cart,2005,87.0,Ramin Bahrani,"Ahmad Razvi, Leticia Dolera, Charles Daniel Sandoval",Drama,7.0
+442,One Missed Call 2,2005,105.0,Renpei Tsukamoto,"Rie Mimura, Hisashi Yoshizawa, Chisun","Horror, Mystery",5.3
+443,Marilyn Hotchkiss' Ballroom Dancing & Charm School,2005,103.0,Randall Miller,"Robert Carlyle, Marisa Tomei, Mary Steenburgen","Comedy, Drama, Musical",6.5
+444,Ten,2005,152.0,"Anubhav Sinha, Maqbool Khan","Sanjay Dutt, Suniel Shetty, Abhishek Bachchan","Action, Crime, Drama",5.5
+445,The Cave of the Yellow Dog,2005,93.0,Byambasuren Davaa,"Batchuluun Urjindorj, Buyandulam Daramdadi, Nansal Batchuluun","Drama, Family",7.5
+446,The Nun,2005,101.0,Luis de la Madrid,"Aníta Briem, Belén Blanco, Manu Fullola","Drama, Horror, Thriller",4.1
+447,Elsa y Fred,2005,108.0,Marcos Carnevale,"Manuel Alexandre, China Zorrilla, Blanca Portillo","Comedy, Drama, Romance",7.5
+448,Double Down,2005,93.0,Neil Breen,"Neil Breen, Laura Hale, Mike Brady","Action, Comedy, Thriller",4.0
+449,My Brother's Wife,2005,89.0,Ricardo de Montreuil,"Bárbara Mori, Christian Meier, Manolo Cardona",Drama,6.0
+450,The Game of Their Lives,2005,101.0,David Anspaugh,"Wes Bentley, Gerard Butler, Gavin Rossdale","Drama, History, Sport",6.1
+451,One Piece: Baron Omatsuri and the Secret Island,2005,88.0,Mamoru Hosoda,"Takeshi Aono, Shô Ayanokôji, Kôhei Fukuhara","Animation, Action, Adventure",7.2
+452,Vet hard,2005,88.0,Tim Oliehoek,"Jack Wouterse, Kürt Rogiers, Bracha van Doesburgh","Action, Comedy, Crime",6.1
+453,Slipstream,2005,89.0,David van Eyssen,"Sean Astin, Vinnie Jones, Ivana Milicevic","Action, Sci-Fi, Thriller",4.5
+454,En la Cama,2005,85.0,Matías Bize,"Blanca Lewin, Gonzalo Valenzuela",Drama,6.1
+455,Mad Hot Ballroom,2005,105.0,Marilyn Agrelo,"Heather Berman, Emma Therese Biegacki, Eva Carrozza","Documentary, Family, Music",7.4
+456,Aliens of the Deep,2005,100.0,"James Cameron, Steven Quale","James Cameron, Anatoly M. Sagalevitch, Genya Chernaiev","Documentary, Family",6.3
+457,Dead Fish,2005,98.0,Charley Stadler,"Robert Carlyle, Gary Oldman, Anouska Bolton Lee","Action, Comedy, Crime",5.2
+458,Sad Movie,2005,108.0,Kwon Jong-kwan,"Jung Woo-sung, Lim Soo-jung, Cha Tae-hyun","Comedy, Drama, Romance",7.2
+459,Tyttö sinä olet tähti,2005,102.0,Dome Karukoski,"Pamela Tola, Samuli Vauramo, Joonas Saartamo","Drama, Music, Romance",6.5
+460,Het schnitzelparadijs,2005,82.0,Martin Koolhoven,"Noah Valentyn, Bracha van Doesburgh, Mimoun Oaïssa","Comedy, Romance",6.0
+461,Dark Horse,2005,109.0,Dagur Kári,"Jakob Cedergren, Nicolas Bro, Tilly Scott Pedersen","Comedy, Drama, Romance",7.1
+462,On a Clear Day,2005,95.0,Gaby Dellal,"Peter Mullan, Brenda Blethyn, Billy Boyd","Comedy, Drama, Romance",6.9
+463,Loverboy,2005,84.0,Kevin Bacon,"Kyra Sedgwick, Dominic Scott Kay, Campbell Scott","Drama, Romance",5.3
+464,Looking for Comedy in the Muslim World,2005,98.0,Albert Brooks,"Albert Brooks, Sheetal Sheth, John Carroll Lynch",Comedy,5.5
+465,Sirens in the Aegean,2005,115.0,Nicos Perakis,"Giannis Tsimitselis, Yorgos Seitaridis, Ioannis Papazisis",Comedy,5.6
+466,Zozo,2005,105.0,Josef Fares,"Imad Creidi, Antoinette Turk, Elias Gergi","Drama, Family, War",6.5
+467,Tjenare kungen,2005,94.0,Ulf Malmros,"Josefin Neldén, Cecilia Wallin, Malin Morgan","Comedy, Drama, Music",6.1
+468,I Am a Sex Addict,2005,98.0,Caveh Zahedi,"Caveh Zahedi, Christoff Colas, Rebecca Lord","Biography, Comedy, Romance",6.0
+469,Casa de Areia,2005,115.0,Andrucha Waddington,"Fernanda Montenegro, Fernanda Torres, Ruy Guerra",Drama,7.4
+470,Kalyug,2005,126.0,Mohit Suri,"Kunal Kemmu, Deepal Shaw, Smiley Suri","Action, Crime, Drama",6.5
+471,Rize,2005,86.0,David LaChapelle,"Tommy the Clown, Larry Berry, Dragon","Documentary, Music",7.1
+472,Wah-Wah,2005,120.0,Richard E. Grant,"Nicholas Hoult, Miranda Richardson, Emily Watson","Comedy, Drama",6.7
+473,The Italian,2005,90.0,Andrey Kravchuk,"Nikolay Spiridonov, Mariya Kuznetsova, Nikolay Reutov",Drama,7.5
+474,Adam & Steve,2005,99.0,Craig Chester,"Craig Chester, Malcolm Gets, Parker Posey","Comedy, Drama, Music",5.8
+475,Just Sex and Nothing Else,2005,97.0,Krisztina Goda,"Judit Schell, Kata Dobó, Sándor Csányi",Comedy,6.3
+476,Hirsiz Var!,2005,96.0,Oguzhan Tercan,"Haluk Bilginer, Mehmet Ali Erbil, Birol Ünel","Adventure, Comedy, Crime",4.4
+477,Statskiy sovetnik,2005,127.0,Filipp Yankovskiy,"Oleg Menshikov, Nikita Mikhalkov, Konstantin Khabensky","Crime, Drama, Mystery",7.0
+478,The Red Shoes,2005,103.0,Yong-gyun Kim,"Kim Hye-su, Kim Seong-su, Yeon-ah Park","Horror, Mystery, Thriller",5.7
+479,Haze,2005,49.0,Shin'ya Tsukamoto,"Shin'ya Tsukamoto, Takahiro Murase, Takahiro Kandaka","Horror, Mystery",6.4
+480,You Are So Beautiful,2005,97.0,Isabelle Mergault,"Michel Blanc, Medeea Marinescu, Wladimir Yordanoff","Comedy, Drama, Romance",6.7
+481,American Gun,2005,95.0,Aric Avelino,"Marcia Gay Harden, Forest Whitaker, Donald Sutherland",Drama,6.1
+482,Vaah! Life Ho Toh Aisi!,2005,153.0,Mahesh Manjrekar,"Shahid Kapoor, Amrita Rao, Sanjay Dutt","Comedy, Drama, Family",4.8
+483,Popstar,2005,94.0,Richard Gabai,"Aaron Carter, Alana Austin, David Cassidy","Comedy, Family, Romance",2.5
+484,Egreti Gelin,2005,115.0,Atif Yilmaz,"Müjde Ar, Nurgül Yesilçay, Onur Ünsal",Drama,6.2
+485,El-sefara fi El-Omara,2005,107.0,Amr Arafa,"Adel Emam, Dalia El Behairy, Ahmed Rateb","Comedy, Drama",6.4
+486,"Cinema, Aspirins and Vultures",2005,99.0,Marcelo Gomes,"João Miguel, Peter Ketnath, Madalena Accioly","Adventure, Drama",7.3
+487,Crying Fist,2005,134.0,Ryoo Seung-wan,"Choi Min-sik, Ryu Seung-beom, Jeong-ah Bae","Action, Drama, Sport",7.2
+488,Rajamanikyam,2005,126.0,Anwar Rasheed,"Mammootty, Rahman, Manoj K. Jayan","Action, Comedy",7.8
+489,Look Both Ways,2005,100.0,Sarah Watt,"Mary Kostakidis, Justine Clarke, Daniela Farinacci","Drama, Mystery, Romance",6.9
+490,Game 6,2005,87.0,Michael Hoffman,"Michael Keaton, Robert Downey Jr., Griffin Dunne","Comedy, Drama, Sport",5.7
+491,Being Cyrus,2005,90.0,Homi Adajania,"Naseeruddin Shah, Dimple Kapadia, Saif Ali Khan","Drama, Thriller",7.1
+492,Regular Lovers,2005,183.0,Philippe Garrel,"Louis Garrel, Clotilde Hesme, Julien Lucas","Drama, Romance",6.8
+493,Free Zone,2005,90.0,Amos Gitai,"Natalie Portman, Hana Laslo, Hiam Abbass","Comedy, Drama",5.7
+494,Sommer vorm Balkon,2005,107.0,Andreas Dresen,"Inka Friedrich, Nadja Uhl, Andreas Schmidt",Drama,6.9
+495,Moussaka & Chips,2005,90.0,Danny Patrick,"Ron Moody, Mike Reid, Miles Petit",Adventure,4.5
+496,The Sun,2005,110.0,Aleksandr Sokurov,"Issei Ogata, Robert Dawson, Kaori Momoi","Drama, History",7.3
+497,Shadowless Sword,2005,117.0,Young-jun Kim,"Shin Hyeon-jun, Yoon So-yi, Lee Seo-jin","Action, Adventure, History",6.4
+498,Ripley Under Ground,2005,101.0,Roger Spottiswoode,"Barry Pepper, Jacinda Barrett, Ian Hart","Crime, Drama, Thriller",5.9
+499,Kinetta,2005,95.0,Yorgos Lanthimos,"Evangelia Randou, Aris Servetalis, Costas Xikominos",Drama,4.7
+500,Undiscovered,2005,97.0,Meiert Avis,"Kip Pardue, Carrie Fisher, Shannyn Sossamon","Comedy, Music, Romance",4.2
+501,Adam and Eve,2005,91.0,Jeff Kanew,"Cameron Douglas, Emmanuelle Chriqui, Chad Lindberg","Comedy, Drama, Romance",4.3
+502,Heading South,2005,108.0,Laurent Cantet,"Charlotte Rampling, Karen Young, Louise Portal",Drama,6.3
+503,Kim Novak Never Swam in Genesaret's Lake,2005,95.0,Martin Asphaug,"Anton Lundqvist, Jesper Adefelt, Jonas Karlsson","Crime, Drama",6.5
+504,Tickets,2005,109.0,"Abbas Kiarostami, Ken Loach, Ermanno Olmi","Carlo Delle Piane, Valeria Bruni Tedeschi, Silvana De Santis","Comedy, Drama",6.9
+505,"So Close, So Far",2005,121.0,Reza Mirkarimi,"Alireza Phoenix, Masoud Rayegan, Afshin Hashemi",Drama,7.5
+506,Angels in Fast Motion,2005,125.0,Ole Christian Madsen,"Signe Egholm Olsen, Claus Riis Østergaard, Thure Lindhardt","Crime, Drama, Romance",6.8
+507,Drop Dead Sexy,2005,83.0,Michael Philip,"Jason Lee, Crispin Glover, Burton Gilliam","Comedy, Crime",4.8
+508,Tapas,2005,94.0,"José Corbacho, Juan Cruz","Ángel de Andrés López, María Galiana, Elvira Mínguez","Comedy, Drama",6.7
+509,Kids in America,2005,91.0,Josh Stolberg,"Gregory Smith, Julie Bowen, Malik Yoba",Comedy,5.6
+510,Bal-Can-Can,2005,89.0,Darko Mitrevski,"Vlado Jovanovski, Adolfo Margiotta, Zvezda Angelovska","Action, Adventure, Comedy",7.6
+511,Cello,2005,94.0,Lee Woo-cheol,"Sung Hyun-ah, Park Da-an, Jeong Ho-bin","Horror, Mystery",5.9
+512,Dosti: Friends Forever,2005,136.0,Suneel Darshan,"Akshay Kumar, Bobby Deol, Kareena Kapoor","Drama, Romance",5.3
+513,Naisu no mori: The First Contact,2005,150.0,"Katsuhito Ishii, Hajime Ishimine, Shunichirô Miki","Chizuru Ikewaki, Kazue Fukiishi, Machiko Ono","Comedy, Fantasy",6.6
+514,River Queen,2005,114.0,Vincent Ward,"Samantha Morton, Kiefer Sutherland, Cliff Curtis","Action, Adventure, Drama",5.9
+515,The Great Yokai War,2005,124.0,Takashi Miike,"Ryûnosuke Kamiki, Hiroyuki Miyasako, Chiaki Kuriyama","Adventure, Family, Fantasy",6.3
+516,Perhaps Love,2005,108.0,Peter Ho-Sun Chan,"Takeshi Kaneshiro, Xun Zhou, Jacky Cheung","Drama, Musical, Romance",6.8
+517,Storm,2005,110.0,"Måns Mårlind, Björn Stein","Eric Ericson, Eva Röse, Jonas Karlsson","Drama, Fantasy, Mystery",5.6
+518,My Girl and I,2005,97.0,Yun-su Chong,"Cha Tae-hyun, Song Hye-kyo, Song Chang-ui","Comedy, Drama, Romance",7.1
+519,Bewafaa,2005,151.0,Dharmesh Darshan,"Anil Kapoor, Akshay Kumar, Kareena Kapoor","Drama, Romance",4.2
+520,Abo Ali,2005,120.0,Ahmad Nader Galal,"Karim Abdel Aziz, Mona Zaki, Talaat Zakaria","Comedy, Romance",6.6
+521,Our Daily Bread,2005,92.0,Nikolaus Geyrhalter,"Claus Hansen Petz, Arkadiusz Rydellek, Barbara Hinz",Documentary,7.5
+522,"Main, Meri Patni... Aur Woh!",2005,129.0,Chandan Arora,"Rajpal Naurang Yadav, Rituparna Sengupta, Naseeruddin Shah","Comedy, Drama, Romance",7.3
+523,The Crime of Father Amaro,2005,100.0,Carlos Coelho da Silva,"Jorge Corrula, Soraia Chaves, Nicolau Breyner","Action, Drama",5.4
+524,Darna Zaroori Hai,2005,108.0,"J.D. Chakravarthi, Manish Gupta, Sajid Khan","Amitabh Bachchan, Riteish Deshmukh, Arjun Rampal",Horror,5.5
+525,The Young Lieutenant,2005,110.0,Xavier Beauvois,"Nathalie Baye, Jalil Lespert, Roschdy Zem","Crime, Drama",6.9
+526,The Comedians of Comedy,2005,103.0,Michael Blieden,"Patton Oswalt, Brian Posehn, Maria Bamford","Comedy, Documentary",7.2
+527,Habana Blues,2005,115.0,Benito Zambrano,"Alberto Yoel, Roberto San Martín, Yailene Sierra","Drama, Music",7.1
+528,Tsiou...,2005,83.0,Makis Papadimitratos,"Alexandros Parisis, Makis Papadimitratos, Anastasis Kolovos","Comedy, Drama",6.9
+529,The Violin,2005,98.0,Francisco Vargas,"Ángel Tavira, Gerardo Taracena, Dagoberto Gama","Drama, Music",7.6
+530,Udayananu Tharam,2005,162.0,Rosshan Andrrews,"Mohanlal, Sreenivasan, Mukesh",Comedy,7.9
+531,Don't Tell,2005,120.0,Cristina Comencini,"Giovanna Mezzogiorno, Luigi Lo Cascio, Alessio Boni","Drama, Mystery",6.3
+532,L'enfer,2005,102.0,Danis Tanovic,"Emmanuelle Béart, Karin Viard, Marie Gillain",Drama,6.8
+533,Rosario Tijeras,2005,126.0,Emilio Maillé,"Flora Martínez, Unax Ugalde, Manolo Cardona","Crime, Drama, Romance",6.3
+534,Accused,2005,103.0,Jacob Thuesen,"Troels Lyby, Sofie Gråbøl, Paw Henriksen",Drama,7.0
+535,Into Great Silence,2005,169.0,Philip Gröning,,Documentary,7.3
+536,Always: Sunset on Third Street,2005,133.0,Takashi Yamazaki,"Maki Horikita, Hidetaka Yoshioka, Shin'ichi Tsutsumi","Comedy, Drama, Family",7.7
+537,Manslaughter,2005,100.0,Per Fly,"Jesper Christensen, Pernilla August, Beate Bille","Crime, Drama",6.7
+538,Marathon,2005,117.0,Yoon-Chul Jung,"Cho Seung-woo, Kim Mi Sook, Lee Ki-young","Biography, Drama, Sport",7.6
+539,Pervert!,2005,81.0,Jonathan Yudis,"Malik Carter, Sean Andrews, Tula","Comedy, Horror",4.5
+540,American Soldiers,2005,103.0,Sidney J. Furie,"Curtis Morgan, Zan Calabretta, Jordan Brown","Action, Drama, History",3.5
+541,Parzania,2005,116.0,Rahul Dholakia,"Naseeruddin Shah, Corin Nemec, Sarika Thakur","Drama, History",7.5
+542,Yamato,2005,145.0,Jun'ya Satô,"Takashi Sorimachi, Shidô Nakamura, Kyôka Suzuki","Drama, History, War",6.4
+543,The Dying Gaul,2005,92.0,Craig Lucas,"Peter Sarsgaard, Campbell Scott, Patricia Clarkson","Drama, Romance, Thriller",6.4
+544,Skazany na bluesa,2005,101.0,Jan Kidawa-Blonski,"Tomasz Kot, Jolanta Fraszynska, Maciej Balcar","Biography, Drama, Music",6.9
+545,We Feed the World,2005,96.0,Erwin Wagenhofer,"Jean Ziegler, Peter Brabeck, Karl Otrok",Documentary,7.5
+546,Cold Showers,2005,102.0,Antony Cordier,"Johan Libéreau, Salomé Stévenin, Florence Thomassin",Drama,6.0
+547,The Cutter,2005,92.0,William Tannen,"Chuck Norris, Joanna Pacula, Daniel Bernhardt","Action, Crime, Drama",4.9
+548,Zerophilia,2005,90.0,Martin Curland,"Taylor Handley, Dustin Seavey, Alison Folland","Comedy, Romance",6.0
+549,It Waits,2005,88.0,Steven R. Monroe,"Cerina Vincent, Dominic Zamprogna, Greg Kean",Horror,4.0
+550,Daltry Calhoun,2005,100.0,Katrina Holden Bronson,"Johnny Knoxville, Elizabeth Banks, Beth Grant","Comedy, Drama, Music",5.1
+551,7 Virgins,2005,86.0,Alberto Rodríguez,"Juan José Ballesta, Iride Fontana, Javier Berger","Crime, Drama",6.3
+552,Standing Still,2005,90.0,Matthew Cole Weiss,"Jon Abrahams, Amy Adams, Aaron Stanford","Comedy, Drama, Romance",5.6
+553,Solkongen,2005,86.0,Tomas Villum Jensen,"Nikolaj Lie Kaas, Birthe Neumann, Thomas Bo Larsen","Comedy, Drama",6.1
+554,Ma vie en l'air,2005,103.0,Rémi Bezançon,"Vincent Elbaz, Marion Cotillard, Gilles Lellouche","Comedy, Romance",6.7
+555,Sehar,2005,125.0,Kabeer Kaushik,"Arshad Warsi, Pankaj Kapur, Mahima Chaudhry","Action, Crime, Drama",7.7
+556,The Thing About My Folks,2005,96.0,Raymond De Felitta,"Paul Reiser, Peter Falk, Olympia Dukakis","Comedy, Drama",6.4
+557,Densha otoko,2005,101.0,Shôsuke Murakami,"Takayuki Yamada, Miki Nakatani, Ryôko Kuninaka","Comedy, Romance",6.8
+558,Alice,2005,102.0,Marco Martins,"Nuno Lopes, Beatriz Batarda, Miguel Guilherme",Drama,7.3
+559,Zeher,2005,132.0,Mohit Suri,"Emraan Hashmi, Shamita Shetty, Udita Goswami","Crime, Drama, Mystery",5.6
+560,Tango Charlie,2005,142.0,Mani Shankar,"Bobby Deol, Ajay Devgn, Sanjay Dutt","Action, Adventure, Drama",6.1
+561,Duane Hopwood,2005,84.0,Matt Mulhern,"Daisy Ang, Bill Buell, Dick Cavett","Comedy, Drama",6.5
+562,Meatball Machine,2005,90.0,"Yûdai Yamaguchi, Jun'ichi Yamamoto","Issei Takahashi, Aoba Kawai, Kenichi Kawasaki","Action, Horror, Sci-Fi",5.7
+563,All Babes Want to Kill Me,2005,82.0,Colin Kaye,"Colin Kaye, Gianni Lazuli, Alex Cain","Comedy, Romance",3.1
+564,Chocolate: Deep Dark Secrets,2005,160.0,Vivek Agnihotri,"Anil Kapoor, Suniel Shetty, Arshad Warsi","Crime, Drama, Mystery",4.8
+565,Leonard Cohen: I'm Your Man,2005,105.0,Lian Lunson,"Leonard Cohen, Bono, Rufus Wainwright","Documentary, Biography, Music",6.8
+566,FC Venus,2005,107.0,Joona Tena,"Minna Haapkylä, Petteri Summanen, Laura Malmivaara","Comedy, Romance, Sport",5.5
+567,Chaos,2005,74.0,David DeFalco,"Kevin Gage, Sage Stallone, Kelly K.C. Quann","Horror, Thriller",3.2
+568,Izzat,2005,107.0,Ulrik Imtiaz Rolfsen,"Emil Marwa, Khawar Gomi Sadiq, Assad Siddique","Action, Crime, Thriller",6.3
+569,Boy s tenyu,2005,132.0,Aleksey Sidorov,"Elena Panova, Andrey Panin, Ivan Makarevich","Action, Drama, Sport",5.8
+570,The Roost,2005,80.0,Ti West,"Tom Noonan, Karl Jacob, Vanessa Horneff","Horror, Thriller",4.8
+571,Detective Conan: Strategy Above the Depths,2005,108.0,Yasuichirô Yamamoto,"Minami Takayama, Akira Kamiya, Wakana Yamazaki","Animation, Action, Adventure",7.0
+572,April Snow,2005,105.0,Hur Jin-ho,"Bae Yong-jun, Son Ye-jin, Kook-huan Chun","Drama, Romance",6.6
+573,The Gospel,2005,105.0,Rob Hardy,"Boris Kodjoe, Nona Gaye, Idris Elba","Adventure, Drama, Family",5.1
+574,Viruddh... Family Comes First,2005,132.0,"Mahesh Manjrekar, Satish Padwal","Amitabh Bachchan, Sharmila Tagore, John Abraham","Drama, Family",7.0
+575,The Blue Umbrella,2005,90.0,Vishal Bhardwaj,"Pankaj Kapur, Shreya Sharma, Deepak Dobriyal","Comedy, Drama, Family",7.3
+576,Palais royal!,2005,110.0,Valérie Lemercier,"Valérie Lemercier, Lambert Wilson, Catherine Deneuve",Comedy,5.6
+577,I'm Going to Tell You a Secret,2005,128.0,"Jonas Åkerlund, Dago Gonzales","Madonna, Stuart Price, Steve Sidelnyk","Documentary, Music",7.7
+578,Queens,2005,107.0,Manuel Gómez Pereira,"Marisa Paredes, Carmen Maura, Verónica Forqué","Comedy, Romance",6.5
+579,Chromophobia,2005,136.0,Martha Fiennes,"Ben Chaplin, Penélope Cruz, Ralph Fiennes",Drama,6.1
+580,Border Café,2005,107.0,Kambuzia Partovi,"Fereshteh Sadre Orafaiy, Parviz Parastui, Nikos Papadopoulos","Drama, Romance",7.3
+581,Antarctic Journal,2005,115.0,Pil-sung Yim,"Song Kang-ho, Yoo Ji-tae, Kim Kyeong-ik","Horror, Mystery, Thriller",5.9
+582,Severed,2005,93.0,Carl Bessai,"Paul Campbell, Sarah Lind, Julian Christopher","Horror, Sci-Fi, Thriller",4.5
+583,McLibel,2005,85.0,"Ken Loach, Franny Armstrong","Helen Steel, Dave Morris, Bruce Alexander",Documentary,7.1
+584,Private Alexandria,2005,95.0,Sandra Nashaat,"Ahmed Ezz, Ghada Adel, Khaled Saleh","Crime, Drama, Mystery",7.2
+585,The Eye 3,2005,86.0,"Danny Pang, Oxide Chun Pang","Chen Bolin, Yan Kam Ching, Ng Wing Chuen","Comedy, Horror",4.6
+586,Gabrielle,2005,90.0,Patrice Chéreau,"Isabelle Huppert, Pascal Greggory, Claudia Coli","Drama, Romance",6.2
+587,Man to Man,2005,122.0,Régis Wargnier,"Joseph Fiennes, Kristin Scott Thomas, Iain Glen",Drama,6.5
+588,Komornik,2005,94.0,Feliks Falk,"Andrzej Chyra, Malgorzata Kozuchowska, Kinga Preis",Drama,6.9
+589,Street Fight,2005,83.0,Marshall Curry,"Jen Bluestein, Cory Booker, Bill Bradley",Documentary,7.9
+590,Deepwater,2005,93.0,David S. Marfield,"Lucas Black, Peter Coyote, Mía Maestro","Crime, Mystery, Thriller",5.3
+591,Pitbull,2005,97.0,Patryk Vega,"Marcin Dorocinski, Janusz Gajos, Andrzej Grabowski","Action, Crime, Drama",6.9
+592,Mary,2005,83.0,Abel Ferrara,"Juliette Binoche, Forest Whitaker, Matthew Modine","Drama, Thriller",5.8
+593,Döngel Kârhanesi,2005,,Hakan Algül,"Metin Akpinar, Ahmet Ugurlu, Senay Gürler",Comedy,5.7
+594,Tokyo Zombie,2005,103.0,Sakichi Sato,"Tadanobu Asano, Shô Aikawa, Erika Okuda","Action, Comedy, Horror",5.9
+595,Côte d'Azur,2005,96.0,"Olivier Ducastel, Jacques Martineau","Gilbert Melki, Valeria Bruni Tedeschi, Sabrina Seyvecou","Comedy, Musical, Romance",6.6
+596,Winter's End,2005,98.0,Patrick Kenny,"Michael Crowley, Jill Bradbury, Paul Whyte",Thriller,6.3
+597,The Mostly Unfabulous Social Life of Ethan Green,2005,88.0,George Bamber,"Daniel Letterle, Diego Serrano, Meredith Baxter","Comedy, Romance",6.1
+598,Chinaman,2005,88.0,Henrik Ruben Genz,"Bjarne Henriksen, Vivian Wu, Lin Kun Wu","Comedy, Drama, Romance",7.0
+599,Guy X,2005,101.0,Saul Metzstein,"Jason Biggs, Natascha McElhone, Jeremy Northam","Comedy, War",5.0
+600,The Magician,2005,85.0,Scott Ryan,"Scott Ryan, Ben Walker, Massimiliano Andrighetto","Crime, Drama",6.5
+601,Headspace,2005,89.0,Andrew van den Houten,"Christopher Denham, Sean Young, Larry Fessenden","Horror, Mystery, Sci-Fi",4.6
+602,Beneath Still Waters,2005,100.0,Brian Yuzna,"Omar Muñoz, Santiago Pasaglia, Eva Pont",Horror,3.8
+603,Hanuman,2005,89.0,"V.G. Samant, Milind Ukey","Mukesh Khanna, Viraj, Mona Shetty",Animation,8.0
+604,Tale of Cinema,2005,89.0,Hong Sang-soo,"Kim Sang-kyung, Uhm Ji-won, Lee Ki-woo",Drama,6.9
+605,Gallipoli,2005,114.0,Tolga Örnek,"Nigel Steel, Robin Prior, Les Carlyon","Documentary, History, War",7.4
+606,Sacred Heart,2005,120.0,Ferzan Özpetek,"Barbora Bobulova, Andrea Di Stefano, Lisa Gastoni",Drama,6.3
+607,House of Fury,2005,102.0,Stephen Fung,"Anthony Chau-Sang Wong, Gillian Chung, Stephen Fung","Action, Comedy",6.1
+608,Either Me or My Auntie,2005,90.0,Saeed Hamed,"Mohamed Henedi, Donia Samir Ghanem, Hassan Hosny",Comedy,5.5
+609,Tara Road,2005,97.0,Gillies MacKinnon,"Jean-Marc Barr, Sarah Bolger, Jennifer Buckley",Drama,6.0
+610,Syndrome of the Trespasser Island,2005,80.0,"Stuart Gillard, Leigh Scott","Bruce Boxleitner, Jeff Denton, Rhett Giles","Action, Adventure, Fantasy",2.5
+611,I Love You in Every Language in the World,2005,99.0,Leonardo Pieraccioni,"Leonardo Pieraccioni, Giorgio Panariello, Marjo Berasategui",Comedy,5.9
+612,Mutual Appreciation,2005,109.0,Andrew Bujalski,"Justin Rice, Rachel Clift, Andrew Bujalski",Comedy,6.7
+613,Allegro,2005,88.0,Christoffer Boe,"Ulrich Thomsen, Helena Christensen, Henning Moritzen","Drama, Romance, Sci-Fi",6.5
+614,Iluminados por el fuego,2005,100.0,Tristán Bauer,"Gastón Pauls, Pablo Ribba, César Albarracín","Action, Drama, History",6.7
+615,20 centímetros,2005,112.0,Ramón Salazar,"Mónica Cervera, Pablo Puyol, Miguel O'Dogherty","Comedy, Musical",6.6
+616,Bad Girls from Valley High,2005,84.0,John T. Kretchmer,"Julie Benz, Nicole Bilderback, Monica Keena","Comedy, Romance",3.7
+617,The Deal,2005,107.0,Harvey Kahn,"Christian Slater, Selma Blair, Robert Loggia","Crime, Drama, Mystery",5.0
+618,The Black Box,2005,88.0,Richard Berry,"José Garcia, Marion Cotillard, Michel Duchaussoy","Mystery, Thriller",5.7
+619,Harb Atalia,2005,110.0,Ahmed Saleh,"Ahmed El Sakka, Kal El Naga, Nelly Karim","Action, Adventure, Comedy",6.2
+620,What Is a Man Without a Moustache?,2005,109.0,Hrvoje Hribar,"Robert Ugrina, Nagyb Saliji, Yousuf Ansari","Comedy, Drama, Romance",7.1
+621,To kako,2005,83.0,Yorgos Noussias,"Meletis Georgiadis, Pepi Moschovakou, Argiris Thanasoulas","Action, Comedy, Horror",5.4
+622,Death Trance,2005,89.0,Yûji Shimomura,"Tak Sakaguchi, Takamasa Suga, Kentaro Seagal","Action, Adventure, Fantasy",5.7
+623,Anukokunda Oka Roju,2005,145.0,Chandra Sekhar Yeleti,"Charmme Kaur, Jagapathi Babu, Shashank","Mystery, Thriller",7.9
+624,Aachi & Ssipak,2005,90.0,"Jo Beom-jin, Zack Keller, Ed Skudder","Nick Ainsworth, Lim Chang-jung, Yang Jeong-hwa","Animation, Action, Comedy",6.7
+625,Brothers in Arms,2005,85.0,Jean-Claude La Marre,"David Carradine, Gabriel Casseus, Raymond Cruz","Drama, Western",2.5
+626,Aashiq Banaya Aapne: Love Takes Over,2005,115.0,Aditya Datt,"Emraan Hashmi, Tanushree Dutta, Sonu Sood","Drama, Romance, Thriller",4.4
+627,Natale a Miami,2005,100.0,Neri Parenti,"Massimo Boldi, Christian De Sica, Massimo Ghini",Comedy,4.1
+628,Brothers of the Head,2005,93.0,"Keith Fulton, Louis Pepe","Luke Treadaway, Harry Treadaway, Jonathan Pryce","Drama, Music",6.2
+629,Siegfried,2005,89.0,Sven Unterwaldt Jr.,"Tom Gerhardt, Dorkas Kiefer, Volker Büdts",Comedy,3.6
+630,Kirikou and the Wild Beasts,2005,75.0,"Bénédicte Galup, Michel Ocelot","Pierre-Ndoffé Sarr, Awa Sene Sarr, Robert Liensol","Animation, Adventure, Family",6.6
+631,Dievu miskas,2005,120.0,Algimantas Puipa,"Valentinas Masalskis, Steven Berkoff, Liubomiras Laucevicius","Biography, Drama, War",7.7
+632,Aaru,2005,168.0,Hari,"Suriya, Trisha Krishnan, Vadivelu","Action, Adventure, Comedy",5.8
+633,New York Doll,2005,75.0,Greg Whiteley,"Arthur Kane, David Johansen, Sylvain Sylvain","Documentary, Music",7.7
+634,Neo Ned,2005,97.0,Van Fischer,"Jeremy Renner, Gabrielle Union, David E. Allen","Drama, Romance",6.8
+635,Loggerheads,2005,95.0,Tim Kirkman,"Kip Pardue, Michael Kelly, Tess Harper",Drama,7.2
+636,Workingman's Death,2005,122.0,Michael Glawogger,,Documentary,7.9
+637,The Last Sign,2005,86.0,Douglas Law,"Andie MacDowell, Samuel Le Bihan, Tim Roth","Drama, Fantasy, Romance",3.4
+638,Ek Ajnabee,2005,142.0,Apoorva Lakhia,"Amitabh Bachchan, Arjun Rampal, Perizaad Zorabian","Action, Drama, Thriller",5.3
+639,Her Minor Thing,2005,91.0,Charles Matthau,"Estella Warren, Christian Kane, Michael Weatherly","Comedy, Romance",5.1
+640,Aurora Borealis,2005,110.0,James C.E. Burke,"Joshua Jackson, Donald Sutherland, Juliette Lewis","Drama, Romance",6.7
+641,Bunny,2005,139.0,V.V. Vinayak,"Allu Arjun, Gowri Munjal, Prakash Raj",Drama,5.8
+642,Neal 'n' Nikki,2005,122.0,Arjun Sablok,"Uday Chopra, Tanishaa Mukerji, Abhishek Bachchan","Comedy, Musical, Romance",3.2
+643,The Cavern,2005,95.0,Olatunde Osunsanmi,"Sybil Darrow, Mustafa Shakir, Ogy Durham","Drama, Horror, Mystery",2.8
+644,Forty Shades of Blue,2005,108.0,Ira Sachs,"Dina Korzun, Rip Torn, Andrew Lawrence Henderson","Drama, Music, Romance",6.1
+645,Art of the Devil II,2005,100.0,"Pasith Buranajan, Khom Kongkiat Khomsiri, Isara Nadee","Napakpapha Nakprasitte, Hataiwan Ngamsukonpusit, Akarin Siwapornpitak","Fantasy, Horror, Mystery",5.9
+646,Be with Me,2005,93.0,Eric Khoo,"Theresa Poh Lin Chan, Chiew Sung Ching, Lawrence Yong","Drama, Romance",7.0
+647,Summer Time Machine Blues,2005,107.0,Katsuyuki Motohiro,"Eita Nagayama, Yoshiaki Yoza, Daijirô Kawaoka","Comedy, Sci-Fi",7.1
+648,Príbehy obycejného sílenství,2005,100.0,Petr Zelenka,"Ivan Trojan, Zuzana Sulajová, Zuzana Stivínová","Comedy, Drama",7.2
+649,Sandor slash Ida,2005,93.0,Henrik Georgsson,"Andrej Lunusjkin, André Lidholm, Adam Lundgren","Comedy, Drama, Romance",5.2
+650,2 Girls,2005,107.0,Kutlug Ataman,"Hülya Avsar, Vildan Atasever, Feride Çetin",Drama,5.4
+651,Banyo,2005,87.0,Mustafa Altioklar,"Demet Evgar, Janset, Arda Kural","Comedy, Crime",4.1
+652,Zizek!,2005,71.0,Astra Taylor,Slavoj Zizek,Documentary,7.3
+653,Voice,2005,104.0,Equan Choi,"Na Eun-kyeong, Jeon Ji-ae, Seo Ji-hye",Horror,6.2
+654,Ambulance,2005,80.0,Laurits Munch-Petersen,"Paw Henriksen, Thomas Bo Larsen, Helle Fagralid","Action, Drama, Thriller",5.4
+655,Je ne suis pas là pour être aimé,2005,93.0,Stéphane Brizé,"Patrick Chesnais, Anne Consigny, Georges Wilson","Comedy, Drama, Romance",7.1
+656,Aurore,2005,115.0,Luc Dionne,"Marianne Fortier, Serge Postigo, Hélène Bourgeois Leclerc",Drama,7.3
+657,Pyl,2005,107.0,"Sergey Loban, Marina Potapova","Aleksey Podolskiy, Pyotr Mamonov, Gleb Mikhaylov","Comedy, Drama, Sci-Fi",7.1
+658,Dragon Squad,2005,110.0,Daniel Lee,"Vanness Wu, Shawn Yue, Yu Xia","Action, Adventure, Crime",5.3
+659,Naran,2005,150.0,Joshiy,"Mohanlal, Madhu, Jagathy Sreekumar","Action, Thriller",7.3
+660,Way of the Vampire,2005,82.0,"Sarah Nean Bruce, Eduardo Durão","Rhett Giles, Andreas Beckett, Paul Logan","Action, Horror, Thriller",1.9
+661,Love Me Tomorrow,2005,90.0,Petter Næss,"Per Christian Ellefsen, Sven Nordin, Marian Saastad Ottesen","Comedy, Drama, Romance",6.2
+662,Punk: Attitude,2005,90.0,Don Letts,"Alice Bag, K.K. Barrett, Roberta Bayley","Documentary, Music",7.4
+663,Missing in America,2005,102.0,Gabrielle Savage Dockterman,"Danny Glover, Ron Perlman, Linda Hamilton","Drama, War",6.5
+664,Geminis,2005,85.0,Albertina Carri,"Cristina Banegas, Daniel Fanego, Lucas Escariz",Drama,5.7
+665,Midnight Movies: From the Margin to the Mainstream,2005,86.0,Stuart Samuels,"John Waters, Ben Barenholtz, Alejandro Jodorowsky",Documentary,7.3
+666,Ghosts,2005,85.0,Christian Petzold,"Julia Hummer, Sabine Timoteo, Marianne Basler",Drama,6.8
+667,Joni's Promise,2005,83.0,Joko Anwar,"Nicholas Saputra, Mariana Renata, Rachel Maryam Sayidina","Adventure, Comedy, Drama",7.6
+668,Hate Crime,2005,104.0,Tommy Stovall,"Seth Peterson, Bruce Davison, Chad Donella","Crime, Drama, Mystery",6.3
+669,Ang pagdadalaga ni Maximo Oliveros,2005,100.0,Auraeus Solito,"Nathan Lopez, Soliman Cruz, JR Valentin",Drama,7.0
+670,Spirit Trap,2005,91.0,David Smith,"Billie Piper, Luke Mably, Emma Catherwood","Horror, Thriller",4.4
+671,Bigger Than the Sky,2005,106.0,Al Corley,"Marcus Thomas, Amy Smart, John Corbett","Comedy, Drama, Romance",5.9
+672,NVA,2005,98.0,Leander Haußmann,"Kim Frank, Oliver Bröcker, Detlev Buck",Comedy,5.6
+673,The President's Last Bang,2005,102.0,Im Sang-soo,"Han Suk-kyu, Baek Yoon-shik, Song Jae-ho","Comedy, Drama, History",6.9
+674,These Girls,2005,92.0,John Hazlett,"Caroline Dhavernas, Jacques Girard, Holly Lewis","Comedy, Drama",5.4
+675,All Souls Day: Dia de los Muertos,2005,88.0,Jeremy Kasten,"Marisa Ramirez, Travis Wester, Nichole Hiltz","Horror, Thriller",3.7
+676,The Great New Wonderful,2005,88.0,Danny Leiner,"Maggie Gyllenhaal, Seth Gilliam, Jim Parsons","Comedy, Drama, Romance",5.5
+677,State Property: Blood on the Streets,2005,94.0,Damon Dash,"Beanie Sigel, N.O.R.E., Damon Dash","Musical, Action, Crime",4.5
+678,Balu,2005,169.0,A. Karunakaran,"Pawan Kalyan, Shriya Saran, Jayasudha","Action, Crime",6.0
+679,Drawing Restraint 9,2005,135.0,Matthew Barney,"Matthew Barney, Björk, Shigeru Akahori",Fantasy,6.5
+680,When Do We Eat?,2005,86.0,Salvador Litvak,"Lesley Ann Warren, Michael Lerner, Shiri Appleby",Comedy,5.8
+681,Die Wilden Kerle 2,2005,95.0,Joachim Masannek,"Jimi Blue Ochsenknecht, Sarah Kim Gries, Raban Bieling","Comedy, Family, Sport",4.4
+682,Shabd,2005,140.0,Leena Yadav,"Sanjay Dutt, Aishwarya Rai Bachchan, Zayed Khan","Drama, Thriller",5.0
+683,The Kid & I,2005,93.0,Penelope Spheeris,"Tom Arnold, Joe Mantegna, Eric Gores",Comedy,5.1
+684,Intermedio,2005,85.0,Andy Lauer,"Edward Furlong, Steve Railsback, Cerina Vincent","Horror, Thriller",2.7
+685,Innocent Steps,2005,110.0,Young-hoon Park,"Moon Geun-young, Keon-hyeong Park, Lee Dae-yeon","Comedy, Drama, Music",6.8
+686,Gamera the Brave,2005,96.0,Ryuta Tasaki,"Ryô Tomioka, Kaho, Shingo Ishikawa","Adventure, Family, Fantasy",6.6
+687,O Simdi Mahkum,2005,125.0,Abdullah Oguz,"Ümit Acar, Zafer Algöz, Selin Arat",Comedy,5.6
+688,Silence Becomes You,2005,88.0,Stephanie Sinclaire,"Alicia Silverstone, Sienna Guillory, Joe Anderson","Drama, Horror, Mystery",4.1
+689,Stestí,2005,102.0,Bohdan Sláma,"Tatiana Dyková, Pavel Liska, Anna Geislerová",Drama,7.1
+690,"Sorry, Haters",2005,83.0,Jeff Stanzler,"Robin Wright, Abdellatif Kechiche, Élodie Bouchez","Drama, Thriller",6.2
+691,Art of Seduction,2005,100.0,Ki-hwan Oh,"Son Ye-jin, Song Il-guk, Geum Bo Ra","Comedy, Romance",6.0
+692,Cruel World,2005,88.0,Kelsey T. Howard,"Edward Furlong, Daniel Franzese, Andrew Keegan","Comedy, Horror, Thriller",3.7
+693,Dark Remains,2005,91.0,Brian Avenet-Bradley,"Michelle Kegley, Austin Brett Fednander, Rachael Rollings",Horror,4.8
+694,Insan,2005,141.0,K. Subhash,"Akshay Kumar, Ajay Devgn, Tusshar Kapoor","Action, Crime, Drama",4.6
+695,A Movie of Eggs,2005,90.0,"Gabriel Riva Palacio Alatriste, Rodolfo Riva Palacio Alatriste","Bruno Bichir, Carlos Espejel, Angélica Vale","Animation, Comedy, Family",6.5
+696,Karam,2005,117.0,"Sanjay F. Gupta, Bharat Sunanda","John Abraham, Priyanka Chopra Jonas, Bharat Dabholkar",Thriller,5.8
+697,The Intruder,2005,109.0,Frank van Mechelen,"Koen De Bouw, Filip Peeters, Axel Daeseleire","Mystery, Thriller",6.8
+698,Stinger,2005,97.0,Martin Munthe,"Jordi Almeida, James Cagnard, Casey Clark","Action, Adventure, Comedy",2.6
+699,The Beast of Bray Road,2005,80.0,Leigh Scott,"Jeff Denton, Thomas Downey, Sarah Lieving",Horror,4.2
+700,Fetching Cody,2005,86.0,David Ray,"Jay Baruchel, Sarah Lind, Jim Byrnes","Drama, Fantasy, Romance",6.5
+701,Alien Abduction,2005,96.0,Eric Forsberg,"Megan Lee Ethridge, Griff Furst, Marissa Morse","Horror, Sci-Fi, Thriller",2.6
+702,Buhah,2005,106.0,Rami Imam,"Muhammad Sad, Mai Ezz Eldin, Lebleba","Comedy, Romance",5.6
+703,Kisna: The Warrior Poet,2005,171.0,Subhash Ghai,"Vivek Oberoi, Isha Sharvani, Antonia Bernath","Drama, Musical, Romance",4.5
+704,Chasing Ghosts,2005,119.0,"Kyle Dean Jackson, Alan Pao","Michael Madsen, Corey Large, Shannyn Sossamon","Crime, Drama, Mystery",5.3
+705,Raam,2005,154.0,Ameer Sultan,"Jiiva, Saranya Ponvannan, Gajala","Action, Crime, Drama",7.8
+706,Peindre ou faire l'amour,2005,100.0,"Arnaud Larrieu, Jean-Marie Larrieu","Sabine Azéma, Daniel Auteuil, Amira Casar",Drama,6.0
+707,Kocken,2005,116.0,Mats Arehn,"Kjell Bergqvist, Henrik Lundström, Peter Viitanen",Drama,5.8
+708,Los 2 lados de la cama,2005,104.0,Emilio Martínez Lázaro,"Ernesto Alterio, Guillermo Toledo, Alberto San Juan","Comedy, Musical, Romance",5.6
+709,Future by Design,2005,86.0,William Gazecki,"William Gazecki, Jacque Fresco, Larry King","Documentary, Sci-Fi",7.8
+710,Saint-Jacques... La Mecque,2005,110.0,Coline Serreau,"Muriel Robin, Artus de Penguern, Jean-Pierre Darroussin","Comedy, Drama",6.3
+711,Duelist,2005,108.0,Lee Myung-se,"Ha Ji-Won, Gang Dong-won, Ahn Sung-ki","Action, Comedy, Mystery",5.8
+712,John & Jane,2005,83.0,Ashim Ahluwalia,"Glen Castinho, Sydney Fernandes, Oaref Irani",Documentary,7.6
+713,The Motel,2005,75.0,Michael Kang,"Jeffrey Chyau, Sung Kang, Jade Wu","Comedy, Drama",6.6
+714,My Big Fat Independent Movie,2005,80.0,Philip Zlotorynski,"Paget Brewster, Neil Barton, Eric Hoffman",Comedy,3.2
+715,Czas surferów,2005,90.0,Jacek Gasiorowski,"Boguslaw Linda, Marian Dziedziel, Zbigniew Zamachowski","Comedy, Crime",5.9
+716,Disaster!,2005,83.0,Roy T. Wood,"Jim Cummings, Glenn Morshower, Danny Mann","Animation, Comedy, Sci-Fi",4.9
+717,The Great Ecstasy of Robert Carmichael,2005,96.0,Thomas Clay,"Nikki Albon, Zoey Campbell, Steph de Whalley","Crime, Drama",4.9
+718,Typhoon,2005,124.0,Kwak Kyung-taek,"Jang Dong-gun, Lee Jung-jae, Lee Mi-yeon",Action,5.7
+719,Sabah,2005,86.0,Ruba Nadda,"Arsinée Khanjian, Setta Keshishian, Roula Said","Comedy, Drama, Romance",6.8
+720,Netaji Subhas Chandra Bose: The Forgotten Hero,2005,208.0,Shyam Benegal,"Ila Arun, Pankaj Berry, Nicolas Chagrin","Biography, Drama, History",7.6
+721,3 Needles,2005,127.0,Thom Fitzgerald,"Chloë Sevigny, Lucy Liu, Shawn Ashmore",Drama,6.3
+722,Infection,2005,81.0,Albert Pyun,"Jenny Dare Paulin, Morgan Weisser, Alan Abelew",Horror,4.1
+723,Americano,2005,95.0,Kevin Noland,"Joshua Jackson, Leonor Varela, Timm Sharp","Comedy, Romance",5.9
+724,Dead Men Walking,2005,82.0,Peter Mervis,"Brandon Stacy, Griff Furst, Chriss Anglin","Action, Horror, Sci-Fi",4.0
+725,Scary Hair,2005,106.0,Won Shin-yeon,"Yoo Seon, Jung-sung Lee, Chae Min-seo","Drama, Horror",5.4
+726,Mumbai Express,2005,152.0,"Singeetam Srinivasa Rao, Dinesh Shailendra","Kamal Haasan, Manisha Koirala, Pasupathy","Action, Comedy, Crime",6.0
+727,Two Drifters,2005,98.0,João Pedro Rodrigues,"Ana Cristina de Oliveira, Nuno Gil, João Carreira",Drama,5.7
+728,My Brother... Nikhil,2005,120.0,Onir,"Sanjay Suri, Juhi Chawla, Purab Kohli","Crime, Drama, Sport",7.3
+729,Stormy Night,2005,110.0,Gisaburô Sugii,"Eiji Bandô, Kaba Chan, Shôzô Hayashiya","Animation, Adventure, Drama",6.9
+730,1 Litre of Tears,2005,98.0,Riki Okamura,"Asae Ônishi, Kazuko Katô, Kaori Torii",Drama,7.8
+731,The Maid,2005,93.0,Kelvin Tong,"Alessandra De Rossi, Huifang Hong, Benny Soh","Drama, Horror, Mystery",5.7
+732,Het paard van Sinterklaas,2005,95.0,Mischa Kamp,"Ebbie Tam, Aaron Wan, Hanyi Han","Drama, Family",6.9
+733,Keep Your Distance,2005,94.0,Stu Pollard,"Gil Bellows, Jennifer Westfeldt, Christian Kane","Drama, Mystery, Romance",5.1
+734,The Neighbor No. Thirteen,2005,115.0,Yasuo Inoue,"Shidô Nakamura, Shun Oguri, Hirofumi Arai","Horror, Thriller",6.3
+735,Whole New Thing,2005,92.0,Amnon Buchbinder,"Aaron Webber, Robert Joy, Rebecca Jenkins","Comedy, Drama",6.7
+736,D,2005,107.0,Vishram Sawant,"Randeep Hooda, Chunky Pandey, Rukhsar Rehman","Crime, Drama, Thriller",6.8
+737,Ghetto,2005,110.0,Audrius Juzenas,"Heino Ferch, Sebastian Hülk, Erika Marozsán","History, War",6.7
+738,P,2005,110.0,Paul Spurrier,"Suangporn Jaturaphut, Opal, Dor Yodrak","Drama, Horror",5.0
+739,Princess Aurora,2005,106.0,Pang Eun-jin,"Uhm Junghwa, Moon Sung-keun, Kwon Oh-jung","Crime, Drama, Mystery",6.5
+740,Boudu,2005,104.0,Gérard Jugnot,"Gérard Depardieu, Gérard Jugnot, Constance Dollé",Comedy,5.2
+741,Ramji Londonwaley,2005,154.0,Sanjay Dayma,"Madhavan, Samita Bangargi, Harsh Chhaya","Comedy, Drama, Family",6.6
+742,Dodging the Clock,2005,100.0,Ricardo Trogi,"Patrice Robitaille, Pierre-François Legendre, Jean-Phillipe Pearson",Comedy,7.0
+743,By the Pricking of My Thumbs,2005,105.0,Pascal Thomas,"Catherine Frot, André Dussollier, Geneviève Bujold","Comedy, Mystery",5.8
+744,The Ring Finger,2005,104.0,Diane Bertrand,"Olga Kurylenko, Marc Barbé, Stipe Erceg",Drama,6.1
+745,Blood Rain,2005,119.0,Kim Dae-seung,"Cha Seung-won, Park Yong-woo, Ji Sung","Mystery, Thriller",6.5
+746,Divergence,2005,101.0,Benny Chan,"Aaron Kwok, Ekin Cheng, Daniel Wu","Action, Crime, Drama",5.9
+747,The Seventh Sense,2005,110.0,Ahmed Mekky,"Ahmad El-Fishawi, Rania Kurdi, Abdel Rahman Abou Zahra","Comedy, Drama, Fantasy",6.5
+748,Off Screen,2005,94.0,Pieter Kuijpers,"Jeroen Krabbé, Jan Decleir, Astrid Joosten","Crime, Drama, Thriller",6.6
+749,The Naked Brothers Band: The Movie,2005,90.0,Polly Draper,"Nat Wolff, Alex Wolff, Cooper Pillot","Comedy, Family, Music",4.1
+750,Loft,2005,115.0,Kiyoshi Kurosawa,"Miki Nakatani, Etsushi Toyokawa, Hidetoshi Nishijima",Horror,5.5
+751,Trip Out,2005,95.0,James M. Hausler,"Stephanie Burke, Christopher M. Clark, Taylor Coffman",Drama,5.5
+752,Rampo Noir,2005,134.0,"Akio Jissôji, Atsushi Kaneko, Hisayasu Satô","Tadanobu Asano, Yûko Daike, Chisako Hara","Fantasy, Horror",6.2
+753,A Stranger of Mine,2005,98.0,Kenji Uchida,"Yasuhi Nakamura, Reika Kirishima, So Yamanaka","Comedy, Crime, Drama",7.6
+754,Demon Hunter,2005,78.0,Scott Ziehl,"Robert Alonzo, Harlan Baird, William Bassett",Horror,4.3
+755,The War Within,2005,90.0,Joseph Castelo,"Ayad Akhtar, Firdous Bamji, Nandana Sen",Drama,6.8
+756,Let's Be Friends,2005,100.0,"Olivier Nakache, Éric Toledano","Jean-Paul Rouve, Gérard Depardieu, Annie Girardot","Comedy, Drama, Romance",6.0
+757,Audition,2005,111.0,Luc Picard,"Luc Picard, Suzanne Clément, Denis Bernard",Drama,7.3
+758,Pit Fighter,2005,83.0,Jesse V. Johnson,"Dominique Vandenberg, Steven Bauer, Fernando Carrillo",Action,4.3
+759,Shikhar,2005,162.0,John Mathew Matthan,"Ajay Devgn, Shahid Kapoor, Bipasha Basu",Drama,5.1
+760,Stockholm Boogie,2005,82.0,"John Lindgren, Karl-Uno Lindgren","Jerka Johansson, Jens Malmlöf, Maria Lindström","Comedy, Drama",6.3
+761,The Derby Stallion,2005,99.0,Craig Clyde,"Charles Black, Sarah Blackman, Preston Wigasi Brant",Drama,5.4
+762,...Yahaan,2005,142.0,Shoojit Sircar,"Jimmy Shergill, Minissha Lamba, Yashpal Sharma","Drama, Romance, War",7.4
+763,Four Eyed Monsters,2005,85.0,"Susan Buice, Arin Crumley","Susan Buice, Arin Crumley, Julia Ann Ames","Comedy, Drama, Fantasy",6.2
+764,El penalti más largo del mundo,2005,100.0,Roberto Santiago,"Fernando Tejero, María Botto, Marta Larralde",Comedy,5.4
+765,I Like,2005,104.0,Hiroshi Ishikawa,"Aoi Miyazaki, Hidetoshi Nishijima, Hiromi Nagasaku","Drama, Romance",7.0
+766,Forest of the Damned,2005,95.0,Johannes Roberts,"Tom Savini, Daniel Maclagan, Nicole Petty",Horror,2.9
+767,The Unknown,2005,85.0,Karl Kozak,"Dylan M. McKnight, Brandon Henschel, Miles O'Keeffe","Thriller, Action, Adventure",3.6
+768,About Love,2005,102.0,"Ten Shimoyama, Chih-yen Yee, Yibai Zhang","Misaki Itô, Chen Bolin, Yui Ichikawa",Romance,7.1
+769,Political Rowdy,2005,155.0,"Adi Narayana, Venkat Maddirala","Mohan Babu, Charmme Kaur, Prakash Raj",Action,3.7
+770,Boynton Beach Club,2005,105.0,Susan Seidelman,"Dyan Cannon, Joseph Bologna, Brenda Vaccaro","Comedy, Romance",6.4
+771,Vom Suchen und Finden der Liebe,2005,107.0,Helmut Dietl,"Moritz Bleibtreu, Alexandra Maria Lara, Uwe Ochsenknecht","Comedy, Drama, Music",5.7
+772,Almost Normal,2005,90.0,Marc Moody,"J. Andrew Keitch, Joan Lauckner, Tim Hammer","Comedy, Drama, Romance",5.4
+773,Anandabhadram,2005,130.0,Santosh Sivan,"Prithviraj Sukumaran, Kavya Madhavan, Manoj K. Jayan","Drama, Fantasy, Horror",7.3
+774,Shanghai Dreams,2005,123.0,Xiaoshuai Wang,"Yuanyuan Gao, Bin Li, Hao Qin",Drama,7.0
+775,Haajar Bachhar Dhorey,2005,137.0,Suchanda,"Riaz, Sharmin Zoha Shoshee, A.T.M. Shamsuzzaman","Drama, Musical, Romance",8.1
+776,Main Aisa Hi Hoon,2005,162.0,Harry Baweja,"Ajay Devgn, Sushmita Sen, Esha Deol","Drama, Family, Musical",4.9
+777,One Day in Europe,2005,95.0,Hannes Stöhr,"Megan Gay, Lyudmila Tsvetkova, Andrey Sokolov",Comedy,6.5
+778,Lucky 13,2005,95.0,Chris Hall,"Brad Hunt, Harland Williams, Lauren Graham","Comedy, Romance",4.5
+779,Dombivli Fast,2005,108.0,Nishikant Kamat,"Sandeep Kulkarni, Pournima Ahire, Audumber Aphale","Crime, Drama, Thriller",8.0
+780,Chakram,2005,150.0,Krishna Vamsi,"Prabhas, Asin, Charmme Kaur",Drama,6.2
+781,The Girl from Monday,2005,84.0,Hal Hartley,"Bill Sage, Sabrina Lloyd, Tatiana Abracos","Action, Comedy, Sci-Fi",5.2
+782,One Step Behind,2005,101.0,Birger Larsen,"Rolf Lassgård, Marie Richardson, Christer Fant","Crime, Mystery, Thriller",6.0
+783,Lover,2005,98.0,Eun-tae Kim,"Sung Hyun-ah, Cho Dong-hyuk, Kim Ye-ryeong","Drama, Romance",5.8
+784,Before Flying Back to Earth,2005,52.0,Arunas Matelis,,Documentary,8.7
+785,Red Doors,2005,90.0,Georgia Lee,"Tzi Ma, Jacqueline Kim, Elaine Kao",Drama,6.4
+786,Green Chair,2005,98.0,Cheol-su Park,"Jung Suh, Shim Ji-ho, Oh Yun-hong","Drama, Romance",6.1
+787,Side Effects,2005,90.0,Kathleen Slattery-Moschkau,"Sandy Adell, David M. Ames, John Apple","Comedy, Drama, Romance",4.9
+788,Balance and Movement,2005,94.0,Teoman,"Berna Öztürk, Burak Sergen, Bülent Kayabas",Drama,3.8
+789,Seoul Raiders,2005,95.0,Jingle Ma,"Tony Leung Chiu-wai, Richie Jen, Shu Qi","Drama, Comedy, Action",5.5
+790,Tan Lines,2005,96.0,Ed Aldridge,"Jack Baxter, Lorena Arancibia, Jed Clarke","Drama, Romance",5.3
+791,Peacock,2005,136.0,Changwei Gu,"Jing An, Li Feng, Changwei Gu",Drama,7.7
+792,Romeo & Juliet ...Get Married,2005,90.0,Bruno Barreto,"Luis Gustavo, Luana Piovani, Marco Ricca","Comedy, Romance",6.2
+793,A Chinese Tall Story,2005,106.0,Jeffrey Lau,"Nicholas Tse, Charlene Choi, Bingbing Fan","Action, Comedy, Drama",4.9
+794,La suerte está echada,2005,97.0,Sebastián Borensztein,"Marcelo Mazzarello, Daniel Topino, Paola Krum",Comedy,7.1
+795,Obaba,2005,100.0,Montxo Armendáriz,"Pilar López de Ayala, Juan Diego Botto, Bárbara Lennie","Drama, Fantasy, Romance",6.3
+796,Pizza,2005,80.0,Mark Christopher,"Ethan Embry, Kylie Sparks, Julie Hagerty","Comedy, Drama",5.5
+797,The Fearless Freaks,2005,100.0,Bradley Beesley,"Bradley Beesley, Steve Burns, Dolly Coyne","Documentary, Biography, Music",7.8
+798,The Fish Fall in Love,2005,96.0,Ali Rafie,"Reza Kianian, Roya Nonahali, Golshifteh Farahani","Drama, Romance",6.9
+799,Jolly Roger: Massacre at Cutter's Cove,2005,80.0,Gary Jones,"Rhett Giles, Tom Nagel, Kristina Korn",Horror,3.3
+800,The Tenants,2005,93.0,Danny Green,"Dylan McDermott, Snoop Dogg, Rose Byrne","Crime, Drama, Romance",5.1
+801,Sree,2005,135.0,Dasaradh,"Manoj Kumar Manchu, Tamannaah Bhatia, Mohan Babu",Action,4.2
+802,The Imam,2005,110.0,Ismail Günes,"Esref Ziya Terzi, Ahmet Yenilmez, Emin Gürsoy",Drama,4.9
+803,"Quo Vadis, Baby?",2005,102.0,Gabriele Salvatores,"Angela Baraldi, Gigio Alberti, Claudia Zanella","Drama, Mystery, Thriller",6.2
+804,Gie,2005,147.0,Riri Riza,"Nicholas Saputra, Jonathan Mulia, Thomas Nawilis","Biography, Drama, History",7.6
+805,Nynne,2005,94.0,Jonas Elmer,"Mille Dinesen, Lars Kaalund, Mette Agnete Horn","Comedy, Romance",5.7
+806,Mi mejor enemigo,2005,100.0,Alex Bowen,"Nicolás Saavedra, Erto Pantoja, Miguel Dedovich","Comedy, Drama",7.2
+807,She's on Duty,2005,111.0,K.C. Park,"Kim Seon-a, Gong Yoo, Nam Sang-mi","Action, Comedy, Crime",6.2
+808,First Descent,2005,110.0,"Kemp Curly, Kevin Harrison","Shawn Farmer, Terje Håkonsen, Nick Perata","Documentary, Sport",7.0
+809,Knjiga rekorda Sutke,2005,78.0,Aleksandar Manic,"Jasar Destani, Bajram Severdzan",Documentary,8.1
+810,Glass Trap,2005,90.0,Fred Olen Ray,"C. Thomas Howell, Stella Stevens, Siri Baruc","Action, Adventure, Comedy",3.3
+811,Die Bluthochzeit,2005,92.0,Dominique Deruddere,"Armin Rohde, Uwe Ochsenknecht, Imogen Kogge","Action, Comedy, Drama",6.6
+812,Iron Island,2005,90.0,Mohammad Rasoulof,"Ali Nasirian, Hossein Farzizade, Neda Pakdaman",Drama,7.2
+813,Film Geek,2005,78.0,James Westby,"Melik Malkasian, Ritah Parrish, John Breen",Comedy,6.1
+814,Pistvakt,2005,91.0,Stephan Apelgren,"Lennart Jähkel, Jacob Nordenson, Tomas Norström","Comedy, Drama, Family",5.4
+815,Viva Cuba,2005,92.0,"Juan Carlos Cremata Malberti, Iraida Malberti Cabrera","Malú Tarrau Broche, Jorge Milo, Luisa María Jiménez","Comedy, Drama, Family",6.9
+816,H6: Diario de un asesino,2005,92.0,Martín Garrido Barón,"Fernando Acaso, María José Bausá, Raquel Arenas","Crime, Horror, Thriller",4.6
+817,You're Gonna Miss Me,2005,91.0,Keven McAlester,"Byron Coley, Paul Drummond, 13th Floor Elevators","Documentary, Music",7.6
+818,The Headsman,2005,115.0,Simon Aeby,"Nikolaj Coster-Waldau, Peter McDonald, Anastasia Griffith",Drama,6.0
+819,Throttle,2005,86.0,James Seale,"Grayson McCouch, Adrian Paul, Amy Locane","Action, Thriller",5.0
+820,15 Park Avenue,2005,116.0,Aparna Sen,"Shabana Azmi, Konkona Sen Sharma, Rahul Bose",Drama,7.1
+821,Unveiled,2005,97.0,Angelina Maccarone,"Jasmin Tabatabai, Navid Navid, Mossadegh Hamid",Drama,6.9
+822,We Jam Econo: The Story of the Minutemen,2005,91.0,Tim Irwin,"Milo Aukerman, Joe Baiza, Kevin Barrett","Documentary, Biography, Music",7.7
+823,Heidi,2005,104.0,Paul Marcus,"Emma Bolger, Max von Sydow, Geraldine Chaplin","Drama, Family",6.5
+824,The Last Mitterrand,2005,116.0,Robert Guédiguian,"Michel Bouquet, Jalil Lespert, Philippe Fretun","Biography, Drama",7.0
+825,Jestem,2005,93.0,Dorota Kedzierzawska,"Piotr Jagielski, Agnieszka Nagórzycka, Edyta Jungowska",Drama,7.3
+826,Pandippada,2005,,"Meccartin, Raffi","Dileep, Navya Nair, Prakash Raj",Comedy,6.8
+827,Unknown White Male,2005,88.0,Rupert Murray,"Doug Bruce, Rupert Murray","Documentary, Biography",6.4
+828,The Sisters,2005,113.0,Arthur Allan Seidelman,"Elizabeth Banks, Maria Bello, Erika Christensen",Drama,6.0
+829,Eleven Men Out,2005,85.0,Róbert I. Douglas,"Björn Hlynur Haraldsson, Helgi Björnsson, Arnmundur Ernst Björnsson","Comedy, Drama, Romance",5.0
+830,Shaadi No. 1,2005,129.0,David Dhawan,"Sanjay Dutt, Fardeen Khan, Zayed Khan",Comedy,3.6
+831,L'antidote,2005,107.0,Vincent De Brus,"Christian Clavier, Jacques Villeret, Agnès Soral",Comedy,5.3
+832,Firecracker,2005,112.0,Steve Balderson,"Karen Black, Mike Patton, Susan Traylor","Crime, Drama, Mystery",5.0
+833,Gruesome School Trip,2005,96.0,Pieter Kuijpers,"Serge Price, Jim van der Panne, Lisa Smit","Adventure, Family, Fantasy",5.4
+834,Silent Scream,2005,90.0,"Matt Cantu, Lance Kawas","Melissa Schuman, Scott Vickaryous, Shanti Lowry","Horror, Mystery",3.1
+835,Like a Brother,2005,54.0,"Bernard Alapetite, Cyril Legann","Benoît Delière, Johnny Amaro, Thibault Boucaux","Drama, Romance",5.7
+836,Smile,2005,107.0,Jeffrey Kramer,"Mika Boorem, Yi Ding, Sean Astin","Adventure, Drama",6.2
+837,Rock School,2005,93.0,Don Argott,"Tucker Collins, Will O'Connor, C.J. Tywoniak","Documentary, Music",6.5
+838,Dust to Glory,2005,97.0,Dana Brown,"Chad McQueen, Mario Andretti, Sal Fish","Documentary, Action, Adventure",7.3
+839,Dam el ghazal,2005,108.0,Mohamed Yasine,"Mona Zaki, Nour El-Sherif, Youssra","Action, Drama, Mystery",5.9
+840,Nearing Grace,2005,105.0,Rick Rosenthal,"Gregory Smith, Jordana Brewster, Ashley Johnson","Comedy, Drama, Romance",5.7
+841,The Ape,2005,90.0,James Franco,"James Franco, Brian Lally, Allison Bibicoff","Comedy, Drama",4.3
+842,Maxx,2005,110.0,Saman Moghadam,"Farhad Aeish, Reza Ahadi, Pegah Ahangarani","Comedy, Musical",6.0
+843,Experiment,2005,95.0,Dan Turner,"John Hopkins, Georgina French, Mem Ferda",Thriller,4.3
+844,L'iceberg,2005,84.0,"Dominique Abel, Fiona Gordon, Bruno Romy","Lucy Tulugarjuk, Fiona Gordon, Dominique Abel",Comedy,6.6
+845,The Goebbels Experiment,2005,108.0,Lutz Hachmeister,"Udo Samel, Kenneth Branagh, Heinrich Brüning","Documentary, Biography, History",7.3
+846,Tout pour plaire,2005,105.0,Cécile Telerman,"Mathilde Seigner, Anne Parillaud, Judith Godrèche",Comedy,6.0
+847,In His Hands,2005,90.0,Anne Fontaine,"Benoît Poelvoorde, Isabelle Carré, Jonathan Zaccaï",Drama,6.3
+848,Cold and Dark,2005,94.0,Andrew Goth,"Luke Goss, Kevin Howarth, Matt Lucas","Crime, Horror, Thriller",3.9
+849,Little Athens,2005,103.0,Tom Zuber,"John Patrick Amedori, Jack Anthony, Jasmine Jessica Anthony","Comedy, Crime, Drama",5.4
+850,Cansada de besar sapos,2005,95.0,Jorge Colón,"Ana Serradilla, José María de Tavira, Ana Layevska","Comedy, Drama, Romance",6.0
+851,Chasing Luck(Y),2005,97.0,Milorad Milinkovic,"Gordan Kicic, Katarina Radivojevic, Nikola Vujovic",Comedy,5.9
+852,Southern Belles,2005,90.0,"Paul Myers, Brennan Shroff","Anna Faris, Laura Breckenridge, Justin Chambers","Comedy, Romance",5.5
+853,Once You're Born You Can No Longer Hide,2005,115.0,Marco Tullio Giordana,"Alessio Boni, Michela Cescon, Rodolfo Corsato","Adventure, Drama",6.7
+854,Kame wa igai to hayaku oyogu,2005,90.0,Satoshi Miki,"Juri Ueno, Yû Aoi, Ryô Iwamatsu",Comedy,6.5
+855,An Angel of the Lord,2005,90.0,Jirí Strach,"Ivan Trojan, Jirí Dvorák, Zuzana Kajnarová","Comedy, Family, Fantasy",6.8
+856,Sandakozhi,2005,151.0,N. Linguswamy,"Vishal, Meera Jasmine, Raj Kiran",Action,7.0
+857,A Trip to Karabakh,2005,105.0,Levan Tutberidze,"Levan Doborjginidze, Misha Meskhi, Nutsa Kukhianidze","Action, Adventure, Drama",7.8
+858,My Wife's Murder,2005,103.0,Jijy Philip,"Anil Kapoor, Suchitra Krishnamoorthi, Nandana Sen","Crime, Drama, Thriller",6.1
+859,What Is It?,2005,72.0,Crispin Glover,"Michael Blevis, Carlos Richardson, Lisa Fusco",Drama,5.2
+860,Erkan & Stefan in Der Tod kommt krass,2005,97.0,Michael Karen,"John Friedmann, Florian Simbeck, Ludger Pistor",Comedy,4.4
+861,Chanthupottu,2005,127.0,Lal Jose,"Dileep, Gopika, Indrajith Sukumaran","Comedy, Drama, Romance",6.6
+862,Cup of My Blood,2005,107.0,"Lance Catania, Frank A. Angelo","Daniel Patrick Sullivan, Janina Gavankar, Allie Smith","Horror, Thriller",4.3
+863,Rx,2005,89.0,Ariel Vromen,"Eric Balfour, Colin Hanks, Lauren German","Thriller, Crime, Romance",5.4
+864,Wild Chicks,2005,105.0,Vivian Naefe,"Michelle von Treuberg, Lucie Hollmann, Paula Romy","Adventure, Family",6.0
+865,Verlengd weekend,2005,93.0,Hans Herbots,"Jan Decleir, Koen De Bouw, Wouter Hendrickx","Comedy, Drama",6.5
+866,The Mighty Celt,2005,82.0,Pearse Elliott,"Ken Stott, Tyrone McKenna, Gillian Anderson",Drama,6.6
+867,"Nou, dat was het dan!",2005,80.0,"Dirk Rijneke, Mildred Van Leeuwaarden","Paul Verhoeven, Wim Verstappen, Ruud Den Dryver",Documentary,7.3
+868,Things to Do Before You're 30,2005,101.0,Simon Shore,"Dougray Scott, Jimi Mistry, Emilia Fox","Comedy, Drama, Romance",5.6
+869,The Heart of the Game,2005,97.0,Ward Serrill,"Darnellia Russell, Bill Resler, Ludacris","Documentary, Sport",7.6
+870,The Curse of El Charro,2005,90.0,Rich Ragsdale,"Andrew Bryniarski, Danny Trejo, Drew Mia",Horror,3.0
+871,Crash Landing,2005,88.0,Jim Wynorski,"Antonio Sabato Jr., Michael Paré, Brianne Davis","Action, Crime, Drama",3.8
+872,Hanging Garden,2005,114.0,Toshiaki Toyoda,"Kyôko Koizumi, Anne Suzuki, Itsuji Itao",Drama,7.1
+873,Gay Sex in the 70s,2005,67.0,Joseph F. Lovett,"Robert Alvarez, Alvin Baltrop, Barton Benes",Documentary,7.0
+874,Bhadra,2005,153.0,Boyapati Srinu,"Ravi Teja, Meera Jasmine, Linda Arsenio","Action, Drama, Romance",6.8
+875,Amu,2005,102.0,Shonali Bose,"Konkona Sen Sharma, Yashpal Sharma, Brinda Karat",Drama,7.3
+876,Nerariyan CBI,2005,146.0,K. Madhu,"Mammootty, Mukesh, Jagathy Sreekumar","Mystery, Thriller",6.1
+877,Close to Home,2005,98.0,"Vardit Bilu, Dalia Hager","Smadar Sayar, Naama Schendar, Danny Geva",Drama,6.8
+878,Pitbullterje,2005,90.0,Arild Fröhlich,"Petrus Andreas Christensen, Jørgen Foss, Robert Lindahl Haug",Comedy,5.8
+879,Doll Graveyard,2005,71.0,Charles Band,"Jared Kusnitz, Gabrielle Lynn, Kristyn Green","Comedy, Fantasy, Horror",4.0
+880,You Are My Sunshine,2005,121.0,Park Jin-Pyo,"Jeon Do-yeon, Hwang Jung-min, Na Moon-hee","Drama, Romance",7.0
+881,Sayyed el-Atefi,2005,,Ali Ragab,"Tamer Hosny, Abla Kamel, Lotfy Labib","Comedy, Romance",4.3
+882,51 Birch Street,2005,90.0,Doug Block,"Carol Block, Doug Block, Ellen Block",Documentary,7.3
+883,Bad Reputation,2005,90.0,Jim Hemphill,"Angelique Hennessy, Jerad Anderson, Danielle Noble","Drama, Horror, Thriller",4.1
+884,Viva Zapatero!,2005,80.0,Sabina Guzzanti,"Francesco Alberoni, Lucia Annunziata, Silvio Berlusconi",Documentary,7.1
+885,Andre the Butcher,2005,87.0,Philip Cruz,"April Billingsley, Maury Sterling, Ron Jeremy","Comedy, Horror",3.9
+886,Go West,2005,96.0,Ahmed Imamovic,"Mario Drmac, Tarik Filipovic, Rade Serbedzija","Comedy, Drama, War",6.7
+887,Wait 'Til You're Older,2005,92.0,Teddy Chan,"Andy Lau, Karen Mok, Felix Wong","Comedy, Drama, Family",6.6
+888,Self Medicated,2005,107.0,Monty Lapica,"Monty Lapica, Diane Venora, Michael Bowen","Biography, Drama",5.7
+889,Rappakal,2005,137.0,Kamal,"Mammootty, Nayanthara, Sharada","Comedy, Drama",7.1
+890,Hating Alison Ashley,2005,100.0,Geoff Bennett,"Delta Goodrem, Saskia Burmeister, Jean Kittson",Comedy,5.5
+891,Gravehopping,2005,103.0,Jan Cvitkovic,"Gregor Bakovic, Drago Milinovic, Sonja Savic","Comedy, Drama",6.7
+892,The Perfect Stranger,2005,90.0,"Jefferson Moore, Shane Sooter","Pamela Brumley, Jefferson Moore, Tom Luce",Drama,6.7
+893,The Prodigy,2005,120.0,William Kaufman,"Holt Boggs, Glen Vorhis, Matt Beckham","Crime, Drama, Thriller",5.3
+894,Malev,2005,109.0,Kaaren Kaer,"Ott Sepp, Mirtel Pohla, Märt Avandi","Action, Comedy",7.2
+895,Long Distance,2005,90.0,Marcus Stern,"Monica Keena, Ivan Martin, Kevin Chapman","Horror, Thriller",5.2
+896,La petite Jérusalem,2005,96.0,Karin Albou,"Fanny Valette, Elsa Zylberstein, Bruno Todeschini",Drama,6.5
+897,Obsession: Radical Islam's War Against the West,2005,77.0,Wayne Kopping,"George W. Bush, Nonie Darwish, Alan Dershowitz",Documentary,6.5
+898,Lupaus,2005,112.0,Ilkka Vanne,"Laura Birn, Karoliina Vanne, Hanna Lekander","Drama, War",6.3
+899,Festival,2005,107.0,Annie Griffin,"Kevin Masson, Lyndsey Marshal, Paddy Bonner","Comedy, Drama",6.0
+900,La fiesta del Chivo,2005,132.0,Luis Llosa,"Tomas Milian, Isabella Rossellini, Paul Freeman",Drama,6.4
+901,After Innocence,2005,95.0,Jessica Sanders,"Edward Blake, Elmer Clark, Ronald Cotton",Documentary,7.6
+902,David & Layla,2005,106.0,J.J. Alani,"David Moscow, Shiva Rose, Peter Van Wagner","Comedy, Drama, Romance",5.4
+903,Naina,2005,104.0,Shripal Morakhia,"Urmila Matondkar, Anuj Sawhney, Malavika Nair","Drama, Horror, Mystery",4.2
+904,Den utvalde,2005,100.0,"Eric Donell, Martin Söder","Andreas Wilson, Björn Granath, Julia Dufvenius","Crime, Thriller",5.0
+905,Hazard,2005,103.0,Sion Sono,"Joe Odagiri, Jai West, Motoki Fukami","Crime, Drama",6.7
+906,Protocols of Zion,2005,95.0,Marc Levin,"Marc Levin, Kofi Annan, Joanne Baron",Documentary,6.4
+907,Sukran,2005,165.0,S.A. Chandrashekhar,"Santhana Bharathi, M.S. Bhaskar, S.A. Chandrashekhar","Action, Romance, Thriller",3.6
+908,Dot.Kill,2005,87.0,John Irvin,"Armand Assante, Sonny Marinelli, Raffaello Degruttola","Crime, Drama, Thriller",4.8
+909,"Real, la película",2005,90.0,Borja Manso,"Javier Albalá, David Beckham, Jessica Bohl","Documentary, Sport",6.2
+910,Love for Rent,2005,96.0,Shane Edelman,"Angie Cepeda, Ken Marino, Martita Roca","Comedy, Romance",6.8
+911,Martial Law 9/11: Rise of the Police State,2005,156.0,Alex Jones,"Osama bin Laden, Wolf Blitzer, George Bush","Documentary, War",7.1
+912,Frankenstein Reborn,2005,84.0,Leigh Scott,"Rhett Giles, Thomas Downey, Joel Ezra Hebner","Horror, Sci-Fi, Thriller",3.2
+913,Türev,2005,91.0,Ulas Inan Inaç,"Beste Bereket, Berke Can Göktas, Tugra Kaftancioglu","Drama, Family, Romance",6.5
+914,Ghost of Mae Nak,2005,101.0,Mark Duffield,"Pataratida Pacharawirapong, Siwat Chotchaicharin, Porntip Papanai",Horror,5.1
+915,Sir! No Sir!,2005,85.0,David Zeiger,"Michael Alaimo, Edward Asner, Joe Bangert","Documentary, History, War",7.6
+916,Stories of Lost Souls,2005,90.0,"Illeana Douglas, Deborra-Lee Furness, William Garcia","Jason 'Wee Man' Acuña, Naomi Allisstone, William Ash","Comedy, Drama, Thriller",5.2
+917,Born Killers,2005,87.0,Morgan J. Freeman,"Jake Muxworthy, Lauren German, Gabriel Mann","Crime, Drama",5.3
+918,The Beast and the Beauty,2005,102.0,Kae-Byeok Lee,"Ryu Seung-beom, Shin Min-a, Kim Byeong-Ok","Comedy, Romance",6.5
+919,Pheuan sanit,2005,90.0,Komgrit Triwimol,"Sunny Suwanmethanont, Siraphan Wattanajinda, Ae Maneerat Kam-Uan","Drama, Romance",7.8
+920,The Fisherman and His Wife,2005,100.0,Doris Dörrie,"Alexandra Maria Lara, Christian Ulmen, Simon Verhoeven","Comedy, Drama, Romance",6.2
+921,Mongolian Ping Pong,2005,102.0,Hao Ning,"Hurichabilike, Dawa, Geliban","Comedy, Drama",6.5
+922,Thommanum Makkalum,2005,118.0,Shafi,"Mammootty, Lal, Rajan P. Dev","Action, Comedy, Drama",6.6
+923,The Heirloom,2005,97.0,Leste Chen,"Terri Kwan, Jason Chang, Chia-Hui Chang","Drama, Horror",5.0
+924,"Egy szoknya, egy nadrág",2005,95.0,Bence Gyöngyössy,"Péter Rudolf, Imre Bajor, András Kern",Comedy,3.2
+925,Papá se volvió loco,2005,90.0,Rodolfo Ledo,"Guillermo Francella, Lucía Galán, Daniel Aráoz","Comedy, Romance",3.6
+926,Kameleon 2,2005,105.0,Steven de Jong,"Koen van der Donk, Jos van der Donk, Maarten Spanjer","Adventure, Comedy, Family",6.0
+927,Back to You in the Days,2005,103.0,James Hunter,"Joe Morton, Ja Rule, Norman Grant","Action, Crime, Drama",4.4
+928,Harim Karim,2005,117.0,Ali Idris,"Moustafa Amar, Yasmin Abdelaziz, Talaat Zakaria","Comedy, Romance",4.7
+929,Puzzlehead,2005,81.0,James Bai,"Stephen Galaida, Robbie Shapiro, Mark Janis","Drama, Sci-Fi",5.6
+930,Haunted Boat,2005,97.0,Olga Levens,"Courtney Scheuerman, Sarah Scott, Tien Pham","Drama, Horror, Mystery",2.3
+931,Blood,2005,90.0,Amat Escalante,"Fernando Corona, Cirilo Recio Dávila, Kenny Johnston",Drama,5.8
+932,Jo Bole So Nihaal,2005,125.0,Rahul Rawail,"Sunny Deol, Kamaal Khan, Shilpi Sharma","Action, Comedy, Thriller",3.7
+933,Phoenix Point,2005,79.0,Randala,"Jon Jacobs, Brion James, Kelly Williams",Sci-Fi,4.7
+934,Mee-Shee: The Water Giant,2005,95.0,John Henderson,"Bruce Greenwood, Danny Mags, Rena Owen","Adventure, Family, Fantasy",5.3
+935,Operetta tanuki goten,2005,111.0,Seijun Suzuki,"Ziyi Zhang, Joe Odagiri, Hiroko Yakushimaru","Comedy, Fantasy, Musical",6.5
+936,The Tin Mine,2005,111.0,Jira Maligool,"Pijaya Vachajitpan, Donlaya Mudcha, Sonthaya Chitmanee","Biography, Comedy, Drama",8.1
+937,Stolen Eyes,2005,110.0,Radoslav Spassov,"Vesela Kazakova, Valeri Yordanov, Nejat Isler","Drama, History, Romance",7.1
+938,The Boys of Baraka,2005,84.0,"Heidi Ewing, Rachel Grady","Devon Brown, Darius Chambers, Edward Bernard Green Jr.",Documentary,7.3
+939,El-Sayyed Abu el-Arabi Wasal,2005,119.0,Mohsen Ahmed,"Hani Ramzi, Menna Shalabi, Salah Abdalla",Comedy,4.6
+940,First on the Moon,2005,75.0,Aleksey Fedorchenko,"Boris Vlasov, Viktoriya Ilyinskaya, Anatoliy Otradnov","Mystery, Sci-Fi",6.7
+941,Vinterkyss,2005,84.0,Sara Johnsen,"Annika Hallin, Kristoffer Joner, Fridtjov Såheim","Drama, Mystery, Thriller",6.4
+942,Kochi Rajavu,2005,105.0,Johny Antony,"Dileep, Kavya Madhavan, Rambha","Action, Comedy, Crime",6.4
+943,Yakeen,2005,116.0,Girish Dhamija,"Arjun Rampal, Priyanka Chopra Jonas, Kim Sharma","Drama, Thriller",5.8
+944,The Keeper: The Legend of Omar Khayyam,2005,95.0,Kayvan Mashayekh,"Adam Echahly, Bruno Lastra, Moritz Bleibtreu","Adventure, Drama, Family",6.0
+945,The Cabinet of Dr. Caligari,2005,76.0,David Lee Fisher,"Judson Pearce Morgan, Daamen J. Krall, Doug Jones","Drama, Horror, Mystery",5.6
+946,Elaan,2005,159.0,Vikram Bhatt,"Arjun Rampal, Ameesha Patel, John Abraham","Action, Thriller",4.6
+947,Leef!,2005,110.0,"Willem van de Sande Bakhuyzen, Jean van de Velde","Monic Hendrickx, Peter Blok, Sarah Jonker",Drama,6.9
+948,Ji,2005,172.0,N. Linguswamy,"Ajith Kumar, Trisha Krishnan, Charan Raj","Action, Drama",4.2
+949,Un Buda,2005,115.0,Diego Rafecas,"Agustín Markert, Carolina Fal, Diego Rafecas",Drama,6.5
+950,"Jenny, Juno",2005,108.0,Ho-joon Kim,"Park Min-ji, Kim Hye-seong, Im Dong-jin",Comedy,6.3
+951,Shapeshifter,2005,81.0,Gregory Lemkin,"Jennifer Lee Wiggins, Ocean Marciano, Chris Facey",Horror,2.5
+952,Super,2005,151.0,Puri Jagannadh,"Nagarjuna Akkineni, Sonu Sood, Ayesha Takia","Action, Comedy",5.1
+953,Following Sean,2005,87.0,Ralph Arlyck,"Ralph Arlyck, Sean Farrell",Documentary,7.1
+954,Confessions of an Action Star,2005,83.0,Brad Martin,"Holmes Osborne, David Leitch, Kelly Hu","Action, Comedy, Musical",3.8
+955,Insecticidal,2005,81.0,Jeffery Scott Lando,"Meghan Heffern, Rhonda Dent, Travis Watters","Horror, Thriller",3.3
+956,Román pro zeny,2005,100.0,Filip Renc,"Zuzana Kanócz, Marek Vasut, Simona Stasová",Comedy,5.9
+957,Housewarming,2005,95.0,Brigitte Roüan,"Carole Bouquet, Jean-Pierre Castaldi, Didier Flamand",Comedy,5.2
+958,The Work and the Glory II: American Zion,2005,100.0,Sterling Van Wagenen,"Sam Hennings, Brenda Strong, Eric Johnson","Drama, Western",6.1
+959,Les Boys IV,2005,121.0,George Mihalka,"Rémy Girard, Pierre Lebeau, Luc Guérin","Comedy, Sport",5.1
+960,Diary of June,2005,105.0,Im Kyung-soo,"Shin Eun-kyung, Ki-beom Jang, Kim Ji-min","Crime, Drama, Mystery",6.2
+961,Mobsters and Mormons,2005,90.0,John E. Moyer,"Mark DeCarlo, Jeanette Puhich, Clayton Taylor",Comedy,6.1
+962,Silsiilay,2005,134.0,Khalid Mohamed,"Tabu, Bhoomika Chawla, Riya Sen",Drama,4.2
+963,Nochnoy prodavets,2005,85.0,Valeri Rozhnov,"Pavel Barshak, Viktor Sukhorukov, Ingeborga Dapkunaite","Comedy, Thriller",6.4
+964,This Divided State,2005,88.0,Steven Greenstreet,"Kay Anderson, Jim Bassi, Sean Vreeland",Documentary,7.3
+965,The Wind Blows Round,2005,110.0,Giorgio Diritti,"Thierry Toscan, Alessandra Agosti, Dario Anghilante",Drama,7.4
+966,AV,2005,103.0,Ho-Cheung Pang,"You-Nam Wong, Lawrence Chou, Derek Tsang","Comedy, Drama, Romance",6.7
+967,Dangerous Men,2005,80.0,Jahangir Salehi,"Michael Gradilone, Roya Saghafy, Melody Wiggins","Action, Adventure, Crime",4.1
+968,Marock,2005,105.0,Laïla Marrakchi,"Morjana Alaoui, Matthieu Boujenah, Razika Simozrag","Comedy, Drama, Romance",6.1
+969,Waterborne,2005,80.0,Ben Rekhi,"Christopher Masterson, Jake Muxworthy, Jon Gries",Drama,5.4
+970,Lorelei,2005,128.0,"Shinji Higuchi, Cellin Gluck","Kôji Yakusho, Satoshi Tsumabuki, Toshirô Yanagiba","Action, Drama, Sci-Fi",5.2
+971,Sex & Philosophy,2005,105.0,Mohsen Makhmalbaf,"Daler Nazarov, Mariam Gaibova, Farzona Beknazarova","Drama, Romance",5.5
+972,I Did Not Kill Gandhi,2005,100.0,Jahnu Barua,"Anupam Kher, Urmila Matondkar, Parvin Dabas",Drama,7.3
+973,Saint Martyrs of the Damned,2005,115.0,Robin Aubert,"François Chénier, Guy Vaillancourt, France Labonté","Drama, Horror, Mystery",6.2
+974,15,2005,95.0,Sergiu Nicolaescu,"Maia Morgenstern, Serban Ionescu, Cristian Iacob","Action, Drama",5.5
+975,From Venus,2005,88.0,Jeff Kennedy,"DJ Perry, Michael Melik Brown, David Borowicz","Horror, Sci-Fi",4.3
+976,O Coronel e o Lobisomem,2005,106.0,Maurício Farias,"Diogo Vilela, Selton Mello, Ana Paula Arósio","Comedy, Horror",5.9
+977,Rascals on the Road,2005,100.0,Michael Steiner,"Manuel Häberli, Janic Halioua, Dominic Hänni","Adventure, Comedy, Family",6.8
+978,XxxHOLiC the Movie: A Midsummer Night's Dream,2005,60.0,Tsutomu Mizushima,"Sayaka Ôhara, Jun Fukuyama, Kazuya Nakai","Animation, Comedy, Drama",7.1
+979,Bang bang orangutang,2005,106.0,Simon Staho,"Mikael Persbrandt, Lena Olin, Tuva Novotny",Drama,5.0
+980,Snuff-Movie,2005,92.0,Bernard Rose,"Jeroen Krabbé, Lisa Enos, Teri Harrison-Keaton",Horror,3.8
+981,Ninette,2005,118.0,José Luis Garci,"Carlos Hipólito, Elsa Pataky, Enrique Villén",Comedy,5.5
+982,A Sublime Love Story: Barsaat,2005,143.0,Suneel Darshan,"Bobby Deol, Priyanka Chopra Jonas, Bipasha Basu","Drama, Romance",4.4
+983,Ashura-jô no hitomi,2005,119.0,Yôjirô Takita,"Somegorô Ichikawa, Rie Miyazawa, Kanako Higuchi","Action, Drama, Fantasy",5.8
+984,Silent Partner,2005,96.0,James D. Deck,"Tara Reid, Nick Moran, Gregg Henry","Action, Crime",4.5
+985,Ringers: Lord of the Fans,2005,97.0,Carlene Cordova,"Dominic Monaghan, Elijah Wood, Peter Jackson","Documentary, Comedy",6.1
+986,Tatchi,2005,116.0,Isshin Inudô,"Masami Nagasawa, Shôta Saitô, Keita Saitô","Drama, Romance, Sport",6.4
+987,Seven Days,2005,95.0,Fernando Kalife,"Eduardo Arroyuelo, Martha Higareda, Jaime Camil",Comedy,6.6
+988,Slingshot,2005,90.0,Jay Alaimo,"David Arquette, Thora Birch, Balthazar Getty","Crime, Drama, Romance",4.5
+989,The King Maker,2005,92.0,Lek Kitaparaporn,"Gary Stretch, John Rhys-Davies, Cindy Sirinya Bishop","Adventure, Drama",3.6
+990,Verdict,2005,104.0,Masud Kimiai,"Ezzatolah Entezami, Khosro Shakibai, Leila Hatami","Crime, Drama, Romance",5.0
+991,U-Carmen eKhayelitsha,2005,122.0,Mark Dornford-May,"Pauline Malefane, Andile Tshoni, Lungelwa Blou","Musical, Drama, Romance",6.5
+992,Kosmos kak predchuvstvie,2005,90.0,Aleksey Uchitel,"Evgeniy Mironov, Evgeniy Tsyganov, Irina Pegova",Drama,6.6
+993,Blackmail,2005,126.0,Anil Devgan,"Ajay Devgn, Suniel Shetty, Priyanka Chopra Jonas","Action, Drama, Thriller",4.7
+994,Dead at the Box Office,2005,85.0,"Shawn Stutler, Ryan A. Markle","Michael Allen Williams, Isaiah Robinson, Jennifer Popagain","Horror, Thriller",2.0
+995,Three Dollars,2005,118.0,Robert Connolly,"David Wenham, Frances O'Connor, Sarah Wynter",Drama,6.1
+996,Checking Out,2005,94.0,Jeff Hare,"Peter Falk, Laura San Giacomo, David Paymer",Comedy,5.9
+997,Gilane,2005,80.0,"Mohsen Abdolvahab, Rakhshan Banietemad","Fatemah Motamed-Aria, Bahram Radan, Baran Kosari","Drama, War",6.7
+998,You and Your Stupid Mate,2005,85.0,Marc Gracie,"Owen Luby, Stephen O'Connor, Nathan Phillips",Comedy,4.0
+999,Camarón,2005,119.0,Jaime Chávarri,"Óscar Jaenada, Verónica Sánchez, Mercè Llorens","Biography, Drama, Musical",6.0
+1000,Xuxinha and Guto Against the Space Monsters,2005,85.0,"Moacyr Góes, Clewerson Saremba","Xuxa, Pedro Malta, Flávia Saddy","Animation, Family, Musical",2.7

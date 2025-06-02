@@ -1,0 +1,1001 @@
+﻿ID,Name,Year,Duration,Directors,Actors,Genres,Rating
+1,No Country for Old Men,2007,122.0,"Ethan Coen, Joel Coen","Tommy Lee Jones, Javier Bardem, Josh Brolin","Crime, Drama, Thriller",8.2
+2,Ratatouille,2007,111.0,"Brad Bird, Jan Pinkava","Brad Garrett, Lou Romano, Patton Oswalt","Animation, Adventure, Comedy",8.1
+3,I Am Legend,2007,101.0,Francis Lawrence,"Will Smith, Alice Braga, Charlie Tahan","Drama, Horror, Sci-Fi",7.2
+4,Pirates of the Caribbean: At World's End,2007,169.0,Gore Verbinski,"Johnny Depp, Orlando Bloom, Keira Knightley","Action, Adventure, Fantasy",7.1
+5,Transformers,2007,144.0,Michael Bay,"Shia LaBeouf, Megan Fox, Josh Duhamel","Action, Adventure, Sci-Fi",7.1
+6,Into the Wild,2007,148.0,Sean Penn,"Emile Hirsch, Vince Vaughn, Catherine Keener","Adventure, Biography, Drama",8.0
+7,There Will Be Blood,2007,158.0,Paul Thomas Anderson,"Daniel Day-Lewis, Paul Dano, Ciarán Hinds",Drama,8.2
+8,The Bourne Ultimatum,2007,115.0,Paul Greengrass,"Matt Damon, Edgar Ramírez, Joan Allen","Action, Mystery, Thriller",8.0
+9,Spider-Man 3,2007,139.0,Sam Raimi,"Tobey Maguire, Kirsten Dunst, Topher Grace","Action, Adventure, Sci-Fi",6.3
+10,Harry Potter and the Order of the Phoenix,2007,138.0,David Yates,"Daniel Radcliffe, Emma Watson, Rupert Grint","Action, Adventure, Family",7.5
+11,Superbad,2007,113.0,Greg Mottola,"Michael Cera, Jonah Hill, Christopher Mintz-Plasse",Comedy,7.6
+12,Zodiac,2007,157.0,David Fincher,"Jake Gyllenhaal, Robert Downey Jr., Mark Ruffalo","Crime, Drama, Mystery",7.7
+13,Juno,2007,96.0,Jason Reitman,"Elliot Page, Michael Cera, Jennifer Garner","Comedy, Drama",7.4
+14,Hot Fuzz,2007,121.0,Edgar Wright,"Simon Pegg, Nick Frost, Martin Freeman","Action, Comedy, Mystery",7.8
+15,American Gangster,2007,157.0,Ridley Scott,"Denzel Washington, Russell Crowe, Chiwetel Ejiofor","Biography, Crime, Drama",7.8
+16,Live Free or Die Hard,2007,128.0,Len Wiseman,"Bruce Willis, Justin Long, Timothy Olyphant","Action, Thriller",7.1
+17,Sweeney Todd: The Demon Barber of Fleet Street,2007,116.0,Tim Burton,"Johnny Depp, Helena Bonham Carter, Alan Rickman","Drama, Horror, Musical",7.3
+18,Knocked Up,2007,129.0,Judd Apatow,"Seth Rogen, Katherine Heigl, Paul Rudd","Comedy, Romance",6.9
+19,Ocean's Thirteen,2007,122.0,Steven Soderbergh,"George Clooney, Brad Pitt, Matt Damon","Crime, Thriller",6.9
+20,Shooter,2007,124.0,Antoine Fuqua,"Mark Wahlberg, Michael Peña, Rhona Mitra","Action, Drama, Thriller",7.1
+21,The Mist,2007,126.0,Frank Darabont,"Thomas Jane, Marcia Gay Harden, Laurie Holden","Horror, Sci-Fi, Thriller",7.1
+22,The Simpsons Movie,2007,87.0,David Silverman,"Dan Castellaneta, Julie Kavner, Nancy Cartwright","Animation, Adventure, Comedy",7.3
+23,Shrek the Third,2007,93.0,"Chris Miller, Raman Hui","Mike Myers, Cameron Diaz, Eddie Murphy","Animation, Adventure, Comedy",6.1
+24,3:10 to Yuma,2007,122.0,James Mangold,"Russell Crowe, Christian Bale, Ben Foster","Action, Crime, Drama",7.6
+25,Death Proof,2007,127.0,Quentin Tarantino,"Kurt Russell, Zoë Bell, Rosario Dawson","Drama, Thriller",7.0
+26,Atonement,2007,123.0,Joe Wright,"Keira Knightley, James McAvoy, Brenda Blethyn","Drama, Mystery, Romance",7.8
+27,28 Weeks Later,2007,99.0,Juan Carlos Fresnadillo,"Jeremy Renner, Rose Byrne, Robert Carlyle","Horror, Sci-Fi",6.9
+28,1408,2007,104.0,Mikael Håfström,"John Cusack, Samuel L. Jackson, Mary McCormack","Fantasy, Horror, Mystery",6.8
+29,Gone Baby Gone,2007,114.0,Ben Affleck,"Morgan Freeman, Ed Harris, Casey Affleck","Crime, Drama, Mystery",7.6
+30,Stardust,2007,127.0,Matthew Vaughn,"Charlie Cox, Claire Danes, Sienna Miller","Adventure, Fantasy, Romance",7.6
+31,Fantastic Four: Rise of the Silver Surfer,2007,92.0,Tim Story,"Ioan Gruffudd, Jessica Alba, Chris Evans","Action, Adventure, Fantasy",5.6
+32,Sunshine,2007,107.0,Danny Boyle,"Cillian Murphy, Rose Byrne, Chris Evans","Sci-Fi, Thriller",7.2
+33,Eastern Promises,2007,100.0,David Cronenberg,"Naomi Watts, Viggo Mortensen, Armin Mueller-Stahl","Crime, Drama, Thriller",7.6
+34,The Bucket List,2007,97.0,Rob Reiner,"Jack Nicholson, Morgan Freeman, Sean Hayes","Adventure, Comedy, Drama",7.3
+35,Paranormal Activity,2007,86.0,Oren Peli,"Katie Featherston, Micah Sloat, Mark Fredrichs","Horror, Mystery",6.3
+36,Disturbia,2007,105.0,D.J. Caruso,"Shia LaBeouf, David Morse, Carrie-Anne Moss","Crime, Drama, Mystery",6.8
+37,National Treasure: Book of Secrets,2007,124.0,Jon Turteltaub,"Nicolas Cage, Diane Kruger, Justin Bartha","Action, Adventure, Mystery",6.5
+38,Ghost Rider,2007,110.0,Mark Steven Johnson,"Nicolas Cage, Eva Mendes, Sam Elliott","Action, Fantasy, Thriller",5.3
+39,Planet Terror,2007,105.0,Robert Rodriguez,"Rose McGowan, Freddy Rodríguez, Josh Brolin","Action, Comedy, Horror",7.0
+40,Fracture,2007,113.0,Gregory Hoblit,"Anthony Hopkins, Ryan Gosling, David Strathairn","Crime, Drama, Thriller",7.2
+41,The Darjeeling Limited,2007,91.0,Wes Anderson,"Owen Wilson, Adrien Brody, Jason Schwartzman","Adventure, Comedy, Drama",7.2
+42,Enchanted,2007,107.0,Kevin Lima,"Amy Adams, Susan Sarandon, James Marsden","Animation, Adventure, Comedy",7.1
+43,P.S. I Love You,2007,126.0,Richard LaGravenese,"Hilary Swank, Gerard Butler, Harry Connick Jr.","Comedy, Drama, Romance",7.0
+44,Like Stars on Earth,2007,162.0,Aamir Khan,"Darsheel Safary, Aamir Khan, Tisca Chopra","Drama, Family",8.3
+45,The Number 23,2007,98.0,Joel Schumacher,"Jim Carrey, Virginia Madsen, Logan Lerman","Crime, Mystery, Thriller",6.4
+46,Resident Evil: Extinction,2007,94.0,Russell Mulcahy,"Milla Jovovich, Ali Larter, Oded Fehr","Action, Horror, Sci-Fi",6.2
+47,The Man from Earth,2007,87.0,Richard Schenkman,"David Lee Smith, Tony Todd, John Billingsley","Drama, Fantasy, Mystery",7.8
+48,REC,2007,78.0,"Jaume Balagueró, Paco Plaza","Manuela Velasco, Ferran Terraza, Jorge-Yamam Serrano","Horror, Mystery, Thriller",7.4
+49,The Golden Compass,2007,113.0,Chris Weitz,"Nicole Kidman, Daniel Craig, Dakota Blue Richards","Adventure, Family, Fantasy",6.1
+50,The Assassination of Jesse James by the Coward Robert Ford,2007,160.0,Andrew Dominik,"Brad Pitt, Casey Affleck, Sam Shepard","Biography, Crime, Drama",7.5
+51,30 Days of Night,2007,113.0,David Slade,"Josh Hartnett, Melissa George, Danny Huston","Horror, Thriller",6.6
+52,Grindhouse,2007,191.0,"Robert Rodriguez, Eli Roth, Quentin Tarantino","Kurt Russell, Rose McGowan, Danny Trejo","Horror, Thriller",7.5
+53,Rush Hour 3,2007,91.0,Brett Ratner,"Jackie Chan, Chris Tucker, Max von Sydow","Action, Comedy, Crime",6.2
+54,Bee Movie,2007,91.0,"Simon J. Smith, Steve Hickner","Jerry Seinfeld, Renée Zellweger, Matthew Broderick","Animation, Adventure, Comedy",6.1
+55,Hitman,2007,94.0,Xavier Gens,"Timothy Olyphant, Dougray Scott, Olga Kurylenko","Action, Crime, Thriller",6.2
+56,Bridge to Terabithia,2007,96.0,Gabor Csupo,"Josh Hutcherson, AnnaSophia Robb, Zooey Deschanel","Drama, Family, Fantasy",7.2
+57,Blades of Glory,2007,93.0,"Josh Gordon, Will Speck","Will Ferrell, Jon Heder, Amy Poehler","Comedy, Sport",6.3
+58,Michael Clayton,2007,119.0,Tony Gilroy,"George Clooney, Tilda Swinton, Tom Wilkinson","Crime, Drama, Mystery",7.2
+59,Beowulf,2007,115.0,Robert Zemeckis,"Ray Winstone, Crispin Glover, Angelina Jolie","Animation, Action, Adventure",6.3
+60,Saw IV,2007,93.0,Darren Lynn Bousman,"Tobin Bell, Scott Patterson, Louis Ferreira","Horror, Mystery, Thriller",5.9
+61,Next,2007,96.0,Lee Tamahori,"Nicolas Cage, Julianne Moore, Jessica Biel","Action, Sci-Fi, Thriller",6.2
+62,The Orphanage,2007,105.0,J.A. Bayona,"Belén Rueda, Fernando Cayo, Roger Príncep","Drama, Horror, Mystery",7.4
+63,Lars and the Real Girl,2007,106.0,Craig Gillespie,"Ryan Gosling, Emily Mortimer, Paul Schneider","Comedy, Drama, Romance",7.3
+64,Mr. Brooks,2007,120.0,Bruce A. Evans,"Kevin Costner, Demi Moore, William Hurt","Crime, Drama, Mystery",7.3
+65,Evan Almighty,2007,96.0,Tom Shadyac,"Steve Carell, Morgan Freeman, Lauren Graham","Comedy, Family, Fantasy",5.4
+66,I Now Pronounce You Chuck & Larry,2007,115.0,Dennis Dugan,"Adam Sandler, Kevin James, Jessica Biel","Comedy, Romance",5.9
+67,Shoot 'Em Up,2007,86.0,Michael Davis,"Clive Owen, Monica Bellucci, Paul Giamatti","Action, Comedy, Thriller",6.6
+68,Hairspray,2007,117.0,Adam Shankman,"John Travolta, Queen Latifah, Nikki Blonsky","Comedy, Drama, Musical",6.7
+69,Aliens vs. Predator: Requiem,2007,94.0,"Colin Strause, Greg Strause","Reiko Aylesworth, Steven Pasquale, Shareeka Epps","Action, Horror, Sci-Fi",4.6
+70,Mr. Bean's Holiday,2007,90.0,Steve Bendelack,"Rowan Atkinson, Willem Dafoe, Steve Pemberton","Comedy, Family",6.4
+71,Halloween,2007,109.0,Rob Zombie,"Scout Taylor-Compton, Malcolm McDowell, Tyler Mane",Horror,6.0
+72,The Kingdom,2007,110.0,Peter Berg,"Jamie Foxx, Chris Cooper, Jennifer Garner","Action, Drama, Thriller",7.0
+73,Charlie Wilson's War,2007,102.0,Mike Nichols,"Tom Hanks, Julia Roberts, Philip Seymour Hoffman","Biography, Comedy, Drama",7.0
+74,Wild Hogs,2007,100.0,Walt Becker,"Tim Allen, Martin Lawrence, John Travolta","Action, Adventure, Comedy",5.9
+75,Death at a Funeral,2007,90.0,Frank Oz,"Matthew Macfadyen, Peter Dinklage, Ewen Bremner",Comedy,7.3
+76,Hannibal Rising,2007,121.0,Peter Webber,"Gaspard Ulliel, Rhys Ifans, Gong Li","Adventure, Crime, Drama",6.1
+77,Before the Devil Knows You're Dead,2007,117.0,Sidney Lumet,"Philip Seymour Hoffman, Ethan Hawke, Albert Finney","Crime, Drama, Thriller",7.3
+78,Meet the Robinsons,2007,95.0,Stephen J. Anderson,"Daniel Hansen, Wesley Singerman, Angela Bassett","Animation, Adventure, Comedy",6.8
+79,Across the Universe,2007,133.0,Julie Taymor,"Evan Rachel Wood, Jim Sturgess, Joe Anderson","Drama, Fantasy, History",7.3
+80,Elite Squad,2007,115.0,José Padilha,"Wagner Moura, André Ramiro, Caio Junqueira","Action, Crime, Drama",8.0
+81,August Rush,2007,114.0,Kirsten Sheridan,"Freddie Highmore, Keri Russell, Jonathan Rhys Meyers","Drama, Music",7.4
+82,The Diving Bell and the Butterfly,2007,112.0,Julian Schnabel,"Mathieu Amalric, Emmanuelle Seigner, Marie-Josée Croze","Biography, Drama",8.0
+83,Epic Movie,2007,86.0,"Jason Friedberg, Aaron Seltzer","Kal Penn, Jennifer Coolidge, Fred Willard","Adventure, Comedy, Fantasy",2.4
+84,Vacancy,2007,85.0,Nimród Antal,"Kate Beckinsale, Luke Wilson, Frank Whaley","Horror, Thriller",6.2
+85,Trick 'r Treat,2007,82.0,Michael Dougherty,"Anna Paquin, Brian Cox, Dylan Baker","Comedy, Horror",6.7
+86,Music and Lyrics,2007,104.0,Marc Lawrence,"Hugh Grant, Drew Barrymore, Scott Porter","Comedy, Music, Romance",6.5
+87,Dan in Real Life,2007,98.0,Peter Hedges,"Steve Carell, Juliette Binoche, Dane Cook","Comedy, Drama, Romance",6.8
+88,Funny Games,2007,111.0,Michael Haneke,"Naomi Watts, Tim Roth, Michael Pitt","Crime, Drama, Thriller",6.5
+89,Dead Silence,2007,89.0,James Wan,"Ryan Kwanten, Amber Valletta, Donnie Wahlberg","Horror, Mystery, Thriller",6.1
+90,Persepolis,2007,96.0,"Vincent Paronnaud, Marjane Satrapi","Chiara Mastroianni, Catherine Deneuve, Gena Rowlands","Animation, Biography, Drama",8.0
+91,The Game Plan,2007,110.0,Andy Fickman,"Dwayne Johnson, Kyra Sedgwick, Madison Pettis","Comedy, Family, Sport",6.4
+92,Reign Over Me,2007,124.0,Mike Binder,"Adam Sandler, Don Cheadle, Jada Pinkett Smith",Drama,7.4
+93,Alvin and the Chipmunks,2007,92.0,Tim Hill,"Jason Lee, Ross Bagdasarian Jr., Janice Karman","Adventure, Comedy, Family",5.3
+94,War,2007,103.0,Philip G. Atwell,"Jet Li, Jason Statham, Nadine Velazquez","Action, Thriller",6.2
+95,Hostel: Part II,2007,94.0,Eli Roth,"Lauren German, Heather Matarazzo, Bijou Phillips",Horror,5.5
+96,The Heartbreak Kid,2007,116.0,"Bobby Farrelly, Peter Farrelly","Ben Stiller, Michelle Monaghan, Malin Akerman","Comedy, Romance",5.9
+97,Surf's Up,2007,85.0,"Ash Brannon, Chris Buck","Shia LaBeouf, Zooey Deschanel, Jon Heder","Animation, Adventure, Comedy",6.7
+98,Good Luck Chuck,2007,96.0,Mark Helfrich,"Dane Cook, Jessica Alba, Dan Fogler","Comedy, Romance",5.6
+99,Hot Rod,2007,88.0,Akiva Schaffer,"Andy Samberg, Isla Fisher, Ian McShane","Comedy, Sport",6.7
+100,We Own the Night,2007,117.0,James Gray,"Joaquin Phoenix, Mark Wahlberg, Eva Mendes","Crime, Drama, Thriller",6.8
+101,La Vie En Rose,2007,140.0,Olivier Dahan,"Marion Cotillard, Sylvie Testud, Pascal Greggory","Biography, Drama, Music",7.5
+102,Freedom Writers,2007,123.0,Richard LaGravenese,"Hilary Swank, Imelda Staunton, Patrick Dempsey","Biography, Crime, Drama",7.6
+103,Chak De! India,2007,153.0,Shimit Amin,"Shah Rukh Khan, Vidya Malvade, Sagarika Ghatge","Drama, Family, Sport",8.1
+104,The Invasion,2007,99.0,Oliver Hirschbiegel,"Nicole Kidman, Daniel Craig, Jeremy Northam","Sci-Fi, Thriller",5.9
+105,Norbit,2007,102.0,Brian Robbins,"Eddie Murphy, Thandiwe Newton, Terry Crews","Comedy, Romance",4.2
+106,The Kite Runner,2007,128.0,Marc Forster,"Khalid Abdalla, Ahmad Khan Mahmoodzada, Atossa Leoni",Drama,7.6
+107,Premonition,2007,96.0,Mennan Yapo,"Sandra Bullock, Julian McMahon, Amber Valletta","Drama, Fantasy, Mystery",5.9
+108,Awake,2007,84.0,Joby Harold,"Hayden Christensen, Jessica Alba, Terrence Howard","Crime, Drama, Mystery",6.5
+109,No Reservations,2007,104.0,Scott Hicks,"Catherine Zeta-Jones, Aaron Eckhart, Abigail Breslin","Comedy, Drama, Romance",6.3
+110,Walk Hard: The Dewey Cox Story,2007,96.0,Jake Kasdan,"John C. Reilly, Jenna Fischer, David Krumholtz","Comedy, Music",6.8
+111,88 Minutes,2007,108.0,Jon Avnet,"Al Pacino, Alicia Witt, Ben McKenzie","Crime, Drama, Mystery",5.9
+112,Sicko,2007,123.0,Michael Moore,"Michael Moore, Tucker Albrizzi, Edward R. Annis","Documentary, Drama",8.0
+113,Elizabeth: The Golden Age,2007,114.0,Shekhar Kapur,"Cate Blanchett, Clive Owen, Geoffrey Rush","Biography, Drama, History",6.8
+114,In the Valley of Elah,2007,121.0,Paul Haggis,"Tommy Lee Jones, Charlize Theron, Jonathan Tucker","Crime, Drama, Mystery",7.1
+115,Death Sentence,2007,105.0,James Wan,"Kevin Bacon, John Goodman, Kelly Preston","Action, Crime, Thriller",6.7
+116,Timecrimes,2007,92.0,Nacho Vigalondo,"Karra Elejalde, Candela Fernández, Bárbara Goenaga","Horror, Mystery, Sci-Fi",7.1
+117,TMNT,2007,87.0,Kevin Munroe,"Patrick Stewart, Mako, Chris Evans","Animation, Action, Adventure",6.2
+118,Run Fatboy Run,2007,100.0,David Schwimmer,"Simon Pegg, Thandiwe Newton, Hank Azaria","Comedy, Romance, Sport",6.5
+119,Control,2007,122.0,Anton Corbijn,"Sam Riley, Samantha Morton, Craig Parkinson","Biography, Drama, Music",7.6
+120,The Hills Have Eyes 2,2007,89.0,Martin Weisz,"Daniella Alonso, Jacob Vargas, Michael Bailey Smith","Horror, Thriller",5.1
+121,5 Centimeters per Second,2007,63.0,Makoto Shinkai,"Kenji Mizuhashi, Yoshimi Kondou, Satomi Hanamura","Animation, Drama, Family",7.5
+122,Charlie Bartlett,2007,97.0,Jon Poll,"Anton Yelchin, Robert Downey Jr., Hope Davis","Comedy, Drama, Romance",6.9
+123,Becoming Jane,2007,120.0,Julian Jarrold,"Anne Hathaway, James McAvoy, Julie Walters","Biography, Drama, Romance",7.0
+124,The Nanny Diaries,2007,105.0,"Shari Springer Berman, Robert Pulcini","Scarlett Johansson, Laura Linney, Paul Giamatti","Comedy, Drama, Romance",6.2
+125,The Great Debaters,2007,126.0,Denzel Washington,"Denzel Washington, Forest Whitaker, Kimberly Elise","Biography, Drama, Romance",7.5
+126,The Brave One,2007,122.0,Neil Jordan,"Jodie Foster, Terrence Howard, Naveen Andrews","Crime, Drama, Thriller",6.7
+127,"4 Months, 3 Weeks and 2 Days",2007,113.0,Cristian Mungiu,"Anamaria Marinca, Laura Vasiliu, Vlad Ivanov",Drama,7.9
+128,Breach,2007,110.0,Billy Ray,"Chris Cooper, Ryan Phillippe, Dennis Haysbert","Biography, Crime, Drama",7.0
+129,I'm Not There,2007,135.0,Todd Haynes,"Christian Bale, Cate Blanchett, Heath Ledger","Biography, Drama, Music",6.8
+130,Jab We Met,2007,138.0,Imtiaz Ali,"Shahid Kapoor, Kareena Kapoor, Tarun Arora","Comedy, Drama, Romance",7.9
+131,The Lookout,2007,99.0,Scott Frank,"Joseph Gordon-Levitt, Jeff Daniels, Matthew Goode","Crime, Drama, Thriller",6.9
+132,Rendition,2007,122.0,Gavin Hood,"Reese Witherspoon, Jake Gyllenhaal, Peter Sarsgaard","Drama, Thriller",6.8
+133,My Blueberry Nights,2007,95.0,Wong Kar-Wai,"Norah Jones, Jude Law, Natalie Portman","Drama, Romance",6.6
+134,The Condemned,2007,113.0,Scott Wiper,"Steve Austin, Vinnie Jones, Nathan Jones","Action, Crime, Thriller",6.0
+135,Cassandra's Dream,2007,108.0,Woody Allen,"Colin Farrell, Ewan McGregor, Hayley Atwell","Crime, Drama, Romance",6.6
+136,Lions for Lambs,2007,92.0,Robert Redford,"Tom Cruise, Meryl Streep, Robert Redford","Crime, Drama, Mystery",6.2
+137,Perfect Stranger,2007,109.0,James Foley,"Halle Berry, Bruce Willis, Giovanni Ribisi","Crime, Mystery, Thriller",5.7
+138,Sydney White,2007,108.0,Joe Nussbaum,"Amanda Bynes, Sara Paxton, Matt Long","Comedy, Drama, Romance",6.2
+139,Om Shanti Om,2007,162.0,Farah Khan,"Shah Rukh Khan, Deepika Padukone, Arjun Rampal","Action, Comedy, Drama",6.8
+140,In the Name of the King: A Dungeon Siege Tale,2007,127.0,Uwe Boll,"Jason Statham, Ron Perlman, Ray Liotta","Action, Adventure, Fantasy",3.8
+141,Mongol: The Rise of Genghis Khan,2007,126.0,Sergei Bodrov,"Tadanobu Asano, Amadu Mamadakov, Khulan Chuluun","Action, Biography, Drama",7.2
+142,Waitress,2007,108.0,Adrienne Shelly,"Keri Russell, Nathan Fillion, Jeremy Sisto","Comedy, Drama, Romance",7.0
+143,Diary of the Dead,2007,95.0,George A. Romero,"Michelle Morgan, Joshua Close, Shawn Roberts","Fantasy, Horror, Sci-Fi",5.5
+144,Big Stan,2007,105.0,Rob Schneider,"Rob Schneider, David Carradine, Sally Kirkland","Action, Comedy",6.2
+145,Fred Claus,2007,116.0,David Dobkin,"Vince Vaughn, Paul Giamatti, Elizabeth Banks","Comedy, Family, Fantasy",5.7
+146,Mr. Magorium's Wonder Emporium,2007,93.0,Zach Helm,"Natalie Portman, Dustin Hoffman, Jason Bateman","Comedy, Family, Fantasy",6.2
+147,Teeth,2007,94.0,Mitchell Lichtenstein,"Jess Weixler, John Hensley, Josh Pais","Comedy, Fantasy, Horror",5.4
+148,The Counterfeiters,2007,99.0,Stefan Ruzowitzky,"Karl Markovics, August Diehl, Devid Striesow","Crime, Drama, History",7.5
+149,"Lust, Caution",2007,157.0,Ang Lee,"Tony Leung Chiu-wai, Tang Wei, Joan Chen","Drama, History, Romance",7.5
+150,Pathfinder,2007,99.0,Marcus Nispel,"Karl Urban, Clancy Brown, Moon Bloodgood","Action, Adventure, Drama",5.4
+151,Inside,2007,82.0,"Alexandre Bustillo, Julien Maury","Alysson Paradis, Jean-Baptiste Tabourin, Claude Lulé",Horror,6.7
+152,The Hitcher,2007,84.0,Dave Meyers,"Sean Bean, Sophia Bush, Zachary Knighton","Crime, Thriller",5.6
+153,Cleaner,2007,88.0,Renny Harlin,"Samuel L. Jackson, Ed Harris, Eva Mendes","Crime, Thriller",6.1
+154,Balls of Fury,2007,90.0,Robert Ben Garant,"Dan Fogler, Christopher Walken, George Lopez","Comedy, Crime, Sport",5.4
+155,The Visitor,2007,104.0,Tom McCarthy,"Richard Jenkins, Haaz Sleiman, Danai Gurira",Drama,7.6
+156,The Reaping,2007,99.0,Stephen Hopkins,"Hilary Swank, David Morrissey, AnnaSophia Robb","Horror, Thriller",5.6
+157,The Water Horse,2007,112.0,Jay Russell,"Emily Watson, David Morrissey, Alex Etel","Adventure, Family, Fantasy",6.4
+158,The Messengers,2007,90.0,"Danny Pang, Oxide Chun Pang","Dylan McDermott, Penelope Ann Miller, Kristen Stewart","Drama, Horror, Mystery",5.3
+159,License to Wed,2007,91.0,Ken Kwapis,"Mandy Moore, John Krasinski, Robin Williams","Comedy, Romance",5.3
+160,Because I Said So,2007,102.0,Michael Lehmann,"Diane Keaton, Mandy Moore, Gabriel Macht","Comedy, Romance",5.6
+161,Boy A,2007,106.0,John Crowley,"Andrew Garfield, Peter Mullan, Shaun Evans",Drama,7.6
+162,The Savages,2007,113.0,Tamara Jenkins,"Laura Linney, Philip Seymour Hoffman, Philip Bosco","Comedy, Drama",7.1
+163,An American Crime,2007,98.0,Tommy O'Haver,"Elliot Page, Hayley McFarland, Nick Searcy","Biography, Crime, Drama",7.2
+164,The King of Kong: A Fistful of Quarters,2007,79.0,Seth Gordon,"Steve Wiebe, Billy Mitchell, Mark Alpiger","Documentary, Biography, Sport",8.0
+165,P2,2007,98.0,Franck Khalfoun,"Rachel Nichols, Wes Bentley, Simon Reynolds","Crime, Horror, Thriller",5.9
+166,The Last Legion,2007,101.0,Doug Lefler,"Colin Firth, Ben Kingsley, Aishwarya Rai Bachchan","Action, Adventure, History",5.4
+167,Mr. Woodcock,2007,87.0,Craig Gillespie,"Billy Bob Thornton, Seann William Scott, Susan Sarandon","Comedy, Romance, Sport",5.2
+168,The Invisible,2007,102.0,David S. Goyer,"Justin Chatwin, Margarita Levieva, Marcia Gay Harden","Crime, Drama, Fantasy",6.1
+169,Bhool Bhulaiyaa,2007,159.0,Priyadarshan,"Akshay Kumar, Vidya Balan, Shiney Ahuja","Comedy, Horror, Mystery",7.5
+170,The Air I Breathe,2007,95.0,Jieho Lee,"Brendan Fraser, Sarah Michelle Gellar, Andy Garcia","Crime, Drama, Thriller",6.7
+171,The Nines,2007,100.0,John August,"Ryan Reynolds, Hope Davis, Melissa McCarthy","Drama, Fantasy, Mystery",6.2
+172,Rogue,2007,99.0,Greg McLean,"Michael Vartan, Radha Mitchell, Sam Worthington","Action, Drama, Horror",6.2
+173,Goal II: Living the Dream,2007,115.0,Jaume Collet-Serra,"Kuno Becker, Alessandro Nivola, Anna Friel","Drama, Sport",5.8
+174,The Edge of Heaven,2007,116.0,Fatih Akin,"Baki Davrak, Gürsoy Gemec, Cengiz Daner",Drama,7.7
+175,Chaos Theory,2007,87.0,Marcos Siega,"Ryan Reynolds, Emily Mortimer, Stuart Townsend","Comedy, Drama, Romance",6.6
+176,Shattered,2007,95.0,Mike Barker,"Pierce Brosnan, Maria Bello, Gerard Butler","Crime, Drama, Thriller",6.6
+177,Sleuth,2007,88.0,Kenneth Branagh,"Michael Caine, Jude Law, Harold Pinter","Crime, Drama, Mystery",6.3
+178,Son of Rambow,2007,96.0,Garth Jennings,"Bill Milner, Will Poulter, Jessica Hynes","Action, Adventure, Comedy",7.0
+179,In the Land of Women,2007,97.0,Jonathan Kasdan,"Adam Brody, Kristen Stewart, Meg Ryan","Comedy, Drama, Romance",6.4
+180,Paranoid Park,2007,85.0,Gus Van Sant,"Gabe Nevins, Daniel Liu, Taylor Momsen","Crime, Drama, Mystery",6.6
+181,Two Days in Paris,2007,96.0,Julie Delpy,"Julie Delpy, Adam Goldberg, Daniel Brühl","Comedy, Drama, Romance",6.7
+182,Taxi 4,2007,91.0,Gérard Krawczyk,"Samy Naceri, Frédéric Diefenthal, Bernard Farcy","Action, Comedy, Crime",5.6
+183,I Know Who Killed Me,2007,105.0,Chris Sivertson,"Lindsay Lohan, Julia Ormond, Neal McDonough","Horror, Mystery, Thriller",3.6
+184,The Girl Next Door,2007,91.0,Gregory Wilson,"William Atherton, Blythe Auffarth, Blanche Baker","Crime, Drama, Horror",6.5
+185,Things We Lost in the Fire,2007,118.0,Susanne Bier,"Halle Berry, Benicio Del Toro, Alison Lohman",Drama,7.1
+186,Frontier(s),2007,108.0,Xavier Gens,"Karina Testa, Aurélien Wiik, Patrick Ligardes",Horror,6.2
+187,Evangelion: 1.0 You Are (Not) Alone,2007,98.0,"Hiroshi Haraguchi, Masayuki, Kazuya Tsurumaki","Megumi Ogata, Megumi Hayashibara, Kotono Mitsuishi","Animation, Action, Drama",7.5
+188,The Jane Austen Book Club,2007,106.0,Robin Swicord,"Kathy Baker, Hugh Dancy, Amy Brenneman","Comedy, Drama, Romance",6.7
+189,The Poughkeepsie Tapes,2007,81.0,John Erick Dowdle,"Stacy Chbosky, Ben Messmer, Samantha Robson","Horror, Mystery, Thriller",5.9
+190,A Mighty Heart,2007,108.0,Michael Winterbottom,"Angelina Jolie, Dan Futterman, Irrfan Khan","Biography, Drama, History",6.6
+191,Reno 911!: Miami,2007,84.0,Robert Ben Garant,"Thomas Lennon, Robert Ben Garant, Kerri Kenney","Comedy, Crime",5.9
+192,Georgia Rule,2007,113.0,Garry Marshall,"Jane Fonda, Lindsay Lohan, Felicity Huffman","Comedy, Drama",5.9
+193,The Warlords,2007,126.0,"Peter Ho-Sun Chan, Wai-Man Yip","Jet Li, Andy Lau, Takeshi Kaneshiro","Action, Adventure, Drama",7.0
+194,Welcome,2007,150.0,"Anees Bazmee, Mayur K. Barot","Akshay Kumar, Katrina Kaif, Nana Patekar","Comedy, Crime, Drama",7.1
+195,Flawless,2007,108.0,Michael Radford,"Demi Moore, Michael Caine, Lambert Wilson","Crime, Drama, Thriller",6.7
+196,Eagle vs Shark,2007,88.0,Taika Waititi,"Loren Taylor, Jemaine Clement, Craig Hall","Comedy, Romance",6.7
+197,Stomp the Yard,2007,115.0,Sylvain White,"Columbus Short, Meagan Good, Ne-Yo","Drama, Music, Romance",5.4
+198,The Hunting Party,2007,101.0,Richard Shepard,"Richard Gere, Terrence Howard, Jesse Eisenberg","Adventure, Comedy, Drama",6.7
+199,Wind Chill,2007,91.0,Gregory Jacobs,"Emily Blunt, Ashton Holmes, Martin Donovan","Adventure, Drama, Horror",5.8
+200,Dragon Wars: D-War,2007,107.0,Hyung-rae Shim,"Jason Behr, Amanda Brooks, Robert Forster","Action, Drama, Fantasy",3.5
+201,Guru,2007,166.0,Mani Ratnam,"Mithun Chakraborty, Abhishek Bachchan, Aishwarya Rai Bachchan",Drama,7.7
+202,Reservation Road,2007,102.0,Terry George,"Joaquin Phoenix, Mark Ruffalo, Jennifer Connelly","Crime, Drama, Thriller",6.6
+203,My Name Is Bruce,2007,84.0,Bruce Campbell,"Bruce Campbell, Taylor Sharpe, Logan Martin","Comedy, Fantasy, Horror",6.1
+204,Bratz,2007,110.0,Sean McNamara,"Skyler Shaye, Janel Parrish, Logan Browning","Comedy, Family, Music",3.1
+205,For Love and Honor,2007,140.0,Ömer Vargi,"Sener Sen, Kenan Imirzalioglu, Ismail Hacioglu","Crime, Drama",7.8
+206,Shelter,2007,97.0,Jonah Markowitz,"Trevor Wright, Brad Rowe, Tina Holmes","Drama, Romance, Sport",7.6
+207,Postal,2007,100.0,Uwe Boll,"Zack Ward, Dave Foley, Verne Troyer","Action, Comedy, Crime",4.5
+208,Love in the Time of Cholera,2007,139.0,Mike Newell,"Javier Bardem, Giovanna Mezzogiorno, Benjamin Bratt","Drama, Romance",6.4
+209,St. Trinian's,2007,97.0,"Oliver Parker, Barnaby Thompson","Talulah Riley, Rupert Everett, Gemma Arterton","Comedy, Family",5.8
+210,Captivity,2007,85.0,Roland Joffé,"Elisha Cuthbert, Daniel Gillies, Pruitt Taylor Vince","Crime, Horror, Mystery",4.6
+211,King of California,2007,93.0,M. Cahill,"Michael Douglas, Evan Rachel Wood, Willis Burks II","Comedy, Drama",6.6
+212,Arn: The Knight Templar,2007,139.0,Peter Flinth,"Joakim Nätterqvist, Sofia Helin, Stellan Skarsgård","Action, Drama, Romance",6.6
+213,Namastey London,2007,128.0,Vipul Amrutlal Shah,"Akshay Kumar, Katrina Kaif, Rishi Kapoor","Comedy, Drama, Romance",7.1
+214,He Was a Quiet Man,2007,100.0,Frank A. Cappello,"Christian Slater, Elisha Cuthbert, William H. Macy","Drama, Romance, Thriller",6.7
+215,Fermat's Room,2007,89.0,"Luis Piedrahita, Rodrigo Sopeña","Alejo Sauras, Elena Ballesteros, Lluís Homar","Mystery, Thriller",6.6
+216,Underdog,2007,84.0,Frederik Du Chau,"Peter Dinklage, Jason Lee, Amy Adams","Action, Adventure, Comedy",4.8
+217,Are We Done Yet?,2007,92.0,Steve Carr,"Ice Cube, Nia Long, John C. McGinley","Comedy, Family",4.3
+218,Margot at the Wedding,2007,91.0,Noah Baumbach,"Nicole Kidman, Jennifer Jason Leigh, Flora Cross","Comedy, Drama",6.0
+219,Sivaji,2007,188.0,S. Shankar,"Rajinikanth, Shriya Saran, Suman","Action, Crime, Drama",7.6
+220,The Last Mimzy,2007,90.0,Robert Shaye,"Joely Richardson, Rainn Wilson, Timothy Hutton","Action, Adventure, Drama",6.2
+221,Rise of the Footsoldier,2007,119.0,Julian Gilbey,"Ricci Harnett, Craig Fairbrass, Terry Stone","Action, Biography, Crime",6.7
+222,The Signal,2007,103.0,"David Bruckner, Dan Bush, Jacob Gentry","Anessa Ramsey, Justin Welborn, Scott Poythress","Horror, Sci-Fi, Thriller",6.0
+223,Nancy Drew,2007,99.0,Andrew Fleming,"Emma Roberts, Tate Donovan, Max Thieriot","Comedy, Crime, Family",5.9
+224,Resurrecting the Champ,2007,112.0,Rod Lurie,"Samuel L. Jackson, Josh Hartnett, Kathryn Morris","Drama, Sport",6.7
+225,Lucky You,2007,124.0,Curtis Hanson,"Eric Bana, Drew Barrymore, Robert Duvall","Drama, Romance, Sport",5.9
+226,Meet Bill,2007,93.0,"Bernie Goldmann, Melisa Wallack","Aaron Eckhart, Jessica Alba, Logan Lerman","Comedy, Drama",6.2
+227,99 Francs,2007,100.0,"Jan Kounen, Laurent Lafran, Bruno Vatin","Jean Dujardin, Jocelyn Quivrin, Patrick Mille","Comedy, Drama",7.1
+228,Martian Child,2007,106.0,Menno Meyjes,"John Cusack, Amanda Peet, Bobby Coleman","Comedy, Drama, Family",6.7
+229,I Could Never Be Your Woman,2007,97.0,Amy Heckerling,"Michelle Pfeiffer, Paul Rudd, Saoirse Ronan","Comedy, Drama, Romance",6.0
+230,Smiley Face,2007,85.0,Gregg Araki,"Anna Faris, John Krasinski, Adam Brody",Comedy,5.8
+231,Dhamaal,2007,136.0,Indra Kumar,"Sanjay Dutt, Riteish Deshmukh, Arshad Warsi","Action, Adventure, Comedy",7.5
+232,YPF,2007,87.0,Martin Gero,"Aaron Abrams, Carly Pope, Kristin Booth","Comedy, Drama, Romance",6.2
+233,Encounters at the End of the World,2007,99.0,Werner Herzog,"Werner Herzog, Scott Rowland, Stefan Pashov",Documentary,7.7
+234,Ben X,2007,93.0,Nic Balthazar,"Marijke Pinoy, Greg Timmermans, Cesar De Sutter","Drama, Thriller",7.3
+235,You Kill Me,2007,93.0,John Dahl,"Ben Kingsley, Téa Leoni, Luke Wilson","Comedy, Crime, Romance",6.4
+236,Sword of the Stranger,2007,103.0,Masahiro Andô,"Tomoya Nagase, Yuri Chinen, Kôichi Yamadera","Animation, Action, Adventure",7.7
+237,Rabbit Without Ears,2007,116.0,Til Schweiger,"Til Schweiger, Nora Tschirner, Matthias Schweighöfer","Comedy, Romance",6.5
+238,Blood and Chocolate,2007,98.0,Katja von Garnier,"Agnes Bruckner, Hugh Dancy, Olivier Martinez","Drama, Fantasy, Horror",5.3
+239,Trade,2007,120.0,Marco Kreuzpaintner,"Kevin Kline, Kathleen Gati, Paulina Gaitan","Crime, Drama, Thriller",7.3
+240,Daddy Day Camp,2007,93.0,Fred Savage,"Cuba Gooding Jr., Lochlyn Munro, Richard Gant","Comedy, Family",3.2
+241,Shrooms,2007,84.0,Paddy Breathnach,"Lindsey Haun, Jack Huston, Max Kasch","Comedy, Horror, Mystery",4.6
+242,Katyn,2007,121.0,Andrzej Wajda,"Andrzej Chyra, Maja Ostaszewska, Artur Zmijewski","Drama, History, War",7.0
+243,I Think I Love My Wife,2007,90.0,Chris Rock,"Chris Rock, Kerry Washington, Gina Torres","Comedy, Drama, Romance",5.5
+244,Feast of Love,2007,97.0,Robert Benton,"Morgan Freeman, Radha Mitchell, Alexa Davalos","Drama, Romance",6.5
+245,Taxi to the Dark Side,2007,106.0,Alex Gibney,"Alex Gibney, Brian Keith Allen, Moazzam Begg","Documentary, Crime, History",7.5
+246,The Ten,2007,96.0,David Wain,"Paul Rudd, Jessica Alba, Winona Ryder","Comedy, Romance",4.9
+247,Heyy Babyy,2007,144.0,Sajid Khan,"Akshay Kumar, Fardeen Khan, Riteish Deshmukh","Comedy, Drama",6.1
+248,"You, the Living",2007,95.0,Roy Andersson,"Elisabeth Helander, Jörgen Nohall, Jan Wikbladh","Comedy, Drama, Music",7.4
+249,Black Water,2007,90.0,"David Nerlich, Andrew Traucki","Diana Glenn, Maeve Dermody, Andy Rodoreda","Adventure, Drama, Horror",5.8
+250,City of Men,2007,106.0,Paulo Morelli,"Douglas Silva, Darlan Cunha, Jonathan Haagensen","Crime, Drama",7.2
+251,At the Bar,2007,92.0,Serdar Akar,"Nejat Isler, Hakan Boyav, Serdar Orçin","Crime, Drama, Thriller",7.0
+252,The Class,2007,99.0,Ilmar Raag,"Vallo Kirs, Pärt Uusberg, Lauri Pedaja",Drama,7.9
+253,Sukiyaki Western Django,2007,121.0,Takashi Miike,"Hideaki Itô, Kôichi Satô, Quentin Tarantino","Action, Western",6.1
+254,The Seeker: The Dark Is Rising,2007,99.0,David L. Cunningham,"Alexander Ludwig, Ian McShane, Christopher Eccleston","Adventure, Drama, Family",4.8
+255,Who's Your Caddy?,2007,93.0,Don Michael Paul,"Big Boi, Jeffrey Jones, Terry Crews","Comedy, Sport",2.3
+256,Bobby Z,2007,97.0,John Herzfeld,"Paul Walker, Laurence Fishburne, Olivia Wilde","Action, Crime, Thriller",5.8
+257,12,2007,159.0,Nikita Mikhalkov,"Sergey Makovetskiy, Sergey Garmash, Apti Magamaev","Crime, Drama, Thriller",7.5
+258,Primeval,2007,93.0,Michael Katleman,"Dominic Purcell, Orlando Jones, Brooke Langton","Action, Adventure, Crime",4.8
+259,Battle in Seattle,2007,98.0,Stuart Townsend,"André 3000, Jennifer Carpenter, Isaach De Bankolé","Action, Drama, History",6.6
+260,XXY,2007,86.0,Lucía Puenzo,"Ricardo Darín, Valeria Bertuccelli, Germán Palacios","Drama, Romance",7.0
+261,The Life Before Her Eyes,2007,90.0,Vadim Perelman,"Uma Thurman, Evan Rachel Wood, Eva Amurri","Drama, Fantasy, Mystery",6.2
+262,Caramel,2007,95.0,Nadine Labaki,"Nadine Labaki, Joanna Moukarzel, Gisèle Aouad","Comedy, Drama, Romance",7.1
+263,Earth,2007,90.0,"Alastair Fothergill, Mark Linfield","James Earl Jones, Patrick Stewart, Anggun",Documentary,7.9
+264,Aqua Teen Hunger Force Colon Movie Film for Theaters,2007,86.0,"Matt Maiellaro, Dave Willis","Dana Snyder, Dave Willis, Carey Means","Animation, Action, Adventure",6.7
+265,Youth Without Youth,2007,124.0,Francis Ford Coppola,"Tim Roth, Alexandra Maria Lara, Bruno Ganz","Drama, Fantasy, Mystery",6.1
+266,Water Lilies,2007,85.0,Céline Sciamma,"Pauline Acquart, Louise Blachère, Adèle Haenel","Drama, Romance",6.7
+267,Gabriel,2007,114.0,Shane Abbess,"Andy Whitfield, Dwaine Stevenson, Samantha Noble","Action, Drama, Fantasy",5.5
+268,Pokkiri,2007,161.0,Prabhu Deva,"Joseph Vijay, Asin, Prakash Raj","Action, Crime, Thriller",7.6
+269,The Band's Visit,2007,87.0,Eran Kolirin,"Sasson Gabay, Ronit Elkabetz, Saleh Bakri","Comedy, Drama, Music",7.5
+270,Why Did I Get Married?,2007,113.0,Tyler Perry,"Tyler Perry, Janet Jackson, Sharon Leal","Comedy, Drama, Romance",5.9
+271,Partner,2007,155.0,David Dhawan,"Salman Khan, Govinda, Lara Dutta","Comedy, Drama, Romance",5.8
+272,Evening,2007,117.0,Lajos Koltai,"Vanessa Redgrave, Toni Collette, Claire Danes","Drama, Romance",6.4
+273,Flash Point,2007,88.0,Wilson Yip,"Donnie Yen, Louis Koo, Ray Lui","Action, Crime, Thriller",6.7
+274,Interview,2007,84.0,Steve Buscemi,"Sienna Miller, Steve Buscemi, Michael Buscemi",Drama,6.8
+275,White Noise 2: The Light,2007,99.0,Patrick Lussier,"Nathan Fillion, Katee Sackhoff, Craig Fairbrass","Drama, Fantasy, Horror",5.7
+276,Rocket Science,2007,101.0,Jeffrey Blitz,"Reece Thompson, Anna Kendrick, Nicholas D'Agosto","Comedy, Drama",6.5
+277,Ten Inch Hero,2007,102.0,David Mackay,"Elisabeth Harnois, Clea DuVall, Sean Patrick Flanery","Comedy, Drama, Romance",7.3
+278,The Deaths of Ian Stone,2007,87.0,Dario Piana,"Mike Vogel, Jaime Murray, Christina Cole","Horror, Thriller",5.5
+279,Joshua,2007,106.0,George Ratliff,"Sam Rockwell, Vera Farmiga, Jacob Kogan","Drama, Horror, Thriller",5.8
+280,Johnny Gaddaar,2007,135.0,Sriram Raghavan,"Dharmendra, Rimi Sen, Ashwini Kalsekar","Crime, Drama, Thriller",7.8
+281,Life in a Metro,2007,132.0,Anurag Basu,"Dharmendra, Gautam Kapur, Irrfan Khan","Comedy, Drama, Musical",7.4
+282,The Babysitters,2007,88.0,David Ross,"Lauren Birkell, Paul Borghese, Chira Cassel",Drama,5.6
+283,Hallam Foe,2007,95.0,David Mackenzie,"Jamie Bell, Ruth Milne, John Paul Lawler","Drama, Mystery, Romance",6.9
+284,Snow Angels,2007,107.0,David Gordon Green,"Kate Beckinsale, Sam Rockwell, Michael Angarano","Crime, Drama, Romance",6.8
+285,Super High Me,2007,89.0,Michael Blieden,"Brian Unger, Gary Cohan, Robert Gore","Documentary, Comedy",6.0
+286,Outlaw,2007,103.0,Nick Love,"Sean Bean, Danny Dyer, Rupert Friend","Action, Crime, Drama",5.7
+287,Rise: Blood Hunter,2007,97.0,Sebastian Gutierrez,"Lucy Liu, Michael Chiklis, Carla Gugino","Action, Crime, Horror",4.9
+288,Hunting and Gathering,2007,97.0,Claude Berri,"Audrey Tautou, Guillaume Canet, Laurent Stocker","Drama, Romance",6.7
+289,Murder Party,2007,79.0,Jeremy Saulnier,"Chris Sharp, Kate Porterfield, Tess Porterfield Lovell","Comedy, Horror",5.8
+290,December Boys,2007,105.0,Rod Hardy,"Daniel Radcliffe, Teresa Palmer, Lee Cormie","Drama, Romance",6.5
+291,The Flock,2007,96.0,Wai Keung Lau,"Richard Gere, Claire Danes, KaDee Strickland","Crime, Drama, Mystery",5.7
+292,Cargo 200,2007,89.0,Aleksey Balabanov,"Agniya Kuznetsova, Aleksey Poluyan, Leonid Gromov","Crime, Drama, Thriller",7.1
+293,Bheja Fry,2007,95.0,Sagar Ballary,"Vinay Pathak, Rajat Kapoor, Sarika Thakur","Comedy, Drama",7.6
+294,Code Name: The Cleaner,2007,84.0,Les Mayfield,"Cedric The Entertainer, Lucy Liu, Nicollette Sheridan","Action, Comedy, Crime",4.6
+295,Battle for Terra,2007,85.0,Aristomenis Tsirbas,"Evan Rachel Wood, Luke Wilson, Justin Long","Animation, Action, Adventure",6.5
+296,Savage Grace,2007,97.0,Tom Kalin,"Julianne Moore, Eddie Redmayne, Stephen Dillane",Drama,5.7
+297,Goodbye Bafana,2007,118.0,Bille August,"Joseph Fiennes, Dennis Haysbert, Diane Kruger","Biography, Drama, History",7.1
+298,The Comebacks,2007,84.0,Tom Brady,"David Koechner, Robert Ri'chard, Carl Weathers","Comedy, Sport",4.3
+299,Towelhead,2007,124.0,Alan Ball,"Summer Bishil, Aaron Eckhart, Peter Macdissi",Drama,6.9
+300,Silk,2007,107.0,François Girard,"Michael Pitt, Keira Knightley, Kôji Yakusho","Drama, Romance",5.8
+301,Chapter 27,2007,84.0,J.P. Schaefer,"Jared Leto, Lindsay Lohan, Judah Friedlander","Biography, Crime, Drama",5.6
+302,Sex and Death 101,2007,117.0,Daniel Waters,"Robert Wisdom, Tanc Sade, Patton Oswalt","Comedy, Drama, Fantasy",5.9
+303,Shotgun Stories,2007,92.0,Jeff Nichols,"Michael Shannon, Douglas Ligon, Barlow Jacobs","Drama, Thriller",7.1
+304,Bordertown,2007,112.0,Gregory Nava,"Jennifer Lopez, Antonio Banderas, Maya Zapata","Crime, Mystery, Thriller",6.0
+305,The Brothers Solomon,2007,93.0,Bob Odenkirk,"Will Arnett, Will Forte, Jenna Fischer",Comedy,5.3
+306,Delta Farce,2007,90.0,C.B. Harding,"Larry the Cable Guy, Bill Engvall, DJ Qualls","Action, Adventure, Comedy",3.7
+307,Mother of Tears,2007,102.0,Dario Argento,"Asia Argento, Cristian Solimeno, Adam James","Drama, Horror, Thriller",5.0
+308,Redacted,2007,90.0,Brian De Palma,"Patrick Carroll, Rob Devaney, Izzy Diaz","Crime, Thriller, War",6.1
+309,Ex Drummer,2007,100.0,Koen Mortier,"Dries Vanhegen, Norman Baert, Gunter Lamoot","Comedy, Crime, Drama",6.9
+310,Shootout at Lokhandwala,2007,122.0,Apoorva Lakhia,"Amitabh Bachchan, Sanjay Dutt, Suniel Shetty","Action, Crime, Drama",7.1
+311,Borderland,2007,105.0,Zev Berman,"Brian Presley, Jake Muxworthy, Rider Strong","Crime, Horror, Thriller",5.6
+312,This Christmas,2007,117.0,Preston A. Whitmore II,"Regina King, Columbus Short, Delroy Lindo","Comedy, Drama, Romance",6.4
+313,Death Defying Acts,2007,97.0,Gillian Armstrong,"Catherine Zeta-Jones, Guy Pearce, Timothy Spall","Drama, History, Romance",5.8
+314,The Trap,2007,106.0,Srdan Golubovic,"Nebojsa Glogovac, Natasa Ninkovic, Anica Dobra","Crime, Drama, Thriller",7.9
+315,Until Death,2007,101.0,Simon Fellows,"Jean-Claude Van Damme, Stephen Rea, Selina Giles","Crime, Drama, Thriller",5.7
+316,Sacred Demijohn,2007,105.0,"Kamil Aydin, Ahmet Yilmaz","Safak Sezer, Eysan Özhim, Ersin Korkut","Comedy, Fantasy, Horror",5.1
+317,Stuck,2007,85.0,Stuart Gordon,"Mena Suvari, Stephen Rea, Russell Hornsby","Comedy, Crime, Drama",6.5
+318,Then She Found Me,2007,100.0,Helen Hunt,"Helen Hunt, Colin Firth, Bette Midler","Comedy, Drama, Romance",5.9
+319,Love Songs,2007,91.0,Christophe Honoré,"Ludivine Sagnier, Louis Garrel, Clotilde Hesme","Drama, Musical, Romance",7.0
+320,Talk to Me,2007,118.0,Kasi Lemmons,"Don Cheadle, Chiwetel Ejiofor, Bruce McFee","Biography, Drama, History",7.3
+321,Whisper,2007,94.0,Stewart Hendler,"Jennifer Shirley, Blake Woodruff, Michael Rooker","Crime, Drama, Horror",5.7
+322,Deportees,2007,107.0,Masoud Dehnamaki,"Kambiz Dirbaz, Arzhang Amirfazli, Akbar Abdi","Action, Comedy, Drama",5.0
+323,Secret Sunshine,2007,142.0,Lee Chang-dong,"Jeon Do-yeon, Song Kang-ho, Lee Dong-yong",Drama,7.5
+324,Appleseed: Ex Machina,2007,105.0,Shinji Aramaki,"Ai Kobayashi, Kôichi Yamadera, Yûji Kishi","Animation, Action, Adventure",7.0
+325,Married Life,2007,91.0,Ira Sachs,"Chris Cooper, Patricia Clarkson, Rachel McAdams","Biography, Crime, Drama",6.2
+326,Anamorph,2007,103.0,Henry Miller,"Willem Dafoe, Scott Speedman, Don Harvey","Crime, Horror, Thriller",5.5
+327,Grace Is Gone,2007,85.0,Jim Strouse,"John Cusack, Emily Churchill, Rebecca Spence","Drama, War",6.7
+328,Flight of the Living Dead,2007,89.0,Scott Thomas,"David Chisum, Kristen Kerr, Kevin J. O'Connor",Horror,5.1
+329,No Smoking,2007,128.0,Anurag Kashyap,"John Abraham, Ayesha Takia, Paresh Rawal","Drama, Horror, Mystery",7.3
+330,The Music Man,2007,107.0,Dariush Mehrjui,"Bahram Radan, Golshifteh Farahani, Masoud Rayegan","Drama, Musical, Romance",7.5
+331,In the Name of God,2007,168.0,Shoaib Mansoor,"Shaan Shahid, Fawad Khan, Iman Ali",Drama,8.3
+332,Catacombs,2007,100.0,"Tomm Coker, David Elliot","Shannyn Sossamon, P!nk, Emil Hostina","Horror, Thriller",4.5
+333,Secret,2007,101.0,Jay Chou,"Jay Chou, Lun-Mei Gwei, Anthony Chau-Sang Wong","Drama, Music, Romance",7.5
+334,Virgin Territory,2007,97.0,David Leland,"Hayden Christensen, Mischa Barton, Ryan Cartwright","Adventure, Comedy, Romance",4.7
+335,The Killing Gene,2007,104.0,Tom Shankland,"Barbara Adair, Peter Ballance, Selma Blair","Crime, Drama, Horror",5.7
+336,The Banishment,2007,157.0,Andrey Zvyagintsev,"Konstantin Lavronenko, Maria Bonnevie, Aleksandr Baluev","Drama, Romance",7.5
+337,Estômago,2007,113.0,Marcos Jorge,"João Miguel, Fabiula Nascimento, Babu Santana","Comedy, Crime, Drama",7.8
+338,Boogeyman 2,2007,93.0,Jeff Betancourt,"Danielle Savre, Matt Cohen, Chrissy Calhoun","Horror, Thriller",5.0
+339,Crows Zero,2007,130.0,Takashi Miike,"Shun Oguri, Kyôsuke Yabe, Meisa Kuroki","Action, Comedy, Crime",7.0
+340,Redline,2007,95.0,Andy Cheng,"Nathan Phillips, Nadia Bjorlin, Eddie Griffin",Action,4.0
+341,Manorama: Six Feet Under,2007,137.0,Navdeep Singh,"Abhay Deol, Gul Panag, Raima Sen","Crime, Drama, Mystery",7.5
+342,Numb,2007,93.0,Harris Goldberg,"Matthew Perry, Lynn Collins, Kevin Pollak","Comedy, Drama, Romance",6.5
+343,Prey,2007,92.0,Darrell Roodt,"Bridget Moynahan, Peter Weller, Carly Schroeder","Adventure, Drama, Horror",4.7
+344,The Good Night,2007,93.0,Jake Paltrow,"Martin Freeman, Gwyneth Paltrow, Penélope Cruz","Comedy, Drama, Fantasy",5.7
+345,After Sex,2007,77.0,Eric Amadio,"Marc Blucas, Jose Pablo Cantillo, Emmanuelle Chriqui","Comedy, Drama, Romance",5.4
+346,No End in Sight,2007,102.0,Charles Ferguson,"Campbell Scott, Gerald Burke, Ali Fadhil","Documentary, War",8.2
+347,Awarapan,2007,126.0,Mohit Suri,"Emraan Hashmi, Mrinalini Sharma, Ashish Vidyarthi","Action, Crime, Drama",7.4
+348,Saawariya,2007,142.0,Sanjay Leela Bhansali,"Ranbir Kapoor, Sonam Kapoor, Salman Khan","Drama, Musical, Romance",5.2
+349,Daddy's Little Girls,2007,100.0,Tyler Perry,"Gabrielle Union, Idris Elba, Tracee Ellis Ross","Drama, Romance",5.9
+350,Mister Lonely,2007,112.0,Harmony Korine,"Diego Luna, Samantha Morton, Denis Lavant","Comedy, Drama",6.4
+351,Dhol,2007,145.0,"Priyadarshan, Aman Ullah","Sharman Joshi, Tusshar Kapoor, Kunal Kemmu","Comedy, Crime, Mystery",6.6
+352,Billa,2007,130.0,Vishnuvardhan,"Ajith Kumar, Nayanthara, Rahman","Action, Thriller",7.3
+353,In Search of a Midnight Kiss,2007,90.0,Alex Holdridge,"Scoot McNairy, Sara Simmonds, Brian McGuire","Comedy, Romance",7.2
+354,Sigur Rós: Heima,2007,97.0,Dean DeBlois,"Amiina, Hildur Arsaelsdottir, Jon Thor Birgisson","Documentary, Music",8.4
+355,Mad Detective,2007,89.0,"Johnnie To, Ka-Fai Wai","Ching-Wan Lau, Andy On, Ka-Tung Lam","Crime, Mystery, Thriller",7.1
+356,Helvetica,2007,80.0,Gary Hustwit,"Manfred Schulz, Massimo Vignelli, Rick Poynor",Documentary,7.2
+357,Love Is All,2007,110.0,Joram Lürsen,"Michiel Romeyn, Thomas Acda, Anneke Blok","Comedy, Romance",7.0
+358,The Secret of the Grain,2007,151.0,Abdellatif Kechiche,"Habib Boufares, Hafsia Herzi, Farida Benkhetache",Drama,7.4
+359,California Dreamin',2007,155.0,Cristian Nemescu,"Armand Assante, Jamie Elman, Razvan Vasilescu","Comedy, Drama, War",7.7
+360,Babysitter Wanted,2007,93.0,"Jonas Barnes, Michael Manasseri","Tina Houtz, Sarah Thompson, Nana Visitor","Horror, Thriller",5.4
+361,Storm Warning,2007,86.0,Jamie Blanks,"Nadia Farès, Robert Taylor, David Lyons","Horror, Thriller",5.8
+362,Irina Palm,2007,103.0,Sam Garbarski,"Marianne Faithfull, Predrag 'Miki' Manojlovic, Kevin Bishop","Comedy, Drama",7.2
+363,Vexille,2007,109.0,Fumihiko Sori,"Meisa Kuroki, Shôsuke Tanihara, Yasuko Matsuyuki","Animation, Action, Sci-Fi",6.7
+364,Bliss,2007,123.0,Abdullah Oguz,"Talat Bulut, Özgü Namal, Murat Han",Drama,7.5
+365,Watching the Detectives,2007,91.0,Paul Soter,"Cillian Murphy, Lucy Liu, Jason Sudeikis","Comedy, Romance",6.2
+366,The Union: The Business Behind Getting High,2007,104.0,Brett Harvey,"Adam Scorgie, Chris Bennett, Steve Bloom",Documentary,8.2
+367,Suburban Girl,2007,97.0,Marc Klein,"Sarah Michelle Gellar, Alec Baldwin, Maggie Grace","Comedy, Drama, Romance",5.4
+368,I Want Candy,2007,87.0,Stephen Surjik,"Tom Riley, Tom Burke, Carmen Electra",Comedy,5.3
+369,The Tracey Fragments,2007,77.0,Bruce McDonald,"Elliot Page, Zie Souwand, Maxwell McCabe-Lokos",Drama,6.0
+370,Under the Same Moon,2007,106.0,Patricia Riggen,"Eugenio Derbez, Kate del Castillo, Adrian Alonso","Adventure, Drama",7.3
+371,The Minis,2007,76.0,Valerio Zanoli,"Dennis Rodman, Gabriel Pimentel, Joe Gnoffo","Comedy, Family, Sport",2.7
+372,Closure,2007,80.0,Dan Reed,"Danny Dyer, Gillian Anderson, Adam Rayner","Crime, Drama, Horror",5.5
+373,Battle for Haditha,2007,97.0,Nick Broomfield,"Matthew Knoll, Elliot Ruiz, Eric Mehalacopoulos","Drama, History, War",6.9
+374,Beyaz Melek,2007,115.0,Mahsun Kirmizigül,"Aziz Acar, Cansu Aktay, Sarp Apak",Drama,6.5
+375,The Cake Eaters,2007,86.0,Mary Stuart Masterson,"Elizabeth Ashley, Jayce Bartok, Bruce Dern","Comedy, Drama, Romance",6.3
+376,Kickin' It Old Skool,2007,107.0,Harvey Glazer,"Jamie Kennedy, Maria Menounos, Miguel A. Núñez Jr.","Comedy, Sport",4.6
+377,Assembly,2007,124.0,Xiaogang Feng,"Hanyu Zhang, Chao Deng, Wenkang Yuan","Action, Biography, Drama",7.3
+378,Flood,2007,110.0,Tony Mitchell,"Robert Carlyle, Jessalyn Gilsig, Tom Courtenay","Action, Drama, Thriller",4.8
+379,Broken English,2007,93.0,Zoe R. Cassavetes,"Parker Posey, Melvil Poupaud, Gena Rowlands","Comedy, Drama, Romance",6.3
+380,Dedication,2007,95.0,Justin Theroux,"Billy Crudup, Mandy Moore, Tom Wilkinson","Comedy, Drama, Romance",6.6
+381,The Pixar Story,2007,87.0,Leslie Iwerks,"Stacy Keach, John Lasseter, Brad Bird",Documentary,7.7
+382,Ram Gopal Varma Ki Aag,2007,171.0,Ram Gopal Varma,"Amitabh Bachchan, Mohanlal, Ajay Devgn","Action, Adventure, Comedy",1.4
+383,Yes Sir,2007,100.0,Taner Akvardar,"Mehmet Ali Erbil, Sarp Levendoglu, Seda Akman","Action, Comedy",1.5
+384,Pride,2007,104.0,Sunu Gonera,"Terrence Howard, Bernie Mac, Kimberly Elise","Drama, Sport",6.3
+385,In the Shadow of the Moon,2007,100.0,David Sington,"Buzz Aldrin, Alan Bean, Eugene Cernan","Documentary, History",8.0
+386,Silent Light,2007,136.0,Carlos Reygadas,"Cornelio Wall, Miriam Toews, Maria Pankratz","Drama, Romance",7.2
+387,Promise Me This,2007,123.0,Emir Kusturica,"Uros Milovanovic, Marija Petronijevic, Aleksandar Bercek","Comedy, Romance",6.9
+388,The Last Ottoman: Knockout Ali,2007,126.0,Mustafa Sevki Dogan,"Kenan Imirzalioglu, Cansu Dere, Engin Senkan","Action, Comedy, Drama",6.9
+389,Eden Log,2007,98.0,Franck Vestiel,"Clovis Cornillac, Vimala Pons, Zohar Wexler","Drama, Horror, Mystery",5.2
+390,Mio fratello è figlio unico,2007,108.0,Daniele Luchetti,"Elio Germano, Riccardo Scamarcio, Angela Finocchiaro","Comedy, Crime, Drama",7.0
+391,How She Move,2007,94.0,Ian Iqbal Rashid,"Rutina Wesley, Tre Armstrong, Brennan Gademans",Drama,3.6
+392,Jack Brooks: Monster Slayer,2007,85.0,Jon Knautz,"Robert Englund, Trevor Matthews, Daniel Kash","Action, Comedy, Horror",5.9
+393,Botched,2007,95.0,Kit Ryan,"David Heap, Alan Smyth, Stephen Dorff","Comedy, Horror, Thriller",5.6
+394,Year of the Dog,2007,97.0,Mike White,"Molly Shannon, John C. Reilly, Peter Sarsgaard","Comedy, Drama",6.0
+395,Molière,2007,120.0,Laurent Tirard,"Romain Duris, Fabrice Luchini, Laura Morante","Biography, Comedy",7.1
+396,Hounddog,2007,98.0,Deborah Kampmeier,"Dakota Fanning, David Morse, Piper Laurie","Drama, Music",6.2
+397,Timber Falls,2007,100.0,Tony Giglio,"Josh Randall, Brianna Brown, Nick Searcy","Horror, Thriller",5.2
+398,Import Export,2007,141.0,Ulrich Seidl,"Ekateryna Rak, Lidiya Oleksandrivna Savka, Oksana Ivanivna Sklyarenko",Drama,7.0
+399,Happy Days,2007,153.0,Sekhar Kammula,"Varun Sandesh, Tamannaah Bhatia, Rahul Haridas",Drama,7.9
+400,Firehouse Dog,2007,111.0,Todd Holland,"Josh Hutcherson, Bruce Greenwood, Bree Turner","Action, Comedy, Family",5.5
+401,It's a Free World...,2007,96.0,Ken Loach,"Kierston Wareing, Juliet Ellis, Leslaw Zurek",Drama,7.0
+402,The Other End of the Line,2007,106.0,James Dodson,"Jesse Metcalfe, Sara Foster, Anupam Kher","Comedy, Drama, Family",6.1
+403,The Hammer,2007,88.0,Charles Herman-Wurmfeld,"Adam Carolla, Oswaldo Castillo, Heather Juergensen","Comedy, Romance, Sport",7.1
+404,Police,2007,113.0,Onur Ünlü,"Haluk Bilginer, Özgü Namal, Ragip Savas","Action, Comedy, Crime",6.6
+405,Elvis and Anabelle,2007,106.0,Will Geiger,"Max Minghella, Blake Lively, Joe Mantegna","Drama, Romance",7.1
+406,Blonde Ambition,2007,93.0,Scott Marshall,"Jessica Simpson, Luke Wilson, Rachael Leigh Cook","Comedy, Romance",3.9
+407,Nobel Son,2007,110.0,Randall Miller,"Alan Rickman, Bryan Greenberg, Shawn Hatosy","Comedy, Crime, Drama",6.1
+408,How to Rob a Bank (and 10 Tips to Actually Get Away with It),2007,81.0,Andrews Jenkins,"Nick Stahl, Erika Christensen, Gavin Rossdale","Comedy, Crime, Mystery",5.9
+409,Mama's Boy,2007,93.0,Tim Hamilton,"Diane Keaton, Jon Heder, Jeff Daniels","Comedy, Drama",5.2
+410,Music Within,2007,94.0,Steven Sawalich,"Ron Livingston, Melissa George, Michael Sheen","Biography, Comedy, Drama",7.2
+411,The Grand,2007,104.0,Zak Penn,"Woody Harrelson, David Cross, Dennis Farina",Comedy,5.9
+412,Brooklyn Rules,2007,99.0,Michael Corrente,"Paulo Araujo, Daniel Tay, Ty Thomas Reed","Crime, Drama",6.3
+413,The 11th Hour,2007,95.0,"Leila Conners, Nadia Conners","Leonardo DiCaprio, Kenny Ausubel, Thom Hartmann",Documentary,7.2
+414,The Walker,2007,108.0,Paul Schrader,"Woody Harrelson, Kristin Scott Thomas, Lauren Bacall","Crime, Drama, Mystery",5.8
+415,Alone,2007,105.0,"Banjong Pisanthanakun, Parkpoom Wongpoom","Marsha Wattanapanich, Vittaya Wasukraipaisan, Rachanu Boonchuduang","Drama, Horror, Thriller",6.4
+416,Ta Ra Rum Pum,2007,153.0,Siddharth Anand,"Saif Ali Khan, Rani Mukerji, Jaaved Jaaferi","Comedy, Drama, Family",5.8
+417,Magicians,2007,90.0,Andrew O'Connor,"Robert Webb, David Mitchell, Sarah Hadland",Comedy,6.0
+418,Salaam-E-Ishq,2007,216.0,Nikkhil Advani,"Salman Khan, Priyanka Chopra Jonas, Anil Kapoor","Comedy, Drama, Musical",5.2
+419,Protégé,2007,106.0,Derek Tung-Sing Yee,"Andy Lau, Daniel Wu, Louis Koo","Crime, Drama, Thriller",7.2
+420,Egg,2007,97.0,Semih Kaplanoglu,"Nejat Isler, Saadet Aksoy, Ufuk Bayraktar",Drama,6.5
+421,My Winnipeg,2007,80.0,Guy Maddin,"Darcy Fehr, Ann Savage, Louis Negin","Comedy, Drama, Fantasy",7.5
+422,Cheeni Kum,2007,140.0,R Balki,"Amitabh Bachchan, Tabu, Paresh Rawal","Comedy, Drama, Romance",6.8
+423,The Zone,2007,97.0,Rodrigo Plá,"Daniel Giménez Cacho, Daniel Tovar, Alan Chávez","Drama, Thriller",7.0
+424,The Masked Gang: Iraq,2007,104.0,Murat Aslan,"Safak Sezer, Peker Açikalin, Cengiz Küçükayvaz",Comedy,3.9
+425,Angel,2007,134.0,François Ozon,"Romola Garai, Sam Neill, Lucy Russell","Drama, Romance",5.8
+426,Ek Chalis Ki Last Local,2007,143.0,Sanjay M. Khanduri,"Abhay Deol, Neha Dhupia, Amit Mistry","Adventure, Comedy, Crime",7.3
+427,To Each His Own Cinema,2007,100.0,"Theodoros Angelopoulos, Olivier Assayas, Bille August","Isabelle Adjani, Pegah Ahangarani, Anouk Aimée","Comedy, Drama",6.7
+428,The Vexxer,2007,98.0,"Cyrill Boss, Philipp Stennert","Oliver Kalkofe, Bastian Pastewka, Joachim Fuchsberger","Comedy, Crime, Mystery",6.2
+429,Dhee,2007,142.0,Sreenu Vaitla,"Vishnu Manchu, Genelia Deshmukh, Srihari","Action, Comedy",7.2
+430,Shanghai Kiss,2007,106.0,"Kern Konwiser, David Ren","Ken Leung, Hayden Panettiere, Kelly Hu","Comedy, Drama, Romance",6.6
+431,The Education of Charlie Banks,2007,100.0,Fred Durst,"Jesse Eisenberg, Jason Ritter, Eva Amurri",Drama,6.5
+432,End of the Line,2007,95.0,Maurice Devereaux,"Ilona Elkin, Nicolas Wright, Neil Napier","Horror, Thriller",5.8
+433,The Go-Getter,2007,93.0,Martin Hynes,"Lou Taylor Pucci, Zooey Deschanel, M. Ward","Comedy, Drama",6.4
+434,Naruto Shippûden: The Movie,2007,94.0,Hajime Kamegaki,"Junko Takeuchi, Chie Nakamura, Yôichi Masukawa","Animation, Action, Adventure",6.7
+435,Live!,2007,96.0,Bill Guttentag,"Eva Mendes, David Krumholtz, Rob Brown",Drama,5.8
+436,Breath,2007,84.0,Kim Ki-duk,"Chang Chen, Kang In-hyung, Park Ji-ah",Drama,6.9
+437,Vratné lahve,2007,104.0,Jan Sverák,"Zdenek Sverák, Daniela Kolárová, Pavel Landovský","Comedy, Drama",7.2
+438,Saturn in Opposition,2007,106.0,Ferzan Özpetek,"Stefano Accorsi, Margherita Buy, Pierfrancesco Favino","Drama, Romance",6.7
+439,Hansel and Gretel,2007,117.0,Pil-sung Yim,"Cheon Jeong-myeong, Eun Won-jae, Shim Eun-kyung","Drama, Fantasy, Horror",6.7
+440,When Nietzsche Wept,2007,105.0,Pinchas Perry,"Ben Cross, Armand Assante, Joanna Pacula",Drama,6.4
+441,El Greco,2007,119.0,Yannis Smaragdis,"Nick Clark Windo, Juan Diego Botto, Laia Marull","Biography, Drama",6.5
+442,Just Another Love Story,2007,100.0,Ole Bornedal,"Anders W. Berthelsen, Rebecka Hemse, Nikolaj Lie Kaas","Crime, Drama, Thriller",7.1
+443,Closing the Ring,2007,118.0,Richard Attenborough,"Shirley MacLaine, Christopher Plummer, Dylan Roberts","Drama, Romance",6.5
+444,Christmas Story,2007,83.0,Juha Wuolijoki,"Hannu-Pekka Björkman, Otto Gustavsson, Jonas Rinne","Drama, Family, Fantasy",7.1
+445,Strawberry Melancholy,2007,112.0,Cameron Beyl,"Kerem Bürsin, Kyle F. Andrews, Dave Fink",Comedy,8.4
+446,Thief of Yama,2007,185.0,S.S. Rajamouli,"N.T. Rama Rao Jr., Mohan Babu, Priyamani","Action, Comedy, Fantasy",7.2
+447,Slipstream,2007,96.0,Anthony Hopkins,"Anthony Hopkins, Stella Hopkins, Christian Slater","Comedy, Drama, Fantasy",4.8
+448,Beaufort,2007,131.0,Joseph Cedar,"Oshri Cohen, Itay Tiran, Eli Eltonyo","Action, Drama, War",6.7
+449,Drive Thru,2007,83.0,"Brendan Cowles, Shane Kuhn","Leighton Meester, Nicholas D'Agosto, Melora Hardin","Comedy, Horror",4.5
+450,Can't Complain,2007,113.0,Ahmad Nader Galal,"Ahmed Helmy, Menna Shalabi, Khaled El-Sawi","Comedy, Drama, Mystery",7.5
+451,Chaotic Ana,2007,118.0,Julio Medem,"Manuela Vellés, Charlotte Rampling, Bebe","Drama, Mystery, Romance",6.3
+452,The World Unseen,2007,93.0,Shamim Sarif,"Lisa Ray, Sheetal Sheth, Parvin Dabas","Drama, Romance",6.6
+453,Fly Me to the Moon 3D,2007,84.0,"Ben Stassen, Mimi Maynard","Trevor Gagnon, Philip Bolden, David Gore","Animation, Adventure, Family",4.5
+454,Leningrad,2009,110.0,Aleksandr Buravskiy,"Mira Sorvino, Armin Mueller-Stahl, Olga Sutulova","Drama, War",6.0
+455,Feel the Noise,2007,86.0,Alejandro Chomski,"Omarion, Giancarlo Esposito, Melonie Diaz","Drama, Music",3.0
+456,Chop Shop,2007,84.0,Ramin Bahrani,"Alejandro Polanco, Isamar Gonzales, Rob Sowulski",Drama,7.2
+457,The Aerial,2007,99.0,Esteban Sapir,"Alejandro Urdapilleta, Valeria Bertuccelli, Julieta Cardinali","Drama, Fantasy, Sci-Fi",7.3
+458,When Did You Last See Your Father?,2007,92.0,Anand Tucker,"Jim Broadbent, Colin Firth, Juliet Stevenson","Biography, Drama",6.8
+459,Free Rainer,2007,130.0,Hans Weingartner,"Moritz Bleibtreu, Elsa Sophie Gambard, Milan Peschel","Comedy, Drama",6.7
+460,The Fourth Man,2007,107.0,Dejan Zecevic,"Nikola Kojo, Dragan Petrovic-Pele, Bogdan Diklic","Action, Adventure, Mystery",7.2
+461,The Man from London,2007,139.0,"Béla Tarr, Ágnes Hranitzky","Miroslav Krobot, Tilda Swinton, Erika Bók","Crime, Drama, Mystery",7.0
+462,My Führer,2007,89.0,Dani Levy,"Helge Schneider, Ulrich Mühe, Sylvester Groth","Comedy, Drama, War",5.5
+463,Kabluey,2007,86.0,Scott Prendergast,"Scott Prendergast, Lisa Kudrow, Teri Garr",Comedy,6.5
+464,Noise,2007,92.0,Henry Bean,"Tim Robbins, William Hurt, Bridget Moynahan","Comedy, Crime, Drama",6.1
+465,Lissi und der wilde Kaiser,2007,85.0,Michael Herbig,"Lotte Ledl, Waldemar Kobus, Christian Tramitz","Animation, Adventure, Comedy",5.1
+466,The Baker,2007,86.0,Gareth Lewis,"Damian Lewis, Kate Ashfield, Nikolaj Coster-Waldau","Comedy, Thriller",6.3
+467,For the Bible Tells Me So,2007,95.0,Daniel G. Karslake,"Imogene Robinson, Victor Robinson, Gene Robinson","Documentary, Romance",7.8
+468,The Fox and the Child,2007,92.0,Luc Jacquet,"Bertille Noël-Bruneau, Isabelle Carré, Thomas Laliberté","Drama, Family",6.8
+469,Musallat,2007,95.0,Alper Mestçi,"Ecem Cansu Aktay, Ibrahim Can, Sedat Kalkavan","Crime, Fantasy, Horror",5.9
+470,Weirdsville,2007,90.0,Allan Moyle,"Scott Speedman, Wes Bentley, Taryn Manning","Comedy, Crime, Drama",6.2
+471,Yella,2007,89.0,Christian Petzold,"Nina Hoss, Devid Striesow, Hinnerk Schönemann","Drama, Horror, Romance",6.7
+472,Gracie,2007,95.0,Davis Guggenheim,"Carly Schroeder, Andrew Shue, Elisabeth Shue","Biography, Drama, Sport",6.1
+473,Treasure Raiders,2007,92.0,Brent Huff,"Alexander Nevsky, Steven Brand, David Carradine","Action, Crime",2.7
+474,"Romulus, My Father",2007,104.0,Richard Roxburgh,"Eric Bana, Franka Potente, Marton Csokas","Biography, Drama",6.6
+475,Love of Siam,2007,178.0,Chookiat Sakveerakul,"Sinjai Plengpanich, Songsit Roongnophakunsri, Pimpan Buranapim","Drama, Mystery, Romance",7.7
+476,Big B,2007,130.0,Amal Neerad,"Mammootty, Manoj K. Jayan, Bala","Action, Crime, Thriller",7.7
+477,Pokémon: The Rise of Darkrai,2007,90.0,Kunihiko Yuyama,"Rica Matsumoto, Ikue Ôtani, Yûji Ueda","Animation, Action, Adventure",6.4
+478,Rails & Ties,2007,101.0,Alison Eastwood,"Kevin Bacon, Marcia Gay Harden, Miles Heizer",Drama,6.7
+479,The Girl in the Park,2007,110.0,David Auburn,"Sigourney Weaver, Kate Bosworth, Alessandro Nivola",Drama,6.3
+480,Joe Strummer: The Future Is Unwritten,2007,124.0,Julien Temple,"Joe Strummer, Steve Jones, Mick Jones","Documentary, Biography, Music",7.5
+481,Boarding Gate,2007,106.0,Olivier Assayas,"Asia Argento, Michael Madsen, Kelly Lin","Drama, Thriller",5.1
+482,Paruthiveeran,2007,162.0,Ameer Sultan,"Karthi, Priyamani, Saravanan","Drama, Romance",8.2
+483,Kill Buljo: The Movie,2007,93.0,Tommy Wirkola,"Stig Frode Henriksen, Tommy Wirkola, Linda Øverlie Nilsen","Action, Adventure, Comedy",5.7
+484,El-Gezirah,2007,143.0,Sherif Arafa,"Mahmoud Yassine, Ahmed El Sakka, Hind Sabri","Action, Biography, Drama",7.8
+485,Election Day,2007,122.0,Oleg Fomin,"Leonid Barats, Rostislav Khait, Aleksandr Demidov",Comedy,7.4
+486,Flight of the Red Balloon,2007,115.0,Hsiao-Hsien Hou,"Juliette Binoche, Hippolyte Girardot, Simon Iteanu","Drama, Family",6.5
+487,Azhagiya Tamilmagan,2007,171.0,Bharathan,"Joseph Vijay, Shriya Saran, Namitha","Action, Drama, Thriller",5.1
+488,Remember the Daze,2007,101.0,Jess Bond,"Katrina Begin, Charles Chen, Melonie Diaz","Comedy, Drama",5.6
+489,Young@Heart,2007,107.0,"Stephen Walker, Sally George","Joe Benoit, Helen Boston, Louise Canady","Documentary, Music",7.9
+490,Big Man Japan,2007,113.0,Hitoshi Matsumoto,"Hitoshi Matsumoto, Riki Takeuchi, Ua","Action, Comedy, Sci-Fi",6.2
+491,The Secret,2007,93.0,Vincent Perez,"David Duchovny, Lili Taylor, Olivia Thirlby","Drama, Romance",6.2
+492,O'Horten,2007,90.0,Bent Hamer,"Baard Owe, Espen Skjønberg, Ghita Nørby","Comedy, Drama",6.7
+493,Tooth and Nail,2007,94.0,Mark Young,"Michael Madsen, Vinnie Jones, Rachel Miner","Drama, Horror, Thriller",4.7
+494,The Class,2007,100.0,Faruk Aksoy,"Alp Kirsan, Yagmur Atacan, Tuba Ünsal",Comedy,1.9
+495,The Irony of Fate 2,2007,115.0,Timur Bekmambetov,"Konstantin Khabensky, Elizaveta Boyarskaya, Sergey Bezrukov","Comedy, Romance",4.9
+496,Joy Division,2007,93.0,Grant Gee,"Richard Boon, Anton Corbijn, Kevin Cummins","Documentary, Music",7.7
+497,The Girl by the Lake,2007,95.0,Andrea Molaioli,"Toni Servillo, Denis Fasolo, Nello Mascia","Drama, Mystery, Thriller",6.5
+498,Spiral,2007,90.0,"Adam Green, Joel David Moore","Joel David Moore, Amber Tamblyn, Zachary Levi","Drama, Thriller",6.3
+499,Counter Investigation,2007,85.0,Franck Mancuso,"Jean Dujardin, Laurent Lucas, Agnès Blanchot","Crime, Thriller",6.7
+500,Moving McAllister,2007,89.0,Andrew Black,"Benjamin Gourley, Mila Kunis, Jon Heder","Adventure, Comedy, Romance",5.2
+501,Sky of Love,2007,120.0,Natsuki Imai,"Yui Aragaki, Haruma Miura, Yûko Asano","Drama, Romance",6.8
+502,The Last Mistress,2007,109.0,Catherine Breillat,"Asia Argento, Fu'ad Aït Aattou, Roxane Mesquida","Drama, Romance",6.2
+503,High Stitches,2007,93.0,Matthew Leutwyler,"Emmanuelle Vaugier, Luke Goss, Beau Garrett","Horror, Mystery, Sci-Fi",4.0
+504,Lake Dead,2007,90.0,George Bessudo,"Tara Gerard, Vanessa Viola, Kelsey Wedeen","Horror, Thriller",4.1
+505,Dialogue avec mon jardinier,2007,109.0,Jean Becker,"Daniel Auteuil, Jean-Pierre Darroussin, Fanny Cottençon","Comedy, Drama",7.1
+506,A Girl Cut in Two,2007,115.0,Claude Chabrol,"Ludivine Sagnier, Benoît Magimel, François Berléand","Drama, Thriller",6.2
+507,Shake Hands with the Devil,2007,112.0,"Jennifer Capraru, Roger Spottiswoode","Roy Dupuis, Owen Sejake, James Gallanders","Drama, History, War",7.6
+508,A Dog's Breakfast,2007,88.0,David Hewlett,"David Hewlett, Mars the Dog, Kate Hewlett","Comedy, Drama, Horror",6.6
+509,Bleach the Movie: The DiamondDust Rebellion,2007,92.0,Noriyuki Abe,"Masakazu Morita, Fumiko Orikasa, Hiroki Yasumoto","Animation, Action, Thriller",7.0
+510,Mermaid,2007,115.0,Anna Melikyan,"Mariya Shalayeva, Evgeniy Tsyganov, Mariya Sokova","Comedy, Drama, Fantasy",7.2
+511,Exhibit A,2007,85.0,Dom Rotheroe,"Bradley Cole, Brittany Ashworth, Angela Forrest","Crime, Drama, Horror",6.1
+512,Wahed men el nas,2007,109.0,Ahmad Nader Galal,"Karim Abdel Aziz, Menna Shalabi, Ezzat Abu Ouf","Crime, Drama",7.2
+513,Dark Matter,2007,88.0,Shi-Zheng Chen,"Ye Liu, Aidan Quinn, Meryl Streep",Drama,6.0
+514,Daruchini Dwip,2007,128.0,Tauquir Ahmed,"Riaz, Zakia Bari Momo, Mosharraf Karim","Comedy, Drama, Romance",7.9
+515,Aaja Nachle,2007,137.0,Anil Mehta,"Madhuri Dixit, Darshan Jariwala, Raghubir Yadav","Drama, Family, Music",6.2
+516,Apne,2007,173.0,Anil Sharma,"Dharmendra, Sunny Deol, Bobby Deol","Action, Drama, Sport",6.1
+517,Sweetzer,2007,105.0,Wayne Reynolds,"Wayne Reynolds, Bryan Callen, Jorge Garcia",Comedy,6.1
+518,Kattradhu Thamizh,2007,147.0,Ram,"Jiiva, Anjali, Karunas","Drama, Mystery",8.5
+519,Morgan Ahmed Morgan,2007,112.0,Ali Idris,"Adel Emam, Mervat Amin, Basma",Comedy,6.4
+520,Eichmann,2007,96.0,Robert Young,"Avner W. Less, Thomas Kretschmann, Troy Garity","Biography, Drama, History",5.9
+521,Cougar Club,2007,93.0,Christopher Duddy,"Jason Jurman, Warren Kole, Joe Mantegna",Comedy,4.0
+522,Nanking,2007,88.0,"Bill Guttentag, Dan Sturman","Hugo Armstrong, Rosalind Chao, Stephen Dorff","Biography, History, War",7.7
+523,First Born,2007,95.0,Isaac Webb,"Elisabeth Shue, Steven Mackintosh, Kathleen Chalfant","Drama, Horror, Mystery",4.8
+524,They Wait,2007,99.0,Ernie Barbarash,"Jaime King, Terry Chen, Pei-Pei Cheng","Horror, Mystery, Thriller",5.4
+525,Jhoom Barabar Jhoom,2007,138.0,Shaad Ali,"Abhishek Bachchan, Preity G Zinta, Bobby Deol","Comedy, Drama, Musical",3.7
+526,Eklavya: The Royal Guard,2007,105.0,Vidhu Vinod Chopra,"Amitabh Bachchan, Saif Ali Khan, Sanjay Dutt","Action, Drama, Mystery",6.0
+527,Pigs,2007,85.0,Karl DiPelino,"Jefferson Brown, Darryn Lucio, Christopher Elliott","Comedy, Romance",4.5
+528,Aaah! Zombies!!,2007,90.0,Matthew Kohnen,"Matthew Davis, Julianna Robinson, Michael Grant Terry","Comedy, Horror",5.7
+529,Flakes,2007,84.0,Michael Lehmann,"Aaron Stanford, Zooey Deschanel, Christopher Lloyd",Comedy,5.9
+530,Purple Violets,2007,103.0,Edward Burns,"Annette Arnold, Max Baker, Selma Blair","Comedy, Drama, Romance",6.4
+531,Full of It,2007,93.0,Christian Charles,"Ryan Pinkston, Kate Mara, Teri Polo","Drama, Comedy",5.5
+532,Nightwatching,2007,134.0,Peter Greenaway,"Martin Freeman, Emily Holmes, Eva Birthistle","Biography, Drama, History",6.5
+533,My Kid Could Paint That,2007,82.0,Amir Bar-Lev,"Marla Olmstead, Laura Olmstead, Mark Olmstead","Documentary, Family, Mystery",7.1
+534,Exte: Hair Extensions,2007,108.0,Sion Sono,"Chiaki Kuriyama, Megumi Satô, Tsugumi","Comedy, Horror",6.3
+535,Intimate Enemies,2007,111.0,Florent-Emilio Siri,"Benoît Magimel, Albert Dupontel, Aurélien Recoing","Drama, History, War",6.9
+536,The Substitute,2007,93.0,Ole Bornedal,"Paprika Steen, Ulrich Thomsen, Jonas Wandschneider","Comedy, Fantasy, Horror",5.8
+537,The Perfect Holiday,2007,96.0,Lance Rivera,"Gabrielle Union, Morris Chestnut, Queen Latifah","Comedy, Family, Fantasy",4.8
+538,El rey de la montaña,2007,90.0,Gonzalo López-Gallego,"Leonardo Sbaraglia, María Valverde, Thomas Riordan",Thriller,6.1
+539,Crazy Eights,2007,80.0,Jimi Jones,"Traci Lords, Frank Whaley, Dina Meyer",Horror,3.8
+540,Starting Out in the Evening,2007,111.0,Andrew Wagner,"Frank Langella, Lauren Ambrose, Patti Perkins","Drama, Romance",6.9
+541,A Secret,2007,105.0,Claude Miller,"Cécile de France, Patrick Bruel, Ludivine Sagnier","Drama, War",6.8
+542,Huddersfield,2007,95.0,Ivan Zivkovic,"Goran Susljik, Nebojsa Glogovac, Vojin Cetkovic",Drama,8.3
+543,Brotherhood of Blood,2007,88.0,"Michael Roesch, Peter Scheerer","Victoria Pratt, Jason Connery, Ken Foree","Horror, Thriller",3.5
+544,The Killing Floor,2007,94.0,Gideon Raff,"Marc Blucas, Joel Leffert, Shiri Appleby","Crime, Horror, Mystery",5.5
+545,Descent,2007,104.0,Talia Lugacy,"Rosario Dawson, Chad Faust, Marcus Patrick","Drama, Thriller",4.7
+546,Carved: The Slit-Mouthed Woman,2007,90.0,Kôji Shiraishi,"Eriko Satô, Haruhiko Katô, Chiharu Kawai","Drama, Horror, Thriller",5.4
+547,Far North,2007,89.0,Asif Kapadia,"Michelle Yeoh, Michelle Krusiec, Sean Bean","Crime, Drama, Romance",6.1
+548,Breakfast with Scot,2007,95.0,Laurie Lynd,"Tom Cavanagh, Ben Shenkman, Noah Bernett","Comedy, Drama, Music",6.7
+549,Brick Lane,2007,102.0,Sarah Gavron,"Tannishtha Chatterjee, Satish Kaushik, Christopher Simpson",Drama,6.6
+550,The Tattooist,2007,92.0,Peter Burger,"Jason Behr, Mia Blake, David Fane","Drama, Horror, Thriller",5.1
+551,Invisible Target,2007,129.0,Benny Chan,"Nicholas Tse, Jaycee Cho-Ming Chan, Shawn Yue","Action, Adventure, Crime",6.7
+552,The Devil's Chair,2007,91.0,Adam Mason,"Andrew Howard, Pollyanna Rose, Olivia Hill",Horror,4.8
+553,Fear(s) of the Dark,2007,83.0,"Blutch, Charles Burns, Marie Caillou","Aure Atika, Guillaume Depardieu, Nicole Garcia","Animation, Horror, Mystery",6.6
+554,Bluff,2007,88.0,"Simon Olivier Fecteau, Marc-André Lavoie","Emmanuel Bilodeau, Isabelle Blais, Raymond Bouchard",Comedy,6.7
+555,Days of Darkness,2007,104.0,Denys Arcand,"Marc Labrèche, Diane Kruger, Sylvie Léonard","Comedy, Drama, Fantasy",6.8
+556,Night Skies,2007,85.0,Roy Knyrim,"Jason Connery, A.J. Cook, George Stults","Horror, Sci-Fi, Thriller",4.5
+557,"Basic Sanitation, the Movie",2007,112.0,Jorge Furtado,"Fernanda Torres, Wagner Moura, Camila Pitanga",Comedy,7.4
+558,Adrift in Tokyo,2007,101.0,Satoshi Miki,"Joe Odagiri, Tomokazu Miura, Kyôko Koizumi",Comedy,7.2
+559,Dead Tone,2007,100.0,"Brian Hooks, Deon Taylor","Austin Basis, Chris Blasman, Jonathan Chase","Horror, Thriller",4.6
+560,Garage,2007,85.0,Lenny Abrahamson,"Pat Shortt, John Keogh, George Costigan",Drama,7.1
+561,Naked Fear,2007,108.0,Thom Eberhardt,"Sonja Runar, Ronald Dunas, Arron Shiver","Horror, Thriller",5.1
+562,Arranged,2007,90.0,"Diane Crespo, Stefan C. Schaefer","Zoe Lister-Jones, Francis Benhamou, Mimi Lieber","Comedy, Drama, Romance",7.3
+563,Ping Pong Playa,2007,96.0,Jessica Yu,"Jimmy Tsai, Andrew Vo, Khary Payton","Comedy, Sport",5.9
+564,September Dawn,2007,111.0,Christopher Cain,"Jon Voight, Trent Ford, Tamara Hope","Drama, History, Romance",5.8
+565,Steak,2007,82.0,Quentin Dupieux,"Eric Judor, Ramzy Bedia, Jonathan Lambert",Comedy,6.0
+566,Unrelated,2007,100.0,Joanna Hogg,"Kathryn Worth, Harry Kershaw, Emma Hiddleston",Drama,6.7
+567,Eight Miles High,2007,114.0,Akiz,"Natalia Avelon, Matthias Schweighöfer, David Scheller","Biography, Comedy, Drama",6.4
+568,Itty Bitty Titty Committee,2007,87.0,Jamie Babbit,"Melonie Diaz, Ana Mercedes, Cecile Rivore","Comedy, Drama, Romance",5.4
+569,American Loser,2007,94.0,Tod Harrison Williams,"Seann William Scott, Gretchen Mol, Deirdre O'Connell","Comedy, Drama",5.4
+570,Dororo,2007,139.0,Akihiko Shiota,"Satoshi Tsumabuki, Kô Shibasaki, Kiichi Nakai","Action, Adventure, Fantasy",6.4
+571,Honeymoon Travels Pvt. Ltd.,2007,118.0,Reema Kagti,"Abhay Deol, Minissha Lamba, Boman Irani","Comedy, Drama, Romance",6.1
+572,Zoo,2007,75.0,Robinson Devor,"Coyote, Jenny Edwards, John Edwards",Documentary,5.5
+573,Chrysalis,2007,94.0,Julien Leclercq,"Albert Dupontel, Marie Guillard, Marthe Keller","Crime, Drama, Sci-Fi",5.4
+574,The Wizard of Gore,2007,94.0,Jeremy Kasten,"Kip Pardue, Bijou Phillips, Crispin Glover","Horror, Mystery",4.7
+575,Scar,2007,83.0,Jed Weintrob,"Angela Bettis, Brittney Wilson, Tegan Moss","Crime, Horror, Thriller",4.1
+576,Testosteron,2007,119.0,"Tomasz Konecki, Andrzej Saramonowicz","Piotr Adamczyk, Marek Bimer, Magdalena Boczarska",Comedy,6.1
+577,The Garden of Sinners: Overlooking View,2007,49.0,Ei Aoki,"Maaya Sakamoto, Ken'ichi Suzumura, Takako Honda","Animation, Action, Crime",6.9
+578,Dhan Dhana Dhan Goal,2007,167.0,Vivek Agnihotri,"John Abraham, Arshad Warsi, Bipasha Basu","Drama, Sport, Thriller",5.1
+579,The Mourning Forest,2007,97.0,Naomi Kawase,"Shigeki Uda, Machiko Ono, Kanako Masuda",Drama,6.7
+580,Day Zero,2007,92.0,Bryan Gunnar Cole,"Elijah Wood, Chris Klein, Jon Bernthal",Drama,5.9
+581,Dil Dosti Etc,2007,112.0,Manish Tiwary,"Imaaduddin Shah, Shreyas Talpade, Smriti Mishra","Comedy, Crime, Drama",6.9
+582,The Rest is Silence,2007,114.0,Nae Caranfil,"Marius Florea Vizante, Ovidiu Niculescu, Mirela Zeta","Comedy, Drama",8.1
+583,U2 3D,2007,85.0,"Catherine Owens, Mark Pellington","Bono, Adam Clayton, The Edge","Documentary, Music",8.4
+584,The Pope's Toilet,2007,90.0,"César Charlone, Enrique Fernández","César Troncoso, Virginia Méndez, Mario Silva","Comedy, Drama",7.2
+585,Days and Clouds,2007,118.0,Silvio Soldini,"Margherita Buy, Antonio Albanese, Giuseppe Battiston",Drama,6.9
+586,1971,2007,136.0,Amrit Sagar,"Manoj Bajpayee, Ravi Kishan, Deepak Dobriyal","Action, Drama, War",8.2
+587,The Gene Generation,2007,96.0,Pearry Reginald Teo,"Bai Ling, Alec Newman, Parry Shen","Action, Sci-Fi",4.2
+588,Crazy Love,2007,92.0,"Dan Klores, Fisher Stevens","Burt Pugach, Linda Pugach, Bob Janoff","Documentary, Romance",7.0
+589,Slacker Uprising,2007,102.0,Michael Moore,"Michael Moore, Eddie Vedder, Robert Ellis Orrall",Documentary,5.3
+590,The Witnesses,2007,112.0,André Téchiné,"Michel Blanc, Emmanuelle Béart, Sami Bouajila","Drama, Romance",6.9
+591,The Final Season,2007,119.0,David Mickey Evans,"Sean Astin, Powers Boothe, Rachael Leigh Cook","Drama, Sport",6.5
+592,Heckler,2007,80.0,Michael Addis,"Louie Anderson, Criss Angel, Dave Attell","Documentary, Comedy",6.1
+593,Musta jää,2007,110.0,Petri Kotwica,"Outi Mäenpää, Martti Suosalo, Ria Kataja","Drama, Thriller",6.7
+594,Cherry Crush,2007,89.0,Nicholas DiBella,"Nikki Reed, Jonathan Tucker, Julie Gonzalo","Drama, Thriller",5.4
+595,Polladhavan,2007,150.0,Vetrimaaran,"Dhanush, Ramya, Kishore Kumar G.","Action, Crime, Drama",7.7
+596,Illegal Tender,2007,108.0,Franc. Reyes,"Rick Gonzalez, Wanda De Jesus, Dania Ramirez","Crime, Drama, Thriller",5.4
+597,"Chaos, This Is",2007,124.0,"Youssef Chahine, Khaled Youssef","Khaled Saleh, Menna Shalabi, Youssef El Sherif","Crime, Drama, Romance",7.2
+598,Blood Car,2007,82.0,Alex Orr,"Mike Brune, Anna Chlumsky, Katie Orr","Comedy, Horror",5.2
+599,Noise,2007,108.0,Matthew Saville,"Brendan Cowell, Maia Thomas, Katie Wall","Crime, Drama, Mystery",6.6
+600,Laaga Chunari Mein Daag: Journey of a Woman,2007,122.0,Pradeep Sarkar,"Rani Mukerji, Jaya Bachchan, Konkona Sen Sharma","Drama, Family, Romance",5.4
+601,Jellyfish,2007,78.0,"Shira Geffen, Etgar Keret","Sarah Adler, Nikol Leidman, Gera Sandler",Drama,7.0
+602,Alexandra,2007,95.0,Aleksandr Sokurov,"Galina Vishnevskaya, Vasily Shevtsov, Raisa Gichaeva","Drama, War",6.8
+603,With Friends Like These,2007,100.0,Felix van Groeningen,"Koen De Graeve, Wine Dierickx, Pieter Genard","Comedy, Drama",7.1
+604,Shall We Kiss?,2007,96.0,Emmanuel Mouret,"Julie Gayet, Michaël Cohen, Virginie Ledoyen","Comedy, Romance",6.7
+605,The Sun Also Rises,2007,116.0,Wen Jiang,"Wen Jiang, Joan Chen, Anthony Chau-Sang Wong","Drama, Fantasy",7.2
+606,Fugitive Pieces,2007,104.0,Jeremy Podeswa,"Stephen Dillane, Rade Serbedzija, Rosamund Pike",Drama,6.9
+607,Shadow Puppets,2007,103.0,Michael Winnick,"James Marsters, Tony Todd, Marc Winnick","Horror, Thriller",4.8
+608,Black Irish,2007,95.0,Brad Gann,"Michael Angarano, Brendan Gleeson, Emily VanCamp",Drama,6.9
+609,Missionary Man,2007,93.0,Dolph Lundgren,"Dolph Lundgren, Kateri Walker, Chelsea Ricketts",Thriller,5.0
+610,Chennai 600028,2007,141.0,Venkat Prabhu,"Shiva, Jai, Nitin Sathya","Comedy, Romance, Sport",7.9
+611,Partition,2007,116.0,Vic Sarin,"Jimi Mistry, Kristin Kreuk, Neve Campbell","Drama, Romance",6.9
+612,Chirutha,2007,117.0,Puri Jagannadh,"Ram Charan, Neha Sharma, Prakash Raj","Action, Comedy, Drama",5.4
+613,Roman de gare,2007,103.0,Claude Lelouch,"Fanny Ardant, Dominique Pinon, Audrey Dana",Drama,7.1
+614,Mad_e in Bangladesh,2007,106.0,Mostofa Sarwar Farooki,"Zahid Hasan, Shahiduzzaman Selim, Tariq Anam Khan","Comedy, Drama",8.1
+615,Nocturna,2007,80.0,"Adrià García, Víctor Maldonado","Imanol Arias, Hervé Caradec, Roger Carel","Animation, Adventure, Family",7.2
+616,In the City of Sylvia,2007,84.0,José Luis Guerín,"Pilar López de Ayala, Xavier Lafitte, Laurence Cordier",Drama,6.8
+617,V2 - jäätynyt enkeli,2007,92.0,Aleksi Mäkelä,"Juha Veijonen, Hannu-Pekka Björkman, Jussi Lampi","Action, Mystery, Thriller",6.2
+618,Desamuduru,2007,148.0,Puri Jagannadh,"Allu Arjun, Hansika Motwani, Pradeep Singh Rawat","Action, Drama, Romance",6.2
+619,Normal Adolescent Behavior,2007,93.0,Beth Schacter,"Amber Tamblyn, Ashton Holmes, Kelli Garner","Drama, Romance",5.0
+620,The Grocer's Son,2007,96.0,Eric Guirado,"Nicolas Cazalé, Clotilde Hesme, Daniel Duval",Drama,6.9
+621,The War on Democracy,2007,96.0,"Chris Martin, John Pilger, Sean Crotty","John Pilger, Philip Agee, Salvador Allende",Documentary,8.1
+622,Walk All Over Me,2007,99.0,Robert Cuffley,"Leelee Sobieski, Tricia Helfer, Lothaire Bluteau","Crime, Drama, Thriller",5.6
+623,The Ten Commandments,2007,88.0,"Bill Boyce, John Stronach","Ben Kingsley, Christian Slater, Elliott Gould","Animation, Family, History",2.9
+624,"Ó Pai, Ó: Look at This",2007,96.0,Monique Gardenberg,"Luciana Souza, Vinícius Nascimento, Felipe Fernandes","Comedy, Drama",6.3
+625,Good Time Max,2007,79.0,James Franco,"James Franco, Vince Jolivette, Wilmer Calderon",Drama,5.9
+626,The Take,2007,96.0,Brad Furman,"John Leguizamo, Tyrese Gibson, Rosie Perez","Action, Crime, Drama",5.8
+627,House of Fears,2007,86.0,Ryan Little,"K. Danor Gerald, Cydney Neil, Kelvin Clayton","Horror, Thriller",4.6
+628,Blue State,2007,88.0,Marshall Lewy,"Breckin Meyer, Anna Paquin, Joyce Krenz","Comedy, Drama, Romance",5.9
+629,Buried Alive,2007,94.0,Robert Kurtzman,"Terence Jay, Leah Rachel, Steve Sandvoss","Horror, Mystery, Thriller",3.9
+630,Il 7 e l'8,2007,93.0,"Giambattista Avellino, Salvatore Ficarra, Valentino Picone","Salvatore Ficarra, Valentino Picone, Eleonora Abbagnato",Comedy,6.4
+631,One Piece: Episode of Alabasta - The Desert Princess and the Pirates,2007,90.0,Takahiro Imamura,"Mayumi Tanaka, Kazuya Nakai, Akemi Okamura","Animation, Action, Adventure",6.8
+632,Notte prima degli esami - Oggi,2007,102.0,Fausto Brizzi,"Giorgio Panariello, Nicolas Vaporidis, Carolina Crescentini",Comedy,5.2
+633,Vollidiot,2007,102.0,Tobi Baumann,"Oliver Pocher, Oliver Fleischer, Ellenie Salvo González",Comedy,5.3
+634,White Light/Black Rain: The Destruction of Hiroshima and Nagasaki,2007,86.0,Steven Okazaki,"Harold Agnew, Shuntaro Hida, Kiyoko Imori","Documentary, History",8.2
+635,Ilya Muromets i Solovey Razboynik,2007,80.0,Vladimir Toropchin,"Valeriy Solovyov, Sergey Makovetskiy, Ekaterina Gorokhovskaya","Animation, Adventure, Comedy",6.8
+636,Lost in Beijing,2007,112.0,Yu Li,"Bingbing Fan, Dawei Tong, Tony Ka Fai Leung",Drama,6.7
+637,Chain Kulii Ki Main Kulii,2007,118.0,Karanjeet Saluja,"Zain Khan, Rahul Bose, Kapil Dev","Comedy, Drama, Family",5.9
+638,The Rebel,2007,103.0,Charlie Nguyen,"Johnny Tri Nguyen, Veronica Ngo, Dustin Nguyen","Action, Drama, Romance",6.8
+639,Call Girl,2007,145.0,António-Pedro Vasconcelos,"Soraia Chaves, Ivo Canelas, Nicolau Breyner","Crime, Drama, Thriller",6.3
+640,MP3: Mera Pehla Pehla Pyaar,2007,118.0,Robbie Grewal,"Menekka Arora, Sarthak Bhasin, Sagar Chawla","Comedy, Drama, Musical",7.0
+641,Varg Veum - Bitre blomster,2007,95.0,Ulrik Imtiaz Rolfsen,"Trond Espen Seim, Bjørn Floberg, Kathrine Fagerland","Crime, Drama, Thriller",6.4
+642,Buddha Collapsed Out of Shame,2007,81.0,Hana Makhmalbaf,"Abbas Alijome, Abdolali Hoseinali, Nikbakht Noruz","Drama, War",7.3
+643,Her Best Move,2007,101.0,Norm Hunter,"Daryl Sabara, Leah Pipes, Lisa Darr","Comedy, Family, Romance",5.4
+644,Fool N Final,2007,144.0,Ahmed Khan,"Sunny Deol, Shahid Kapoor, Vivek Oberoi","Action, Comedy, Crime",3.6
+645,Hannah Takes the Stairs,2007,83.0,Joe Swanberg,"Greta Gerwig, Kent Osborne, Andrew Bujalski","Comedy, Drama, Romance",5.6
+646,A Man's Job,2007,104.0,Aleksi Salmenperä,"Tommi Korpela, Maria Heiskanen, Jani Volanen",Drama,6.5
+647,Vel,2007,160.0,Hari,"Suriya, Asin, Vadivelu","Action, Comedy, Drama",6.3
+648,Being Michael Madsen,2007,90.0,Michael Mongillo,"Michael Madsen, Jason Alan Smith, Doug Tompos",Comedy,5.2
+649,The Lark Farm,2007,122.0,"Paolo Taviani, Vittorio Taviani","Paz Vega, Moritz Bleibtreu, Alessandro Preziosi","Drama, History",6.5
+650,Cthulhu,2007,100.0,Dan Gildark,"Jason Cottle, Casey Curran, Ethan Atkinson","Drama, Horror, Thriller",4.5
+651,The Good Life,2007,90.0,Stephen Berra,"Mark Webber, Zooey Deschanel, Harry Dean Stanton","Comedy, Drama",6.4
+652,Hack!,2007,89.0,Matt Flynn,"Danica McKellar, Jay Kenneth Johnson, Juliet Landau","Comedy, Horror",4.1
+653,1612: Khroniki smutnogo vremeni,2007,144.0,Vladimir Khotinenko,"Pyotr Kislov, Michal Zebrowski, Artur Smolyaninov","Adventure, Drama, History",5.6
+654,Donkey Xote,2007,90.0,Jose Pozo,"José Luis Gil, Andreu Buenafuente, Luis Posada","Animation, Adventure, Comedy",4.5
+655,Athidhi,2007,172.0,Surender Reddy,"Mahesh Babu, Amrita Rao, Murli Sharma",Action,5.5
+656,The Secrets,2007,127.0,Avi Nesher,"Fanny Ardant, Ania Bukstein, Michal Shtamler","Drama, Romance",7.0
+657,Macskafogó 2 - A sátán macskája,2007,90.0,Béla Ternovszky,"László Sinkó, Péter Rudolf, Miklós Benedek","Animation, Comedy, Fantasy",5.2
+658,Bad Girls,2007,100.0,Fernando Sariñana,"Martha Higareda, Camila Sodi, Ximena Sariñana",Comedy,5.3
+659,Clannad,2007,94.0,Osamu Dezaki,"Kenji Nojima, Mai Nakahara, Ryôtarô Okiayu","Animation, Comedy, Drama",7.3
+660,Kantoku · Banzai!,2007,108.0,Takeshi Kitano,"Takeshi Kitano, Tôru Emori, Kayoko Kishimoto","Comedy, Drama",6.3
+661,Manual of Love 2,2007,120.0,Giovanni Veronesi,"Carlo Verdone, Monica Bellucci, Riccardo Scamarcio","Comedy, Romance",5.5
+662,Confessions of a Superhero,2007,92.0,Matthew Ogens,"Christopher Lloyd Dennis, Maxwell Allen, Jennifer Wenger",Documentary,7.1
+663,Summer Days with Coo,2007,138.0,Keiichi Hara,"Kazato Tomizawa, Takahiro Yokokawa, Naoki Tanaka","Animation, Adventure, Comedy",7.4
+664,Tom Petty and the Heartbreakers: Runnin' Down a Dream,2007,259.0,Peter Bogdanovich,"Neil Armstrong, Mick Avory, Ron Blair","Documentary, Music",8.6
+665,Voice of a Murderer,2007,122.0,Park Jin-Pyo,"Sul Kyung-gu, Kim Nam-ju, Gang Dong-won","Crime, Drama, Mystery",6.7
+666,The Past,2007,114.0,Hector Babenco,"Gael García Bernal, Analía Couceyro, Ana Celentano","Drama, Romance",6.1
+667,Mind the Gap,2007,103.0,Helena Bergström,"Rakel Wärmländer, Nina Zanjani, Korhan Abay","Comedy, Drama",5.2
+668,Just Buried,2007,94.0,Chaz Thorne,"Jay Baruchel, Sergio Di Zio, Nigel Bennett","Comedy, Drama, Horror",6.0
+669,Amal,2007,101.0,Richie Mehta,"Rupinder Nagra, Naseeruddin Shah, Seema Biswas",Drama,7.5
+670,Death of a Ghost Hunter,2007,107.0,Sean Tretta,"Patti Tindall, Mike Marsh, Davina Joy","Horror, Thriller",4.3
+671,Going by the Book,2007,102.0,Hee-chan Ra,"Jeong Jae-yeong, Son Byung-ho, Lee Young-eun","Action, Comedy",7.3
+672,Paragraf 78,2007,88.0,Mikhail Khleborodov,"Gosha Kutsenko, Vladimir Vdovichenkov, Anastasiya Slanevskaya","Action, Sci-Fi, Thriller",4.9
+673,Las 13 rosas,2007,129.0,Emilio Martínez Lázaro,"Pilar López de Ayala, Verónica Sánchez, Gabriella Pession","Drama, History",6.7
+674,I Always Wanted to Be a Gangster,2007,113.0,Samuel Benchetrit,"Anna Mouglalis, Edouard Baer, Jean Rochefort","Comedy, Crime, Drama",7.1
+675,Honeydripper,2007,124.0,John Sayles,"Danny Glover, LisaGay Hamilton, Yaya DaCosta","Crime, Drama, History",6.7
+676,The Garden of Sinners: A Study in Murder - Part 1,2007,61.0,Takuya Nonaka,"Maaya Sakamoto, Ken'ichi Suzumura, Takako Honda","Animation, Action, Crime",7.1
+677,Spider Lilies,2007,94.0,Zero Chou,"Rainie Yang, Isabella Leong, Kris Shen","Drama, Romance",6.1
+678,Before the Rains,2007,98.0,Santosh Sivan,"Linus Roache, Rahul Bose, Nandita Das","Drama, History, Romance",6.5
+679,Undead or Alive: A Zombedy,2007,91.0,Glasgow Phillips,"Lew Alexander, Todd Anderson, Matt Besser","Comedy, Horror, Western",5.1
+680,Sztuczki,2007,95.0,Andrzej Jakimowski,"Damian Ul, Ewelina Walendziak, Tomasz Sapryk","Comedy, Drama",7.0
+681,Blind Mountain,2007,95.0,Yang Li,"Lu Huang, Youan Yang, Yuling Zhang","Crime, Drama",7.5
+682,Manufacturing Dissent,2007,97.0,"Rick Caine, Debbie Melnyk","Michael Moore, Debbie Melnyk, Rick Caine",Documentary,5.8
+683,Already Dead,2007,93.0,Joe Otting,"Ron Eldard, Til Schweiger, Patrick Kilpatrick","Action, Crime, Thriller",5.6
+684,Gone with the Woman,2007,90.0,Petter Næss,"Trond Fausa, Marian Saastad Ottesen, Peter Stormare","Comedy, Drama, Romance",6.6
+685,Save Me,2007,96.0,Robert Cary,"Jeremy Glazer, Chad Allen, David Petruzzi","Drama, Romance",6.7
+686,Mozhi,2007,155.0,Radha Mohan,"Prithviraj Sukumaran, Jyotika, Prakash Raj","Comedy, Romance",8.1
+687,Autumn Ball,2007,123.0,Veiko Õunpuu,"Rain Tolk, Taavi Eelmaa, Juhan Ulfsak",Drama,7.1
+688,Marigold,2007,110.0,Willard Carroll,"Salman Khan, Ali Larter, Nandana Sen","Comedy, Music, Romance",4.8
+689,Cash,2007,137.0,Anubhav Sinha,"Ajay Devgn, Suniel Shetty, Zayed Khan","Action, Crime, Thriller",3.4
+690,Shadows,2007,129.0,Milcho Manchevski,"Borce Nacev, Vesna Stanojevska, Sabina Ajrula","Drama, Horror, Mystery",6.7
+691,Ganes,2007,107.0,Jukka-Pekka Siili,"Eero Milonoff, Jussi Nikkilä, Olavi Uusivirta","Biography, Drama, Music",6.2
+692,What We Do Is Secret,2007,92.0,Rodger Grossman,"Shane West, Rick Gonzalez, Bijou Phillips","Biography, Drama, Music",6.3
+693,King Corn,2007,88.0,Aaron Woolf,"Bob Bledsoe, Earl L. Butz, Dawn Cheney",Documentary,7.0
+694,Kireedam,2007,156.0,A.L. Vijay,"Ajith Kumar, Trisha Krishnan, Raj Kiran","Action, Drama",6.6
+695,The Rage,2007,85.0,Robert Kurtzman,"Andrew Divoff, Erin Brown, Ryan Hooks",Horror,4.2
+696,Seven Days,2007,125.0,Won Shin-yeon,"Yunjin Kim, Kim Mi Sook, Park Hee-soon","Crime, Drama, Thriller",6.6
+697,Defenders of Riga,2007,118.0,Aigars Grauba,"Janis Reinis, Elita Klavina, Girts Krumins","Action, Drama, History",6.6
+698,Hellphone,2007,98.0,James Huth,"Jean-Baptiste Maunier, Jennifer Decker, Benjamin Jungers","Comedy, Horror",5.1
+699,"Good Boy, Bad Boy",2007,115.0,Ashwini Chaudhary,"Tusshar Kapoor, Emraan Hashmi, Isha Sharvani","Comedy, Musical",3.9
+700,Solstorm,2007,103.0,Leif Lindblom,"Izabella Scorupco, Mikael Persbrandt, Jakob Eklund","Mystery, Thriller",5.1
+701,Sick Nurses,2007,82.0,"Piraphan Laoyont, Thodsapol Siriwiwat","Chon Wachananon, Wichan Jarujinda, Chidjan Rujiphun","Crime, Horror",5.1
+702,Yakuza: Like a Dragon,2007,110.0,Takashi Miike,"Kazuki Kitamura, Shun Shioya, Saeko","Action, Crime, Drama",6.0
+703,The Last Sin Eater,2007,117.0,Michael Landon Jr.,"Louise Fletcher, Henry Thomas, Liana Liberato",Drama,5.6
+704,Eye in the Sky,2007,90.0,Nai-Hoi Yau,"Simon Yam, Tony Ka Fai Leung, Kate Tsui","Action, Crime, Thriller",6.7
+705,Living & Dying,2007,90.0,Jon Keeyes,"Edward Furlong, Arnold Vosloo, Michael Madsen","Action, Crime, Thriller",3.9
+706,Pars: Kiraz Operasyonu,2007,145.0,Osman Sinav,"Mehmet Kurtulus, Nida Safak, Selçuk Yöntem","Action, Crime, Drama",5.9
+707,Battle for Finland,2007,117.0,"Åke Lindman, Sakari Kirjavainen","Rauno Ahonen, Mikkomarkus Ahtiainen, Frank Biermann","Drama, History, War",5.8
+708,Fishtales,2007,94.0,Alki David,"Billy Zane, Kelly Brook, Alki David","Comedy, Family, Fantasy",4.6
+709,Getting Home,2007,110.0,Yang Zhang,"Benshan Zhao, Qiwen Hong, Dandan Song","Comedy, Drama",7.4
+710,Detective Conan: Jolly Roger in the Deep Azure,2007,106.0,Yasuichirô Yamamoto,"Minami Takayama, Wakana Yamazaki, Kappei Yamaguchi","Animation, Action, Adventure",6.3
+711,Ladrón que roba a ladrón,2007,98.0,Joe Menendez,"Fernando Colunga, Miguel Varoni, Julie Gonzalo","Action, Adventure, Comedy",6.6
+712,Everybody Wants to Be Italian,2007,105.0,Jason Todd Ipson,"Jay Jablonski, Cerina Vincent, John Kapelos","Comedy, Romance",5.7
+713,Moordwijven,2007,100.0,Dick Maas,"Bracha van Doesburgh, Hadewych Minis, Sanne Wallis de Vries",Comedy,5.7
+714,The Ferryman,2007,100.0,Chris Graham,"John Rhys-Davies, Kerry Fox, Tamer Hassan","Fantasy, Horror, Thriller",4.7
+715,Apartment 1303,2007,94.0,Ataru Oikawa,"Noriko Nakagoshi, Arata Furuta, Eriko Hatsune",Horror,4.7
+716,The Last Sentinel,2007,93.0,Jesse V. Johnson,"Don Wilson, Katee Sackhoff, Peter Allas","Action, Sci-Fi, Thriller",3.6
+717,100 Tears,2007,95.0,Marcus Koch,"Georgia Chris, Joe Davison, Raine Brown",Horror,4.2
+718,Introducing the Dwights,2007,105.0,Cherie Nowlan,"Brenda Blethyn, Khan Chittenden, Emma Booth","Comedy, Drama",6.4
+719,Turn the River,2007,92.0,Chris Eigeman,"Famke Janssen, Jaymie Dornan, Rip Torn",Drama,5.8
+720,The Mad,2007,83.0,Johnny Kalangis,"Billy Zane, Maggie Castle, Shauna MacDonald","Action, Comedy, Horror",4.7
+721,Up the Yangtze,2007,93.0,Yung Chang,"Jerry Bo Yu Chen, Campbell Ping He, Cindy Shui Yu",Documentary,7.5
+722,Homo Erectus,2007,88.0,Adam Rifkin,"Adam Rifkin, Ali Larter, Hayes MacArthur","Action, Comedy, Drama",3.5
+723,A West Texas Children's Story,2007,86.0,Brad Isaacs,"Cayden Boyd, Lara Flynn Boyle, Matthew Modine","Drama, Romance",7.2
+724,Diamond Dogs,2007,94.0,"Shimon Dotan, Dolph Lundgren","Dolph Lundgren, Yu Nan, Xue Zuren","Action, Adventure",4.1
+725,Steel Trap,2007,92.0,Luis Cámara,"Georgia Mackenzie, Mark Wilson, Pascal Langdale","Horror, Thriller",4.2
+726,Megane,2007,106.0,Naoko Ogigami,"Satomi Kobayashi, Mikako Ichikawa, Ryô Kase","Comedy, Drama",7.1
+727,Return of Hanuman,2007,110.0,Anurag Kashyap,"Kathleen Barr, Lillian Carlson, Suraj Chaudhari","Animation, Action, Adventure",7.5
+728,Triangle,2007,93.0,"Ringo Lam, Johnnie To, Hark Tsui","Louis Koo, Simon Yam, Honglei Sun","Crime, Thriller",6.2
+729,Finishing the Game,2007,84.0,Justin Lin,"Roger Fan, Dustin Nguyen, Sung Kang",Comedy,5.8
+730,Concursante,2007,84.0,Rodrigo Cortés,"Leonardo Sbaraglia, Chete Lera, Miryam Gallego","Comedy, Drama",6.4
+731,Jacquou le croquant,2007,140.0,Laurent Boutonnat,"Gaspard Ulliel, Léo Legrand, Marie-Josée Croze","Adventure, Drama",6.4
+732,Island of Lost Souls,2007,100.0,Nikolaj Arcel,"Sara Langebæk Gaarmann, Lucas Munk Billing, Lasse Borg","Action, Adventure, Family",5.7
+733,Look,2007,102.0,Adam Rifkin,"Jamie McShane, Spencer Redford, Hayes MacArthur","Comedy, Crime, Drama",6.6
+734,The Gray Man,2007,97.0,Scott L. Flynn,"Patrick Bauchau, Jack Conley, John Aylward","Biography, Crime, Thriller",5.9
+735,Satanás,2007,95.0,Andrés Baiz,"Marcela Valencia, Blas Jaramillo, Lucia Rengifo","Crime, Drama",7.2
+736,Room of Death,2007,115.0,Alfred Lot,"Mélanie Laurent, Éric Caravaca, Gilles Lellouche","Crime, Mystery, Thriller",6.3
+737,Black Gruya and the Stone of Wisdom,2007,98.0,Marko Marinkovic,"Nenad Jezdic, Nikola Kojo, Boris Milivojevic","Comedy, Fantasy",6.7
+738,Adrift in Manhattan,2007,91.0,Alfredo Rodriguez de Villa,"Victor Rasuk, Richard Petrocelli, Nicolle Rochelle",Drama,5.5
+739,Nitro,2007,105.0,Alain Desrochers,"Guillaume Lemay-Thivierge, Lucie Laurier, Martin Matte","Action, Drama, Thriller",5.3
+740,Déficit,2007,79.0,Gael García Bernal,"Andrés Almeida, Fernanda Castillo, Luz Cipriota",Drama,5.2
+741,The Stone Angel,2007,116.0,Kari Skogland,"Ellen Burstyn, Christine Horne, Elliot Page",Drama,6.1
+742,How About You,2007,87.0,Anthony Byrne,"Joss Ackland, Hayley Atwell, Orla Brady","Comedy, Drama",6.6
+743,Petelinji zajtrk,2007,124.0,Marko Nabersnik,"Vlado Novák, Primoz Bezjak, Pia Zemljic","Drama, Romance",7.5
+744,Nishabd,2007,110.0,Ram Gopal Varma,"Amitabh Bachchan, Jiah Khan, Revathi",Drama,5.4
+745,The Piano Forest,2007,101.0,Masayuki Kojima,"Aya Ueto, Ryûnosuke Kamiki, Hiroyuki Amano","Animation, Drama, Fantasy",7.1
+746,The List,2007,105.0,Gary Wheeler,"Malcolm McDowell, Chuck Carrington, Hilarie Burton Morgan",Thriller,3.8
+747,Traffic Signal,2007,130.0,Madhur Bhandarkar,"Kunal Kemmu, Nitu Chandra, Upendra Limaye",Drama,6.6
+748,The Indian,2007,91.0,James R. Gorrie,"Matt Dallas, Sal Landi, Jane Higginson","Drama, Family, Romance",6.4
+749,Under the Bombs,2007,98.0,Philippe Aractingi,"Nada Abou Farhat, Georges Khabbaz, Rawia Elchab","Drama, Romance, War",7.0
+750,Graduation,2007,89.0,Michael Mayer,"Catherine L. Albers, Adam Arkin, Greg Benson","Comedy, Crime, Drama",6.3
+751,Captain Abu Raed,2007,102.0,Amin Matalqa,"Nadim Sawalha, Rana Sultan, Hussein Al-Sous",Drama,7.3
+752,The Romance of Astrea and Celadon,2007,109.0,Éric Rohmer,"Andy Gillet, Stéphanie Crayencour, Cécile Cassel","Comedy, Drama, Romance",6.3
+753,"Gandhi, My Father",2007,136.0,Feroz Abbas Khan,"Akshaye Khanna, Darshan Jariwala, Shefali Shah","Biography, Drama, History",7.3
+754,Genius Party,2007,102.0,"Atsuko Fukushima, Yoji Fukuyama, Hideki Futamura","Tomoko Kaneda, Rinko Kikuchi, Kaoru Mizuhara","Animation, Action, Adventure",6.9
+755,Joy: The Real Love Story,2007,127.0,"Prashant Chadha, Nitish Sharma","Himesh Reshammiya, Hansika Motwani, Mallika Sherawat","Drama, Romance, Thriller",2.4
+756,Terror's Advocate,2007,135.0,Barbet Schroeder,"Jacques Vergès, Klaus Barbie, Barbet Schroeder","Documentary, Biography, History",7.1
+757,Black Belt,2007,95.0,Shunichi Nagasaki,"Akihito Yagi, Tatsuya Naka, Yûji Suzuki","Action, Drama, Sport",6.9
+758,Dus Kahaniyaan,2007,110.0,"Meghna Gulzar, Sanjay Gupta, Apoorva Lakhia","Arbaaz Khan, Mandira Bedi, Sudhanshu Pandey",Drama,5.7
+759,The Appeared,2007,120.0,Paco Cabezas,"Ruth Díaz, Javier Pereira, Pablo Cedrón","Adventure, Horror, Thriller",6.0
+760,Man in the Chair,2007,107.0,Michael Schroeder,"Christopher Plummer, Michael Angarano, M. Emmet Walsh","Comedy, Drama",7.0
+761,Aur Pappu Pass Ho Gaya,2007,142.0,S. Soni,"Krushna Abhishek, Kashmira Shah, Jackie Shroff",Comedy,4.4
+762,Take,2007,98.0,Charles Oliver,"Minnie Driver, Jeremy Renner, Bobby Coleman","Crime, Drama, Thriller",5.8
+763,Shoot on Sight,2007,110.0,"Jag Mundhra, Emrah Semih Kosar","Naseeruddin Shah, Greta Scacchi, Brian Cox","Crime, Drama, Thriller",6.1
+764,Kiss the Bride,2007,100.0,C. Jay Cox,"Tori Spelling, Philipp Karner, James O'Shea","Comedy, Romance",5.6
+765,Never Forever,2007,104.0,Gina Kim,"Vera Farmiga, David Lee McInnis, Ha Jung-woo","Drama, Romance",6.4
+766,The Show Must Go On,2007,109.0,Han Jae-rim,"Song Kang-ho, Oh Dal-su, Choi Il-hwa","Action, Comedy, Crime",6.7
+767,A Beautiful Wife,2007,96.0,Leonardo Pieraccioni,"Leonardo Pieraccioni, Laura Torrisi, Gabriel Garko",Comedy,5.3
+768,Hata Göteborg,2007,82.0,Robert Lillhonga,"Andreas Karoliussen, David Weiss, Nicolaj Schröder","Comedy, Drama",5.5
+769,The Night Buffalo,2007,102.0,Jorge Hernandez Aldana,"Diego Luna, Liz Gallardo, Gabriel González",Drama,4.7
+770,Go West: A Lucky Luke Adventure,2007,90.0,Olivier Jean-Marie,"Lambert Wilson, Clovis Cornillac, François Morel","Animation, Adventure, Comedy",6.3
+771,Chota Mumbai,2007,131.0,Anwar Rasheed,"Mohanlal, Saikumar, Kalabhavan Mani","Action, Comedy, Crime",7.0
+772,Rock Haven,2007,78.0,David Lewis,"Sean Hoagland, Owen Alabado, Laura Jane Coles","Drama, Romance",5.5
+773,Room 205,2007,91.0,Martin Barnewitz,"Neel Rønholt, Mikkel Arndt, Julie R. Ølgaard",Horror,4.3
+774,Andaleeb El Dokki,2007,106.0,Wael Ihsan,"Mohamed Henedi, Dawood Hussain, Heba Nour","Comedy, Drama",5.1
+775,Universal Soldiers,2007,85.0,Griff Furst,"Kristen Quintrall, Dario Deak, Jason S. Gray","Action, Adventure, Sci-Fi",1.6
+776,Surfwise,2007,93.0,Doug Pray,"Juliette Paskowitz, David Paskowitz, Jonathan Paskowitz","Documentary, Sport",7.1
+777,JoJo's Bizarre Adventure: Phantom Blood,2007,100.0,Jun'ichi Yamamoto,"Tsutomu Isobe, Katsuyuki Konishi, Rikiya Koyama","Animation, Action, Adventure",7.8
+778,A Gentle Breeze in the Village,2007,121.0,Nobuhiro Yamashita,"Kaho, Masaki Okada, Elisa Yanagi",Drama,7.2
+779,Film Noir,2007,97.0,"Srdja Penezic, Risto Topaloski","Mark Keller, Bettina Devin, Roger Jackson","Animation, Crime, Mystery",6.3
+780,Don,2007,154.0,Raghava Lawrence,"Nagarjuna Akkineni, Anushka Shetty, Raghava Lawrence","Action, Crime, Drama",5.8
+781,On the Doll,2007,102.0,Thomas Mignone,"Brittany Snow, Josh Janowicz, Clayne Crawford","Crime, Drama, Thriller",5.3
+782,Kadha Parayumbol...,2007,130.0,M. Mohanan,"Sreenivasan, Meena, Innocent Vareed Thekkethala","Comedy, Drama",7.7
+783,Military Academy,2007,85.0,Granz Henman,"Franz Dinda, Florian Lukas, Axel Stein",Comedy,5.1
+784,Strength and Honour,2007,95.0,Mark Mahon,"Michael Madsen, Vinnie Jones, Patrick Bergin","Action, Drama",5.1
+785,The Devil Came on Horseback,2007,85.0,"Ricki Stern, Anne Sundberg","Nicholas Kristof, Brian Steidle",Documentary,7.6
+786,The Three Investigators and the Secret of Skeleton Island,2007,91.0,Florian Baxmeyer,"Chancellor Miller, Nick Price, Cameron Monaghan","Adventure, Family, Mystery",5.7
+787,Fighter,2007,100.0,Natasha Arthy,"Semra Turan, Nima Nabipour, Cyron Melville","Action, Drama, Romance",6.5
+788,Naqaab,2007,115.0,"Abbas Alibhai Burmawalla, Mastan Alibhai Burmawalla","Bobby Deol, Akshaye Khanna, Urvashi Sharma","Crime, Drama, Romance",5.4
+789,What Love Is,2007,93.0,Mars Callahan,"Cuba Gooding Jr., Matthew Lillard, Sean Astin","Comedy, Romance",5.3
+790,Go Go Tales,2007,96.0,Abel Ferrara,"Willem Dafoe, Bob Hoskins, Matthew Modine","Comedy, Drama",5.8
+791,Truands,2007,107.0,Frédéric Schoendoerffer,"Benoît Magimel, Philippe Caubère, Béatrice Dalle","Crime, Thriller",5.5
+792,Rats and Cats,2007,87.0,Tony Rogers,"Jason Gann, Adam Zwar, Anya Beyersdorf","Comedy, Drama",5.3
+793,Sex Is Zero 2,2007,115.0,Tae-yun Yoon,"Lim Chang-jung, Song Ji-hyo, Choi Seong-guk","Comedy, Drama, Romance",6.0
+794,Winx Club: The Secret of the Lost Kingdom,2007,85.0,Iginio Straffi,"Gabriele Lavia, Letizia Ciampa, Perla Liberatori","Animation, Action, Adventure",5.6
+795,Pjevajte nesto ljubavno,2007,106.0,Goran Kulenovic,"Ivan Herceg, Ivan Djuricic, Ivan Glowatzky","Comedy, Music",7.5
+796,Daisy Diamond,2007,94.0,Simon Staho,"Noomi Rapace, Thure Lindhardt, Benedikte Hansen",Drama,5.9
+797,Viva,2007,120.0,Anna Biller,"Anna Biller, Jared Sanford, Bridget Brno","Comedy, Drama, Musical",5.8
+798,Days of Darkness,2007,89.0,Jake Kennedy,"Tom Eplin, Sabrina Gennarino, Travis Brorsen",Horror,3.8
+799,Expired,2007,107.0,Cecilia Miniucchi,"Samantha Morton, Anthony John Crane, Gina St. John","Comedy, Drama, Romance",6.1
+800,The Mark of Cain,2007,87.0,Marc Munden,"Gerard Kearns, Matthew McNulty, Naomi Bentley","Drama, War",6.4
+801,Mavi Gözlü Dev,2007,118.0,Biket Ilhan,"Yetkin Dikinciler, Dolunay Soysert, Özge Özberk","Biography, Drama",6.6
+802,Normal,2007,100.0,Carl Bessai,"Carrie-Anne Moss, Kevin Zegers, Callum Keith Rennie",Drama,5.6
+803,Ploy,2007,105.0,Pen-Ek Ratanaruang,"Ananda Everingham, Lalita Panyopas, Porntip Papanai",Drama,6.7
+804,Dante's Inferno,2007,88.0,Sean Meredith,"Tony Abatemarco, Scott Adsit, Matt Besser","Animation, Comedy",6.6
+805,Dark Mirror,2007,86.0,Pablo Proenza,"Lisa Vidal, David Chisum, Joshua Pelegrin","Horror, Thriller",4.7
+806,Aadavari Matalaku Ardhalu Verule,2007,157.0,"Mahesh Bantu, Selvaraghavan, K. Selvaraghavan","Venkatesh Daggubati, Trisha Krishnan, Srikanth","Comedy, Drama, Romance",7.6
+807,Darling,2007,94.0,Johan Kling,"Michelle Meadows, Michael Segerström, Richard Ulfsäter",Drama,6.5
+808,Ho voglia di te,2007,106.0,Luis Prieto,"Riccardo Scamarcio, Laura Chiatti, Katy Louise Saunders","Comedy, Drama, Romance",4.4
+809,Frayed,2007,111.0,"Norbert Caoili, Rob Portmann","Tony Doupe, Aaron Blakely, Alena Dashiell","Drama, Horror, Mystery",5.5
+810,Pars vite et reviens tard,2007,116.0,Régis Wargnier,"José Garcia, Lucas Belvaux, Marie Gillain","Crime, Drama, Thriller",5.6
+811,Cook Off!,2007,98.0,"Cathryn Michon, Guy Shalem","Louie Anderson, Nick Rey Angelus, Diedrich Bader",Comedy,4.4
+812,Amerikalilar Karadeniz'de 2,2007,100.0,Kartal Tibet,"Metin Akpinar, Peker Açikalin, Kadir Çöpdemir",Comedy,2.2
+813,Munna,2007,167.0,Vamshi Paidipally,"Prabhas, Ileana D'Cruz, Prakash Raj","Action, Crime, Drama",5.6
+814,Bangkok Love Story,2007,90.0,Poj Arnon,"Rattanaballang Tohssawat, Chaiwat Thongsaeng, Wiradit Srimalai","Action, Crime, Drama",5.8
+815,Saving Sarah Cain,2007,103.0,Michael Landon Jr.,"Abigail Mason, Lisa Pepper, Elliott Gould",Drama,6.1
+816,Bayrampasa: Ben Fazla Kalmayacagim!,2007,106.0,Hamdi Alkan,"Vural Çelik, Yasemin Çonka, Okan Tangücü",Comedy,6.0
+817,Taymour and Shafika,2007,99.0,Khaled Marei,"Ahmed El Sakka, Mona Zaki, Hala Fakher","Action, Comedy, Romance",5.8
+818,Two Worlds,2007,105.0,Daniel Cohen,"Benoît Poelvoorde, Natacha Lindinger, Michel Duchaussoy","Comedy, Fantasy",5.6
+819,Quiet City,2007,78.0,Aaron Katz,"Erin Fisher, Cris Lankenau, Sarah Hellman",Drama,6.3
+820,Stranded,2007,130.0,Gonzalo Arijon,"Jose Algorta, Roberto Canessa, Alfredo Delgado",Documentary,8.0
+821,Romantik,2007,100.0,Sinan Çetin,"Okan Bayülgen, Teoman, Yasemin Kozanoglu","Drama, Romance",4.4
+822,Moondance Alexander,2007,94.0,Michael Damian,"Kay Panabaker, Don Johnson, Lori Loughlin","Drama, Family",6.2
+823,Netherbeast Incorporated,2007,93.0,Dean Matthew Ronalds,"Steve Burns, Darrell Hammond, Dave Foley","Comedy, Fantasy, Horror",5.5
+824,Sluga Gosudarev,2007,131.0,Oleg Ryaskov,"Dmitriy Miller, Aleksandr Bukharov, Kseniya Knyazeva","Action, Adventure, History",5.8
+825,Fi shaket Masr El Gedeeda,2007,118.0,Mohamed Khan,"Ghada Adel, Kal El Naga, Aida Riyad","Drama, Romance",7.0
+826,The Perfect Witness,2007,100.0,Thomas Dunn,"Wes Bentley, Mark Borkowski, Joanne Baron","Crime, Horror, Thriller",5.4
+827,La soledad,2007,135.0,Jaime Rosales,"Sonia Almarcha, Petra Martínez, Miriam Correa",Drama,6.6
+828,L'auberge rouge,2007,95.0,Gérard Krawczyk,"Christian Clavier, Josiane Balasko, Gérard Jugnot","Comedy, Crime",5.9
+829,Holding Trevor,2007,88.0,Rosser Goodman,"Brent Gorski, Christopher Wyllie, Melissa Searing","Drama, Romance",5.4
+830,The Duchess of Langeais,2007,137.0,Jacques Rivette,"Jeanne Balibar, Guillaume Depardieu, Bulle Ogier","Drama, Music, Romance",6.5
+831,Lyubov-Morkov,2007,100.0,Aleksandr Strizhenov,"Gosha Kutsenko, Kristina Orbakaite, Evgeniy Stychkin","Comedy, Fantasy, Romance",5.1
+832,Timboektoe,2007,110.0,Dave Schram,"Bo Maerten, Mees Peijnenburg, Willem Voogd","Drama, Family, Romance",5.3
+833,Jogo de cena,2007,100.0,Eduardo Coutinho,"Marília Pêra, Andrea Beltrão, Fernanda Torres","Documentary, Drama",8.4
+834,Emotional Arithmetic,2007,99.0,Paolo Barzman,"Susan Sarandon, Christopher Plummer, Gabriel Byrne",Drama,6.0
+835,Please Vote for Me,2007,58.0,Weijun Chen,"Cheng Cheng, Luo Lei, Xu Xiaofei",Documentary,7.9
+836,Haunted Forest,2007,81.0,Mauro Borrelli,"Sevy Di Cione, Adam Green, Mark Hengst",Horror,3.6
+837,When a Man Falls,2007,86.0,Ryan Eslinger,"Dylan Baker, Stacie Bono, Timothy Hutton","Drama, Thriller",5.0
+838,Metamorphosis,2007,98.0,Jenõ Hódi,"Corey Sevier, Irena Violette, Christopher Lambert","Fantasy, Horror, Thriller",3.6
+839,Chasing Ghosts: Beyond the Arcade,2007,90.0,Lincoln Ruchti,"Walter Day, Ben Gold, Steve Sanders",Documentary,7.0
+840,Chicago 10,2007,110.0,Brett Morgen,"Jeffrey Wright, Nick Nolte, Roy Scheider","Documentary, Animation, History",7.3
+841,Omar & Salma,2007,95.0,Akram Fareed,"Tamer Hosny, Mai Ezz Eldin, Mais Hamdan","Comedy, Drama, Romance",5.2
+842,Amazing Journey: The Story of the Who,2007,237.0,"Paul Crowder, Murray Lerner, Parris Patton","Roger Daltrey, Pete Townshend, John Entwistle","Documentary, Music",8.2
+843,Alter Ego,2007,99.0,"Nicholas Dimitropoulos, George Korgianitis","Sakis Rouvas, Danae Skiadi, Kostis Kallivretakis","Drama, Romance",4.1
+844,The Third Day,2007,99.0,Mohammad Hossein Latifi,"Pouria Poursorkh, Baran Kosari, Hamed Behdad","Action, Drama, Romance",6.2
+845,May 18,2007,120.0,Kim Ji-hoon,"Kim Sang-kyung, Lee Yo-won, Ahn Sung-ki","Drama, History",6.9
+846,The 3 L'il Pigs,2007,124.0,Patrick Huard,"Claude Legault, Guillaume Lemay-Thivierge, Paul Doucet",Comedy,6.9
+847,Voices,2007,85.0,Ki-hwan Oh,"Yoon Jin-seo, Park Gi-woong, Lee Ki-woo","Crime, Drama, Horror",5.5
+848,Rich Kids,2007,90.0,Rune Bendixen,"Simone Aagaard-Hansen, Lotte Arnsbjerg, Rune Bendixen",Drama,3.6
+849,Mayavi,2007,124.0,Shafi,"Mammootty, Manoj K. Jayan, Saikumar","Action, Comedy, Drama",6.8
+850,Poor Boy's Game,2007,104.0,Clement Virgo,"Rossif Sutherland, Danny Glover, Flex Alexander",Drama,6.3
+851,Kharej ala el kanoun,2007,113.0,Ahmad Nader Galal,"Karim Abdel Aziz, Hassan Hosny, Ahmed Saeed Abdel-Ghany","Crime, Drama",6.2
+852,Adam and the Devil,2007,100.0,Baris Pirhasan,"Nurgül Yesilçay, Cem Özer, Derya Alabora",Drama,6.6
+853,Milana,2007,155.0,Prakash,"Puneeth Rajkumar, Parvathy Thiruvothu, Pooja Gandhi",Romance,8.3
+854,Kod apokalipsisa,2007,106.0,Vadim Shmelyov,"Anastasiya Zavorotnyuk, Vincent Perez, Vladimir Menshov","Action, Adventure",4.5
+855,Bra Boys,2007,90.0,"Sunny Abberton, Macario De Souza","Russell Crowe, Kelly Slater, Cheyne Horan","Documentary, Sport",6.2
+856,Warum Männer nicht zuhören und Frauen schlecht einparken,2007,103.0,Leander Haußmann,"Benno Fürmann, Jessica Schwarz, Matthias Matschke","Comedy, Romance",5.3
+857,Mr. Warmth: The Don Rickles Project,2007,89.0,John Landis,"Harry Dean Stanton, John Landis, Don Rickles","Documentary, Comedy",7.6
+858,It's Hard to Be Nice,2007,102.0,Srdjan Vuletic,"Sasa Petrovic, Daria Lorenci Flatz, Damir Savic","Comedy, Drama",7.4
+859,Doraemon the Movie: Nobita's New Great Adventure into the Underworld,2007,112.0,"Yukiyo Teramoto, Kôzô Kusuba","Wasabi Mizuta, Megumi Ôhara, Yumi Kakazu","Animation, Adventure, Comedy",7.1
+860,Basic Slaughter,2007,62.0,Steve Rudzinski,"Sarah Bauer, Justin Channell, Dakota Corwin",Horror,5.0
+861,Sugarhouse,2007,90.0,Gary Love,"Steven Mackintosh, Ashley Walters, Andy Serkis","Crime, Thriller",5.8
+862,Siete mesas de billar francés,2007,116.0,Gracia Querejeta,"Maribel Verdú, Blanca Portillo, Jesús Castejón","Comedy, Drama",6.4
+863,Brain Dead,2007,95.0,Kevin Tenney,"Joshua Benton, Sarah Grant Brendecke, Michelle Tomlinson",Horror,5.0
+864,Albert Fish: In Sin He Found Salvation,2007,86.0,John Borowski,"Oto Brezina, Joe Coleman, Bob Dunsworth","Documentary, Biography, Crime",5.5
+865,Whatever Lola Wants,2007,115.0,Nabil Ayouch,"Laura Ramsey, Assaad Bouab, Carmen Lebbos",Drama,6.4
+866,Kisaragi,2007,108.0,Yûichi Satô,"Shun Oguri, Yûsuke Santamaria, Keisuke Koide","Comedy, Mystery",7.2
+867,The Detective,2007,109.0,Oxide Chun Pang,"Aaron Kwok, Kai-Chi Liu, Tak-Bun Wong","Drama, Thriller",6.5
+868,Unfinished Sky,2007,94.0,Peter Duncan,"William McInnes, Monic Hendrickx, Milo","Drama, Romance",6.8
+869,Bitter Sweetheart,2007,90.0,Hella Joof,"Mylaine Hedreul, Rickard Roxvall, Viktor Axelsson","Comedy, Drama",5.4
+870,Great World of Sound,2007,106.0,Craig Zobel,"Pat Healy, Kene Holiday, John Baker","Comedy, Drama, Music",6.7
+871,The Christmas Miracle of Jonathan Toomey,2007,91.0,Bill Clark,"Tom Berenger, Sarah Wildor, Thomas Briggs",Family,6.4
+872,Alice Upside Down,2007,91.0,Sandy Tung,"Alyson Stoner, Luke Perry, Lucas Grabeel","Adventure, Comedy, Drama",5.2
+873,I Really Hate My Job,2007,90.0,Oliver Parker,"Neve Campbell, Shirley Henderson, Alexandra Maria Lara","Comedy, Drama",5.1
+874,The Second Wind,2007,155.0,Alain Corneau,"Daniel Auteuil, Monica Bellucci, Michel Blanc","Crime, Drama, Mystery",5.7
+875,Natale in crociera,2007,105.0,Neri Parenti,"Christian De Sica, Michelle Hunziker, Alessandro Siani",Comedy,4.1
+876,The Cellar Door,2007,86.0,Matt Zettell,"James DuMont, Michelle Tomlinson, Heather Sconyers","Horror, Thriller",4.1
+877,Left for Dead,2007,84.0,Albert Pyun,"María Alché, Soledad Arocena, Andrés Bagg","Action, Horror, Western",3.2
+878,Snuff 102,2007,105.0,Mariano Peralta,"Andrea Alfonso, Julián Alfonzo, Rodrigo Bianco","Horror, Thriller",3.4
+879,Before You Here,2007,90.0,Henry Pincus,"Michael Biehn, Adam Campbell, Katie Cassidy","Comedy, Romance",5.4
+880,The Ghost,2007,132.0,Amr Arafa,"Ahmed Ezz, Zeina, Mahmoud Abdulmoghni","Action, Crime, Mystery",6.6
+881,The Train: Some Lines Should Never Be Crossed...,2007,134.0,"Hasnain Hyderabadwala, Raksha Mistry","Emraan Hashmi, Geeta Basra, Rajat Bedi","Crime, Drama, Thriller",4.4
+882,Come tu mi vuoi,2007,107.0,Volfango De Biasi,"Cristiana Capotondi, Nicolas Vaporidis, Giulia Louise Steigerwalt",Comedy,5.1
+883,Trumbo,2007,96.0,Peter Askin,"Dalton Trumbo, Joan Allen, Brian Dennehy","Documentary, Biography",7.4
+884,Hello,2007,,"Meccartin, Raffi","Mohanlal, Parvati Melton, Jagathy Sreekumar","Comedy, Mystery",6.6
+885,Headless Horseman,2007,87.0,Anthony C. Ferrante,"Billy Aaron Brown, Rebecca Mozo, Richard Moll",Horror,3.9
+886,Supercroc,2007,85.0,Scott Harper,"Cynthia Rose Hall, Matt Blashaw, Kim Little","Action, Adventure, Horror",2.0
+887,Sis ve Gece,2007,90.0,Turgut Yasalar,"Ugur Polat, Selma Ergeç, Ayten Uncuoglu","Adventure, Drama, Mystery",6.6
+888,La question humaine,2007,143.0,Nicolas Klotz,"Mathieu Amalric, Michael Lonsdale, Edith Scob","Drama, History, Music",6.2
+889,The Right Distance,2007,106.0,Carlo Mazzacurati,"Giovanni Capovilla, Valentina Lodovini, Ahmed Hafiene",Drama,6.9
+890,Return of the Ghostbusters,2007,85.0,Hank Braxtan,"Tim Johnson, J. Michael Weiss, Joel Hanson","Action, Comedy, Fantasy",5.2
+891,Kaidan,2007,115.0,Hideo Nakata,"Kikunosuke Onoe, Hitomi Kuroki, Mao Inoue","Drama, Horror, Romance",6.1
+892,Non pensarci,2007,105.0,Gianni Zanasi,"Valerio Mastandrea, Giuseppe Battiston, Anita Caprioli","Comedy, Drama",6.8
+893,Epitaph,2007,98.0,"Jung Bum-shik, Sik Jung","Kim Bo-kyung, Lee Dong-kyu, Kim Eung-soo","Drama, Horror",6.2
+894,American Zombie,2007,96.0,Grace Lee,"Austin Basis, Jane Edith Wilson, Al Vicente","Comedy, Drama, Horror",5.0
+895,Allare Allari,2007,,Mupalaneni Shiva,"Venu Thottempudi, Allari Naresh, Parvati Melton",Comedy,5.1
+896,Body sob 19,2007,125.0,Paween Purijitpanya,"Pae Arak Amornsupasiri, Ornjira Lamwilai, Kritteera Inpornwijit","Drama, Horror, Mystery",6.3
+897,Where God Left His Shoes,2007,96.0,Salvatore Stabile,"John Leguizamo, Leonor Varela, David Castro",Drama,7.1
+898,Bone Dry,2007,100.0,Brett A. Hart,"Luke Goss, Lance Henriksen, Dee Wallace","Action, Thriller",5.4
+899,Ghosts of Abu Ghraib,2007,78.0,Rory Kennedy,"Israel Rivera, Megan Ambuhl Graner, Javal Davis","Documentary, Crime, History",7.6
+900,Le prix à payer,2007,95.0,Alexandra Leclère,"Christian Clavier, Nathalie Baye, Gérard Lanvin",Comedy,5.6
+901,Black House,2007,104.0,Terra Shin,"Hwang Jung-min, Yoo Seon, Kim Seo-hyeong","Horror, Thriller",6.1
+902,Attack of the Gryphon,2007,89.0,Andrew Prowse,"Jonathan LaPaglia, Larry Drake, Amber Benson","Action, Adventure, Fantasy",3.3
+903,A Map for Saturday,2007,90.0,Brook Silva-Braga,"Scott Erikson, Rebecca Filmer, Sabrina Hezinger",Documentary,7.8
+904,Blood Brothers,2007,95.0,Alexi Tan,"Daniel Wu, Chang Chen, Ye Liu","Crime, Drama",5.5
+905,Blood of My Blood,2007,110.0,Christopher Zalla,"Jesús Ochoa, Armando Hernández, Jorge Adrián Espíndola","Drama, Thriller",6.8
+906,Sultanes del Sur,2007,95.0,Alejandro Lozano,"Tony Dalton, Ana de la Reguera, Silverio Palacios","Action, Crime, Drama",6.0
+907,Dubai Seenu,2007,157.0,Sreenu Vaitla,"Ravi Teja, Nayanthara, J.D. Chakravarthi",Comedy,6.5
+908,Armin,2007,82.0,Ognjen Svilicic,"Emir Hadzihafizbegovic, Armin Omerovic, Jens Münchow",Drama,6.7
+909,The Neighbor,2007,98.0,Eddie O'Flaherty,"Matthew Modine, Michèle Laroque, Katie Walder","Comedy, Romance",5.4
+910,Aalwar,2007,152.0,Chella Ayyavu,"Ajith Kumar, Asin, Vivek",Action,2.9
+911,Reine Geschmacksache,2007,105.0,Ingo Rasper,"Edgar Selge, Florian Bartholomäi, Roman Knizka","Comedy, Romance",6.6
+912,Manda Bala (Send a Bullet),2007,85.0,Jason Kohn,,Documentary,7.2
+913,Mia melissa ton Avgousto,2007,95.0,Thodoris Atheridis,"Thodoris Atheridis, Smaragda Karydi, Vicky Volioti","Comedy, Drama, Romance",5.2
+914,Gympl,2007,105.0,Tomás Vorel,"Tomás Vorel Jr., Jirí Mádl, Eva Holubová","Comedy, Crime, Drama",6.3
+915,War Dance,2007,105.0,"Sean Fine, Andrea Nix","Dominic, Nancy, Rose","Documentary, Music, War",7.8
+916,Religion,2007,105.0,Bhavna Talwar,"Pankaj Kapur, Supriya Pathak, Pankaj Tripathi","Drama, History",8.0
+917,A Very British Gangster,2007,97.0,Donal MacIntyre,"Donal MacIntyre, Craig Fitzpatrick, Dominic Noonan","Documentary, Crime",6.2
+918,Girl 27,2007,86.0,David Stenn,"Patricia Douglas, Baby Peggy, Richard W. Bann","Documentary, Biography",7.0
+919,Opium: Diary of a Madwoman,2007,90.0,János Szász,"Ulrich Thomsen, Kirsti Refseth, Zsolt László","Drama, Romance",6.4
+920,Puffball: The Devil's Eyeball,2007,120.0,Nicolas Roeg,"Rita Tushingham, Kelly Reilly, Oscar Pearce","Drama, Fantasy, Horror",4.3
+921,Surviving with Wolves,2007,118.0,Véra Belmont,"Mathilde Goffart, Yaël Abecassis, Guy Bedos",Drama,6.5
+922,La señal,2007,95.0,"Ricardo Darín, Martín Hodara","Ricardo Darín, Diego Peretti, Julieta Díaz","Crime, Drama, Mystery",5.9
+923,PVC-1,2007,85.0,Spiros Stathoulopoulos,"Hugo Pereira, Daniel Páez, Gilberto Ramirez","Drama, Thriller",6.6
+924,The Chair,2007,89.0,Brett Sullivan,"Alanna Chisholm, Lauren Roy, Nick Abraham","Drama, Horror, Thriller",4.3
+925,What Would Jesus Buy?,2007,91.0,Rob VanAlkemade,"Adetola Abiade, Paul Allen, Paul Norman Allen","Documentary, Comedy",6.3
+926,7-10 Split,2007,94.0,Tommy Reid,"Tara Reid, Ross Patterson, Clayne Crawford","Comedy, Sport",4.3
+927,Time to Die,2007,104.0,Dorota Kedzierzawska,"Danuta Szaflarska, Krzysztof Globisz, Marta Waldera",Drama,7.5
+928,A Thousand Years of Good Prayers,2007,83.0,Wayne Wang,"Henry O, Pasha D. Lychnikoff, Feihong Yu",Drama,6.7
+929,To fili tis... Zois,2007,103.0,Nikos Zapatinas,"Laertis Malkotsis, Katerina Papoutsaki, Zeta Douka","Comedy, Romance",5.3
+930,Pretty Cool Too,2007,89.0,Rolfe Kanefsky,"Eric Fagundes, Julia Lehman, Valerie Carpenter","Comedy, Romance",3.5
+931,Heavy Metal in Baghdad,2007,84.0,"Suroosh Alvi, Eddy Moretti","Firas Al-Lateef, Suroosh Alvi, Marwan Reyad","Documentary, Music, War",7.6
+932,The Last Lear,2007,130.0,Rituparno Ghosh,"Amitabh Bachchan, Preity G Zinta, Arjun Rampal",Drama,6.9
+933,OrAngeLove,2007,92.0,Alan Badoev,"Aleksey Chadov, Olga Makeeva, Aleksey Vertinskiy","Drama, Romance",6.5
+934,Anwar,2007,144.0,Manish Jha,"Siddharth Koirala, Nauheed Cyrusi, Manisha Koirala","Drama, Romance, Thriller",6.5
+935,Always: Sunset on Third Street 2,2007,146.0,Takashi Yamazaki,"Shin'ichi Hatori, Maki Horikita, Fumiyo Kohinata","Comedy, Drama, Family",7.5
+936,The Bodyguard 2,2007,95.0,Phetthai Vongkumlao,"Phetthai Vongkumlao, Jacqueline Apitananon, Janet Khiew","Action, Comedy",5.4
+937,Gloss,2007,118.0,Andrei Konchalovsky,"Yuliya Vysotskaya, Irina Rozanova, Aleksandr Domogarov","Comedy, Drama",5.5
+938,Forever Never Anywhere,2007,88.0,Antonin Svoboda,"Christoph Grissemann, Dirk Stermann, Heinz Strunk","Comedy, Drama",6.9
+939,Vinodayathra,2007,130.0,Sathyan Anthikad,"Dileep, Mukesh, Meera Jasmine","Comedy, Drama, Romance",7.1
+940,The Hitchhiker,2007,86.0,Leigh Scott,"Jeff Denton, Sarah Lieving, Shaley Scott","Horror, Thriller",3.6
+941,Blind,2007,98.0,Tamar van den Dop,"Joren Seldeslachts, Halina Reijn, Katelijne Verbeke","Drama, Romance",7.2
+942,Heavy Petting,2007,94.0,Marcel Sarmiento,"Malin Akerman, Brendan Hines, Mike Doyle",Comedy,4.4
+943,Muoi: The Legend of a Portrait,2007,93.0,Tae-kyeong Kim,"Jo An, Hong-Anh, Yong-tae Kim","Drama, History, Horror",5.7
+944,War Made Easy: How Presidents & Pundits Keep Spinning Us to Death,2007,73.0,"Loretta Alper, Jeremy Earp","Spiro Agnew, Christiane Amanpour, Peter Arnett","Documentary, History, War",7.9
+945,Revenge,2007,135.0,Anton Megerdichev,"Elena Panova, Andrey Panin, Victor Herminio Lopez","Action, Crime, Drama",5.7
+946,Hero,2007,130.0,Masayuki Suzuki,"Takuya Kimura, Takako Matsu, Nene Ôtsuka",Drama,6.7
+947,Hearts of War,2007,96.0,Damian Lee,"Jonathan Scarfe, Nina Dobrev, Zachary Bennett","Drama, War",5.0
+948,Shankardada Zindabad,2007,152.0,Prabhu Deva,"Chiranjeevi, Meka Srikanth, Karishma Kotak",Comedy,5.2
+949,Am Ende kommen Touristen,2007,85.0,Robert Thalheim,"Alexander Fehling, Ryszard Ronczewski, Barbara Wysocka",Drama,6.8
+950,Dead Time,2007,102.0,Joko Anwar,"Donny Alamsyah, Fachry Albar, Ario Bayu","Crime, Fantasy, Horror",7.0
+951,Paragraf 78 - Film vtoroy,2007,90.0,Mikhail Khleborodov,"Gosha Kutsenko, Vladimir Vdovichenkov, Anastasiya Slanevskaya","Action, Sci-Fi, Thriller",4.9
+952,Hvordan vi slipper af med de andre,2007,94.0,Anders Rønnow Klarlund,"Søren Pilmark, Louise Mieritz, Søren Fauli","Comedy, Drama, Sci-Fi",5.9
+953,Pool Party,2007,92.0,Timothy M. Snell,"Justin T. Bowler, Sarah Horvath, Kenzo Lee",Comedy,3.5
+954,Small Town Folk,2007,88.0,Peter Stanley-Ward,"Chris Ryle Wright, Warwick Davis, Dan Palmer","Comedy, Fantasy, Horror",3.2
+955,"Help Me, Eros",2007,103.0,Kang-sheng Lee,"Kang-sheng Lee, Hui-Jen Liao, Dennis Nieh",Drama,6.0
+956,The Little Traitor,2007,88.0,Lynn Roth,"Ido Port, Alfred Molina, Gilya Stern",Drama,6.9
+957,Dreamland,2007,77.0,James P. Lay,"Jackie Kreisler, Shane Elliott, Jonathan Breck","Sci-Fi, Horror, Mystery",3.5
+958,Black Devil Doll,2007,73.0,Jonathan Louis Lewis,"Jonathan Louis Lewis, Chris Lewis, Minh Bao","Comedy, Horror",4.1
+959,Sick Girl,2007,83.0,Eben McGarr,"Leslie Andrews, John McGarr, Charlie Trepany","Crime, Horror, Thriller",4.5
+960,A Blessing in Disguise,2007,91.0,Mohammad Hossein Latifi,"Mohammad Reza Golzar, Baran Kosari, Reza Attaran",Comedy,4.6
+961,Fall Down Dead,2007,94.0,Jon Keeyes,"Dominique Swain, Mehmet Günsür, Udo Kier","Horror, Thriller",3.8
+962,Die Wilden Kerle 4,2007,110.0,Joachim Masannek,"Jimi Blue Ochsenknecht, Wilson Gonzalez, Sarah Kim Gries","Comedy, Family, Sport",3.6
+963,Polycarp,2007,85.0,George Lekovic,"Michael Paré, Charles Durning, Beverly Lynne","Crime, Horror, Romance",2.7
+964,Dorks & Damsels,2007,93.0,Gunnar B. Gudmundsson,"Ragnhildur Steinunn Jónsdóttir, Snorri Engilbertsson, Davíð Þór Jónsson","Comedy, Fantasy",6.4
+965,Tyrannosaurus Azteca,2007,86.0,Brian Trenchard-Smith,"Ian Ziering, Marco Sanchez, Kalani Queypo","Action, Adventure, Comedy",3.0
+966,Den sorte Madonna,2007,88.0,Lasse Spang Olsen,"Anders W. Berthelsen, Tuva Novotny, Nicolas Bro","Action, Comedy, Drama",5.2
+967,Gardener of Eden,2007,88.0,Kevin Connolly,"Lukas Haas, Erika Christensen, Giovanni Ribisi","Comedy, Drama",6.0
+968,Dead Heist,2007,80.0,Bo Webb,"Big Daddy Kane, Brandon Xavier, D.J. Naylor","Action, Crime, Horror",3.8
+969,O Homem Que Desafiou o Diabo,2007,106.0,Moacyr Góes,"Marcos Palmeira, Flávia Alessandra, Lívia Falcão","Comedy, Fantasy",6.6
+970,"Tokyo Tower: Mom and Me, and Sometimes Dad",2007,142.0,Joji Matsuoka,"Joe Odagiri, Kirin Kiki, Yayako Uchida",Drama,7.4
+971,Punk's Not Dead,2007,93.0,Susan Dynner,"Craig Aaronson, Colin Abrahall, Adri","Documentary, Music",7.0
+972,S.O.S. szerelem!,2007,96.0,Tamás Sas,"Sándor Csányi, Mónika Ullmann, Iván Fenyö","Comedy, Romance",4.6
+973,Arabikkatha,2007,150.0,Lal Jose,"Sreenivasan, Chu Min Zhang, Indrajith Sukumaran",Drama,7.6
+974,"My Daughter, My Angel",2007,85.0,Alexis Durand-Brault,"Michel Côté, Karine Vanasse, Dominique Leduc","Crime, Drama, Thriller",6.1
+975,"The Foreign Duck, the Native Duck and God in a Coin Locker",2007,110.0,Yoshihiro Nakamura,"Gaku Hamada, Eita Nagayama, Megumi Seki",Drama,7.1
+976,Body Armour,2007,90.0,Gerry Lively,"Til Schweiger, Chazz Palminteri, Lluís Homar","Action, Thriller",4.0
+977,Cult,2007,85.0,Joe Knee,"Taryn Manning, Rachel Miner, Glenn Dunk",Horror,2.9
+978,Bad Habits,2007,103.0,Simón Bross,"Ximena Ayala, Alma Sofía Martínez, Marco Treviño",Drama,6.7
+979,Switch,2007,90.0,Ole Martin Hafsmo,"Ida Elise Broch, Espen Klouman Høiner, Hilde Lyrån","Action, Drama, Sport",5.3
+980,Zivi i mrtvi,2007,87.0,Kristijan Milic,"Filip Sovagovic, Velibor Topic, Slaven Knezovic","Fantasy, War, Horror",6.0
+981,Planet B-Boy,2007,95.0,Benson Lee,"Stephane Fiossanangaye, Mr. Freeze, Luis Mateo","Documentary, History, Music",7.6
+982,Chuecatown,2007,101.0,Juan Flahn,"Pepón Nieto, Pablo Puyol, Concha Velasco","Comedy, Crime",6.1
+983,Popcorn,2007,90.0,Darren Paul Fisher,"Jack Ryder, Jodi Albert, Andrew Lee Potts","Comedy, Romance",5.4
+984,Illegal Aliens,2007,96.0,David Giancola,"Lenise Sorén, Gladise Jiminez, Anna Nicole Smith","Comedy, Sci-Fi",2.7
+985,"Yobi, the Five Tailed Fox",2007,86.0,Seong-gang Lee,"Son Ye-jin, Ryu Deok-hwan, Gong Hyung-jin","Animation, Adventure, Drama",6.7
+986,Chris & Don: A Love Story,2007,90.0,"Tina Mascara, Guido Santi","W.H. Auden, Don Bachardy, Ted Bachardy","Documentary, Biography, Romance",7.8
+987,The Debt,2007,100.0,Assaf Bernstein,"Gila Almagor, Netta Garti, Edgar Selge","Drama, Thriller",6.8
+988,Sa majesté Minor,2007,101.0,Jean-Jacques Annaud,"José Garcia, Vincent Cassel, Sergio Peris-Mencheta","Comedy, Fantasy",4.0
+989,All Is Forgiven,2007,105.0,Mia Hansen-Løve,"Paul Blain, Marie-Christine Friedrich, Victoire Rousseau",Drama,6.7
+990,Putevoy obkhodchik,2007,80.0,Igor Shavlak,"Svetlana Metkina, Dmitriy Orlov, Aleksandr Vysokovskiy","Horror, Thriller",4.1
+991,Taking 5,2007,90.0,Andrew Waller,"Alona Tal, Daniella Monet, Christy Carlson Romano","Comedy, Family, Music",5.4
+992,The Merry Widow,2007,93.0,Isabelle Mergault,"Michèle Laroque, Jacques Gamblin, Wladimir Yordanoff","Comedy, Drama, Romance",5.4
+993,Spinning Into Butter,2007,86.0,Mark Brokaw,"Sarah Jessica Parker, Miranda Richardson, Victor Rasuk",Drama,4.4
+994,L'invité,2007,86.0,Laurent Bouhnik,"Daniel Auteuil, Valérie Lemercier, Thierry Lhermitte",Comedy,5.5
+995,Párpados azules,2007,98.0,Ernesto Contreras,"Cecilia Suárez, Enrique Arreola, Magali Boysselle","Comedy, Drama",6.8
+996,Raja 1918,2007,114.0,Lauri Törhönen,"Martin Bahne, Minna Haapkylä, Tommi Korpela","Drama, History, Romance",6.6
+997,Mataharis,2007,100.0,Icíar Bollaín,"Najwa Nimri, Tristán Ulloa, María Vázquez","Comedy, Drama",6.6
+998,Yogi,2007,155.0,V.V. Vinayak,"Prabhas, Nayanthara, Kota Srinivasa Rao","Action, Drama",4.6
+999,The Living Wake,2007,91.0,Sol Tryon,"Mike O'Connell, Jesse Eisenberg, Jim Gaffigan",Comedy,6.0
+1000,Showdown at Area 51,2007,96.0,C. Roma,"Jason London, Gigi Edgley, Christa Campbell","Action, Sci-Fi, Thriller",3.3

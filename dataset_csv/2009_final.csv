@@ -1,4 +1,4 @@
-ID,Name,Year,Duration,Directors,Actors,Genres,Rating
+﻿ID,Name,Year,Duration,Directors,Actors,Genres,Rating
 1,Inglourious Basterds,2009,153,Quentin Tarantino,"Brad Pitt, Diane Kruger, Eli Roth","Adventure, Drama, War",8.4
 2,Avatar,2009,162,James Cameron,"Sam Worthington, Zoe Saldaña, Sigourney Weaver","Action, Adventure, Fantasy",7.9
 3,Up,2009,96,"Pete Docter, Bob Peterson","Edward Asner, Jordan Nagai, John Ratzenberger","Animation, Adventure, Comedy",8.3
@@ -597,402 +597,405 @@ ID,Name,Year,Duration,Directors,Actors,Genres,Rating
 596,The Shock Doctrine,2009,79,"Mat Whitecross, Michael Winterbottom","Janine Huard, Ewen Cameron, Naomi Klein","Documentary, History",7.6
 597,Mademoiselle Chambon,2009,101,Stéphane Brizé,"Vincent Lindon, Sandrine Kiberlain, Aure Atika","Drama, Romance",6.9
 598,Daddy Longlegs,2009,100,"Benny Safdie, Josh Safdie","Ronald Bronstein, Alex Greenblatt, Sage Ranaldo","Comedy, Drama",6.9
-599,Katalin Varga,2009,82,Peter Strickland,"Hilda Péter, Norbert Tankó, László Mátray","Crime, Drama, Thriller",7.0
-600,South of the Border,2009,78,Oliver Stone,"Tariq Ali, Tony Blair, Wolf Blitzer",Documentary,7.0
-601,Lies & Illusions,2009,93,Tibor Takács,"Christian Slater, Cuba Gooding Jr., Sarah Ann Schultz","Action, Thriller",3.5
-602,The Assassin Next Door,2009,103,Danny Lerner,"Olga Kurylenko, Ninet Tayeb, Henry David","Action, Drama, Thriller",5.7
-603,Adrift,2009,97,Heitor Dhalia,"Laura Neiva, Vincent Cassel, Camilla Belle",Drama,6.7
-604,Fat People,2009,110,Daniel Sánchez Arévalo,"Antonio de la Torre, Roberto Enríquez, Verónica Sánchez","Comedy, Drama",6.5
-605,Hard Times,2009,94,Tom Reeve,"John Lynch, Cornelius Clarke, Lochlann O'Mearáin","Comedy, Crime",5.9
-606,Teenage Dirtbag,2009,106,Regina Crosby,"Scott Michael Foster, Noa Hegesh, Chris Ellis",Drama,7.0
-607,"Sex, Party & Lies",2009,107,"Alfonso Albacete, David Menkes","Mario Casas, Ana de Armas, Yon González","Comedy, Drama",3.9
-608,It's Alive,2009,80,Josef Rusnak,"Bijou Phillips, James Murray, Raphaël Coleman","Horror, Sci-Fi",3.5
-609,That Evening Sun,2009,109,Scott Teems,"Hal Holbrook, Barlow Jacobs, Mia Wasikowska",Drama,7.0
-610,King of Thorn,2009,120,Kazuyoshi Katayama,"Kana Hanazawa, Toshiyuki Morikawa, Eri Sendai","Animation, Adventure, Horror",6.3
-611,Dossier K.,2009,120,Jan Verheyen,"Koen De Bouw, Werner De Smedt, Blerim Destani","Action, Crime, Drama",6.7
-612,Hideaway,2009,88,François Ozon,"Isabelle Carré, Louis-Ronan Choisy, Pierre Louis-Calixte",Drama,6.4
-613,Saint John of Las Vegas,2009,85,Hue Rhodes,"Steve Buscemi, Romany Malco, Sarah Silverman","Comedy, Drama",5.6
-614,Balibo,2009,111,Robert Connolly,"Anthony LaPaglia, Oscar Isaac, Damon Gameau","Biography, Drama, History",7.0
-615,Third Person Singular Number,2009,124,Mostofa Sarwar Farooki,"Nusrat Imrose Tisha, Mosharraf Karim, Rashed Uddin Ahmed Topu",Drama,7.1
-616,The Forbidden Door,2009,115,Joko Anwar,"Fachry Albar, Marsha Timothy, Ario Bayu","Horror, Mystery, Thriller",6.6
-617,Not Forgotten,2009,96,Dror Soref,"Simon Baker, Paz Vega, Michael DeLorenzo","Horror, Thriller",4.7
-618,10 to 11,2009,110,Pelin Esmer,"Nejat Isler, Mithat Esmer, Laçin Ceylan",Drama,7.2
-619,Stoic,2009,91,Uwe Boll,"Edward Furlong, Shaun Sipos, Sam Levinson","Crime, Drama",5.2
-620,Transylmania,2009,92,"David Hillenbrand, Scott Hillenbrand","Patrick Cavanaugh, James DeBello, Tony Denman","Comedy, Horror",3.8
-621,Father of My Children,2009,110,Mia Hansen-Løve,"Louis-Do de Lencquesaing, Chiara Caselli, Alice de Lencquesaing",Drama,6.8
-622,"Nightmares in Red, White and Blue: The Evolution of the American Horror Film",2009,96,Andrew Monument,"Lance Henriksen, Larry Cohen, Joe Dante","Documentary, Horror",7.1
-623,Play the Game,2009,105,Marc Fienberg,"Paul Campbell, Andy Griffith, Doris Roberts","Comedy, Romance",6.3
-624,Phobia 2,2009,125,"Banjong Pisanthanakun, Visute Poolvoralaks, Paween Purijitpanya","Jirayu La-ongmanee, Ray MacDonald, Chumphorn Thepphithak","Comedy, Fantasy, Horror",6.6
-625,Talhotblond,2009,83,Barbara Schroeder,"Steve Clement, Thomas Montgomery, Ken Case","Documentary, Crime, Thriller",6.8
-626,The Time That Remains,2009,109,Elia Suleiman,"Menashe Noy, Elia Suleiman, Baher Agbariya","Drama, History",7.1
-627,I Give My First Love to You,2009,122,Takehiko Shinjô,"Mao Inoue, Masaki Okada, Natsuki Harada","Drama, Romance",7.1
-628,Lo,2009,80,Travis Betz,"Jeremiah Birkett, Sarah Lassez, Ward Roberts","Comedy, Fantasy, Horror",6.4
-629,Dark Planet: Rebellion,2009,105,Fedor Bondarchuk,"Vasiliy Stepanov, Yulia Snigir, Pyotr Fyodorov","Action, Adventure, Sci-Fi",5.0
-630,What's Your Raashee?,2009,195,Ashutosh Gowariker,"Harman Baweja, Priyanka Chopra Jonas, Anjan Srivastav","Comedy, Drama, Romance",4.8
-631,Endgame,2009,109,Pete Travis,"William Hurt, Chiwetel Ejiofor, Jonny Lee Miller","Drama, History",6.2
-632,ExTerminators,2009,92,John Inwood,"Heather Graham, Jennifer Coolidge, Matthew Settle","Comedy, Drama",5.2
-633,The Steam Experiment,2009,90,Philippe Martinez,"Val Kilmer, Armand Assante, Eric Roberts","Mystery, Thriller",3.9
-634,Warning!!! Pedophile Released,2009,96,Shane Ryan-Reid,"Kai Lanette, Shane Ryan-Reid, Sean Cain","Crime, Drama, Romance",2.9
-635,More Than Blue,2009,105,Won Tae-yeon,"Kwon Sang-woo, Lee Bo-young, Lee Beom-su","Drama, Romance",7.5
-636,"Yo, también",2009,103,"Antonio Naharro, Álvaro Pastor","Lola Dueñas, Pablo Pineda, Isabel García Lorca",Drama,7.2
-637,LOpuKHI,2009,85,"Sarik Andreasyan, Roman Samgin","Sergey Pisarenko, Evgeniy Nikishin, Endryu Ndzhogu",Comedy,4.6
-638,Double Identity,2009,93,Dennis Dimster,"Val Kilmer, Izabella Miko, Julian Wadham","Action, Crime, Thriller",4.5
-639,Dabbe 2,2009,85,Hasan Karacadag,"Muharrem Dalfidan, Incinur Dasdemir, Leyla Göksun",Horror,3.0
-640,Accidents Happen,2009,92,Andrew Lancaster,"Geena Davis, Harrison Sloan Gilbertson, Harry Cook","Comedy, Drama",6.0
-641,Attack on Darfur,2009,98,Uwe Boll,"Kristanna Loken, David O'Hara, Noah Dalton Danby","Drama, War",5.8
-642,Women Without Men,2009,89,"Shirin Neshat, Shoja Azari","Tolouei Shabnam, Pegah Ferydoni, Arita Shahrzad",Drama,6.3
-643,Falling Up,2009,98,David M. Rosenthal,"Joseph Cross, Sarah Roemer, Snoop Dogg","Comedy, Drama, Romance",5.6
-644,Wrong Rosary,2009,90,Mahmut Fazil Coskun,"Nadir Saribacak, Görkem Yeltan, Murat Ergun",Drama,7.0
-645,Harishchandrachi Factory,2009,96,Paresh Mokashi,"Nandu Madhav, Vibhawari Deshpande, Atharva Karve","Biography, Comedy, Drama",8.4
-646,Eden Is West,2009,110,Costa-Gavras,"Riccardo Scamarcio, Odysseas Papaspiliopoulos, Léa Wiazemsky",Drama,6.8
-647,RoboGeisha,2009,102,Noboru Iguchi,"Aya Kiguchi, Hitomi Hasebe, Takumi Saitô","Action, Comedy, Sci-Fi",5.2
-648,Penniless,2009,108,Hamid Nematollah,"Bahram Radan, Leila Hatami, Nader Fallah","Comedy, Drama",6.3
-649,Shank,2009,94,"Simon Pearce, Christian Martin","Wayne Virgo, Marc Laurent, Tom Bott",Drama,6.2
-650,The Way of War,2009,90,John R. Carter,"Cuba Gooding Jr., Clarence Williams III, John Terry","Action, Thriller",3.2
-651,The Pool Boys,2009,107,J.B. Rogers,"Matthew Lillard, Brett Davern, Efren Ramirez",Comedy,4.6
-652,Alamar,2009,73,Pedro González-Rubio,"Jorge Machado, Roberta Palombini, Natan Machado Palombini","Documentary, Drama",7.2
-653,Crazy Racer,2009,99,Hao Ning,"Huang Bo, Kung-Wei Lu, Morris Hsiang Jung","Action, Adventure, Comedy",7.4
-654,Paintball,2009,86,Daniel Benmayor,"Brendan Mackey, Jennifer Matter, Patrick Regis","Action, Thriller",3.8
-655,My Suicide,2009,107,David Lee Miller,"Gabriel Sunday, David Carradine, Mariel Hemingway","Comedy, Drama",7.0
-656,Ju-on: White Ghost,2009,61,Ryûta Miyake,"Hiroki Suzuki, Ichirôta Miyakawa, Natsuki Kasa","Fantasy, Horror",5.8
-657,Finding Bliss,2009,96,Julie Davis,"Leelee Sobieski, Matthew Davis, Jamie Kennedy","Comedy, Romance",5.2
-658,In the Beginning,2009,130,Xavier Giannoli,"François Cluzet, Emmanuelle Devos, Gérard Depardieu","Crime, Drama",7.1
-659,Last Ride,2009,90,Glendyn Ivin,"Hugo Weaving, Tom Russell, Anita Hegh","Crime, Drama",6.6
-660,Neuilly sa mère!,2009,90,Gabriel Julien-Laferrière,"Samy Seghir, Jérémy Denisty, Rachida Brakni",Comedy,5.5
-661,Psyhi vathia,2009,142,Pantelis Voulgaris,"Vangelis Mourikis, Giorgos Symeonidis, Victoria Haralabidou","Drama, War",7.1
-662,A Brand New Life,2009,92,"Lee Jong Eon, Ounie Lecomte","Kim Sae-ron, Sul Kyung-gu, Ko Ah-sung",Drama,7.4
-663,Pain of Autumn,2009,112,Tomris Giritlioglu,"Murat Yildirim, Beren Saat, Okan Yalabik",Drama,6.1
-664,I Am Here... Now,2009,87,Neil Breen,"Neil Breen, Joy Senn, Elizabeth Sekora","Comedy, Crime, Drama",4.3
-665,Mee Shivajiraje Bhosale Boltoy,2009,149,"Santosh Ramdas Manjrekar, Satish Padwal","Mahesh Manjrekar, Sachin Khedekar, Makarand Anaspure",Drama,8.0
-666,Unmade Beds,2009,97,Alexis Dos Santos,"Déborah François, Fernando Tielve, Michiel Huisman","Comedy, Drama",6.4
-667,David's Birthday,2009,106,Marco Filiberti,"Alessandro Gassmann, Maria de Medeiros, Massimo Poggio","Drama, Mystery, Romance",6.6
-668,Five Cities,2009,95,Onur Ünlü,"Tansu Biçer, Ege Tanman, Ahmet Rifat Sungar",Drama,6.9
-669,The Wind Journeys,2009,117,Ciro Guerra,"Marciano Martínez, Yull Núñez, Agustin Nieves","Drama, Music",7.4
-670,Dead Air,2009,90,Corbin Bernsen,"Navid Negahban, Susan Ruttan, Corbin Bernsen","Horror, Sci-Fi, Thriller",5.2
-671,Galerianki,2009,82,Katarzyna Roslaniec,"Anna Karczmarczyk, Dagmara Krasowska, Dominika Gwit",Drama,5.4
-672,Letters to Father Jacob,2009,74,Klaus Härö,"Kaarina Hazard, Heikki Nousiainen, Jukka Keinonen",Drama,7.3
-673,Map of the Sounds of Tokyo,2009,109,Isabel Coixet,"Rinko Kikuchi, Sergi López, Min Tanaka","Drama, Thriller",6.0
-674,The Art of the Steal,2009,101,Don Argott,"Julian Bond, David D'Arcy, Richard Feigen",Documentary,7.5
-675,My Girlfriend Is an Agent,2009,112,Terra Shin,"Kim Ha-neul, Kang Ji-hwan, Ryu Seung-ryong","Action, Comedy, Romance",6.3
-676,Abimm,2009,108,Safak Bal,"Mustafa Üstündag, Levent Üzümcü, Çagri Katre Türkay","Comedy, Drama",5.8
-677,The White Stripes Under Great White Northern Lights,2009,93,Emmett Malloy,"Alex Debogorski, Maria Durham, Jack White","Documentary, Music",8.0
-678,Born of Hope,2009,71,Kate Madison,"Christopher Dane, Beth Aynsley, Kate Madison","Action, Adventure, Fantasy",6.1
-679,Wonderful World,2009,89,Joshua Goldin,"Matthew Broderick, Sanaa Lathan, Michael Kenneth Williams","Comedy, Drama, Romance",6.0
-680,A Shine of Rainbows,2009,101,Vic Sarin,"Connie Nielsen, Aidan Quinn, John Bell","Drama, Family",7.0
-681,Don McKay,2009,87,Jake Goldberger,"Thomas Haden Church, Elisabeth Shue, Melissa Leo","Drama, Mystery, Thriller",5.8
-682,Blood Night: The Legend of Mary Hatchet,2009,83,Frank Sabatella,"Bill Moseley, Danielle Harris, Nate Dushku",Horror,4.4
-683,The Hell of '63,2009,108,Steven de Jong,"Willeke van Ammelrooy, Lottie Hellingman, Pierre Bokma","Adventure, Comedy, Drama",6.2
-684,Raging Phoenix,2009,112,Rashane Limtrakul,"JeeJa Yanin, Kazu Patrick Tang, Nui Saendaeng","Action, Romance",6.0
-685,Angel of Death,2009,77,Paul Etheredge,"Zoë Bell, Jake Abel, Vail Bloom","Action, Crime, Thriller",4.9
-686,My Rainy Days,2009,119,Yuri Kanchiku,"Nozomi Sasaki, Shôsuke Tanihara, Hikaru Yamamoto","Drama, Romance",6.8
-687,Brain Drain,2009,104,Fernando González Molina,"Mario Casas, Alberto Amarilla, Amaia Salamanca","Comedy, Romance",4.7
-688,The Most Dangerous Man in America: Daniel Ellsberg and the Pentagon Papers,2009,92,"Judith Ehrlich, Rick Goldsmith","Peter Arnett, Ben Bagdikian, Ann Beeson",Documentary,7.7
-689,Zivot i smrt porno bande,2009,90,Mladen Djordjevic,"Mihajlo Jovanovic, Ana Acimovic, Srboljub Milin","Adventure, Drama, Horror",6.0
-690,Meitantei Conan: Shikkoku no chaser,2009,111,Yasuichirô Yamamoto,"Minami Takayama, Wakana Yamazaki, Akira Kamiya","Animation, Action, Adventure",7.2
-691,The Fish Child,2009,96,Lucía Puenzo,"Inés Efron, Mariela Vitale, Pep Munné","Crime, Drama, Romance",5.8
-692,Headhunter,2009,108,Rumle Hammerich,"Lars Mikkelsen, Charlotte Munck, Burkhard Forstreuter",Thriller,6.6
-693,Boy Interrupted,2009,92,Dana Heinz Perry,"Evan Scott Perry, Dana Heinz Perry, Hart Perry","Documentary, Biography, Drama",7.8
-694,Perkins' 14,2009,95,Craig Singer,"Patrick O'Kane, Richard Brake, Michale Graves","Horror, Thriller",5.0
-695,The Last Days of Emma Blank,2009,89,Alex van Warmerdam,"Marlies Heuer, Gene Bervoets, Annet Malherbe","Comedy, Drama",6.8
-696,Eloïse's Lover,2009,92,Jesús Garay,"Diana Gómez, Ariadna Cabrol, Laura Conejero","Drama, Romance",6.3
-697,(Untitled),2009,96,Jonathan Parker,"Adam Goldberg, Marley Shelton, Eion Bailey","Comedy, Drama, Music",6.2
-698,The Marc Pease Experience,2009,84,Todd Louiso,"Jason Schwartzman, Ben Stiller, Anna Kendrick","Comedy, Drama, Music",4.0
-699,The Reverse,2009,99,Borys Lankosz,"Agata Buzek, Krystyna Janda, Anna Polony","Comedy, Drama, Romance",7.0
-700,Naan Kadavul,2009,165,Bala,"Arya, Pooja Umashankar, Motta Rajendran","Action, Drama",7.7
-701,Slaughter,2009,96,Stewart Hopewell,"Lucy Holt, Amy Shiels, David Sterne","Horror, Thriller",4.5
-702,Tetsuo: The Bullet Man,2009,71,Shin'ya Tsukamoto,"Eric Bossick, Akiko Monô, Yûko Nakamura","Action, Horror, Sci-Fi",5.4
-703,Ex,2009,120,Fausto Brizzi,"Claudia Gerini, Flavio Insinna, Silvio Orlando","Comedy, Romance",6.2
-704,Eyeborgs,2009,102,Richard Clabaugh,"Adrian Paul, Dale Girard, Mikey Wiseman","Action, Crime, Horror",4.9
-705,Dark House,2009,85,Darin Scott,"Jeffrey Combs, Meghan Ory, Diane Louise Salinger","Horror, Thriller",4.8
-706,In Darkness,2009,100,Çagan Irmak,"Meral Çetinkaya, Erdem Akakçe, Derya Alabora","Drama, Thriller",7.0
-707,Inspector Bellamy,2009,110,Claude Chabrol,"Gérard Depardieu, Clovis Cornillac, Jacques Gamblin","Crime, Drama, Thriller",5.9
-708,Helen,2009,120,Sandra Nettelbeck,"Ashley Judd, Goran Visnjic, Lauren Lee Smith",Drama,6.2
-709,"Maria, ihm schmeckt's nicht!",2009,96,Neele Leana Vollmar,"Christian Ulmen, Mina Tander, Lino Banfi",Comedy,5.9
-710,The String,2009,93,Mehdi Ben Attia,"Claudia Cardinale, Antonin Stahly Viswanadhan, Salim Kechiouche","Drama, Romance",6.7
-711,Salvage,2009,79,Lawrence Gough,"Neve McIntosh, Shaun Dooley, Dean Andrews",Horror,4.9
-712,Evil Things,2009,86,Dominic Perez,"Laurel Casillo, Morgan Hooper, Torrey Weiss","Horror, Mystery, Thriller",4.2
-713,Under the Mountain,2009,90,Jonathan King,"Tom Cameron, Sam Neill, Sophie McBride","Adventure, Drama, Fantasy",4.8
-714,Rapt,2009,125,Lucas Belvaux,"Yvan Attal, Anne Consigny, André Marcon","Drama, Thriller",6.7
-715,The Sniper,2009,90,Dante Lam,"Richie Jen, Xiaoming Huang, Edison Chen","Action, Crime, Thriller",5.5
-716,Made in Hungaria,2009,109,Gergely Fonyó,"Tamás Szabó Kimmel, Iván Fenyö, Tünde Kiss","Biography, Comedy, Music",6.8
-717,Sweet Karma,2009,85,Andrew Thomas Hunt,"Shera Bechard, John Tokatlidis, Frank J. Zupancic","Crime, Drama, Thriller",5.1
-718,Mommo,2009,94,Atalay Tasdiken,"Elif Bülbül, Mehmet Bülbül, Mete Dönmezer","Drama, Family",7.6
-719,Bornova Bornova,2009,92,Inan Temelkuran,"Kadir Çermik, Öner Erkan, Damla Sönmez",Drama,7.0
-720,Pagafantas,2009,80,Borja Cobeaga,"Gorka Otxoa, Sabrina Garciarena, Julián López","Comedy, Romance",6.1
-721,The Red Chapel,2009,88,Mads Brügger,"Mads Brügger, Simon Jul Jørgensen, Tommy Kenter","Documentary, Comedy",7.2
-722,Love the Beast,2009,92,Eric Bana,"Eric Bana, Jeremy Clarkson, Steve Coad","Documentary, Sport",7.4
-723,Handsome Harry,2009,94,Bette Gordon,"Jamey Sheridan, Karen Young, Steve Buscemi",Drama,6.1
-724,The Graves,2009,88,Brian Pulido,"Clare Grant, Jillian Murray, Bill Moseley","Adventure, Horror, Thriller",3.6
-725,The Pagan Queen,2009,99,Constantin Werner,"Winter Ave Zoli, Csaba Lucas, Lea Mornar","Fantasy, History, Romance",4.5
-726,Kielletty hedelmä,2009,104,Dome Karukoski,"Marjut Maristo, Amanda Pilke, Malla Malmivaara",Drama,6.3
-727,Giant,2009,84,Adrián Biniez,"Horacio Camandule, Leonor Svarcas, Néstor Guzzini",Drama,6.8
-728,Jack and the Beanstalk,2009,94,Gary J. Tunnicliffe,"Colin Ford, Chloë Grace Moretz, Christopher Lloyd","Adventure, Comedy, Family",4.6
-729,The Heavy,2009,102,Marcus Warren,"Gary Stretch, Vinnie Jones, Stephen Rea",Thriller,4.9
-730,Ingenious,2009,85,Jeff Balsmeyer,"Dallas Roberts, Jeremy Renner, Ayelet Zurer","Comedy, Drama, Romance",5.7
-731,Not Since You,2009,90,Jeff Stephenson,"Desmond Harrington, Kathleen Robertson, Christian Kane","Drama, Romance",5.4
-732,Kaiji: The Ultimate Gambler,2009,130,Tôya Satô,"Tatsuya Fujiwara, Ken'ichi Matsuyama, Yuriko Yoshitaka",Drama,6.4
-733,Ju-on: Black Ghost,2009,60,Mari Asato,"Kôji Seto, Kuniteru Shigeyama, Kana Tsugihara","Fantasy, Horror",5.2
-734,Hadewijch,2009,105,Bruno Dumont,"Julie Sokolowski, Karl Sarafidis, Yassine Salime",Drama,6.7
-735,The Year I Became a Liar,2009,102,Ricardo Trogi,"Jean-Carl Boucher, Claudio Colangelo, Sandrine Bisson","Comedy, Drama, Family",7.2
-736,Deliver Us from Evil,2009,100,Ole Bornedal,"Lasse Rimmer, Lene Nystrøm, Fanny Leander Bornedal",Thriller,6.5
-737,Le code a changé,2009,100,Danièle Thompson,"Karin Viard, Dany Boon, Marina Foïs","Comedy, Drama",5.8
-738,Happily N'ever After 2: Snow White: Another Bite at the Apple,2009,75,"Steven E. Gordon, Boyd Kirkland","G.K. Bowes, Cam Clarke, Doug Erholtz","Animation, Adventure, Comedy",3.6
-739,Daniel and Ana,2009,90,Michel Franco,"Dario Yazbek Bernal, Marimar Vega, José María Torre","Drama, Thriller",6.1
-740,Kanthaswamy,2009,190,Susi Ganesan,"Vikram, Shriya Saran, Prabhu","Action, Crime, Drama",5.1
-741,Reykjavik Whale Watching Massacre,2009,87,Júlíus Kemp,"Pihla Viitala, Nae, Terence Anderson","Comedy, Horror",4.8
-742,Snow White and Russian Red,2009,108,Xawery Zulawski,"Borys Szyc, Roma Gasiorowska, Maria Strzelecka","Comedy, Drama",5.3
-743,Fat Head,2009,104,Tom Naughton,"Peter Paddon, Tom Naughton, Chareva Naughton",Documentary,7.0
-744,Occult,2009,110,Kôji Shiraishi,"Mika Azuma, Horiken, Kôen Kondô","Horror, Mystery, Thriller",6.5
-745,Kirpi,2009,100,Erdal Murat Aktas,"Mazhar Alanson, Güven Kiraç, Zihni Göktay",Comedy,5.9
-746,Paleri Manikyam: Oru Pathirakolapathakathinte Katha,2009,155,Ranjith,"Mammootty, Mythili, Shweta Menon","Crime, Drama, History",7.6
-747,My Last Five Girlfriends,2009,90,Julian Kemp,"Brendan Patricks, Naomie Harris, Kelly Adams",Comedy,5.7
-748,Father and Guns,2009,107,Émile Gaudreault,"Michel Côté, Louis-José Houde, Rémy Girard","Action, Comedy, Crime",6.7
-749,Bangkok Traffic (Love) Story,2009,126,Ping Adisorn Trisirikasem,"Sirin Horwang, Theeradej Wongpuapan, Ungsumalynn Sirapatsakmetha","Comedy, Romance",7.1
-750,The Book of Law,2009,95,Maziar Miri,"Parviz Parastui, Darine Hamze, Davood Fathali Beigi","Comedy, Drama, Romance",6.1
-751,"Love, Bitter",2009,106,A. Taner Elhan,"Halit Ergenç, Cansu Dere, Songül Öden","Crime, Drama",5.2
-752,Yattâman,2009,111,"Takashi Miike, Eisuke Naitô, Hatsuki Yokoo","Shô Sakurai, Saki Fukuda, Kyôko Fukada","Action, Adventure, Comedy",5.9
-753,Same Same But Different,2009,107,Detlev Buck,"Apinya Sakuljaroensuk, David Kross, Jens Harzer",Drama,6.7
-754,Circle of Eight,2009,83,Stephen Cragg,"John Bishop, Kirk Bovill, Ryan Doom","Horror, Mystery, Sci-Fi",3.7
-755,Bran Nue Dae,2009,85,Rachel Perkins,"Rocky McKenzie, Jessica Mauboy, Ernie Dingo","Comedy, Drama, Musical",6.2
-756,Wake,2009,97,Ellie Kanner,"Bijou Phillips, Ian Somerhalder, Jane Seymour","Comedy, Drama, Romance",5.4
-757,Henri-Georges Clouzot's Inferno,2009,100,"Serge Bromberg, Ruxandra Medrea","Romy Schneider, Bérénice Bejo, Serge Reggiani",Documentary,7.4
-758,Well Done Abba!,2009,144,Shyam Benegal,"Boman Irani, Minissha Lamba, Sammir Dattani",Comedy,7.2
-759,Le Donk & Scor-zay-zee,2009,71,Shane Meadows,"Paddy Considine, Dean Palinczuk, Olivia Colman",Comedy,6.3
-760,The Ape,2009,81,Jesper Ganslandt,"Olle Sarri, Eva Rexed, Françoise Joyce","Drama, Thriller",5.9
-761,The Wild Hunt,2009,96,Alexandre Franchi,"Kaniehtiio Horn, Kent McQuaid, Trevor Hayes","Drama, Thriller",6.2
-762,20th Century Boys 2: The Last Hope,2009,139,Yukihiko Tsutsumi,"Toshiaki Karasawa, Etsushi Toyokawa, Takako Tokiwa","Drama, Fantasy",6.3
-763,Siva Manasula Sakthi,2009,138,M. Rajesh,"Jiiva, Anuya Bhagwat, Santhanam","Comedy, Drama, Romance",7.1
-764,Wild Cherry,2009,85,Dana Lustig,"Rumer Willis, Tania Raymonde, Kristin Cavallari",Comedy,4.0
-765,Kenny Begins,2009,87,"Mats Lindberg, Carl Åstrand","Johan Rheborg, Bill Skarsgård, Carla Abrahamsen","Action, Comedy, Sci-Fi",5.7
-766,Neighbor,2009,90,Robert A. Masciantonio,"America Olivo, Christian Campbell, Joseph Aniska","Horror, Thriller",3.9
-767,La Mission,2009,117,Peter Bratt,"Benjamin Bratt, Alex Hernandez, Christopher Borgzinner",Drama,7.0
-768,40,2009,89,Emre Sahin,"Ntare Guma Mbaho Mwine, Deniz Çakir, Ali Atay",Drama,6.5
-769,Piano Girl,2009,100,Murat Saraçoglu,"Tarik Akan, Serif Sezer, Levent Tülek","Comedy, Drama, History",7.5
-770,We Live in Public,2009,91,Ondi Timoner,"Josh Harris, Tom Harris, Carlos Alvarez",Documentary,7.1
-771,The Dark Lurking,2009,97,Gregory Connors,"Tonia Renee Hammerich, Bret Kennedy, Ozzie Devrish","Action, Horror, Sci-Fi",3.2
-772,Guy and Madeline on a Park Bench,2009,82,Damien Chazelle,"Jason Palmer, Desiree Garcia, Sandha Khin","Drama, Musical",6.0
-773,Glowing Stars,2009,90,Lisa Siwe,"Josefine Mattsson, Mika Berndtsdotter Ahlén, Annika Hallin",Drama,6.2
-774,Butchered,2009,105,Brillante Mendoza,"Coco Martin, Maria Isabel Lopez, Julio Diaz","Crime, Drama, Horror",6.5
-775,What Goes Up,2009,115,Jonathan Glatzer,"Steve Coogan, Hilary Duff, Olivia Thirlby","Comedy, Drama",5.3
-776,Tum Mile,2009,140,Kunal Deshmukh,"Emraan Hashmi, Soha Ali Khan, Prerna Chawla","Drama, Romance",5.1
-777,Frat Party,2009,90,Robert Bennett,"Randy Wayne, Caroline D'Amore, Jareb Dauplaise",Comedy,2.8
-778,The Exploding Girl,2009,79,Bradley Rust Gray,"Zoe Kazan, Mark Rendall, Maryann Urbano",Drama,6.2
-779,Love N' Dancing,2009,91,Robert Iscove,"Amy Smart, Tom Malloy, Billy Zane","Drama, Romance",5.4
-780,Hooked,2009,90,Pavel Sanaev,"Sergey Chirkov, Marina Petrenko, Evgeniy Kharlanov","Action, Drama, Sci-Fi",5.6
-781,Princess Kaiulani,2009,130,Marc Forby,"Q'orianka Kilcher, Barry Pepper, Shaun Evans","Biography, Drama, History",6.1
-782,The War Boys,2009,93,Ron Daniels,"Victor Rasuk, Brian J. Smith, Benjamin Walker","Crime, Drama, Romance",6.5
-783,Ghost Machine,2009,93,Chris Hartwill,"Sean Faris, Rachael Taylor, Luke Ford","Action, Sci-Fi, Thriller",4.7
-784,The Last Lovecraft: Relic of Cthulhu,2009,78,Henry Saine,"Kyle Davis, Devin McGinn, Matt Bauer","Adventure, Comedy, Horror",5.4
-785,The Mighty Macs,2009,99,Tim Chambers,"Carla Gugino, Marley Shelton, Ellen Burstyn","Drama, Sport",6.6
-786,Necromentia,2009,82,Pearry Reginald Teo,"Layton Matthews, Chad Grimes, Santiago Craig",Horror,4.5
-787,Never Surrender,2009,87,Hector Echavarria,"Hector Echavarria, Patrick Kilpatrick, James Russo","Action, Drama, Thriller",2.6
-788,No Love in the City,2009,84,Marius Vaysberg,"Aleksey Chadov, Volodymyr Zelenskyy, Ville Haapasalo","Comedy, Fantasy, Romance",5.7
-789,Spring Fever,2009,116,Ye Lou,"Hao Qin, Sicheng Chen, Wei Wu",Drama,6.4
-790,Videocracy,2009,85,Erik Gandini,"Silvio Berlusconi, Flavio Briatore, Fabio Calvi",Documentary,6.5
-791,Wait for Me and I Will Not Come,2009,90,Miroslav Momcilovic,"Milos Samolov, Mirjana Karanovic, Gordan Kicic","Drama, Romance",7.1
-792,"Wszystko, co kocham",2009,95,Jacek Borcuch,"Mateusz Kosciukiewicz, Olga Frycz, Jakub Gierszal","Comedy, Drama, Music",6.8
-793,Life Is Hot in Cracktown,2009,99,Buddy Giovinazzo,"Evan Ross, Stephanie Lugo, Maurice Blake","Crime, Drama",6.1
-794,St. George Shoots the Dragon,2009,120,Srdjan Dragojevic,"Lazar Ristovski, Natasa Janjic Medancic, Milutin Milosevic","Drama, History, Romance",6.4
-795,Hooking Up,2009,95,"Vincent Scordia, Jeff Siegel","Corey Feldman, Brian O'Halloran, Bronson Pinchot","Comedy, Drama",2.6
-796,Transcendent Man,2009,83,Robert Barry Ptolemy,"Tom Abate, Hugo de Garis, Peter Diamandis",Documentary,7.1
-797,Defamation,2009,91,Yoav Shamir,"Yoav Shamir, Abraham Foxman, Bob Wolfson",Documentary,7.4
-798,Ask Geliyorum Demez,2009,95,Murat Seker,"Bergüzar Korel, Tolgahan Sayisman, Zeki Alasya","Comedy, Romance",5.1
-799,White Lightnin',2009,92,Dominic Murphy,"Muse Watson, Carrie Fisher, Wallace Merck","Biography, Drama",7.0
-800,At World's End,2009,95,Tomas Villum Jensen,"Nikolaj Lie Kaas, Birgitte Hjort Sørensen, Nikolaj Coster-Waldau","Action, Adventure, Comedy",5.8
-801,The Storm Warriors,2009,111,"Danny Pang, Oxide Chun Pang","Aaron Kwok, Ekin Cheng, Kenny Ho","Action, Adventure, Fantasy",5.2
-802,The Janky Promoters,2009,85,Marcus Raboy,"Ice Cube, Mike Epps, Jeezy","Comedy, Crime, Music",5.1
-803,Eeram,2009,164,Arivazhagan Venkatachalam,"Aadhi, Nandaa Dorairaj, Sindhu Menon","Crime, Horror, Mystery",7.6
-804,First Squad: The Moment of Truth,2009,73,"Yoshiharu Ashino, Aljosha Klimov, Misha Shprits","Elena Chebaturkina, Mikhail Tikhonov, Damir Eldarov","Animation, Action, Drama",5.6
-805,13 Semester,2009,101,Frieder Wittich,"Max Riemelt, Dieter Mann, Robert Gwisdek","Comedy, Drama, Romance",6.7
-806,The Tomb,2009,89,Michael Staininger,"Wes Bentley, Kaitlin Doubleday, Sofya Skya","Horror, Thriller",3.8
-807,Eccentricities of a Blonde-Haired Girl,2009,64,Manoel de Oliveira,"Ricardo Trêpa, Catarina Wallenstein, Diogo Dória","Drama, Romance",6.2
-808,Antaheen,2009,120,Aniruddha Roy Chowdhury,"Rahul Bose, Aparna Sen, Radhika Apte","Drama, Romance",7.8
-809,Bhramaram,2009,150,Blessy,"Mohanlal, Madhan Bob, Bhoomika Chawla","Crime, Drama, Thriller",7.4
-810,Art & Copy,2009,89,Doug Pray,"Mary Wells, Dan Wieden, Hal Riney",Documentary,6.8
-811,Last of the Living,2009,88,Logan McMillan,"Morgan Williams, Robert Faith, Ashleigh Southam","Comedy, Horror, Sci-Fi",4.7
-812,Wings of the Night,2009,97,Serdar Akar,"Beren Saat, Murat Ünalmis, Erkan Petekkaya","Drama, Romance",4.6
-813,Samyy luchshiy film 2,2009,80,Oleg Fomin,"Garik Kharlamov, Oleg Vereshchagin, Dmitry Khrustalev",Comedy,2.8
-814,The Big Gay Musical,2009,87,"Casper Andreas, Fred M. Caruso","Lena Hall, Daniel Robinson, Joey Dudding","Comedy, Drama, Music",6.5
-815,Purple Sea,2009,105,Donatella Maiorca,"Valeria Solarino, Isabella Ragonese, Ennio Fantastichini","Drama, History, Romance",6.6
-816,The Man Who Will Come,2009,115,Giorgio Diritti,"Greta Zuccheri Montanari, Claudio Casadio, Alba Rohrwacher","Drama, War",7.4
-817,The Assailant,2009,94,João Daniel Tikhomiroff,"Aílton Carmo, Jéssica Barbosa, Flávio Rocha","Action, Biography, Drama",5.9
-818,And Then Came Lola,2009,71,"Ellen Seidler, Megan Siler","Ashleigh Sumner, Jill Bennett, Cathy DeBuono","Comedy, Drama, Romance",4.0
-819,Alabama Moon,2009,99,Tim McCanlies,"Jimmy Bennett, Gabriel Basso, Uriah Shelton","Drama, Family",6.4
-820,The Missing Person,2009,95,Noah Buschel,"Michael Shannon, Frank Wood, Amy Ryan","Drama, Mystery, Thriller",6.0
-821,The Garden of Sinners: A Study in Murder - Part 2,2009,120,"Ei Aoki, Takayuki Hirao, Hikaru Kondô","Maaya Sakamoto, Ken'ichi Suzumura, Takako Honda","Animation, Action, Crime",7.5
-822,The Happiest Girl in the World,2009,99,Radu Jude,"Andreea Bosneag, Violeta Haret-Popa, Vasile Muraru","Comedy, Drama",6.9
-823,Kadri'nin Götürdügü Yere Git,2009,102,Onur Tan,"Safak Sezer, Esin Civangil, Alp Kirsan",Comedy,3.2
-824,My Dog Tulip,2009,83,"Paul Fierlinger, Sandra Fierlinger","Christopher Plummer, Lynn Redgrave, Isabella Rossellini","Animation, Drama",6.8
-825,El Farah,2009,95,Sameh Abdulaziz,"Salah Abdalla, Mahmood Al-Husaini, Hamad Almutaani",Drama,7.1
-826,The Blackout,2009,80,Robert David Sanders,"Barbara Streifel Sanders, Joseph Dunn, Ian Malcolm","Horror, Sci-Fi, Thriller",3.3
-827,Don't Look Up,2009,85,Fruit Chan,"Rachael Murphy, Eli Roth, Ben DiGregorio",Horror,3.1
-828,Pecados de mi padre,2009,94,Nicolas Entel,"Jorge Enrique Abello, Pablo Escobar, Sebastian Marroquín","Documentary, Crime",7.2
-829,Beautiful,2009,97,Dean O'Flaherty,"Deborra-Lee Furness, Peta Wilson, Aaron Jeffery","Drama, Thriller",5.2
-830,Tellement proches,2009,102,"Olivier Nakache, Éric Toledano","Vincent Elbaz, Isabelle Carré, François-Xavier Demaison","Comedy, Drama",6.4
-831,"Road, Movie",2009,95,Dev Benegal,"Abhay Deol, Satish Kaushik, Tannishtha Chatterjee","Adventure, Comedy, Crime",6.7
-832,Prince of the Seas,2009,110,Wael Ihsan,"Mohamed Henedi, Sherry Adel, Yaser Galal","Adventure, Comedy, Romance",5.4
-833,Outrage,2009,90,Kirby Dick,"Barney Frank, James McGreevey, Kevin Naff",Documentary,7.5
-834,Round Da Way,2009,96,"Emmanuel Klotz, Albert Pereira-Lazaro","Vincent Cassel, Diane Kruger, Izm","Animation, Comedy",6.9
-835,"Little Fish, Strange Pond",2009,80,Gregory Dark,"Matthew Modine, Callum Blue, Adam Baldwin","Comedy, Crime, Drama",3.8
-836,Eraser Children,2009,100,Nathan Christoffel,"Rob Alec, Andrew Baker, Simon Barbaro","Comedy, Drama, Fantasy",3.7
-837,Oldboys,2009,95,Nikolaj Steen,"Kristian Halken, Robert Hansen, Laura Christensen","Comedy, Drama",6.6
-838,Ali'nin Sekiz Günü,2009,107,Cemal San,"Serdar Orçin, Begüm Birgören, Ufuk Bayraktar",Drama,6.2
-839,My Tehran for Sale,2009,101,Granaz Moussavi,"Marzieh Vafamehr, Amir Chegini, Asha Mehrabi",Drama,6.4
-840,Vorstadtkrokodile,2009,98,Christian Ditter,"Nick Romeo Reimann, Fabian Halbig, Leonie Tepe","Adventure, Family",6.2
-841,Charlie & Boots,2009,101,Dean Murphy,"Paul Hogan, Shane Jacobson, Roy Billing","Adventure, Comedy, Drama",6.4
-842,Reel Injun,2009,85,"Neil Diamond, Catherine Bainbridge, Jeremiah Hayes","Adam Beach, Chris Eyre, Russell Means","Documentary, Western",7.5
-843,Redwoods,2009,82,David Lewis,"Matthew Montgomery, Tad Coughenour, Caleb Dorfman","Drama, Romance",5.6
-844,Crush,2009,82,"Jeffrey Gerritsen, John V. Soto","Christopher Egan, Brooke Harman, Emma Lung","Horror, Mystery, Thriller",4.2
-845,Coco,2009,95,Gad Elmaleh,"Gad Elmaleh, Pascale Arbillot, Jean Benguigui","Comedy, Drama",3.5
-846,Hurt,2009,97,Barbara Stepansky,"Melora Walters, William Mapother, Johanna Braddy","Drama, Horror, Mystery",5.1
-847,Reclaiming the Blade,2009,90,Daniel McNicoll,"Viggo Mortensen, Karl Urban, John Rhys-Davies",Documentary,7.7
-848,Le missionnaire,2009,91,Roger Delattre,"Jean-Marie Bigard, David Strajmayster, Thiam Aïssatou",Comedy,6.5
-849,Higashi no Eden Gekijoban I: The King of Eden,2009,80,Kenji Kamiyama,"Christine M. Auten, Duncan Brannan, John Burgmeier","Animation, Action, Comedy",6.8
-850,The Devil's Ground,2009,89,Micheal Bafaro,"Daryl Hannah, Leah Gibson, Luke Camilleri","Horror, Thriller",4.3
-851,Melancholie der Engel,2009,158,Marian Dora,"Zenza Raggi, Carsten Frank, Frank Oliver","Drama, Fantasy, Horror",3.3
-852,The Girl on the Train,2009,97,André Téchiné,"Émilie Dequenne, Catherine Deneuve, Michel Blanc",Drama,6.0
-853,Lover or Loser,2009,110,Dave Schram,"Gaite Jansen, Martijn Lakemeier, Claire Bender","Drama, Family",5.7
-854,Coffin Rock,2009,92,Rupert Glasson,"Robert Taylor, Lisa Chappell, Sam Parsonson","Drama, Thriller",5.3
-855,Autumn,2009,110,Steven Rumbelow,"Dexter Fletcher, Dickon Tolson, Lana Kamenov","Horror, Sci-Fi, Thriller",3.2
-856,Terug naar de kust,2009,110,Will Koopman,"Linda de Mol, Ariane Schluter, Daan Schuurmans",Thriller,6.3
-857,Someone's Knocking at the Door,2009,80,Chad Ferrin,"Noah Segan, Andrea Bunker, Ezra Buzzington","Fantasy, Horror",4.0
-858,An Englishman in New York,2009,75,Richard Laxton,"John Hurt, Denis O'Hare, Jonathan Tucker","Biography, Drama",7.1
-859,Professor Layton and the Eternal Diva,2009,99,Masakazu Hashimoto,"Hidehiko Ishizuka, Yûji Tanaka, Yô Ôizumi","Animation, Adventure, Crime",6.7
-860,Happy Tears,2009,92,Mitchell Lichtenstein,"Parker Posey, Demi Moore, Rip Torn","Comedy, Drama",5.2
-861,Oscar and the Lady in Pink,2009,105,Eric-Emmanuel Schmitt,"Michèle Laroque, Amir Ben Abdelmoumen, Max von Sydow",Drama,7.0
-862,The Girl,2009,100,Fredrik Edfeldt,"Blanca Engström, Shanti Roney, Annika Hallin","Drama, Family",6.7
-863,3some,2009,94,Salvador García Ruiz,"Adriana Ugarte, Nilo Zimmermann, Biel Duran","Drama, Romance",5.6
-864,El Traspatio,2009,122,Carlos Carrera,"Ana de la Reguera, Asur Zagada, Marco Pérez","Crime, Drama, Mystery",6.9
-865,Boogie,2009,82,Gustavo Cova,"Pablo Echarri, Jesús Ochoa, Nancy Dupláa","Animation, Action, Crime",6.3
-866,Big River Man,2009,100,John Maringouin,"Matthew Mohlke, Borut Strel, Martin Strel",Documentary,7.3
-867,The Break-Up Artist,2009,105,Steve Woo,"Amanda Crew, Ryan Kennedy, Moneca Delain","Comedy, Romance",4.8
-868,The Christmas Party,2009,86,Rasmus Heide,"Thomas Voss, Julie R. Ølgaard, Dick Kaysø",Comedy,3.8
-869,Saleem,2009,120,"Y.V.S. Chowdary, Gopireddy Mallikarjuna Reddy","Vishnu Manchu, Ileana D'Cruz, Mohan Babu","Action, Comedy, Romance",3.4
-870,The Chef of South Polar,2009,125,Shûichi Okita,"Kôsuke Toyohara, Masato Sakai, Kengo Kôra","Comedy, Drama",7.0
-871,Every Jack Has a Jill,2009,80,Jennifer Devoldère,"Mélanie Laurent, Justin Bartha, Valérie Benguigui","Comedy, Romance",6.0
-872,Bluebeard,2009,80,Catherine Breillat,"Dominique Thomas, Lola Créton, Daphné Baiwir","Drama, Fantasy, Romance",6.3
-873,The Belgrade Phantom,2009,82,Jovan B. Todorovic,"Milutin Milosevic, Radoslav 'Rale' Milenkovic, Marko Zivic","Documentary, Action, Crime",6.7
-874,No Impact Man: The Documentary,2009,93,"Laura Gabbert, Justin Schein","Colin Beavan, Michelle Conlin",Documentary,6.6
-875,Splinterheads,2009,94,Brant Sersen,"Thomas Middleditch, Rachael Taylor, Christopher McDonald",Comedy,5.8
-876,Albino Farm,2009,90,Joe Anderson,"Tammin Sursok, Chris Jericho, Richard Christy",Horror,3.8
-877,Sutures,2009,83,Tammi Sutton,"Andrew Prine, Jason London, Carlos Lauchu","Horror, Thriller",4.1
-878,The Lightkeepers,2009,97,Daniel Adams,"Richard Dreyfuss, Bruce Dern, Blythe Danner",Comedy,5.7
-879,Heart Broken,2009,110,Ali Rooyintan,"Shahab Hosseini, Bita Baadraan, Khosro Shakibai","Drama, Romance",5.6
-880,Upperdog,2009,100,Sara Johnsen,"Hermann Sabado, Agnieszka Grochowska, Mads Sjøgård Pettersen","Comedy, Drama",6.5
-881,Son of Babylon,2009,100,Mohamed Al Daradji,"Shazada Hussein, Yasser Talib, Bashir Al Majid",Drama,7.2
-882,Bobbos,2009,113,Wael Ihsan,"Adel Emam, Youssra, Ezzat Abu Ouf",Comedy,4.2
-883,The Last Resort,2009,75,Brandon Nutt,"America Olivo, Paulie Rojas, Marissa Tait","Horror, Thriller",3.1
-884,Peter and Vandy,2009,95,Jay DiPietro,"Jason Ritter, Jess Weixler, Jesse L. Martin","Drama, Romance",6.3
-885,Le vilain,2009,86,Albert Dupontel,"Catherine Frot, Albert Dupontel, Bouli Lanners","Action, Comedy, Crime",6.3
-886,Tales from the Script,2009,105,Peter Hanson,"Allison Anders, Jane Anderson, Doug Atchison",Documentary,7.1
-887,"Scheherazade, Tell Me a Story",2009,150,"Wael Mandour, Yousry Nasrallah","Mona Zaki, Mahmoud Hemida, Hasan El-Raddad",Drama,6.7
-888,Curious George 2: Follow That Monkey!,2009,80,Norton Virgien,"Frank Welker, Amy Hill, Ed O'Ross","Animation, Adventure, Comedy",5.6
-889,La matassa,2009,98,"Giambattista Avellino, Salvatore Ficarra, Valentino Picone","Salvatore Ficarra, Valentino Picone, Anna Safroncik","Comedy, Crime",6.4
-890,Love Hurts,2009,90,Barra Grant,"Richard E. Grant, Carrie-Anne Moss, Johnny Pacar","Comedy, Romance",5.5
-891,Tatarak,2009,85,Andrzej Wajda,"Krystyna Janda, Pawel Szajda, Jan Englert",Drama,6.3
-892,Smash Cut,2009,86,Lee Demarbre,"David Hess, Jesse Buck, Michael Berryman","Comedy, Horror",3.6
-893,The Smell of Success,2009,96,Michael Polish,"Billy Bob Thornton, Téa Leoni, Mark Polish",Comedy,5.2
-894,S&M Judge,2009,85,Erik Lamens,"Gene Bervoets, Veerle Dobbelaere, Axel Daeseleire","Biography, Drama",6.7
-895,Formosa Betrayed,2009,103,Adam Kane,"James Van Der Beek, Wendy Crewson, John Heard",Thriller,6.0
-896,Peraanmai,2009,154,"S.P. Jhananathan, N. Kalyanakrishnan, V. Yokaanand","Ravi Mohan, Saranya Nag, Vasundhara Kashyap","Action, Adventure, Drama",7.1
-897,Snarveien,2009,77,Severin Eskeland,"Marte Germaine Christensen, Sondre Krogtoft Larsen, Jens Hultén","Horror, Thriller",5.2
-898,Naadodigal,2009,161,Samuthirakani,"M. Sasikumar, Vijay Vasanth, Bharani","Action, Drama",7.7
-899,Blood River,2009,104,Adam Mason,"Andrew Howard, Tess Panzer, Ian Duncan","Horror, Thriller, Western",5.2
-900,The Ministers,2009,89,Franc. Reyes,"John Leguizamo, Harvey Keitel, Florencia Lozano","Crime, Drama",4.4
-901,White Night,2009,135,Park Shin-woo,"Han Suk-kyu, Son Ye-jin, Go Soo","Mystery, Romance, Thriller",6.5
-902,Ek Niranjan,2009,150,Puri Jagannadh,"Prabhas, Kangana Ranaut, Sonu Sood",Action,5.4
-903,Breaking Upwards,2009,88,Daryl Wein,"Zoe Lister-Jones, Daryl Wein, Julie White",Romance,6.0
-904,Gurren Lagann the Movie: The Lights in the Sky are Stars,2009,126,"Hiroyuki Imaishi, Yasuhiro Geshi, Hiroshi Ikehata","Steve Blum, Johnny Yong Bosch, G.K. Bowes","Animation, Action, Drama",8.0
-905,Sophie's Revenge,2009,107,Eva Jin,"Ziyi Zhang, Bingbing Fan, Peter Ho","Comedy, Romance",5.9
-906,Pokhoronite menya za plintusom,2009,117,Sergey Snezhkin,"Svetlana Kryuchkova, Aleksey Petrenko, Mariya Shukshina",Drama,7.0
-907,Sword of War,2009,139,Renzo Martinelli,"Raz Degan, Kasia Smutniak, Rutger Hauer","Drama, History, War",4.4
-908,Taking Chances,2009,99,Talmage Cooley,"Justin Long, Emmanuelle Chriqui, Rob Corddry",Comedy,4.4
-909,The Dancer and the Thief,2009,127,Fernando Trueba,"Ricardo Darín, Abel Ayala, Miranda Bodenhofer",Drama,6.1
-910,"Killing is My Business, Honey",2009,109,Sebastian Niemann,"Rick Kavanian, Nora Tschirner, Christian Tramitz","Comedy, Crime, Romance",5.7
-911,Everyman's War,2009,104,Thad T. Smith,"Cole Carson, Lauren Bair, Michael J. Prosser","Biography, Drama, War",5.1
-912,House of Boys,2009,117,Jean-Claude Schlim,"Loïc Peckels, Layke Anderson, Harry Ferrier","Drama, Music, Romance",6.5
-913,Cartagena,2009,92,Alain Monne,"Sophie Marceau, Christopher Lambert, Margarita Rosa de Francisco","Drama, Romance",6.7
-914,The Replacement,2009,105,Ahmad Ala El-Dib,"Ahmed Ezz, Menna Shalabi, Muhammad Lutfi","Action, Drama, Thriller",6.7
-915,Rain Fall,2009,111,Max Mannix,"Kippei Shîna, Gary Oldman, Kyôko Hasegawa","Action, Crime, Drama",4.6
-916,Diamant 13,2009,98,Gilles Béhat,"Gérard Depardieu, Olivier Marchal, Asia Argento","Action, Crime, Thriller",5.1
-917,Life Partner,2009,138,Rumi Jaffery,"Govinda, Fardeen Khan, Tusshar Kapoor","Comedy, Drama, Romance",5.3
-918,"Me, Them and Lara",2009,115,Carlo Verdone,"Carlo Verdone, Laura Chiatti, Marco Guadagno",Comedy,5.8
-919,The Black Waters of Echo's Pond,2009,89,Gabriel Bologna,"Danielle Harris, James Duval, Robert Patrick","Fantasy, Horror, Thriller",4.4
-920,Türkler Çildirmis Olmali,2009,100,Murat Aslan,"Peker Açikalin, Önder Açikbas, Durul Bazan","Action, Adventure, Comedy",3.0
-921,Street Dreams,2009,88,Chris Zamoscianyk,"Paul Rodriguez, Ryan Dunn, Rob Dyrdek","Drama, Sport",6.1
-922,Akadimia Platonos,2009,103,Filippos Tsitos,"Antonis Kafetzopoulos, Anastasis Kozdine, Titika Sarigouli","Comedy, Drama",6.6
-923,City of Life,2009,119,Ali F. Mostafa,"Alexandra Maria Lara, Sonu Sood, Saoud Al Kaabi","Drama, Romance",6.8
-924,Gölgesizler,2009,94,Ümit Ünal,"Selçuk Yöntem, Hakan Karahan, Taner Birsel","Drama, Fantasy, Mystery",6.6
-925,Evil Angel,2009,123,Richard Dutcher,"Ving Rhames, Ava Gaudet, Kristopher Shepard","Horror, Mystery, Thriller",5.3
-926,Jail,2009,131,Madhur Bhandarkar,"Manoj Bajpayee, Neil Nitin Mukesh, Mugdha Godse",Drama,6.2
-927,Freedom,2009,111,Tony Gatlif,"Marc Lavoine, Marie-Josée Croze, James Thierrée","Drama, War",7.2
-928,Looking for Jackie,2009,85,"Gangliang Fang, Ping Jiang","Yan Tang, Bun Yuen, Mo Yuen","Action, Comedy, Family",3.9
-929,Accused at 17,2009,90,Doug Campbell,"Cynthia Gibb, Nicole Gale Anderson, Janet Montgomery","Crime, Drama, Mystery",5.3
-930,Horst Schlämmer - Isch kandidiere!,2009,96,Angelo Colagrossi,"Hape Kerkeling, Alexandra Kamp, Simon Gosejohann",Comedy,4.8
-931,The Haunting,2009,94,Elio Quiroga,"Ana Torrent, Francisco Boira, Héctor Colomé","Horror, Mystery",5.3
-932,The Temptation of St. Tony,2009,114,Veiko Õunpuu,"Taavi Eelmaa, Ravshana Kurkova, Tiina Tauraite","Drama, Fantasy, Mystery",7.1
-933,Chaw,2009,122,Jeong-won Shin,"Kwon Bum-taek, Yoo-i Ha, Jang Hang-seon","Action, Comedy, Horror",5.6
-934,Kings of Pastry,2009,87,"Chris Hegedus, D.A. Pennebaker","Jacquy Pfeiffer, Regis Lazard, Philippe Rigollot","Documentary, Drama, Family",6.9
-935,Sweatshop,2009,90,Stacy Davidson,"Ashley Kay, Melanie Donihoo, Peyton Wetzel",Horror,4.2
-936,Storm,2009,105,Hans-Christian Schmid,"Kerry Fox, Anamaria Marinca, Stephen Dillane",Drama,6.9
-937,Haarautuvan rakkauden talo,2009,102,Mika Kaurismäki,"Hannu-Pekka Björkman, Elina Knihtilä, Kati Outinen","Comedy, Drama",6.4
-938,City Rats,2009,94,Steve M Kelly,"Tamer Hassan, Ray Panthaki, Susan Lynch","Action, Comedy, Drama",4.9
-939,The Boys,2009,101,"Gregory V. Sherman, Jeff Sherman","Richard M. Sherman, Robert B. Sherman, Roy Edward Disney",Documentary,7.7
-940,You Will Be Mine,2009,96,Sophie Laloy,"Judith Davis, Marc Chapiteau, Fabienne Babe","Drama, Music",5.6
-941,Invitation Only,2009,95,Kevin Ko,"Ray Chang, Julianne Chu, Maria Ozawa","Drama, Horror, Thriller",4.8
-942,Gagma napiri,2009,90,George Ovashvili,"Tedo Bekhauri, Tamar Meskhi, Archil Tabukashvili",Drama,7.7
-943,Dragon Hunter,2009,90,Stephen Shimek,"Erik Denton, Maclain Nelson, Slate Holmgren","Action, Adventure, Fantasy",3.4
-944,Barah Aana,2009,97,Raja Menon,"Naseeruddin Shah, Vijay Raaz, Arjun Mathur","Comedy, Crime, Drama",6.7
-945,Dead Hooker in a Trunk,2009,92,"Jen Soska, Sylvia Soska","Rikki Gagne, Jen Soska, Sylvia Soska",Horror,4.8
-946,Pop,2009,130,Vladimir Khotinenko,"Sergey Makovetskiy, Nina Usatova, Elizaveta Arzamasova","Drama, History, War",7.1
-947,Before Your Eyes,2009,102,Miraz Bezar,"Senay Orak, Muhammed Al, Hakan Karsak",Drama,7.3
-948,Mercy,2009,87,Patrick Hoelck,"Scott Caan, Wendy Glenn, Troy Garity","Drama, Romance",5.9
-949,Endless Bummer,2009,87,Sam Pillsbury,"Khan Chittenden, Colton James, Ray Santiago",Comedy,3.7
-950,Jean Charles,2009,93,Henrique Goldman,"Selton Mello, Marek Oravec, Renu Setna","Biography, Drama",6.3
-951,The Three Investigators and the Secret of Terror Castle,2009,97,Florian Baxmeyer,"Chancellor Miller, Nick Price, Cameron Monaghan","Adventure, Family, Mystery",5.7
-952,Assault Girls,2009,65,Mamoru Oshii,"Yoshikazu Fujiki, Rinko Kikuchi, Meisa Kuroki","Action, Sci-Fi",3.8
-953,Tapped,2009,76,"Stephanie Soechtig, Jason Lindsey","Sally Bethea, Earl Blumenauer, Amanda Brown",Documentary,7.3
-954,Do Knot Disturb,2009,126,David Dhawan,"Govinda, Sushmita Sen, Riteish Deshmukh","Comedy, Drama",3.7
-955,Safari,2009,98,Olivier Baroux,"Kad Merad, Lionel Abelanski, Valérie Benguigui","Adventure, Comedy",4.5
-956,Chicago Overcoat,2009,94,Brian Caunter,"Frank Vincent, Kathrine Narducci, Mike Starr","Action, Adventure, Crime",5.9
-957,Vision - Aus dem Leben der Hildegard von Bingen,2009,110,Margarethe von Trotta,"Barbara Sukowa, Heino Ferch, Hannah Herzsprung","Biography, Drama, History",6.5
-958,Volchok,2009,88,Vasiliy Sigarev,"Polina Pluchek, Yana Troyanova, Veronika Lysakova",Drama,7.0
-959,Je l'aimais,2009,113,Zabou Breitman,"Daniel Auteuil, Marie-Josée Croze, Florence Loiret Caille","Drama, Romance",6.6
-960,Konchem Ishtam Konchem Kashtam,2009,165,Kishore Kumar Pardasani,"Siddharth, Tamannaah Bhatia, Prakash Raj",Romance,7.0
-961,So Normal 2: The Craziest Night Ever,2009,75,José Alvarenga Jr.,"Luiz Fernando Guimarães, Fernanda Torres, Daniel Dantas",Comedy,5.8
-962,Against the Current,2009,98,Peter Callahan,"Joseph Fiennes, Samantha Sherman, Pell James",Drama,6.1
-963,20th Century Boys 3: Redemption,2009,156,Yukihiko Tsutsumi,"Takumi Saitô, Kôichi Yamadera, Ryûnosuke Kamiki","Adventure, Fantasy",6.4
-964,All About Actresses,2009,105,Maïwenn,"Jeanne Balibar, Romane Bohringer, Julie Depardieu","Comedy, Drama",6.5
-965,Dear Lemon Lima,2009,87,"Paul Germain, Suzi Yoonessi","Savanah Wiltfong, Shayne Topp, Eleanor Hutchins","Comedy, Drama",6.3
-966,Mal día para pescar,2009,110,Álvaro Brechner,"Gary Piquer, Jouko Ahola, Antonella Costa","Comedy, Drama, Western",6.9
-967,Strigoi,2009,105,Faye Jackson,"Catalin Paraschiv, Rudy Rosenfeld, Constantin Barbulescu","Comedy, Drama, Fantasy",5.4
-968,Contact High,2009,98,Michael Glawogger,"Michael Ostrowski, Raimund Wallisch, Alexis Santiago Hernandez",Comedy,6.4
-969,Morrer Como Um Homem,2009,134,João Pedro Rodrigues,"Chandra Malatitch, John Jesus Romão, Ivo Barroso","Drama, Music",6.4
-970,The Last Flight,2009,98,Karim Dridi,"Marion Cotillard, Guillaume Canet, Guillaume Marquet","Adventure, Drama, Romance",5.4
-971,Göta kanal 3 - Kanalkungens hemlighet,2009,92,Christjan Wegner,"Janne Carlsson, Eva Röse, Magnus Härenstam",Comedy,2.7
-972,RTT,2009,88,Frédéric Berthe,"Kad Merad, Mélanie Doutey, Manu Payet","Comedy, Romance",5.0
-973,2:13,2009,96,Charles Adelman,"Mark Thompson, Mark Pellegrino, Teri Polo","Drama, Mystery, Thriller",4.8
-974,The Crypt,2009,84,Craig McMahon,"Sarah Oh, Mike Ranallo, Abra May",Horror,3.3
-975,The Treasure Hunter,2009,105,Yen-Ping Chu,"Jay Chou, Eric Tsang, Chu-Ho Chen","Action, Adventure, Fantasy",3.8
-976,The Widows of Thursdays,2009,122,Marcelo Piñeyro,"Rafael Aieta, Ernesto Alterio, Roberto Antier","Crime, Drama, Mystery",6.0
-977,Bikini Girls on Ice,2009,82,Geoff Klein,"Cindel Chartrand, Danielle Doetsch, William Jarand","Horror, Thriller",3.0
-978,Mai Mai Miracle,2009,95,Sunao Katabuchi,"Masao Agawa, Chisa Bandai, Romy Beckman","Animation, Adventure, Drama",6.9
-979,Plastic Planet,2009,95,Werner Boote,"Werner Boote, John Taylor, Peter Lieberzeit",Documentary,7.2
-980,El Estudiante,2009,95,Roberto Girault,"Jorge Lavat, Norma Lazareno, Siouzana Melikian",Drama,7.1
-981,"Viajo Porque Preciso, Volto Porque te Amo",2009,75,"Karim Aïnouz, Marcelo Gomes",Irandhir Santos,Drama,7.2
-982,The Donner Party,2009,95,Terrence Martin,"Crispin Glover, Clayne Crawford, Michele Santopietro",Drama,4.9
-983,Penance,2009,85,Jake Kennedy,"Marieh Delfino, Jason Connery, Michael Rooker","Horror, Thriller",3.4
-984,Clash,2009,90,Thanh Son Le,"Johnny Tri Nguyen, Veronica Ngo, Hoang Phuc Nguyen","Action, Crime, Thriller",5.9
-985,Oy!,2009,166,Anand Ranga,"Siddharth, Shamili, Mohammad Ali",Romance,7.1
-986,Ividam Swargamanu,2009,150,Rosshan Andrrews,"Mohanlal, Thilakan, Lalu Alex",Drama,7.2
-987,Italians,2009,116,Giovanni Veronesi,"Sergio Castellitto, Riccardo Scamarcio, Remo Girone",Comedy,5.6
-988,Beer Wars,2009,89,Anat Baron,"Norman Adami, Anat Baron, Roberta Baskin",Documentary,6.8
-989,The Sword with No Name,2009,124,Yong-gyun Kim,"Cho Seung-woo, Soo Ae, Sophie Broustal","Action, Drama, History",6.1
-990,Fort Apache Napoli,2009,108,Marco Risi,"Libero De Rienzo, Valentina Lodovini, Michele Riondino","Biography, Crime, Drama",7.2
-991,Psalm 21,2009,114,Fredrik Hiller,"Jonas Malmsjö, Oliver Åström, Robin Åström","Horror, Thriller",4.4
-992,Zen,2009,127,Banmei Takahashi,"Kankurô Nakamura, Yuki Uchida, Ryushin Tei","Biography, Drama",7.3
-993,The Shock Labyrinth,2009,89,Takashi Shimizu,"Yûya Yagira, Takashi Yamanaka, Misako Renbutsu","Horror, Thriller",3.8
-994,The True Story of Puss'N Boots,2009,80,"Jérôme Deschamps, Pascal Hérold, Macha Makeïeff","Jérôme Deschamps, Yolande Moreau, Arthur Deschamps","Animation, Adventure, Comedy",3.1
-995,Gnomes & Trolls: The Secret Chamber,2009,70,Robert Rhodin,"Elizabeth Daily, Greg Berg, James Arnold Taylor","Animation, Family, Fantasy",4.3
-996,Kochaj i tancz,2009,118,Bruce Parramore,"Mateusz Damiecki, Izabella Miko, Violetta Arlak",Romance,4.8
-997,Entre nos,2009,80,"Gloria La Morte, Paola Mendoza","Paola Mendoza, Sebastian Villada, Laura Montana",Drama,7.3
+599,Pokémon: Arceus and the Jewel of Life,2009,95,Kunihiko Yuyama,"Sarah Natochenny, Michele Knotz, Emily Bauer","Animation, Action, Adventure",6.3
+600,Katalin Varga,2009,82,Peter Strickland,"Hilda Péter, Norbert Tankó, László Mátray","Crime, Drama, Thriller",7.0
+601,South of the Border,2009,78,Oliver Stone,"Tariq Ali, Tony Blair, Wolf Blitzer",Documentary,7.0
+602,Lies & Illusions,2009,93,Tibor Takács,"Christian Slater, Cuba Gooding Jr., Sarah Ann Schultz","Action, Thriller",3.5
+603,The Assassin Next Door,2009,103,Danny Lerner,"Olga Kurylenko, Ninet Tayeb, Henry David","Action, Drama, Thriller",5.7
+604,Adrift,2009,97,Heitor Dhalia,"Laura Neiva, Vincent Cassel, Camilla Belle",Drama,6.7
+605,Fat People,2009,110,Daniel Sánchez Arévalo,"Antonio de la Torre, Roberto Enríquez, Verónica Sánchez","Comedy, Drama",6.5
+606,Hard Times,2009,94,Tom Reeve,"John Lynch, Cornelius Clarke, Lochlann O'Mearáin","Comedy, Crime",5.9
+607,Teenage Dirtbag,2009,106,Regina Crosby,"Scott Michael Foster, Noa Hegesh, Chris Ellis",Drama,7.0
+608,"Sex, Party & Lies",2009,107,"Alfonso Albacete, David Menkes","Mario Casas, Ana de Armas, Yon González","Comedy, Drama",3.9
+609,It's Alive,2009,80,Josef Rusnak,"Bijou Phillips, James Murray, Raphaël Coleman","Horror, Sci-Fi",3.5
+610,That Evening Sun,2009,109,Scott Teems,"Hal Holbrook, Barlow Jacobs, Mia Wasikowska",Drama,7.0
+611,King of Thorn,2009,120,Kazuyoshi Katayama,"Kana Hanazawa, Toshiyuki Morikawa, Eri Sendai","Animation, Adventure, Horror",6.3
+612,Dossier K.,2009,120,Jan Verheyen,"Koen De Bouw, Werner De Smedt, Blerim Destani","Action, Crime, Drama",6.7
+613,Hideaway,2009,88,François Ozon,"Isabelle Carré, Louis-Ronan Choisy, Pierre Louis-Calixte",Drama,6.4
+614,Saint John of Las Vegas,2009,85,Hue Rhodes,"Steve Buscemi, Romany Malco, Sarah Silverman","Comedy, Drama",5.6
+615,Balibo,2009,111,Robert Connolly,"Anthony LaPaglia, Oscar Isaac, Damon Gameau","Biography, Drama, History",7.0
+616,Third Person Singular Number,2009,124,Mostofa Sarwar Farooki,"Nusrat Imrose Tisha, Mosharraf Karim, Rashed Uddin Ahmed Topu",Drama,7.1
+617,The Forbidden Door,2009,115,Joko Anwar,"Fachry Albar, Marsha Timothy, Ario Bayu","Horror, Mystery, Thriller",6.6
+618,Not Forgotten,2009,96,Dror Soref,"Simon Baker, Paz Vega, Michael DeLorenzo","Horror, Thriller",4.7
+619,10 to 11,2009,110,Pelin Esmer,"Nejat Isler, Mithat Esmer, Laçin Ceylan",Drama,7.2
+620,Stoic,2009,91,Uwe Boll,"Edward Furlong, Shaun Sipos, Sam Levinson","Crime, Drama",5.2
+621,Transylmania,2009,92,"David Hillenbrand, Scott Hillenbrand","Patrick Cavanaugh, James DeBello, Tony Denman","Comedy, Horror",3.8
+622,Father of My Children,2009,110,Mia Hansen-Løve,"Louis-Do de Lencquesaing, Chiara Caselli, Alice de Lencquesaing",Drama,6.8
+623,"Nightmares in Red, White and Blue: The Evolution of the American Horror Film",2009,96,Andrew Monument,"Lance Henriksen, Larry Cohen, Joe Dante","Documentary, Horror",7.1
+624,Play the Game,2009,105,Marc Fienberg,"Paul Campbell, Andy Griffith, Doris Roberts","Comedy, Romance",6.3
+625,Phobia 2,2009,125,"Banjong Pisanthanakun, Visute Poolvoralaks, Paween Purijitpanya","Jirayu La-ongmanee, Ray MacDonald, Chumphorn Thepphithak","Comedy, Fantasy, Horror",6.6
+626,Talhotblond,2009,83,Barbara Schroeder,"Steve Clement, Thomas Montgomery, Ken Case","Documentary, Crime, Thriller",6.8
+627,The Time That Remains,2009,109,Elia Suleiman,"Menashe Noy, Elia Suleiman, Baher Agbariya","Drama, History",7.1
+628,I Give My First Love to You,2009,122,Takehiko Shinjô,"Mao Inoue, Masaki Okada, Natsuki Harada","Drama, Romance",7.1
+629,Lo,2009,80,Travis Betz,"Jeremiah Birkett, Sarah Lassez, Ward Roberts","Comedy, Fantasy, Horror",6.4
+630,Dark Planet: Rebellion,2009,105,Fedor Bondarchuk,"Vasiliy Stepanov, Yulia Snigir, Pyotr Fyodorov","Action, Adventure, Sci-Fi",5.0
+631,What's Your Raashee?,2009,195,Ashutosh Gowariker,"Harman Baweja, Priyanka Chopra Jonas, Anjan Srivastav","Comedy, Drama, Romance",4.8
+632,Endgame,2009,109,Pete Travis,"William Hurt, Chiwetel Ejiofor, Jonny Lee Miller","Drama, History",6.2
+633,ExTerminators,2009,92,John Inwood,"Heather Graham, Jennifer Coolidge, Matthew Settle","Comedy, Drama",5.2
+634,The Steam Experiment,2009,90,Philippe Martinez,"Val Kilmer, Armand Assante, Eric Roberts","Mystery, Thriller",3.9
+635,Warning!!! Pedophile Released,2009,96,Shane Ryan-Reid,"Kai Lanette, Shane Ryan-Reid, Sean Cain","Crime, Drama, Romance",2.9
+636,More Than Blue,2009,105,Won Tae-yeon,"Kwon Sang-woo, Lee Bo-young, Lee Beom-su","Drama, Romance",7.5
+637,"Yo, también",2009,103,"Antonio Naharro, Álvaro Pastor","Lola Dueñas, Pablo Pineda, Isabel García Lorca",Drama,7.2
+638,LOpuKHI,2009,85,"Sarik Andreasyan, Roman Samgin","Sergey Pisarenko, Evgeniy Nikishin, Endryu Ndzhogu",Comedy,4.6
+639,Double Identity,2009,93,Dennis Dimster,"Val Kilmer, Izabella Miko, Julian Wadham","Action, Crime, Thriller",4.5
+640,Dabbe 2,2009,85,Hasan Karacadag,"Muharrem Dalfidan, Incinur Dasdemir, Leyla Göksun",Horror,3.0
+641,Accidents Happen,2009,92,Andrew Lancaster,"Geena Davis, Harrison Sloan Gilbertson, Harry Cook","Comedy, Drama",6.0
+642,Attack on Darfur,2009,98,Uwe Boll,"Kristanna Loken, David O'Hara, Noah Dalton Danby","Drama, War",5.8
+643,Women Without Men,2009,89,"Shirin Neshat, Shoja Azari","Tolouei Shabnam, Pegah Ferydoni, Arita Shahrzad",Drama,6.3
+644,Falling Up,2009,98,David M. Rosenthal,"Joseph Cross, Sarah Roemer, Snoop Dogg","Comedy, Drama, Romance",5.6
+645,Wrong Rosary,2009,90,Mahmut Fazil Coskun,"Nadir Saribacak, Görkem Yeltan, Murat Ergun",Drama,7.0
+646,Harishchandrachi Factory,2009,96,Paresh Mokashi,"Nandu Madhav, Vibhawari Deshpande, Atharva Karve","Biography, Comedy, Drama",8.4
+647,Eden Is West,2009,110,Costa-Gavras,"Riccardo Scamarcio, Odysseas Papaspiliopoulos, Léa Wiazemsky",Drama,6.8
+648,RoboGeisha,2009,102,Noboru Iguchi,"Aya Kiguchi, Hitomi Hasebe, Takumi Saitô","Action, Comedy, Sci-Fi",5.2
+649,Penniless,2009,108,Hamid Nematollah,"Bahram Radan, Leila Hatami, Nader Fallah","Comedy, Drama",6.3
+650,Shank,2009,94,"Simon Pearce, Christian Martin","Wayne Virgo, Marc Laurent, Tom Bott",Drama,6.2
+651,The Way of War,2009,90,John R. Carter,"Cuba Gooding Jr., Clarence Williams III, John Terry","Action, Thriller",3.2
+652,The Pool Boys,2009,107,J.B. Rogers,"Matthew Lillard, Brett Davern, Efren Ramirez",Comedy,4.6
+653,Alamar,2009,73,Pedro González-Rubio,"Jorge Machado, Roberta Palombini, Natan Machado Palombini","Documentary, Drama",7.2
+654,Crazy Racer,2009,99,Hao Ning,"Huang Bo, Kung-Wei Lu, Morris Hsiang Jung","Action, Adventure, Comedy",7.4
+655,Paintball,2009,86,Daniel Benmayor,"Brendan Mackey, Jennifer Matter, Patrick Regis","Action, Thriller",3.8
+656,My Suicide,2009,107,David Lee Miller,"Gabriel Sunday, David Carradine, Mariel Hemingway","Comedy, Drama",7.0
+657,Ju-on: White Ghost,2009,61,Ryûta Miyake,"Hiroki Suzuki, Ichirôta Miyakawa, Natsuki Kasa","Fantasy, Horror",5.8
+658,Finding Bliss,2009,96,Julie Davis,"Leelee Sobieski, Matthew Davis, Jamie Kennedy","Comedy, Romance",5.2
+659,In the Beginning,2009,130,Xavier Giannoli,"François Cluzet, Emmanuelle Devos, Gérard Depardieu","Crime, Drama",7.1
+660,Last Ride,2009,90,Glendyn Ivin,"Hugo Weaving, Tom Russell, Anita Hegh","Crime, Drama",6.6
+661,Neuilly sa mère!,2009,90,Gabriel Julien-Laferrière,"Samy Seghir, Jérémy Denisty, Rachida Brakni",Comedy,5.5
+662,Psyhi vathia,2009,142,Pantelis Voulgaris,"Vangelis Mourikis, Giorgos Symeonidis, Victoria Haralabidou","Drama, War",7.1
+663,A Brand New Life,2009,92,"Lee Jong Eon, Ounie Lecomte","Kim Sae-ron, Sul Kyung-gu, Ko Ah-sung",Drama,7.4
+664,Pain of Autumn,2009,112,Tomris Giritlioglu,"Murat Yildirim, Beren Saat, Okan Yalabik",Drama,6.1
+665,I Am Here... Now,2009,87,Neil Breen,"Neil Breen, Joy Senn, Elizabeth Sekora","Comedy, Crime, Drama",4.3
+666,Mee Shivajiraje Bhosale Boltoy,2009,149,"Santosh Ramdas Manjrekar, Satish Padwal","Mahesh Manjrekar, Sachin Khedekar, Makarand Anaspure",Drama,8.0
+667,Unmade Beds,2009,97,Alexis Dos Santos,"Déborah François, Fernando Tielve, Michiel Huisman","Comedy, Drama",6.4
+668,David's Birthday,2009,106,Marco Filiberti,"Alessandro Gassmann, Maria de Medeiros, Massimo Poggio","Drama, Mystery, Romance",6.6
+669,Five Cities,2009,95,Onur Ünlü,"Tansu Biçer, Ege Tanman, Ahmet Rifat Sungar",Drama,6.9
+670,The Wind Journeys,2009,117,Ciro Guerra,"Marciano Martínez, Yull Núñez, Agustin Nieves","Drama, Music",7.4
+671,Dead Air,2009,90,Corbin Bernsen,"Navid Negahban, Susan Ruttan, Corbin Bernsen","Horror, Sci-Fi, Thriller",5.2
+672,Galerianki,2009,82,Katarzyna Roslaniec,"Anna Karczmarczyk, Dagmara Krasowska, Dominika Gwit",Drama,5.4
+673,Letters to Father Jacob,2009,74,Klaus Härö,"Kaarina Hazard, Heikki Nousiainen, Jukka Keinonen",Drama,7.3
+674,Map of the Sounds of Tokyo,2009,109,Isabel Coixet,"Rinko Kikuchi, Sergi López, Min Tanaka","Drama, Thriller",6.0
+675,The Art of the Steal,2009,101,Don Argott,"Julian Bond, David D'Arcy, Richard Feigen",Documentary,7.5
+676,My Girlfriend Is an Agent,2009,112,Terra Shin,"Kim Ha-neul, Kang Ji-hwan, Ryu Seung-ryong","Action, Comedy, Romance",6.3
+677,Abimm,2009,108,Safak Bal,"Mustafa Üstündag, Levent Üzümcü, Çagri Katre Türkay","Comedy, Drama",5.8
+678,The White Stripes Under Great White Northern Lights,2009,93,Emmett Malloy,"Alex Debogorski, Maria Durham, Jack White","Documentary, Music",8.0
+679,Born of Hope,2009,71,Kate Madison,"Christopher Dane, Beth Aynsley, Kate Madison","Action, Adventure, Fantasy",6.1
+680,Wonderful World,2009,89,Joshua Goldin,"Matthew Broderick, Sanaa Lathan, Michael Kenneth Williams","Comedy, Drama, Romance",6.0
+681,A Shine of Rainbows,2009,101,Vic Sarin,"Connie Nielsen, Aidan Quinn, John Bell","Drama, Family",7.0
+682,Don McKay,2009,87,Jake Goldberger,"Thomas Haden Church, Elisabeth Shue, Melissa Leo","Drama, Mystery, Thriller",5.8
+683,Blood Night: The Legend of Mary Hatchet,2009,83,Frank Sabatella,"Bill Moseley, Danielle Harris, Nate Dushku",Horror,4.4
+684,The Hell of '63,2009,108,Steven de Jong,"Willeke van Ammelrooy, Lottie Hellingman, Pierre Bokma","Adventure, Comedy, Drama",6.2
+685,Raging Phoenix,2009,112,Rashane Limtrakul,"JeeJa Yanin, Kazu Patrick Tang, Nui Saendaeng","Action, Romance",6.0
+686,Angel of Death,2009,77,Paul Etheredge,"Zoë Bell, Jake Abel, Vail Bloom","Action, Crime, Thriller",4.9
+687,My Rainy Days,2009,119,Yuri Kanchiku,"Nozomi Sasaki, Shôsuke Tanihara, Hikaru Yamamoto","Drama, Romance",6.8
+688,Brain Drain,2009,104,Fernando González Molina,"Mario Casas, Alberto Amarilla, Amaia Salamanca","Comedy, Romance",4.7
+689,The Most Dangerous Man in America: Daniel Ellsberg and the Pentagon Papers,2009,92,"Judith Ehrlich, Rick Goldsmith","Peter Arnett, Ben Bagdikian, Ann Beeson",Documentary,7.7
+690,Zivot i smrt porno bande,2009,90,Mladen Djordjevic,"Mihajlo Jovanovic, Ana Acimovic, Srboljub Milin","Adventure, Drama, Horror",6.0
+691,Meitantei Conan: Shikkoku no chaser,2009,111,Yasuichirô Yamamoto,"Minami Takayama, Wakana Yamazaki, Akira Kamiya","Animation, Action, Adventure",7.2
+692,The Fish Child,2009,96,Lucía Puenzo,"Inés Efron, Mariela Vitale, Pep Munné","Crime, Drama, Romance",5.8
+693,Headhunter,2009,108,Rumle Hammerich,"Lars Mikkelsen, Charlotte Munck, Burkhard Forstreuter",Thriller,6.6
+694,Boy Interrupted,2009,92,Dana Heinz Perry,"Evan Scott Perry, Dana Heinz Perry, Hart Perry","Documentary, Biography, Drama",7.8
+695,Perkins' 14,2009,95,Craig Singer,"Patrick O'Kane, Richard Brake, Michale Graves","Horror, Thriller",5.0
+696,The Last Days of Emma Blank,2009,89,Alex van Warmerdam,"Marlies Heuer, Gene Bervoets, Annet Malherbe","Comedy, Drama",6.8
+697,Eloïse's Lover,2009,92,Jesús Garay,"Diana Gómez, Ariadna Cabrol, Laura Conejero","Drama, Romance",6.3
+698,(Untitled),2009,96,Jonathan Parker,"Adam Goldberg, Marley Shelton, Eion Bailey","Comedy, Drama, Music",6.2
+699,The Marc Pease Experience,2009,84,Todd Louiso,"Jason Schwartzman, Ben Stiller, Anna Kendrick","Comedy, Drama, Music",4.0
+700,The Reverse,2009,99,Borys Lankosz,"Agata Buzek, Krystyna Janda, Anna Polony","Comedy, Drama, Romance",7.0
+701,Naan Kadavul,2009,165,Bala,"Arya, Pooja Umashankar, Motta Rajendran","Action, Drama",7.7
+702,Slaughter,2009,96,Stewart Hopewell,"Lucy Holt, Amy Shiels, David Sterne","Horror, Thriller",4.5
+703,Tetsuo: The Bullet Man,2009,71,Shin'ya Tsukamoto,"Eric Bossick, Akiko Monô, Yûko Nakamura","Action, Horror, Sci-Fi",5.4
+704,Ex,2009,120,Fausto Brizzi,"Claudia Gerini, Flavio Insinna, Silvio Orlando","Comedy, Romance",6.2
+705,Eyeborgs,2009,102,Richard Clabaugh,"Adrian Paul, Dale Girard, Mikey Wiseman","Action, Crime, Horror",4.9
+706,Dark House,2009,85,Darin Scott,"Jeffrey Combs, Meghan Ory, Diane Louise Salinger","Horror, Thriller",4.8
+707,In Darkness,2009,100,Çagan Irmak,"Meral Çetinkaya, Erdem Akakçe, Derya Alabora","Drama, Thriller",7.0
+708,Inspector Bellamy,2009,110,Claude Chabrol,"Gérard Depardieu, Clovis Cornillac, Jacques Gamblin","Crime, Drama, Thriller",5.9
+709,Helen,2009,120,Sandra Nettelbeck,"Ashley Judd, Goran Visnjic, Lauren Lee Smith",Drama,6.2
+710,"Maria, ihm schmeckt's nicht!",2009,96,Neele Leana Vollmar,"Christian Ulmen, Mina Tander, Lino Banfi",Comedy,5.9
+711,The String,2009,93,Mehdi Ben Attia,"Claudia Cardinale, Antonin Stahly Viswanadhan, Salim Kechiouche","Drama, Romance",6.7
+712,Salvage,2009,79,Lawrence Gough,"Neve McIntosh, Shaun Dooley, Dean Andrews",Horror,4.9
+713,Evil Things,2009,86,Dominic Perez,"Laurel Casillo, Morgan Hooper, Torrey Weiss","Horror, Mystery, Thriller",4.2
+714,Under the Mountain,2009,90,Jonathan King,"Tom Cameron, Sam Neill, Sophie McBride","Adventure, Drama, Fantasy",4.8
+715,Rapt,2009,125,Lucas Belvaux,"Yvan Attal, Anne Consigny, André Marcon","Drama, Thriller",6.7
+716,The Sniper,2009,90,Dante Lam,"Richie Jen, Xiaoming Huang, Edison Chen","Action, Crime, Thriller",5.5
+717,Made in Hungaria,2009,109,Gergely Fonyó,"Tamás Szabó Kimmel, Iván Fenyö, Tünde Kiss","Biography, Comedy, Music",6.8
+718,Sweet Karma,2009,85,Andrew Thomas Hunt,"Shera Bechard, John Tokatlidis, Frank J. Zupancic","Crime, Drama, Thriller",5.1
+719,Mommo,2009,94,Atalay Tasdiken,"Elif Bülbül, Mehmet Bülbül, Mete Dönmezer","Drama, Family",7.6
+720,Bornova Bornova,2009,92,Inan Temelkuran,"Kadir Çermik, Öner Erkan, Damla Sönmez",Drama,7.0
+721,Pagafantas,2009,80,Borja Cobeaga,"Gorka Otxoa, Sabrina Garciarena, Julián López","Comedy, Romance",6.1
+722,The Red Chapel,2009,88,Mads Brügger,"Mads Brügger, Simon Jul Jørgensen, Tommy Kenter","Documentary, Comedy",7.2
+723,Love the Beast,2009,92,Eric Bana,"Eric Bana, Jeremy Clarkson, Steve Coad","Documentary, Sport",7.4
+724,Handsome Harry,2009,94,Bette Gordon,"Jamey Sheridan, Karen Young, Steve Buscemi",Drama,6.1
+725,The Graves,2009,88,Brian Pulido,"Clare Grant, Jillian Murray, Bill Moseley","Adventure, Horror, Thriller",3.6
+726,The Pagan Queen,2009,99,Constantin Werner,"Winter Ave Zoli, Csaba Lucas, Lea Mornar","Fantasy, History, Romance",4.5
+727,Kielletty hedelmä,2009,104,Dome Karukoski,"Marjut Maristo, Amanda Pilke, Malla Malmivaara",Drama,6.3
+728,Giant,2009,84,Adrián Biniez,"Horacio Camandule, Leonor Svarcas, Néstor Guzzini",Drama,6.8
+729,Jack and the Beanstalk,2009,94,Gary J. Tunnicliffe,"Colin Ford, Chloë Grace Moretz, Christopher Lloyd","Adventure, Comedy, Family",4.6
+730,The Heavy,2009,102,Marcus Warren,"Gary Stretch, Vinnie Jones, Stephen Rea",Thriller,4.9
+731,Ingenious,2009,85,Jeff Balsmeyer,"Dallas Roberts, Jeremy Renner, Ayelet Zurer","Comedy, Drama, Romance",5.7
+732,Not Since You,2009,90,Jeff Stephenson,"Desmond Harrington, Kathleen Robertson, Christian Kane","Drama, Romance",5.4
+733,Kaiji: The Ultimate Gambler,2009,130,Tôya Satô,"Tatsuya Fujiwara, Ken'ichi Matsuyama, Yuriko Yoshitaka",Drama,6.4
+734,Ju-on: Black Ghost,2009,60,Mari Asato,"Kôji Seto, Kuniteru Shigeyama, Kana Tsugihara","Fantasy, Horror",5.2
+735,Hadewijch,2009,105,Bruno Dumont,"Julie Sokolowski, Karl Sarafidis, Yassine Salime",Drama,6.7
+736,The Year I Became a Liar,2009,102,Ricardo Trogi,"Jean-Carl Boucher, Claudio Colangelo, Sandrine Bisson","Comedy, Drama, Family",7.2
+737,Deliver Us from Evil,2009,100,Ole Bornedal,"Lasse Rimmer, Lene Nystrøm, Fanny Leander Bornedal",Thriller,6.5
+738,Le code a changé,2009,100,Danièle Thompson,"Karin Viard, Dany Boon, Marina Foïs","Comedy, Drama",5.8
+739,Happily N'ever After 2: Snow White: Another Bite at the Apple,2009,75,"Steven E. Gordon, Boyd Kirkland","G.K. Bowes, Cam Clarke, Doug Erholtz","Animation, Adventure, Comedy",3.6
+740,Daniel and Ana,2009,90,Michel Franco,"Dario Yazbek Bernal, Marimar Vega, José María Torre","Drama, Thriller",6.1
+741,Kanthaswamy,2009,190,Susi Ganesan,"Vikram, Shriya Saran, Prabhu","Action, Crime, Drama",5.1
+742,Reykjavik Whale Watching Massacre,2009,87,Júlíus Kemp,"Pihla Viitala, Nae, Terence Anderson","Comedy, Horror",4.8
+743,Snow White and Russian Red,2009,108,Xawery Zulawski,"Borys Szyc, Roma Gasiorowska, Maria Strzelecka","Comedy, Drama",5.3
+744,Fat Head,2009,104,Tom Naughton,"Peter Paddon, Tom Naughton, Chareva Naughton",Documentary,7.0
+745,Occult,2009,110,Kôji Shiraishi,"Mika Azuma, Horiken, Kôen Kondô","Horror, Mystery, Thriller",6.5
+746,Kirpi,2009,100,Erdal Murat Aktas,"Mazhar Alanson, Güven Kiraç, Zihni Göktay",Comedy,5.9
+747,Paleri Manikyam: Oru Pathirakolapathakathinte Katha,2009,155,Ranjith,"Mammootty, Mythili, Shweta Menon","Crime, Drama, History",7.6
+748,My Last Five Girlfriends,2009,90,Julian Kemp,"Brendan Patricks, Naomie Harris, Kelly Adams",Comedy,5.7
+749,Father and Guns,2009,107,Émile Gaudreault,"Michel Côté, Louis-José Houde, Rémy Girard","Action, Comedy, Crime",6.7
+750,Bangkok Traffic (Love) Story,2009,126,Ping Adisorn Trisirikasem,"Sirin Horwang, Theeradej Wongpuapan, Ungsumalynn Sirapatsakmetha","Comedy, Romance",7.1
+751,The Book of Law,2009,95,Maziar Miri,"Parviz Parastui, Darine Hamze, Davood Fathali Beigi","Comedy, Drama, Romance",6.1
+752,"Love, Bitter",2009,106,A. Taner Elhan,"Halit Ergenç, Cansu Dere, Songül Öden","Crime, Drama",5.2
+753,Yattâman,2009,111,"Takashi Miike, Eisuke Naitô, Hatsuki Yokoo","Shô Sakurai, Saki Fukuda, Kyôko Fukada","Action, Adventure, Comedy",5.9
+754,Same Same But Different,2009,107,Detlev Buck,"Apinya Sakuljaroensuk, David Kross, Jens Harzer",Drama,6.7
+755,Circle of Eight,2009,83,Stephen Cragg,"John Bishop, Kirk Bovill, Ryan Doom","Horror, Mystery, Sci-Fi",3.7
+756,Bran Nue Dae,2009,85,Rachel Perkins,"Rocky McKenzie, Jessica Mauboy, Ernie Dingo","Comedy, Drama, Musical",6.2
+757,Wake,2009,97,Ellie Kanner,"Bijou Phillips, Ian Somerhalder, Jane Seymour","Comedy, Drama, Romance",5.4
+758,Henri-Georges Clouzot's Inferno,2009,100,"Serge Bromberg, Ruxandra Medrea","Romy Schneider, Bérénice Bejo, Serge Reggiani",Documentary,7.4
+759,Well Done Abba!,2009,144,Shyam Benegal,"Boman Irani, Minissha Lamba, Sammir Dattani",Comedy,7.2
+760,Le Donk & Scor-zay-zee,2009,71,Shane Meadows,"Paddy Considine, Dean Palinczuk, Olivia Colman",Comedy,6.3
+761,The Ape,2009,81,Jesper Ganslandt,"Olle Sarri, Eva Rexed, Françoise Joyce","Drama, Thriller",5.9
+762,The Wild Hunt,2009,96,Alexandre Franchi,"Kaniehtiio Horn, Kent McQuaid, Trevor Hayes","Drama, Thriller",6.2
+763,20th Century Boys 2: The Last Hope,2009,139,Yukihiko Tsutsumi,"Toshiaki Karasawa, Etsushi Toyokawa, Takako Tokiwa","Drama, Fantasy",6.3
+764,Siva Manasula Sakthi,2009,138,M. Rajesh,"Jiiva, Anuya Bhagwat, Santhanam","Comedy, Drama, Romance",7.1
+765,Wild Cherry,2009,85,Dana Lustig,"Rumer Willis, Tania Raymonde, Kristin Cavallari",Comedy,4.0
+766,Kenny Begins,2009,87,"Mats Lindberg, Carl Åstrand","Johan Rheborg, Bill Skarsgård, Carla Abrahamsen","Action, Comedy, Sci-Fi",5.7
+767,Neighbor,2009,90,Robert A. Masciantonio,"America Olivo, Christian Campbell, Joseph Aniska","Horror, Thriller",3.9
+768,La Mission,2009,117,Peter Bratt,"Benjamin Bratt, Alex Hernandez, Christopher Borgzinner",Drama,7.0
+769,40,2009,89,Emre Sahin,"Ntare Guma Mbaho Mwine, Deniz Çakir, Ali Atay",Drama,6.5
+770,Piano Girl,2009,100,Murat Saraçoglu,"Tarik Akan, Serif Sezer, Levent Tülek","Comedy, Drama, History",7.5
+771,We Live in Public,2009,91,Ondi Timoner,"Josh Harris, Tom Harris, Carlos Alvarez",Documentary,7.1
+772,The Dark Lurking,2009,97,Gregory Connors,"Tonia Renee Hammerich, Bret Kennedy, Ozzie Devrish","Action, Horror, Sci-Fi",3.2
+773,Guy and Madeline on a Park Bench,2009,82,Damien Chazelle,"Jason Palmer, Desiree Garcia, Sandha Khin","Drama, Musical",6.0
+774,Glowing Stars,2009,90,Lisa Siwe,"Josefine Mattsson, Mika Berndtsdotter Ahlén, Annika Hallin",Drama,6.2
+775,Butchered,2009,105,Brillante Mendoza,"Coco Martin, Maria Isabel Lopez, Julio Diaz","Crime, Drama, Horror",6.5
+776,What Goes Up,2009,115,Jonathan Glatzer,"Steve Coogan, Hilary Duff, Olivia Thirlby","Comedy, Drama",5.3
+777,Tum Mile,2009,140,Kunal Deshmukh,"Emraan Hashmi, Soha Ali Khan, Prerna Chawla","Drama, Romance",5.1
+778,Frat Party,2009,90,Robert Bennett,"Randy Wayne, Caroline D'Amore, Jareb Dauplaise",Comedy,2.8
+779,The Exploding Girl,2009,79,Bradley Rust Gray,"Zoe Kazan, Mark Rendall, Maryann Urbano",Drama,6.2
+780,Love N' Dancing,2009,91,Robert Iscove,"Amy Smart, Tom Malloy, Billy Zane","Drama, Romance",5.4
+781,Hooked,2009,90,Pavel Sanaev,"Sergey Chirkov, Marina Petrenko, Evgeniy Kharlanov","Action, Drama, Sci-Fi",5.6
+782,Princess Kaiulani,2009,130,Marc Forby,"Q'orianka Kilcher, Barry Pepper, Shaun Evans","Biography, Drama, History",6.1
+783,The War Boys,2009,93,Ron Daniels,"Victor Rasuk, Brian J. Smith, Benjamin Walker","Crime, Drama, Romance",6.5
+784,Ghost Machine,2009,93,Chris Hartwill,"Sean Faris, Rachael Taylor, Luke Ford","Action, Sci-Fi, Thriller",4.7
+785,The Last Lovecraft: Relic of Cthulhu,2009,78,Henry Saine,"Kyle Davis, Devin McGinn, Matt Bauer","Adventure, Comedy, Horror",5.4
+786,The Mighty Macs,2009,99,Tim Chambers,"Carla Gugino, Marley Shelton, Ellen Burstyn","Drama, Sport",6.6
+787,Necromentia,2009,82,Pearry Reginald Teo,"Layton Matthews, Chad Grimes, Santiago Craig",Horror,4.5
+788,Never Surrender,2009,87,Hector Echavarria,"Hector Echavarria, Patrick Kilpatrick, James Russo","Action, Drama, Thriller",2.6
+789,No Love in the City,2009,84,Marius Vaysberg,"Aleksey Chadov, Volodymyr Zelenskyy, Ville Haapasalo","Comedy, Fantasy, Romance",5.7
+790,Spring Fever,2009,116,Ye Lou,"Hao Qin, Sicheng Chen, Wei Wu",Drama,6.4
+791,Videocracy,2009,85,Erik Gandini,"Silvio Berlusconi, Flavio Briatore, Fabio Calvi",Documentary,6.5
+792,Wait for Me and I Will Not Come,2009,90,Miroslav Momcilovic,"Milos Samolov, Mirjana Karanovic, Gordan Kicic","Drama, Romance",7.1
+793,"Wszystko, co kocham",2009,95,Jacek Borcuch,"Mateusz Kosciukiewicz, Olga Frycz, Jakub Gierszal","Comedy, Drama, Music",6.8
+794,Life Is Hot in Cracktown,2009,99,Buddy Giovinazzo,"Evan Ross, Stephanie Lugo, Maurice Blake","Crime, Drama",6.1
+795,St. George Shoots the Dragon,2009,120,Srdjan Dragojevic,"Lazar Ristovski, Natasa Janjic Medancic, Milutin Milosevic","Drama, History, Romance",6.4
+796,Hooking Up,2009,95,"Vincent Scordia, Jeff Siegel","Corey Feldman, Brian O'Halloran, Bronson Pinchot","Comedy, Drama",2.6
+797,Transcendent Man,2009,83,Robert Barry Ptolemy,"Tom Abate, Hugo de Garis, Peter Diamandis",Documentary,7.1
+798,Defamation,2009,91,Yoav Shamir,"Yoav Shamir, Abraham Foxman, Bob Wolfson",Documentary,7.4
+799,Ask Geliyorum Demez,2009,95,Murat Seker,"Bergüzar Korel, Tolgahan Sayisman, Zeki Alasya","Comedy, Romance",5.1
+800,White Lightnin',2009,92,Dominic Murphy,"Muse Watson, Carrie Fisher, Wallace Merck","Biography, Drama",7.0
+801,At World's End,2009,95,Tomas Villum Jensen,"Nikolaj Lie Kaas, Birgitte Hjort Sørensen, Nikolaj Coster-Waldau","Action, Adventure, Comedy",5.8
+802,The Storm Warriors,2009,111,"Danny Pang, Oxide Chun Pang","Aaron Kwok, Ekin Cheng, Kenny Ho","Action, Adventure, Fantasy",5.2
+803,The Janky Promoters,2009,85,Marcus Raboy,"Ice Cube, Mike Epps, Jeezy","Comedy, Crime, Music",5.1
+804,Eeram,2009,164,Arivazhagan Venkatachalam,"Aadhi, Nandaa Dorairaj, Sindhu Menon","Crime, Horror, Mystery",7.6
+805,First Squad: The Moment of Truth,2009,73,"Yoshiharu Ashino, Aljosha Klimov, Misha Shprits","Elena Chebaturkina, Mikhail Tikhonov, Damir Eldarov","Animation, Action, Drama",5.6
+806,13 Semester,2009,101,Frieder Wittich,"Max Riemelt, Dieter Mann, Robert Gwisdek","Comedy, Drama, Romance",6.7
+807,The Tomb,2009,89,Michael Staininger,"Wes Bentley, Kaitlin Doubleday, Sofya Skya","Horror, Thriller",3.8
+808,Eccentricities of a Blonde-Haired Girl,2009,64,Manoel de Oliveira,"Ricardo Trêpa, Catarina Wallenstein, Diogo Dória","Drama, Romance",6.2
+809,Antaheen,2009,120,Aniruddha Roy Chowdhury,"Rahul Bose, Aparna Sen, Radhika Apte","Drama, Romance",7.8
+810,Bhramaram,2009,150,Blessy,"Mohanlal, Madhan Bob, Bhoomika Chawla","Crime, Drama, Thriller",7.4
+811,Art & Copy,2009,89,Doug Pray,"Mary Wells, Dan Wieden, Hal Riney",Documentary,6.8
+812,Last of the Living,2009,88,Logan McMillan,"Morgan Williams, Robert Faith, Ashleigh Southam","Comedy, Horror, Sci-Fi",4.7
+813,Wings of the Night,2009,97,Serdar Akar,"Beren Saat, Murat Ünalmis, Erkan Petekkaya","Drama, Romance",4.6
+814,Samyy luchshiy film 2,2009,80,Oleg Fomin,"Garik Kharlamov, Oleg Vereshchagin, Dmitry Khrustalev",Comedy,2.8
+815,The Big Gay Musical,2009,87,"Casper Andreas, Fred M. Caruso","Lena Hall, Daniel Robinson, Joey Dudding","Comedy, Drama, Music",6.5
+816,Purple Sea,2009,105,Donatella Maiorca,"Valeria Solarino, Isabella Ragonese, Ennio Fantastichini","Drama, History, Romance",6.6
+817,The Man Who Will Come,2009,115,Giorgio Diritti,"Greta Zuccheri Montanari, Claudio Casadio, Alba Rohrwacher","Drama, War",7.4
+818,The Assailant,2009,94,João Daniel Tikhomiroff,"Aílton Carmo, Jéssica Barbosa, Flávio Rocha","Action, Biography, Drama",5.9
+819,And Then Came Lola,2009,71,"Ellen Seidler, Megan Siler","Ashleigh Sumner, Jill Bennett, Cathy DeBuono","Comedy, Drama, Romance",4.0
+820,Alabama Moon,2009,99,Tim McCanlies,"Jimmy Bennett, Gabriel Basso, Uriah Shelton","Drama, Family",6.4
+821,The Missing Person,2009,95,Noah Buschel,"Michael Shannon, Frank Wood, Amy Ryan","Drama, Mystery, Thriller",6.0
+822,The Garden of Sinners: A Study in Murder - Part 2,2009,120,"Ei Aoki, Takayuki Hirao, Hikaru Kondô","Maaya Sakamoto, Ken'ichi Suzumura, Takako Honda","Animation, Action, Crime",7.5
+823,The Happiest Girl in the World,2009,99,Radu Jude,"Andreea Bosneag, Violeta Haret-Popa, Vasile Muraru","Comedy, Drama",6.9
+824,Kadri'nin Götürdügü Yere Git,2009,102,Onur Tan,"Safak Sezer, Esin Civangil, Alp Kirsan",Comedy,3.2
+825,My Dog Tulip,2009,83,"Paul Fierlinger, Sandra Fierlinger","Christopher Plummer, Lynn Redgrave, Isabella Rossellini","Animation, Drama",6.8
+826,El Farah,2009,95,Sameh Abdulaziz,"Salah Abdalla, Mahmood Al-Husaini, Hamad Almutaani",Drama,7.1
+827,The Blackout,2009,80,Robert David Sanders,"Barbara Streifel Sanders, Joseph Dunn, Ian Malcolm","Horror, Sci-Fi, Thriller",3.3
+828,Don't Look Up,2009,85,Fruit Chan,"Rachael Murphy, Eli Roth, Ben DiGregorio",Horror,3.1
+829,Pecados de mi padre,2009,94,Nicolas Entel,"Jorge Enrique Abello, Pablo Escobar, Sebastian Marroquín","Documentary, Crime",7.2
+830,Beautiful,2009,97,Dean O'Flaherty,"Deborra-Lee Furness, Peta Wilson, Aaron Jeffery","Drama, Thriller",5.2
+831,Tellement proches,2009,102,"Olivier Nakache, Éric Toledano","Vincent Elbaz, Isabelle Carré, François-Xavier Demaison","Comedy, Drama",6.4
+832,"Road, Movie",2009,95,Dev Benegal,"Abhay Deol, Satish Kaushik, Tannishtha Chatterjee","Adventure, Comedy, Crime",6.7
+833,Prince of the Seas,2009,110,Wael Ihsan,"Mohamed Henedi, Sherry Adel, Yaser Galal","Adventure, Comedy, Romance",5.4
+834,Outrage,2009,90,Kirby Dick,"Barney Frank, James McGreevey, Kevin Naff",Documentary,7.5
+835,Round Da Way,2009,96,"Emmanuel Klotz, Albert Pereira-Lazaro","Vincent Cassel, Diane Kruger, Izm","Animation, Comedy",6.9
+836,"Little Fish, Strange Pond",2009,80,Gregory Dark,"Matthew Modine, Callum Blue, Adam Baldwin","Comedy, Crime, Drama",3.8
+837,Eraser Children,2009,100,Nathan Christoffel,"Rob Alec, Andrew Baker, Simon Barbaro","Comedy, Drama, Fantasy",3.7
+838,Oldboys,2009,95,Nikolaj Steen,"Kristian Halken, Robert Hansen, Laura Christensen","Comedy, Drama",6.6
+839,Ali'nin Sekiz Günü,2009,107,Cemal San,"Serdar Orçin, Begüm Birgören, Ufuk Bayraktar",Drama,6.2
+840,My Tehran for Sale,2009,101,Granaz Moussavi,"Marzieh Vafamehr, Amir Chegini, Asha Mehrabi",Drama,6.4
+841,Vorstadtkrokodile,2009,98,Christian Ditter,"Nick Romeo Reimann, Fabian Halbig, Leonie Tepe","Adventure, Family",6.2
+842,Charlie & Boots,2009,101,Dean Murphy,"Paul Hogan, Shane Jacobson, Roy Billing","Adventure, Comedy, Drama",6.4
+843,Reel Injun,2009,85,"Neil Diamond, Catherine Bainbridge, Jeremiah Hayes","Adam Beach, Chris Eyre, Russell Means","Documentary, Western",7.5
+844,Redwoods,2009,82,David Lewis,"Matthew Montgomery, Tad Coughenour, Caleb Dorfman","Drama, Romance",5.6
+845,Crush,2009,82,"Jeffrey Gerritsen, John V. Soto","Christopher Egan, Brooke Harman, Emma Lung","Horror, Mystery, Thriller",4.2
+846,Coco,2009,95,Gad Elmaleh,"Gad Elmaleh, Pascale Arbillot, Jean Benguigui","Comedy, Drama",3.5
+847,Hurt,2009,97,Barbara Stepansky,"Melora Walters, William Mapother, Johanna Braddy","Drama, Horror, Mystery",5.1
+848,Reclaiming the Blade,2009,90,Daniel McNicoll,"Viggo Mortensen, Karl Urban, John Rhys-Davies",Documentary,7.7
+849,Le missionnaire,2009,91,Roger Delattre,"Jean-Marie Bigard, David Strajmayster, Thiam Aïssatou",Comedy,6.5
+850,Higashi no Eden Gekijoban I: The King of Eden,2009,80,Kenji Kamiyama,"Christine M. Auten, Duncan Brannan, John Burgmeier","Animation, Action, Comedy",6.8
+851,The Devil's Ground,2009,89,Micheal Bafaro,"Daryl Hannah, Leah Gibson, Luke Camilleri","Horror, Thriller",4.3
+852,Melancholie der Engel,2009,158,Marian Dora,"Zenza Raggi, Carsten Frank, Frank Oliver","Drama, Fantasy, Horror",3.3
+853,The Girl on the Train,2009,97,André Téchiné,"Émilie Dequenne, Catherine Deneuve, Michel Blanc",Drama,6.0
+854,Lover or Loser,2009,110,Dave Schram,"Gaite Jansen, Martijn Lakemeier, Claire Bender","Drama, Family",5.7
+855,Coffin Rock,2009,92,Rupert Glasson,"Robert Taylor, Lisa Chappell, Sam Parsonson","Drama, Thriller",5.3
+856,Autumn,2009,110,Steven Rumbelow,"Dexter Fletcher, Dickon Tolson, Lana Kamenov","Horror, Sci-Fi, Thriller",3.2
+857,Terug naar de kust,2009,110,Will Koopman,"Linda de Mol, Ariane Schluter, Daan Schuurmans",Thriller,6.3
+858,Someone's Knocking at the Door,2009,80,Chad Ferrin,"Noah Segan, Andrea Bunker, Ezra Buzzington","Fantasy, Horror",4.0
+859,An Englishman in New York,2009,75,Richard Laxton,"John Hurt, Denis O'Hare, Jonathan Tucker","Biography, Drama",7.1
+860,Professor Layton and the Eternal Diva,2009,99,Masakazu Hashimoto,"Hidehiko Ishizuka, Yûji Tanaka, Yô Ôizumi","Animation, Adventure, Crime",6.7
+861,Happy Tears,2009,92,Mitchell Lichtenstein,"Parker Posey, Demi Moore, Rip Torn","Comedy, Drama",5.2
+862,Oscar and the Lady in Pink,2009,105,Eric-Emmanuel Schmitt,"Michèle Laroque, Amir Ben Abdelmoumen, Max von Sydow",Drama,7.0
+863,The Girl,2009,100,Fredrik Edfeldt,"Blanca Engström, Shanti Roney, Annika Hallin","Drama, Family",6.7
+864,3some,2009,94,Salvador García Ruiz,"Adriana Ugarte, Nilo Zimmermann, Biel Duran","Drama, Romance",5.6
+865,El Traspatio,2009,122,Carlos Carrera,"Ana de la Reguera, Asur Zagada, Marco Pérez","Crime, Drama, Mystery",6.9
+866,Boogie,2009,82,Gustavo Cova,"Pablo Echarri, Jesús Ochoa, Nancy Dupláa","Animation, Action, Crime",6.3
+867,Big River Man,2009,100,John Maringouin,"Matthew Mohlke, Borut Strel, Martin Strel",Documentary,7.3
+868,The Break-Up Artist,2009,105,Steve Woo,"Amanda Crew, Ryan Kennedy, Moneca Delain","Comedy, Romance",4.8
+869,The Christmas Party,2009,86,Rasmus Heide,"Thomas Voss, Julie R. Ølgaard, Dick Kaysø",Comedy,3.8
+870,Saleem,2009,120,"Y.V.S. Chowdary, Gopireddy Mallikarjuna Reddy","Vishnu Manchu, Ileana D'Cruz, Mohan Babu","Action, Comedy, Romance",3.4
+871,The Chef of South Polar,2009,125,Shûichi Okita,"Kôsuke Toyohara, Masato Sakai, Kengo Kôra","Comedy, Drama",7.0
+872,Every Jack Has a Jill,2009,80,Jennifer Devoldère,"Mélanie Laurent, Justin Bartha, Valérie Benguigui","Comedy, Romance",6.0
+873,Bluebeard,2009,80,Catherine Breillat,"Dominique Thomas, Lola Créton, Daphné Baiwir","Drama, Fantasy, Romance",6.3
+874,The Belgrade Phantom,2009,82,Jovan B. Todorovic,"Milutin Milosevic, Radoslav 'Rale' Milenkovic, Marko Zivic","Documentary, Action, Crime",6.7
+875,No Impact Man: The Documentary,2009,93,"Laura Gabbert, Justin Schein","Colin Beavan, Michelle Conlin",Documentary,6.6
+876,Splinterheads,2009,94,Brant Sersen,"Thomas Middleditch, Rachael Taylor, Christopher McDonald",Comedy,5.8
+877,Albino Farm,2009,90,Joe Anderson,"Tammin Sursok, Chris Jericho, Richard Christy",Horror,3.8
+878,Sutures,2009,83,Tammi Sutton,"Andrew Prine, Jason London, Carlos Lauchu","Horror, Thriller",4.1
+879,The Lightkeepers,2009,97,Daniel Adams,"Richard Dreyfuss, Bruce Dern, Blythe Danner",Comedy,5.7
+880,Heart Broken,2009,110,Ali Rooyintan,"Shahab Hosseini, Bita Baadraan, Khosro Shakibai","Drama, Romance",5.6
+881,Upperdog,2009,100,Sara Johnsen,"Hermann Sabado, Agnieszka Grochowska, Mads Sjøgård Pettersen","Comedy, Drama",6.5
+882,Son of Babylon,2009,100,Mohamed Al Daradji,"Shazada Hussein, Yasser Talib, Bashir Al Majid",Drama,7.2
+883,Bobbos,2009,113,Wael Ihsan,"Adel Emam, Youssra, Ezzat Abu Ouf",Comedy,4.2
+884,The Last Resort,2009,75,Brandon Nutt,"America Olivo, Paulie Rojas, Marissa Tait","Horror, Thriller",3.1
+885,Peter and Vandy,2009,95,Jay DiPietro,"Jason Ritter, Jess Weixler, Jesse L. Martin","Drama, Romance",6.3
+886,Le vilain,2009,86,Albert Dupontel,"Catherine Frot, Albert Dupontel, Bouli Lanners","Action, Comedy, Crime",6.3
+887,Tales from the Script,2009,105,Peter Hanson,"Allison Anders, Jane Anderson, Doug Atchison",Documentary,7.1
+888,"Scheherazade, Tell Me a Story",2009,150,"Wael Mandour, Yousry Nasrallah","Mona Zaki, Mahmoud Hemida, Hasan El-Raddad",Drama,6.7
+889,Curious George 2: Follow That Monkey!,2009,80,Norton Virgien,"Frank Welker, Amy Hill, Ed O'Ross","Animation, Adventure, Comedy",5.6
+890,La matassa,2009,98,"Giambattista Avellino, Salvatore Ficarra, Valentino Picone","Salvatore Ficarra, Valentino Picone, Anna Safroncik","Comedy, Crime",6.4
+891,Love Hurts,2009,90,Barra Grant,"Richard E. Grant, Carrie-Anne Moss, Johnny Pacar","Comedy, Romance",5.5
+892,Tatarak,2009,85,Andrzej Wajda,"Krystyna Janda, Pawel Szajda, Jan Englert",Drama,6.3
+893,Smash Cut,2009,86,Lee Demarbre,"David Hess, Jesse Buck, Michael Berryman","Comedy, Horror",3.6
+894,The Smell of Success,2009,96,Michael Polish,"Billy Bob Thornton, Téa Leoni, Mark Polish",Comedy,5.2
+895,S&M Judge,2009,85,Erik Lamens,"Gene Bervoets, Veerle Dobbelaere, Axel Daeseleire","Biography, Drama",6.7
+896,Formosa Betrayed,2009,103,Adam Kane,"James Van Der Beek, Wendy Crewson, John Heard",Thriller,6.0
+897,Peraanmai,2009,154,"S.P. Jhananathan, N. Kalyanakrishnan, V. Yokaanand","Ravi Mohan, Saranya Nag, Vasundhara Kashyap","Action, Adventure, Drama",7.1
+898,Snarveien,2009,77,Severin Eskeland,"Marte Germaine Christensen, Sondre Krogtoft Larsen, Jens Hultén","Horror, Thriller",5.2
+899,Naadodigal,2009,161,Samuthirakani,"M. Sasikumar, Vijay Vasanth, Bharani","Action, Drama",7.7
+900,Blood River,2009,104,Adam Mason,"Andrew Howard, Tess Panzer, Ian Duncan","Horror, Thriller, Western",5.2
+901,The Ministers,2009,89,Franc. Reyes,"John Leguizamo, Harvey Keitel, Florencia Lozano","Crime, Drama",4.4
+902,White Night,2009,135,Park Shin-woo,"Han Suk-kyu, Son Ye-jin, Go Soo","Mystery, Romance, Thriller",6.5
+903,Ek Niranjan,2009,150,Puri Jagannadh,"Prabhas, Kangana Ranaut, Sonu Sood",Action,5.4
+904,Breaking Upwards,2009,88,Daryl Wein,"Zoe Lister-Jones, Daryl Wein, Julie White",Romance,6.0
+905,Gurren Lagann the Movie: The Lights in the Sky are Stars,2009,126,"Hiroyuki Imaishi, Yasuhiro Geshi, Hiroshi Ikehata","Steve Blum, Johnny Yong Bosch, G.K. Bowes","Animation, Action, Drama",8.0
+906,Sophie's Revenge,2009,107,Eva Jin,"Ziyi Zhang, Bingbing Fan, Peter Ho","Comedy, Romance",5.9
+907,Pokhoronite menya za plintusom,2009,117,Sergey Snezhkin,"Svetlana Kryuchkova, Aleksey Petrenko, Mariya Shukshina",Drama,7.0
+908,Sword of War,2009,139,Renzo Martinelli,"Raz Degan, Kasia Smutniak, Rutger Hauer","Drama, History, War",4.4
+909,Taking Chances,2009,99,Talmage Cooley,"Justin Long, Emmanuelle Chriqui, Rob Corddry",Comedy,4.4
+910,The Dancer and the Thief,2009,127,Fernando Trueba,"Ricardo Darín, Abel Ayala, Miranda Bodenhofer",Drama,6.1
+911,"Killing is My Business, Honey",2009,109,Sebastian Niemann,"Rick Kavanian, Nora Tschirner, Christian Tramitz","Comedy, Crime, Romance",5.7
+912,Otto's Eleven,2009,95,Sven Unterwaldt Jr.,"Otto Waalkes, Mirco Nontschew, Rick Kavanian","Comedy, Family, Mystery",4.6
+913,Everyman's War,2009,104,Thad T. Smith,"Cole Carson, Lauren Bair, Michael J. Prosser","Biography, Drama, War",5.1
+914,House of Boys,2009,117,Jean-Claude Schlim,"Loïc Peckels, Layke Anderson, Harry Ferrier","Drama, Music, Romance",6.5
+915,Cartagena,2009,92,Alain Monne,"Sophie Marceau, Christopher Lambert, Margarita Rosa de Francisco","Drama, Romance",6.7
+916,The Replacement,2009,105,Ahmad Ala El-Dib,"Ahmed Ezz, Menna Shalabi, Muhammad Lutfi","Action, Drama, Thriller",6.7
+917,Rain Fall,2009,111,Max Mannix,"Kippei Shîna, Gary Oldman, Kyôko Hasegawa","Action, Crime, Drama",4.6
+918,Diamant 13,2009,98,Gilles Béhat,"Gérard Depardieu, Olivier Marchal, Asia Argento","Action, Crime, Thriller",5.1
+919,Life Partner,2009,138,Rumi Jaffery,"Govinda, Fardeen Khan, Tusshar Kapoor","Comedy, Drama, Romance",5.3
+920,"Me, Them and Lara",2009,115,Carlo Verdone,"Carlo Verdone, Laura Chiatti, Marco Guadagno",Comedy,5.8
+921,The Black Waters of Echo's Pond,2009,89,Gabriel Bologna,"Danielle Harris, James Duval, Robert Patrick","Fantasy, Horror, Thriller",4.4
+922,Türkler Çildirmis Olmali,2009,100,Murat Aslan,"Peker Açikalin, Önder Açikbas, Durul Bazan","Action, Adventure, Comedy",3.0
+923,Street Dreams,2009,88,Chris Zamoscianyk,"Paul Rodriguez, Ryan Dunn, Rob Dyrdek","Drama, Sport",6.1
+924,Akadimia Platonos,2009,103,Filippos Tsitos,"Antonis Kafetzopoulos, Anastasis Kozdine, Titika Sarigouli","Comedy, Drama",6.6
+925,City of Life,2009,119,Ali F. Mostafa,"Alexandra Maria Lara, Sonu Sood, Saoud Al Kaabi","Drama, Romance",6.8
+926,Gölgesizler,2009,94,Ümit Ünal,"Selçuk Yöntem, Hakan Karahan, Taner Birsel","Drama, Fantasy, Mystery",6.6
+927,Evil Angel,2009,123,Richard Dutcher,"Ving Rhames, Ava Gaudet, Kristopher Shepard","Horror, Mystery, Thriller",5.3
+928,Jail,2009,131,Madhur Bhandarkar,"Manoj Bajpayee, Neil Nitin Mukesh, Mugdha Godse",Drama,6.2
+929,Freedom,2009,111,Tony Gatlif,"Marc Lavoine, Marie-Josée Croze, James Thierrée","Drama, War",7.2
+930,Looking for Jackie,2009,85,"Gangliang Fang, Ping Jiang","Yan Tang, Bun Yuen, Mo Yuen","Action, Comedy, Family",3.9
+931,Accused at 17,2009,90,Doug Campbell,"Cynthia Gibb, Nicole Gale Anderson, Janet Montgomery","Crime, Drama, Mystery",5.3
+932,Horst Schlämmer - Isch kandidiere!,2009,96,Angelo Colagrossi,"Hape Kerkeling, Alexandra Kamp, Simon Gosejohann",Comedy,4.8
+933,The Haunting,2009,94,Elio Quiroga,"Ana Torrent, Francisco Boira, Héctor Colomé","Horror, Mystery",5.3
+934,The Temptation of St. Tony,2009,114,Veiko Õunpuu,"Taavi Eelmaa, Ravshana Kurkova, Tiina Tauraite","Drama, Fantasy, Mystery",7.1
+935,Chaw,2009,122,Jeong-won Shin,"Kwon Bum-taek, Yoo-i Ha, Jang Hang-seon","Action, Comedy, Horror",5.6
+936,Kings of Pastry,2009,87,"Chris Hegedus, D.A. Pennebaker","Jacquy Pfeiffer, Regis Lazard, Philippe Rigollot","Documentary, Drama, Family",6.9
+937,Sweatshop,2009,90,Stacy Davidson,"Ashley Kay, Melanie Donihoo, Peyton Wetzel",Horror,4.2
+938,Storm,2009,105,Hans-Christian Schmid,"Kerry Fox, Anamaria Marinca, Stephen Dillane",Drama,6.9
+939,Haarautuvan rakkauden talo,2009,102,Mika Kaurismäki,"Hannu-Pekka Björkman, Elina Knihtilä, Kati Outinen","Comedy, Drama",6.4
+940,City Rats,2009,94,Steve M Kelly,"Tamer Hassan, Ray Panthaki, Susan Lynch","Action, Comedy, Drama",4.9
+941,The Boys,2009,101,"Gregory V. Sherman, Jeff Sherman","Richard M. Sherman, Robert B. Sherman, Roy Edward Disney",Documentary,7.7
+942,You Will Be Mine,2009,96,Sophie Laloy,"Judith Davis, Marc Chapiteau, Fabienne Babe","Drama, Music",5.6
+943,Invitation Only,2009,95,Kevin Ko,"Ray Chang, Julianne Chu, Maria Ozawa","Drama, Horror, Thriller",4.8
+944,Gagma napiri,2009,90,George Ovashvili,"Tedo Bekhauri, Tamar Meskhi, Archil Tabukashvili",Drama,7.7
+945,Dragon Hunter,2009,90,Stephen Shimek,"Erik Denton, Maclain Nelson, Slate Holmgren","Action, Adventure, Fantasy",3.4
+946,Barah Aana,2009,97,Raja Menon,"Naseeruddin Shah, Vijay Raaz, Arjun Mathur","Comedy, Crime, Drama",6.7
+947,Dead Hooker in a Trunk,2009,92,"Jen Soska, Sylvia Soska","Rikki Gagne, Jen Soska, Sylvia Soska",Horror,4.8
+948,Pop,2009,130,Vladimir Khotinenko,"Sergey Makovetskiy, Nina Usatova, Elizaveta Arzamasova","Drama, History, War",7.1
+949,Before Your Eyes,2009,102,Miraz Bezar,"Senay Orak, Muhammed Al, Hakan Karsak",Drama,7.3
+950,Mercy,2009,87,Patrick Hoelck,"Scott Caan, Wendy Glenn, Troy Garity","Drama, Romance",5.9
+951,Endless Bummer,2009,87,Sam Pillsbury,"Khan Chittenden, Colton James, Ray Santiago",Comedy,3.7
+952,Jean Charles,2009,93,Henrique Goldman,"Selton Mello, Marek Oravec, Renu Setna","Biography, Drama",6.3
+953,The Three Investigators and the Secret of Terror Castle,2009,97,Florian Baxmeyer,"Chancellor Miller, Nick Price, Cameron Monaghan","Adventure, Family, Mystery",5.7
+954,Assault Girls,2009,65,Mamoru Oshii,"Yoshikazu Fujiki, Rinko Kikuchi, Meisa Kuroki","Action, Sci-Fi",3.8
+955,Tapped,2009,76,"Stephanie Soechtig, Jason Lindsey","Sally Bethea, Earl Blumenauer, Amanda Brown",Documentary,7.3
+956,Do Knot Disturb,2009,126,David Dhawan,"Govinda, Sushmita Sen, Riteish Deshmukh","Comedy, Drama",3.7
+957,Safari,2009,98,Olivier Baroux,"Kad Merad, Lionel Abelanski, Valérie Benguigui","Adventure, Comedy",4.5
+958,Chicago Overcoat,2009,94,Brian Caunter,"Frank Vincent, Kathrine Narducci, Mike Starr","Action, Adventure, Crime",5.9
+959,Vision - Aus dem Leben der Hildegard von Bingen,2009,110,Margarethe von Trotta,"Barbara Sukowa, Heino Ferch, Hannah Herzsprung","Biography, Drama, History",6.5
+960,Volchok,2009,88,Vasiliy Sigarev,"Polina Pluchek, Yana Troyanova, Veronika Lysakova",Drama,7.0
+961,Je l'aimais,2009,113,Zabou Breitman,"Daniel Auteuil, Marie-Josée Croze, Florence Loiret Caille","Drama, Romance",6.6
+962,Konchem Ishtam Konchem Kashtam,2009,165,Kishore Kumar Pardasani,"Siddharth, Tamannaah Bhatia, Prakash Raj",Romance,7.0
+963,So Normal 2: The Craziest Night Ever,2009,75,José Alvarenga Jr.,"Luiz Fernando Guimarães, Fernanda Torres, Daniel Dantas",Comedy,5.8
+964,Against the Current,2009,98,Peter Callahan,"Joseph Fiennes, Samantha Sherman, Pell James",Drama,6.1
+965,20th Century Boys 3: Redemption,2009,156,Yukihiko Tsutsumi,"Takumi Saitô, Kôichi Yamadera, Ryûnosuke Kamiki","Adventure, Fantasy",6.4
+966,All About Actresses,2009,105,Maïwenn,"Jeanne Balibar, Romane Bohringer, Julie Depardieu","Comedy, Drama",6.5
+967,Dear Lemon Lima,2009,87,"Paul Germain, Suzi Yoonessi","Savanah Wiltfong, Shayne Topp, Eleanor Hutchins","Comedy, Drama",6.3
+968,Mal día para pescar,2009,110,Álvaro Brechner,"Gary Piquer, Jouko Ahola, Antonella Costa","Comedy, Drama, Western",6.9
+969,Strigoi,2009,105,Faye Jackson,"Catalin Paraschiv, Rudy Rosenfeld, Constantin Barbulescu","Comedy, Drama, Fantasy",5.4
+970,Contact High,2009,98,Michael Glawogger,"Michael Ostrowski, Raimund Wallisch, Alexis Santiago Hernandez",Comedy,6.4
+971,Morrer Como Um Homem,2009,134,João Pedro Rodrigues,"Chandra Malatitch, John Jesus Romão, Ivo Barroso","Drama, Music",6.4
+972,The Last Flight,2009,98,Karim Dridi,"Marion Cotillard, Guillaume Canet, Guillaume Marquet","Adventure, Drama, Romance",5.4
+973,Göta kanal 3 - Kanalkungens hemlighet,2009,92,Christjan Wegner,"Janne Carlsson, Eva Röse, Magnus Härenstam",Comedy,2.7
+974,RTT,2009,88,Frédéric Berthe,"Kad Merad, Mélanie Doutey, Manu Payet","Comedy, Romance",5.0
+975,2:13,2009,96,Charles Adelman,"Mark Thompson, Mark Pellegrino, Teri Polo","Drama, Mystery, Thriller",4.8
+976,The Crypt,2009,84,Craig McMahon,"Sarah Oh, Mike Ranallo, Abra May",Horror,3.3
+977,The Treasure Hunter,2009,105,Yen-Ping Chu,"Jay Chou, Eric Tsang, Chu-Ho Chen","Action, Adventure, Fantasy",3.8
+978,The Widows of Thursdays,2009,122,Marcelo Piñeyro,"Rafael Aieta, Ernesto Alterio, Roberto Antier","Crime, Drama, Mystery",6.0
+979,Bikini Girls on Ice,2009,82,Geoff Klein,"Cindel Chartrand, Danielle Doetsch, William Jarand","Horror, Thriller",3.0
+980,Mai Mai Miracle,2009,95,Sunao Katabuchi,"Masao Agawa, Chisa Bandai, Romy Beckman","Animation, Adventure, Drama",6.9
+981,Plastic Planet,2009,95,Werner Boote,"Werner Boote, John Taylor, Peter Lieberzeit",Documentary,7.2
+982,El Estudiante,2009,95,Roberto Girault,"Jorge Lavat, Norma Lazareno, Siouzana Melikian",Drama,7.1
+983,"Viajo Porque Preciso, Volto Porque te Amo",2009,75,"Karim Aïnouz, Marcelo Gomes",Irandhir Santos,Drama,7.2
+984,The Donner Party,2009,95,Terrence Martin,"Crispin Glover, Clayne Crawford, Michele Santopietro",Drama,4.9
+985,Penance,2009,85,Jake Kennedy,"Marieh Delfino, Jason Connery, Michael Rooker","Horror, Thriller",3.4
+986,Clash,2009,90,Thanh Son Le,"Johnny Tri Nguyen, Veronica Ngo, Hoang Phuc Nguyen","Action, Crime, Thriller",5.9
+987,Oy!,2009,166,Anand Ranga,"Siddharth, Shamili, Mohammad Ali",Romance,7.1
+988,Ividam Swargamanu,2009,150,Rosshan Andrrews,"Mohanlal, Thilakan, Lalu Alex",Drama,7.2
+989,Which Way Home,2009,90,Rebecca Cammisa,,Documentary,7.8
+990,Italians,2009,116,Giovanni Veronesi,"Sergio Castellitto, Riccardo Scamarcio, Remo Girone",Comedy,5.6
+991,Beer Wars,2009,89,Anat Baron,"Norman Adami, Anat Baron, Roberta Baskin",Documentary,6.8
+992,The Sword with No Name,2009,124,Yong-gyun Kim,"Cho Seung-woo, Soo Ae, Sophie Broustal","Action, Drama, History",6.1
+993,Fort Apache Napoli,2009,108,Marco Risi,"Libero De Rienzo, Valentina Lodovini, Michele Riondino","Biography, Crime, Drama",7.2
+994,Psalm 21,2009,114,Fredrik Hiller,"Jonas Malmsjö, Oliver Åström, Robin Åström","Horror, Thriller",4.4
+995,Zen,2009,127,Banmei Takahashi,"Kankurô Nakamura, Yuki Uchida, Ryushin Tei","Biography, Drama",7.3
+996,The Shock Labyrinth,2009,89,Takashi Shimizu,"Yûya Yagira, Takashi Yamanaka, Misako Renbutsu","Horror, Thriller",3.8
+997,The True Story of Puss'N Boots,2009,80,"Jérôme Deschamps, Pascal Hérold, Macha Makeïeff","Jérôme Deschamps, Yolande Moreau, Arthur Deschamps","Animation, Adventure, Comedy",3.1
+998,Gnomes & Trolls: The Secret Chamber,2009,70,Robert Rhodin,"Elizabeth Daily, Greg Berg, James Arnold Taylor","Animation, Family, Fantasy",4.3
+999,Kochaj i tancz,2009,118,Bruce Parramore,"Mateusz Damiecki, Izabella Miko, Violetta Arlak",Romance,4.8
+1000,Entre nos,2009,80,"Gloria La Morte, Paola Mendoza","Paola Mendoza, Sebastian Villada, Laura Montana",Drama,7.3
