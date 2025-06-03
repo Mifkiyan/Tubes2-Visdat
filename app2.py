@@ -544,7 +544,7 @@ else:
 
     with vis_row1_col2:
         st.markdown('<div class="chart-container-right">', unsafe_allow_html=True) 
-        st.write("##### 🎥 Total Produksi Film")
+        st.write("##### 🎥 Total Produksi Film (Top 10)")
         if 'Genre' in df_filtered.columns:
             top_10_genres_series = df_filtered['Genre'].value_counts().nlargest(10)
             if not top_10_genres_series.empty:
@@ -565,7 +565,7 @@ else:
                 )
                 fig_bar_genre_h.update_traces(
                     hovertemplate=
-                        'Genre = %{y}<br>'
+                        # 'Genre = %{y}<br>'
                         'Jumlah Film = %{x:.0f}'
                         '<extra></extra>'
                 )
