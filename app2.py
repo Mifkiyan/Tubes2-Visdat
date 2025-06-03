@@ -304,7 +304,18 @@ else:
 
     with st.sidebar:
         st.header("Filter Dashboard")
-        st.info("Filter akan diterapkan ke seluruh visualisasi dan statistik dalam dashboard ini.")
+        st.markdown("""
+        <div style='
+            background-color: rgba(33, 150, 243, 0.1); 
+            border-left: 3px solid #2196F3; 
+            padding: 8px 12px; 
+            margin: 8px 0;
+            font-size: 0.75rem;
+            line-height: 1.3;
+        '>
+            Filter akan diterapkan ke seluruh visualisasi dalam dashboard.
+        </div>
+        """, unsafe_allow_html=True)
 
         if 'slider_year_range' not in st.session_state:
             st.session_state.slider_year_range = (min_year_data_available, max_year_data_available)
@@ -410,7 +421,18 @@ else:
     if selected_genres_filter: 
         df_filtered = df_filtered[df_filtered['Genre'].isin(selected_genres_filter)]
     elif not selected_genres_filter and 'Genre' in df_expanded.columns: 
-        st.sidebar.info("Anda belum memilih genre. Menampilkan data untuk semua genre yang tersedia dalam rentang tahun terpilih.")
+        st.sidebar.markdown("""
+        <div style='
+            background-color: rgba(33, 150, 243, 0.1); 
+            border-left: 3px solid #2196F3; 
+            padding: 8px 12px; 
+            margin: 8px 0;
+            font-size: 0.75rem;
+            line-height: 1.3;
+        '>
+            Genre belum dipilih. Menampilkan data untuk semua genre.
+        </div>
+        """, unsafe_allow_html=True)
 
     kpi_col1, kpi_col2, kpi_col3, kpi_col4 = st.columns(4)
     with kpi_col1:
