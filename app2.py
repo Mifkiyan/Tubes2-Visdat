@@ -513,7 +513,7 @@ else:
     with vis_row1_col1:
         st.markdown('<div class="chart-container">', unsafe_allow_html=True) 
         st.write("##### 📈 Produksi Film Tahunan")
-        st.write("Klik genre untuk melakukan filter · Klik 2x untuk filter genre")
+        st.write("Klik genre untuk melakukan filter · Klik 2x untuk fokus ke satu genre")
         if 'ReleaseYear' in df_filtered.columns and 'Genre' in df_filtered.columns:
             movies_per_year_genre = df_filtered.groupby(['ReleaseYear', 'Genre']).size().reset_index(name='Jumlah Film')
             if not movies_per_year_genre.empty:
@@ -588,7 +588,7 @@ else:
     with vis_row2_col1:
         st.markdown('<div class="chart-container">', unsafe_allow_html=True)
         st.write("##### ⭐ Distribusi Rating IMDb")
-        st.write("Klik genre untuk melakukan filter · Klik 2x untuk filter genre")
+        st.write("Klik genre untuk melakukan filter · Klik 2x untuk fokus ke satu genre")
         if 'Genre' in df_filtered.columns and 'IMDb-Rating' in df_filtered.columns:
             df_filtered_rating = df_filtered.copy()
             df_filtered_rating['IMDb-Rating'] = pd.to_numeric(df_filtered_rating['IMDb-Rating'], errors='coerce')
