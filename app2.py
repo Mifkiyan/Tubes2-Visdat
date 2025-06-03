@@ -389,28 +389,21 @@ else:
         if 'Genre' in df_expanded.columns:
             all_genres_list = sorted(list(df_expanded['Genre'].unique()))
 
-            # Initialize only once
-            if 'genre_multiselect_initialized' not in st.session_state:
-                top_5_genres_overall = df_expanded['Genre'].value_counts().nlargest(5).index.tolist() \
-                                        if not df_expanded.empty else []
-                valid_top_5_genres = [g for g in top_5_genres_overall if g in all_genres_list]
-                if not valid_top_5_genres and all_genres_list:
-                    valid_top_5_genres = all_genres_list[:min(5, len(all_genres_list))]
+            top_5_genres_overall = df_expanded['Genre'].value_counts().nlargest(5).index.tolist() \
+                                    if not df_expanded.empty else []
+            valid_top_5_genres = [g for g in top_5_genres_overall if g in all_genres_list]
+            if not valid_top_5_genres and all_genres_list:
+                valid_top_5_genres = all_genres_list[:min(5, len(all_genres_list))]
 
-                st.session_state.genre_multiselect = valid_top_5_genres
-                st.session_state.genre_multiselect_initialized = True
-
-            # Directly use session state as default and update
             selected_genres_filter = st.multiselect(
                 "Genre yang ditampilkan:",
                 options=all_genres_list,
-                default=st.session_state.genre_multiselect,
+                default=valid_top_5_genres,
                 key="genre_multiselect"
             )
         else:
             selected_genres_filter = []
             st.warning("Kolom 'Genre' tidak ditemukan dalam data.")
-
 
     st.markdown(f"""
     <div class="main-header">
