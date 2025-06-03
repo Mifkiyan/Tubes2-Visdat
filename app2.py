@@ -522,12 +522,12 @@ else:
                     x='ReleaseYear', y='Jumlah Film', color='Genre', custom_data=['Genre'],
                     labels={'ReleaseYear': 'Tahun Rilis', 'Jumlah Film': 'Jumlah Film Diproduksi'},
                     color_discrete_map=genre_color_map, 
-                    height=300
+                    height=350
                 )
                 fig_stacked_bar.update_layout(
                     plot_bgcolor='rgba(0,0,0,0)', paper_bgcolor='rgba(0,0,0,0)',
                     legend_title_text='Genre', barmode='stack',
-                    margin=dict(l=10, r=20, t=30, b=10), 
+                    margin=dict(l=10, r=20, t=30, b=40), 
                     legend=dict(font=dict(size=10)) 
                 )
                 fig_stacked_bar.update_traces(
@@ -547,6 +547,7 @@ else:
     with vis_row1_col2:
         st.markdown('<div class="chart-container-right">', unsafe_allow_html=True) 
         st.write("##### 🎥 Total Produksi Film (Top 10)")
+        st.write("Genre dengan jumlah film terbanyak dalam periode terpilih.")
         if 'Genre' in df_filtered.columns:
             top_10_genres_series = df_filtered['Genre'].value_counts().nlargest(10)
             if not top_10_genres_series.empty:
@@ -557,13 +558,13 @@ else:
                     x='Jumlah Instance Genre', y='Genre', orientation='h',
                     labels={'Jumlah Instance Genre': 'Jumlah Film', 'Genre': 'Genre'},
                     color='Genre', color_discrete_map=genre_color_map, 
-                    height=300
+                    height=350
                 )
                 fig_bar_genre_h.update_layout(
                     yaxis={'categoryorder':'total ascending'}, 
                     plot_bgcolor='rgba(0,0,0,0)', paper_bgcolor='rgba(0,0,0,0)',
                     showlegend=False, 
-                    margin=dict(l=20, r=10, t=30, b=10) 
+                    margin=dict(l=20, r=10, t=30, b=40) 
                 )
                 fig_bar_genre_h.update_traces(
                     hovertemplate=
@@ -586,7 +587,7 @@ else:
 
     with vis_row2_col1:
         st.markdown('<div class="chart-container">', unsafe_allow_html=True)
-        st.subheader("⭐ Distribusi Rating IMDb")
+        st.write("##### ⭐ Distribusi Rating IMDb")
         st.write("Klik genre untuk melakukan filter · Klik 2x untuk filter genre")
         if 'Genre' in df_filtered.columns and 'IMDb-Rating' in df_filtered.columns:
             df_filtered_rating = df_filtered.copy()
@@ -633,7 +634,7 @@ else:
 
     with vis_row2_col2:
         st.markdown('<div class="chart-container-right">', unsafe_allow_html=True)
-        st.subheader("🏆 Film Terbaik per Genre")
+        st.write("##### 🏆 Film Terbaik per Genre")
         st.write("Klik pada nama genre untuk melihat detail film terbaiknya.")
 
         unique_genres_in_filtered_data = sorted(list(df_filtered['Genre'].unique()))
