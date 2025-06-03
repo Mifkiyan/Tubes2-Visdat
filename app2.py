@@ -387,27 +387,30 @@ else:
 
         st.markdown("##### Pilih Genre")
         if 'Genre' in df_expanded.columns:
-            all_genres_list = sorted(list(df_expanded['Genre'].unique())) # Ganti nama variabel
-            
-            if 'genre_multiselect' not in st.session_state:
+            all_genres_list = sorted(list(df_expanded['Genre'].unique()))
+
+            # Initialize only once
+            if 'genre_multiselect_initialized' not in st.session_state:
                 top_5_genres_overall = df_expanded['Genre'].value_counts().nlargest(5).index.tolist() \
                                         if not df_expanded.empty else []
                 valid_top_5_genres = [g for g in top_5_genres_overall if g in all_genres_list]
-                if not valid_top_5_genres and all_genres_list: 
+                if not valid_top_5_genres and all_genres_list:
                     valid_top_5_genres = all_genres_list[:min(5, len(all_genres_list))]
-                st.session_state.genre_multiselect = valid_top_5_genres
 
-            selected_genres_filter = st.multiselect( # Ganti nama variabel
-                "Genre yang ditampilkan:", 
-                options=all_genres_list, 
-                default=st.session_state.genre_multiselect, 
-                key="genre_multiselect_widget" 
+                st.session_state.genre_multiselect = valid_top_5_genres
+                st.session_state.genre_multiselect_initialized = True
+
+            # Directly use session state as default and update
+            selected_genres_filter = st.multiselect(
+                "Genre yang ditampilkan:",
+                options=all_genres_list,
+                default=st.session_state.genre_multiselect,
+                key="genre_multiselect"
             )
-            if selected_genres_filter != st.session_state.genre_multiselect:
-                st.session_state.genre_multiselect = selected_genres_filter
         else:
             selected_genres_filter = []
             st.warning("Kolom 'Genre' tidak ditemukan dalam data.")
+
 
     st.markdown(f"""
     <div class="main-header">
@@ -640,10 +643,10 @@ else:
 
                             title_display = f"{title} ({int(release_year)})" if pd.notna(release_year) else title
                             rating_display = f"{rating_val:.1f}" if pd.notna(rating_val) else "N/A"
-                            current_genre_color = genre_color_map.get(current_genre, '#CCCCCC')
+                            current_genre_color = genre_color_map.get(current_genre, '#FAFAFA')
 
                             st.markdown(f"""
-                                <div style="padding: 5px 10px; margin: 5px 0; border-left: 5px solid {current_genre_color}; background-color: #f9f9f9;">
+                                <div style="padding: 5px 10px; margin: 5px 0; border-left: 5px solid {current_genre_color}; background-color: #262730;">
                                     <strong>Judul:</strong> {title_display}<br>
                                     <strong>Rating IMDb:</strong> {rating_display} ⭐<br>
                                     <strong>Sutradara:</strong> {director}<br>
@@ -684,10 +687,10 @@ else:
 
                         title_display = f"{title} ({int(release_year)})" if pd.notna(release_year) else title
                         rating_display = f"{rating_val:.1f}" if pd.notna(rating_val) else "N/A"
-                        current_genre_color = genre_color_map.get(current_genre, '#CCCCCC')
+                        current_genre_color = genre_color_map.get(current_genre, '#FAFAFA')
 
                         film_card_html = f"""
-                            <div style="padding: 5px 10px; margin: 5px 0; border-left: 5px solid {current_genre_color}; background-color: #f9f9f9;">
+                            <div style="padding: 5px 10px; margin: 5px 0; border-left: 5px solid {current_genre_color}; background-color: #262730;">
                                 <strong>Judul:</strong> {title_display}<br>
                                 <strong>Rating IMDb:</strong> {rating_display} ⭐<br>
                                 <strong>Sutradara:</strong> {director}<br>
