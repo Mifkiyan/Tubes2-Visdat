@@ -515,7 +515,7 @@ else:
             if not movies_per_year_genre.empty:
                 fig_stacked_bar = px.bar(
                     movies_per_year_genre,
-                    x='ReleaseYear', y='Jumlah Film', color='Genre',
+                    x='ReleaseYear', y='Jumlah Film', color='Genre', custom_data=['Genre'],
                     labels={'ReleaseYear': 'Tahun Rilis', 'Jumlah Film': 'Jumlah Film Diproduksi'},
                     color_discrete_map=genre_color_map, 
                     height=300
@@ -525,6 +525,13 @@ else:
                     legend_title_text='Genre', barmode='stack',
                     margin=dict(l=10, r=20, t=30, b=10), 
                     legend=dict(font=dict(size=10)) 
+                )
+                fig_stacked_bar.update_traces(
+                    hovertemplate=
+                        'Genre = %{customdata[0]}<br>'
+                        'Tahun Rilis = %{x}<br>'
+                        'Jumlah Film Diproduksi = %{y:.0f}'
+                        '<extra></extra>'
                 )
                 st.plotly_chart(fig_stacked_bar, use_container_width=True)
             else:
@@ -553,6 +560,12 @@ else:
                     plot_bgcolor='rgba(0,0,0,0)', paper_bgcolor='rgba(0,0,0,0)',
                     showlegend=False, 
                     margin=dict(l=20, r=10, t=30, b=10) 
+                )
+                fig_bar_genre_h.update_traces(
+                    hovertemplate=
+                        'Genre = %{y}<br>'
+                        'Jumlah Film = %{x:.0f}'
+                        '<extra></extra>'
                 )
                 st.plotly_chart(fig_bar_genre_h, use_container_width=True)
             else:
