@@ -546,7 +546,7 @@ else:
 
     with vis_row1_col2:
         st.markdown('<div class="chart-container-right">', unsafe_allow_html=True) 
-        st.write("##### 🎥 Total Produksi Film (Top 10)")
+        st.write("##### 🎥 Total Produksi Film")
         if 'Genre' in df_filtered.columns:
             top_10_genres_series = df_filtered['Genre'].value_counts().nlargest(10)
             if not top_10_genres_series.empty:
