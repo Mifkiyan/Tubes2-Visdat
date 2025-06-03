@@ -4,6 +4,7 @@ import numpy as np
 import plotly.express as px
 import plotly.figure_factory as ff
 import time
+from streamlit.components.v1 import html
 
 st.set_page_config(
     page_title="Dashboard Tren Genre Film IMDb",
@@ -619,20 +620,60 @@ else:
         if not unique_genres_in_filtered_data:
             st.info("Tidak ada genre spesifik dalam data yang difilter untuk menampilkan film terbaik.")
         else:
-            for current_genre in unique_genres_in_filtered_data: # Ganti nama variabel
-                with st.expander(f"{current_genre}"): # Label expander adalah nama genre
-                    # Ambil film untuk genre ini dari df_filtered
+            # Case 1: <= 4 genres
+            if len(unique_genres_in_filtered_data) <= 4:
+                for current_genre in unique_genres_in_filtered_data:
+                    with st.expander(f"{current_genre}"):
+                        genre_films_df = df_filtered[df_filtered['Genre'] == current_genre].copy()
+                        genre_films_df['IMDb-Rating'] = pd.to_numeric(genre_films_df['IMDb-Rating'], errors='coerce')
+                        genre_films_df['ReleaseYear'] = pd.to_numeric(genre_films_df['ReleaseYear'], errors='coerce')
+                        genre_films_df.dropna(subset=['IMDb-Rating', 'Title', 'ReleaseYear'], inplace=True)
+
+                        top_film = genre_films_df.sort_values(by='IMDb-Rating', ascending=False).head(1)
+                        if not top_film.empty:
+                            film_row = top_film.iloc[0]
+                            title = film_row.get('Title', 'N/A')
+                            release_year = film_row.get('ReleaseYear', 'N/A')
+                            rating_val = film_row.get('IMDb-Rating', 'N/A')
+                            director = film_row.get('Director', 'N/A')
+                            stars = film_row.get('Stars', 'N/A')
+
+                            title_display = f"{title} ({int(release_year)})" if pd.notna(release_year) else title
+                            rating_display = f"{rating_val:.1f}" if pd.notna(rating_val) else "N/A"
+                            current_genre_color = genre_color_map.get(current_genre, '#CCCCCC')
+
+                            st.markdown(f"""
+                                <div style="padding: 5px 10px; margin: 5px 0; border-left: 5px solid {current_genre_color}; background-color: #f9f9f9;">
+                                    <strong>Judul:</strong> {title_display}<br>
+                                    <strong>Rating IMDb:</strong> {rating_display} ⭐<br>
+                                    <strong>Sutradara:</strong> {director}<br>
+                                    <strong>Pemain Utama:</strong> {stars}
+                                </div>
+                            """, unsafe_allow_html=True)
+
+            # Case 2: > 4 genres
+            else:
+                scroll_html = """
+                    <div style='
+                        max-height: 320px;
+                        overflow-y: auto;
+                        padding: 10px;
+                        border: 1px solid #ccc;
+                        border-radius: 10px;
+                        margin-top: 10px;
+                        box-sizing: border-box;
+                    '>
+                """
+
+                for idx, current_genre in enumerate(unique_genres_in_filtered_data):
+                    scroll_html += f"<details><summary>{current_genre}</summary>"
+
                     genre_films_df = df_filtered[df_filtered['Genre'] == current_genre].copy()
-                    
-                    # Pastikan 'IMDb-Rating' dan 'ReleaseYear' ada dan numerik
                     genre_films_df['IMDb-Rating'] = pd.to_numeric(genre_films_df['IMDb-Rating'], errors='coerce')
-                    genre_films_df['ReleaseYear'] = pd.to_numeric(genre_films_df['ReleaseYear'], errors='coerce') # Pastikan tahun rilis numerik
-                    
-                    genre_films_df.dropna(subset=['IMDb-Rating', 'Title', 'ReleaseYear'], inplace=True) # Hapus NaN untuk kolom penting
+                    genre_films_df['ReleaseYear'] = pd.to_numeric(genre_films_df['ReleaseYear'], errors='coerce')
+                    genre_films_df.dropna(subset=['IMDb-Rating', 'Title', 'ReleaseYear'], inplace=True)
 
-                    # Ambil top 1 film
                     top_film = genre_films_df.sort_values(by='IMDb-Rating', ascending=False).head(1)
-
                     if not top_film.empty:
                         film_row = top_film.iloc[0]
                         title = film_row.get('Title', 'N/A')
@@ -640,27 +681,31 @@ else:
                         rating_val = film_row.get('IMDb-Rating', 'N/A')
                         director = film_row.get('Director', 'N/A')
                         stars = film_row.get('Stars', 'N/A')
-                        
-                        # Format tampilan
-                        title_display = f"{title} ({int(release_year)})" if pd.notna(release_year) and release_year != 'N/A' else title
-                        rating_display = f"{rating_val:.1f}" if pd.notna(rating_val) and isinstance(rating_val, (float, int)) else "N/A"
+
+                        title_display = f"{title} ({int(release_year)})" if pd.notna(release_year) else title
+                        rating_display = f"{rating_val:.1f}" if pd.notna(rating_val) else "N/A"
                         current_genre_color = genre_color_map.get(current_genre, '#CCCCCC')
 
                         film_card_html = f"""
-                        <div class="film-detail-expander-card" style="border-left-color: {current_genre_color};">
-                            <strong>Judul:</strong> {title_display}<br>
-                            <strong>Rating IMDb:</strong> {rating_display} ⭐<br>
-                            <hr>
-                            <strong>Sutradara:</strong> {director}<br>
-                            <strong>Pemain Utama:</strong> {stars}
-                        </div>
+                            <div style="padding: 5px 10px; margin: 5px 0; border-left: 5px solid {current_genre_color}; background-color: #f9f9f9;">
+                                <strong>Judul:</strong> {title_display}<br>
+                                <strong>Rating IMDb:</strong> {rating_display} ⭐<br>
+                                <strong>Sutradara:</strong> {director}<br>
+                                <strong>Pemain Utama:</strong> {stars}
+                            </div>
                         """
-                        st.markdown(film_card_html, unsafe_allow_html=True)
-                    else:
-                        st.write(f"Tidak ada data film yang memenuhi kriteria untuk genre {current_genre} dengan filter saat ini.")
-        st.markdown('</div>', unsafe_allow_html=True)
-    # --- END OF MODIFIED SECTION ---
+                        scroll_html += film_card_html
 
+                    scroll_html += "</details>"
+                    if idx < len(unique_genres_in_filtered_data) - 1:
+                        scroll_html += "<hr>"
+
+                scroll_html += "</div>"
+                st.markdown(scroll_html, unsafe_allow_html=True)
+
+        st.markdown('</div>', unsafe_allow_html=True)
+
+    # --- END OF MODIFIED SECTION ---
     st.markdown("<hr style='margin-top:0.5rem; margin-bottom:0.5rem;'>", unsafe_allow_html=True)
 
 # Footer
