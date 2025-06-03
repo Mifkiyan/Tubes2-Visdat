@@ -321,7 +321,7 @@ else:
     max_year_data_available = int(df_expanded['ReleaseYear'].max())
 
     with st.sidebar:
-        st.header("🎯 Filter Dashboard")
+        st.header("Filter Dashboard")
 
         if 'slider_year_range' not in st.session_state:
             st.session_state.slider_year_range = (min_year_data_available, max_year_data_available)
@@ -389,6 +389,14 @@ else:
         if 'Genre' in df_expanded.columns:
             all_genres_list = sorted(list(df_expanded['Genre'].unique()))
 
+            st.markdown("""
+                        <style>
+                        div[data-baseweb="select"] span{
+                            color: #0e1117 !important;
+                        }
+                        </style>
+                        """, unsafe_allow_html=True)
+
             top_5_genres_overall = df_expanded['Genre'].value_counts().nlargest(5).index.tolist() \
                                     if not df_expanded.empty else []
             valid_top_5_genres = [g for g in top_5_genres_overall if g in all_genres_list]
@@ -408,9 +416,9 @@ else:
     st.markdown(f"""
     <div class="main-header">
         <h1>🎬 Dashboard Tren Genre Film IMDb</h1>
-        <p>Menganalisis Evolusi Sinema ({selected_year_range[0]}–{selected_year_range[1]})</p>
     </div>
     """, unsafe_allow_html=True)
+        # <p>Menganalisis Evolusi Sinema ({selected_year_range[0]}–{selected_year_range[1]})</p>
 
     df_filtered = df_expanded[
         (df_expanded['ReleaseYear'] >= selected_year_range[0]) &
@@ -427,7 +435,7 @@ else:
         st.markdown(
             f'<div class="kpi-card">'
             f'  <div class="kpi-value">{total_films:,}</div>'
-            f'  <div class="kpi-label">Total Judul Film Unik</div>'
+            f'  <div class="kpi-label">Total Film</div>'
             f'</div>',
             unsafe_allow_html=True
         )
@@ -494,7 +502,7 @@ else:
         st.info("Tidak ada data yang cocok dengan filter yang dipilih. Silakan sesuaikan filter Anda.")
         st.stop() 
 
-    st.subheader("📊 Analisis Produksi & Popularitas Genre Film")
+    # st.subheader("📊 Analisis Produksi & Popularitas Genre Film")
 
     col1_container = st.container()
     with col1_container:
@@ -502,7 +510,8 @@ else:
 
     with vis_row1_col1:
         st.markdown('<div class="chart-container">', unsafe_allow_html=True) 
-        st.write("##### Produksi Film Tahunan per Genre")
+        st.write("##### 📈 Produksi Film Tahunan")
+        st.write("Klik genre untuk melakukan filter · Klik 2x untuk filter genre")
         if 'ReleaseYear' in df_filtered.columns and 'Genre' in df_filtered.columns:
             movies_per_year_genre = df_filtered.groupby(['ReleaseYear', 'Genre']).size().reset_index(name='Jumlah Film')
             if not movies_per_year_genre.empty:
@@ -535,7 +544,7 @@ else:
 
     with vis_row1_col2:
         st.markdown('<div class="chart-container-right">', unsafe_allow_html=True) 
-        st.write("##### Genre Film Terpopuler (Top 10)")
+        st.write("##### 🎥 Total Produksi Film")
         if 'Genre' in df_filtered.columns:
             top_10_genres_series = df_filtered['Genre'].value_counts().nlargest(10)
             if not top_10_genres_series.empty:
@@ -575,8 +584,8 @@ else:
 
     with vis_row2_col1:
         st.markdown('<div class="chart-container">', unsafe_allow_html=True)
-        st.subheader("⭐ Distribusi Rating IMDb per Genre")
-        st.write("Sebaran rating IMDb untuk genre yang dipilih (density plot).")
+        st.subheader("⭐ Distribusi Rating IMDb")
+        st.write("Klik genre untuk melakukan filter · Klik 2x untuk filter genre")
         if 'Genre' in df_filtered.columns and 'IMDb-Rating' in df_filtered.columns:
             df_filtered_rating = df_filtered.copy()
             df_filtered_rating['IMDb-Rating'] = pd.to_numeric(df_filtered_rating['IMDb-Rating'], errors='coerce')
@@ -667,7 +676,7 @@ else:
                         max-height: 320px;
                         overflow-y: auto;
                         padding: 10px;
-                        border: 1px solid #ccc;
+                        border: 3px solid #333;
                         border-radius: 10px;
                         margin-top: 10px;
                         box-sizing: border-box;
@@ -720,7 +729,7 @@ else:
 # Footer
 st.markdown("""
 <div style="text-align: center; color: #666; padding-bottom: 0.5rem; font-size: 0.8rem;">
-    <p>Sumber Data: Kumpulan Film IMDb (Dataset mungkin bervariasi) | Dashboard interaktif ini dibuat dengan ❤️ menggunakan Streamlit & Python.</p>
-    <p>Dirancang untuk analisis tren sinematik.</p>
+    <p>Sumber Data: https://www.imdb.com/ | Dashboard interaktif ini dibuat oleh Kelompok 11.</p>
+    <p>IF4061 Visualisasi Data.</p>
 </div>
 """, unsafe_allow_html=True)
