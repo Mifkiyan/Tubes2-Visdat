@@ -15,106 +15,106 @@ st.set_page_config(
 
 st.markdown("""
 <style>
-    /* Sidebar styling - lebih compact */
+    /* Sidebar styling */
     section[data-testid="stSidebar"] {
-        width: 250px !important; /*Lebar sidebar yang lebih ramping*/
+        width: 250px !important;
     }
     
     section[data-testid="stSidebar"] .stRadio > label {
-        font-size: 0.85rem; /* Font lebih kecil untuk label radio */
+        font-size: 0.85rem;
     }
     
     section[data-testid="stSidebar"] .stSelectbox > label {
-        font-size: 0.85rem; /* Font lebih kecil untuk label selectbox */
+        font-size: 0.85rem;
     }
     
     section[data-testid="stSidebar"] h1 {
-        font-size: 1.2rem !important; /* Font lebih kecil untuk judul H1 sidebar */
+        font-size: 1.2rem !important;
     }
     
     section[data-testid="stSidebar"] h2 {
-        font-size: 1.1rem !important; /* Font lebih kecil untuk judul H2 sidebar */
+        font-size: 1.1rem !important;
     }
     
     section[data-testid="stSidebar"] h3 {
-        font-size: 1rem !important; /* Font lebih kecil untuk judul H3 sidebar */
+        font-size: 1rem !important;
     }
     
     section[data-testid="stSidebar"] .stNumberInput > label {
-        font-size: 0.85rem; /* Font lebih kecil untuk label number input */
+        font-size: 0.85rem;
     }
     
     /* Customize sidebar toggle button */
     button[data-testid="collapsedControl"] {
-        background-color: #f5c518; /* Warna latar IMDb */
-        color: #000; /* Warna teks hitam */
+        background-color: #f5c518;
+        color: #000;
         padding: 0.5rem;
-        border-radius: 0 5px 5px 0; /* Sudut membulat hanya di sisi kanan */
-        width: auto; /* Lebar otomatis */
+        border-radius: 0 5px 5px 0;
+        width: auto;
     }
     
     button[data-testid="collapsedControl"]:hover {
-        background-color: #e4b308; /* Warna latar IMDb saat hover */
+        background-color: #e4b308;
     }
     
     button[data-testid="collapsedControl"]:after {
-        content: " Menu"; /* Tambahkan teks "Menu" setelah ikon */
+        content: " Menu";
         font-weight: bold;
         font-size: 0.8rem;
     }
     
-    /* Main header styling - lebih besar */
+    /* Main header styling */
     .main-header {
-        background: linear-gradient(135deg, #f5c518 0%, #e4b308 100%); /* Gradien IMDb */
-        padding: 1.2rem; /* Padding lebih besar */
-        border-radius: 10px; /* Sudut membulat */
+        background: linear-gradient(135deg, #f5c518 0%, #e4b308 100%);
+        padding: 1.2rem;
+        border-radius: 10px;
         text-align: center;
-        color: #000000; /* Warna teks hitam agar kontras */
+        color: #000000;
         margin-bottom: 1rem;
     }
     .main-header h1 {
-        font-size: 2.5rem !important; /* Ukuran font judul utama */
+        font-size: 2.5rem !important;
         font-weight: bold;
         margin-bottom: 0.5rem;
     }
     .main-header p {
-        font-size: 1.1rem; /* Ukuran font subjudul */
+        font-size: 1.1rem;
         margin: 0;
     }
 
-    /* KPI card styling - font lebih kecil */
+    /* KPI card styling */
     .kpi-card {
-        background-color: #1a1a1a; /* Warna latar gelap */
-        padding: 0.8rem; /* Padding disesuaikan */
+        background-color: #1a1a1a;
+        padding: 0.8rem;
         border-radius: 8px;
         text-align: center;
-        border: 1px solid #333; /* Border tipis */
-        height: 100%; /* Tinggi penuh untuk konsistensi */
-        display: flex; /* Menggunakan flexbox */
-        flex-direction: column; /* Susun item secara vertikal */
-        justify-content: center; /* Pusatkan konten secara vertikal */
+        border: 1px solid #333;
+        height: 100px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
     }
     .kpi-value {
-        font-size: 1.4rem; /* Ukuran font nilai KPI */
+        font-size: 1.4rem;
         font-weight: bold;
-        color: #f5c518; /* Warna IMDb untuk nilai */
+        color: #f5c518;
         margin-bottom: 0.2rem;
-        line-height: 1.3; /* Atur line-height agar teks panjang tidak terlalu rapat */
-        word-wrap: break-word; /* Memastikan teks panjang akan wrap */
-        overflow-wrap: break-word; /* Alias untuk word-wrap */
+        line-height: 1.3;
+        word-wrap: break-word;
+        overflow-wrap: break-word;
     }
     .kpi-label {
-        color: #aaa; /* Warna abu-abu untuk label */
-        font-size: 0.65rem; /* Ukuran font label KPI */
-        text-transform: uppercase; /* Kapital untuk label */
+        color: #aaa;
+        font-size: 0.65rem;
+        text-transform: uppercase;
     }
     
-    /* Subheader styling - lebih kecil dari judul utama */
-    .stApp h2 { /* Target h2 di luar sidebar */
+    /* Subheader styling */
+    .stApp h2 {
         font-size: 1.3rem !important; 
     }
     
-    .stApp h3 { /* Target h3 di luar sidebar */
+    .stApp h3 {
         font-size: 1.1rem !important;
     }
 
@@ -125,16 +125,16 @@ st.markdown("""
         font-weight: bold;
         border-radius: 5px;
         border: none;
-        padding: 0.3rem 0.6rem; /* Padding lebih kecil */
+        padding: 0.3rem 0.6rem;
         transition: all 0.3s;
     }
     .stButton > button:hover {
         background-color: #e4b308;
-        transform: translateY(-2px); /* Efek angkat saat hover */
+        transform: translateY(-2px);
     }
 
-    /* Container utama Streamlit: atur padding atas-bawah */
-    .css-1lcbmhc.e1tzin5v0 { /* Ini adalah selector umum, mungkin perlu disesuaikan jika Streamlit update */
+    /* Container utama Streamlit */
+    .css-1lcbmhc.e1tzin5v0 {
         padding-top: 0.5rem;
         padding-bottom: 0.5rem;
     }
@@ -143,17 +143,17 @@ st.markdown("""
     .vertical-divider {
         border-left: 1px solid #333;
         height: 100%;
-        margin: 0 1rem; /* Jarak kiri-kanan */
+        margin: 0 1rem;
     }
     
     /* Column with border */
     .chart-container {
-        padding-right: 1rem; /* Padding di kanan untuk chart kiri */
-        border-right: 1px solid #333; /* Garis pemisah */
+        padding-right: 1rem;
+        border-right: 1px solid #333;
     }
     
     .chart-container-right {
-        padding-left: 1rem; /* Padding di kiri untuk chart/konten kanan */
+        padding-left: 1rem;
     }
 
     /* Styling untuk detail film terbaik di dalam expander */
@@ -164,7 +164,7 @@ st.markdown("""
         background-color: #282c34; 
         border-radius: 4px; 
         color: #e0e0e0; 
-        font-size: 0.9rem; /* Ukuran font sedikit lebih kecil untuk konten expander */
+        font-size: 0.9rem;
     }
     .film-detail-expander-card strong {
         color: #f5c518; 
@@ -178,16 +178,16 @@ st.markdown("""
     .stExpander {
         border: 1px solid #333 !important;
         border-radius: 5px !important;
-        margin-bottom: 8px !important; /* Jarak antar expander */
+        margin-bottom: 8px !important;
     }
     .stExpander header {
-        padding: 0.4rem 0.6rem !important; /* Padding header expander lebih kecil */
-        background-color: #2a2a2a !important; /* Warna latar header expander */
-        color: #f0f0f0 !important; /* Warna teks header expander */
-        font-size: 0.95rem !important; /* Ukuran font header expander */
+        padding: 0.4rem 0.6rem !important;
+        background-color: #2a2a2a !important;
+        color: #f0f0f0 !important;
+        font-size: 0.95rem !important;
     }
     .stExpander header:hover {
-        background-color: #383838 !important; /* Warna latar header expander saat hover */
+        background-color: #383838 !important;
     }
 
 </style>
@@ -198,100 +198,83 @@ st.markdown("""
 def load_data():
     """Memuat dan menyiapkan dataset IMDb"""
     try:
-        # Mencoba memuat dari 'data_final.csv' terlebih dahulu
         df = pd.read_csv('data_final.csv')
         
-        # Mengganti nama kolom agar konsisten
         df = df.rename(columns={
             'Name': 'Title',
             'Directors': 'Director',
             'Actors': 'Stars',
             'Rating': 'IMDb-Rating',
-            'Genres': 'Category', # Ini akan di-split menjadi 'Genre' individual
+            'Genres': 'Category',
             'Year': 'ReleaseYear'
         })
         
-        # Tambahkan kolom yang mungkin tidak ada di dataset baru, dengan nilai default
         if 'Censor-board-rating' not in df.columns:
             df['Censor-board-rating'] = 'Not Rated' 
             
     except FileNotFoundError:
-        # Jika 'data_final.csv' tidak ditemukan, coba 'IMDb_Data_final.csv'
         try:
             df = pd.read_csv('IMDb_Data_final.csv')
-            # Asumsikan dataset lama mungkin memiliki nama kolom yang berbeda atau perlu penyesuaian serupa
         except FileNotFoundError:
             st.error("File 'data_final.csv' atau 'IMDb_Data_final.csv' tidak ditemukan.")
-            return pd.DataFrame(), pd.DataFrame() # Kembalikan DataFrame kosong
+            return pd.DataFrame(), pd.DataFrame()
 
-    # Konversi 'ReleaseYear' ke numerik, paksa error menjadi NaN, lalu hapus baris dengan NaN di 'ReleaseYear'
     df['ReleaseYear'] = pd.to_numeric(df['ReleaseYear'], errors='coerce')
     df.dropna(subset=['ReleaseYear'], inplace=True)
     
-    # Periksa apakah kolom 'ReleaseYear' kosong setelah konversi dan penghapusan NaN
     if df['ReleaseYear'].empty:
         st.warning("Kolom 'ReleaseYear' tidak memiliki data numerik yang valid setelah dibersihkan.")
-        return pd.DataFrame(), pd.DataFrame() # Kembalikan DataFrame kosong
+        return pd.DataFrame(), pd.DataFrame()
 
-    df['ReleaseYear'] = df['ReleaseYear'].astype(int) # Konversi ke integer
-    df['Decade'] = (df['ReleaseYear'] // 10) * 10 # Hitung dekade
-    df['Decade_Label'] = df['Decade'].astype(str) + 's' # Buat label dekade
+    df['ReleaseYear'] = df['ReleaseYear'].astype(int)
+    df['Decade'] = (df['ReleaseYear'] // 10) * 10
+    df['Decade_Label'] = df['Decade'].astype(str) + 's'
 
-    # Fungsi untuk membersihkan kolom 'Duration'
     def clean_duration(duration_str):
         if pd.isna(duration_str):
             return None
-        if isinstance(duration_str, (int, float)): # Jika sudah numerik
+        if isinstance(duration_str, (int, float)):
             return duration_str
         cleaned = str(duration_str).replace('min', '').strip()
         try:
             return int(cleaned)
         except ValueError:
-            return None # Kembalikan None jika tidak bisa dikonversi
+            return None
             
     df['Duration_Clean'] = df['Duration'].apply(clean_duration)
 
-    # Memperluas baris berdasarkan genre (jika 'Category' berisi multiple genre dipisah koma)
     genres_expanded = []
     for idx, row in df.iterrows():
         if pd.notna(row['Category']):
             genres = str(row['Category']).split(',')
-            for genre_item in genres: # Ganti nama variabel agar tidak konflik dengan 'genre' di luar loop
+            for genre_item in genres:
                 new_row = row.copy()
-                new_row['Genre'] = genre_item.strip() # Buat kolom 'Genre' baru dengan satu genre
-                if new_row['Genre']: # Pastikan genre tidak kosong setelah strip
+                new_row['Genre'] = genre_item.strip()
+                if new_row['Genre']:
                     genres_expanded.append(new_row)
         else:
-            # Jika 'Category' kosong, tandai sebagai 'Unknown'
             new_row = row.copy()
             new_row['Genre'] = 'Unknown'
             genres_expanded.append(new_row)
 
     if not genres_expanded:
-        # Jika tidak ada genre yang bisa diekstrak, buat DataFrame kosong dengan kolom yang diharapkan
         df_expanded = pd.DataFrame(columns=list(df.columns) + ['Genre'])
     else:
         df_expanded = pd.DataFrame(genres_expanded)
 
-    # Hapus baris dengan 'Duration_Clean' NaN jika kolom tersebut ada
     if 'Duration_Clean' in df_expanded.columns:
         df_expanded = df_expanded.dropna(subset=['Duration_Clean'])
-    # Hapus baris dengan 'Genre' kosong jika kolom tersebut ada
     if 'Genre' in df_expanded.columns:
         df_expanded = df_expanded[df_expanded['Genre'] != '']
 
-    # Pastikan kolom IMDb-Rating adalah numerik
     if 'IMDb-Rating' in df_expanded.columns:
         df_expanded['IMDb-Rating'] = pd.to_numeric(df_expanded['IMDb-Rating'], errors='coerce')
-        # Anda mungkin ingin menghapus NaN di IMDb-Rating di sini jika diperlukan untuk beberapa kalkulasi
-        # df_expanded.dropna(subset=['IMDb-Rating'], inplace=True) 
 
-    return df, df_expanded # Kembalikan DataFrame asli dan yang sudah diperluas
+    return df, df_expanded
 
 
 df_original, df_expanded = load_data()
 
-# Peta warna untuk genre, bisa ditambahkan jika ada genre baru
 genre_color_map = {
     'Drama': '#E53935', 'Action': '#1E88E5', 'Comedy': '#FFB300', 
     'Crime': '#546E7A', 'Thriller': '#8E24AA', 'Romance': '#D81B60', 
@@ -306,7 +289,6 @@ genre_color_map = {
 }
 
 
-# Pemeriksaan data awal
 if df_original.empty or df_expanded.empty or 'ReleaseYear' not in df_expanded.columns or df_expanded['ReleaseYear'].empty:
     st.warning("Gagal memuat atau memproses data, atau data tahun tidak tersedia. Tidak ada yang bisa ditampilkan.")
     st.markdown(f"""
@@ -322,6 +304,7 @@ else:
 
     with st.sidebar:
         st.header("Filter Dashboard")
+        st.info("Filter akan diterapkan ke seluruh visualisasi dan statistik dalam dashboard ini.")
 
         if 'slider_year_range' not in st.session_state:
             st.session_state.slider_year_range = (min_year_data_available, max_year_data_available)
@@ -459,23 +442,22 @@ else:
             f'</div>',
             unsafe_allow_html=True
         )
-    # --- MODIFIED KPI: Film Rating Tertinggi ---
     with kpi_col4:
         top_rated_film_title = "N/A"
         top_rated_film_rating = ""
+        top_rated_film_year = ""
         if not df_filtered.empty and 'IMDb-Rating' in df_filtered.columns and 'Title' in df_filtered.columns:
-            # Pastikan IMDb-Rating adalah numerik dan hapus NaN sebelum mencari max
             df_temp_rating = df_filtered.copy()
             df_temp_rating['IMDb-Rating'] = pd.to_numeric(df_temp_rating['IMDb-Rating'], errors='coerce')
             df_temp_rating.dropna(subset=['IMDb-Rating', 'Title'], inplace=True)
 
             if not df_temp_rating.empty:
-                # Urutkan berdasarkan rating (tertinggi dulu), lalu berdasarkan tahun (terbaru dulu jika rating sama)
-                # Ambil film unik berdasarkan judul, pertahankan yang pertama (rating tertinggi)
-                top_film_series = df_temp_rating.sort_values(by=['IMDb-Rating', 'ReleaseYear'], ascending=[False, False]).drop_duplicates(subset=['Title'], keep='first')
+                top_film_series = df_temp_rating.sort_values(
+                    by=['IMDb-Rating', 'Title'], 
+                    ascending=[False, True]
+                ).drop_duplicates(subset=['Title'], keep='first')
                 
                 if not top_film_series.empty:
-                    # Ambil film dengan rating tertinggi secara keseluruhan dari data yang sudah unik berdasarkan judul
                     highest_rated_film = top_film_series.loc[top_film_series['IMDb-Rating'].idxmax()]
                     top_rated_film_title = highest_rated_film['Title']
                     top_rated_film_year = f"{highest_rated_film['ReleaseYear']}"
@@ -484,7 +466,6 @@ else:
         if top_rated_film_year and top_rated_film_title != "N/A":
             display_value = f"{top_rated_film_title} ({top_rated_film_year})"
         
-        # Atur font size agar lebih kecil jika judul terlalu panjang
         font_size_style = "font-size:1.1rem;" if len(top_rated_film_title) < 25 else "font-size:0.9rem;"
 
         st.markdown(
@@ -494,7 +475,6 @@ else:
             f'</div>',
             unsafe_allow_html=True
         )
-    # --- END OF MODIFIED KPI ---
 
     st.markdown("<hr style='margin-top:0.5rem; margin-bottom:0.5rem;'>", unsafe_allow_html=True)
 
@@ -611,8 +591,10 @@ else:
                         show_hist=False, show_rug=False, bin_size=0.2 
                     )
                     fig_dist_rating.update_layout(
-                        xaxis_title='Rating IMDb', yaxis_title='Kepadatan',
-                        plot_bgcolor='rgba(0,0,0,0)', paper_bgcolor='rgba(0,0,0,0)',
+                        xaxis_title='Rating IMDb', 
+                        yaxis_title='Kepadatan',
+                        plot_bgcolor='rgba(0,0,0,0)', 
+                        paper_bgcolor='rgba(0,0,0,0)',
                         legend_title_text='Genre',
                         height=300,
                         margin=dict(l=10, r=20, t=10, b=10), 
@@ -627,7 +609,6 @@ else:
             st.info("Tidak cukup data (kolom 'Genre' atau 'IMDb-Rating' hilang/kosong) untuk menampilkan distribusi rating.")
         st.markdown('</div>', unsafe_allow_html=True)
 
-    # --- MODIFIED SECTION: Film Terbaik per Genre menggunakan st.expander ---
     with vis_row2_col2:
         st.markdown('<div class="chart-container-right">', unsafe_allow_html=True)
         st.subheader("🏆 Film Terbaik per Genre")
@@ -647,7 +628,10 @@ else:
                         genre_films_df['ReleaseYear'] = pd.to_numeric(genre_films_df['ReleaseYear'], errors='coerce')
                         genre_films_df.dropna(subset=['IMDb-Rating', 'Title', 'ReleaseYear'], inplace=True)
 
-                        top_film = genre_films_df.sort_values(by='IMDb-Rating', ascending=False).head(1)
+                        top_film = genre_films_df.sort_values(
+                            by=['IMDb-Rating', 'Title'], 
+                            ascending=[False, True]
+                        ).head(1)
                         if not top_film.empty:
                             film_row = top_film.iloc[0]
                             title = film_row.get('Title', 'N/A')
@@ -723,10 +707,8 @@ else:
 
         st.markdown('</div>', unsafe_allow_html=True)
 
-    # --- END OF MODIFIED SECTION ---
     st.markdown("<hr style='margin-top:0.5rem; margin-bottom:0.5rem;'>", unsafe_allow_html=True)
 
-# Footer
 st.markdown("""
 <div style="text-align: center; color: #666; padding-bottom: 0.5rem; font-size: 0.8rem;">
     <p>Sumber Data: https://www.imdb.com/ | Dashboard interaktif ini dibuat oleh Kelompok 11.</p>
